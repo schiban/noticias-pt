@@ -1,4 +1,355 @@
 {
-  "updated": "2026-01-01T00:00:00+00:00",
-  "articles": []
+  "updated": "2026-06-17T16:36:59.968630+00:00",
+  "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A saga para encontrar um adepto português no NRG Stadium",
+      "link": "https://observador.pt/programas/reportagem-observador/a-saga-para-encontrar-um-adepto-portugues-no-nrg-stadium/",
+      "pubDate": "Wed, 17 Jun 2026 17:34:22 +0100",
+      "description": "As camisolas de Portugal estão em larga vantagem no NRG Stadium, mas é dificílimo encontrar quem fale português. A Seleção conta com forte apoio de todas as partes do mundo. Congoleses fazem a festa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150604/770-podcast-reportagem-observador.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sentença de jovem acusado de instigar massacres adiada",
+      "link": "https://observador.pt/2026/06/17/tribunal-da-feira-adia-para-1-de-julho-sentenca-de-jovem-que-alegadamente-instigou-massacres-em-escolas-brasileiras/",
+      "pubDate": "Wed, 17 Jun 2026 17:33:49 +0100",
+      "description": "A leitura do acórdão que estava marcada para quarta-feira foi adiada devido à comunicação à defesa de uma alteração não substancial dos factos da acusação do Ministério Público (MP).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1140:640:nowe:92:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/10/18190042/GettyImages-846745002_1280x640_acf_cropped.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 17h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2216/",
+      "pubDate": "Wed, 17 Jun 2026 17:28:49 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O consenso político em Portugal só funciona para o futebol?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/o-consenso-politico-em-portugal-so-funciona-para-o-futebol/",
+      "pubDate": "Wed, 17 Jun 2026 17:26:50 +0100",
+      "description": "Entre convites para ver a seleção e horários alterados no Parlamento, os líderes partidários mostram uma união rara. Na reforma laboral, aproximação entre Governo e Chega \"cozinha\" o acordo?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Antes jogaram os pais, agora jogam os filhos pela Noruega",
+      "link": "https://observador.pt/2026/06/17/mundial-2026-ha-mais-de-30-anos-jogaram-os-pais-agora-jogam-os-filhos-na-selecao-da-noruega/",
+      "pubDate": "Wed, 17 Jun 2026 17:18:48 +0100",
+      "description": "Erling Haaland, Alexander Sørloth e Kristian Thorstvedt participam neste Mundial com a missão de fazer o que os pais não conseguiram há trinta e dois anos: ganhar o título pela seleção.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3960:2229:nowe:0:21/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/26012831/gettyimages-2269564900.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministro da Economia não antevê problemas com fim do visto prévio até porque já acontece com PRR",
+      "link": "https://www.rtp.pt/noticias/economia/ministro-da-economia-nao-anteve-problemas-com-fim-do-visto-previo-ate-porque-ja-acontece-com-prr_n1747657",
+      "pubDate": "Wed, 17 Jun 2026 18:32:22 +0100",
+      "description": "O ministro da Economia disse hoje que não antevê problemas com a dispensa de visto prévio em contratos públicos até 10 milhões de euros até porque já acontece em projetos financiados pelo PRR e sem notícia de problemas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8c078f77af8f420fff7250df63c5d39a?w=350&amp;q=50&amp;rect=0,96,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministério Público arquiva processo Monte Branco 15 anos depois",
+      "link": "https://www.rtp.pt/noticias/economia/ministerio-publico-arquiva-processo-monte-branco-15-anos-depois_n1747682",
+      "pubDate": "Wed, 17 Jun 2026 18:29:14 +0100",
+      "description": "Estavam em investigação crimes de fraude fiscal qualificada e branqueamento de capitais.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "17h Mundial de futebol: já é conhecido o onze de Portugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-mundial-de-futebol-ja-e-conhecido-o-onze-de-portugal_a1_1747711",
+      "pubDate": "Wed, 17 Jun 2026 18:27:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Marta Caride fica-se pela ronda de 64 no florete dos Europeus de esgrima",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/marta-caride-fica-se-pela-ronda-de-64-no-florete-dos-europeus-de-esgrima_d1747709",
+      "pubDate": "Wed, 17 Jun 2026 18:20:59 +0100",
+      "description": "A atiradora Marta Caride ficou-se hoje pela primeira ronda do quadro principal da competição de florete dos Europeus de esgrima, enquanto Catarina Pires se quedou pelas qualificações em Antony, França.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/96/9687f49e7e22b009e28db0294642922a?w=350&amp;q=50&amp;rect=0,470,1638,898&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h30 Benfica e St. Gallen na Liga Europa, 18h estreia Portugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-benfica-e-st-gallen-na-liga-europa-18h-estreia-portugal_a1_1747628",
+      "pubDate": "Wed, 17 Jun 2026 18:17:54 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sp. Braga volta a defrontar o Celta na apresentação aos sócios",
+      "link": "https://maisfutebol.iol.pt/sp-braga/liga/sp-braga-volta-a-defrontar-o-celta-na-apresentacao-aos-socios",
+      "pubDate": "Wed, 17 Jun 2026 17:14:21 +0100",
+      "description": "Clube divulgou plano de jogos para a pré-temporada 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/687bff7dd34e3f0baea0b52f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Portugal-RD Congo (onzes oficiais): Araújo e Veiga como dupla de centrais",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/portugal/portugal-rd-congo-onzes-oficiais-araujo-e-veiga-como-dupla-de-centrais",
+      "pubDate": "Wed, 17 Jun 2026 16:57:00 +0100",
+      "description": "Na ausência de Rúben Dias, defesas de Benfica e Villarreal foram os escolhidos por Roberto Martinez",
+      "thumbnail": "https://img.iol.pt/image/id/6a3253f2d34e28842c853fe8/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Novo recorde: mais de 280 mil adeptos presentes num único dia do Mundial",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/novo-recorde-mais-de-280-mil-adeptos-presentes-num-unico-dia-do-mundial",
+      "pubDate": "Wed, 17 Jun 2026 16:42:35 +0100",
+      "description": "Registo bate marca que já durava desde o Mundial de 1994",
+      "thumbnail": "https://img.iol.pt/image/id/6a31f17fd34edcee7c655c4a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Espanha: apreendidas 16 toneladas de camisolas falsificadas em megaoperação",
+      "link": "https://maisfutebol.iol.pt/internacional/espanha/espanha-apreendidas-16-toneladas-de-camisolas-falsificadas-em-megaoperacao",
+      "pubDate": "Wed, 17 Jun 2026 16:06:13 +0100",
+      "description": "Buscas em várias cidades espanholas terminam com a prisão de 95 pessoas",
+      "thumbnail": "https://img.iol.pt/image/id/6a32b7bcd34e28842c8546c4/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Há um novo cântico que está a conquistar os portugueses: «Só me apetece cantar»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/ha-um-novo-cantico-que-esta-a-conquistar-os-portugueses-so-me-apetece-cantar",
+      "pubDate": "Wed, 17 Jun 2026 15:56:49 +0100",
+      "description": "Grupo de amigos adaptou uma nova letra à popular «Canção do engate» de António Variações e está a ser um sucesso nas redes sociais",
+      "thumbnail": "https://img.iol.pt/image/id/6a32b489d34edcee7c656423/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Montenegro acusa Ventura de ter “um travo comunista”",
+      "link": "https://sapo.pt/artigo/montenegro-acusa-ventura-de-ter-um-travo-comunista-durante-debate-no-parlamento-6a32ba0d002c36b62f183f4e",
+      "pubDate": "Wed, 17 Jun 2026 15:23:07 +0000",
+      "description": "O debate parlamentar ficou marcado pelos ataques da oposição ao Governo de Luís Montenegro, com José Luís Carneiro a criticar o crescimento económico anunciado pelo executivo e a questionar possíveis negociações com o Chega sobre a idade da...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9iVWQ4hWASZvZWqwxpLJMOuEfiz41a%2FQ5H%2B7BkGAAOw7dwI%2Fv%2BbTYDU12jaUNRFLEFaQXV8ccp4T4TtMZfjhjC3olLjASGD2DtaJH3t3ptYzsEQMzZ4qof3Yt034MiTS"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Trump diz que memorando com Irão \"não é final\" e ameaça: \"Se eu não gostar, voltamos a lançar bombas\"",
+      "link": "https://sapo.pt/artigo/trump-diz-que-memorando-com-irao-nao-e-final-e-deixa-ameaca-se-nao-gostar-voltamos-a-lancar-bombas-6a32981e97fd6ae31f83be68",
+      "pubDate": "Wed, 17 Jun 2026 13:11:38 +0000",
+      "description": "A assinatura do memorando de entendimento entre EUA e Irão está agendada para esta sexta-feira na estância de Bürgenstock, na Suíça.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AqAt0eJqH%2B1PPX1jefJFOduf5pU904pN45a%2F1fPfai3w0fYAXKXgmYVSxtqsb7i%2FNmRbAA7J3TYi4qt%2FqfUGFeQQAm%2BtELMAji1lyiTTqvW9DTthulegIom12mc7t5i98"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Médio Oriente: Rangel pede pressão “mais firme” da União Europeia sobre Israel",
+      "link": "https://executivedigest.sapo.pt/medio-oriente-rangel-pede-pressao-mais-firme-da-uniao-europeia-sobre-israel/",
+      "pubDate": "Wed, 17 Jun 2026 11:23:21 +0000",
+      "description": "O ministro dos Negócios Estrangeiros português considerou hoje que a União Europeia deveria \"ser mais firme\" na pressão sobre Israel, lamentando que os 27 não tenham aprovado sanções contra dois ministros de extrema-direita, que são \"fator de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ATA%2B7noKnBLGMhwpAoXeAmewfZIEqHKUsempTD8%2F4VdrhwIDP3h6LdjclDupl%2FKLahCKISTSoQrgOHb%2FuBKJlt1673qkllYZMl4c6fRejzyidhxg%2BT6I%2BThdq7p1KAWpp"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Cartoon repetido, pergunta semelhante: polémica no exame nacional de Português chega ao Governo",
+      "link": "https://executivedigest.sapo.pt/cartoon-repetido-pergunta-semelhante-polemica-no-exame-nacional-de-portugues-chega-ao-governo/",
+      "pubDate": "Wed, 17 Jun 2026 15:23:07 +0000",
+      "description": "Questão, relativa à análise crítica do cartoon “Child Labor”, do artista iraniano J. J. Takjoo, integra o grupo III da prova realizada esta terça-feira",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=462&W=823&crop=center&delay_optim=1&epic=V2%3A%2BEhv7gUaUOtVt7onJDw4Mq6Iu25%2F5PXrCf%2BDPAXoB8u9G49H3bLKNVbiAG6NtGxlAVlJpsr98mlK2WlduHpa2yNfthqQhXar8UAUihAtLgXFrhLWslPML36T%2BpSKC8hz"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "O onze de Portugal para a estreia no Mundial 2026: Tomás Araújo faz dupla com Renato Veiga",
+      "link": "https://sapo.pt/artigo/o-onze-de-portugal-para-a-estreia-no-mundial-2026-6a32c12ae8bab651cd931fa5",
+      "pubDate": "Wed, 17 Jun 2026 15:53:21 +0000",
+      "description": "Equipa das quinas defronta a RD Congo",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A%2Bf1kJ23%2F1A9DuVO%2Bk1MDylgiiaop3INu4jdyCeNOyKefOo54SVUT0gyjz0s4QBhSCRlaLgQ%2Bh3EqCBcuOjISZFr7kOE8BUpELn%2FjpQsJWrw%2FwR%2F9reppScTrlG6u%2BTPI"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Livre apresenta requerimento para ouvir a ministra do Trabalho sobre PSU",
+      "link": "https://www.noticiasaominuto.com/politica/3006932/livre-apresenta-requerimento-para-ouvir-a-ministra-do-trabalho-sobre-psu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-17 17:36:11",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_622499c1adff0.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Costa faz \"breves contactos diplomáticos\" para comunicar com Rússia",
+      "link": "https://www.noticiasaominuto.com/mundo/3006911/costa-faz-breves-contactos-diplomaticos-para-comunicar-com-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-17 17:35:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c58926e0b07.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIzMn19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Portugal está a ficar para trás na adoção de \"tecnologias avançadas\"",
+      "link": "https://www.noticiasaominuto.com/tech/3006931/portugal-esta-a-ficar-para-tras-na-adocao-de-tecnologias-avancadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-17 17:34:53",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45421084.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Detido suspeito de agredir e ameaçar de morte a companheira em Águeda",
+      "link": "https://www.noticiasaominuto.com/pais/3006926/detido-suspeito-de-agredir-e-ameacar-de-morte-a-companheira-em-agueda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-17 17:33:18",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68625829366c9.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EasyJet Portugal pede flexibilidade na gestão do controlo aeroportuário",
+      "link": "https://www.noticiasaominuto.com/economia/3006920/easyjet-portugal-pede-flexibilidade-na-gestao-do-controlo-aeroportuario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-17 17:31:57",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/20509395.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "E-goi transformou comportamento em receita e o Intermarché aumentou as vendas",
+      "link": "https://pplware.sapo.pt/internet/e-goi-transformou-comportamento-em-receita-e-o-intermarche-aumentou-as-vendas/",
+      "pubDate": "Wed, 17 Jun 2026 16:30:02 +0000",
+      "description": "Com Inteligência Artificial (IA), hipersegmentação e uma visão 360º do cliente, a E-goi ajudou o Intermarché a aumentar em 7% as vendas das categorias impactadas e em 280% os registos de clientes identificados. Durante&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/03/supermercado_hipermercado-1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "60% das pessoas acham que mencionar “IA” na comunicação das marcas é desmotivador",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/60-das-pessoas-acham-que-mencionar-ia-na-comunicacao-das-marcas-e-desmotivador/",
+      "pubDate": "Wed, 17 Jun 2026 16:00:43 +0000",
+      "description": "Um novo estudo revela que a presença excessiva de inteligência artificial (IA) na comunicação das marcas está a gerar desconfiança e a afastar os consumidores. A rejeição da IA na comunicação Segundo um relatório&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/chatbots_IA.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Commodore regressa com um telemóvel dobrável que bloqueia redes sociais e navegador",
+      "link": "https://pplware.sapo.pt/gadgets/commodore-regressa-com-um-telemovel-dobravel-que-bloqueia-redes-sociais-e-navegador/",
+      "pubDate": "Wed, 17 Jun 2026 14:49:48 +0000",
+      "description": "A histórica marca Commodore anunciou um novo equipamento que pretende combater a dependência dos smartphones. Chama-se Callback 8020 e é um telemóvel dobrável baseado em Linux que elimina, por defeito, o acesso a redes&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/commodore_phone00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Como a Porsche está a melhorar a experiência de condução de todos os modelos Taycan",
+      "link": "https://pplware.sapo.pt/motores/como-a-porsche-esta-a-melhorar-a-experiencia-de-conducao-de-todos-os-modelos-taycan/",
+      "pubDate": "Wed, 17 Jun 2026 14:00:51 +0000",
+      "description": "A Porsche está a melhorar a experiência de condução de todos os modelos Taycan, com o novo sistema E-Shift e o Electric Sport Sound a garantirem uma ligação intensa entre o condutor e o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/porsche-taycan-experiencia-conducao1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Android 17: Google expande controlos parentais a todos os smartphones",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/android-17-google-expande-controlos-parentais-a-todos-os-smartphones/",
+      "pubDate": "Wed, 17 Jun 2026 13:00:27 +0000",
+      "description": "A Google confirmou que vai alargar as ferramentas de bem-estar digital a todo o ecossistema de smartphones e tablets. Os controlos parentais, um exclusivo para a linha de equipamentos Pixel, passam agora a estar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/Balance_screen_time_hero.width-1200.format-webp.webp"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1, Jacques Villeneuve: “A Ferrari tem de se focar no Lewis Hamilton se quiser ter uma pequena hipótese de vencer”",
+      "link": "https://www.autosport.pt/sem-categoria/f1-jacques-villeneuve-a-ferrari-tem-de-se-focar-no-lewis-hamilton-se-quiser-ter-uma-pequena-hipotese-de-vencer/",
+      "pubDate": "Wed, 17 Jun 2026 16:10:07 +0000",
+      "description": "Jacques Villeneuve considera que a Ferrari deve concentrar os seus esforços em Lewis Hamilton se quiser ter alguma hipótese de conquistar o título de pilotos de 2026. Hamilton venceu o Grande Prémio de Barcelona, a sua primeira vitória pela Ferrari, reduzindo para 41 pontos a diferença para o líder ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC: Hankook estreia pneu revisto no Rali da Grécia, após críticas em Portugal",
+      "link": "https://www.autosport.pt/ralis/wrc-hankook-estreia-pneu-revisto-no-rali-da-grecia-apos-criticas-em-portugal/",
+      "pubDate": "Wed, 17 Jun 2026 16:09:16 +0000",
+      "description": "As equipas do Mundial de Ralis vão dispor de um pneu revisto já no Rali da Grécia, que arranca a sequência de sete provas consecutivas em terra. A Hankook atualizou o composto duro após críticas à durabilidade no Rali de Portugal.Segundo a marca sul-coreana, a principal alteração incide na espessura",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Mercedes é ouvida pela FIA dia 20 sobre o recurso relativo ao GP do Mónaco",
+      "link": "https://www.autosport.pt/formula1/f1-mercedes-e-ouvida-pela-fia-dia-20-sobre-o-recurso-relativo-ao-gp-do-monaco/",
+      "pubDate": "Wed, 17 Jun 2026 15:22:40 +0000",
+      "description": "A FIA confirmou ter recebido o recurso da Mercedes relativo à decisão de alterar o resultado do Grande Prémio do Mónaco de 2026. A audiência está agendada para sábado, 20 de junho de 2026, e decorrerá por videoconferência. Na origem da situação está um protesto da Alpine, que resultou na anulação da",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Jacques Villeneuve viu George Russell “mentalmente derrotado” em Barcelona",
+      "link": "https://www.autosport.pt/formula1/f1-jacques-villeneuve-viu-george-russell-mentalmente-derrotado-em-barcelona/",
+      "pubDate": "Wed, 17 Jun 2026 14:51:06 +0000",
+      "description": "O campeão mundial de Fórmula 1 de 1997, Jacques Villeneuve, afirmou que George Russell pareceu &#8220;mentalmente derrotado&#8221; durante o Grande Prémio de Barcelona, à medida que Kimi Antonelli foi aumentando a pressão. Russell partiu da pole position, mas acabou por ser ultrapassado por Antonell",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Red Bull não concorda com avaliação ADUO",
+      "link": "https://www.autosport.pt/formula1/f1-red-bull-nao-concorda-com-avaliacao-aduo/",
+      "pubDate": "Wed, 17 Jun 2026 14:23:00 +0000",
+      "description": "Os resultados da avaliação do primeiro período ADUO da Fórmula 1 continuam a dominar as conversas nos bastidores. A FIA comunicou os dados a todos os fabricantes no Mónaco, mas o anúncio público ainda está pendente, uma vez que a Red Bull-Ford Powertrains contestou os resultados iniciais e solicitou",
+      "thumbnail": ""
+    }
+  ]
 }
