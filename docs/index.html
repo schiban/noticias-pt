@@ -172,7 +172,7 @@ async function loadFeeds() {
   document.getElementById('feed').innerHTML = [1,2,3,4,5].map(() =>
     `<div class="skel"><div class="skel-line" style="width:30%"></div><div class="skel-line" style="width:80%"></div><div class="skel-line" style="width:55%"></div></div>`).join('');
   try {
-    const res = await fetch('feeds.json?t=' + Date.now());
+    const res = await fetch('https://raw.githubusercontent.com/schiban/noticias-pt/main/docs/feeds.json?t=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
     allArticles = data.articles || [];
