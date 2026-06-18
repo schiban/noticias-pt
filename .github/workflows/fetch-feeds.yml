@@ -2,8 +2,8 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # a cada 30 minutos
-  workflow_dispatch: # permite correr manualmente
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -18,7 +18,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add docs/feeds.json
           git diff --staged --quiet || git commit -m "chore: update feeds $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git push origin HEAD:main --force
