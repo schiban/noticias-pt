@@ -1,13 +1,43 @@
 {
-  "updated": "2026-06-20T14:40:50.270737+00:00",
+  "updated": "2026-06-20T16:14:55.274358+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 15h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2370/",
-      "pubDate": "Sat, 20 Jun 2026 15:20:08 +0100",
+      "title": "Francesco Bagnaia vence corrida sprint e líder Bezzecchi cai",
+      "link": "https://observador.pt/2026/06/20/francesco-bagnaia-vence-corrida-sprint-e-lider-bezzecchi-cai/",
+      "pubDate": "Sat, 20 Jun 2026 17:10:21 +0100",
+      "description": "Piloto italiano da Ducati venceu a corrida sprint do Grande Prémio da República Checa. O líder do Mundial, Marco Bezzecchi, abandonou devido a queda.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20155550/47321762.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "40 segundos a coroar o ano inteiro: Benfica sagra-se campeão",
+      "link": "https://observador.pt/2026/06/20/40-segundos-a-coroar-o-ano-inteiro-benfica-vence-sporting-quebra-jejum-de-titulos-e-conquista-25-o-campeonato/",
+      "pubDate": "Sat, 20 Jun 2026 16:32:33 +0100",
+      "description": "Depois de uma primeira parte \"morna\", golos de João Rodrigues e Viti no último minuto antes do intervalo desequilibraram em definitivo jogo 3 da final, que carimbou o título com invencibilidade (3-1).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20155925/benfica-hoquei-em-patins.jpeg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Governo deve \"denunciar\" obstáculos colocados pela oposição",
+      "link": "https://observador.pt/programas/atualidade/pinto-luz-governo-deve-denunciar-cascas-de-banana-e-obstaculos-colocados-pela-oposicao/",
+      "pubDate": "Sat, 20 Jun 2026 16:19:47 +0100",
+      "description": "Em entrevista ao Observador, Pinto Luz admite que o Governo pode ser “ainda mais claro” dizendo que o pacote laboral era uma verdadeira reforma que foi sendo destruída para ter mais impacto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20152507/jporfirio-congresso-psd-anadia-dia1-20-06-06-4-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 16h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2277/",
+      "pubDate": "Sat, 20 Jun 2026 16:17:29 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,151 +45,131 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Clara Usón e o trauma dos anos de chumbo da ETA",
-      "link": "https://observador.pt/2026/06/20/clara-uson-e-o-trauma-dos-anos-de-chumbo-da-eta/",
-      "pubDate": "Sat, 20 Jun 2026 14:29:15 +0100",
-      "description": "Romance híbrido, com várias vozes, “As Feras”, de Clara Usón, faz um retrato da época mais negra da atuação da organização terrorista basca e do seu impacto na vida daqueles que a viveram.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:854:480:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18181920/clara-uson.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "14h. Manuel Castro Almeida diz que Chega não é confiável",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2389/",
-      "pubDate": "Sat, 20 Jun 2026 14:14:50 +0100",
-      "description": "O Ministro da Economia afirmou que o Governo fez tudo pela aprovação da reforma laboral e que há linhas que não podem ser ultrapassadas. Ainda neste jornal, abordamos o aumento das temperaturas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dua Lipa. E a noiva vestiu alta-costura Chanel",
-      "link": "https://observador.pt/2026/06/20/e-a-noiva-vestiu-chanel-dua-lipa-e-callum-turner-partilham-fotos-do-casamento-na-sicilia/",
-      "pubDate": "Sat, 20 Jun 2026 14:08:19 +0100",
-      "description": "Depois da cerimónia civil, e da grande festa siciliana, a cantora partilhou as primeiras imagens do vestido de noiva, a primeira grande criação de Matthieu Blazy para a Chanel. Veja as imagens.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1662:936:nowe:474:198/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25120005/gettyimages-2266938856.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Montenegro: \"Futuro político? Estou tudo menos preocupado\"",
-      "link": "https://observador.pt/programas/reportagem-observador/montenegro-futuro-politico-estou-tudo-menos-preocupado/",
-      "pubDate": "Sat, 20 Jun 2026 13:33:15 +0100",
-      "description": "Presidente do PSD afasta cenário de crise política depois do chumbo do pacote laboral. Acusa Ventura de \"falta de coragem\" e Carneiro de estar a tentar obrigar Governo a negociar com o Chega.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3906:2192:nowe:91:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20120327/jporfirio-congresso-psd-anadia-dia1-20-06-01-33-scaled.jpg"
+      "title": "Governo deve denunciar obstáculos e \"cascas de banana\"",
+      "link": "https://observador.pt/2026/06/20/pinto-luz-governo-deve-denunciar-obstaculos-e-cascas-de-banana-da-oposicao-que-travam-o-seu-sucesso/",
+      "pubDate": "Sat, 20 Jun 2026 16:09:24 +0100",
+      "description": "No congresso do PSD, Pinto Luz critica oposições por tentarem \"destruir\" reformas, diz que Chega consegue ser mais socialista do que o PS e promete que Governo não vai \"abandonar o barco\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20152517/jporfirio-congresso-psd-anadia-dia1-20-06-06-5-scaled.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "15h Estreito de Ormuz fechado outra vez",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-estreito-de-ormuz-fechado-outra-vez_a1_1748378",
-      "pubDate": "Sat, 20 Jun 2026 16:24:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "António Rodrigues: \"Não será um congresso de orelhas caídas\"",
+      "link": "https://www.rtp.pt/noticias/politica/antonio-rodrigues-nao-sera-um-congresso-de-orelhas-caidas_n1748401",
+      "pubDate": "Sat, 20 Jun 2026 18:12:00 +0100",
+      "description": "Com a rejeição da proposta de lei laboral bem fresca na memória, o vice-presidente do grupo parlamentar do PSD António Rodrigues recusa que o congresso nacional do partido, que decorre este fim-de-semana em Sangalhos, Anadia, se torne um &quot;congresso de orelhas caídas&quot;, defendendo que será u",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a9a5701d582942b307854a7ee0758b9a?w=350&amp;q=50&amp;rect=1,0,4624,2535&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"Provável ciberataque\" na origem de falsos alertas ao público no Brasil",
-      "link": "https://www.rtp.pt/noticias/mundo/provavel-ciberataque-na-origem-de-falsos-alertas-ao-publico-no-brasil_n1748366",
-      "pubDate": "Sat, 20 Jun 2026 15:54:34 +0100",
-      "description": "A Defesa Civil do Brasil anunciou hoje que o seu sistema de alerta foi desativado na sequência de &quot;uma intrusão&quot; que desencadeou o envio de mensagens falsas para telemóveis, &quot;num provável&quot; ciberataque.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Lei laboral. Ministra do Trabalho condena os que \"votam em função das tendências do TikTok\"",
+      "link": "https://www.rtp.pt/noticias/politica/lei-laboral-ministra-do-trabalho-condena-os-que-votam-em-funcao-das-tendencias-do-tiktok_e1748309",
+      "pubDate": "Sat, 20 Jun 2026 17:56:15 +0100",
+      "description": "Arrancou este sábado o 43.º Congresso do PSD, que se realiza em Anadia (Aveiro) depois de o Chega ter rejeitado a proposta de lei laboral. Luís Montenegro acusou a oposição de &quot;imaturidade&quot; e &quot;falta de coragem&quot;. Já a ministra do Trabalhou criticou quem vota em função &quot;das te",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/73/73536019a0ae1f69fc5771a80a52ef58?w=350&amp;q=50&amp;rect=1,0,4485,2459&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Na Terra de... Pedro Neto",
-      "link": "https://www.rtp.pt/noticias/desporto/na-terra-de-pedro-neto_v1748374",
-      "pubDate": "Sat, 20 Jun 2026 15:40:47 +0100",
-      "description": "Pedro Neto, jogador do Chelsea e convocado de Roberto Martinez para este mundial, nasceu em Viana do Castelo. Trabalhador, divertido e irreverente. É assim que o descrevem na terra que o viu crescer.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/37/376dcee91a820f30d3484dec415f2b67_N.jpg?"
+      "title": "Defesa Tomás Araújo continua ausente do treino de Portugal",
+      "link": "https://www.rtp.pt/noticias/selecao-nacional/defesa-tomas-araujo-continua-ausente-do-treino-de-portugal_d1748395",
+      "pubDate": "Sat, 20 Jun 2026 17:54:58 +0100",
+      "description": "O defesa Tomás Araújo voltou hoje a estar ausente do treino da seleção portuguesa de futebol, que prepara o jogo com o Uzbequistão, da segunda jornada do Grupo K do Mundial2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3a5fe27dd9472c14366e980439616cc3?w=350&amp;q=50&amp;rect=0,728,2229,1222&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "14h Carneiro: Insinuação de coligação com Chega é \"ridícula\"",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-carneiro-insinuacao-de-coligacao-com-chega-e-ridicula_a1_1748373",
-      "pubDate": "Sat, 20 Jun 2026 15:40:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Cristiano Ronaldo e Gonçalo Ramos \"são compatíveis\", alega antigo avançado da seleção",
+      "link": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-ronaldo-e-goncalo-ramos-sao-compativeis-alega-antigo-avancado-da-selecao_d1748393",
+      "pubDate": "Sat, 20 Jun 2026 17:48:34 +0100",
+      "description": "Cristiano Ronaldo e Gonçalo Ramos são compatíveis no ‘onze’ da seleção portuguesa de futebol no Campeonato do Mundo de 2026, segundo Edinho, antigo avançado internacional pela equipa das &#039;quinas&#039;, que destaca ainda as características de Gonçalo Guedes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d1132c54f24ca932ed8be7eea589c3a2?w=350&amp;q=50&amp;rect=0,88,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Parque da Alfândega do Porto é palco do Festival Ibérico",
-      "link": "https://www.rtp.pt/noticias/cultura/parque-da-alfandega-do-porto-e-palco-do-festival-iberico_v1748372",
-      "pubDate": "Sat, 20 Jun 2026 15:39:48 +0100",
-      "description": "O evento pretende aproximar Portugal e Espanha através da cultura e à mesa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e5/e5969322029aa5b49f81fbaedaa8f5b5_N.jpg?"
+      "title": "\"Se quiserem remar connosco, o barco não vai parar\" - Diogo Dalot",
+      "link": "https://www.rtp.pt/noticias/desporto/se-quiserem-remar-connosco-o-barco-nao-vai-parar-diogo-dalot_v1748391",
+      "pubDate": "Sat, 20 Jun 2026 17:44:47 +0100",
+      "description": "Depois do primeiro jogo no mundial de futebol, onde Portugal empatou a uma bola com o Congo, o lateral Diogo Dalot, deu esta tarde uma conferência de imprensa, a partir de Palm Beach, Florida e descreve o ambiente na selecção portuguesa está  %u201Cbom%u201D, mas os primeiros dias após o jogo &quot;",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/37/37c8e4db51b9ae56990b3ca963ea33ed_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Atenção, Brasil: estado físico de Raphinha preocupa",
-      "link": "https://maisfutebol.iol.pt/internacional/raphinha/atencao-brasil-estado-fisico-de-raphinha-preocupa",
-      "pubDate": "Sat, 20 Jun 2026 14:29:00 +0100",
-      "description": "Extremo inicia tratamento e é reavaliado este sábado, após o jogo com o Haiti",
-      "thumbnail": "https://img.iol.pt/image/id/6a36956ed34edcee7c6582dc/250"
+      "title": "OFICIAL: Luís Pinto é o novo treinador do Gil Vicente",
+      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/oficial-luis-pinto-e-o-novo-treinador-do-gil-vicente",
+      "pubDate": "Sat, 20 Jun 2026 17:05:00 +0100",
+      "description": "Técnico de 37 anos assina contrato por três temporadas",
+      "thumbnail": "https://img.iol.pt/image/id/697542ccd34e92a34497f67b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Santa Clara confirma saída de Klismahn para o Neftchi Baku",
-      "link": "https://maisfutebol.iol.pt/santa-clara/liga/oficial-santa-clara-confirma-saida-de-klismahn-para-o-neftchi-baku",
-      "pubDate": "Sat, 20 Jun 2026 14:26:45 +0100",
-      "description": "Clube açoriano publicou mensagem de despedida nas redes sociais",
-      "thumbnail": "https://img.iol.pt/image/id/6a088fc5d34e28842c841bcb/250"
+      "title": "Tomás Araújo ainda ausente... em dia de festa para Gonçalo Ramos",
+      "link": "https://maisfutebol.iol.pt/selecao/selecao-nacional/tomas-araujo-ainda-ausente-em-dia-de-festa-para-goncalo-ramos",
+      "pubDate": "Sat, 20 Jun 2026 16:57:00 +0100",
+      "description": "Avançado cumpre este sábado 26 anos",
+      "thumbnail": "https://img.iol.pt/image/id/6a36b818d34edcee7c6583cc/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Grillitsch exerce opção e deixa o Sp. Braga",
-      "link": "https://maisfutebol.iol.pt/mercado/sp-braga/oficial-grillitsch-exerce-opcao-e-deixa-o-sp-braga",
-      "pubDate": "Sat, 20 Jun 2026 14:06:00 +0100",
-      "description": "Médio internacional austríaco tinha contrato por mais uma temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6988e8aad34e0ec52ec34a66/250"
+      "title": "Hóquei: Benfica vence Sporting e sagra-se campeão nacional",
+      "link": "https://maisfutebol.iol.pt/hoquei-em-patins/20-06-2026/hoquei-benfica-vence-sporting-e-sagra-se-campeao-nacional",
+      "pubDate": "Sat, 20 Jun 2026 16:33:00 +0100",
+      "description": "Águias terminam a Liga sem derrotas, celebram em casa e apontam a recorde do FC Porto",
+      "thumbnail": "https://img.iol.pt/image/id/6a36b254d34edcee7c658397/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Iniciados: campeão FC Porto bate Benfica e fecha época com chave de ouro",
-      "link": "https://maisfutebol.iol.pt/iniciados/fc-porto/iniciados-campeao-fc-porto-bate-benfica-e-fecha-epoca-com-chaves-de-ouro",
-      "pubDate": "Sat, 20 Jun 2026 13:13:00 +0100",
-      "description": "Reviravolta no Estádio Jorge Sampaio na última jornada de apuramento de campeão",
-      "thumbnail": "https://img.iol.pt/image/id/6a368277d34e28842c856462/250"
+      "title": "Departamento de Segurança dos EUA faz publicação sobre seleção e leva com respostas... inconvenientes",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/departamento-de-seguranca-dos-eua-faz-publicacao-sobre-selecao-e-leva-com-respostas-inconvenientes",
+      "pubDate": "Sat, 20 Jun 2026 16:02:00 +0100",
+      "description": "Departamento fez uma alusão entre a campanha da seleção norte-americana no Mundial e o muro fronteiriço com o México. Mais de metade dos jogadores dos Estados Unidos presentes no Mundial têm dupla nacionalidade",
+      "thumbnail": "https://img.iol.pt/image/id/6a2d1560d34edcee7c653977/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: repórter no Bangladesh apresenta notícias com camisola de Portugal (e não só)",
-      "link": "https://maisfutebol.iol.pt/incrivel/mundial2026/video-reporter-do-bangladesh-apresenta-noticias-com-camisola-de-portugal-e-nao-so",
-      "pubDate": "Sat, 20 Jun 2026 12:54:00 +0100",
-      "description": "Apresentadores de programas e repórteres no terreno têm surgido com camisolas de várias seleções. Mas há mais: estudantes reuniram-se em universidade e vibraram com hat-trick de Messi",
-      "thumbnail": "https://img.iol.pt/image/id/6a367dc7d34edcee7c65825b/250"
+      "title": "Dalot revela «conversa de todo o grupo antes do Mundial»",
+      "link": "https://maisfutebol.iol.pt/portugal/selecao/dalot-revela-conversa-de-todo-o-grupo-antes-do-mundial",
+      "pubDate": "Sat, 20 Jun 2026 15:59:00 +0100",
+      "description": "Lateral diz que os jogadores se juntaram para falar de como tinham de estar preparados para o ruído que ia surgir em torno da Seleção Nacional, e em particular de Cristiano Ronaldo",
+      "thumbnail": "https://img.iol.pt/image/id/6a36aa4fd34e28842c856542/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão volta a encerrar Ormuz após ataques de Israel contra o Líbano",
-      "link": "https://sapo.pt/artigo/irao-volta-a-encerrar-ormuz-apos-ataques-de-israel-contra-o-libano-6a36998c068e95a63954465c",
-      "pubDate": "Sat, 20 Jun 2026 13:49:51 +0000",
-      "description": "O Irão anunciou, este sábado, ter voltado a encerrar o tráfego marítimo no Estreito de Ormuz, como consequência da \"violação da promessa por parte do inimigo\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ACcno6GxkprRWURFfl5%2F%2F%2FBe3a2T%2BzbfxxxQd58tr0WEjqgLfwQRwEznz3lJull5S6ykl%2BfENAxwR1Hr5vo%2F%2BzLV%2Bc86X4O%2FmzszP%2Fweo6yWC166Yw3MYQdPtuJyft59i"
+      "title": "Irão volta a fechar estreito de Ormuz após ataques israelitas no Líbano",
+      "link": "https://sapo.pt/artigo/irao-volta-a-fechar-estreito-de-ormuz-apos-ataques-israelitas-no-libano-6a369e9597fd6ae31fb02ae0",
+      "pubDate": "Sat, 20 Jun 2026 15:31:41 +0000",
+      "description": "O Irão voltou a fechar o estratégico estreito de Ormuz, anunciou hoje o exército iraniano, numa retaliação contra ataques de Israel no sul do Líbano, em violação do acordo alcançado com os Estados Unidos",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=538&W=956&crop=center&delay_optim=1&epic=V2%3AJ8QPSLYr4Jyzckaya0aLON%2FNODYeoTqGRK9F7GFpIBk%2B5gyyJ39rtg%2FmLaJn%2FrWUxvUkjRd4dLU5G7zkZmJ8BQBVEIgPK9MA450DBV1mR0ZO7Ps7ql8mIKBkQ31eRi3f"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Assista ao concerto dos Calema no Palco Mundo no Rock in Rio Lisboa",
+      "link": "https://sapo.pt/artigo/em-direto-no-sapo-assista-aos-concertos-do-palco-mundo-no-rock-in-rio-lisboa-6a280bf4918125d5f8e3d272",
+      "pubDate": "Sat, 20 Jun 2026 16:00:10 +0000",
+      "description": "Se não pôde ir ao Parque Tejo, veja aqui os melhores concertos do cartaz nos dias 20, 21, 27 e 28 de junho. O SAPO traz-lhe a emissão do Palco Mundo, em direto, todos os dias.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AAuT6kyD%2BkkZ76i59Wz%2B7gTvilmmj9fNVOvnbdMCpIcNYsErGOoDn2HK4i95riauZ8vcADicohTUL%2FK1H3dckOzlYsuk0lKWGg%2B163QRobmtXxnDrRNgAMhs4XG9Fd8KJ"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +185,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "José Luís Carneiro considera \"ridículas\" insinuações de Montenegro sobre coligação com o Chega",
+      "link": "https://sapo.pt/artigo/jose-luis-carneiro-considera-ridiculas-insinuacoes-de-montenegro-sobre-coligacao-com-o-chega-6a3694d700d73619274f793e",
+      "pubDate": "Sat, 20 Jun 2026 15:30:05 +0000",
+      "description": "O líder do PS reagiu às declarações de Luís Montenegro sobre o chumbo da revisão laboral, na sexta-feira, invertendo a acusação para um \"jogo de máscaras“ entre a AD e o partido de André Ventura. ”Então alguém que andou dias e dias a...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A480d6RxBBcT2AD%2BSGbeoSJbvaAqiic8%2FjHVKDGA5%2Bf7It9tm2O4OvY4RNBKFHsOCfqGPPm%2BWz%2BMdvWd%2BHjP7Y7kpvwn508uKv%2BKHEYde9KG5qrwNUxNMvpm3CpacBll%2F"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Três vencedores e três vencidos da reforma laboral",
       "link": "https://eco.sapo.pt/2026/06/20/tres-vencedores-e-tres-vencidos-da-reforma-laboral/",
       "pubDate": "Sat, 20 Jun 2026 09:06:44 +0000",
@@ -182,74 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AmuPdStIKm4GEyUcK6tQYJvpQOdFZE2m8T8uhz%2BHY2SbYe%2BBRQQvQ5WxA487y9v1PN5YAGvhkmnO5HtWVMx%2F2Id1sYLZnkV9ZjdNSAlzKwG9TkB9Edj4QlPWXlEkYo6pr"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Nobel da Economia defende imposto sobre os mais ricos para diminuir desigualdades",
-      "link": "https://sapo.pt/artigo/nobel-da-economia-defende-imposto-sobre-os-mais-ricos-para-diminuir-desigualdades-6a36664d97fd6ae31f9f1b1c",
-      "pubDate": "Sat, 20 Jun 2026 13:30:08 +0000",
-      "description": "O Prémio Nobel da Economia de 2019 Abhijit Banerjee considerou, em entrevista à agência Lusa, que se deve tributar os mais ricos para diminuir a desigualdade e possibilitar mais margem orçamental para medidas de combate à pobreza",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AM9QwtKkYAB9N2CavQLQx7t5LfHwnaxwiNhaqzvsEIndKg5OO2UjRPbuMy2308yQ6pAIcCdaZvBO9udi1UBOQqThISY%2FTpVzOtbov0XQB7fpHEJXINUC1txwkQ8IKC3tl"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Atenção ao calor: há oito distritos em aviso amarelo durante o fim de semana",
-      "link": "https://sapo.pt/artigo/atencao-ao-calor-ha-oito-distritos-em-aviso-amarelo-durante-o-fim-de-semana-6a365844068e95a639432c80",
-      "pubDate": "Sat, 20 Jun 2026 13:33:53 +0000",
-      "description": "Os distritos estão sob aviso desde as 9h deste sábado até às 18h de segunda-feira. As temperaturas podem mesmo chegar aos 39 graus em Évora.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=461&W=819&crop=center&delay_optim=1&epic=V2%3Ai4g4cRnNKnJQvlnzV3P0AxL6mcKYiLm4KuWZ6ka2Cx16VIX34ZZ5SdVbQN3jI63iMKDpQNBF4lFuw6zBQKq783r1TCzOqirAyhzh5FbSO86Go%2B%2FZ5NU9OBXXsu7sjxky"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Seleção nacional realiza mais um treino ainda com uma baixa no plantel",
+      "link": "https://www.noticiasaominuto.com/desporto/3008600/selecao-nacional-realiza-mais-um-treino-ainda-com-uma-baixa-no-plantel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-20 17:03:06",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a36b8bea9138.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dua Lipa partilha imagens românticas do casamento na Sicília",
-      "link": "https://www.noticiasaominuto.com/fama/3008578/dua-lipa-partilha-imagens-romanticas-do-casamento-na-sicilia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 15:21:40",
+      "title": "Como desentupir o ralo do duche em poucos minutos",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3006726/como-desentupir-o-ralo-do-duche-em-poucos-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-20 17:00:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a369c3ce4bbb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjAwMCwiY3JvcEhlaWdodCI6MzU1NSwiY3JvcFgiOjI4MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a329a79c28fc.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEyMDEsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MjA0OCwiY3JvcEhlaWdodCI6MTE1MiwiY3JvcFgiOjUxMiwiY3JvcFkiOjQzNX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lei laboral. PCP marcha para assinalar \"vitória dos trabalhadores\"",
-      "link": "https://www.noticiasaominuto.com/politica/3008581/lei-laboral-pcp-marcha-para-assinalar-vitoria-dos-trabalhadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 15:18:23",
+      "title": "Shania Twain: \"Estava a fazer coisas muito prejudiciais à saúde\"",
+      "link": "https://www.noticiasaominuto.com/fama/3005412/shania-twain-estava-a-fazer-coisas-muito-prejudiciais-a-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-20 17:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6825b9281c541.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a2ffbea096d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjE2MCwiY3JvcEhlaWdodCI6Mzg0MCwiY3JvcFgiOjMyOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Acompanhe a conferência de imprensa de Diogo Dalot",
-      "link": "https://www.noticiasaominuto.com/desporto/3008580/em-direto-acompanhe-a-conferencia-de-imprensa-da-selecao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 15:08:00",
+      "title": "EM DIRETO: Décimo dia arranca com Gyokeres em ação ante Países Baixos",
+      "link": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-20 16:59:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a369f862beed.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a369fff8d7db.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sobremesas frescas para aguentar os dias de calor? Veja estas 3 receitas",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3005373/sobremesas-frescas-para-aguentar-os-dias-de-calor-veja-estas-3-receitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 14:57:41",
+      "title": "Fernando Alexandre: \"Montenegro recuperou matriz social-democrata\"",
+      "link": "https://www.noticiasaominuto.com/politica/3008599/fernando-alexandre-montenegro-recuperou-matriz-social-democrata#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-20 16:46:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a2fed544a734.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU3LCJjcm9wSGVpZ2h0IjoxNDM4LCJjcm9wWCI6MywiY3JvcFkiOjQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo5MzgsImNyb3BZIjoyMzZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e3611852269.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU3OCwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Combates no Líbano continuam apesar de trégua",
-      "link": "https://www.noticiasaominuto.com/mundo/3008579/combates-no-libano-continuam-apesar-de-tregua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 14:53:51",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69e12cb952cdb.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Carros elétricos com menos 10% de autonomia WLTP podem ser considerados defeituosos",
+      "link": "https://pplware.sapo.pt/motores/carros-eletricos-com-menos-10-de-autonomia-wltp-podem-ser-considerados-defeituosos/",
+      "pubDate": "Sat, 20 Jun 2026 15:44:00 +0000",
+      "description": "A autonomia anunciada pelos fabricantes de carros elétricos através do ciclo WLTP passou a ter um peso ainda maior para os consumidores. Um tribunal decidiu que uma diferença superior a 10% entre a autonomia&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/eletrico_x01.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Vários Apple Watches antigos ficam de fora da nova Siri AI. Apple explica porquê",
+      "link": "https://pplware.sapo.pt/gadgets/iphone/varios-apple-watches-antigos-ficam-de-fora-da-nova-siri-ai/",
+      "pubDate": "Sat, 20 Jun 2026 15:00:10 +0000",
+      "description": "A Apple revelou recentemente quais os modelos do Apple Watch que vão suportar a nova Siri com inteligência artificial (IA), mas a justificação para a exclusão de modelos anteriores continua a gerar dúvidas entre&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/apple_watch_se_3_plastico_0.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,44 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/IA_ubuntu_2.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Fisioterapia remota chega ao SNS com a ajuda de empresa tecnológica portuguesa",
-      "link": "https://pplware.sapo.pt/ciencia/fisioterapia-remota-chega-ao-sns-com-a-ajuda-de-uma-empresa-tecnologica-portuguesa/",
-      "pubDate": "Sat, 20 Jun 2026 10:00:48 +0000",
-      "description": "O Serviço Nacional de Saúde (SNS) vai começar a oferecer fisioterapia remota assistida por Inteligência Artificial (IA), através de uma parceria com a Sword Health, sem qualquer custo para os utentes. A Sword Health,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/fisioterapia-remota-sword-health04.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Ferrari leva atualizações importantes para a Áustria",
+      "link": "https://www.autosport.pt/sem-categoria/f1-ferrari-leva-atualizacoes-importantes-para-a-austria/",
+      "pubDate": "Sat, 20 Jun 2026 15:28:06 +0000",
+      "description": "A Ferrari prepara a introdução de uma nova unidade motriz na Fórmula 1, possivelmente já no Grande Prémio da Áustria, dependendo da aprovação da FIA. A atualização surge após a vitória de Lewis Hamilton em Barcelona e visa reduzir a desvantagem face à Mercedes. A nova unidade motriz, designada 067/6",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Descoberta falha grave que afeta o iPhone! Apple não tem como a resolver",
-      "link": "https://pplware.sapo.pt/apple/descoberta-falha-grave-que-afeta-o-iphone-apple-nao-tem-como-a-resolver/",
-      "pubDate": "Sat, 20 Jun 2026 09:00:41 +0000",
-      "description": "A Apple emitiu um alerta aos donos de vários modelos antigos de iPhone. Isto acontece após os investigadores de segurança terem revelado uma vulnerabilidade particularmente preocupante. A falha afeta os dispositivos equipados com os&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/iphone_hackers.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPR, Rali de Castelo Branco/PEC9: Grande luta pelo lugar mais baixo do pódio",
+      "link": "https://www.autosport.pt/ralis/cpr-rali-de-castelo-branco-pec9-grande-luta-pelo-lugar-mais-baixo-do-podio/",
+      "pubDate": "Sat, 20 Jun 2026 15:15:08 +0000",
+      "description": "Nova vitória em troços para Rúben Rodrigues-Rui Raimundo (Toyota GR Yaris Rally2), que bateram João Barros-Jorge Henriques (Skoda Fabia RS Rally2) por 8.1s. Pedro Meireles-Mário Castro (Skoda Fabia RS Rally2) foram terceiros 3.7s mais atrás.Na geral, João Barros está agora a 33.5s de Rúben Rodrigues",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Mercedes terá encontrado motivo da falta de fiabilidade",
+      "link": "https://www.autosport.pt/formula1/f1-mercedes-tera-encontrado-motivo-da-falta-de-fiabilidade/",
+      "pubDate": "Sat, 20 Jun 2026 15:13:48 +0000",
+      "description": "A Mercedes enfrenta problemas de fiabilidade na temporada 2026, com abandonos recentes de George Russell e Kimi Antonelli nas últimas corridas. A equipa alemã acredita ter identificado a origem das falhas antes do Grande Prémio da Áustria. Os problemas afetaram significativamente a Mercedes em duas ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rali Castelo Branco, PEC8: João Barros vence, mas Rúben Rodrigues gere",
+      "link": "https://www.autosport.pt/ralis/rali-castelo-branco-pec8-joao-barros-vence-mas-ruben-rodrigues-gere/",
+      "pubDate": "Sat, 20 Jun 2026 14:42:41 +0000",
+      "description": "A segunda passagem pelo troço de Vila Velha de Ródão voltou a sorrir a João Barros-Jorge Henriques (Skoda Fabia RS Rally2) que voltaram a vencer no curto troço, onde a dupla já se tinha destacado durante a manhã. Com o tempo de 3:18.5, foram 0,5 segundos mais rápidos que Rúben Rodrigues-Rui Raimundo",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/ralis/rali-castelo-branco-joao-barros-o-ruben-esta-muito-forte/",
       "pubDate": "Sat, 20 Jun 2026 13:38:24 +0000",
       "description": "João Barros era até meio da manhã o piloto mais próximo de pressionar a liderança de Rúben Rodrigues. No entanto, depois da PEC6, onde perdeu 11 segundos para o líder, Barros viu as esperanças de tentar a vitória esfumarem-se. Apesar disso, continua a fazer uma prova sólida, regular e com um andamen",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali de Castelo Branco, Rúben Rodrigues: “Temos feito um bom rally”",
-      "link": "https://www.autosport.pt/ralis/rali-de-castelo-branco-ruben-rodrigues-temos-feito-um-bom-rally/",
-      "pubDate": "Sat, 20 Jun 2026 12:38:11 +0000",
-      "description": "Rúben Rodrigues está no controlo das operações no Rali e Castelo Branco. O líder da prova tem uma margem de mais de 25 segundos para João Barros e durante a tarde, poderá gerir o ritmo, o que já tem feito de alguma forma. No final da manhã, em declarações ao AutoSport, Rodrigues fez o balanço [&#823",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F4 Spain, Aragão: Nacho Tuñón vence corrida 1, Noah Monteiro com excelente recuperação",
-      "link": "https://www.autosport.pt/velocidade/f4-spain-aragao-nacho-tunon-vence-corrida-1-noah-monteiro-com-excelente-recuperacao/",
-      "pubDate": "Sat, 20 Jun 2026 12:06:37 +0000",
-      "description": "Nacho Tuñón venceu a Corrida 1 da F4 Spain em MotorLand Aragão, numa prova marcada por múltiplos períodos de Safety Car e por uma forte recuperação de Noah Monteiro e Maria Neto. Já Max Radek ficou fora de prova bem cedo. Nathan Tye partiu da pole position, graças a uma volta em 1:58.359 na Qualific",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPR, Rali de Castelo Branco/PEC7: Rúben Rodrigues cada vez mais líder",
-      "link": "https://www.autosport.pt/ralis/cpr-rali-de-castelo-branco-pec7-ruben-rodrigues-cada-vez-mais-lider/",
-      "pubDate": "Sat, 20 Jun 2026 11:17:12 +0000",
-      "description": "Manhã concluída no Rali de Castelo Branco e Rúben Rodrigues-Rui Raimundo (Toyota GR Yaris Rally2) têm uma mão na vitória, confirmando até agora o teórico favoritismo que lhes era atribuído. A dupla tem agora 25,9 segundos de vantagem para João Barros-Jorge Henriques (Skoda Fabia RS Rally2) e, apesar",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPR, Rali de Castelo Branco/PEC6: Rúben Rodrigues vence e alarga (muito) a vantagem",
-      "link": "https://www.autosport.pt/ralis/cnr-campeonato-nacional-de-ralis/cpr-rali-de-castelo-branco-pec6-ruben-rodrigues-vence-e-alarga-muito-a-vantagem/",
-      "pubDate": "Sat, 20 Jun 2026 10:18:20 +0000",
-      "description": "Depois de um começo de dia auspicioso de João Barros-Jorge Henriques (Skoda Fabia RS Rally2), as contas do rali parecem praticamente decididas. Rúben Rodrigues-Rui Raimundo (Toyota GR Yaris Rally2) venceram o segundo troço (Rio Ocreza 1 &#8211; 15,44 km) por larga margem e podem agora gerir o andame",
       "thumbnail": ""
     }
   ]
