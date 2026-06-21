@@ -1,55 +1,95 @@
 {
-  "updated": "2026-06-20T23:43:48.112872+00:00",
+  "updated": "2026-06-21T03:45:46.888371+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Governo evita agravar crise e quer amarrar PS à dança a três",
-      "link": "https://observador.pt/especiais/governo-evita-escalar-da-crise-politica-e-tenta-amarrar-ps-de-novo-a-danca-feita-a-tres/",
-      "pubDate": "Sun, 21 Jun 2026 00:40:46 +0100",
-      "description": "Sociais-democratas encaixam derrota infligida pelo Chega e tentam acabar com ideia de que existe um aliado preferencial. Afastar cenário de crise (para já) implica insistir na responsabilização do PS.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20202224/jporfirio-congresso-psd-anadia-dia1-20-06-19-11-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. Santana Lopes volta a ser militante do PSD",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2346/",
-      "pubDate": "Sun, 21 Jun 2026 00:31:05 +0100",
-      "description": "Antigo primeiro ministro e atual presidente da Câmara da Figueira da Foz entrou no congresso poucos minutos antes da meia noite. Ainda, Kier Starmer vai se demitir do governo britânico.",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2323/",
+      "pubDate": "Sun, 21 Jun 2026 04:13:14 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "\"Acabou, Keir\". Ministros preparam ultimato a Keir Starmer",
-      "link": "https://observador.pt/2026/06/20/acabou-keir-ministros-preparam-ultimato-a-keir-starmer-para-provocar-demissao/",
-      "pubDate": "Sat, 20 Jun 2026 23:27:27 +0100",
-      "description": "Media britânicos garantem que Governo de Keir Starmer está pronto para se virar contra o primeiro-ministro. Plano é esperar que se demita até terça-feira; ou quem sai são os seus ministros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20232117/gettyimages-2165022008.jpg"
+      "title": "Quando falta a chave para abrir o Room, brilha Curaçau",
+      "link": "https://observador.pt/2026/06/21/quando-falta-a-chave-para-abrir-a-porta-do-room-brilha-quem-tem-muito-curacau-a-cronica-do-equador-curacau/",
+      "pubDate": "Sun, 21 Jun 2026 03:14:47 +0100",
+      "description": "Segunda jornada, segundo registo histórico: depois de marcar à Alemanha, Curaçau pontuou pela primeira vez em Mundiais, com Room em grande plano. Guardião terminou com um recorde de 15 defesas (0-0).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2960:1662:nowe:0:314/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/21031210/gettyimages-2282039486.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Um panzer para espantar serpentes e caçar os Elefantes",
-      "link": "https://observador.pt/2026/06/20/um-panzer-para-espantar-serpentes-e-cacar-os-elefantes-a-cronica-do-alemanha-costa-do-marfim/",
-      "pubDate": "Sat, 20 Jun 2026 23:22:31 +0100",
-      "description": "Nagelsmann andou entre a crença e a teimosia ao não desfazer ideia tática que pedia outra presença na área mas Undav entrou para mudar a história do jogo – e a história nos Mundiais recentes (2-1).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20231705/undav.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "23h. 21 portugueses realojados na República Dominicana",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2105/",
-      "pubDate": "Sat, 20 Jun 2026 23:20:18 +0100",
-      "description": "Cidadãos lusos estão em segurança e foram retirados de um Resort devido a um incêndio. Ainda, Carlos Moedas, Pedro Duarte e Sebastião Bugalho vão passar a vice-presidentes do PSD.",
+      "title": "3h. Negociações entre os EUA e Irão arrancam este domingo",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2358/",
+      "pubDate": "Sun, 21 Jun 2026 03:01:24 +0100",
+      "description": "O processo conta com a mediação diplomática do Paquistão e do Qatar. Ainda, Pedro Santana Lopes voltou oficialmente ao PSD.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Congresso PSD: Partido continua a contar com o Chega",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2328/",
+      "pubDate": "Sun, 21 Jun 2026 02:17:08 +0100",
+      "description": "Os principais protagonistas do Governo e do partido reafirmam que o PSD não tem preferências para negociar. Ainda, o PM britânico deverá apresentar a demissão na próxima semana.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Santana de regresso. \"Não sou capaz de pedir desculpa\"",
+      "link": "https://observador.pt/programas/reportagem-observador/santana-de-regresso-ao-psd-nao-sou-capaz-de-pedir-desculpa/",
+      "pubDate": "Sun, 21 Jun 2026 01:44:57 +0100",
+      "description": "Santana Lopes está de volta ao PSD e já é militante. Descreve Montenegro como \"estadista\" e diz que atual líder teria vencido Congresso contra qualquer um, numa referência implícita a Passos Coelho.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2738:1546:nowe:189:282/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/21004838/jporfirio-congresso-psd-anadia-dia1-20-06-21-21-scaled.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Oito anos depois, Santana Lopes volta ao PSD",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-oito-anos-depois-santana-lopes-volta-ao-psd_a1_1748468",
+      "pubDate": "Sun, 21 Jun 2026 05:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Mediadores do Paquistão a caminho da Suíça para dialógo entre EUA e Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-mediadores-do-paquistao-a-caminho-da-suica-para-dialogo-entre-eua-e-irao_a1_1748467",
+      "pubDate": "Sun, 21 Jun 2026 04:20:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Santana Lopes está de regresso ao PSD",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-santana-lopes-esta-de-regresso-ao-psd_a1_1748465",
+      "pubDate": "Sun, 21 Jun 2026 03:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Santana Lopes: \"fiz aquilo que achei que devia fazer\"",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-santana-lopes-fiz-aquilo-que-achei-que-devia-fazer_a1_1748464",
+      "pubDate": "Sun, 21 Jun 2026 02:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Banco de Fomento: mais de 8 mil empresas apoiadas após as tempestades",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-banco-de-fomento-mais-de-8-mil-empresas-apoiadas-apos-as-tempestades_a1_1748461",
-      "pubDate": "Sun, 21 Jun 2026 00:33:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Sun, 21 Jun 2026 00:43:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Há 21 portugueses retidos na República Dominicana",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ha-21-portugueses-retidos-na-republica-dominicana_a1_1748459",
-      "pubDate": "Sat, 20 Jun 2026 23:45:04 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Sun, 21 Jun 2026 00:43:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Nadadora Mayra Santos conclui travessia a nado entre Madeira e Porto Santo",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-mayra-santos-conclui-travessia-a-nado-entre-madeira-e-porto-santo_d1748458",
-      "pubDate": "Sat, 20 Jun 2026 23:44:11 +0100",
-      "description": "A nadadora de águas livres Mayra Santos completou hoje a travessia entre a Madeira e o Porto Santo, nadando os 42 quilómetros em 12:41.00 horas, após já ter feito o mesmo percurso, no sentido inverso, em 2019.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/79af15fa8bccd5700a7f12003265373d?w=350&amp;q=50&amp;rect=0,439,1080,592&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Benfica bate Nun`Álvares e arrebata oitavo título nacional feminino de futsal",
-      "link": "https://www.rtp.pt/noticias/benfica/benfica-bate-nunalvares-e-arrebata-oitavo-titulo-nacional-feminino-de-futsal_d1748457",
-      "pubDate": "Sat, 20 Jun 2026 23:42:26 +0100",
-      "description": "O Benfica conquistou hoje o oitavo título nacional feminino de futsal, ao vencer no pavilhão da Luz o Nun´Álvares por 4-1, no quinto e decisivo encontro do play-off da final.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/92eb6ece928d1000c78cd72cf88f2dcb?w=350&amp;q=50&amp;rect=0,63,1208,662&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Gil Vicente: Luís Esteves perto de trocar Barcelos pelo México",
+      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/gil-vicente-luis-esteves-perto-de-trocar-barcelos-pelo-mexico",
+      "pubDate": "Sun, 21 Jun 2026 00:42:52 +0100",
+      "description": "Saída do médio de 28 anos para o Atlas está bem encaminhada",
+      "thumbnail": "https://img.iol.pt/image/id/68d703fcd34e58bc67963dfb/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,36 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/697875aad34e92a3449807ab/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Países Baixos e mais sete: as seleções com 100 ou mais golos em Mundiais",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/paises-baixos-e-mais-sete-as-selecoes-com-100-ou-mais-golos-em-mundiais",
-      "pubDate": "Sat, 20 Jun 2026 23:24:00 +0100",
-      "description": "«Laranja» atingiu marca histórica neste sábado e Alemanha igualou o Brasil. Uruguai pode ser o próximo, Portugal ainda longe",
-      "thumbnail": "https://img.iol.pt/image/id/6a2afddad34e28842c850f29/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: Alemanha-Costa do Marfim, 2-1 (crónica)",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/alemanha/mundial-2026-alemanha-costa-do-marfim-2-1-cronica",
-      "pubDate": "Sat, 20 Jun 2026 23:10:00 +0100",
-      "description": "Imperou a lei do mais forte e o «pé quente» Undav",
-      "thumbnail": "https://img.iol.pt/image/id/6a370f2dd34edcee7c65860a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: lista de todos os marcadores na fase final",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
-      "pubDate": "Sat, 20 Jun 2026 23:07:00 +0100",
-      "description": "Jonathan David marca hat-trick e iguala Messi",
-      "thumbnail": "https://img.iol.pt/image/id/6a36dbbdd34e28842c8566b3/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,16 +160,6 @@
       "pubDate": "Sat, 20 Jun 2026 20:08:35 +0000",
       "description": "O presidente norte-americano, Donald Trump, afirmou este sábado que não serão impostas portagens à navegação no Estreito de Ormuz durante os próximos 60 dias, período definido para novas negociações de paz.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ATff5RXweWhbyXzFrAbCMmU1SaEMhhhKIUSC9lWsHxxfd%2FBCfXSKP207nSH1hI%2BtjFsNWpNnRNu68qrGbK1pvp4YTOdAHMcmi2Tr8MjlUvTGw9RGP%2FGFyNRHHKM0pADGN"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Assista ao concerto de Katy Perry no Palco Mundo no Rock in Rio Lisboa",
-      "link": "https://sapo.pt/artigo/em-direto-no-sapo-assista-aos-concertos-do-palco-mundo-no-rock-in-rio-lisboa-6a280bf4918125d5f8e3d272",
-      "pubDate": "Sat, 20 Jun 2026 18:01:29 +0000",
-      "description": "Se não pôde ir ao Parque Tejo, veja aqui os melhores concertos do cartaz nos dias 20, 21, 27 e 28 de junho. O SAPO traz-lhe a emissão do Palco Mundo, em direto, todos os dias.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AAuT6kyD%2BkkZ76i59Wz%2B7gTvilmmj9fNVOvnbdMCpIcNYsErGOoDn2HK4i95riauZ8vcADicohTUL%2FK1H3dckOzlYsuk0lKWGg%2B163QRobmtXxnDrRNgAMhs4XG9Fd8KJ"
     },
     {
       "sourceId": "sapo",
@@ -200,6 +190,26 @@
       "pubDate": "Sat, 20 Jun 2026 18:57:47 +0000",
       "description": "O Ministério dos Negócios Estrangeiros (MNE) está a acompanhar “com preocupação” o incêndio num resort em Bayahibe, na República Dominicana, onde estavam oito cidadãos portugueses que se encontram bem de saúde.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3APhKQwJOZwm6fVe0Ay90ghABdCawipSVz%2B8KvSHTr8HFjGA9DwCzo7vmRjN4JS%2B%2FWBbZklcTSk1VUZ5ezQC0gn4BVrPNBhtcKHfcYsbZ8ErV1Ey2pq7KXD2mO9qB3w75r"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "“Se bem o conheço, lá iremos outra vez fazer esta e outras reformas”, diz ministra do Trabalho",
+      "link": "https://eco.sapo.pt/2026/06/20/pacote-laboral-era-uma-reforma-essencial-para-aproximar-portugal-da-europa/",
+      "pubDate": "Sat, 20 Jun 2026 17:18:25 +0000",
+      "description": "Ministra do Trabalho afirmou acreditar que o primeiro-ministro insistirá na reforma das leis laborais, depois do chumbo do pacote laboral no Parlamento.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AnKpLpLYZ8pSO78%2FNklAnL%2F1gVbTgI7%2FjZsQIPqaD2dzYln%2F3BbmS0FEgh%2Ba%2BOYkJB2flWs39vUb7vUmsxdo0fwnNRH3JH4osFEEefNqSQLg1WkOMuX78EoHFaF46W4Te"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Estragos à vista? Yamal treina regresso à forma, já com pontaria afinada",
+      "link": "https://www.noticiasaominuto.com/desporto/3008733/estragos-a-vista-yamal-treina-regresso-a-forma-ja-com-pontaria-afinada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-21 00:05:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a372a47ed1d4.webp"
     },
     {
       "sourceId": "nam",
@@ -235,21 +245,11 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Décimo dia em imagens: A máquina de golos, a surpresa e a reviravolta",
+      "title": "10.º dia do Mundial em imagens: Máquina de golos, surpresa e reviravolta",
       "link": "https://www.noticiasaominuto.com/desporto/3008633/as-imagens-do-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-06-20 23:20:00",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a36f00198254.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Espetáculo de drones do Air Invictus adiado \"por questões técnicas\"",
-      "link": "https://www.noticiasaominuto.com/pais/3008708/espetaculo-de-drones-do-air-invictus-adiado-por-questoes-tecnicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-20 23:02:11",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3386739e6ae.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ4NiwiY3JvcEhlaWdodCI6ODY0LCJjcm9wWCI6NTA2LCJjcm9wWSI6MTc5fX0="
     },
     {
       "sourceId": "pplware",
