@@ -1,63 +1,93 @@
 {
-  "updated": "2026-06-22T02:01:00.786744+00:00",
+  "updated": "2026-06-22T08:37:15.468395+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2329/",
-      "pubDate": "Mon, 22 Jun 2026 02:14:16 +0100",
+      "title": "Planos de Ventura sobre lei laboral e Montenegro \"sem chão\"",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/planos-de-ventura-sobre-lei-laboral-e-montenegro-sem-chao/",
+      "pubDate": "Mon, 22 Jun 2026 09:29:16 +0100",
+      "description": "Ventura roeu a corda e a lei laboral foi para o lixo. O Governo agora inventa fundos soberanos para distrair o povo, só se esqueceu de avisar onde é que anda o petróleo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Starmer prestes a fazer comunicação a país. Saída é provável",
+      "link": "https://observador.pt/liveblogs/keir-starmer-primeiro-ministro-britanico-vai-fazer-comunicacao-ao-pais-demissao-e-provavel/",
+      "pubDate": "Mon, 22 Jun 2026 09:22:47 +0100",
+      "description": "Depois de um fim de semana no campo a refletir, o momento da decisão está próximo em Downing Street. Grupo dentro do Executivo pede a transição \"ordeira\" para Burnham.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/11215744/47014710.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "António Castro Caeiro: “Os clássicos estão cheios de futuro”",
+      "link": "https://observador.pt/programas/convidado-extra/antonio-castro-caeiro-os-classicos-estao-cheios-de-futuro/",
+      "pubDate": "Mon, 22 Jun 2026 09:20:15 +0100",
+      "description": "“Uma pessoa sozinha não vive, só sobrevive. Viver é um acontecimento social”, defende António Castro Caeiro, professor e filósofo, que define “Filosofia” como “obsessão compulsiva pela transparência”.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105535/770-podcast-convidado-extra.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "França e Argentina jogam, Portugal viaja para Houston",
+      "link": "https://observador.pt/liveblogs/dia-12-do-mundial-2026-franca-e-argentina-voltam-a-jogar-portugal-viaja-para-houston/",
+      "pubDate": "Mon, 22 Jun 2026 09:20:12 +0100",
+      "description": "França volta à ação, depois de ter ganho ao Senegal, para enfrentar o Iraque. Também a Argentina entra em campo, depois de uma vitória com a Argélia, para defrontar a Áustria. Siga aqui em direto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:233/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/16220759/47299138.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2387/",
+      "pubDate": "Mon, 22 Jun 2026 09:14:12 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O estatuto de sensação pesou mais que o de pioneiro",
-      "link": "https://observador.pt/2026/06/22/o-estatuto-de-sensacao-pesou-mais-que-o-de-pioneiro-a-cronica-do-uruguai-cabo-verde/",
-      "pubDate": "Mon, 22 Jun 2026 01:33:55 +0100",
-      "description": "Cabo Verde provou que nulo com Espanha não foi acaso, ao empatar com o Uruguai. Tubarões Azuis, que estiveram em vantagem e desvantagem, só dependem de si na última ronda com a Arábia Saudita (2-2).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1126:nowe:0:132/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22011346/47328565.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2303/",
-      "pubDate": "Mon, 22 Jun 2026 01:16:59 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Espriella é o provável vencedor das eleições colombianas",
-      "link": "https://observador.pt/2026/06/22/abelardo-de-la-espriella-o-candidato-da-extrema-direita-apoiado-por-trump-e-o-provavel-vencedor-das-eleicoes-colombianas/",
-      "pubDate": "Mon, 22 Jun 2026 00:31:56 +0100",
-      "description": "Resultados preliminares das presidenciais na Colômbia apontam para a vitória do candidato da extrema-direita, com 49,7% dos votos. Diferença para Ivan Cepeda é de menos de 250 mil votos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22001236/gettyimages-2282100916-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O chumbo de Ventura animou mas não salvou o congresso do PSD",
-      "link": "https://observador.pt/opiniao/o-chumbo-de-ventura-animou-mas-nao-salvou-o-congresso-do-psd/",
-      "pubDate": "Mon, 22 Jun 2026 00:26:30 +0100",
-      "description": "O problema com o PSD não é ter renegado a ideologia dos seus fundadores – o problema mesmo é ser cada vez menos um partido de ideias e propostas e mais um partido de simples ocupação do poder.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Número de mortes sobe para 254 na RDCongo",
+      "link": "https://www.rtp.pt/noticias/mundo/numero-de-mortes-sobe-para-254-na-rdcongo_n1748624",
+      "pubDate": "Mon, 22 Jun 2026 10:33:34 +0100",
+      "description": "O Governo da República Democrática do Congo (RDCongo) elevou o número de mortes devido ao vírus Ébola para 254, estando incluídas nos 1.003 casos confirmados, na epidemia que foi declarada em 15 de maio no leste do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8cd187a650235560995fa462a2587e76?w=350&amp;q=50&amp;rect=0,9,1465,803&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2hMundial. Cabo Verde empata com Uruguai e sonha com próxima fase",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2hmundial-cabo-verde-empata-com-uruguai-e-sonha-com-proxima-fase_a1_1748590",
-      "pubDate": "Mon, 22 Jun 2026 03:34:01 +0100",
+      "title": "Benfica em vantagem na final da liga de futsal",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/benfica-em-vantagem-na-final-da-liga-de-futsal_d1748629",
+      "pubDate": "Mon, 22 Jun 2026 10:28:10 +0100",
+      "description": "O Benfica retomou a dianteira na final do play-off do campeonato de futsal, após vencer, no domingo, o Sporting no desempate por penáltis (8-7), no terceiro confronto pela atribuição do título nacional.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/718e28c4c45d424aebde827340e8ee98?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ataque de drone russo causa um morto e incêndio em navio no mar Negro",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataque-de-drone-russo-causa-um-morto-e-incendio-em-navio-no-mar-negro_n1748616",
+      "pubDate": "Mon, 22 Jun 2026 10:27:05 +0100",
+      "description": "Um navio de carga incendiou-se no Mar Negro após um ataque de drone russo, matando pelo menos uma pessoa, anunciou hoje o vice-primeiro-ministro ucraniano, Oleksiy Kuleba.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/07/07b97e11b9d03f5591f03fa572596be7?w=350&amp;q=50&amp;rect=0,28,888,487&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h A reabertura do Teatro Nacional D. Maria II",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-a-reabertura-do-teatro-nacional-d-maria-ii_a1_1748628",
+      "pubDate": "Mon, 22 Jun 2026 10:24:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,41 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Calor: Metade do território francês em aviso vermelho",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-calor-metade-do-territorio-frances-em-aviso-vermelho_a1_1748589",
-      "pubDate": "Mon, 22 Jun 2026 02:16:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Egito obtém primeira vitória em Mundiais",
+      "link": "https://www.rtp.pt/noticias/desporto/egito-obtem-primeira-vitoria-em-mundiais_e1748627",
+      "pubDate": "Mon, 22 Jun 2026 10:18:06 +0100",
+      "description": "O Egito conseguiu, face à Nova Zelândia (3-1), a primeira vitória de sempre em Mundiais de futebol e aproximou-se dos 16 avos de final, após o desafio referente à segunda jornada do Grupo G.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/09/097bdd83b855d2c500a4c7f1990af782?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Calor em França encerra escolas e condiciona transportes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-calor-em-franca-encerra-escolas-e-condiciona-transportes_a1_1748586",
-      "pubDate": "Mon, 22 Jun 2026 01:26:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jogou em Portugal e fez golo histórico de Cabo Verde: «Queria ver a minha filha...»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/jogou-em-portugal-e-fez-golo-historico-de-cabo-verde-queria-ver-a-minha-filha",
+      "pubDate": "Mon, 22 Jun 2026 09:33:00 +0100",
+      "description": "Kevin Pina está orgulhoso pelo golo e garante que a equipa vai lutar pelo apuramento",
+      "thumbnail": "https://img.iol.pt/image/id/6a38677ad34e28842c856e5b/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Eleições na Colômbia: candidato de direita lidera contagem de votos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-eleicoes-na-colombia-candidato-de-direita-lidera-contagem-de-votos_a1_1748583",
-      "pubDate": "Mon, 22 Jun 2026 00:36:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Bubista: «Fiquei um pouco irritado, Bielsa ensinou-nos a ter fair play»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/bubista-fiquei-um-pouco-irritado-bielsa-ensinou-nos-a-ter-fair-play",
+      "pubDate": "Mon, 22 Jun 2026 09:00:00 +0100",
+      "description": "Selecionador de Cabo Verde responde sobre alegado gesto antidesportivo do Uruguai no lance do 1-1 e garante que a equipa vai «lutar pelo apuramento» para os 16 avos de final",
+      "thumbnail": "https://img.iol.pt/image/id/6a38eb98d34e28842c856f5c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Morreu ex-presidente de Timor-Leste Francisco Guterres",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-morreu-ex-presidente-de-timor-leste-francisco-guterres_a1_1748582",
-      "pubDate": "Mon, 22 Jun 2026 00:01:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: Egito desempata para a liderança e faz história",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/egito-desempata-para-a-lideranca-e-faz-historia-em-mundiais",
+      "pubDate": "Mon, 22 Jun 2026 08:44:00 +0100",
+      "description": "Triunfo por 3-1 ante a Nova Zelândia. É a primeira vitória do país na história da competição",
+      "thumbnail": "https://img.iol.pt/image/id/6a38e779d34e28842c856f41/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +137,7 @@
       "color": "#4fc48a",
       "title": "Mundial 2026: lista de todos os marcadores na fase final",
       "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
-      "pubDate": "Mon, 22 Jun 2026 01:37:00 +0100",
+      "pubDate": "Mon, 22 Jun 2026 08:15:00 +0100",
       "description": "Três jogadores com três golos cada no topo",
       "thumbnail": "https://img.iol.pt/image/id/6a38178fd34edcee7c658a18/250"
     },
@@ -117,189 +147,169 @@
       "color": "#4fc48a",
       "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
       "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
-      "pubDate": "Mon, 22 Jun 2026 01:37:00 +0100",
+      "pubDate": "Mon, 22 Jun 2026 08:12:00 +0100",
       "description": "São 104 partidas ao longo de 39 dias",
       "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Vamos tentar melhorar, este tipo de jogos ganham-se em décimos de segundo»",
-      "link": "https://maisfutebol.iol.pt/futsal/nuno-dias/vamos-tentar-melhorar-este-tipo-de-jogos-ganham-se-em-decimos-de-segundo",
-      "pubDate": "Mon, 22 Jun 2026 01:36:00 +0100",
-      "description": "Nuno Dias, treinador de futsal do Sporting, analisou a derrota frente ao Benfica no jogo 3 da final",
-      "thumbnail": "https://img.iol.pt/image/id/68619462d34ef72ee447babe/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Cassiano Klein após vitória sobre o Sporting: «Sensação de orgulho...»",
-      "link": "https://maisfutebol.iol.pt/futsal/modalidades/cassiano-klein-apos-vitoria-ante-o-sporting-sensacao-de-orgulho",
-      "pubDate": "Mon, 22 Jun 2026 01:24:00 +0100",
-      "description": "Treinador de futsal do Benfica afirmou esperar que os leões subam o nível no jogo 4",
-      "thumbnail": "https://img.iol.pt/image/id/6861a40cd34ef72ee447bb5e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "CNN Portugal encontra jogador do Sporting em Miami",
-      "link": "https://maisfutebol.iol.pt/sporting/fresneda/cnn-portugal-encontra-jogador-do-sporting-em-miami",
-      "pubDate": "Mon, 22 Jun 2026 01:09:15 +0100",
-      "description": "Fresneda esteve no Miami Stadium, onde assistiu ao Uruguai-Cabo Verde. Jogador espanhol falou de Maxi Araújo, Rodrigo Zalazar e de como sente que cresceu na última época. E revelou que vai regressar mais cedo a Portugal para se preparar para o exigente arranque de pré-época",
-      "thumbnail": "https://img.iol.pt/image/id/6a38782bd34edcee7c658cf6/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Sondagem: Maioria dos portugueses defende que Seguro deve reforçar fiscalização ao Governo e à oposição",
+      "link": "https://executivedigest.sapo.pt/sondagem-maioria-dos-portugueses-defende-que-seguro-deve-reforcar-fiscalizacao-ao-governo-e-a-oposicao/",
+      "pubDate": "Mon, 22 Jun 2026 08:13:11 +0000",
+      "description": "A maioria dos portugueses considera que o Presidente da República, António José Seguro, deve assumir uma postura mais exigente perante o Governo e os partidos da oposição.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AUhmK04gZ7MQUru%2FLVnFStGtW8On7DwmXJj0KFDOa9miQ2Csr80mcQ2qPBgt1RXaXLMEzxnVFdiIGRltZFl58U9p%2BNxMC7GIWV%2Fa7mW0CYnY8Q%2Bi78OjmnSaqMyrqul36"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Negociações, afinal, prosseguem: delegação iraniana\" não comunicou qualquer intenção de se retirar\"",
-      "link": "https://sapo.pt/artigo/negociacoes-afinal-prosseguem-delegacao-iraniana-nao-comunicou-qualquer-intencao-de-se-retirar-6a38547297fd6ae31f403c4c",
-      "pubDate": "Sun, 21 Jun 2026 22:01:54 +0000",
-      "description": "Depois de a agência de notícias iraniana ter afirmado que o Irão tinha interrompido as negociações após as ameaças de Donald Trump nas redes sociais, a delegação do país veio desmentir a notícia.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AFv6S3ak58fZHyzGi67Gd9nobbef%2FsXlqDcCuOd6w%2B2On0g%2FDpcEwIKaUNBdQLXUUCAviYDL8Ht6aibd0JI%2BADGzaLf19LHmZmjFVK9dMK%2FT%2F9Uv4fbX0XagMyt7syxe3"
+      "title": "“Progressos significativos” nas negociações entre EUA e Irão: acordada “célula” para o Líbano e uma “linha de comunicação” para Ormuz",
+      "link": "https://sapo.pt/artigo/progressos-significativos-nas-negociacoes-entre-eua-e-irao-acordada-celula-para-o-libano-e-uma-linha-de-comunicacao-para-ormuz-6a38e619068e95a63900bbb2",
+      "pubDate": "Mon, 22 Jun 2026 08:13:11 +0000",
+      "description": "Estados Unidos e Irão acordaram roteiro para chegar à paz em 60 dias que inclui “linha de comunicação” para garantir tráfego no estreito de Ormuz. Primeiros navios sul-coreanos fazem travessia do estreito desde a assinatura do memorando de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AuPJ%2B0WtXTom7%2BeYa4yXBkH3P3XJ49oLXc1c%2F55Wk0MdJf%2BV41w6Zd3P55Pwvw%2BuYKrMe22HHmg0%2Fl6l1stJ3SXG0IlJQ0Ybfu0lm%2FDCMmthv7fWnPscbJ5v%2BdDKeeoIC"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Chega disponível para “diálogo concreto” com o Governo",
-      "link": "https://eco.sapo.pt/2026/06/21/chega-disponivel-para-dialogo-concreto-com-o-governo/",
-      "pubDate": "Sun, 21 Jun 2026 16:34:56 +0000",
-      "description": "A dirigente e deputada do Chega Rita Matias afirmou que o seu partido está disponível para um \"diálogo concreto\" com o PSD e devolveu ao primeiro-ministro a acusação de \"falta de coragem\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AVL6bjYELG42F1tLaM0NqNpPsUzUISIwXxkvmTVDsy8i%2Fd4UVBVPv%2BZk7atBClsYu3nLdgkCo%2FO3gU%2FO%2Bu126HGVj84Z36uzDOHRIgcB%2FD%2BPHEIBnYwRHKwUswJm%2Fn2Ib"
+      "title": "Chumbo da reforma laboral antecipa batalha mais dura pelo Orçamento do Estado para 2027",
+      "link": "https://eco.sapo.pt/2026/06/22/chumbo-da-reforma-laboral-antecipa-batalha-mais-dura-pelo-orcamento-do-estado-para-2027/",
+      "pubDate": "Mon, 22 Jun 2026 06:31:55 +0000",
+      "description": "A rejeição do pacote laboral expôs a dificuldade do Governo em construir maiorias, reforçou o papel decisivo do Chega e deu ao PS mais confiança para endurecer a oposição.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AG7IzTfgiycRyRCyRFrLhOWHcf4b%2F%2BynlD7u6Bz4rejqQnB7ajBhMQWgJjupfXW5sIAw9IRtoHcLLiZ0oK3vgUUPtbXTAgSIm5Q4%2FF2jOjTV6IUas%2FOXr8V%2FZ%2BSFpxwDv"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Férias de Verão: Os preços que condicionam os planos e o exemplo do Algarve \"demasiado caro para o que oferece\"",
-      "link": "https://sapo.pt/artigo/ferias-de-verao-os-precos-que-condicionam-os-planos-e-o-exemplo-do-algarve-demasiado-caro-para-o-que-oferece-6a383611e8bab651cd208374",
-      "pubDate": "Sun, 21 Jun 2026 19:40:00 +0000",
-      "description": "O preço continua a ser o principal critério na escolha das férias de verão. Um estudo da ConsumerChoice mostra que a maioria dos portugueses procura destinos mais baratos e que muitos já desistiram de viajar para locais considerados demasiado...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AZ1bv2BFp5ms9Nb9yWxG7DD3FQ%2BDVNT4U%2BAiqKr1reuIYUhAmMy5Lg0RWqBFYnAjdfkmRXXVaUvqYXTj6XWxYW2f7XaffZg8dGZ1qPKpp5WTG1oRZJCC1%2BNEarjsmVU3o"
+      "title": "PSU: prazo para alterações termina hoje. Deputados correm contra o tempo",
+      "link": "https://executivedigest.sapo.pt/psu-prazo-para-alteracoes-termina-hoje-deputados-correm-contra-o-tempo/",
+      "pubDate": "Mon, 22 Jun 2026 06:14:41 +0000",
+      "description": "A discussão parlamentar da proposta do Governo para criar a Prestação Social Única (PSU) entra esta segunda-feira numa fase decisiva, com os deputados a terem até ao meio-dia para apresentar propostas de alteração ao diploma.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=576&W=1024&crop=center&delay_optim=1&epic=V2%3AyOfIyvaYpcAiP4nsbc8D0QuPIBezHn4614dKTJtbvJNj3TJArpwl%2FYBZtfzqy4WXG7IAszFzIjTC3yjntA2D1k9QTIy3u0IzCM9NssJAAj0nOFPjziefcaIois9htqXg"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Pressão sobre Starmer para se demitir deixa futuro dos Trabalhistas e do Reino Unido em aberto",
-      "link": "https://jornaleconomico.sapo.pt/noticias/pressao-sobre-starmer-para-se-demitir-deixa-futuro-dos-trabalhistas-e-do-reino-unido-em-aberto/",
-      "pubDate": "Sun, 21 Jun 2026 20:07:58 +0000",
-      "description": "O primeiro-ministro britânico, Keir Starmer, está sob intensa pressão para se demitir e espera-se uma declaração sobre o seu futuro na segunda-feira, mas o processo de sucessão pode levar semanas ou meses.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A1fFIoo1QVbc1EFlBtxgApGtCcmgPboQwD815lh7rZQGu90POJhiK8eig9dynwTk6E04WATrGgy39iilMIEgf8b34x2%2FKT6auPnbEVRkDmxiLEwukr3WXffHz3uxIrt3o"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Grupo agride a ameaça com arma de fogo funcionários de restaurante em Lisboa",
-      "link": "https://sapo.pt/artigo/grupo-agride-a-ameaca-com-arma-de-fogo-funcionarios-de-restaurante-em-lisboa-6a38054c00d7361927ad88e5",
-      "pubDate": "Sun, 21 Jun 2026 16:34:56 +0000",
-      "description": "Os agressores foram identificados, mas PSP apela à colaboração de outras testemunhas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ANgkxo8ZMMLMd8XPQD1Pm%2Bp17e6OUtocO%2BYLn4V4DjzWqna1Ko26oOsbGPH1BjaWk2SLrzR0SvYLoJWwOvdXkx%2BJvNEcsnZrXEnsgTYQ0%2B9OmCozU5mxNZfqBXcjkldHn"
+      "title": "Trabalhadores da EMEL iniciam greve parcial de quatro dias",
+      "link": "https://sapo.pt/artigo/trabalhadores-da-emel-iniciam-greve-parcial-de-quatro-dias-6a38c9e4002c36b62fe5b969",
+      "pubDate": "Mon, 22 Jun 2026 06:14:41 +0000",
+      "description": "O Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal prevê \"um grande impacto\", sobretudo na fiscalização e nos parques de estacionamento na cidade de Lisboa.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ABDQFxsHjds1ULCqT4FWqPdtct7XR06HDAvtrsIdaWQlytOFWlF3CKt%2BtQti9d9eTasCWzvKEkd74fyYFcTuXFLavHcbkmjzi3o4UrV2z6iKl7TpPsr1XmEUQLRAta%2Bld"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "SinDGRSP leva Estado ao Tribunal de Direitos Humanos. \"Passo histórico\"",
-      "link": "https://www.noticiasaominuto.com/pais/3008986/sindgrsp-leva-estado-ao-tribunal-de-direitos-humanos-passo-historico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-22 00:05:48",
+      "title": "Unhas. 9 inspirações para o efeito \"halo\", uma das tendências do verão",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3009086/unhas-9-inspiracoes-para-o-efeito-halo-uma-das-tendencias-do-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-22 09:31:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69dde847dbfc0.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a38e44d72a15.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
-      "link": "https://www.noticiasaominuto.com/desporto/3008767/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-21 23:55:00",
+      "title": "Aeroportos de Moçambique voltam aos lucros em 2025 após anos de prejuízos",
+      "link": "https://www.noticiasaominuto.com/mundo/3009104/aeroportos-de-mocambique-voltam-aos-lucros-em-2025-apos-anos-de-prejuizos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-22 09:28:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a37787198f1b.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/42045857.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Economia da Alemanha está em \"risco substancial\", diz Merz",
-      "link": "https://www.noticiasaominuto.com/mundo/3008985/economia-da-alemanha-esta-em-risco-substancial-diz-merz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-21 23:53:02",
+      "title": "Estado da democracia e respeito pelos direitos humanos \"não é aceitável\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3009109/estado-da-democracia-e-respeito-pelos-direitos-humanos-nao-e-aceitavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-22 09:27:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e64c51052e5.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY1MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/34651133.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "11.º dia do Mundial em imagens: Fúria espanhola e história caboverdiana",
-      "link": "https://www.noticiasaominuto.com/desporto/3008944/11-dia-do-mundial2026-em-imagens-furia-espanhola-e-festa-caboverdiana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-21 23:47:11",
+      "title": "Após negociações com EUA, equipa negocial iraniana volta a Teerão",
+      "link": "https://www.noticiasaominuto.com/mundo/3009110/apos-negociacoes-com-eua-equipa-negocial-iraniana-volta-a-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-22 09:26:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3865decf541.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47326572.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Cabo Verde faz história, antes do Nova Zelândia-Egito",
-      "link": "https://www.noticiasaominuto.com/desporto/3008828/em-direto-espanha-defronta-arabia-e-sensacao-cabo-verde-procura-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-21 23:45:57",
+      "title": "Agente da polícia agredido por grupo durante investigação em Macau",
+      "link": "https://www.noticiasaominuto.com/mundo/3009105/agente-da-policia-agredido-por-grupo-durante-investigacao-em-macau#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-22 09:20:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3865d8a3cc5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgzLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6MzksImNyb3BZIjo2MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/14131590.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "NASA descobre em Marte três estranhas rochas perfeitamente empilhadas",
-      "link": "https://pplware.sapo.pt/ciencia/nasa-descobre-em-marte-tres-estranhas-rochas-perfeitamente-empilhadas/",
-      "pubDate": "Sun, 21 Jun 2026 21:30:49 +0000",
-      "description": "A NASA voltou a captar a atenção da comunidade científica depois de localizar na superfície de Marte uma formação rochosa pouco habitual. Falamos de algumas rochas aparentemente empilhadas que foram fotografadas pelo rover Perseverance&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/pedras_marte01.webp"
+      "title": "Cibersegurança: Novas regras para empresas e entidades públicas em Portugal",
+      "link": "https://pplware.sapo.pt/internet/ciberseguranca-novas-regras-para-empresas-e-entidades-publicas-em-portugal/",
+      "pubDate": "Mon, 22 Jun 2026 08:32:59 +0000",
+      "description": "Foi publicado o novo Regulamento n.º 756/2026, aprovado pelo Centro Nacional de Cibersegurança (CNCS), que estabelece as regras de execução do novo Regime Jurídico da Cibersegurança. O diploma vem definir como será aplicado em&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/cybersecurity-1024x576-1.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Hyundai tem controlo total da Boston Dynamics e robô Atlas vai para a fábrica de automóveis",
-      "link": "https://pplware.sapo.pt/motores/hyundai-tem-o-controlo-total-da-boston-dynamics-robo-atlas-vai-diretamente-para-a-fabrica-de-automoveis/",
-      "pubDate": "Sun, 21 Jun 2026 20:35:39 +0000",
-      "description": "A Hyundai assumiu finalmente o controlo total da Boston Dynamics, avançou o jornal sul-coreano Maeil Business Newspaper. O movimento deixa uma mensagem clara: os robôs já não servem apenas para vídeos impressionantes na Internet&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/boston_dynamics_hyndai00.webp"
+      "title": "Chegou o Renault Megane E-Tech Electric 2026! 500 km de autonomia e IA",
+      "link": "https://pplware.sapo.pt/motores/chegou-o-renault-megane-e-tech-electric-2026-500-km-de-autonomia-e-ia/",
+      "pubDate": "Mon, 22 Jun 2026 08:13:59 +0000",
+      "description": "A Renault atualizou o Mégane E-Tech Electric com várias melhorias tecnológicas para reforçar a competitividade do seu elétrico compacto. A nova versão destaca-se pelo aumento da autonomia, carregamento mais rápido e pela chegada de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/IMG_2824.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Chaves digitais Windows e Office baratas com o código TT30 na GoodOffer24",
-      "link": "https://pplware.sapo.pt/zzpublicidade/goodoffer24-chaves-windows-office-promocao-tt30/",
-      "pubDate": "Sun, 21 Jun 2026 20:00:31 +0000",
-      "description": "A promoção de meio de ano da GoodOffer24 já arrancou e coloca as chaves digitais de Windows e Office em valores difíceis de ignorar. Com o código TT30 aplicado no checkout, o desconto chega&#46;&#46;&#46;",
+      "title": "Android 17: bug nos Pixel desliga a ligação 5G",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/android-17-bug-nos-pixel-desliga-a-ligacao-5g/",
+      "pubDate": "Mon, 22 Jun 2026 07:57:18 +0000",
+      "description": "A disponibilização da mais recente versão do sistema operativo da Google parecia ser o passo esperado para renovar os Pixel. A chegada do Android 17 está a ser marcada por contratempos inesperados. Após relatos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/android_17_xiaomi_.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Fim do mito: estudo mostra que elétricos usados são escolha segura",
+      "link": "https://pplware.sapo.pt/motores/fim-do-mito-estudo-mostra-que-eletricos-usados-sao-escolha-segura/",
+      "pubDate": "Mon, 22 Jun 2026 07:00:57 +0000",
+      "description": "O receio de comprar um veículo elétrico usado é grande. Tudo devido à suposta perda de capacidade da bateria, um dos principais entraves à massificação desta tecnologia no mercado de usados. Isso foi contrariado&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/bateria_usados_eletrico_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Chrome poderá passar a partilhar dados do antivírus do Windows com a Google",
+      "link": "https://pplware.sapo.pt/google/chrome-podera-passar-a-partilhar-dados-do-antivirus-do-windows-com-a-google/",
+      "pubDate": "Mon, 22 Jun 2026 06:00:34 +0000",
+      "description": "Apesar de ser o browser mais usado na Internet, o Chrome tem uma razão nem sempre direta com os utilizadores do Windows. H+a muita informação que recolhe longe da vista e que nem todos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/08/Google-Chrome.webp"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Como vai o CPR: liderança de Rúben Rodrigues e os desafios que se avizinham",
+      "link": "https://www.autosport.pt/ralis/cnr-campeonato-nacional-de-ralis/como-vai-o-cpr-lideranca-de-ruben-rodrigues-e-os-desafios-que-se-avizinham/",
+      "pubDate": "Mon, 22 Jun 2026 08:19:35 +0000",
+      "description": "Após Castelo Branco, Rúben Rodrigues comanda Campeonato de Ralis: o que esperar das próximas provas? Com os resultados do Rali de Castelo Branco, o Campeonato de Portugal de Ralis atinge o marco de duas provas que os concorrentes tinham como opção para pontuar – o Rali de Lisboa e o Rali de Castelo ",
       "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Governo reforça segurança do sistema elétrico com novo mecanismo de capacidade",
-      "link": "https://pplware.sapo.pt/informacao/governo-reforca-seguranca-do-sistema-eletrico-com-novo-mecanismo-de-capacidade/",
-      "pubDate": "Sun, 21 Jun 2026 19:37:42 +0000",
-      "description": "O Governo vai avançar com a criação de um mecanismo de capacidade destinado a reforçar a segurança do abastecimento elétrico em Portugal. Governo pretende assegurar energia disponível nos períodos de maior procura A medida&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/ia_energia_europa_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Rubrica: As apps desenvolvidas pelos nossos leitores [135]",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/rubrica-as-apps-desenvolvidas-pelos-nossos-leitores-135/",
-      "pubDate": "Sun, 21 Jun 2026 18:30:56 +0000",
-      "description": "Está farto das apps que tem no seu telemóvel e precisa de fazer uma atualização nesses conteúdos? Procura aplicações ou jogos divertidos e que sejam desenvolvidos em Portugal ou por leitores que nos seguem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2020/02/apps-dos-leitores.jpg"
     },
     {
       "sourceId": "autosport",
@@ -340,16 +350,6 @@
       "pubDate": "Sun, 21 Jun 2026 14:23:47 +0000",
       "description": "A vitória de João Rodrigues no CPR2RM em Castelo Branco reforçou a ideia de uma época cada vez mais sólida e alinhada com os objetivos traçados desde o início do ano. O piloto do Peugeot 208 Rally4 faz um balanço claramente positivo do rali e do campeonato até aqui, sublinhando que, depois de uma pr",
       "thumbnail": "https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/21396627/2418829d-bf48-47f4-8a53-cd8f88a0a592/Joao-Rodrigues.mp4?AWSAccessKeyId=ASIA2F3EMEYEQXUK7Z3I&Signature=VZ57hBH2EpciMY9p%2FmZo46X1bEs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjECYaCXVzLWVhc3QtMSJHMEUCIQCYN9fi0Sxn5OaV8EAmQkLKUvZZRk7MHd%2BfKWTSJnPBXwIgLWkl4J82jGyzVZATcciPmsBSUtx9EPe2f3ZGa677Bbsq%2FAQI7v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDJqS5VNJNi65WT0NWyrQBNQt%2F9XFgj4hCSe0HSvi4nz2H45AWtI0UDYCz5AWlSgX95Y4WSA3sKLZK%2FGYTE3OseQMH31RRDIFGzIUNAvce0FRFd2031of9TmP1Q3GrEftYJD1nqUvb5JDZMzf%2BC4gh2PnABR5L%2BozMx9ZpLh1LYlvV79Kt0LA7XFs7vjqeFVd%2FVGmIn4F%2FxdZyl%2F1DH5QA1rMWeVQ3%2F%2FVJJ0wP97xkGh1U%2BALc4qICoalJwcW2e86a0nUCBoJqmqm4maqM99xfa1OWuN8xbOnbdL1qlwGpPSdVXfRSA4n9vd7PzAxbyV8BWADS5rXLVSMpINw4G8F4RuZSWM040gG%2B0ClvHw9f0EtfK0VJTdy68tKV6jPMoypQSBFYFHt3SEdNLee6KGU5BIZ4wrE4zaoABZkjSuNlQHEu8lsHIZSvWx%2BKhHiBrCxKwPfQSnXxnrmveUsNQNoShz2Q07rQ3VREMr%2FzxWD%2Bsds89YZnoarDiyaLyD%2BRheSjVaPL%2Bz%2Famp5ddsTnwVKZk77GoYBAK9hvu9YtDkm4Uu1FDiVIsYK1YU1FXHE%2BRWm%2BX7HrNrWjc2bMz2NengjCjDZ67sn4JXb8J9OTwjDaGGealcrFxSmwYDSfYmKCKo8nBg9sH6zcsaRnU70IPcWxWn%2B0kNh1V1VwkBbkxW5kwdr2QssabubfD9N7I3lH2KX%2B1wCIwReF6OEzdGBmSjcco4ORk4uPKOHT8nq9gmdWSe4X1oULNGZUfHf3tZltd7DH2lIJyOuTktqhk4TA5Vc9Y6%2FTYNBEB3TDg35bejxuxkw8Mrf0QY6mAHh%2F3yUpqlVwoKng43B4LXTi%2BOmE%2FAitpl6pUJApr%2Fl9y8nvWuZAZKRS4TIjDjZQVIcb3EjIUOdXn0Eufx3HO2BOYgvK00K3S6TTK9NDKehL2O0W8RFeGoUXG7JnhHl3SY9bMWwIXC8E%2BDBa5mLJskwwGmKkkSarcC3graXZ3mJa%2BPEuim1C2LikV3gHmSc7uA1fWA5QAJPeg%3D%3D&Expires=1782051651"
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali Castelo Branco, Diogo Marujo: “Continuar a trabalhar para tirar aquelas quatro décimas”",
-      "link": "https://www.autosport.pt/ralis/rali-castelo-branco-diogo-marujo-continuar-a-trabalhar-para-tirar-aquelas-quatro-decimas/",
-      "pubDate": "Sun, 21 Jun 2026 13:21:58 +0000",
-      "description": "Em Castelo Branco, Diogo Marujo saiu sem o pódio absoluto que ambicionava (e que foi seu durante parte da prova), mas com algo que considera igualmente valioso: a confirmação clara de que o percurso competitivo que está a fazer o está a aproximar, cada vez mais, dos lugares de topo. Mais confiante, ",
-      "thumbnail": "https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/21396627/cf51c09d-7fae-41c4-b5af-476bd54a71d8/Marujo.mp4?AWSAccessKeyId=ASIA2F3EMEYETULQDK2G&Signature=KOBVDUwh2GFxMkxkF%2BSQVo3CP6c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjECUaCXVzLWVhc3QtMSJHMEUCIQDpKR4W0gmoCmvvf7gjKgqBCzSh8PjAbizZFGtGO73KzwIgDxbeDSSXJ7KxwuzhnT7TsSJ3NdJIPVLkxz9QjmIzOaYq%2FAQI7f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDNFb%2B7ib%2BI6znUi5UyrQBPm5%2F6uvUuu0s3gGG53dHwvAXvdDmsgm4fgKz6dYU4a0k%2Bl53wRMTyR2HhHSCp3sY7zJcDymU1z1nKEn6rXzNUpi3wqndZu%2BtqsZzbVv%2BfCqeDzQeS%2Bmh2DaGkIE551APUevf4HgKABQN5wPyYWGVZJPN67gDMFVrkXbLyoVKcreS5gUQm%2FhiA9L4x%2FawVrMvy4QaR4EbXV5BKefAYTRQgEq0POuu1fxE1aqZXkbAgRza2T08jtiBuPd13IGYj975pv8Vw4VloQ3MdIINXm%2FatiCSutgDkIfpwytEYev87S2rl%2FLYe0BlDRzAM%2F8w3eSIpOEOosKYF679AUIeBUMXwQV2FEF%2B4b8ztYn%2Bqh0t8YbsGJuwGn6HRvZmSZAYc0pByo7LDiuXoJtu16iedWaySkawvHXEcRtA4up0tFvY1jHN6F8ynp%2F4Vdlt3z0sLSu555JFwcnvi%2FaxK51iYK4b9ODLXv0osaqKAD%2FQkEFLqWefxPZta5Ocse0q9vPpszh%2BBoAfdg1RCxyQPGCyvAaJ85shoPVfRCFbPXMQyoLEfs7FvU9SnjOWhHsKKBcmRDr67U3gMxeR9taLAnudhVii5tBcWgJTKVOYuuk9jWlSbGiyM%2BsqnND25j8yBQoJ4dpHP1RYLtxMDX6d8XtcfBN9FXOQFXEDR7vVHiOZPSJOdjiK5t8YnOo6EHIhXo%2BmrUeAm4jLlph9JcdOj737yY6QXWCQJaqhlgwlP26Q0iBRHe%2BHCD8MSKH4%2BJ2L9WS8LuuDohm5i18jdmjm5eJFkqmy%2FAw66jf0QY6mAGrJp4SxBUpW51zfWeKBYtJiJ7n7wsEf3oCPc4%2FLc7GOlExULNmeS1z7iDTOOl%2FQNIg2yk5mEsKEN2%2FHcuNVG9VjLRPTIP%2BeRuokPznJFK%2B9Lw06JMm%2FvR%2B54SVf6JUoeWTqVHBtsb%2BYbzBbRm9EiKA6Bq8vb2KtfYHEIWzWv1K%2Bn%2For9Y8G7tNhLV3YI%2BXn3sBlt8P6Q0oLQ%3D%3D&Expires=1782047294"
     }
   ]
 }
