@@ -1,145 +1,105 @@
 {
-  "updated": "2026-06-25T04:43:44.122464+00:00",
+  "updated": "2026-06-25T08:20:47.706496+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "No mítico Azteca, os anfitriões expulsam a Chéquia de casa",
-      "link": "https://observador.pt/programas/minuto-90/no-mitico-azteca-os-anfitrioes-expulsam-a-chequia-de-casa/",
-      "pubDate": "Thu, 25 Jun 2026 04:47:19 +0100",
-      "description": "Os mexicanos carimbaram o passaporte de volta para a Europa dos Checos (3-0). Seleção mexicana com o fator casa a dar uma fase de grupos exímia. Chéquia despede-se cabisbaixa, sem dar luta.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pequenos também podem sonhar! África do Sul faz história",
-      "link": "https://observador.pt/programas/minuto-90/pequenos-tambem-podem-sonhar-africa-do-sul-faz-historia/",
-      "pubDate": "Thu, 25 Jun 2026 04:42:16 +0100",
-      "description": "Os \"Bafana Bafana\" venceram a Coreia do Sul (1-0) e fazem história, ao qualificarem-se pela primeira vez para as eliminatórias de um Mundial. Coreia fica como um dos melhores terceiros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Quanto mais alto se sobe, maior é a história da mítica tri",
-      "link": "https://observador.pt/2026/06/25/quanto-mais-alto-se-sobe-maior-e-a-historia-de-uma-tri-que-cresceu-para-acabar-com-os-sonhos-a-cronica-do-rep-checa-mexico/",
-      "pubDate": "Thu, 25 Jun 2026 04:13:43 +0100",
-      "description": "Depois de uma primeira parte fraca, o México regressou forte do balneário e começou a escrever a goleada e mais um feito histórico: passar o grupo só com vitórias (0-3). Checos sem argumentos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:197/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25040917/gettyimages-2283208498-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Sismo Venezuela. Decretado estado de emergência",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2327/",
-      "pubDate": "Thu, 25 Jun 2026 04:10:06 +0100",
-      "description": "A presidente interina anunciou ainda o encerramento do aeroporto que serve Caracas e o cancelamento das aulas em todo o país. Ainda, Coreia do Sul, Haiti e Catar ficam fora do Campeonato do Mundo.",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2390/",
+      "pubDate": "Thu, 25 Jun 2026 09:13:44 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Sismo Venezuela. PR diz estar a acompanhar a situação",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2361/",
-      "pubDate": "Thu, 25 Jun 2026 03:17:17 +0100",
-      "description": "Numa nota no site da Presidência da República, António José Seguro garante estar a acompanhar todos os desenvolvimentos. Ainda, Carneiro acusa o Governo de estar “sem agenda para a economia”.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Dona de livraria pró-democracia detida em Hong Kong",
+      "link": "https://observador.pt/2026/06/25/hong-kong-prende-dona-de-livraria-independente-por-sedicao/",
+      "pubDate": "Thu, 25 Jun 2026 09:03:27 +0100",
+      "description": "A livraria de Leticia Wong atraiu atenção policial em 2024, quando expressou solidariedade com as vítimas da repressão de Tiananmen. Mais recentemente, esteve sob vigilância por \"resistência suave\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25034717/47230694.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Peru. Roberto Sánchez denuncia \"fraude em curso\" em eleições",
+      "link": "https://observador.pt/2026/06/25/fraude-em-curso-no-peru-sanchez-promete-continuar-a-luta-para-anular-votos-dos-peruanos-no-estrangeiro/",
+      "pubDate": "Thu, 25 Jun 2026 09:02:11 +0100",
+      "description": "Roberto Sánchez denuncia \"fraude em curso\", e irá recusar reconhecer a filha do antigo líder peruano, Alberto Fujimori, como vencedora da segunda volta das eleições.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25065302/47324353.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Portugal não pode ser apenas o Tier 2 da reindustrialização",
+      "link": "https://observador.pt/opiniao/portugal-nao-pode-ser-apenas-o-tier-2-da-reindustrializacao-europeia/",
+      "pubDate": "Thu, 25 Jun 2026 09:00:46 +0100",
+      "description": "Num país de PME industriais, Portugal não ganhará pela escala do volume, mas pela capacidade de transformar conhecimento, materiais, digitalização e colaboração em produtos próprios e produtividade",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2409%3A2403%3Anowe%3A109%3A3%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F25085637%2Fwhatsapp-image-2026-06-23-at-101312.jpeg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Taiwan agradece críticas ocidentais à operação chinesa",
+      "link": "https://observador.pt/2026/06/25/taiwan-agradece-criticas-ocidentais-a-operacao-maritima-chinesa/",
+      "pubDate": "Thu, 25 Jun 2026 09:00:12 +0100",
+      "description": "Secretário-geral do Conselho de Segurança Nacional de Taiwan agradeceu críticas da comunidade internacional à \"operação especial de controlo marítimo\" de Pequim, apelando ao fim do expansionismo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25061820/47255115.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h PSU deverá ser aprovada no parlamento depois de acordo PSD-PS",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-psu-devera-ser-aprovada-no-parlamento-depois-de-acordo-psd-ps_a1_1749256",
-      "pubDate": "Thu, 25 Jun 2026 06:32:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Sismos de 7.2 e 7.5 na Escala de Richter abalam a Venezuela",
+      "link": "https://www.rtp.pt/noticias/mundo/sismos-de-72-e-75-na-escala-de-richter-abalam-a-venezuela_e1749263",
+      "pubDate": "Thu, 25 Jun 2026 10:17:02 +0100",
+      "description": "Centenas de funcionários de equipas de salvamento, agentes da polícia e unidades caninas estão a realizar trabalhos de busca e resgate de pessoas afetadas pelos dois sismos que afetaram a Venezuela. São os maiores sismos dos últimos 100 anos e poderá haver milhares de mortos. Acompanhamos a situação",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/52/52ab8323fb00a24bb4d7cf747beafe88?w=350&amp;q=50&amp;rect=0,28,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Terramotos Venezuela. Aeroporto de Caracas encerrado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-terramotos-venezuela-aeroporto-de-caracas-encerrado_a1_1749255",
-      "pubDate": "Thu, 25 Jun 2026 06:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "IL quer calendário público para acompanhar execução da Estratégia Nacional para a Gestão da Água",
+      "link": "https://www.rtp.pt/noticias/politica/il-quer-calendario-publico-para-acompanhar-execucao-da-estrategia-nacional-para-a-gestao-da-agua_n1749309",
+      "pubDate": "Thu, 25 Jun 2026 10:01:46 +0100",
+      "description": "A Iniciativa Liberal acusa o Governo de fazer anúncios consecutivos sem concretização e quer que o ministério do Ambiente e Energia explique o que é que já foi feito depois da apresentação, há mais de um ano, da &quot;Estratégia Nacional para a Gestão da Água - Água Que Une&quot;, que, até 2030, pre",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bfa48100533d2e5541dd075222288411?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "PR manifesta consternação por sismo na Venezuela e acompanha situação",
-      "link": "https://www.rtp.pt/noticias/mundo/pr-manifesta-consternacao-por-sismo-na-venezuela-e-acompanha-situacao_n1749239",
-      "pubDate": "Thu, 25 Jun 2026 06:22:11 +0100",
-      "description": "O Presidente da República, António José Seguro, manifestou hoje consternação pelo sismo que atingiu a Venezuela, com epicentro perto da capital, Caracas, e está a acompanhar a situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef1e343bd6160b12343d6003553569f0?w=350&amp;q=50&amp;rect=0,23,1720,943&amp;auto=format"
+      "title": "Líderes latino-americanos oferecem ajuda à Venezuela",
+      "link": "https://www.rtp.pt/noticias/mundo/lideres-latino-americanos-oferecem-ajuda-a-venezuela_n1749311",
+      "pubDate": "Thu, 25 Jun 2026 10:00:19 +0100",
+      "description": "Cidade do México, 25 jun 2026 (Lusa) - Líderes de vários países da América Latina anunciaram hoje disponibilidade para enviar ajuda humanitária para a Venezuela, após os dois sismos que atingiram na quarta-feira o país e fizeram pelo menos 32 mortos e mais de 700 feridos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "ADN humano com mais de 2000 anos encontrado em grutas de Portugal e Espanha",
-      "link": "https://www.rtp.pt/noticias/cultura/adn-humano-com-mais-de-2000-anos-encontrado-em-grutas-de-portugal-e-espanha_n1749236",
-      "pubDate": "Thu, 25 Jun 2026 06:15:54 +0100",
-      "description": "Um projeto científico identificou ADN humano com pelo menos 2000 anos em paredes de grutas em Espanha e Portugal, demonstrando que as superfícies das grutas podem preservar restos genéticos humanos durante milhares de anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/8029c91c07540090c3bf73f46a6d6143?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+      "title": "Portugal pode garantir os 16 avos mesmo sem jogar",
+      "link": "https://www.rtp.pt/noticias/mundial-2026/portugal-pode-garantir-os-16-avos-mesmo-sem-jogar_d1749301",
+      "pubDate": "Thu, 25 Jun 2026 09:51:04 +0100",
+      "description": "Portugal deverá ser hoje uma das muitas seleções a garantir, sem jogar, o apuramento para os 16 avos de final do Mundial de futebol de 2026, o que poderá acontecer logo com o fecho do Grupo E.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c702ea1de28f189b55692cbde13bdb92?w=350&amp;q=50&amp;rect=0,353,2987,1638&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Terramotos Venezuela. Governo vai declarar estado emergência",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-terramotos-venezuela-governo-vai-declarar-estado-emergencia_a1_1749245",
-      "pubDate": "Thu, 25 Jun 2026 04:18:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Thu, 25 Jun 2026 02:18:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Thu, 25 Jun 2026 02:16:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: os possíveis adversários de Portugal nos 16 avos de final",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-os-possiveis-adversarios-de-portugal-nos-16-avos-de-final",
-      "pubDate": "Thu, 25 Jun 2026 02:15:00 +0100",
-      "description": "Seleção só será primeira do grupo K se vencer a Colômbia, mas apuramento está quase garantido. E o mais provável é seguir-se um adversário do grupo L",
-      "thumbnail": "https://img.iol.pt/image/id/6a3ac42cd34e28842c8580e1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: lista de todos os marcadores na fase final",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
-      "pubDate": "Thu, 25 Jun 2026 01:28:00 +0100",
-      "description": "Cristiano Ronaldo bisa e torna-se no primeiro jogador a marcar em seis Mundiais",
-      "thumbnail": "https://img.iol.pt/image/id/6a3ad55dd34e28842c858167/250"
+      "title": "Serviço Geológico dos EUA estima milhares de vítimas",
+      "link": "https://www.rtp.pt/noticias/mundo/servico-geologico-dos-eua-estima-milhares-de-vitimas_n1749298",
+      "pubDate": "Thu, 25 Jun 2026 09:42:23 +0100",
+      "description": "O Serviço Geológico dos Estados Unidos (USGS) estima, com base em modelos informáticos, entre 10 mil e 100 mil mortes na sequência dos sismos ocorridos na quarta-feira na Venezuela.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fe/fe7d49a8218fbfc6f9bc8531c3885bc4?w=350&amp;q=50&amp;rect=0,58,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -147,109 +107,179 @@
       "color": "#4fc48a",
       "title": "Mundial 2026: as seleções apuradas, eliminadas e cruzamento nos 16 avos",
       "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-as-selecoes-apuradas-eliminadas-e-cruzamento-nos-16-avos",
-      "pubDate": "Thu, 25 Jun 2026 01:25:00 +0100",
-      "description": "Suíça, Canadá, Brasil e Marrocos juntam-se ao lote das seleções nos 16 avos de final, a Bósnia e Herzegovina aguarda pelo desfecho dos restantes jogos",
+      "pubDate": "Thu, 25 Jun 2026 09:10:00 +0100",
+      "description": "África do Sul junta-se ao lote das seleções nos 16 avos de final, Chéquia é eliminada. Coreia do Sul e Escócia aguardam pelo desfecho dos restantes jogos",
       "thumbnail": "https://img.iol.pt/image/id/6a2afddad34e28842c850f29/250"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Quando vai acabar a onda de calor na Europa? Há países que só terão alívio na próxima semana",
-      "link": "https://executivedigest.sapo.pt/quando-vai-acabar-a-onda-de-calor-na-europa-ha-paises-que-so-terao-alivio-na-proxima-semana/",
-      "pubDate": "Wed, 24 Jun 2026 18:05:25 +0000",
-      "description": "Situação mais grave foi registada em França, onde pelo menos 48 pessoas morreram, incluindo 40 por afogamento, num contexto de procura de alívio junto de rios, lagos e zonas balneares",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A%2FIb45K3iFSFKYoE3O6VzFvI8jcp3eGaBu9YPSBhUpWkoC1zGXujp97v0ek5Xzr3BFH2%2Bzz1%2BP%2FsojdbyjfjsuXLW5j1gUUnFkGLpYvcVevQS5psmCVP4CpPSM568um1F"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Jogos contra o Sporting marcaram a nossa época de forma injusta»",
+      "link": "https://maisfutebol.iol.pt/mftotal/entrevista-maisfutebol/jogos-contra-o-sporting-marcaram-a-nossa-epoca-de-forma-injusta",
+      "pubDate": "Thu, 25 Jun 2026 09:05:00 +0100",
+      "description": "Treinador do Santa Clara acredita na «seriedade de todos os agentes do futebol», mas admite que a eliminação na Taça de Portugal teve um efeito na gestão de expectativas da equipa",
+      "thumbnail": "https://img.iol.pt/image/id/67633cc9d34e94b82908d14d/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Gabriel Silva teve uma evolução tremenda, João Afonso escuta muito bem»",
+      "link": "https://maisfutebol.iol.pt/mftotal/entrevista/gabriel-silva-teve-uma-evolucao-tremenda-joao-afonso-escuta-muito-bem",
+      "pubDate": "Thu, 25 Jun 2026 09:02:00 +0100",
+      "description": "Extremo reforçou Sp. Braga, guarda-redes assinou pelo FC Porto. Em entrevista ao Maisfutebol, Vasco Matos avalia crescimento dos dois jogadores e destaca outro atleta do Santa Clara (ainda)",
+      "thumbnail": "https://img.iol.pt/image/id/6a149bcdd34edcee7c6491a8/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Alex Sandro: «O meu coração ainda está e vai estar sempre no Porto»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/alex-sandro/alex-sandro-o-meu-coracao-ainda-esta-e-vai-estar-sempre-no-porto",
+      "pubDate": "Thu, 25 Jun 2026 09:01:00 +0100",
+      "description": "Lateral esquerdo brasileiro diz que tem muitas saudades da cidade e do clube, e garante ter a certeza que seria muito, muito feliz se um dia voltasse",
+      "thumbnail": "https://img.iol.pt/image/id/6a3c9f99d34edcee7c65ac86/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Danilo: «Voltar ao Porto? Nunca se sabe, tenho ótima relação com o presidente»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/danilo/danilo-voltar-ao-porto-nunca-se-sabe-tenho-otima-relacao-com-o-presidente",
+      "pubDate": "Thu, 25 Jun 2026 09:00:00 +0100",
+      "description": "Lateral direito do Brasil, e do Flamengo, garante que adora o FC Porto, a Invicta e a pessoas da cidade",
+      "thumbnail": "https://img.iol.pt/image/id/6a3c9902d34e28842c858e18/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Carneiro diz que acordo sobre PSU protege os “mais vulneráveis” e rejeita cálculos partidários",
-      "link": "https://eco.sapo.pt/2026/06/24/carneiro-diz-que-acordo-sobre-psu-protege-vulneraveis-e-rejeita-calculos-partidarios/",
-      "pubDate": "Wed, 24 Jun 2026 19:20:01 +0000",
-      "description": "O secretário-geral do PS, José Luís Carneiro, rejeita que a viabilização da Prestação Social Única possa ser lida como um futuro entendimento para o próximo Orçamento do Estado.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AuBuXgfWhEbbWqKuzzr0G5jst80NYLYdN9QrKql4k1yNzp4gYB1ubuo0ozo4TlYzj1uEBpPOsGwc9uR3D%2FFbF24qeQ3tzCdMRySDfiSupRscUT57qhBrkOupVU%2BlKdH%2Bw"
+      "title": "Corrida contra o tempo para salvar pessoas afetadas por duplo sismo na Venezuela",
+      "link": "https://sapo.pt/artigo/corrida-contra-o-tempo-para-salvar-pessoas-afetadas-por-duplo-sismo-na-venezuela-6a3cc14d1e97017de44da9ea",
+      "pubDate": "Thu, 25 Jun 2026 06:21:41 +0000",
+      "description": "Segundo as autoridades locais, os sismos de quarta-feira provocaram o colapso total de pelo menos cinco edifícios em Caracas, quatro deles no leste, e outro nas proximidades do centro da capital. Mais de 30 pessoas morreram e 700 ficaram feridas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=537&W=954&crop=center&delay_optim=1&epic=V2%3A1wU3bsbvb0IHdoP2DvZ5ap6Tt1qTO9jARpx2LH%2BDafbMtH9aUm1dNl4oG%2Bl6vW8TdHm9qx%2FVmGD%2B79qcU%2BHUiXzy3GsvQZaPW%2Fv8qD6dtEuwsJ1EvLZgsTWH35yJ23CY"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Luís Neves rejeita falha no caso das ameaças a Montenegro",
-      "link": "https://sapo.pt/artigo/luis-neves-rejeita-falha-no-caso-das-ameacas-a-montenegro-6a3c382d0ffa5c7efc0b43c6",
-      "pubDate": "Wed, 24 Jun 2026 20:32:29 +0000",
-      "description": "Luís Neves diz que não houve \"falha de coordenação\" no caso do MAL, mas admite que nem tudo foi partilhado com a UCAT. Lista de alvos só foi descoberta no fim da investigação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AEfppsmjZKI4mVQn%2F43bxzeRwgRontbuBq9H%2BCHNGEu7W%2FmbDtbnAY4%2FaliWWX0RTAfsp6Y%2B58YgE9PVR1cZM%2Fagfc9QyTzL%2BGt%2FEXBrU9%2BAFqM0Xlg8Bl723HqQ7wgzU"
+      "title": "Será António Costa o rosto europeu certo para falar com Putin? Especialista analisa os riscos de uma ‘missão explosiva’",
+      "link": "https://executivedigest.sapo.pt/sera-antonio-costa-o-rosto-europeu-certo-para-falar-com-putin-especialista-analisa-os-riscos-de-uma-missao-explosiva/",
+      "pubDate": "Thu, 25 Jun 2026 07:41:14 +0000",
+      "description": "Para o especialista em geopolítica Mário Vaz, a iniciativa de António Costa não deve ser lida como uma cedência ao Kremlin, mas como uma adaptação tardia da Europa a um mundo que mudou",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ae6cxPX2Hh%2FSwmQHoxTFs1sujoo8O5VBO2yrN0%2Fdb81TlWNJLKReOKzBtFEV8XsUvfZA4WgRLOMTE4wXuH%2F7U%2FoyFTFKhAqnj1FHmLxW8%2BcRAsukYLlrQEFDr%2Fl75dDw1"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "PS acusa Moedas de dar \"borlas\" a promotores imobiliários",
-      "link": "https://sapo.pt/artigo/ps-acusa-moedas-de-dar-borlas-a-promotores-imobiliarios-6a3c3b38d1d45faeef3224c7",
-      "pubDate": "Wed, 24 Jun 2026 20:32:29 +0000",
-      "description": "Na reunião pública da CML, Alexandra Leitão acusou o executivo de acumular quase 3 milhões em desperdício enquanto retira o desconto de 50% nas refeições escolares às famílias.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AWfzVaaFlnuQvsRS1PTJIpYjwnYyiQ4unJSquECGdAVsjnSfLcA7rKCfZ5ttaTp8q27zw3rxwHkUilTW7KU9x68WEbdjgSYmd2ovgqMbckbO7MnFM4gT1aGqmXKie1oNY"
+      "title": "Como vai funcionar a nova Prestação Social Única (e o que ainda está por saber)",
+      "link": "https://eco.sapo.pt/2026/06/25/como-vai-funcionar-a-nova-prestacao-social-unica-e-o-que-ainda-esta-por-saber/",
+      "pubDate": "Thu, 25 Jun 2026 06:21:40 +0000",
+      "description": "Acesso à Prestação Social Única vai depender de disponibilidade para trabalho social, mas inserido num plano individual de inserção. Já a ideia de criar um canal de denúncias para fraude caiu.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AOGzO2wBIrPKZeFF%2Bn4xEGfSmPZekQJzjzKa8Wj%2F7Yud9a3Tm52YGQj8Hmkmfyuzy%2BNLqjkWkxbB%2FOMmgN0dlBnQHOAYQ%2FN%2F%2BMjlagGEGcYwFIcfq8LIRwmozmri16tyU"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Sismo de 7,1 atingiu a Venezuela. Houve alerta de tsunami",
-      "link": "https://sapo.pt/artigo/sismo-de-7-1-atinge-a-venezuela-ha-alerta-de-tsuna-6a3c5c3870bb7315bd9576dc",
-      "pubDate": "Wed, 24 Jun 2026 22:39:06 +0000",
-      "description": "O sismo ocorreu às 22h04, com epicentro perto da costa de Sucre e a uma profundidade de cerca de 10 quilómetros, o que aumenta o potencial para provocar fortes vibrações à superfície.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALe3%2BH2F3hjEMktRxMjgApkUx7fOg0Ojz%2FVV%2FQFhvQKYi2xPRLKv6L%2BvFF81LNuNUcOe4NOr%2FiWZQDT3BIoLBVZAjJEC4muBTwvGgkkocklIHmJT3wMPn0hJ2y79xn2pV"
+      "title": "Possibilidade de taxar navegação em Ormuz é “falhanço estratégico dos Estados Unidos”",
+      "link": "https://sapo.pt/artigo/possibilidade-de-taxar-navegacao-em-ormuz-e-falhanco-estrategico-dos-estados-unidos-6a3cc88ba8b62d60d507c795",
+      "pubDate": "Thu, 25 Jun 2026 06:27:24 +0000",
+      "description": "Os Estados Unidos da América (EUA) sempre lutaram pela liberdade de navegação, mas as negociações de paz com o Irão mostram que Washington já não tem capacidade para garantir uma navegação livre. Teerão quer implementar taxas para os navios que...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AcyWVrGzObOgEtPfX32DUmOgMXUcW4eoutjqcMfKl8j5UaDJkFjFKZj5q%2BaqCs9QNPIHq8eQlFQlB3AMM%2FQu%2FFGhZt1CeQ3ruLnxyry2P6GRvpUVN6WUEQqVzCeQF%2BC4l"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Jovens portugueses estão a deixar de beber álcool",
+      "link": "https://jornaleconomico.sapo.pt/noticias/je-diario-jovens-portugueses-estao-a-deixar-de-beber-alcool/",
+      "pubDate": "Thu, 25 Jun 2026 06:21:40 +0000",
+      "description": "m Portugal, 16% da população total planeia cortar no álcool, mas entre os jovens essa percentagem sobe para 20% — um índice de 126 face à média do país, o mais elevado dos cinco mercados europeus analisados",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AjwbzYD6%2Fxm%2FGwozybr1i64ZA9PQfr9doPMKmq2iyG2uk7oE7f5r1yE%2Bsbe1IdR%2Ff2TLEDXQr0xK6W4VNPQ0%2BRXhrlvaoMbyMXS6pZFTo2%2BklMqU9TYsvhq55QejKwClc"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marrocos vence Haiti (que ameaçou surpresa), mas falha topo do grupo",
-      "link": "https://www.noticiasaominuto.com/desporto/3010895/marrocos-vence-haiti-que-ameacou-surpresa-mas-falha-topo-do-grupo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-25 05:39:19",
+      "title": "Vários países expressam solidariedade e oferecem ajuda a Venezuela",
+      "link": "https://www.noticiasaominuto.com/mundo/3011008/varios-paises-expressam-solidariedade-e-oferecem-ajuda-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-25 09:18:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47347384.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3cc9b75d9f6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alternativas vegetarianas têm duas vezes mais aditivos",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3010871/alternativas-vegetarianas-tem-duas-vezes-mais-aditivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-25 00:03:36",
+      "title": "Nissan quer desenvolver carros em metade do tempo (e China é exemplo)",
+      "link": "https://www.noticiasaominuto.com/auto/3010994/nissan-quer-desenvolver-carros-em-metade-do-tempo-e-china-e-exemplo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-25 09:06:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/27066303.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQ2OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3cdd4fabb3d.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzNjAsImNyb3BZIjoxOTh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
-      "link": "https://www.noticiasaominuto.com/desporto/3010315/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-24 23:57:08",
+      "title": "\"Venezuela te busca\". Criados sites para encontrar vítimas de sismos",
+      "link": "https://www.noticiasaominuto.com/tech/3011001/te-buscamos-criado-site-para-ajudar-a-encontrar-vitimas-de-sismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-25 09:00:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3b7657c655f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjY1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODAsImNyb3BYIjoyNDksImNyb3BZIjoyNjV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3cdf0014b95.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MDYsImNyb3BIZWlnaHQiOjM0MSwiY3JvcFgiOjE1NiwiY3JvcFkiOjY5fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump diz que Zelensky está \"a sair-se muito bem\" na guerra com a Rússia",
-      "link": "https://www.noticiasaominuto.com/mundo/3010865/trump-diz-que-zelensky-esta-a-sair-se-muito-bem-na-guerra-com-a-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-24 23:55:55",
+      "title": "Xuxas, maior traficante português, quer sair da prisão. Eis como tentará",
+      "link": "https://www.noticiasaominuto.com/pais/3010981/maior-traficante-portugues-quer-sair-da-prisao-e-e-assim-que-vai-tentar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-25 08:56:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_698ef2364a74f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg1OCwiY3JvcEhlaWdodCI6MTUyNSwiY3JvcFgiOjExNjksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66d180ab8b021.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MTksImNyb3BIZWlnaHQiOjI5MiwiY3JvcFgiOjksImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Registado sismo de magnitude 6,9 no Japão. Veja o momento",
-      "link": "https://www.noticiasaominuto.com/mundo/3010864/registado-sismo-de-magnitude-69-no-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-24 23:49:40",
+      "title": "França emite avisos para tempestades severas e estende alerta de calor",
+      "link": "https://www.noticiasaominuto.com/mundo/3010996/franca-emite-avisos-para-tempestades-severas-e-estende-alerta-de-calor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-25 08:55:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3c61a94a803.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQwNSwiY3JvcEhlaWdodCI6NzE5LCJjcm9wWCI6Mzk2LCJjcm9wWSI6NzF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47343900.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Negócio do século? Apple e Disney estiveram perto de se fundir",
+      "link": "https://pplware.sapo.pt/apple/negocio-do-seculo-apple-e-disney-estiveram-perto-de-se-fundir/",
+      "pubDate": "Thu, 25 Jun 2026 08:00:59 +0000",
+      "description": "Bob Iger, o antigo CEO da Disney, falou sobre o que poderia ter sido o negócio do século. Revelou que a Disney e a Apple discutiram uma fusão histórica que poderia ter transformado a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/apple_disney_fusao_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Por que razão o chocolate fica esbranquiçado? A ciência explica!",
+      "link": "https://pplware.sapo.pt/ciencia/por-que-razao-o-chocolate-fica-esbranquicado-a-ciencia-explica/",
+      "pubDate": "Thu, 25 Jun 2026 07:00:05 +0000",
+      "description": "Aquela camada esbranquiçada que por vezes aparece no chocolate não é mofo nem sinal de que se estragou. Na verdade, é um fenómeno físico bem conhecido da ciência alimentar. Já reparou que, depois de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/chocolate-branco-1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google Meet já está no Android Auto para todas as reuniões",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-meet-ja-esta-no-android-auto-para-todas-as-reunioes/",
+      "pubDate": "Thu, 25 Jun 2026 06:00:24 +0000",
+      "description": "Os limites do escritório moderno continuam a expandir-se. As reuniões de trabalho já não estão limitadas por barreiras físicas, nem mesmo quandose está ao volante dos automóveis. Numa novidade muito aguardada por milhares de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/google_meet_android_auto_0.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,83 +302,53 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/10/apple_samsung_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Prime Day: estas oportunidades para a casa não aparecem todos os dias",
-      "link": "https://pplware.sapo.pt/gadgets/prime-day-estas-oportunidades-para-a-casa-nao-aparecem-todos-os-dias/",
-      "pubDate": "Wed, 24 Jun 2026 19:30:42 +0000",
-      "description": "Os descontos oferecidos pelos Prime Day podem ser úteis para adquirir equipamentos e produtos para a casa que normalmente ficam fora do orçamento. De pequenos eletrodomésticos a equipamentos de limpeza ou soluções para a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/eletrodomesticos-cozinha-casa02.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Thriller psicológico Time To Wake Up já tem demo",
-      "link": "https://pplware.sapo.pt/jogos/thriller-psicologico-time-to-wake-up-ja-tem-demo/",
-      "pubDate": "Wed, 24 Jun 2026 19:00:24 +0000",
-      "description": "O thriller psicológico dos estúdios indies belgas Eye Blink Twice, Time To Wake Up, já tem uma demo disponível no Steam. Querem conhecer um pouco melhor o jogo? Os estúdios belgas independentes Eye Blink&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/TTWU_0.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Citroën C3 Aircross Marine Nationale: concept car celebra os 400 anos da Marinha Francesa",
-      "link": "https://pplware.sapo.pt/motores/citroen-c3-aircross-marine-nationale-concept-car-celebra-os-400-anos-da-marinha-francesa/",
-      "pubDate": "Wed, 24 Jun 2026 18:30:24 +0000",
-      "description": "Para celebrar os 400 anosda Marinha Francesa, as equipas do Design Citroën e da Marine Nationale conceberam uma versão musculada e aventureira do C3 Aircross, pensada para intervenções em condições extremas, ao serviço da&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/front-copie.jpg"
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Rampa do CAR promete novo capítulo de uma temporada absolutamente apaixonante",
-      "link": "https://www.autosport.pt/velocidade/rampa-do-car-promete-novo-capitulo-de-uma-temporada-absolutamente-apaixonante/",
-      "pubDate": "Wed, 24 Jun 2026 16:37:31 +0000",
-      "description": "O Campeonato de Portugal de Montanha JC Group entra este fim de semana numa nova fase da temporada. Depois das visitas a Murça, Penha e Serra da Estrela, chega agora a vez do Douro Vinhateiro acolher a quarta prova do calendário, com a realização da Rampa CAR, organizada pelo Clube Automóvel da Régu",
+      "title": "GP da Áustria de F1: Altitude e gestão térmica desafiam equipas no Red Bull Ring",
+      "link": "https://www.autosport.pt/formula1/gp-da-austria-de-f1-altitude-e-gestao-termica-desafiam-equipas-no-red-bull-ring/",
+      "pubDate": "Thu, 25 Jun 2026 07:59:00 +0000",
+      "description": "O Campeonato do Mundo de Fórmula 1 ruma este fim de semana ao território da Red Bull para a disputa da 39ª edição do Grande Prémio da Áustria. O circuito de Spielberg, uma pista rápida com 4,326 quilómetros e apenas dez curvas, impõe um traçado do tipo ‘stop and go’, onde as fortes travagens e [&#82",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Romain Dumas vence Pikes Peak pela sexta vez",
-      "link": "https://www.autosport.pt/velocidade/romain-dumas-vence-pikes-peak-pela-sexta-vez/",
-      "pubDate": "Wed, 24 Jun 2026 16:13:00 +0000",
-      "description": "Romain Dumas conquistou a sua sexta vitória absoluta na mítica rampa de Pikes Peak, cuja 104ª edição se disputou no passado fim de semana no Colorado, Estados Unidos. Ao volante do protótipo elétrico Ford Super Mustang Mach-E EV, Dumas completou o sinuoso traçado de 19,99 quilómetros e 156 curvas em",
+      "title": "Leapmotor B05 Ultra específico para a Europa",
+      "link": "https://www.autosport.pt/automais/leapmotor-b05-ultra-especifico-para-a-europa/",
+      "pubDate": "Thu, 25 Jun 2026 07:53:18 +0000",
+      "description": "Por Pedro Junceiro A Leapmotor prepara-se para introduzir o B05 no mercado nacional. Este modelo está equipado com motor elétrico traseiro de 218 cv, mas a marca chinesa na “órbita” da Stellantis (o consórcio franco-italo-americano detém participação de 51% na divisão internacional do fabricante)est",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "WRC, Rali Acrópole: Grécia abre segunda metade do Mundial com recorde de Rally1",
-      "link": "https://www.autosport.pt/ralis/wrc-rali-acropole-grecia-abre-segunda-metade-do-mundial-com-recorde-de-rally1/",
-      "pubDate": "Wed, 24 Jun 2026 09:41:13 +0000",
-      "description": "O WRC entra na sua segunda metade da temporada de 2026 com a realização do histórico Rali Acrópole, na Grécia, entre 25 e 28 de junho. A oitava ronda do calendário fica marcada por uma lista de inscritos recorde na presente época, alinhando um total de 12 viaturas da categoria principal Rally1 nos e",
+      "title": "6ª vitória de Romain Dumas em Pikes Peak: “esprememos tudo o que podíamos, estamos sempre a jogar com os limites”",
+      "link": "https://www.autosport.pt/velocidade/6a-vitoria-de-romain-dumas-em-pikes-peak-esprememos-tudo-o-que-podiamos-estamos-sempre-a-jogar-com-os-limites/",
+      "pubDate": "Thu, 25 Jun 2026 07:47:00 +0000",
+      "description": "Romain Dumas e a Ford Racing alcançaram a vitória absoluta na 104ª edição da mítica rampa de Pikes Peak, nos Estados Unidos. Aos comandos do protótipo elétrico nº 125, o Super Mustang Mach-E EV, Dumas cumpriu a subida até ao topo em 8m18,202s.O resultado coroou o gaulês como &#8220;Rei da Montanha&#",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "F1: Cadillac introduz pacote alargado de atualizações para o GP da Áustria",
-      "link": "https://www.autosport.pt/formula1/f1-cadillac-introduz-pacote-alargado-de-atualizacoes-para-o-gp-da-austria/",
-      "pubDate": "Wed, 24 Jun 2026 09:31:10 +0000",
-      "description": "A Cadillac confirmou a introdução de um pacote &#8220;substancial&#8221; de atualizações no Grande Prémio da Áustria.A escuderia norte-americana, estreante na categoria, procura aproximar-se do meio do pelotão e somar os primeiros pontos da temporada de 2026. Até ao momento, o melhor resultado perte",
+      "title": "José Cautela regressa à European Le Mans Series nas 4 Horas de Imola",
+      "link": "https://www.autosport.pt/velocidade/jose-cautela-regressa-a-european-le-mans-series-nas-4-horas-de-imola/",
+      "pubDate": "Thu, 25 Jun 2026 07:41:00 +0000",
+      "description": "José Cautela volta à competição entre os dias 3 e 5 de julho para disputar as 4 Horas de Imola, a terceira ronda da European Le Mans Series (ELMS). A correr na categoria LMP3 no Autódromo Enzo e Dino Ferrari, em Itália, a sua equipa ocupa o segundo lugar do campeonato, numa fase em que [&#8230;]\nThe",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Lance Stroll analisa a sua evolução na F1 e admite dificuldades da Aston Martin",
-      "link": "https://www.autosport.pt/formula1/lance-stroll-analisa-a-sua-evolucao-na-f1-e-admite-dificuldades-da-aston-martin/",
-      "pubDate": "Wed, 24 Jun 2026 09:27:54 +0000",
-      "description": "Lance Stroll refletiu sobre a sua evolução após quase dez anos na Fórmula 1 e abordou o arranque difícil da Aston Martin na temporada de 2026. Sob o novo regulamento técnico e com a parceria da Honda nas unidades de potência, a escuderia tem enfrentado contratempos, mas o piloto canadiano mantém a c",
+      "title": "Porsche Cup Brasil regressa à competição no Algarve com 21 pilotos inscritos",
+      "link": "https://www.autosport.pt/velocidade/porsche-cup-brasil-regressa-a-competicao-no-algarve-com-21-pilotos-inscritos/",
+      "pubDate": "Thu, 25 Jun 2026 07:31:00 +0000",
+      "description": "A Porsche C6 Bank Sprint Challenge Brasil ruma a Portugal para disputar a sua terceira etapa da temporada no Autódromo Internacional do Algarve. A ronda em solo luso marca o fim de um longo hiato de 95 dias sem atividade oficial da categoria. O jejum decorreu do adiamento da prova originalmente agen",
       "thumbnail": ""
     }
   ]
