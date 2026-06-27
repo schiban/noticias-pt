@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-27T20:58:38.321155+00:00",
+  "updated": "2026-06-27T22:07:39.790865+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Atwood: \"Dizem-me: 'A História de uma Serva' não é ficção\"",
+      "link": "https://observador.pt/especiais/margaret-atwood-no-porto-recebo-cartas-de-todo-o-mundo-e-dizem-me-a-historia-de-uma-serva-nao-e-ficcao-esta-a-acontecer/",
+      "pubDate": "Sat, 27 Jun 2026 22:43:54 +0100",
+      "description": "Mais de mil pessoas encheram a Praça Gomes Teixeira para ouvir a escritora canadiana de 86 anos no festival Babell. Salman Rushdie estava na plateia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:204/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27205751/jporfirio-margaret-atwood-babell-27-06-02-14-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "22h. Mundial 2026. Joga a esta hora o Grupo L",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1809/",
+      "pubDate": "Sat, 27 Jun 2026 22:11:30 +0100",
+      "description": "A Inglaterra joga contra o Panamá e a Croácia frente ao Gana. Ainda, daqui a pouco mais de duas horas, Portugal joga frente à Colômbia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,42 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:170/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27192802/34261702.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Governo aposta na indústria verde para atrair investimento",
-      "link": "https://observador.pt/2026/06/27/governo-avanca-com-estrategia-industrial-verde-para-atrair-investimento/",
-      "pubDate": "Sat, 27 Jun 2026 21:28:54 +0100",
-      "description": "A agenda económica, projetada até 2040, visa transformar a vantagem energética portuguesa num ativo estratégico para atrair indústrias como aço verde, baterias e mobilidade elétrica.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17165357/47301754.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PS de Gaia a favor de ponte com tabuleiro rodoviário",
-      "link": "https://observador.pt/2026/06/27/ps-de-vila-nova-de-gaia-defende-tabuleiro-rodoviario-da-nova-ponte/",
-      "pubDate": "Sat, 27 Jun 2026 21:26:08 +0100",
-      "description": "Luís Filipe Menezes mantém oposição a mais quilómetros de linha a céu aberto e à transferência da estação para Santo Ovídio. PS diz que autarca contradiz o que prometeu em campanha.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/17125525/45836878.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Venezuela. ONU estima danos em cerca de 6,7 mil milhões de dólares",
-      "link": "https://www.rtp.pt/noticias/mundo/venezuela-onu-estima-danos-em-cerca-de-67-mil-milhoes-de-dolares_n1749964",
-      "pubDate": "Sat, 27 Jun 2026 22:34:13 +0100",
-      "description": "A ONU indicou hoje estimar em 6,7 mil milhões de dólares (5,8 mil milhões de euros) os danos em habitações e bens como veículos, edifícios e empresas devido aos dois sismos que atingiram a Venezuela na quarta-feira.",
+      "title": "PR cabo-verdiano visita Portugal e será distinguido pela Universidade de Coimbra",
+      "link": "https://www.rtp.pt/noticias/mundo/pr-cabo-verdiano-visita-portugal-e-sera-distinguido-pela-universidade-de-coimbra_n1749971",
+      "pubDate": "Sat, 27 Jun 2026 23:42:36 +0100",
+      "description": "O Presidente cabo-verdiano inicia segunda-feira uma visita de quatro dias a Portugal, durante a qual será distinguido com a Medalha da Universidade de Coimbra em reconhecimento pelo contributo para a consolidação da democracia e o desenvolvimento de Cabo Verde.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "21h Venezuela voltou a tremer: sismo de 4.8 registado a 70 km de Caracas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-venezuela-voltou-a-tremer-sismo-de-48-registado-a-70-km-de-caracas_a1_1749966",
-      "pubDate": "Sat, 27 Jun 2026 22:25:04 +0100",
+      "title": "Colômbia - Portugal",
+      "link": "https://www.rtp.pt/noticias/mundial-2026/colombia-portugal_e1749970",
+      "pubDate": "Sat, 27 Jun 2026 23:36:46 +0100",
+      "description": "Portugal precisa de vencer a Colômbia para terminar em primeiro lugar no Grupo K do Campeonato do Mundo, num duelo entre duas equipas já apuradas para os 16 avos de final.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/29/293dd7397d4ea87d09b4ad856fd776ce?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "22h Seleção prestes a enfrentar a Colômbia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-selecao-prestes-a-enfrentar-a-colombia_a1_1749969",
+      "pubDate": "Sat, 27 Jun 2026 23:25:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,40 +85,50 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mundial2026. Cabo-verdianos festejam apuramento histórico",
-      "link": "https://www.rtp.pt/noticias/desporto/mundial2026-cabo-verdianos-festejam-apuramento-historico_v1749965",
-      "pubDate": "Sat, 27 Jun 2026 22:15:47 +0100",
-      "description": "Foram centenas as pessoas que festejaram o apuramento histórico de Cabo Verde no Mundial de futebol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0c/0c665685ff44035c661c455db8f88e39_N.jpg?"
+      "title": "Dinamarca atinge temperatura recorde de 37 graus",
+      "link": "https://www.rtp.pt/noticias/mundo/dinamarca-atinge-temperatura-recorde-de-37-graus_n1749968",
+      "pubDate": "Sat, 27 Jun 2026 23:21:15 +0100",
+      "description": "A Dinamarca registou hoje uma temperatura máxima de 37 graus, batendo um recorde desde que há registos, iniciados há mais de 150 anos, revelou o Instituto Meteorológico deste país nórdico.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Novo pacote de incentivos de 10 milhões de euros para compra de carro elétrico pode avançar ainda este ano",
-      "link": "https://www.rtp.pt/noticias/economia/novo-pacote-de-incentivos-de-10-milhoes-de-euros-para-compra-de-carro-eletrico-pode-avancar-ainda-este-ano_v1749785",
-      "pubDate": "Sat, 27 Jun 2026 22:06:13 +0100",
-      "description": "O segundo pacote de incentivos de 10 milhões de euros para a compra de automóvel elétrico pode avançar ainda na segunda metade do ano se, entretanto, os efeitos da crise no Médio Oriente passarem e for possível retirar os apoios que agora estão reservados, por exemplo, ao setor dos transportes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b7b7d19d4e11d3478685f991d00646e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ligação de alta tensão entre Portugal e Espanha inaugurada na próxima semana. Governo cumpre meta dos 15%",
-      "link": "https://www.rtp.pt/noticias/economia/ligacao-de-alta-tensao-entre-portugal-e-espanha-inaugurada-na-proxima-semana-governo-cumpre-meta-dos-15_v1749777",
-      "pubDate": "Sat, 27 Jun 2026 22:05:55 +0100",
-      "description": "A partir da próxima semana, Portugal vai estar a cumprir a meta dos 15 por cento traçada pela União Europeia (UE) para a ligação elétrica a Espanha e, dia 6 de julho, reúne com o Governo francês e espanhol, em Paris, para definir o calendário para a ligação a França.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/94/94946aee7d99e73c1bbf53ee6c985574?q=50&amp;rect=0,0,1920,1080&amp;auto=format&amp;w=350"
+      "title": "Venezuela. Base da missão portuguesa ficará em Cátia la Mar, La Guaira",
+      "link": "https://www.rtp.pt/noticias/mundo/venezuela-base-da-missao-portuguesa-ficara-em-catia-la-mar-la-guaira_n1749967",
+      "pubDate": "Sat, 27 Jun 2026 23:20:34 +0100",
+      "description": "A base de operações da missão portuguesa de resposta aos sismos na Venezuela será instalada na localidade de Catia La Mar, em La Guaira, uma zona de grande concentração de portugueses e lusodescendentes.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Nico Williams reage à lesão: «É um dos piores dias da minha vida...»",
+      "title": "OFICIAL: Moreirense anuncia saída de Cédric Teguia",
+      "link": "https://maisfutebol.iol.pt/liga/moreirense/oficial-moreirense-anuncia-saida-de-cedric-teguia",
+      "pubDate": "Sat, 27 Jun 2026 22:28:46 +0100",
+      "description": "Extremo esteve uma época e meia no clube",
+      "thumbnail": "https://img.iol.pt/image/id/6802127bd34e3f0bae9d1a09/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: após eliminação, Federação uruguaia cancela voo charter para jogadores",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-apos-eliminacao-uruguaios-regressam-em-voos-comerciais",
+      "pubDate": "Sat, 27 Jun 2026 22:13:00 +0100",
+      "description": "Federação Uruguaia de Futebol obriga jogadores a viajar por conta própria",
+      "thumbnail": "https://img.iol.pt/image/id/6a3f208cd34edcee7c65c230/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: Nico Williams reage à lesão e critica jogador uruguaio",
       "link": "https://maisfutebol.iol.pt/mundial-2026/espanha/nico-williams-reage-a-lesao-e-um-dos-piores-dias-da-minha-vida",
       "pubDate": "Sat, 27 Jun 2026 21:45:00 +0100",
-      "description": "Avançado do Athletic Bilbao lesionou-se no jogo frente ao Uruguai",
+      "description": "Avançado do Athletic Bilbao lesionou-se devido a uma entrada de Nicolás de la Cruz",
       "thumbnail": "https://img.iol.pt/image/id/6978d051d34e0ec52ec2c77b/250"
     },
     {
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 27 Jun 2026 20:24:00 +0100",
       "description": "Avançados lesionaram-se frente ao Uruguai",
       "thumbnail": "https://img.iol.pt/image/id/6a402253d34edcee7c65c681/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hóquei: Henrique Magalhães e Roc Pujadas de saída do Sporting",
-      "link": "https://maisfutebol.iol.pt/hoquei/sporting/hoquei-henrique-magalhaes-encerra-o-segundo-ciclo-no-sporting",
-      "pubDate": "Sat, 27 Jun 2026 20:07:00 +0100",
-      "description": "Antigo internacional português está de malas aviadas para o regresso a Valongo e o avançado espanhol deverá rumar ao Reus",
-      "thumbnail": "https://img.iol.pt/image/id/689370f2d34ef72ee449284d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica: orçamento para 2026/27 aprovado com 54,57 por cento dos votos",
-      "link": "https://maisfutebol.iol.pt/benfica/assembleia-geral/benfica-socios-aprovam-orcamento-para-2026-27-com-54-57-por-cento-dos-votos",
-      "pubDate": "Sat, 27 Jun 2026 19:43:00 +0100",
-      "description": "Rui Costa agradeceu por «dia produtivo» e apontou à finalíssima do futsal",
-      "thumbnail": "https://img.iol.pt/image/id/6a401a2bd34e28842c85a812/250"
     },
     {
       "sourceId": "sapo",
@@ -175,11 +175,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Dezenas de milhares de pessoas enchem ruas de Budapeste na primeria marcha do Orgulho LGBTQ+ pós-Orbán",
-      "link": "https://sapo.pt/artigo/dezenas-de-milhares-de-pessoas-enchem-ruas-de-budapeste-na-primeria-marcha-do-orgulho-lgbtq-pos-orban-6a400a5350cbad39db84b95a",
-      "pubDate": "Sat, 27 Jun 2026 18:29:07 +0000",
-      "description": "O novo governo da Hungria não revogou a legislação da era Orbán que proibia a Parada do Orgulho, mas este ano a polícia autorizou o evento e assegurou a segurança ao longo do percurso.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AdCdUGH9F87VtBJRuPzqlnGAk3%2BYNwyc9H8Q6K8kBso%2FRgkGl1p3y2r0prIqeHOQ9QbwJr%2B2moU5vF1J8df%2BJonqM8PnpAvteX1vcDwAHhwSBVx%2BTx0FX5up0GtOOxzgn"
+      "title": "Trump já escolheu um novo nome para liderar o ICE: é um antigo fuzileiro e policial de Oklahoma",
+      "link": "https://sapo.pt/artigo/trump-ja-escolheu-um-novo-nome-para-liderar-o-ice-e-um-antigo-fuzileiro-e-policial-de-oklahoma-6a40401b50cbad39db96f8cb",
+      "pubDate": "Sat, 27 Jun 2026 21:59:22 +0000",
+      "description": "Lance Schroyer indicado pelo presidente norte-americano para diretor da polémica  agência responsável pela execução da política de imigração da administração norte-americana.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=219&W=390&crop=center&delay_optim=1&epic=V2%3A2o3kKDZ2NP1ByNiQzpykSF%2FbXUf3%2FRkAMaEm4OT13nBDkViFBxd2JCda6R9nwsFhcW3jjB8hazl76UJishJ%2FmpiQZzM3gd1Llr3ngGjijb21s%2BDWrcDwSlPwwhVFC8IT"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Venezuela regista novo sismo de magnitude 4,8",
-      "link": "https://www.noticiasaominuto.com/mundo/3012409/venezuela-regista-novo-sismo-de-magnitude-4-8#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-27 21:56:52",
+      "title": "Novas mexidas. O onze de Portugal para o duelo com a Colômbia",
+      "link": "https://www.noticiasaominuto.com/desporto/3012371/novas-mexidas-o-onze-de-portugal-para-o-duelo-com-a-colombia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-27 23:05:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47364961.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4006868662e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tsunami, conheça o cão-herói que está a ajudar nos resgates na Venezuela",
-      "link": "https://www.noticiasaominuto.com/mundo/3012404/tsunami-conheca-o-cao-heroi-que-esta-a-ajudar-nos-resgates-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-27 21:55:39",
+      "title": "Neuville segura liderança do Rali da Acrópole, mas Ogier está mais perto",
+      "link": "https://www.noticiasaominuto.com/auto/3012426/neuville-segura-lideranca-do-rali-da-acropole-mas-ogier-esta-mais-perto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-27 23:01:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4038587739a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MTksImNyb3BIZWlnaHQiOjM0OCwiY3JvcFgiOjExLCJjcm9wWSI6MjMzfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47356516.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Uruguai a ferro e fogo. Federação toma medida drástica no regresso a casa",
-      "link": "https://www.noticiasaominuto.com/desporto/3012410/uruguai-a-ferro-e-fogo-federacao-toma-medida-drastica-no-regresso-a-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-27 21:54:23",
+      "title": "Martínez avisou e a 'invasão' colombiana é mesmo uma realidade",
+      "link": "https://www.noticiasaominuto.com/desporto/3012425/martinez-avisou-e-a-invasao-colombiana-e-mesmo-uma-realidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-27 22:51:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4032e2f20c4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk0LCJjcm9wWCI6MTM1NiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47365150.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU estima danos em cerca de 6,7 mil milhões de dólares na Venezuela",
-      "link": "https://www.noticiasaominuto.com/mundo/3012402/onu-estima-danos-em-cerca-de-6-7-mil-milhoes-de-dolares-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-27 21:40:36",
+      "title": "PR cabo-verdiano será distinguido pela Universidade de Coimbra",
+      "link": "https://www.noticiasaominuto.com/pais/3012423/pr-cabo-verdiano-sera-distinguido-pela-universidade-de-coimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-27 22:50:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a40351b9740f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47319159.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYzOSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Insólito. Brasil vai defrontar Japão, mas Rayan desconhece adversários",
-      "link": "https://www.noticiasaominuto.com/desporto/3012405/insolito-brasil-vai-defrontar-japao-mas-rayan-desconhece-adversarios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-06-27 21:35:27",
+      "title": "As imagens da chegada da seleção nacional ao Miami Stadium",
+      "link": "https://www.noticiasaominuto.com/desporto/3012422/as-imagens-da-chegada-da-selecao-nacional-ao-miami-stadium#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-06-27 22:39:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4033bd67e0a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4040a46347f.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "iOS 27 torna a app Atalhos muito mais inteligente graças à Apple Intelligence",
+      "link": "https://pplware.sapo.pt/apple/ios-27-torna-a-app-atalhos-muito-mais-inteligente-gracas-a-apple-intelligence/",
+      "pubDate": "Sat, 27 Jun 2026 21:30:37 +0000",
+      "description": "A Apple deu um dos maiores passos de sempre na evolução da aplicação Atalhos (Shortcuts) com o iOS 27. A partir desta versão, deixa de ser necessário construir automatizações complexas ação a ação. Em&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/atalhos_ios27_00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 27 Jun 2026 18:00:11 +0000",
       "description": "A Outright Games e a Dr. Seuss Enterprises revelaram uma nova página da História de Natal com o anuncio de The Grinch 2: Saving Christmas. Venham conhecer um pouco melhor o jogo. O Natal&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/Grinch2_0.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Afinal, a IA não está a substituir os programadores! O que está a acontecer?",
-      "link": "https://pplware.sapo.pt/informacao/afinal-a-ia-nao-esta-a-substituir-os-programadores-o-que-esta-a-acontecer/",
-      "pubDate": "Sat, 27 Jun 2026 17:00:26 +0000",
-      "description": "Durante os últimos dois anos, multiplicaram-se as previsões de que a Inteligência Artificial iria eliminar milhares de postos de trabalho na engenharia de software/programadores. Mas será mesmo tempo? Os dados mais recentes mostram um&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/ia_programming.jpg"
     },
     {
       "sourceId": "autosport",
