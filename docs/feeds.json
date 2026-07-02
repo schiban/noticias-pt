@@ -1,13 +1,43 @@
 {
-  "updated": "2026-07-02T01:31:29.004193+00:00",
+  "updated": "2026-07-02T05:56:10.759740+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2339/",
-      "pubDate": "Thu, 02 Jul 2026 02:16:45 +0100",
+      "title": "Três filmes para ver esta semana",
+      "link": "https://observador.pt/2026/07/02/tres-filmes-para-ver-esta-semana-311/",
+      "pubDate": "Thu, 02 Jul 2026 06:31:01 +0100",
+      "description": "O francês \"L'Aventura\", o novo filme de animação dos Mínimos — \"Mínimos e Monstros\" —, e o policial \"Tuner — Ouvido Absoluto, Mão Leve\", são as escolhas desta semana de Eurico de Barros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1201:674:nowe:0:135/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01155144/aventura1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "“Tuner — Ouvido Absoluto, Mão Leve”: impecavelmente afinado",
+      "link": "https://observador.pt/2026/07/02/tuner-ouvido-absoluto-mao-leve-impecavelmente-afinado/",
+      "pubDate": "Thu, 02 Jul 2026 06:30:02 +0100",
+      "description": "O oscarizado documentarista Daniel Roher estreia-se no cinema de ficção com “Tuner — Ouvido Absoluto, Mão Leve”, um policial sobre afinadores de pianos. Eurico de Barros dá-lhe quatro estrelas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1344:756:nowe:28:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30223300/tuner2.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Martinez: “Há 2 mundiais.\" Não ganhámos o 1º, ganhamos o 2º?",
+      "link": "https://observador.pt/programas/diario-do-mundial/martinez-ha-2-mundiais-nao-ganhamos-o-1o-ganhamos-o-2o/",
+      "pubDate": "Thu, 02 Jul 2026 06:29:46 +0100",
+      "description": "Portugal joga com a Croácia no início do que Martinez chama de 2º Mundial. O que quer dizer o selecionador? Ainda, os \"sustos\" de Inglaterra e Bélgica e o sucesso dos anfitriões.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12112515/770-podcastdiario-mundi.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2422/",
+      "pubDate": "Thu, 02 Jul 2026 06:13:09 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,49 +45,19 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2311/",
-      "pubDate": "Thu, 02 Jul 2026 01:16:01 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Estes \"Diabos Vermelhos\" gostam de emoção",
-      "link": "https://observador.pt/programas/minuto-90/estes-diabos-vermelhos-gostam-de-emocao/",
-      "pubDate": "Thu, 02 Jul 2026 00:40:22 +0100",
-      "description": "A Bélgica estava a perder por dois golos, empatou aos 86' e 89', e depois, no prolongamento, aos 120'+5, consumou a reviravolta (3-2). Senegal despede-se do Mundial 2026, de forma inglória.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O MAL português",
-      "link": "https://observador.pt/opiniao/o-mal-portugues/",
-      "pubDate": "Thu, 02 Jul 2026 00:25:31 +0100",
-      "description": "O MAL preparava meticulosamente os atentados, operações cuidadosamente planeadas desde 2018.  Entretanto, nem um único cocktail Molotov numa qualquer manifestação lançou. Nada.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2040%3A2039%3Anowe%3A216%3A241%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170546%2Fjaime-nogueira-pinto.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Parabéns, Estados Desunidos da América",
-      "link": "https://observador.pt/opiniao/parabens-estados-desunidos-da-america/",
-      "pubDate": "Thu, 02 Jul 2026 00:24:06 +0100",
-      "description": "Nos 250 anos dos EUA, o aniversariante só recebe carolos na cabeça – e paga a fava.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+      "title": "“Não me foco no objetivo final, mas no processo”",
+      "link": "https://observador.pt/programas/querido-lder/nao-me-foco-no-objetivo-final-mas-no-processo/",
+      "pubDate": "Thu, 02 Jul 2026 06:05:06 +0100",
+      "description": "Pedro Fontes é responsável pela Direção de Sistemas de Informação e Transformação Digital na EPAL. Uma partilha sobre a necessidade de dotar as equipas de ferramentas que fomentem a autonomia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/30180533/770-podcast-querido-lider-1.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Sismos. ONU alerta para risco de fome e doenças na Venezuela",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismos-onu-alerta-para-risco-de-fome-e-doencas-na-venezuela_a1_1750787",
-      "pubDate": "Thu, 02 Jul 2026 03:27:01 +0100",
+      "title": "6h Incêndio de Alfândega da Fé em fase de rescaldo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-incendio-de-alfandega-da-fe-em-fase-de-rescaldo_a1_1750800",
+      "pubDate": "Thu, 02 Jul 2026 07:15:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,91 +65,91 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h ONU alerta para o risco iminente de fome e de doenças na Venezuela",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-onu-alerta-para-o-risco-iminente-de-fome-e-de-doencas-na-venezuela_a1_1750786",
-      "pubDate": "Thu, 02 Jul 2026 02:40:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Ataques de mísseis e drones a Kiev causam dois mortos",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataques-de-misseis-e-drones-a-kiev-causam-dois-mortos_n1750797",
+      "pubDate": "Thu, 02 Jul 2026 06:38:07 +0100",
+      "description": "A capital ucraniana foi hoje alvo de barragens de mísseis e drones russos que provocaram incêndios e causaram pelo menos duas mortes, após um alerta do Presidente da Ucrânia, Volodymyr Zelensky, sobre uma ofensiva &quot;de grande envergadura&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/05/0529afb6191abd74f392029f17898de2?w=350&amp;q=50&amp;rect=0,155,2048,1123&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "EUA decidem não renovar acordo de livre comércio norte-americano com Canadá e México",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-decidem-nao-renovar-acordo-de-livre-comercio-norte-americano-com-canada-e-mexico_n1750775",
-      "pubDate": "Thu, 02 Jul 2026 01:57:00 +0100",
-      "description": "Washington anunciou esta noite que não renova o acordo de livre comércio entre Estados Unidos, Canadá e México (ACEUM), apesar do prazo ter sido atingido, mas garante que continuará a negociar com os dois parceiros para melhorar o acordo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "China insta Estados Unidos a tratarem questão de Taiwan \"com a máxima prudência\"",
+      "link": "https://www.rtp.pt/noticias/mundo/china-insta-estados-unidos-a-tratarem-questao-de-taiwan-com-a-maxima-prudencia_n1750796",
+      "pubDate": "Thu, 02 Jul 2026 06:35:20 +0100",
+      "description": "O chefe da diplomacia chinesa, Wang Yi, instou os Estados Unidos a tratarem a questão de Taiwan &quot;com máxima prudência&quot;, durante uma conversa telefónica com o secretário de Estado norte-americano, Marco Rubio, segundo um comunicado divulgado hoje.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d3592d9555ee7621e3f75f1cb195416?w=350&amp;q=50&amp;rect=0,46,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Guerra na Ucrânia causada pela invasão russa causou mais de dois milhões de vítimas",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/guerra-na-ucrania-causada-pela-invasao-russa-causou-mais-de-dois-milhoes-de-vitimas_n1750777",
-      "pubDate": "Thu, 02 Jul 2026 01:56:41 +0100",
-      "description": "A guerra causada pela invasão russa da Ucrânia já causou mais de dois milhões de vítimas russas e ucranianas, juntando mortos, feridos e desaparecidos, segundo um estudo divulgado na quarta-feira nos EUA.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Serviços de imigração dos EUA duplica ritmo de detenções nos últimos cinco dias",
+      "link": "https://www.rtp.pt/noticias/mundo/servicos-de-imigracao-dos-eua-duplica-ritmo-de-detencoes-nos-ultimos-cinco-dias_n1750794",
+      "pubDate": "Thu, 02 Jul 2026 06:33:38 +0100",
+      "description": "Os serviços de imigração norte-americanos detiveram mais de 10.000 pessoas em cinco dias, duplicando o ritmo de detenções registadas no início do ano, no âmbito de uma estratégia para intensificar a aplicação das leis de imigração.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e2c405e9cbcb7c0d7202b334bfcd042?w=350&amp;q=50&amp;rect=0,29,984,539&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Selecionador da Croácia considera que Portugal \"é uma das seleções mais fortes do mundo\"",
-      "link": "https://www.rtp.pt/noticias/desporto/selecionador-da-croacia-considera-que-portugal-e-uma-das-selecoes-mais-fortes-do-mundo_v1750784",
-      "pubDate": "Thu, 02 Jul 2026 01:53:47 +0100",
-      "description": "O selecionador da Croácia diz que a equipa portuguesa é uma das mais fortes do mundo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/aa/aadf4d3286beb49f3db0cd124ea8543a_N.jpg?"
+      "title": "Timor-Leste vai ter hospital militar construído pela China anunciou PM timorense",
+      "link": "https://www.rtp.pt/noticias/mundo/timor-leste-vai-ter-hospital-militar-construido-pela-china-anunciou-pm-timorense_n1750793",
+      "pubDate": "Thu, 02 Jul 2026 06:31:26 +0100",
+      "description": "O primeiro-ministro timorense, Xanana Gusmão, disse hoje que a China vai construir um hospital militar e formar médicos para diminuir a dependência de estabelecimentos hospitalares estrangeiros para tratamentos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/66/66a47616e2f721cbc99e121b7e016fce?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Os estragos que um bêbado pode provocar",
-      "link": "https://maisfutebol.iol.pt/opiniao/falar-de-bola/os-estragos-que-um-bebado-pode-provocar",
-      "pubDate": "Thu, 2 Jul 2026 02:05:00 +0100",
-      "description": "«Adoro o cheiro a soccer pela manhã» é um diário de viagem de Sérgio Pereira, enviado especial aos Estados Unidos para cobrir o Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a2962b3d34edcee7c652078/250"
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Thu, 2 Jul 2026 03:50:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Portugal é uma seleção fantástica, especialmente nos jogadores do meio-campo»",
-      "link": "https://maisfutebol.iol.pt/portugal/selecao/portugal-e-uma-selecao-fantastica-especialmente-nos-jogadores-do-meio-campo",
-      "pubDate": "Thu, 2 Jul 2026 01:11:19 +0100",
-      "description": "Zlatko Dalić deixou muitos elogios à Seleção Nacional e concordou com Roberto Martínez: o jogo vai decidir-se na luta do meio-campo",
-      "thumbnail": "https://img.iol.pt/image/id/6664a3a1d34e04989221be74/250"
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Thu, 2 Jul 2026 03:49:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Gosto muito de Modric, mas espero que amanhã saia triste do jogo»",
-      "link": "https://maisfutebol.iol.pt/portugal/selecao/gosto-muito-de-modric-mas-espero-que-amanha-saia-triste-do-jogo",
-      "pubDate": "Thu, 2 Jul 2026 00:55:26 +0100",
-      "description": "Vitinha diz que o croata foi uma referência para ele",
-      "thumbnail": "https://img.iol.pt/image/id/6a457cdcd34e28842c85d30a/250"
+      "title": "Mundial 2026: lista de todos os marcadores na fase final",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
+      "pubDate": "Thu, 2 Jul 2026 03:39:00 +0100",
+      "description": "Mbappé bisa e iguala Messi com seis golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a4447dfd34e28842c85c6ce/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Sei que para estes emigrantes vai ser muito importante»",
-      "link": "https://maisfutebol.iol.pt/portugal/selecao/sei-que-para-estes-emigrantes-vai-ser-muito-importante",
-      "pubDate": "Thu, 2 Jul 2026 00:49:00 +0100",
-      "description": "Vitinha diz que Portugal está habituado a grandes receções sempre que joga em cidades onde existem grandes comunidades de emigrantes",
-      "thumbnail": "https://img.iol.pt/image/id/6a457cdcd34e28842c85d30c/250"
+      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
+      "pubDate": "Thu, 2 Jul 2026 03:37:00 +0100",
+      "description": "São 104 partidas ao longo de 39 dias",
+      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Modric ou Ronaldo despedem-se dos Mundiais? São dois ícones»",
-      "link": "https://maisfutebol.iol.pt/selecao-nacional/mundial/modric-ou-ronaldo-despedem-se-dos-mundiais-sao-dois-icones",
-      "pubDate": "Thu, 2 Jul 2026 00:37:00 +0100",
-      "description": "Roberto Martínez diz que o que conseguiram o capitão da croácia e o capitão de Portugal vai muito além da opinião das pessoas",
-      "thumbnail": "https://img.iol.pt/image/id/6a457c2dd34edcee7c65f203/250"
+      "title": "Mundial 2026: Estados Unidos-Bósnia, 2-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-estados-unidos-bosnia-2-0-cronica",
+      "pubDate": "Thu, 2 Jul 2026 03:09:00 +0100",
+      "description": "O sonho segue intacto, mas sem Balogun",
+      "thumbnail": "https://img.iol.pt/image/id/6a45b853d34edcee7c65f33b/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vaticano admite excomunhão de bispos ordenados por grupo tradicionalista",
-      "link": "https://www.noticiasaominuto.com/mundo/3014820/vaticano-admite-excomunhao-de-bispos-ordenados-por-grupo-tradicionalista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-01 23:59:31",
+      "title": "Propostas do PS para travar aumento do custo de vida voltam ao Parlamento",
+      "link": "https://www.noticiasaominuto.com/politica/3014863/propostas-do-ps-para-travar-aumento-do-custo-de-vida-voltam-ao-parlamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-02 06:43:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5564f2a72929f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNDYwLCJjcm9wSGVpZ2h0IjoxOTQ2LCJjcm9wWCI6MzcsImNyb3BZIjoxNTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEzOTcsImNyb3BIZWlnaHQiOjI0ODQsImNyb3BYIjoxMjQ1LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65dca1b455c76.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alibaba paga 600 milhões de dólares para encerrar processo nos EUA",
-      "link": "https://www.noticiasaominuto.com/tech/3014822/alibaba-paga-600-milhoes-de-dolares-para-encerrar-processo-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-01 23:59:30",
+      "title": "Estrela realizará estágio em Quiaios e dois jogos de preparação",
+      "link": "https://www.noticiasaominuto.com/desporto/3014839/estrela-realizara-estagio-em-quiaios-e-dois-jogos-de-preparacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-02 06:40:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5fd727e2b41fd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMzR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6515891970d8f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Portugal trabalha com todos em Toronto após ameaça de tempestade",
-      "link": "https://www.noticiasaominuto.com/desporto/3014821/portugal-trabalha-com-todos-em-toronto-apos-ameaca-de-tempestade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-01 23:57:07",
+      "title": "Diário do Mundial2026: Drama antecipa 'tudo ou nada' para Portugal",
+      "link": "https://www.noticiasaominuto.com/desporto/3014725/diario-do-mundial2026-drama-antecipa-jogo-do-tudo-ou-nada-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-02 06:38:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a45ad0258ec2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a45aeda2c4a4.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Noites entre os 25ºC e 28ºC e fenómeno \"raro\" na costa: Os próximos dias",
-      "link": "https://www.noticiasaominuto.com/pais/3014812/noites-entre-os-25c-e-28c-e-fenomeno-raro-na-costa-os-proximos-dias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-01 23:57:00",
+      "title": "Portugal-Croácia: 'Mata-mata' arranca em Toronto e sem espaço para erros",
+      "link": "https://www.noticiasaominuto.com/desporto/3014608/portugal-croacia-mata-mata-arranca-em-toronto-e-sem-espaco-para-erros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-02 06:34:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6860490a4ae38.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a45420c406e0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
-      "link": "https://www.noticiasaominuto.com/desporto/3014111/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-01 23:55:20",
+      "title": "PM cabo-verdiano saúda \"heróis\" antes do jogo com a Argentina",
+      "link": "https://www.noticiasaominuto.com/desporto/3014829/pm-cabo-verdiano-sauda-herois-antes-do-jogo-com-a-argentina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-02 06:23:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a44aefe9caaa.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a45f5b7d0dd0.webp"
     },
     {
       "sourceId": "pplware",
