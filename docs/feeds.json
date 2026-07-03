@@ -1,55 +1,95 @@
 {
-  "updated": "2026-07-03T01:08:32.056856+00:00",
+  "updated": "2026-07-03T05:11:38.330091+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Incêndio Vouzela. Quase 700 bombeiros combatem as chamas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2312/",
-      "pubDate": "Fri, 03 Jul 2026 01:06:07 +0100",
-      "description": "Espera-se uma noite longa de combate às chamas, dificultado pelo forte vento. Os operacionais estão apoiados por perto de 200 veículos. Ainda, PM elogia integração da comunidade portuguesa em Toronto.",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2423/",
+      "pubDate": "Fri, 03 Jul 2026 06:09:10 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Lajes. EUA rejeitam efeitos negativos da contaminação",
-      "link": "https://observador.pt/2026/07/03/eua-rejeitam-efeitos-nefastos-da-contaminacao-na-base-das-lajes-apesar-de-estudos-proprios-confirmarem-danos-desde-2003/",
-      "pubDate": "Fri, 03 Jul 2026 01:01:20 +0100",
-      "description": "Tese de doutoramento identificou metais pesados e chumbo nos residentes da Praia da Vitória. EUA ameaçaram voltar a suspender trabalhos de mitigação dos danos ambientais, que não considera graves.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:227/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/07221502/2026-03-06-1753-hugomoreira-hm1-9061-scaled.jpg"
+      "title": "Paulo Amado: o que vamos comer nos próximos anos.",
+      "link": "https://observador.pt/programas/adivinha-quem-vem-jantar/paulo-amado-o-que-vamos-comer-nos-proximos-anos/",
+      "pubDate": "Fri, 03 Jul 2026 06:05:39 +0100",
+      "description": "Das sanduíches gourmet à saúde mental nas cozinhas, Paulo Amado explica como está a mudar a restauração e porque é que o maior desafio pode ser preservar a identidade portuguesa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05173721/770-podcast-adivinha-quem-vem-jantar.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Toronto como 2004 e o adeus: as fotos do Portugal-Croácia",
-      "link": "https://observador.pt/2026/07/03/a-visita-a-toronto-que-fez-lembrar-2004-a-last-dance-de-uma-das-lendas-e-a-recordacao-de-jota-as-fotografias-do-portugal-croacia/",
-      "pubDate": "Fri, 03 Jul 2026 00:53:34 +0100",
-      "description": "Canadá voltou a ser sinónimo de união entre a Seleção e o povo português, que preencheu o estádio mais pequeno do Mundial. Duelo com a Croácia marca a last dance de Ronaldo ou Modric. Veja as fotos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:279/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02235426/gettyimages-2283803266-scaled.jpg"
+      "title": "A água – espaço e tempo do sagrado",
+      "link": "https://observador.pt/programas/a-historia-das-historias/a-agua-espaco-e-tempo-do-sagrado/",
+      "pubDate": "Fri, 03 Jul 2026 06:02:08 +0100",
+      "description": "Histórias de água desde a Bíblia, fonte de vida e de purificação, água benta e águas santas, a antiga proibição de ir à fonte de noite ou despejar águas para a rua, para não molhar as alminhas",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "França: Incêndios florestais obrigam a retirar milhares",
-      "link": "https://observador.pt/2026/07/03/vaga-de-incendios-florestais-devasta-sul-de-franca-mais-de-3-000-retirados-e-8-700-hectares-queimados/",
-      "pubDate": "Fri, 03 Jul 2026 00:34:18 +0100",
-      "description": "Três bombeiros sofreram ferimentos ligeiros num incêndio que obrigou à retirada de milhares de pessoas, maioritariamente campistas. Este não é o único fogo, desde o início da época arderam 8.700 ha.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02234946/47395302.jpg"
+      "title": "No Caramulo, os carros ganharam outra velocidade",
+      "link": "https://observador.pt/programas/a-nossa-cultura/no-caramulo-os-carros-ganharam-outra-velocidade/",
+      "pubDate": "Fri, 03 Jul 2026 06:02:08 +0100",
+      "description": "Fabrizio Matos aprendeu a conduzir em Alfa Romeo em Itália. Uma memória que combinada com as estradas do Caramulo e o acervo do Museu, inspiraram as criações a carvão em exposição até 8 de agosto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/10120711/770-podcast-a-nossa-cultura-radio-observador-viseu-1.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Líbano. 100.000 crianças em risco de não regressar às aulas",
-      "link": "https://observador.pt/2026/07/03/danos-em-340-escolas-ameacam-regresso-as-aulas-de-100-000-criancas-no-libano/",
-      "pubDate": "Fri, 03 Jul 2026 00:26:43 +0100",
-      "description": "17 escolas estão completamente destruídas. UNICEF destacou importância das escolas para o bem-estar e a saúde mental das crianças libanesas, em risco de não ter acesso às salas no próximo ano letivo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1127:nowe:0:204/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03000021/46316606.jpg"
+      "title": "Será o calor o culpado pelos erros no trabalho?",
+      "link": "https://observador.pt/programas/tratar-da-saude/sera-o-calor-o-culpado-pelos-erros-no-trabalho/",
+      "pubDate": "Fri, 03 Jul 2026 06:01:38 +0100",
+      "description": "Nestes dias de calor extremo, sente que demora mais tempo a pensar ou comete erros pouco habituais? Não é apenas uma sensação. O calor também pode afetar o funcionamento do cérebro.\n\n \n\nCom a Dra Vanessa Mendes, moderação de Maria João S...",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/26182232/770-podcast-tratar-da-saude-1.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Portugal elimina Croácia e está nos oitavos do mundial futebol",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-portugal-elimina-croacia-e-esta-nos-oitavos-do-mundial-futebol_a1_1751019",
+      "pubDate": "Fri, 03 Jul 2026 05:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mundial2026. Cabo Verde \"sem receios\" no jogo de uma vida frente à Argentina",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-cabo-verde-sem-receios-no-jogo-de-uma-vida-frente-a-argentina_d1751015",
+      "pubDate": "Fri, 03 Jul 2026 03:50:23 +0100",
+      "description": "O selecionador de Cabo Verde, Bubista, garantiu hoje que a equipa vai enfrentar &quot;sem receios&quot; a Argentina nos 16 avos de final do Mundial2026, e quer tentar ultrapassar a campeã em título.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d1f54d1b1d021118664f4ba732b64f77?w=350&amp;q=50&amp;rect=0,183,4659,2554&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Baixa do Porto volta a ser sala de estar de Portugal numa madrugada de sofrimento e festa",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/baixa-do-porto-volta-a-ser-sala-de-estar-de-portugal-numa-madrugada-de-sofrimento-e-festa_d1751014",
+      "pubDate": "Fri, 03 Jul 2026 03:47:54 +0100",
+      "description": "Milhares de adeptos celebraram hoje na baixa do Porto a passagem de Portugal aos oitavos de final do Mundial de futebol, após a vitória por 2-1 sobre a Croácia, já com Espanha no horizonte.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c3069195dce7d92bd986e201b3d7f48?w=350&amp;q=50&amp;rect=0,507,4652,2550&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "LiveModeTV adquire direitos de transmissão do Mundial Feminino FIFA 2027",
+      "link": "https://www.rtp.pt/noticias/pais/livemodetv-adquire-direitos-de-transmissao-do-mundial-feminino-fifa-2027_n1751010",
+      "pubDate": "Fri, 03 Jul 2026 03:28:55 +0100",
+      "description": "A LiveModeTV anunciou hoje que adquiriu os direitos de transmissão do Mundial Feminino de futebol de 2027 em Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bbfca1ca2e1b77652d41f943cbb5e70?w=350&amp;q=50&amp;rect=0,20,1860,1020&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,94 +102,64 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/3153a2d09f0abece1b6868a27d2e0eca?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios florestais intensos em França obrigam a retirar milhares de pessoas",
-      "link": "https://www.rtp.pt/noticias/mundo/incendios-florestais-intensos-em-franca-obrigam-a-retirar-milhares-de-pessoas_n1751003",
-      "pubDate": "Fri, 03 Jul 2026 01:29:37 +0100",
-      "description": "Uma vaga de incêndios florestais no sul de França, propagados pelo vento forte, obrigou hoje à retirada de milhares de pessoas, com o primeiro-ministro a reconhecer um início &quot;bastante violento&quot; e prematuro do fenómeno.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e1/e1fa418107c284317826bdb1417853c2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Presidente da República felicita \"com muita alegria\" Lídia Jorge pelo Prémio Camões",
-      "link": "https://www.rtp.pt/noticias/cultura/presidente-da-republica-felicita-com-muita-alegria-lidia-jorge-pelo-premio-camoes_n1750978",
-      "pubDate": "Fri, 03 Jul 2026 01:26:18 +0100",
-      "description": "O Presidente da República, António José Seguro, felicitou hoje &quot;com muita alegria&quot; a escritora Lídia Jorge pelo Prémio Camões 2026, e considerou que é &quot;uma das grandes vozes na literatura contemporânea de todas as línguas&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Exército israelita investiga detenção degradante de palestiniano exposta nas redes sociais",
-      "link": "https://www.rtp.pt/noticias/mundo/exercito-israelita-investiga-detencao-degradante-de-palestiniano-exposta-nas-redes-sociais_n1750994",
-      "pubDate": "Fri, 03 Jul 2026 01:25:53 +0100",
-      "description": "As Forças de Defesa de Israel (FDI) informaram hoje que estão a investigar a detenção de um palestiniano em Gaza que terá sido vendado, amarrado a uma maca e humilhado, e cuja imagem foi publicada por um soldado israelita.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Seguro \"condena nos termos mais veementes\" ataque da Rússia contra Kiev",
-      "link": "https://www.rtp.pt/noticias/mundo/seguro-condena-nos-termos-mais-veementes-ataque-da-russia-contra-kiev_n1750996",
-      "pubDate": "Fri, 03 Jul 2026 01:25:31 +0100",
-      "description": "O Presidente da República, António José Seguro, condenou hoje &quot;nos termos mais veementes&quot; o ataque da Rússia contra Kiev, que segundo as autoridades ucranianas provocou mais de 20 mortos, e expressou solidariedade para com o Presidente da Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Milhares de adeptos à porta do hotel da Seleção após a vitória dramática",
+      "link": "https://maisfutebol.iol.pt/selecao/portugal/milhares-de-adeptos-a-porta-do-hotel-da-selecao-apos-a-vitoria-dramatica",
+      "pubDate": "Fri, 3 Jul 2026 04:37:00 +0100",
+      "description": "Seleção Nacional recebe banho de carinho em Toronto",
+      "thumbnail": "https://img.iol.pt/image/id/6a472d8ed34e28842c85e0c9/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rangnick: «Espanha é um relógio perfeito e nós desafiámo-los»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/rangnick-espanha-e-um-relogio-perfeito-e-nos-desafiamo-los",
-      "pubDate": "Fri, 3 Jul 2026 01:30:23 +0100",
-      "description": "Selecionador da Áustria fala sobre as dificuldades de defrontar o atual campeão da Europa e o adeus de Arnautovic à seleção",
-      "thumbnail": "https://img.iol.pt/image/id/667af5ded34ebf9bbb3f0dcd/250"
+      "title": "Rúben Neves: «Desde a perda do Diogo que todos os dias são iguais»",
+      "link": "https://maisfutebol.iol.pt/selecao/selecao-nacional/ruben-neves-desde-a-perda-do-diogo-que-todos-os-dias-sao-iguais-para-mim",
+      "pubDate": "Fri, 3 Jul 2026 04:21:00 +0100",
+      "description": "Médio da Seleção Nacional mostrou-se ainda feliz com a passagem para os oitavos de final do Mundial 2026",
+      "thumbnail": "https://img.iol.pt/image/id/6a4729aed34edcee7c65ffe5/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Carlos Queiroz: «Colômbia? Não há equipas perfeitas»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/carlos-queiroz-colombias-nao-ha-equipas-perfeitas",
-      "pubDate": "Fri, 3 Jul 2026 01:26:00 +0100",
-      "description": "Selecionador do Gana deixa elogios à Colômbia, mas também aponta falhas",
-      "thumbnail": "https://img.iol.pt/image/id/6a33b7e7d34edcee7c656a17/250"
+      "title": "«Parabéns a Portugal, mas não merecíamos este resultado»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/parabens-a-portugal-mas-nao-mereciamos-este-resultado",
+      "pubDate": "Fri, 3 Jul 2026 04:18:00 +0100",
+      "description": "Selecionador da Croácia, Zlatko Dalic, deixou reparos à arbitragem",
+      "thumbnail": "https://img.iol.pt/image/id/6a46fa54d34e28842c85dff5/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Luis de la Fuente: «Áustria? Tenho muitos motivos para estar feliz»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/luis-de-la-fuente-austria-tenho-muitos-motivos-para-estar-feliz",
-      "pubDate": "Fri, 3 Jul 2026 01:20:19 +0100",
-      "description": "Selecionador de Espanha destaca recorde conseguido por Unai Simón e a vontade que a equipa tem de estar sempre a melhorar",
-      "thumbnail": "https://img.iol.pt/image/id/6a380f6ad34edcee7c6589d7/250"
+      "title": "Portugal faz nova reviravolta em fases a eliminar de Mundiais 60 anos depois",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/portugal-faz-nova-reviravolta-em-fases-a-eliminar-de-mundiais-60-anos-depois",
+      "pubDate": "Fri, 3 Jul 2026 04:07:00 +0100",
+      "description": "A primeira (e única) vez que tinha acontecido foi no triunfo por 5-3 ante a Coreia do Norte em 1966",
+      "thumbnail": "https://img.iol.pt/image/id/6a46f2bcd34edcee7c65fefc/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Pepa assinala início de época no Estrela: «Começou a nossa caminhada...»",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/pepa-marca-inicio-de-epoca-no-estrela-comecou-a-nossa-caminhada",
-      "pubDate": "Fri, 3 Jul 2026 00:43:00 +0100",
-      "description": "Técnico partilha fotografias do primeiro treino à frente do conjunto tricolor",
-      "thumbnail": "https://img.iol.pt/image/id/6a46f64cd34e28842c85dfe1/250"
+      "title": "Martínez explica saídas de Ronaldo, Vitinha e Bruno Fernandes: «Foi o momento...»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/martinez-explica-saidas-de-ronaldo-vitinha-e-bruno-fernandes-foi-o-momento",
+      "pubDate": "Fri, 3 Jul 2026 03:43:00 +0100",
+      "description": "Selecionador nacional antevê duelo nos «detalhes» ante Espanha",
+      "thumbnail": "https://img.iol.pt/image/id/6a46f9bdd34edcee7c65ff18/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Bubista: «Argentina é o jogo das nossas vidas»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/bubista-argentina-e-o-jogo-das-nossas-vidas",
-      "pubDate": "Fri, 3 Jul 2026 00:35:10 +0100",
-      "description": "Selecionador de Cabo Verde reforça a vontade de seguir em frente no Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a3f20acd34edcee7c65c234/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Portugal segue para os 'oitavos' com golo ao 'cair do pano' frente à Croácia",
+      "link": "https://sapo.pt/artigo/ha-descontos-que-valem-apuramentos-portugal-segue-para-os-oitavos-com-golo-ao-cair-do-pano-frente-a-croacia-6a470d0677061555a5e7342a",
+      "pubDate": "Fri, 03 Jul 2026 04:38:55 +0000",
+      "description": "Os 'oitavos' são já ali e o adversário que se segue é a vizinha Espanha.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ALP09BH0lfxy5ceAxLreL0B7Ed8TIwWWOxfjqOLYuqHsuYQscwcIMOPUu3dR04xPp%2FXoZTEC6kPMH6McuG01XSSOHEymmcESnnl%2B1qgUV%2Fs%2FcfhhbfrQQwIZcq0ytk34R"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AJiEJ0%2B%2BLi%2B0iZ%2BjhYTcnPeVsBesGJaMe4EyVJlVICj3Zhwv2PTAr468GAWMQ9UNh%2F%2Fl%2Fg0CQ3ka4Pvm0EmruwNU1YDWOTndOCjWwd%2Byr4jyvGrChVxlW4vqKVqIteO8V"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Montijo, Vouzela e Vila Nova de Famalicão: mais de 860 bombeiros combatem 28 incêndios ativos em todo o país",
-      "link": "https://sapo.pt/artigo/montijo-vouzela-e-vila-nova-de-famalicao-mais-de-860-bombeiros-combatem-28-incendios-ativos-em-todo-o-pais-6a468360c8d41349b2df7020",
-      "pubDate": "Thu, 02 Jul 2026 15:58:38 +0000",
-      "description": "Mais de 860 operacionais encontram-se, esta quinta-feira, no combate a 28 incêndios rurais em diferentes pontos do país. Entre as ocorrências mais significativas estão os fogos no Montijo, Vouzela, Alfândega da Fé e Vila Nova de Famalicão, alguns...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Aep8C6gmbt9QPpSraF%2FIJQVTY4oOCi4%2B7BNp%2F%2BUzEUM4JGaQOT2tTahh21%2B8QvCMiGPWlRmdlvhAeUEGX6ZO6OjzIjt6owtiO6Wq2WkGjxfc7Ftc4hQw1cFNL0eWBGh%2F%2B"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"Era especial ganhar pelo pai do Ricardo Carvalho, por Jota e pelo André\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3015598/era-especial-ganhar-pelo-pai-do-ricardo-carvalho-por-jota-e-pelo-andre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 03:04:54",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a470742daa3b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM0LCJjcm9wSGVpZ2h0IjoxNjYxLCJjcm9wWCI6NzEyLCJjcm9wWSI6M319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cabo Verde \"sem receios\" da Argentina: \"É o jogo das nossas vidas\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3015553/cabo-verde-sem-receios-da-argentina-e-o-jogo-das-nossas-vidas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 00:33:41",
+      "title": "Bernardo Silva: \"Perdemos o controlo emocional quando não devíamos\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3015597/bernardo-silva-perdemos-o-controlo-emocional-quando-nao-deviamos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 03:01:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a46f455941e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjcxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzksImNyb3BIZWlnaHQiOjE2NjksImNyb3BYIjoxMjY5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a471789ea9af.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6ODk2LCJjcm9wWSI6MTF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Onda de calor? Eis onde se pode 'refugiar' em Lisboa",
-      "link": "https://www.noticiasaominuto.com/pais/3015559/onda-de-calor-estes-sao-os-refugios-climaticos-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 00:10:18",
+      "title": "Baixa do Porto foi sala de estar de Portugal em madrugada de festa",
+      "link": "https://www.noticiasaominuto.com/desporto/3015585/baixa-do-porto-foi-sala-de-estar-de-portugal-em-madrugada-de-festa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 02:56:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64e7410441a7f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4716d1c88d9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg1LCJjcm9wWCI6Nzk5LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Diogo Jota morreu há um ano: Choque mundial, homenagens e duas revelações",
-      "link": "https://www.noticiasaominuto.com/desporto/3014290/diogo-jota-morreu-ha-um-ano-choque-mundial-homenagens-e-duas-revelacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 00:00:21",
+      "title": "Cristiano Ronaldo marcou ao nono jogo a eliminar e regressa ao top 10",
+      "link": "https://www.noticiasaominuto.com/desporto/3015577/cristiano-ronaldo-marcou-ao-nono-jogo-a-eliminar-e-regressa-ao-top-10#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 02:54:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68684aa31cedf.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4706d760643.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjYxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5OTQsImNyb3BIZWlnaHQiOjE3NjcsImNyb3BYIjo2NzUsImNyb3BZIjotMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Danos em escolas ameaçam regresso às aulas de 100.000 crianças no Líbano",
-      "link": "https://www.noticiasaominuto.com/mundo/3015551/danos-em-escolas-ameacam-regresso-as-aulas-de-100000-criancas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-02 23:58:56",
+      "title": "De ir às lágrimas. Gesto de Cristiano Ronaldo para Diogo Jota corre mundo",
+      "link": "https://www.noticiasaominuto.com/desporto/3015593/de-ir-as-lagrimas-gesto-de-cristiano-ronaldo-para-diogo-jota-corre-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 02:49:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a210e0638bc2.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "EM DIRETO: Gonçalo Ramos herói com golo que pode valer qualificação",
-      "link": "https://www.noticiasaominuto.com/desporto/3015247/em-direto-espanha-e-austria-definem-entre-si-possivel-rival-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-02 23:56:51",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a46ff41d92b0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxNiwiY3JvcEhlaWdodCI6MTgwNywiY3JvcFgiOjc5OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4710cc8600d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjcsImNyb3BIZWlnaHQiOjE3MTksImNyb3BYIjo2ODksImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
