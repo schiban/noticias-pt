@@ -1,63 +1,73 @@
 {
-  "updated": "2026-07-03T05:11:38.330091+00:00",
+  "updated": "2026-07-03T08:33:00.029578+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2423/",
-      "pubDate": "Fri, 03 Jul 2026 06:09:10 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Montenegro no futebol enquanto o país fica em brasa?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/montenegro-no-futebol-enquanto-o-pais-fica-em-brasa/",
+      "pubDate": "Fri, 03 Jul 2026 09:21:15 +0100",
+      "description": "Enquanto José Luís Carneiro \"queimou-se\" em casas vazias e denúncias furadas, Luís Montenegro foi ver a bola com o país sob alerta de fogo. E ainda, o IVA dos filetes é uma selva fiscal sem nexo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dia 23 do Mundial-2026. Portugal passa aos oitavos de final",
+      "link": "https://observador.pt/liveblogs/dia-23-do-mundial-2026-portugal-passa-aos-oitavos-de-final-selecionador-alemao-demite-se/",
+      "pubDate": "Fri, 03 Jul 2026 09:17:21 +0100",
+      "description": "Portugal vence à Croácia por 2-1 e vai defrontar Espanha nos oitavos de final. Selecionador alemão apresenta a demissão após derrota com o Paraguai. Ronaldo garante que ainda não decidiu reforma.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03054021/ilacerda-jogo-selecao-porto-6-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. Vaga de Calor. PM diz que próximos dias serão difíceis",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2398/",
+      "pubDate": "Fri, 03 Jul 2026 09:14:42 +0100",
+      "description": "O governo proíbe o acesso a certos espaços e caminhos florestais, bem como a realização de queimadas e de trabalho com maquinaria. Ainda, damos destaque à vitória de Portugal frente à Croácia por 2-1",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Paulo Amado: o que vamos comer nos próximos anos.",
-      "link": "https://observador.pt/programas/adivinha-quem-vem-jantar/paulo-amado-o-que-vamos-comer-nos-proximos-anos/",
-      "pubDate": "Fri, 03 Jul 2026 06:05:39 +0100",
-      "description": "Das sanduíches gourmet à saúde mental nas cozinhas, Paulo Amado explica como está a mudar a restauração e porque é que o maior desafio pode ser preservar a identidade portuguesa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05173721/770-podcast-adivinha-quem-vem-jantar.jpg"
+      "title": "Notas dos exames nacionais adiadas para 17 de julho",
+      "link": "https://observador.pt/2026/07/03/notas-dos-exames-nacionais-do-secundario-serao-afixadas-mais-tarde-e-segunda-fase-das-provas-sera-adiada-em-quatro-dias-anuncia-ministerio/",
+      "pubDate": "Fri, 03 Jul 2026 09:03:26 +0100",
+      "description": "A 2.ª Fase dos Exames Nacionais também sofreu ajustamentos: terá início a 20 de julho, à tarde, em vez de a 16 de julho.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/09/16180252/20087934_770x433_acf_cropped.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "A água – espaço e tempo do sagrado",
-      "link": "https://observador.pt/programas/a-historia-das-historias/a-agua-espaco-e-tempo-do-sagrado/",
-      "pubDate": "Fri, 03 Jul 2026 06:02:08 +0100",
-      "description": "Histórias de água desde a Bíblia, fonte de vida e de purificação, água benta e águas santas, a antiga proibição de ir à fonte de noite ou despejar águas para a rua, para não molhar as alminhas",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "No Caramulo, os carros ganharam outra velocidade",
-      "link": "https://observador.pt/programas/a-nossa-cultura/no-caramulo-os-carros-ganharam-outra-velocidade/",
-      "pubDate": "Fri, 03 Jul 2026 06:02:08 +0100",
-      "description": "Fabrizio Matos aprendeu a conduzir em Alfa Romeo em Itália. Uma memória que combinada com as estradas do Caramulo e o acervo do Museu, inspiraram as criações a carvão em exposição até 8 de agosto.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/10120711/770-podcast-a-nossa-cultura-radio-observador-viseu-1.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Será o calor o culpado pelos erros no trabalho?",
-      "link": "https://observador.pt/programas/tratar-da-saude/sera-o-calor-o-culpado-pelos-erros-no-trabalho/",
-      "pubDate": "Fri, 03 Jul 2026 06:01:38 +0100",
-      "description": "Nestes dias de calor extremo, sente que demora mais tempo a pensar ou comete erros pouco habituais? Não é apenas uma sensação. O calor também pode afetar o funcionamento do cérebro.\n\n \n\nCom a Dra Vanessa Mendes, moderação de Maria João S...",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/26182232/770-podcast-tratar-da-saude-1.jpg"
+      "title": "Murakami nas livrarias do Japão com \"A história de Kaho\"",
+      "link": "https://observador.pt/2026/07/03/murakami-regressa-as-livrarias-do-japao-com-a-historia-de-kaho/",
+      "pubDate": "Fri, 03 Jul 2026 08:52:21 +0100",
+      "description": "\"Kaho, autora de livros ilustrados, é uma jovem comum. Mas começam a acontecer coisas estranhas\", disse Murakami sobre o livro. O romance do escritor chegou esta sexta-feira às livrarias do Japão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03070711/45103116.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Portugal elimina Croácia e está nos oitavos do mundial futebol",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-portugal-elimina-croacia-e-esta-nos-oitavos-do-mundial-futebol_a1_1751019",
-      "pubDate": "Fri, 03 Jul 2026 05:28:02 +0100",
+      "title": "A Verdadeira História da \"Celeste dos Cravos\"",
+      "link": "https://www.rtp.pt/noticias/pais/a-verdadeira-historia-da-celeste-dos-cravos_v1751051",
+      "pubDate": "Fri, 03 Jul 2026 10:31:47 +0100",
+      "description": "Ficou para a história como a &quot;Celeste dos Cravos&quot;. Décadas depois do 25 de Abril, a neta decidiu agarrar nas memórias de família e escrever um livro que conta a verdadeira história da avó.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/52/527e9169aad8a61de87ac00791e803d7_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h Ministério da Educação altera datas da segunda fase de exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-ministerio-da-educacao-altera-datas-da-segunda-fase-de-exames_a1_1751049",
+      "pubDate": "Fri, 03 Jul 2026 10:23:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,91 +75,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mundial2026. Cabo Verde \"sem receios\" no jogo de uma vida frente à Argentina",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-cabo-verde-sem-receios-no-jogo-de-uma-vida-frente-a-argentina_d1751015",
-      "pubDate": "Fri, 03 Jul 2026 03:50:23 +0100",
-      "description": "O selecionador de Cabo Verde, Bubista, garantiu hoje que a equipa vai enfrentar &quot;sem receios&quot; a Argentina nos 16 avos de final do Mundial2026, e quer tentar ultrapassar a campeã em título.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d1f54d1b1d021118664f4ba732b64f77?w=350&amp;q=50&amp;rect=0,183,4659,2554&amp;auto=format"
+      "title": "Governo adia segunda fase dos exames nacionais após \"dificuldades informáticas\"",
+      "link": "https://www.rtp.pt/noticias/pais/governo-adia-segunda-fase-dos-exames-nacionais-apos-falhas-informaticas_n1751048",
+      "pubDate": "Fri, 03 Jul 2026 10:09:03 +0100",
+      "description": "O Ministério da Educação anunciou esta sexta-feira o adiamento por quatro dias da segunda fase dos exames nacionais do ensino secundário após &quot;dificuldades informáticas no processo de classificação eletrónica&quot;. A afixação de pautas da primeira fase é adiada por três dias e fica marcada par",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ffa21918924d01ebde1a7d7af658e6ba?w=350&amp;q=50&amp;rect=0,0,4032,2211&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Baixa do Porto volta a ser sala de estar de Portugal numa madrugada de sofrimento e festa",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/baixa-do-porto-volta-a-ser-sala-de-estar-de-portugal-numa-madrugada-de-sofrimento-e-festa_d1751014",
-      "pubDate": "Fri, 03 Jul 2026 03:47:54 +0100",
-      "description": "Milhares de adeptos celebraram hoje na baixa do Porto a passagem de Portugal aos oitavos de final do Mundial de futebol, após a vitória por 2-1 sobre a Croácia, já com Espanha no horizonte.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c3069195dce7d92bd986e201b3d7f48?w=350&amp;q=50&amp;rect=0,507,4652,2550&amp;auto=format"
+      "title": "Mortes aumentaram quase 30% durante onda de calor em França",
+      "link": "https://www.rtp.pt/noticias/mundo/mortes-aumentaram-quase-30-durante-onda-de-calor-em-franca_n1751044",
+      "pubDate": "Fri, 03 Jul 2026 09:58:40 +0100",
+      "description": "O número de mortes em França aumentou quase 30% e 62% só na região de Paris durante a semana de 22 de junho, o auge da onda de calor excecional que atingiu o país, anunciou esta sexta-feira a Saúde Pública de França.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/83/83d2a985baa4670c8eff5118c3c8ba14?w=350&amp;q=50&amp;rect=0,39,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "LiveModeTV adquire direitos de transmissão do Mundial Feminino FIFA 2027",
-      "link": "https://www.rtp.pt/noticias/pais/livemodetv-adquire-direitos-de-transmissao-do-mundial-feminino-fifa-2027_n1751010",
-      "pubDate": "Fri, 03 Jul 2026 03:28:55 +0100",
-      "description": "A LiveModeTV anunciou hoje que adquiriu os direitos de transmissão do Mundial Feminino de futebol de 2027 em Portugal.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bbfca1ca2e1b77652d41f943cbb5e70?w=350&amp;q=50&amp;rect=0,20,1860,1020&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mundial 2026. Suíça - Argélia",
-      "link": "https://www.rtp.pt/noticias/desporto/mundial-2026-suica-argelia_e1750948",
-      "pubDate": "Fri, 03 Jul 2026 01:52:33 +0100",
-      "description": "Chegou a vez da Suíça e da Argélia medirem forças nos 16 avos de final do Mundial 2026, num duelo entre duas seleções que chegaram à fase a eliminar por caminhos distintos. Os suíços confirmaram o favoritismo ao vencer o Grupo B, enquanto os argelinos garantiram o apuramento como um dos melhores ter",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/3153a2d09f0abece1b6868a27d2e0eca?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+      "title": "Montenegro rendido ao jogo: \"Do melhor que vi neste Mundial\"",
+      "link": "https://www.rtp.pt/noticias/desporto/montenegro-rendido-ao-jogo-do-melhor-que-vi-neste-mundial_v1751042",
+      "pubDate": "Fri, 03 Jul 2026 09:42:47 +0100",
+      "description": "Luís Montenegro assistiu ao encontro nas bancadas do estádio, em Toronto, e confessa ter presenciado um dos melhores jogos deste Mundial.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d8/d8ba75f8afacbc219d882c1d6ae60714_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Milhares de adeptos à porta do hotel da Seleção após a vitória dramática",
-      "link": "https://maisfutebol.iol.pt/selecao/portugal/milhares-de-adeptos-a-porta-do-hotel-da-selecao-apos-a-vitoria-dramatica",
-      "pubDate": "Fri, 3 Jul 2026 04:37:00 +0100",
-      "description": "Seleção Nacional recebe banho de carinho em Toronto",
-      "thumbnail": "https://img.iol.pt/image/id/6a472d8ed34e28842c85e0c9/250"
+      "title": "Loucura em Toronto: Cristiano Ronaldo foi à varanda e gritou «vamos!» (vídeo)",
+      "link": "https://maisfutebol.iol.pt/selecao/mundial2026/loucura-em-toronto-cristiano-ronaldo-foi-a-varanda-e-gritou-vamos-video",
+      "pubDate": "Fri, 3 Jul 2026 09:16:27 +0100",
+      "description": "Milhares de adeptos concentraram-se junto ao hotel depois da vitória sobre a Croácia",
+      "thumbnail": "https://img.iol.pt/image/id/6a476dbcd34e28842c85e1f9/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rúben Neves: «Desde a perda do Diogo que todos os dias são iguais»",
-      "link": "https://maisfutebol.iol.pt/selecao/selecao-nacional/ruben-neves-desde-a-perda-do-diogo-que-todos-os-dias-sao-iguais-para-mim",
-      "pubDate": "Fri, 3 Jul 2026 04:21:00 +0100",
-      "description": "Médio da Seleção Nacional mostrou-se ainda feliz com a passagem para os oitavos de final do Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a4729aed34edcee7c65ffe5/250"
+      "title": "Seleção: Portugal começa a preparar duelo com Espanha em Toronto",
+      "link": "https://maisfutebol.iol.pt/selecao/mundial2026/selecao-portugal-comeca-a-preparar-duelo-com-espanha-em-toronto",
+      "pubDate": "Fri, 3 Jul 2026 08:58:18 +0100",
+      "description": "Treino marcado para as 11h00 locais, regresso aos Estados Unidos marcado para sábado",
+      "thumbnail": "https://img.iol.pt/image/id/6a36b817d34edcee7c6583c8/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Parabéns a Portugal, mas não merecíamos este resultado»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/parabens-a-portugal-mas-nao-mereciamos-este-resultado",
-      "pubDate": "Fri, 3 Jul 2026 04:18:00 +0100",
-      "description": "Selecionador da Croácia, Zlatko Dalic, deixou reparos à arbitragem",
-      "thumbnail": "https://img.iol.pt/image/id/6a46fa54d34e28842c85dff5/250"
+      "title": "Mundial 2026: Suíça alcança vitória histórica sobre a Argélia e está nos «oitavos»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/internacional/mundial-2026-suica-alcanca-vitoria-historica-sobre-a-argelia-e-esta-nos-oitavos",
+      "pubDate": "Fri, 3 Jul 2026 08:44:00 +0100",
+      "description": "Embolo abriu o caminho, Dan Ndoye confirmou triunfo",
+      "thumbnail": "https://img.iol.pt/image/id/6a4766efd34e28842c85e1ab/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Portugal faz nova reviravolta em fases a eliminar de Mundiais 60 anos depois",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/portugal-faz-nova-reviravolta-em-fases-a-eliminar-de-mundiais-60-anos-depois",
-      "pubDate": "Fri, 3 Jul 2026 04:07:00 +0100",
-      "description": "A primeira (e única) vez que tinha acontecido foi no triunfo por 5-3 ante a Coreia do Norte em 1966",
-      "thumbnail": "https://img.iol.pt/image/id/6a46f2bcd34edcee7c65fefc/250"
+      "title": "Mundial 2026: lista de todos os marcadores na fase final",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
+      "pubDate": "Fri, 3 Jul 2026 08:19:00 +0100",
+      "description": "Mbappé e Messi lideram com seis golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a470637d34e28842c85e03c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Martínez explica saídas de Ronaldo, Vitinha e Bruno Fernandes: «Foi o momento...»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/martinez-explica-saidas-de-ronaldo-vitinha-e-bruno-fernandes-foi-o-momento",
-      "pubDate": "Fri, 3 Jul 2026 03:43:00 +0100",
-      "description": "Selecionador nacional antevê duelo nos «detalhes» ante Espanha",
-      "thumbnail": "https://img.iol.pt/image/id/6a46f9bdd34edcee7c65ff18/250"
+      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
+      "pubDate": "Fri, 3 Jul 2026 08:14:00 +0100",
+      "description": "São 104 partidas ao longo de 39 dias",
+      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
       "sourceId": "sapo",
@@ -159,97 +159,137 @@
       "link": "https://sapo.pt/artigo/ha-descontos-que-valem-apuramentos-portugal-segue-para-os-oitavos-com-golo-ao-cair-do-pano-frente-a-croacia-6a470d0677061555a5e7342a",
       "pubDate": "Fri, 03 Jul 2026 04:38:55 +0000",
       "description": "Os 'oitavos' são já ali e o adversário que se segue é a vizinha Espanha.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ALP09BH0lfxy5ceAxLreL0B7Ed8TIwWWOxfjqOLYuqHsuYQscwcIMOPUu3dR04xPp%2FXoZTEC6kPMH6McuG01XSSOHEymmcESnnl%2B1qgUV%2Fs%2FcfhhbfrQQwIZcq0ytk34R"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ABAc5L6aSTizvJgtednCeAFOFHLYPZCzl2H7nNj38VpUawMDgCn6Yxb%2FZ2YApxSL9OO0IPsYLz9%2BIreyhiaNux85gWYqGdf6uKJ07wqIw%2FKVaSZJTlIGJdjLiSOQID06h"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal mais quente do que zonas do Norte de África: o contraste invulgar desta onda de calor",
-      "link": "https://executivedigest.sapo.pt/portugal-mais-quente-do-que-zonas-do-norte-de-africa-o-contraste-invulgar-desta-onda-de-calor/",
-      "pubDate": "Thu, 02 Jul 2026 17:18:16 +0000",
-      "description": "Enquanto Portugal continental enfrenta um episódio de calor excecional, várias regiões da Tunísia e da Líbia deverão registar temperaturas abaixo da média para esta altura do ano.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3APrVZ381z%2BCvF%2FkWgikGzkynWpajPUjGjrmIaPsqLUJqUBZYRjyIeuZYmcWUBLxD%2FoSfHdcXjTmU%2Bu1yhHQEi7LP8KAV5yYlJWrbcXkFz4J9MyHSyX8UZe6YzTEVbTe2M"
+      "title": "Incêndio que começou em Vouzela já chegou ao distrito de Aveiro, há pelo menos 7 feridos",
+      "link": "https://sapo.pt/artigo/incendio-que-comecou-em-vouzela-ja-chegou-ao-distrito-de-aveiro-ha-pelo-menos-7-feridos-6a475769c8d41349b20a6a50",
+      "pubDate": "Fri, 03 Jul 2026 07:03:27 +0000",
+      "description": "Por volta das 04:00, mais de 800 operacionais encontravam-se a combater este fogo, auxiliados por mais de 250 veículos, de acordo com o Comando Sub-regional de Viseu Dão Lafões.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AxYHSsB4hRWKyCboAJ3YPuQTslsUZ7xh%2F56M7bXs209LL4WzZ4Q%2F7qiKXYOOvL%2Bk0MsL7khTVpx9qfpMvVgc6j%2F2HIaVzFgIPaue2b4X8L2ZSxuaa40B1jhC4VDJMT2jF"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Sobrevivente resgatado pela equipa portuguesa na Venezuela está estável e sob observação",
-      "link": "https://sapo.pt/artigo/sobrevivente-resgatado-pela-equipa-portuguesa-na-venezuela-esta-estavel-e-sob-observacao-6a46c8b9e8c4505cbee29ed4",
-      "pubDate": "Thu, 02 Jul 2026 20:38:57 +0000",
-      "description": "Hernán Alberto Gil, o homem resgatado pela equipa portuguesa após passar oito dias debaixo dos escombros de um centro comercial na Venezuela, encontra-se consciente e internado numa clínica em Caracas. Os exames médicos revelaram várias lesões,...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AzeYKcNJjmYQFpfhBQJRFJ8B4kTsOcGm0pGt1uCPtK9T75J0bNGCJfgUa%2BPOosV3YDHSQGeF480h4GS%2BrAe2SFZ8M9%2BWMwVIyI2JFcYh%2BZiG0Jfzoy0WfL%2BUDgBwr3ubW"
+      "title": "Situação de alerta já está em vigor: saiba o que pode e não pode fazer até segunda-feira",
+      "link": "https://executivedigest.sapo.pt/situacao-de-alerta-ja-esta-em-vigor-saiba-o-que-pode-e-nao-pode-fazer-ate-segunda-feira/",
+      "pubDate": "Fri, 03 Jul 2026 07:03:27 +0000",
+      "description": "Medida foi decretada pelo Governo e vai vigorar até às 23h59 de segunda-feira",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=498&W=886&crop=center&delay_optim=1&epic=V2%3AInO0CFoEJy52EKDIiyBHt%2BW4VWYY9i0PkHP%2F5kE3NbAZuhpzXOsLb3KFcnUZDTuumJMs0YJBt28rpMaWMWdjT1Sa5RsaCXhddsSg8%2FUB8wNy3yhoK0wKLcl%2Bzxx5Nl08"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Chega vai votar contra alterações do PSD sobre perda de nacionalidade e lei das burcas",
-      "link": "https://jornaleconomico.sapo.pt/noticias/chega-vai-votar-contra-alteracoes-do-psd-sobre-perda-de-nacionalidade-e-lei-das-burcas/",
-      "pubDate": "Thu, 02 Jul 2026 17:23:17 +0000",
-      "description": "“O PSD faz o jogo do PS e mostra que, na verdade, não quer mudar nada na nossa sociedade e no nosso regime legal”, afirmou o presidente do Chega.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AifxJD8hGGKJonrr%2Bt%2BVB0o2pCJ2CyDtCOKHwDkCQ9Spssk8YYCr4gYSpCwDmJpZQ3QE6Cc9SGNcJH2nV2Mr0MlwviuifZuEWttB1HL0Jm2dISn5emQBFDM3fn60KwWcB"
+      "title": "Trump diz que Irão aceitou \"praticamente tudo\" o que os EUA exigem",
+      "link": "https://sapo.pt/artigo/trump-diz-que-irao-aceitou-praticamente-tudo-o-que-os-eua-exigem-6a475745c8d41349b20a64b5",
+      "pubDate": "Fri, 03 Jul 2026 07:03:27 +0000",
+      "description": "O Presidente dos EUA afirmou ainda que o conflito com o Irão \"não é uma guerra propriamente dita\", mas sim uma questão de \"desarmar nuclearmente\" a República Islâmica.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A1EkeYU8mU%2Bi9lkzVcj3kwKQ8Nb6avUqovLIqHk8S7murPKnp3mHW%2FX3yJSxVi%2BnAl%2FjUIDBK0WA6WxcaRLCevRdvAluSQXqKHno2O8n%2BjP06HLS6SHkr6PAlmlDmRw2N"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Escritora portuguesa Lídia Jorge vence Prémio Camões de 2026",
-      "link": "https://sapo.pt/artigo/lidia-jorge-vence-premio-camoes-de-2026-6a46a6d4e8c4505cbeda74e3",
-      "pubDate": "Thu, 02 Jul 2026 18:18:08 +0000",
-      "description": "Uma das mais prestigiadas escritoras em língua portuguesa, a autora de 80 anos sucede a Ana Paula Tavares como galardoada. O Prémio Camões, no valor de 100 mil euros, vai na 38.ª edição.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AJiEJ0%2B%2BLi%2B0iZ%2BjhYTcnPeVsBesGJaMe4EyVJlVICj3Zhwv2PTAr468GAWMQ9UNh%2F%2Fl%2Fg0CQ3ka4Pvm0EmruwNU1YDWOTndOCjWwd%2Byr4jyvGrChVxlW4vqKVqIteO8V"
+      "title": "AD recua, mas não desiste: perda de nacionalidade volta hoje ao Parlamento para menos crimes. Chega vota contra",
+      "link": "https://executivedigest.sapo.pt/ad-recua-mas-nao-desiste-perda-de-nacionalidade-volta-hoje-ao-parlamento-para-menos-crimes-chega-vota-contra/",
+      "pubDate": "Fri, 03 Jul 2026 07:03:27 +0000",
+      "description": "Debate foi agendado depois de o Chega ter usado o seu agendamento potestativo para forçar a reapreciação do diploma",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AMnNujE%2BNuuZCaRsiCSAyo09E%2FKNb%2Bj%2BS7stdCppsgoeqAnGgr0XqFUy8D2veI81R5%2FhTFLWqFQ6EgRKa%2B7JgNDm2aXhkzJIHhoFYynWyNBpvA2LuDx%2BuUQbuv6IYArRB"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Era especial ganhar pelo pai do Ricardo Carvalho, por Jota e pelo André\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3015598/era-especial-ganhar-pelo-pai-do-ricardo-carvalho-por-jota-e-pelo-andre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 03:04:54",
+      "title": "Pelo menos 40 pessoas morreram em acidente com autocarro no Paquistão",
+      "link": "https://www.noticiasaominuto.com/mundo/3015665/pelo-menos-40-pessoas-morreram-em-acidente-com-autocarro-no-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 09:29:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a470742daa3b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM0LCJjcm9wSGVpZ2h0IjoxNjYxLCJjcm9wWCI6NzEyLCJjcm9wWSI6M319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5406d8f8c584a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bernardo Silva: \"Perdemos o controlo emocional quando não devíamos\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3015597/bernardo-silva-perdemos-o-controlo-emocional-quando-nao-deviamos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 03:01:18",
+      "title": "Calor fez-se sentir e praia de Santo Amaro encheu-se de banhistas: Fotos",
+      "link": "https://www.noticiasaominuto.com/pais/3015661/calor-fez-se-sentir-e-praia-de-santo-amaro-encheu-se-de-banhistas-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 09:29:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a471789ea9af.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6ODk2LCJjcm9wWSI6MTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4764a1aaf92.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg4LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6MzQsImNyb3BZIjo5OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTIxLCJjcm9wSGVpZ2h0IjoxNjM3LCJjcm9wWCI6MTczLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Baixa do Porto foi sala de estar de Portugal em madrugada de festa",
-      "link": "https://www.noticiasaominuto.com/desporto/3015585/baixa-do-porto-foi-sala-de-estar-de-portugal-em-madrugada-de-festa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 02:56:58",
+      "title": "De biquíni, Cristina Ferreira recebe elogios: \"Uma mulher natural, linda\"",
+      "link": "https://www.noticiasaominuto.com/fama/3015669/de-biquini-cristina-ferreira-recebe-elogios-uma-mulher-natural-linda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 09:28:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4716d1c88d9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg1LCJjcm9wWCI6Nzk5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a476862a1ada.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjA2LCJjcm9wSGVpZ2h0Ijo2NzksImNyb3BYIjowLCJjcm9wWSI6ODE5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MDUsImNyb3BIZWlnaHQiOjE2MDgsImNyb3BYIjoyMDgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cristiano Ronaldo marcou ao nono jogo a eliminar e regressa ao top 10",
-      "link": "https://www.noticiasaominuto.com/desporto/3015577/cristiano-ronaldo-marcou-ao-nono-jogo-a-eliminar-e-regressa-ao-top-10#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 02:54:44",
+      "title": "Cerca de 2.000 garrafas de cerveja inundam autoestrada nas Filipinas",
+      "link": "https://www.noticiasaominuto.com/mundo/3015670/cerca-de-2000-garrafas-de-cerveja-inundam-autoestrada-nas-filipinas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 09:27:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4706d760643.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjYxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5OTQsImNyb3BIZWlnaHQiOjE3NjcsImNyb3BYIjo2NzUsImNyb3BZIjotMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47690e44a92.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "De ir às lágrimas. Gesto de Cristiano Ronaldo para Diogo Jota corre mundo",
-      "link": "https://www.noticiasaominuto.com/desporto/3015593/de-ir-as-lagrimas-gesto-de-cristiano-ronaldo-para-diogo-jota-corre-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 02:49:49",
+      "title": "Amazon pode lançar rival da Starlink até ao final do ano",
+      "link": "https://www.noticiasaominuto.com/tech/3015682/amazon-pode-lancar-rival-da-starlink-ate-ao-final-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-03 09:25:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4710cc8600d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjcsImNyb3BIZWlnaHQiOjE3MTksImNyb3BYIjo2ODksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4771d0058e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTA1LCJjcm9wSGVpZ2h0Ijo4NDYsImNyb3BYIjo3LCJjcm9wWSI6OTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYxNCwiY3JvcEhlaWdodCI6MTA5MiwiY3JvcFgiOjQ1NCwiY3JvcFkiOjl9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Visa, Mastercard e Coinbase juntam-se para lançar uma nova stablecoin global",
+      "link": "https://pplware.sapo.pt/criptomoeda/visa-mastercard-e-coinbase-juntam-se-para-lancar-uma-nova-stablecoin-global/",
+      "pubDate": "Fri, 03 Jul 2026 08:30:38 +0000",
+      "description": "Um consórcio liderado pela Visa, Mastercard e Coinbase deu o pontapé de saída para uma nova stablecoin, numa iniciativa batizada de Open Standard. O objetivo é acelerar a adoção global destas moedas digitais indexadas&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/11/pepsi_visa_mastercard00.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Combustíveis vão ficar mais caros na próxima semana. Saiba quanto!",
+      "link": "https://pplware.sapo.pt/motores/combustiveis-vao-ficar-mais-caros-na-proxima-semana-saiba-quanto/",
+      "pubDate": "Fri, 03 Jul 2026 07:50:53 +0000",
+      "description": "Depois de uma semana calma para a carteira dos portugueses, eis que as previsões voltam a apontar para uma subida no preço do gasóleo e da gasolina na próxima semana. De acordo com fontes&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/combustiveis-4.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "iPhone Ultra: Apple aumenta produção para 10 milhões de unidades",
+      "link": "https://pplware.sapo.pt/apple/iphone-ultra-apple-aumenta-producao-para-10-milhoes-de-nidades/",
+      "pubDate": "Fri, 03 Jul 2026 07:00:40 +0000",
+      "description": "Os fãs da Apple têm um encontro marcado no segundo semestre de 2026 com um dispositivo que irá bater todos os recordes anteriores da marca. As previsões apontam agora para um aumento de 30%&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/iphone_ultra_araso_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Microsoft bloqueia o Authenticator em smartphones com jailbreak",
+      "link": "https://pplware.sapo.pt/microsoft/microsoft-bloqueia-o-authenticator-em-smartphones-com-jailbreak/",
+      "pubDate": "Fri, 03 Jul 2026 06:00:11 +0000",
+      "description": "A aplicação Microsoft Authenticator oferece novos padrões de segurança, que a Internet cada vez mais precisa. Esta deixou de funcionar em alguns dispositivos com jailbreak. A Microsoft implementou um sistema de deteção para melhorar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/hero-image.fill_.size_1200x675.webp"
     },
     {
       "sourceId": "pplware",
@@ -262,44 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tecnologia_venezuela00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Sol lançou nova ejeção de massa coronal. Há possibilidade de auroras nos próximos dias",
-      "link": "https://pplware.sapo.pt/ciencia/sol-lancou-nova-ejecao-de-massa-coronal-ha-possibilidade-de-auroras-nos-proximos-dias/",
-      "pubDate": "Thu, 02 Jul 2026 21:30:19 +0000",
-      "description": "O Sol continua bastante ativo e voltou a lançar uma poderosa ejeção de massa coronal (CME), um fenómeno que poderá aumentar a atividade geomagnética da Terra nos próximos dias. Apesar de a ejeção não&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/ataque_solar00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F2 em Silverstone: Duelo ao rubro entre Minì e Tsolov",
+      "link": "https://www.autosport.pt/velocidade/f2-em-silverstone-duelo-ao-rubro-entre-mini-e-tsolov/",
+      "pubDate": "Fri, 03 Jul 2026 07:42:00 +0000",
+      "description": "O Campeonato de Fórmula 2 ruma este fim de semana ao icónico traçado de Silverstone, em solo britânico, para a sétima etapa da temporada de 2026. A mítica pista será o palco de um duelo intenso na liderança do campeonato, onde apenas dois pontos separam o líder italiano Gabriele Minì (108 pontos) do",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novo BYD DOLPHIN G DM-i promete uma autonomia combinada até 1040 km",
-      "link": "https://pplware.sapo.pt/motores/novo-byd-dolphin-g-dm-i-promete-uma-autonomia-combinada-ate-1040-km/",
-      "pubDate": "Thu, 02 Jul 2026 20:59:56 +0000",
-      "description": "A BYD apresentou oficialmente o novo BYD DOLPHIN G DM-i, em simultâneo nos concessionários da marca em todo o país, reforçando a sua estratégia de eletrificação em Portugal. O modelo faz uma entrada revolucionária&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/BYD-DOLPHIN-G-DM-i4.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Grã-Bretanha F1: Red Bull foca-se nas atualizações para tentar travar a Mercedes",
+      "link": "https://www.autosport.pt/formula1/gp-da-gra-bretanha-f1-red-bull-foca-se-nas-atualizacoes-para-tentar-travar-a-mercedes/",
+      "pubDate": "Fri, 03 Jul 2026 07:31:00 +0000",
+      "description": "A Red Bull chega ao Grande Prémio da Grã-Bretanha determinada a consolidar a evolução demonstrada na Áustria, onde Max Verstappen conquistou o melhor resultado da temporada ao intrometer-se entre os pilotos da Mercedes.Contudo, as características de alta velocidade do circuito de Silverstone e a int",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "OASIS: o anel inteligente que promete acabar com o teclado",
-      "link": "https://pplware.sapo.pt/gadgets/oasis-o-anel-inteligente-que-promete-acabar-com-o-teclado/",
-      "pubDate": "Thu, 02 Jul 2026 20:30:49 +0000",
-      "description": "Uma startup quer mudar a forma como interagimos com os nossos dispositivos, com a introdução do OASIS 1, um anel inteligente que combina ditado por voz com um trackpad minúsculo, permitindo escrever e editar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/magic-17.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cinco funcionalidades do iPhone que o ajudam a proteger-se de um roubo",
-      "link": "https://pplware.sapo.pt/apple/cinco-funcionalidades-do-iphone-que-o-ajudam-a-proteger-se-de-um-roubo/",
-      "pubDate": "Thu, 02 Jul 2026 19:30:42 +0000",
-      "description": "A Apple tem vindo a reforçar, ao longo dos últimos anos, as medidas de segurança do iPhone para reduzir o impacto de um roubo. Embora nenhuma funcionalidade consiga impedir que um assalto aconteça, existem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/seguranca_iphone00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Grã-Bretanha F1: Ferrari antecipa fim de semana difícil em Silverstone",
+      "link": "https://www.autosport.pt/formula1/gp-da-gra-bretanha-f1-ferrari-antecipa-fim-de-semana-dificil-em-silverstone/",
+      "pubDate": "Fri, 03 Jul 2026 07:25:00 +0000",
+      "description": "A Scuderia Ferrari enfrenta a sétima etapa do mundial de Fórmula 1 com expectativas moderadas, após uma quebra de rendimento na Áustria devido à elevada degradação de pneus. O cenário surge depois de um momento alto em Espanha, onde Lewis Hamilton conquistou a sua primeira vitória com a equipa de Ma",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/formula1/lego-minicars-levam-espetaculo-inedito-ao-drivers-parade-do-gp-da-gra-bretanha-de-f1/",
       "pubDate": "Thu, 02 Jul 2026 17:07:16 +0000",
       "description": "A Formula 1 e o LEGO Group vão transformar o tradicional Drivers’ Parade do Grande Prémio da Grã‑Bretanha de Fórmula 1 num espetáculo sem precedentes: todos os 22 pilotos da grelha vão conduzir minicars totalmente funcionais construídos com mais de 28.000 peças LEGO cada, capazes de atingir até 25 k",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Grã-Bretanha F1: horários, TL1-12h30, Qualificação Sprint-16h30",
-      "link": "https://www.autosport.pt/formula1/gp-gra-bretanha-f1-horarios-tl1-12h30-qualificacao-sprint-16h30/",
-      "pubDate": "Thu, 02 Jul 2026 16:59:43 +0000",
-      "description": "A Fórmula 1 deixa o Red Bull Ring e ruma diretamente a Silverstone para uma das provas mais aguardadas do calendário, com o “berço” do campeonato a receber a 77.ª edição do Grande Prémio da Grã‑Bretanha. Ao longo da história, a corrida já passou por três traçados: Silverstone, palco de 59 edições, A",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Motor de Sonhos: Desporto Automóvel transforma-se em motor de inclusão",
-      "link": "https://www.autosport.pt/maismotores/motor-de-sonhos-desporto-automovel-transforma-se-em-motor-de-inclusao/",
-      "pubDate": "Thu, 02 Jul 2026 16:58:26 +0000",
-      "description": "Iniciativa solidária da Promolafões, integrada no projeto RACE4ALL, vai proporcionar experiências de rali a pessoas com necessidades específicas em estreita colaboração com a ASSOL. Nos próximos dias 18 e 19 de julho, as ruas de Oliveira de Frades vão transformar-se no palco principal da primeira ed",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Lancia Fulvia HF ‘14’ regressa ao Principado: ícone do Rally de Monte-Carlo em destaque no Grimaldi Forum",
-      "link": "https://www.autosport.pt/ralis/lancia-fulvia-hf-14-regressa-ao-principado-icone-do-rally-de-monte-carlo-em-destaque-no-grimaldi-forum/",
-      "pubDate": "Thu, 02 Jul 2026 16:38:52 +0000",
-      "description": "O icónico Lancia Fulvia 1600 HF número 14, vencedor do Rally de Monte‑Carlo de 1972 com Sandro Munari e Mario Mannucci, regressa ao Principado como uma das grandes protagonistas da exposição “Monaco e l’automobile, dal 1893 a oggi”, patente no Grimaldi Forum de 1 de julho a 6 de setembro. Uma exposi",
       "thumbnail": ""
     }
   ]
