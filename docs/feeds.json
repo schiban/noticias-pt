@@ -1,55 +1,85 @@
 {
-  "updated": "2026-07-04T04:09:54.490300+00:00",
+  "updated": "2026-07-04T07:21:27.959798+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Não foi preciso eficácia para a sorte estar do lado cafetero",
-      "link": "https://observador.pt/2026/07/04/nao-foi-preciso-eficacia-para-a-sorte-estar-do-lado-de-um-cafetero-que-nao-foge-a-sua-responsabilidade-a-cronica-do-colombia-gana/",
-      "pubDate": "Sat, 04 Jul 2026 04:37:47 +0100",
-      "description": "A ameaça inicial do Gana — que fechou o bloco —, não intimidou uma Colômbia dominadora e que ficou a ganhar com a entrada de Suárez no início. Avançado desbloqueou e Jhon Arias carimbou (1-0).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3248:1823:nowe:0:210/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04041255/gettyimages-2283952711.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 4h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2334/",
-      "pubDate": "Sat, 04 Jul 2026 04:12:45 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "8h EUA. Calor cancela festejos dos 250 anos da Independência",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2447/",
+      "pubDate": "Sat, 04 Jul 2026 08:12:56 +0100",
+      "description": "Trump promete o comício político \"mais espetacular de sempre\" em Washington. Ainda neste jornal, uma atualização dos incêndios que estão a atingir o país. Ainda o resumo do Argentina-Cabo Verde.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. IHRU pede rigor após acusações do eleitoralismo do PS",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2367/",
-      "pubDate": "Sat, 04 Jul 2026 03:13:58 +0100",
-      "description": "José Luís Carneiro acusa o Governo de guardar casas para um futuro ciclo eleitoral. O IHRU garante que se destinam a outros fins. Ainda neste jornal, Cabo Verde despede-se do Mundial.",
+      "title": "Taylor Swift e Travis Kelce casaram-se em Nova Iorque",
+      "link": "https://observador.pt/2026/07/04/taylor-swift-e-travis-kelce-casaram-se-em-nova-iorque-com-adam-sandler-a-dirigir-a-cerimonia/",
+      "pubDate": "Sat, 04 Jul 2026 08:04:42 +0100",
+      "description": "O casal conseguiu manter em segredo os detalhes da boda e da lista de mais de mil convidados, ao fechar ruas e proibir o uso de telemóveis. Ambos vestiram Dior e Adam Sandler foi o celebrante.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04075549/gettyimages-2283937312-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. Incêndios. Mais de 1.100 operacionais em Vouzela",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2433/",
+      "pubDate": "Sat, 04 Jul 2026 07:14:41 +0100",
+      "description": "O incêndio dura há dois dias e já atingiu outros três concelhos. Ainda neste jornal, o início das cerimónias fúnebres de Ali Khamenei no Irão. E as contas dos quartos de final do Mundial 2026.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Eles mostraram ao mundo que são mesmo Tubarões!",
-      "link": "https://observador.pt/programas/minuto-90/eles-mostraram-ao-mundo-que-sao-mesmo-tubaroes/",
-      "pubDate": "Sat, 04 Jul 2026 02:21:15 +0100",
-      "description": "Parabéns, Cabo Verde. O sonho terminou, aos pés da campeã mundial Argentina, mas a turma de Messi precisou de 120 minutos para derrotar os estreantes (3-2). Lopes Cabral assinou obra de arte aos 103'.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
+      "title": "\"Faço uma média de 25 viagens por ano\"",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/faco-uma-media-de-25-viagens-por-ano/",
+      "pubDate": "Sat, 04 Jul 2026 06:33:29 +0100",
+      "description": "Rui Terroso começou a viajar em 1993 atrás do músico Prince. Em 2004 fundou uma empresa turística. Desde então não tem parado de viajar para descobrir destinos imperdíveis.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Mundial 2026. Cabo-Verde diz adeus à competição",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2340/",
-      "pubDate": "Sat, 04 Jul 2026 02:13:46 +0100",
-      "description": "Tubarões Azuis foram eliminados pela campeã do Mundo em título,  a Argentina, já em prolongamento. Ainda neste jornal, incêndios em Portugal já fizeram pelo menos 17 feridos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Do mundial à geopolítica: Como desenhar o novo mapa mundial?",
+      "link": "https://observador.pt/programas/5-continentes/do-mundial-a-geopolitica-como-desenhar-o-novo-mapa-mundial/",
+      "pubDate": "Sat, 04 Jul 2026 06:04:49 +0100",
+      "description": "Bruno Cardoso Reis e Raquel Vaz Pinto debatem a \"infantinada\" na FIFA, o eixo autoritário Pequim-Moscovo e a crise na Venezuela. E ainda os sucessos e erros da política externa norte-americana.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16094819/770-podcastcinco-continentescinco-continentes.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio em Vouzela já causou dois feridos graves e mobiliza mais de mil operacionais",
+      "link": "https://www.rtp.pt/noticias/pais/incendio-em-vouzela-ja-causou-dois-feridos-graves-e-mobiliza-mais-de-mil-operacionais_e1751307",
+      "pubDate": "Sat, 04 Jul 2026 09:18:54 +0100",
+      "description": "O incêndio de Vouzela fez já dois feridos graves. No terreno estão mais de mil operacionais e centenas de meios terrestres. Em Setúbal e Barcelos, as chamas que preocupavam as autoridades já foram dominadas. Acompanhamos aqui, ao minuto, todos os desenvolvimentos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/92b00aa424f7589fecdf2380d54cdd5f?w=350&amp;q=50&amp;rect=1,0,5470,2999&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Cabo Verde aplaude com orgulho os Tubarões que “puseram a Argentina a chorar”",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/cabo-verde-aplaude-com-orgulho-os-tubaroes-que-puseram-a-argentina-a-chorar_d1751300",
+      "pubDate": "Sat, 04 Jul 2026 06:24:08 +0100",
+      "description": "A festa já durava há vários dias em Cabo Verde e no largo de Quebra Canela, na cidade da Praia, já se sabia que ia continuar, fosse qual fosse o resultado frente à Argentina, para celebrar a notoriedade conquistada pelo país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d28d85051be200b8d8f174b2c0f45775?w=350&amp;q=50&amp;rect=0,452,6720,3684&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Messi chega aos 20 golos e fatura pelo oitavo jogo seguido",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/messi-chega-aos-20-golos-e-fatura-pelo-oitavo-jogo-seguido_d1751299",
+      "pubDate": "Sat, 04 Jul 2026 06:17:23 +0100",
+      "description": "O argentino Lionel Messi reforçou na sexta-feira a liderança dos melhores marcadores da história dos Mundiais de futebol, ao apontar o seu 20.º, ao 30.º encontro, e sétimo na edição 2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcdb09d69d743b892516a2737cd0c723?w=350&amp;q=50&amp;rect=0,277,5206,2854&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Sat, 04 Jul 2026 05:31:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Dominado incêndio em Setúbal",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-dominado-incendio-em-setubal_a1_1751294",
-      "pubDate": "Sat, 04 Jul 2026 05:31:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Hamilton conquista ‘pole’ para corrida sprint do GP da Grã-Bretanha de Fórmula 1",
-      "link": "https://www.rtp.pt/noticias/motores/hamilton-conquista-pole-para-corrida-sprint-do-gp-da-gra-bretanha-de-formula-1_d1751289",
-      "pubDate": "Sat, 04 Jul 2026 03:04:23 +0100",
-      "description": "O britânico Lewis Hamilton (Ferrari) conquistou hoje a pole position para a corrida sprint do Grande Prémio da Grã-Bretanha de Fórmula 1, em Silverstone, nona prova da temporada.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5fef2e01a4958f95d5ab47286c31881?w=350&amp;q=50&amp;rect=0,49,3302,1810&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "World Athletics mantém suspensão internacional a atletas russos e bielorrusos",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/world-athletics-mantem-suspensao-internacional-a-atletas-russos-e-bielorrusos_d1751288",
-      "pubDate": "Sat, 04 Jul 2026 03:01:12 +0100",
-      "description": "Os atletas russos e bielorrussos vão continuar afastados das provas internacionais de atletismo, depois da World Athletics ter reconfirmado hoje a suspensão em vigor desde 2022, decorrente da invasão à Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ea/eac73dd5dc40d94aa740e74484436fb6?w=350&amp;q=50&amp;rect=0,190,4222,2315&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Argentina elimina Cabo Verde. Segue-se o Colômbia-Gana",
-      "link": "https://www.noticiasaominuto.com/desporto/3016043/em-direto-australia-e-egito-jogam-antes-de-cabo-verde-lutar-pelo-sonho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-04 01:53:45",
+      "title": "Erro da Apple está a revelar endereços de e-mail dos utilizadores",
+      "link": "https://www.noticiasaominuto.com/tech/3016050/erro-da-apple-esta-a-revelar-enderecos-de-e-mail-dos-utilizadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-04 08:17:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4833db7e57e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ea66683a9f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoxNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODU4LCJjcm9wSGVpZ2h0IjoxNTI0LCJjcm9wWCI6ODUxLCJjcm9wWSI6MTJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cabo Verde cai de pé. Africanos ainda sonharam, mas Argentina apurou-se",
-      "link": "https://www.noticiasaominuto.com/desporto/3016269/cabo-verde-cai-de-pe-africanos-ainda-sonharam-mas-argentina-sorriu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-04 01:50:45",
+      "title": "Brasil em período de defeso eleitoral e Lula terá de restringir agenda",
+      "link": "https://www.noticiasaominuto.com/mundo/3016320/brasil-em-periodo-de-defeso-eleitoral-e-lula-tera-de-restringir-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-04 08:15:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4858abce452.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/39652344.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "CP volta a ajustar horários dos comboios devido ao calor. Confira quais",
-      "link": "https://www.noticiasaominuto.com/economia/3016250/cp-volta-a-ajustar-horarios-dos-comboios-devido-ao-calor-confira-quais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-04 00:00:52",
+      "title": "Carneiro começa ronda por congressos federativos do PS com \"compromisso\"",
+      "link": "https://www.noticiasaominuto.com/politica/3016317/carneiro-comeca-ronda-por-congressos-federativos-do-ps-com-compromisso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-04 08:14:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_680a4d950831a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47367791.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3015675/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 23:59:53",
+      "title": "Do aviso aos reformados à nova taxa: As notícias preferidas da semana",
+      "link": "https://www.noticiasaominuto.com/economia/3015881/do-aviso-aos-reformados-a-nova-taxa-as-noticias-preferidas-da-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-04 08:08:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47696d0f653.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTg2LCJjcm9wSGVpZ2h0Ijo4OTIsImNyb3BYIjozOSwiY3JvcFkiOjIyfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_695e7082a7ab9.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJlY29ub21pYV9udW1fbWludXRvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1sZWZ0In19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio em Setúbal obrigou à retirada de 60 pessoas",
-      "link": "https://www.noticiasaominuto.com/pais/3016248/incendio-em-setubal-obrigou-a-retirada-de-60-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-03 23:53:27",
+      "title": "O que acontece ao seu fígado quando come bananas",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3014036/o-que-acontece-ao-seu-figado-quando-come-bananas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-04 08:07:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e43983c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a44486e544fd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTAxLCJjcm9wSGVpZ2h0IjoxNjAyLCJjcm9wWCI6MTE1OSwiY3JvcFkiOjQxfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "IPTV: Europa quer lista negra para travar alojamento de transmissões piratas",
+      "link": "https://pplware.sapo.pt/internet/iptv-europa-quer-lista-negra-para-travar-alojamento-de-transmissoes-piratas/",
+      "pubDate": "Sat, 04 Jul 2026 07:00:26 +0000",
+      "description": "O combate à pirataria digital e à IPTV ilegal na Europa prepara-se para entrar numa fase mais agressiva. Um consórcio que reúne os principais detentores de direitos desportivos e de entretenimento submeteu uma proposta&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/iptv_europa_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "WhatsApp prepara funcionalidade muito esperada no iPad",
+      "link": "https://pplware.sapo.pt/apple/whatsapp-anuncia-funcionalidade-muito-esperada-no-ipad/",
+      "pubDate": "Sat, 04 Jul 2026 06:00:17 +0000",
+      "description": "A chegada do WhatsApp ao iPad mostrou uma mudança que todos queriam há muito. Este cenário evoluiu agora e o WhatsApp lançou o suporte para o uso exclusivo do iPad como dispositivo principal. Agora&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/bild-2674736_1100_0.webp"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,44 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/pessoa-dormir-ventoinha-noite-tropical-onda-calor00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Anthropic quer os seus próprios chips de IA e já está em conversa com a Samsung",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/anthropic-quer-os-seus-proprios-chips-de-ia-e-ja-esta-em-conversa-com-a-samsung/",
-      "pubDate": "Fri, 03 Jul 2026 19:30:30 +0000",
-      "description": "A Anthropic poderá juntar-se ao grupo de empresas que apostam no desenvolvimento de chips próprios para inteligência artificial (IA). A fabricante do Claude já está a analisar uma possível colaboração com a Samsung, embora&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/claude_samsung.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Pascal Wehrlein vence E-Prix de Xangai e relança luta pelo título na Fórmula E, Félix da Costa em 2º",
+      "link": "https://www.autosport.pt/velocidade/formula-e/pascal-wehrlein-vence-e-prix-de-xangai-e-relanca-luta-pelo-titulo-na-formula-e-felix-da-costa-em-2o/",
+      "pubDate": "Sat, 04 Jul 2026 05:41:00 +0000",
+      "description": "Pascal Wehrlein conquistou este sábado a vitória no E-Prix de Xangai (Ronda 12) do Campeonato do Mundo de Fórmula E, reduzindo a desvantagem para o líder Mitch Evans para apenas três pontos. O piloto da Porsche dominou uma corrida marcada pela ameaça de chuva &#8211; que chegou mesmo a cair forte na",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Visa, Mastercard e Coinbase juntam-se para lançar uma nova stablecoin global",
-      "link": "https://pplware.sapo.pt/criptomoeda/visa-mastercard-e-coinbase-juntam-se-para-lancar-uma-nova-stablecoin-global/",
-      "pubDate": "Fri, 03 Jul 2026 18:30:38 +0000",
-      "description": "Um consórcio liderado pela Visa, Mastercard e Coinbase deu o pontapé de saída para uma nova stablecoin, numa iniciativa batizada de Open Standard. O objetivo é acelerar a adoção global destas moedas digitais indexadas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/11/pepsi_visa_mastercard00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E: Pascal Wehrlein conquista pole position em Xangai, Félix da Costa, 5º",
+      "link": "https://www.autosport.pt/velocidade/formula-e-pascal-wehrlein-conquista-pole-position-em-xangai-felix-da-costa-5o/",
+      "pubDate": "Sat, 04 Jul 2026 01:41:00 +0000",
+      "description": "Pascal Wehrlein garantiu este sábado a pole position para o E-Prix de Xangai, a 12ª ronda do Campeonato do Mundo de Fórmula E 2025/26, ao bater Mitch Evans na final da qualificação da 1ª corrida. O piloto da Porsche assegurou assim três pontos cruciais e subiu ao terceiro lugar do campeonato, ficand",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Miguel Nunes lidera Rali da Calheta",
+      "link": "https://www.autosport.pt/ralis/miguel-nunes-lidera-rali-da-calheta/",
+      "pubDate": "Fri, 03 Jul 2026 23:11:00 +0000",
+      "description": "Miguel Nunes é o líder do Rali da Calheta depois de cumprido o primeiro dia de competição daquela que é a quinta prova do Campeonato de Ralis Coral da Madeira. Nas duas evoluções pela super-especial de Vila da Calheta, o piloto do Skoda Fabia RS Rally2 ganhou um avanço de 1,7 segundos sobre a restan",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Peugeot Rally Cup Ibérica/Rallye Rías Baixas: Pablo Fernández domina 1º dia, Pedro Câmara 3º",
+      "link": "https://www.autosport.pt/ralis/peugeot-rally-cup-iberica-rallye-rias-baixas-pablo-fernandez-domina-1o-dia-pedro-camara-3o/",
+      "pubDate": "Fri, 03 Jul 2026 23:02:00 +0000",
+      "description": "A dupla espanhola Pablo Fernández e Lucía Otero completou um pleno imperial ao vencer as quatro classificativas da primeira etapa, garantindo uma vantagem de 21,9 segundos na liderança da prova. Pablo Fernández e Lucía Otero assumiram, esta sexta-feira, o comando absoluto da segunda jornada da Peuge",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/f3-silverstone-freddie-slater-faz-a-pole-em-casa/",
       "pubDate": "Fri, 03 Jul 2026 18:53:53 +0000",
       "description": "Freddie Slater conquistou a sua primeira Pole Position Award na F3, sendo também a primeira pole da TRIDENT na temporada de 2026. Theophile Nael terminou em segundo lugar, após uma volta tardia sob pressão, depois de estar em 29.º antes da tentativa final, enquanto Louis Sharp garantiu o terceiro lu",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F2, Silverstone: Rafael Câmara conquista a pole",
-      "link": "https://www.autosport.pt/velocidade/f2-silverstone-rafael-camara-conquista-a-pole/",
-      "pubDate": "Fri, 03 Jul 2026 18:41:59 +0000",
-      "description": "Rafael Câmara conquistou a sua terceira Pole Position da temporada, batendo Alexander Dunne na sessão de qualificação em Silverstone. Com a última volta do dia, o piloto da Invicta Racing registou um tempo de 1:39.690, superando o rival da Rodin por 0.201s, enquanto Kush Maini, da ART Grand Prix, co",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPV: Pedro Salvador regressa às pistas em Vila Real, ao lado de César Machado",
-      "link": "https://www.autosport.pt/velocidade/cpv-pedro-salvador-regressa-as-pistas-em-vila-real-ao-lado-de-cesar-machado/",
-      "pubDate": "Fri, 03 Jul 2026 18:09:18 +0000",
-      "description": "Pedro Salvador vai voltar a sentar-se ao volante de um Toyota GR Supra GT4 EVO2 da Speedy Motorsport para disputar a ronda do Campeonato de Portugal de Velocidade integrada no 55.º Circuito Internacional de Vila Real, entre 10 e 12 de julho. A prova do Supercars Endurance marcará o regresso à compet",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Grã-Bretanha F1, Max Verstappen: “Vai ser mais uma batalha com os pilotos atrás de mim”",
-      "link": "https://www.autosport.pt/formula1/gp-gra-bretanha-f1-max-verstappen-vai-ser-mais-uma-batalha-com-os-pilotos-atras-de-mim/",
-      "pubDate": "Fri, 03 Jul 2026 18:03:46 +0000",
-      "description": "Mas Verstappen voltou a destacar-se na qualificação, agora para a Corrida Sprint de amanhã, neste fim de semana do GP da Grã-Bretanha. O piloto da Red Bull conquistou o terceiro melhor tempo, mas reconheceu que facilmente poderia ter tido um resultado pior. Para amanhã, as expetativas são baixas. Ve",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Grã-Bretanha F1, Lando Norris: “Só na última volta é que conseguimos resolver o problema”",
-      "link": "https://www.autosport.pt/formula1/gp-gra-bretanha-f1-lando-norris-so-na-ultima-volta-e-que-conseguimos-resolver-o-problema/",
-      "pubDate": "Fri, 03 Jul 2026 17:49:24 +0000",
-      "description": "Lando Norris não teve uma qualificação fácil. Os danos nos ductos de travagem do seu monolugar afetaram a performance do campeão em título, que passou a SQ1 e a SQ2 a tentar sobreviver. Apenas na SQ3, já com as reparações feitas, é que Norris conseguiu mostrar algo mais. O britânico reconheceu que h",
       "thumbnail": ""
     }
   ]
