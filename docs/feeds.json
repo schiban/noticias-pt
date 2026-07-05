@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-04T23:32:12.219594+00:00",
+  "updated": "2026-07-05T02:43:36.775884+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2368/",
+      "pubDate": "Sun, 05 Jul 2026 03:16:15 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Incêndios. Governo admite prolongar estado de alerta",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2341/",
+      "pubDate": "Sun, 05 Jul 2026 02:13:28 +0100",
+      "description": "Possibilidade avançada pelo ministro da Administração Interna no briefing da proteção civil deste sábado. Ainda nesta edição, seleção nacional já está em Dallas, no Texas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Seleção Nacional chega a Dallas para defrontar Espanha",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2314/",
+      "pubDate": "Sun, 05 Jul 2026 01:17:06 +0100",
+      "description": "Equipa das quinas recebida por centenas de adeptos. O jogo frente à Espanha é já na próxima segunda-feira. Ainda neste jornal, incêndio em Vouzela tem duas frentes ativas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A grande substituição do eleitorado",
+      "link": "https://observador.pt/opiniao/a-grande-substituicao-do-eleitorado/",
+      "pubDate": "Sun, 05 Jul 2026 00:25:39 +0100",
+      "description": "Sanchez não está enganado.  Melenchon não é louco. É pura táctica: o voto daqueles que desprezam os valores dos países ocidentais tornou-se para a esquerda a terra prometida dos novos eleitores.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,44 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1843%3A1838%3Anowe%3A1084%3A166%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F06%2F23181612%2Fdventura-miguel-morgado-4-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O fundo soberano",
-      "link": "https://observador.pt/opiniao/o-fundo-soberano/",
-      "pubDate": "Sun, 05 Jul 2026 00:22:45 +0100",
-      "description": "Um fundo soberano que dê estabilidade é uma boa ideia quando há excedentes orçamentais numa economia diversificada. Não quando os excedentes foram circunstanciais e a economia depende de um sector.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2224%3A2224%3Anowe%3A226%3A374%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170541%2Fandre-amaral.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Tempestade adia discurso de Trump",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-tempestade-adia-discurso-de-trump_a1_1751475",
+      "pubDate": "Sun, 05 Jul 2026 04:21:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Adões e Evas que não trincaram o fruto",
-      "link": "https://observador.pt/opiniao/adoes-e-evas-que-nao-trincaram-o-fruto/",
-      "pubDate": "Sun, 05 Jul 2026 00:20:01 +0100",
-      "description": "Defender algo na sua essência é desprezar o mundo e as pessoas reais. Torna-nos mais distantes de quem não consegue cumprir as expectativas de estar à altura da sua própria essência.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Vouzela: Proteção Civil com expectativa no controlo das chamas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-vouzela-protecao-civil-com-expectativa-no-controlo-das-chamas_a1_1751474",
+      "pubDate": "Sun, 05 Jul 2026 04:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Negócio fechado",
-      "link": "https://observador.pt/opiniao/negocio-fechado/",
-      "pubDate": "Sun, 05 Jul 2026 00:15:21 +0100",
-      "description": "Moreira da Silva também pagou pelo bilhete de entrada, é a linguagem que o denuncia. Como denuncia Guterres, ao contrário do que ele pensa. É por isso que o seu silêncio não surpreende",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1523%3A1523%3Anowe%3A13%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F11%2F30132209%2F20201130-131011.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Ameaça de tempestade leva a evacuação nos EUA",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ameaca-de-tempestade-leva-a-evacuacao-nos-eua_a1_1751472",
+      "pubDate": "Sun, 05 Jul 2026 02:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2358/",
-      "pubDate": "Sun, 05 Jul 2026 00:15:19 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00h Autarca de Vouzela preocupado com vento esperado para a madrugada",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-autarca-de-vouzela-preocupado-com-vento-esperado-para-a-madrugada_a1_1751470",
+      "pubDate": "Sun, 05 Jul 2026 01:29:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h BE pede isenção de custos da reapreciação de nota nos exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-be-pede-isencao-de-custos-da-reapreciacao-de-nota-nos-exames_a1_1751467",
-      "pubDate": "Sun, 05 Jul 2026 00:35:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jovane acaba Mundial livre de contrato: «Espero que as portas se abram»",
+      "link": "https://maisfutebol.iol.pt/cabo-verde/mundial/jovane-acaba-mundial-livre-de-contrato-espero-que-as-portas-se-abram",
+      "pubDate": "Sun, 5 Jul 2026 01:40:00 +0100",
+      "description": "Extremo de 28 anos, nascido em Cabo Verde e formado no Sporting, garante que agora que vai de férias aberto a ouvir todas as propostas",
+      "thumbnail": ""
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tour. Clément Berthet é o primeiro desistente após queda aparatosa no `crono`",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/tour-clement-berthet-e-o-primeiro-desistente-apos-queda-aparatosa-no-crono_d1751466",
-      "pubDate": "Sun, 05 Jul 2026 00:00:35 +0100",
-      "description": "O ciclista francês Clément Berthet (Groupama-FDJ) é o primeiro desistente da 113.ª Volta a França, por ter sofrido uma comoção cerebral na sequência de uma queda no contrarrelógio por equipas da primeira etapa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/691114481da49e99a9b58f34d2a3b82d?w=350&amp;q=50&amp;rect=0,682,5293,2902&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Portugal recebido por centenas de pessoas em Dallas",
+      "link": "https://maisfutebol.iol.pt/selecao/portugal/portugal-recebido-por-centenas-de-pessoas-em-dallas",
+      "pubDate": "Sun, 5 Jul 2026 01:14:33 +0100",
+      "description": "Cristiano Ronaldo foi, como sempre, o mais saudado na entrada para o hotel",
+      "thumbnail": "https://img.iol.pt/image/id/6a2c9e0dd34edcee7c653890/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios em Portugal. Estado de alerta deve manter-se na próxima semana",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-estado-de-alerta-deve-manter-se-na-proxima-semana_e1751307",
-      "pubDate": "Sat, 04 Jul 2026 23:50:52 +0100",
-      "description": "O ministro da Administração Interna admitiu que o estado de alerta em Portugal deverá ser mantido na próxima semana, já os próximos dias vão continuar a ser de muito calor. O incêndio de Vouzela, que deflagrou na quinta-feira, continua a requerer muita atenção, apesar de a situação estar mais calma.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/713e05271b816a093be8891edc938acc?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Sun, 5 Jul 2026 00:41:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h PS e BE falam de caos nos exames nacionais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ps-e-be-falam-de-caos-nos-exames-nacionais_a1_1751462",
-      "pubDate": "Sat, 04 Jul 2026 23:29:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Sun, 5 Jul 2026 00:40:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sun, 5 Jul 2026 00:25:15 +0100",
       "description": "Viu-se muito pouco futebol em Filadélfia...",
       "thumbnail": "https://img.iol.pt/image/id/6a49961cd34e28842c85f2db/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: lista de todos os marcadores na fase final",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
-      "pubDate": "Sun, 5 Jul 2026 00:14:00 +0100",
-      "description": "Mbappé apanha Messi no topo da tabela com sete golos",
-      "thumbnail": "https://img.iol.pt/image/id/6a49961dd34e28842c85f2e1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
-      "pubDate": "Sun, 5 Jul 2026 00:10:00 +0100",
-      "description": "São 104 partidas ao longo de 39 dias",
-      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Gustavo Puerta no FC Porto? Jackson Martínez aprova a transferência",
-      "link": "https://maisfutebol.iol.pt/fc-porto/gustavo-puerta/gustavo-puerta-no-fc-porto-jackson-martinez-aprova-a-transferencia",
-      "pubDate": "Sat, 4 Jul 2026 23:07:00 +0100",
-      "description": "Médio colombiano, recorde-se, tem sido associado aos azuis e brancos",
-      "thumbnail": "https://img.iol.pt/image/id/6a3fa79fd34e28842c85a524/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Não somos mais uma surpresa, isso é motivo de grande orgulho»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mohamed-ouahbi/nao-somos-mais-uma-surpresa-isso-e-motivo-de-grande-orgulho",
-      "pubDate": "Sat, 4 Jul 2026 23:05:16 +0100",
-      "description": "Mohamed Ouahbi, selecionador de Marrocos, falou do orgulho da seleção estar mais presente nas decisões",
-      "thumbnail": "https://img.iol.pt/image/id/6a498059d34edcee7c6611c0/250"
     },
     {
       "sourceId": "sapo",
