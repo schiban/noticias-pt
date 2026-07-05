@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-05T11:27:24.348630+00:00",
+  "updated": "2026-07-05T12:49:08.565428+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h. Aumentam para nove os distritos sob aviso vermelho",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2376/",
+      "pubDate": "Sun, 05 Jul 2026 13:10:16 +0100",
+      "description": "Aviso vermelho vai vigorar até às 11 horas da noite de segunda-feira em Bragança e Guarda. Ainda neste jornal, as cerimónias fúnebres de Ali Khamenei. Presidente do Egito fala da paz no Médio Oriente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Brasil consegue travar Haaland e México cumpre previsão d...",
+      "link": "https://observador.pt/programas/e-o-campeao-e/brasil-consegue-travar-haaland-e-mexico-cumpre-previsao-dos-simpsons/",
+      "pubDate": "Sun, 05 Jul 2026 12:40:16 +0100",
+      "description": "Enquanto o Paraguai reinventa o futebol como wrestling, a França avança e reencontra um velho rival: Marrocos. México destrona Inglaterra e Brasil consegue lidar com energia e faro de golo de Haaland?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1709:962:nowe:0:572/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01161427/caro-claire-burke-credit-aiste-saulyte-scaled-1.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 12h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2377/",
-      "pubDate": "Sun, 05 Jul 2026 12:01:56 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Escola-Fábrica e Vinted: as novas estratégias dos designers",
-      "link": "https://observador.pt/2026/07/05/moda-com-legado-e-identidade-maria-gambina-rejeita-as-massas-hugo-costa-aposta-na-vinted-e-susana-bettencourt-anuncia-pausa/",
-      "pubDate": "Sun, 05 Jul 2026 11:52:20 +0100",
-      "description": "Enquanto os mais jovens tentam as fábricas e focam no mercado internacional, Maria Gambina, Hugo Costa e Susana Bettencourt vão do digital ao ensino para se manterem pequenos e sustentáveis.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02152030/ilacerda-portugal-fashion-dia-2-maria-gambina-10-scaled.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "12h Incêndios: situação em Vouzela e Santo Tirso está melhor",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-incendios-situacao-em-vouzela-e-santo-tirso-esta-melhor_a1_1751511",
-      "pubDate": "Sun, 05 Jul 2026 13:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Utentes sem dados atualizados vão ter de pagar por assistência no SNS",
+      "link": "https://www.rtp.pt/noticias/pais/utentes-sem-dados-atualizados-vao-ter-de-pagar-por-assistencia-no-sns_v1751524",
+      "pubDate": "Sun, 05 Jul 2026 14:46:47 +0100",
+      "description": "Quem não tem contacto com o SNS há cinco anos vai perder o médico de família. Mas há mais mudanças: se os dados não estiverem atualizados também a assistência passa a ser paga. Ainda assim, as autoridades garantem que a prestação de cuidados nunca é recusada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/8f/8fa3808d14c2066497842fa346ef9861_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -67,39 +67,59 @@
       "color": "#e05252",
       "title": "Incêndio de Vouzela já sem frentes ativas. Operacionais tentam evitar reativações",
       "link": "https://www.rtp.pt/noticias/pais/incendio-de-vouzela-ja-sem-frentes-ativas-operacionais-tentam-evitar-reativacoes_e1751484",
-      "pubDate": "Sun, 05 Jul 2026 13:13:05 +0100",
-      "description": "O fogo que começou na quinta-feira em Vouzela continua a ser o mais preocupante no país. Os meios europeus de combate acionados pelo primeiro-ministro vão concentrar-se neste incêndio, que já queimou mais de 13 mil hectares de floresta e mato e que passou do distrito de Viseu para o distrito de Avei",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/af/af66ef2ecae908150838296715b7cce4?w=350&amp;q=50&amp;rect=1,0,5470,2999&amp;auto=format"
+      "pubDate": "Sun, 05 Jul 2026 14:38:05 +0100",
+      "description": "Já não há frentes ativas no Incêndio de Vouzela, que era desde quinta-feira o maior fogo no país. Cerca de 1.200 bombeiros continuam no terreno. O estado do tempo é decisivo para as próximas horas. Acompanhamos aqui, ao minuto, todos os desenvolvimentos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b6bea8a82b6105b97ad29b676c9003c?w=350&amp;q=50&amp;rect=1,0,4675,2563&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "ONU alerta para escassez de água que ameaça milhões de pessoas em Cabul",
-      "link": "https://www.rtp.pt/noticias/mundo/onu-alerta-para-escassez-de-agua-que-ameaca-milhoes-de-pessoas-em-cabul_n1751504",
-      "pubDate": "Sun, 05 Jul 2026 12:40:43 +0100",
-      "description": "A ONU alertou que Cabul enfrenta uma grave escassez de água que afeta milhões de pessoas e ameaça o futuro da capital afegã, em consequência do rápido crescimento populacional, da sobre-exploração dos seus aquíferos e das alterações climáticas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/93/931536a30b1f0733c3511cc944e33f6b?w=350&amp;q=50&amp;rect=1,0,5470,2999&amp;auto=format"
+      "title": "Centenas de pessoas em missa no Funchal em homenagem às vítimas da Venezuela",
+      "link": "https://www.rtp.pt/noticias/mundo/centenas-de-pessoas-em-missa-no-funchal-em-homenagem-as-vitimas-da-venezuela_v1751522",
+      "pubDate": "Sun, 05 Jul 2026 14:29:47 +0100",
+      "description": "Centenas de emigrantes e lusodescentes participaram numa missa na Sé do Funchal. O dinheiro do ofertório vai ser entregue à Caritas para apoiar as vítimas dos terramotos na Venezuela.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7e/7ef352e44ada4d0f924aa1c4dd672954_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "11h Incêndio em Vouzela: combate a evoluir de forma favorável",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-incendio-em-vouzela-combate-a-evoluir-de-forma-favoravel_a1_1751505",
-      "pubDate": "Sun, 05 Jul 2026 12:31:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Onda de calor. Manutenção do estado de alerta na próxima semana \"está em cima da mesa\"",
+      "link": "https://www.rtp.pt/noticias/pais/onda-de-calor-manutencao-do-estado-de-alerta-na-proxima-semana-esta-em-cima-da-mesa_v1751521",
+      "pubDate": "Sun, 05 Jul 2026 14:28:47 +0100",
+      "description": "O Governo pondera manter o estado de alerta na próxima semana. O ministro da Administração interna avisa que o país ainda tem pela frente vários dias de calor. A Proteção Civil alerta para a previsão de trovoadas secas que podem provocar incêndios.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/50/5066e6d537ed24b55c62757106bc9797_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Tiroteio em Nova Iorque faz pelo menos oito feridos incluindo quatro crianças",
-      "link": "https://www.rtp.pt/noticias/mundo/tiroteio-em-nova-iorque-faz-pelo-menos-oito-feridos-incluindo-quatro-criancas_n1751501",
-      "pubDate": "Sun, 05 Jul 2026 12:11:34 +0100",
-      "description": "Pelo menos oito pessoas, entre as quais quatro crianças, foram alvejadas e ficaram feridas na noite de sábado no bairro de Coney Island, em Nova Iorque.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d6da1bbf9e3434bdff0f35f85d3c8e3d?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
+      "title": "Incêndio de Vouzela. Arrefecimento noturno ajudou na consolidação",
+      "link": "https://www.rtp.pt/noticias/pais/incendio-de-vouzela-arrefecimento-noturno-ajudou-na-consolidacao_v1751519",
+      "pubDate": "Sun, 05 Jul 2026 14:26:47 +0100",
+      "description": "Já não há frentes ativas no incêndio de Vouzela, que era desde quinta-feira o maior fogo no país. Cerca de 1.200 bombeiros mantêm-se no terreno. O estado do tempo é decisivo para as próximas horas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/a0/a0a31570e3ed62b1c9a6ce48d8c1e346_N.jpg?"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Plutonio anuncia concerto em Alvalade para 2027",
+      "link": "https://maisfutebol.iol.pt/sporting/plutonio/plutonio-anuncia-concentro-em-alvalade-para-2027",
+      "pubDate": "Sun, 5 Jul 2026 13:24:00 +0100",
+      "description": "Rapper português, conhecido sportinguista, fez o anúncio no final de uma corrida solidária",
+      "thumbnail": "https://img.iol.pt/image/id/6650a484d34e04989221375f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Duelo ibérico pelo sonho Mundial: o que diz o histórico entre as seleções",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/portugal/duelo-iberico-pelo-sonho-mundial-o-que-diz-o-historico-entre-as-selecoes",
+      "pubDate": "Sun, 5 Jul 2026 13:08:00 +0100",
+      "description": "Última vez que Portugal e Espanha se encontraram nesta fase não correu bem para o lado português",
+      "thumbnail": "https://img.iol.pt/image/id/6a470d68d34edcee7c65ff74/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,34 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a4a2fe8d34e28842c85f3d5/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Fortes no ataque… impecáveis na defesa: os números de Espanha que assustam Portugal",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/portugal/fortes-no-ataque-impecaveis-na-defesa-os-numeros-de-espanha-que-assustam-portugal",
-      "pubDate": "Sun, 5 Jul 2026 11:04:00 +0100",
-      "description": "«La Roja» ainda não sofreu no Mundial e é poderosa na frente, apesar das lesões dos extremos",
-      "thumbnail": "https://img.iol.pt/image/id/6a46c2a6d34edcee7c65fde4/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ibrahimovic e o Paraguai-França: «Eu teria levado quatro cartões vermelhos...»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/franca/ibrahimovic-e-o-paraguai-franca-eu-teria-levado-quatro-cartoes-vermelhos",
-      "pubDate": "Sun, 5 Jul 2026 10:39:00 +0100",
-      "description": "Antigo avançado sueco elogiou a calma da seleção francesa para avançar para os «quartos»",
-      "thumbnail": "https://img.iol.pt/image/id/6a4a237ad34e28842c85f37f/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "NATO reúne-se em Ancara. Europa deve comprometer-se a assumir mais responsabilidades na defesa do continente",
+      "link": "https://sapo.pt/artigo/nato-reune-se-em-ancara-europa-deve-comprometer-se-a-assumir-mais-responsabilidades-na-defesa-do-continente-6a4a2edb77061555a58fcf97",
+      "pubDate": "Sun, 05 Jul 2026 11:47:05 +0000",
+      "description": "Os líderes da NATO reúnem-se a partir de terça-feira em Ancara, para uma cimeira na qual os europeus se deverão comprometer a assumir mais responsabilidades pela defesa do continente, após um ano marcado por tensões com Donald Trump.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AfIbPZGXrsqrE%2BVIwDZUeY%2F%2BeAnTikxvn77cZjcMXdRvL9LRtep9LtRvnDnGj%2BqKvLQYWziwbVWhLNYg%2BFEKbSzzvfZqU1ABH7jBEFXExUMrONINsviTpHh%2B0axMiubGC"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Putin reitera em conversa com Trump que Rússia vai tomar todo o Donbass",
-      "link": "https://sapo.pt/artigo/putin-reitera-em-conversa-com-trump-que-russia-vai-tomar-todo-o-donbass-6a499038e8c4505cbe81469f",
-      "pubDate": "Sun, 05 Jul 2026 07:43:28 +0000",
-      "description": "A conversa entre os dois líderes mundiais antecede a cimeira da NATO na Turquia, onde Trump participará nos próximos dias.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=627&W=1114&crop=center&delay_optim=1&epic=V2%3AECFwZI2rCt4Owa%2Bx%2FcG3De%2FvcjjzFg1ID5k3PrW7mAHcNzbSdBo1dtezvPL5%2BWc%2BG12nmkwIwNm3klFljHIz%2Ba%2BfmKNUM1Hgn51rJzz1YG3ckZqF4q1shCWhS2XgaHnH"
+      "title": "Milhares juntam-se para “último adeus”a Khamenei e gritam “vingança”",
+      "link": "https://sapo.pt/artigo/milhares-juntam-se-para-ultimo-adeus-a-khamenei-e-gritam-vinganca-6a4a2f8a4787f02fc8eb7a31",
+      "pubDate": "Sun, 05 Jul 2026 11:47:05 +0000",
+      "description": "Milhares acorreram no sábado ao Grande Mosalla de Teerão para o arranque das cerimónias fúnebres de Ali Khamenei. Vestidos de preto, pediram vingança contra os EUA e Israel. Já Trump, enquanto comemorava os 250 anos de independência do país que...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7K8ExnER342wuMy%2BOOX5UlnDV58Nov8LOHhxwZVDGvgWA9zXVnk1C27fkIIS3DsCp%2Bd6PTaAOBaqnmZX3DQmyt0rb5Dlt2D44gRQd2XIQP5O3zDDmVm4uuNkybb25VK2"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Estudantes do Porto desenvolvem catamarã autónomo movido a energia elétrica",
+      "link": "https://sapo.pt/artigo/estudantes-do-porto-desenvolvem-catamara-autonomo-movido-a-energia-eletrica-6a4a3b73c8d41349b299c051",
+      "pubDate": "Sun, 05 Jul 2026 11:47:05 +0000",
+      "description": "\"Cristal\" é um barco não tripulado e elétrico inspirado no Palácio de Cristal do Porto.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=312&W=554&crop=center&delay_optim=1&epic=V2%3AmCIrR9xbcI7eL%2Fg3CBbu0TZJ32NEGsLt8Nnbs%2FzD7gA%2FVJF4Thg7Yq3xZq9Xe3uT%2F4N34SGUkaQ7pyW%2Bt%2BFCmSEoDiR1Sbi%2FfDUi5Sw5Nx0se7zvR2sRiWC8GBGxN2Vx"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal realiza este domingo o último treino antes do duelo com Espanha",
-      "link": "https://sapo.pt/artigo/portugal-realiza-este-domingo-o-ultimo-treino-antes-do-duelo-com-espanha-6a4a0c5ae8c4505cbe9987e7",
-      "pubDate": "Sun, 05 Jul 2026 09:46:59 +0000",
-      "description": "Seleção Nacional realiza este domingo o último treino antes do jogo com a Espanha, dos oitavos de final do Mundial'2026, já nos Estados Unidos",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A7pIzlIsxMo9AsEIrygpZWVYgEKFnbCUCglEso17Jk2bjjK9ip1RDA7cVVr5FmoMm0qWQwNoW8tN%2BUjRpZdjNUCCDS%2FuXYHYscGavOfgwuAtpqNh15xpUTMJ0MvHojWxx"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Crise humanitária agrava-se em Gaza: \"Um bebé saudável pode morrer em poucos dias\"",
-      "link": "https://sapo.pt/artigo/crise-humanitaria-agrava-se-em-gaza-um-bebe-saudavel-pode-morrer-em-poucos-dias-6a49fdd3c8d41349b28dfd67",
-      "pubDate": "Sun, 05 Jul 2026 07:43:28 +0000",
-      "description": "A degradação das condições de vida na Faixa de Gaza está a provocar um aumento alarmante de doenças entre as crianças. A organização Médicos Sem Fronteiras alerta para milhares de casos de infeções, problemas respiratórios, entre outros,...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A4kLevKyVQgwHO4Ovd9TxTTUbmzovJhwMoeU3aZG7jwZ0DXGXJ6rk8U5QDF5m3sB1MKRO9HZDCuic%2FdikwNqfDNpx%2BQmB4u%2FQhmIXUClTMi%2BaaEP%2BZvEiF54rn9meLGcU"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "\"Consigo chegar aos 84 anos a cantar como se tivesse 48\": José Cid conquista o público de Évora",
-      "link": "https://sapo.pt/artigo/consigo-chegar-aos-84-anos-a-cantar-como-se-tivesse-48-jose-cid-conquista-o-publico-de-evora-c-fotos-6a4a1efb77061555a58c3a4b",
-      "pubDate": "Sun, 05 Jul 2026 09:46:59 +0000",
-      "description": "José Cid regressou este sábado ao palco da Feira de São João, em Évora, onde encontrou um Jardim Público repleto de público que acompanhou grande parte do repertório. No final do concerto, o cantor destacou a forma como foi recebido, anunciou a...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=607&W=1080&crop=center&delay_optim=1&epic=V2%3ANet8GhCheKNP4M%2BhUQ7zq4c2IW6wGdstBnh6%2FR9lEZbx2luCExURgNlKk7k88xzKkPnJRCxYDoh1c9E%2BWt%2BTrcLr9Xm5PqMloIguavwdVVM68TzxRpXr9TIeB8%2F%2Baf4b"
+      "title": "Entrámos no estúdio de Ernest W. Baker, onde o jogo entre o masculino e o feminino assume o protagonismo",
+      "link": "https://sapo.pt/artigo/entramos-no-estudio-de-ernest-w-baker-onde-o-jogo-entre-o-masculino-e-o-feminino-assume-o-protagonismo-6a4a3cd3e8c4505cbea2eec9",
+      "pubDate": "Sun, 05 Jul 2026 11:28:00 +0000",
+      "description": "Inspirada pelo filme “Smithereens”, uma produção independente nova-iorquina dos anos 1980, a dupla criativa por detrás da Ernest W. Baker criou uma coleção marcada pelo cruzamento entre o clássico e o contemporâneo, pela estética andrógina e tons...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3APhxaONdH0EuVUCqnAfiwV0UTeUWfpHOOyfl6y5yJoc0feb2F6ew9xFMIvsSLyEqj9%2F%2BzAndD%2FIKLH%2BrJKTmFbF4egJXTCNk5JaCy4JxzSLyGzZm5hQR%2BK27u7mcVC5QQ"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU alerta para escassez de água que ameaça milhões de pessoas em Cabul",
-      "link": "https://www.noticiasaominuto.com/mundo/3016701/onu-alerta-para-escassez-de-agua-que-ameaca-milhoes-de-pessoas-em-cabul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 12:22:50",
+      "title": "Portugal tem potencial para \"fazer pontes\" entre EUA e aliados europeus",
+      "link": "https://www.noticiasaominuto.com/pais/3016641/portugal-tem-potencial-para-fazer-pontes-entre-eua-e-aliados-europeus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-05 13:41:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47381342.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a5152289ed.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EUA representam 59% do investimento da Aliança mas peso tem vindo a cair",
-      "link": "https://www.noticiasaominuto.com/mundo/3016640/eua-representam-59-do-investimento-da-alianca-mas-peso-tem-vindo-a-cair#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 12:12:45",
+      "title": "OPEP+ aumenta produção de petróleo em 188 mil barris por dia",
+      "link": "https://www.noticiasaominuto.com/economia/3016706/opep-aumenta-producao-de-petroleo-em-188-mil-barris-por-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-05 13:39:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a3ce241321.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47345288.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Porcelana num carro? Sim, e é o último Bugatti W16 Mistral",
-      "link": "https://www.noticiasaominuto.com/auto/3016018/porcelana-num-carro-sim-e-e-o-ultimo-bugatti-w16-mistral#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 12:03:27",
+      "title": "\"Ninguém pode colocar em causa a importância de Cristiano Ronaldo\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3016731/ninguem-pode-colocar-em-causa-a-importancia-de-cristiano-ronaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-05 13:38:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47d4159b395.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a4fbdaeae4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NTQsImNyb3BZIjo0MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Da Gronelândia ao Irão, os pontos de discórdia entre EUA e UE",
-      "link": "https://www.noticiasaominuto.com/mundo/3016642/da-gronelandia-ao-irao-os-pontos-de-discordia-entre-eua-e-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 12:01:23",
+      "title": "IL responsabiliza PS e PCP por falta de água em Almada",
+      "link": "https://www.noticiasaominuto.com/politica/3016727/il-responsabiliza-ps-e-pcp-por-falta-de-agua-em-almada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-05 13:37:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a39c3d0b07.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a502795aa1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Família real espanhola: Revelada lista de presentes (inusitados)",
-      "link": "https://www.noticiasaominuto.com/fama/3014439/familia-real-espanhola-revelada-lista-de-presentes-inusitados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 12:00:00",
+      "title": "Fogo no Caramulo, em Tondela, em fase de rescaldo",
+      "link": "https://www.noticiasaominuto.com/pais/3016722/fogo-no-caramulo-em-tondela-em-fase-de-rescaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-05 13:32:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_693c3e81b4a44.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6ODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjM2NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66eaa03281b1e.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Estudante lançou câmara para a estratosfera: queria “fotografar” a energia do Universo",
+      "link": "https://pplware.sapo.pt/multimedia-2/imagem/estudante-lancou-camara-para-a-estratosfera-queria-fotografar-a-energia-do-universo/",
+      "pubDate": "Sun, 05 Jul 2026 12:00:06 +0000",
+      "description": "Um estudante de Fotografia conseguiu registar em filme analógico algo que normalmente escapa aos nossos olhos: a radiação cósmica. O projeto, batizado de HELIOS, é considerado a primeira obra fotográfica criada diretamente pela energia&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tom-liggett04.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/google_recaptcha_novo.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows tem um bug misterioso e o Google Chrome poderá ser o culpado",
-      "link": "https://pplware.sapo.pt/microsoft/windows/windows-tem-um-bug-misterioso-e-acredita-se-que-o-google-chrome-e-o-culpado/",
-      "pubDate": "Sun, 05 Jul 2026 07:00:56 +0000",
-      "description": "O Windows tem um novo bug, mas desta vez a culpa não é da Microsoft. Os utilizadores do Windows 10 e 11 têm vindo a reportar, desde há vários dias, um bug que surge&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/11/windows_10_upgrade_ferramenta.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Zak Brown explicou porque McLaren ainda não recebeu motores atualizados da Mercedes",
+      "link": "https://www.autosport.pt/formula1/f1-zak-brown-explicou-porque-mclaren-ainda-nao-recebeu-motores-atualizados-da-mercedes/",
+      "pubDate": "Sun, 05 Jul 2026 11:30:25 +0000",
+      "description": "Zak Brown explicou por que razão a McLaren é a única equipa que ainda não utilizou o motor Mercedes atualizado. Enquanto a Mercedes foi a primeira a estrear a nova unidade, na Áustria, a Williams e a Alpine receberam as suas versões atualizadas a tempo da corrida deste fim de semana em Silverstone, ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-xangai-felix-da-costa-toda-a-estrategia-da-corrida-foi-mal-feita/",
       "pubDate": "Sun, 05 Jul 2026 08:22:35 +0000",
       "description": "Se na corrida 1, Félix da Costa foi um dos protagonistas, com um pódio que o colocou um pouco mais próximo nas contas do título, a segunda corrida não lhe sorriu. Uma qualificação abaixo do esperado e uma corrida com uma estratégia mal gizada acabaram com o piloto fora do top 10. O português não [&#",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Xangai: Lucas di Grassi fecha o ciclo na China",
-      "link": "https://www.autosport.pt/velocidade/formula-e-xangai-lucas-di-grassi-fecha-o-ciclo-na-china/",
-      "pubDate": "Sun, 05 Jul 2026 07:20:00 +0000",
-      "description": "A segunda corrida em Xangai deu um resultado inesperado, mas simbólico: Lucas di Grassi. O brasileiro aproveitou na perfeição o caos da corrida e garantiu a primeiríssima vitória da Lola Yamaha ABT. &#8220;Não foi sempre fácil, mas estamos aqui para ganhar&#8221;, afirmou di Grassi após a corrida. &",
       "thumbnail": ""
     }
   ]
