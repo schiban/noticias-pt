@@ -1,55 +1,95 @@
 {
-  "updated": "2026-07-06T01:13:57.429972+00:00",
+  "updated": "2026-07-06T05:52:38.332154+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2315/",
-      "pubDate": "Mon, 06 Jul 2026 01:13:50 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Ataque russo a Kiev faz pelo menos cinco mortos",
+      "link": "https://observador.pt/liveblogs/ataque-russo-com-misseis-balisticos-e-drones-mata-pelo-menos-cinco-pessoas-em-kiev/",
+      "pubDate": "Mon, 06 Jul 2026 06:49:12 +0100",
+      "description": "O ataque, que ainda estava em curso na madrugada de hoje, envolveu ondas de mísseis balísticos e de cruzeiro, bem como drones. As explosões ecoaram pela cidade enquanto civis procuravam abrigo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06064652/gettyimages-2284258335-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mulheres ganham menos 244 euros do que os homens",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/mulheres-ganham-menos-244-euros-do-que-os-homens/",
+      "pubDate": "Mon, 06 Jul 2026 06:44:16 +0100",
+      "description": "JN: O barómetro da Direção-Geral de Coordenação e Planeamento revela que a diferença salarial de género é de 14,5%. Público: A despesa do SNS com medicamentos oncológicos triplicou em dez anos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Portugal defronta a Espanha. Ronaldo com \"fé\"",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2425/",
+      "pubDate": "Mon, 06 Jul 2026 06:12:56 +0100",
+      "description": "Neste jornal, a antevisão do duelo ibérico nos oitavos do Mundial. Ainda nesta edição, o início das jornadas parlamentares da AD e um olhar ao reforço de agentes da PSP nos aeroportos nacionais.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Saudades de Cabo Verde",
-      "link": "https://observador.pt/opiniao/saudades-de-cabo-verde/",
-      "pubDate": "Mon, 06 Jul 2026 00:25:11 +0100",
-      "description": "E pensar que fui escrevendo tudo isto por causa da equipa de futebol de Cabo Verde e das suas estonteantes exibições! Sou capaz de também me ter deixado levar pelo sentimento.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1797%3A1796%3Anowe%3A483%3A444%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170553%2Fmaria-joao-avillez.jpg"
+      "title": "“Temos mais argumentos”. Imprensa espanhola confiante",
+      "link": "https://observador.pt/programas/reportagem-observador/temos-mais-argumentos-imprensa-espanhola-confiante/",
+      "pubDate": "Mon, 06 Jul 2026 06:05:22 +0100",
+      "description": "Antes do jogo frente a Portugal, nos oitavos, a imprensa espanhola mostra confiança. \"Vai ser difícil, mas a Espanha está melhor\" e \"há sentimento de vingança\", dizem ao Observador em Dallas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2252:nowe:0:562/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06062508/20260705-110516jpg.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Grandes democratas de esquerda",
-      "link": "https://observador.pt/opiniao/grandes-democratas-de-esquerda/",
-      "pubDate": "Mon, 06 Jul 2026 00:23:56 +0100",
-      "description": "Convém não esquecer que ainda há poucas semanas o grupo parlamentar do PS votou em bloco a favor da proposta para criminalizar certas expressões ou discursos que pudessem ser tidos por \"racistas\"",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
+      "title": "Sobre casórios (episódio especial wedding season)",
+      "link": "https://observador.pt/programas/terapia-de-casal/sobre-casorios-episodio-especial-wedding-season/",
+      "pubDate": "Mon, 06 Jul 2026 06:04:22 +0100",
+      "description": "Ouvem os sinos? Cheiram os perfumes? Sentem o arroz no cabelo? Pois, é que entrámos na época de casamentos e por isso, esta semana, respondemos a 3 emails com 3 problemas diferentes sobre casórios.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/02155819/770x433.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Gaslighting",
-      "link": "https://observador.pt/opiniao/gaslighting/",
-      "pubDate": "Mon, 06 Jul 2026 00:21:24 +0100",
-      "description": "Trata-se, de facto, de um conceito politicamente útil: afinal, quantas vezes nos tentaram já convencer a negar a realidade ou a ignorar perceções?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Inglaterra elimina México e está nos quartos do Mundial",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-inglaterra-elimina-mexico-e-esta-nos-quartos-do-mundial_a1_1751621",
+      "pubDate": "Mon, 06 Jul 2026 06:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. Brasil está fora do Campeonato do Mundo",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2359/",
-      "pubDate": "Mon, 06 Jul 2026 00:21:05 +0100",
-      "description": "Seleção \"Canarinha\" perdeu por 2-1 frente à Noruega. Ainda, Trump vai encontrar-se com Zelensky na próxima quarta feira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Vouzela contabiiza prejuízo após incêndio",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-vouzela-contabiiza-prejuizo-apos-incendio_a1_1751620",
+      "pubDate": "Mon, 06 Jul 2026 06:25:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Mundial: Noruega surpreende Brasil",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-mundial-noruega-surpreende-brasil_a1_1751615",
+      "pubDate": "Mon, 06 Jul 2026 04:41:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Brasil diz adeus ao Mundial",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-brasil-diz-adeus-ao-mundial_a1_1751614",
+      "pubDate": "Mon, 06 Jul 2026 04:40:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Brasil afastado do Mundial pela Noruega",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-brasil-afastado-do-mundial-pela-noruega_a1_1751608",
-      "pubDate": "Mon, 06 Jul 2026 01:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
+      "pubDate": "Mon, 6 Jul 2026 04:58:00 +0100",
+      "description": "São 104 partidas ao longo de 39 dias",
+      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Carlos Queiroz deixa mensagem de balanço sem desvendar se futuro passa pelo Gana",
-      "link": "https://www.rtp.pt/noticias/mundial-2026/carlos-queiroz-deixa-mensagem-de-balanco-sem-desvendar-se-futuro-passa-pelo-gana_d1751606",
-      "pubDate": "Mon, 06 Jul 2026 00:58:40 +0100",
-      "description": "O português Carlos Queiroz afirmou hoje que deixa o Mundial2026 futebol orgulhoso com o desempenho da seleção do Gana, mas também com &quot;a insatisfação de quem quis sempre mais&quot;, sem desvendar um eventual prolongamento de contrato.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0dacce52e867e2eb542ad70647b1328a?w=350&amp;q=50&amp;rect=0,171,6768,3711&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: lista de todos os marcadores na fase final",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
+      "pubDate": "Mon, 6 Jul 2026 04:56:00 +0100",
+      "description": "Haaland junta-se a Mbappé e Messi no topo da tabela com sete golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a4b17c7d34edcee7c661788/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Federação belga \"perplexa\" com decisão da FIFA sobre vermelho a Balogun",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/federacao-belga-perplexa-com-decisao-da-fifa-sobre-vermelho-a-balogun_d1751607",
-      "pubDate": "Mon, 06 Jul 2026 00:54:50 +0100",
-      "description": "A Federação Belga de Futebol (RBFA) demonstrou hoje a sua &quot;perplexidade&quot; com a decisão da FIFA, que suspendeu hoje a punição de um jogo ao norte-americano Folarin Balogun, permitindo que defronta a Bélgica nos &#039;oitavos&#039; do Mundial2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb877a46aeb2fc0f9040174a32f6f152?w=350&amp;q=50&amp;rect=0,45,2294,1258&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Gabriel Albuquerque e Lucas Santos de ouro na Taça do Mundo de trampolins",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/gabriel-albuquerque-e-lucas-santos-de-ouro-na-taca-do-mundo-de-trampolins_d1751605",
-      "pubDate": "Mon, 06 Jul 2026 00:47:18 +0100",
-      "description": "Os ginastas portugueses Gabriel Albuquerque e Lucas Santos conquistaram hoje a medalha de ouro na prova de trampolim sincronizado da Taça do Mundo, que decorreu em Coimbra.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/39/390b565ec95a7f591d7625e6f5d06957?w=350&amp;q=50&amp;rect=0,0,506,277&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: México-Inglaterra, 2-3 (crónica)",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/inglaterra/mundial-2026-mexico-inglaterra-2-3-cronica",
+      "pubDate": "Mon, 6 Jul 2026 04:12:00 +0100",
+      "description": "Ingleses voltam a sorrir no Azteca",
+      "thumbnail": "https://img.iol.pt/image/id/6a4b17c7d34edcee7c661788/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Mon, 6 Jul 2026 00:47:09 +0100",
       "description": "Treinador português não abordou um eventual prolongamento do contrato com a federação do Gana",
       "thumbnail": "https://img.iol.pt/image/id/6a3ba17ad34edcee7c65a2f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Wimbledon: Sinner confirma favoritismo e segue para os quartos",
-      "link": "https://maisfutebol.iol.pt/tenis/wimbledon/wimbledon-sinner-confirma-favoritismo-e-segue-para-os-quartos",
-      "pubDate": "Mon, 6 Jul 2026 00:46:00 +0100",
-      "description": "Número 1 mundial bateu em três sets o japonês Shintaro Mochizuki",
-      "thumbnail": "https://img.iol.pt/image/id/6a45288dd34edcee7c65ef51/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: temporal adia o início do México-Inglaterra",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mexico-inglaterra/mundial-2026-chuva-adia-o-inicio-do-mexico-inglaterra",
-      "pubDate": "Mon, 6 Jul 2026 00:30:00 +0100",
-      "description": "Jogo tinha início marcado para a 1h00 da manhã de Portugal, mas não vai começar antes das 2h00",
-      "thumbnail": "https://img.iol.pt/image/id/6a4ae864d34edcee7c661714/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Portugal conquista ouro no trampolim sincronizado na Taça do Mundo de Coimbra",
-      "link": "https://maisfutebol.iol.pt/ginastica/trampolins/portugal-conquista-ouro-no-trampolim-sincronizado-na-taca-do-mundo-de-coimbra",
-      "pubDate": "Mon, 6 Jul 2026 00:15:21 +0100",
-      "description": "Gabriel Albuquerque e Lucas Santos venceram a prova masculina e garantiram a terceira medalha lusa na competição",
-      "thumbnail": "https://img.iol.pt/image/id/6a4ae55ad34e28842c85f82a/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Aliança da UE para identificar produtos químicos dominada por setor",
-      "link": "https://www.noticiasaominuto.com/mundo/3016904/alianca-da-ue-para-identificar-produtos-quimicos-dominada-por-setor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-06 00:02:53",
+      "title": "Cortejo fúnebre de Ali Khamenei desfila pelas ruas de Teerão",
+      "link": "https://www.noticiasaominuto.com/mundo/3016938/cortejo-funebre-de-ali-khamenei-desfila-pelas-ruas-de-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-06 06:44:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6661c8d53ebbf.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4b3ec62b822.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA3LCJjcm9wSGVpZ2h0IjoxNDEwLCJjcm9wWCI6MzIsImNyb3BZIjoxNTh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3016635/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 23:57:50",
+      "title": "Ordem lança campanha para reduzir IVA nos serviços veterinários",
+      "link": "https://www.noticiasaominuto.com/pais/3016937/ordem-lanca-campanha-para-reduzir-iva-nos-servicos-veterinarios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-06 06:18:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a49f8014fedb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NTIsImNyb3BZIjoyMn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/7217505.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzOCwiY3JvcEhlaWdodCI6MTY2OCwiY3JvcFgiOjU5OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carlos Queiroz deixa mensagem sem desvendar se futuro passa pelo Gana",
-      "link": "https://www.noticiasaominuto.com/desporto/3016902/carlos-queiroz-deixa-mensagem-sem-desvendar-se-futuro-passa-pelo-gana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 23:57:33",
+      "title": "Gustavo Petro antecipa saída da Presidência da Colômbia para 20 de julho",
+      "link": "https://www.noticiasaominuto.com/mundo/3016917/gustavo-petro-antecipa-saida-da-presidencia-da-colombia-para-20-de-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-06 06:15:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3eef0274237.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47333435.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ5LCJjcm9wSGVpZ2h0IjoxNDM0LCJjcm9wWCI6MTIsImNyb3BZIjozM319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cabo Verde. Presidente condecora seleçã com mais alta distinção do país",
-      "link": "https://www.noticiasaominuto.com/desporto/3016901/cabo-verde-presidente-condecora-seleca-com-mais-alta-distincao-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 23:56:12",
+      "title": "Peru inicia transferência da governação para presidente Keiko Fujimori",
+      "link": "https://www.noticiasaominuto.com/mundo/3016918/peru-inicia-transferencia-da-governacao-para-presidente-keiko-fujimori#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-06 06:15:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a6e41c53d3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47403709.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "25.º dia do Mundial2026 em imagens: Haaland fez Brasil cair com estrondo",
-      "link": "https://www.noticiasaominuto.com/desporto/3016899/25-dia-do-mundial2026-em-imagens-haaland-fez-brasil-cair-com-estrondo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-05 23:51:28",
+      "title": "Fuga da África do Sul expõe transportadores moçambicanos a medo",
+      "link": "https://www.noticiasaominuto.com/mundo/3016928/fuga-da-africa-do-sul-expoe-transportadores-mocambicanos-a-medo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-06 06:13:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4adf155993f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47391120.webp"
     },
     {
       "sourceId": "pplware",
