@@ -1,63 +1,93 @@
 {
-  "updated": "2026-07-07T04:31:32.119842+00:00",
+  "updated": "2026-07-07T08:19:52.010756+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "O que explica este caos nos exames nacionais?",
-      "link": "https://observador.pt/programas/a-hist-ria-do-dia/o-que-explica-este-caos-nos-exames-nacionais/",
-      "pubDate": "Tue, 07 Jul 2026 05:02:57 +0100",
-      "description": "A classificação digital dos exames está a acumular falhas e já obrigou ao adiamento de prazos. Mariana Marques Tiago explica o que correu mal e o que isto significa para alunos e professores.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+      "title": "Portugal no deserto: sem golos, notas e água",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/portugal-no-deserto-sem-golos-notas-e-agua/",
+      "pubDate": "Tue, 07 Jul 2026 09:16:08 +0100",
+      "description": "Enquanto Luís Montenegro vê um \"mar de rosas\" na seleção, os exames derrapam com um ministro \"estrela cadente\". Já em Almada, a água não existe em pleno verão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "4h. Arranca hoje a cimeira da NATO na Turquia",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2337/",
-      "pubDate": "Tue, 07 Jul 2026 04:14:43 +0100",
-      "description": "Com foco no reforço do investimento em Defesa bem como no apoio à Ucrânia. No Campeonato do Mundo, a Bélgica venceu os Estados Unidos por 4-1.",
+      "title": "9h. Incêndios. Câmara de Vouzela espera ter apoio do Governo",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2402/",
+      "pubDate": "Tue, 07 Jul 2026 09:15:08 +0100",
+      "description": "Carlos Oliveira admite à Rádio Observador que não conhece o valor real dos prejuízo, mas afirma que essa avaliação está a ser feita. Ainda, sobe o número de mortos em Kiev depois de ataque russo.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Os \"Diabos\" cancelaram os planos da FIFA e de Trump",
-      "link": "https://observador.pt/programas/minuto-90/os-diabos-cancelaram-os-planos-da-fifa-e-de-trump/",
-      "pubDate": "Tue, 07 Jul 2026 03:32:33 +0100",
-      "description": "A Bélgica venceu os Estados Unidos (com Balogun) por 4-1 e defronta a Espanha na próxima fase do Mundial. Rudi Garcia não tem medo de sentar \"Vacas sagradas\" e consegue vencer com caras novas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
+      "title": "Calor avassalador. Erros e perigos a evitar ao volante",
+      "link": "https://observador.pt/programas/operacao-stop/calor-avassalador-erros-e-perigos-a-evitar-ao-volante/",
+      "pubDate": "Tue, 07 Jul 2026 08:56:38 +0100",
+      "description": "Um Verão anormalmente quente leva-nos a concentrar no que podem fazer os automobilistas para reduzir o número de mortes e acidentes. Há opções erradas e decisões perigosas que podem fazer a diferença.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Durão Barroso apela a sentimento de comunidade nacional",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2370/",
-      "pubDate": "Tue, 07 Jul 2026 03:15:25 +0100",
-      "description": "E diz que Portugal  não pode descurar a vocação atlântica nem o sentimento de pertença à Europa. Ainda, a Bélgica venceu os Estados Unidos por 4-1.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Ronaldo em lágrimas e em reflexão. Salve Jesus. Adios Martín",
+      "link": "https://observador.pt/newsletters/360/ronaldo-em-lagrimas-e-em-reflexao-salve-jesus-adios-martinez-a-canicula-tambem-esta-de-saida/",
+      "pubDate": "Tue, 07 Jul 2026 08:38:30 +0100",
+      "description": "O fim da campanha portuguesa no Mundial dos EUA. Roberto Martínez de saída e Jorge Jesus a chegar. O calor deverá abrandar nos próximos dias.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Para já, a notícia é esta: a equipa da casa foi goleada",
-      "link": "https://observador.pt/2026/07/07/para-ja-a-noticia-e-esta-a-equipa-da-casa-foi-goleada-a-cronica-do-estados-unidos-belgica/",
-      "pubDate": "Tue, 07 Jul 2026 03:10:16 +0100",
-      "description": "Admitindo que não há nenhuma regra para anular frangos nem validar defesas de Courtois a remates de Balogun, EUA caíram perante uma Bélgica que, como diz Klopp, sabe a quem pertence o futebol (1-4).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:843:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07024938/matt-freese.jpg"
+      "title": "E agora o que é que fazemos com tantos imigrantes?",
+      "link": "https://observador.pt/programas/contra-corrente/e-agora-o-que-e-que-fazemos-com-tantos-imigrantes/",
+      "pubDate": "Tue, 07 Jul 2026 08:35:59 +0100",
+      "description": "É mesmo verdade, temos mais de milhão e meio de imigrantes e isso criou uma nova realidade no país que divide políticos e pressiona os serviços públicos. Mas será que alguém sabe o que fazer com eles?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Exames nacionais: acesso a plataforma condicionado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-exames-nacionais-acesso-a-plataforma-condicionado_a1_1751802",
-      "pubDate": "Tue, 07 Jul 2026 05:20:02 +0100",
+      "title": "Zelensky vai aproveitar encontro em Ancara para voltar a pressionar aliados por apoio na defesa aérea",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-vai-aproveitar-encontro-em-ancara-para-voltar-a-pressionar-aliados-por-apoio-na-defesa-aerea_n1751819",
+      "pubDate": "Tue, 07 Jul 2026 10:10:04 +0100",
+      "description": "O presidente ucraniano apelou a mais apoio, afirmando que &quot;os Estados Unidos e a Europa têm força suficiente para travar este terror&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edb579f49316bb696d1a89281425c9d7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Teerão não negociará acordo final com EUA enquanto persistirem ameaças",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-nao-negociara-acordo-final-com-eua-enquanto-persistirem-ameacas_n1751818",
+      "pubDate": "Tue, 07 Jul 2026 10:01:32 +0100",
+      "description": "O Irão avisou hoje que as negociações para um acordo final com os Estados Unidos não começarão enquanto o Presidente norte-americano, Donald Trump, continuar a ameaçar a República Islâmica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f3/f3891ea17e92623ff025acb1eff148de?w=350&amp;q=50&amp;rect=0,45,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Imprensa desportiva espanhola promove Merino a herói",
+      "link": "https://www.rtp.pt/noticias/desporto/imprensa-desportiva-espanhola-promove-merino-a-heroi_a1751817",
+      "pubDate": "Tue, 07 Jul 2026 09:35:56 +0100",
+      "description": "O autor do golo contra Portugal e as lágrimas de Ronaldo - no final da partida enchem as páginas dos jornais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/42242db9c3516068b1bbe5945a3dc23f?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "08h Derrota com Espanha abre novo ciclo na Seleção",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-derrota-com-espanha-abre-novo-ciclo-na-selecao_a1_1751816",
+      "pubDate": "Tue, 07 Jul 2026 09:26:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,41 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Martínez despede-se da seleção nacional",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-martinez-despede-se-da-selecao-nacional_a1_1751801",
-      "pubDate": "Tue, 07 Jul 2026 04:41:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Jornadas Parlamentares do PSD. Durão Barroso defende patriotismo",
+      "link": "https://www.rtp.pt/noticias/politica/jornadas-parlamentares-do-psd-durao-barroso-defende-patriotismo_n1751815",
+      "pubDate": "Tue, 07 Jul 2026 09:23:16 +0100",
+      "description": "Portugal deve reforçar o sentimento de comunidade nacional que alguns querem pôr em causa, defende Durão Barroso, que diz que o patriotismo não quer dizer nacionalismo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/20fc4bf0e577906fab69281052af7091?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Na hora da despedida, Ronaldo está de consciência tranquila",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-na-hora-da-despedida-ronaldo-esta-de-consciencia-tranquila_a1_1751799",
-      "pubDate": "Tue, 07 Jul 2026 03:43:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Tue, 7 Jul 2026 08:59:00 +0100",
+      "description": "Clubes já estão a preparar a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/13907517/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "1h Exames: plataforma de classificação continua inacessível para alguns docentes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-exames-plataforma-de-classificacao-continua-inacessivel-para-alguns-docentes_a1_1751797",
-      "pubDate": "Tue, 07 Jul 2026 02:49:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rodri: «Cometi um erro e pedi desculpa a Bernardo Silva»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/rodri-cometi-um-erro-e-pedi-desculpa-a-bernardo-silva",
+      "pubDate": "Tue, 7 Jul 2026 08:45:00 +0100",
+      "description": "Médio espanhol celebrou ocasião não concretizada pelo seu ex-colega no Manchester City, no Portugal-Espanha",
+      "thumbnail": "https://img.iol.pt/image/id/6a4cae14d34e511da0b2b7d7/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ronaldo não decide de cabeça quente o futuro na seleção",
-      "link": "https://www.rtp.pt/noticias/selecao-nacional/ronaldo-nao-decide-de-cabeca-quente-o-futuro-na-selecao_d1751785",
-      "pubDate": "Tue, 07 Jul 2026 01:30:32 +0100",
-      "description": "Cristiano Ronaldo garantiu hoje que não vai decidir de cabeça quente o seu futuro na seleção portuguesa de futebol, depois da eliminação frente à Espanha (1-0), nos oitavos de final do Mundial2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a83143f8e56936b262ef6841b73e3ca5?w=350&amp;q=50&amp;rect=0,32,1135,622&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/mundial-2026/hoje-vai-ser-noticia-178340760",
+      "pubDate": "Tue, 7 Jul 2026 08:00:00 +0100",
+      "description": "Há Argentina-Egito e Suíça-Colômbia para os «oitavos» do Mundial 2026",
+      "thumbnail": "https://img.iol.pt/image/id/6a483e76d34e28842c85ed75/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,134 +152,134 @@
       "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: Estados Unidos-Bélgica, 1-4 (crónica)",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-estados-unidos-belgica-1-4-cronica",
-      "pubDate": "Tue, 7 Jul 2026 03:08:19 +0100",
-      "description": "Esta expulsão não deve ser revertida…",
-      "thumbnail": "https://img.iol.pt/image/id/6a4c4ac7d34edcee7c662614/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Tenho a sorte de poder dizer aos meus netos que joguei com o Cristiano»",
-      "link": "https://maisfutebol.iol.pt/portugal/selecao-nacional/tenho-a-sorte-de-poder-dizer-aos-meus-netos-que-joguei-com-o-cristiano",
-      "pubDate": "Tue, 7 Jul 2026 00:37:59 +0100",
-      "description": "Nélson Semedo diz que o país todo devia estar de pé a aplaudir o que Ronaldo fez",
-      "thumbnail": "https://img.iol.pt/image/id/6a493079d34edcee7c661043/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Stones «finge» lesão no ombro e Tuchel não ganha para o susto",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/video-stones-finge-lesao-no-ombro-e-tuchel-nao-ganha-para-o-susto",
-      "pubDate": "Tue, 7 Jul 2026 00:37:38 +0100",
-      "description": "Momento aconteceu no balneário, já após a Inglaterra ter eliminado o México do Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/670fc78bd34ea1acf26f86e5/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "A 'maldição' do 6? O número que prometia sorte, mas acabou por escrever a despedida de Portugal",
+      "link": "https://sapo.pt/artigo/a-maldicao-do-6-o-numero-que-prometia-sorte-mas-acabou-por-escrever-a-despedida-de-portugal-6a4c427cc900a3badacc5995",
+      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
+      "description": "Roberto Martínez acreditava na numerologia e no poder do número 6 para Portugal neste Mundial. Os primeiros sinais pareceram dar-lhe razão, mas a história acabou por ter um desfecho bem diferente.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Am4uRaWxxMbmZt778MnmNtMGMDLbStvL8I83TG3agNSBvsjLRu%2FbxhBTAxh91vnRYL1toceqnHG5Yo%2F5Q200yQc55tGPL%2FhJQkAIndEAFAh%2BurnWA6XQ%2BlDYfo5ZmVbgf"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal perde contra os espanhóis e despede-se do Mundial 2026",
-      "link": "https://eco.sapo.pt/2026/07/06/portugal-perde-contra-os-espanhois-e-despede-se-do-mundial-2026/",
-      "pubDate": "Mon, 06 Jul 2026 21:20:52 +0000",
-      "description": "O golo de Mikel Merino, assistido por Ferran Torres aos 91 minutos, foi decisivo para a vitória dos espanhóis. O jogo ficou por 0-1.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ai2GmGy3pZGrCSzZQjWCdD%2F1SpUlooAOttydRMKCS%2FLg5se%2B7w7d%2FMjVs3Lc7%2FJZX%2FHQzUDxZxsQ7X98gkz3zAf9a5Y6BznSYA3ZhxZGqKRDKQn4B0efG5lyEoZrtTO34"
+      "title": "NATO reunida na Turquia com investimento em Defesa e apoio à Ucrânia na agenda",
+      "link": "https://sapo.pt/artigo/nato-reunida-na-turquia-com-investimento-em-defesa-e-apoio-a-ucrania-na-agenda-6a4c9374c900a3badad82cad",
+      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
+      "description": "A cimeira da NATO arranca esta terça-feira em Ancara. Vão ser discutidos três assuntos: o investimento em Defesa, o reforço da produção industrial e o apoio à Ucrânia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ajgn2w1RZuM2ymZPT4%2BZYUmrI4OMwVJGwrDGKtT2kaI4kMJx54N4DkES0gUaEqG40ngui15PLMmwtT%2FcH0dbG37u2LePI8M%2FVnv4KhHBAZtYHPoAkbSEdvq6df6%2BCuYJA"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Homem detido por \"violentas agressões\" a agentes da PSP e funcionários no aeroporto de Lisboa",
-      "link": "https://sapo.pt/artigo/homem-detido-por-violentas-agressoes-a-agentes-da-psp-e-funcionarios-no-aeroporto-de-lisboa-6a4bfadde14556a12af0cae0",
-      "pubDate": "Mon, 06 Jul 2026 19:36:14 +0000",
-      "description": "Um irlandês de 27 anos agrediu esta segunda-feira vários agentes da PSP e funcionários do Aeroporto Humberto Delgado. Um dos polícias ficou com “ferimentos graves”.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=534&W=949&crop=center&delay_optim=1&epic=V2%3AC5ur3BcNBqDxLukVlqNsbxPGlRnNw%2FCSY9EVKhlod3WCmO1fqx9nRMEQ4SNiafbyDuVTRAred748i15gwJbQoW0HGUOiw7cvUC9EfPXGxJrPwb5dovNuA0iJLLpigP2g"
+      "title": "Cerca de cem concelhos em perigo máximo de incêndio",
+      "link": "https://sapo.pt/artigo/cerca-de-cem-concelhos-em-perigo-maximo-de-incendio-6a4ca013e14556a12a0b4136",
+      "pubDate": "Tue, 07 Jul 2026 07:07:28 +0000",
+      "description": "Avisos de perigo de incêndio são explicados com \"a manutenção da onda de calor\", possíveis trovoadas e rajadas de vento acima dos 40 quilómetros por hora. Governo sugere medidas preventivas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AfOVgy64chUGLXHt9mU1tRtOpbifsciqD1nXGxL%2BGjqFsDFiEWeqHWjBe4baU7%2BuYecVSYcJ1WoaaSexd6mPGMfg6ysUZPiyeQ3XvVdNtReIFX74pqCxvCaS1CYo5vKZb"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Mais de mil detidos em operação da Interpol contra tráfico humano",
-      "link": "https://sapo.pt/artigo/mais-de-mil-detidos-em-operacao-da-interpol-contra-trafico-humano-6a4c2fcae14556a12afa6f68",
-      "pubDate": "Mon, 06 Jul 2026 22:57:34 +0000",
-      "description": "Uma operação à escala mundial da Interpol resultou na detenção de mais de mil pessoas envolvidas em esquemas de tráfico humano. A operação identificou 2.070 vítimas ou possíveis vítimas, sendo que a esmagadora maioria eram mulheres, visadas para...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ACvE0wkkfqYeR6kP5UG9QwHFQU%2Fh5%2BmAp5Nnxz8XmGe2f7tIO61GHCbWU7k8sZ%2BW7TT8HqOGeH%2F3pkHMozp7TXY0onz33mClWcLKiCCjSJfYfXsZ7eRIScrAuvDzcvOPw"
+      "title": "Petroleiro atacado com projétil não identificado perto do estreito de Ormuz",
+      "link": "https://sapo.pt/artigo/petroleiro-atacado-com-projetil-nao-identificado-perto-do-estreito-de-ormuz-6a4c8ec57105f154cb55899e",
+      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
+      "description": "O ataque ocorreu a 8 milhas náuticas (15 quilómetros) a leste de Limah, no Sultanato de Omã. O incidente não causou feridos nem danos ambientais.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Av5gR8zRgyPW9fJF467dcCLGZqj%2FNE9sdsr16auEd4arATnZtEJ9oFqlb25xsCupfFRscphigmItVsXubVamOaH8WP6MZoO8yiX0BmEcHn%2BNecHfgjXXjWXthTj0ZXX%2BR"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "PJ apreende 100 quilos de haxixe que iam para Coimbra",
-      "link": "https://sapo.pt/artigo/pj-apreende-100-quilos-de-haxixe-que-iam-para-coimbra-6a4c3045e14556a12afa7ee4",
-      "pubDate": "Mon, 06 Jul 2026 22:57:34 +0000",
-      "description": "A detenção ocorreu sábado numa área de serviço em Grândola. Na viatura e numa garagem na Figueira da Foz encontraram-se droga, dois carros e 1.300 euros.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A4chsdrF2S2yYW5w1Re%2BhgEKVDasZ1gAHfdru3Xs6pmx36MAMGHC%2B1DHKSHQaKnF0DnNcYQCFzmwRAkSG67Pp%2BrX7oumiEEWd5Tpa1CC5lu0UyZejHW%2BLF8IliqYZFr9s"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ingleses querem imitar \"caso Balogun\" e pedem suspensão do castigo a Quansah",
-      "link": "https://sapo.pt/artigo/ingleses-querem-imitar-caso-balogun-e-pedem-suspensao-do-castigo-a-quansah-6a4c0c6fc900a3badac3445c",
-      "pubDate": "Mon, 06 Jul 2026 20:23:28 +0000",
-      "description": "Quansah foi expulso contra o México e não pode defrontar a Noruega nos quartos de final",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A6AQYxlYlln80mra%2FIsn03XW3IZTWtR4rNT1wkPk5MbdM5zxg1GoUE4lahDs6WSdh3xK%2Bd30q%2BkMhqlJjKLoXURSxMzmvLM%2FkLCmMKcNirqDPuiJGuMdt6L35UfzSvmD9"
+      "title": "Como a compra da EasyJet pela Castlelake pode mexer com a venda da TAP",
+      "link": "https://eco.sapo.pt/2026/07/07/como-a-compra-da-easyjet-pela-castlelake-pode-mexer-com-a-venda-da-tap/",
+      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
+      "description": "Oferta do fundo americano mostra atratividade do setor, pode valorizar a companhia portuguesa e mexer com xadrez do setor.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AN2SoLNFq2qw2BFE28h0kTzVfzVYS52bB75gI73a%2FYZHpb0qFsPGfnyR6LX3YHlHEprgnU8eKl%2FabRigWeVdQ18vLlRm06KyCRWnNHtTWDBohDyzGYA9UK3KI7vzlrunI"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oeiras desiludida com despedida portuguesa de \"muito fraca qualidade\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3017515/oeiras-desiludida-com-despedida-portuguesa-de-muito-fraca-qualidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 00:40:56",
+      "title": "Bélgica elimina EUA e festeja com... movimentos de dança de Trump",
+      "link": "https://www.noticiasaominuto.com/desporto/3017609/belgica-elimina-eua-e-festeja-com-movimentos-de-danca-de-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 09:15:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47418829.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb2bd5135f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Revelada a razão da fúria de Bernardo Silva com Rodri no Portugal-Espanha",
-      "link": "https://www.noticiasaominuto.com/desporto/3017511/revelada-a-razao-da-furia-de-bernardo-silva-com-rodri-no-portugal-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 00:33:03",
+      "title": "Morreu aos 37 anos Lauren Bennett (voz de \"Party Rock Anthem\" com LMFAO)",
+      "link": "https://www.noticiasaominuto.com/fama/3017599/morreu-aos-37-anos-lauren-bennett-voz-de-party-rock-anthem-com-lmfao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 09:13:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4c39764d34a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDYsImNyb3BZIjoxNn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb433abfa9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDg0LCJjcm9wWSI6MjQyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjksImNyb3BIZWlnaHQiOjEzNjcsImNyb3BYIjoxMjc2LCJjcm9wWSI6MjIyfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Martínez, CR7, e... Montenegro. As reações à eliminação de Portugal",
-      "link": "https://www.noticiasaominuto.com/desporto/3017470/em-direto-de-martinez-aos-jogadores-as-reacoes-a-queda-do-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 00:19:10",
+      "title": "Os telemóveis da Samsung e Apple que deixam de ser atualizados em breve",
+      "link": "https://www.noticiasaominuto.com/tech/3017611/os-telemoveis-da-samsung-e-apple-que-deixam-de-ser-atualizados-em-breve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 09:11:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4c37cebae30.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6063147419ebc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDM3LCJjcm9wSGVpZ2h0IjoxMTQ2LCJjcm9wWCI6MTMsImNyb3BZIjoyMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1NywiY3JvcEhlaWdodCI6MTM0NiwiY3JvcFgiOjY4NSwiY3JvcFkiOjl9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lágrimas de Cristiano Ronaldo em destaque na imprensa internacional",
-      "link": "https://www.noticiasaominuto.com/desporto/3017507/lagrimas-de-cristiano-ronaldo-em-destaque-na-imprensa-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 00:14:09",
+      "title": "\"Há capital para investir em Portugal\", mas falta capital inteligente",
+      "link": "https://www.noticiasaominuto.com/economia/3017586/ha-capital-para-investir-em-portugal-mas-falta-capital-inteligente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 09:10:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4c1d6790f5d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb45c58b89.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Antigos colegas validam adeus de Cristiano Ronaldo a Mundiais",
-      "link": "https://www.noticiasaominuto.com/desporto/3017478/antigos-colegas-validam-adeus-de-cristiano-ronaldo-a-mundiais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-06 23:59:40",
+      "title": "IKEA abre \"formato piloto\" em Portugal. Só há \"meia dúzia\" assim no mundo",
+      "link": "https://www.noticiasaominuto.com/economia/3017610/ikea-abre-formato-piloto-em-portugal-so-ha-meia-duzia-assim-no-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 09:06:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4c332c4ba94.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjk4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo3NTIsImNyb3BZIjoxNTV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb379a7184.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "“Multibanco Social” arranca em 30 freguesias para levar serviços bancários a zonas isoladas",
+      "link": "https://pplware.sapo.pt/informacao/multibanco-social-arranca-em-30-freguesias-para-levar-servicos-bancarios-a-zonas-isoladas/",
+      "pubDate": "Tue, 07 Jul 2026 07:59:52 +0000",
+      "description": "O projeto piloto &#8220;Multibanco + Perto&#8221;, que quer aproximar o acesso a dinheiro e serviços bancários de centenas de milhares de portugueses, arrancou esta segunda-feira numa freguesia de Bragança, o distrito mais afetado pela&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/06/mb_multibanco_pplware-720x420-1-e1783411547593.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Baterias dos elétricos duram mais do que a indústria esperava",
+      "link": "https://pplware.sapo.pt/motores/baterias-dos-eletricos-duram-mais-do-que-a-industria-esperava/",
+      "pubDate": "Tue, 07 Jul 2026 07:00:46 +0000",
+      "description": "Um dos maiores receios de quem pondera comprar um carro elétrico começa a dissipar-se. Dados reais mostram que as baterias estão a aguentar muito mais quilómetros do que se antecipava, com muitos veículos a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/11/baterias_carro_eletrico00.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Há mais uma novidade no WhatsApp que vai querer usar sempre",
+      "link": "https://pplware.sapo.pt/internet/ha-mais-uma-novidade-no-whtsapp-que-vai-querer-usar-sempre/",
+      "pubDate": "Tue, 07 Jul 2026 06:00:32 +0000",
+      "description": "Há muitas mudanças a serem preparadas pela Meta para o WhatsApp. A mais óbvia foi vista na semana passada, mas agora uma foi descoberta. Tudo aponta para ser muito mais simples detetar um utilizador&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/whatsapp_nome.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,34 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/irs_prestacoes00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Publicações no Facebook levam a condenação em Portugal",
-      "link": "https://pplware.sapo.pt/internet/publicacoes-no-facebook-levam-a-condenacao-em-portugal/",
-      "pubDate": "Mon, 06 Jul 2026 19:24:26 +0000",
-      "description": "As redes sociais tornaram-se um dos principais espaços para a partilha de opiniões, críticas e debates. No entanto, uma recente decisão do Tribunal da Relação de Guimarães relembra que a liberdade de expressão, apesar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/facebook-likes-1024x576-1.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows 11 Pro chave digital por 21,13 € e Office 2024 por 14,83 € na SCDkey",
-      "link": "https://pplware.sapo.pt/zzpublicidade/windows-11-pro-chave-original-scdkey/",
-      "pubDate": "Mon, 06 Jul 2026 19:15:25 +0000",
-      "description": "A SCDkey estreou novo domínio e lançou uma campanha de verão com preços agressivos em chaves digitais. Quem pretende comprar licença Office 2024 vitalícia ou garantir uma Windows 11 Pro chave digital encontra agora na&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/5th-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Oportunidades na Amazon que vale a pena espreitar: de gadgets a produtos do dia a dia",
-      "link": "https://pplware.sapo.pt/gadgets/oportunidades-na-amazon-que-vale-a-pena-espreitar-de-gadgets-a-produtos-do-dia-a-dia/",
-      "pubDate": "Mon, 06 Jul 2026 19:00:28 +0000",
-      "description": "Nem só de tecnologia vivem as melhores oportunidades na Amazon. Hoje, reunimos uma seleção de produtos com descontos interessantes, que inclui desde gadgets até artigos essenciais para o dia a dia. O objetivo é&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/compressor-pneu-1-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Teo Martín Motorsport pode investir em dois Toyota WRC27",
+      "link": "https://www.autosport.pt/ralis/teo-martin-motorsport-pode-investir-em-dois-toyota-wrc27/",
+      "pubDate": "Tue, 07 Jul 2026 06:41:02 +0000",
+      "description": "A Teo Martín Motorsport poderá investir em duas unidades do novo Toyota WRC27. Em declarações ao podcast RallyCast, o próprio Teo Martín sinalizou a firme intenção de adquirir duas unidades Rally1 preparadas para o novo regulamento de 2027. Numa equipa há muito com fortes ligações à Toyota, a ideia ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-gabriel-bortoleto-garante-todos-os-pontos-da-audi-desde-a-estreia-finalmente-demonstramos-a-nossa-velocidade/",
       "pubDate": "Mon, 06 Jul 2026 13:25:57 +0000",
       "description": "Piloto brasileiro termina em oitavo no GP da Grã-Bretanha e assina melhor resultado da marca Gabriel Bortoleto garantiu o oitavo lugar no Grande Prémio da Grã-Bretanha, alcançando os primeiros pontos da Audi Revolut F1 Team desde a ronda de abertura na Austrália. Curiosamente, apesar da experiência ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E em Xangai, o ‘conto de fadas’ de Lucas di Grassi: “Esta vitória significa muito…”",
-      "link": "https://www.autosport.pt/velocidade/formula-e-em-xangai-o-conto-de-fadas-de-lucas-di-grassi-esta-vitoria-significa-muito/",
-      "pubDate": "Mon, 06 Jul 2026 13:13:28 +0000",
-      "description": "Lucas di Grassi alcançou uma vitória surpreendente no E-Prix de Xangai, a 13ª ronda da temporada da Fórmula E. Numa corrida cujo desfecho ninguém conseguiria prever, o piloto brasileiro e a equipa Lola Yamaha ABT arriscaram na afinação do monolugar antes da partida, uma escolha estratégica que se re",
       "thumbnail": ""
     }
   ]
