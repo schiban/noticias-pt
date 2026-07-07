@@ -1,93 +1,63 @@
 {
-  "updated": "2026-07-07T08:19:52.010756+00:00",
+  "updated": "2026-07-07T11:23:45.852404+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Portugal no deserto: sem golos, notas e água",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/portugal-no-deserto-sem-golos-notas-e-agua/",
-      "pubDate": "Tue, 07 Jul 2026 09:16:08 +0100",
-      "description": "Enquanto Luís Montenegro vê um \"mar de rosas\" na seleção, os exames derrapam com um ministro \"estrela cadente\". Já em Almada, a água não existe em pleno verão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "9h. Incêndios. Câmara de Vouzela espera ter apoio do Governo",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2402/",
-      "pubDate": "Tue, 07 Jul 2026 09:15:08 +0100",
-      "description": "Carlos Oliveira admite à Rádio Observador que não conhece o valor real dos prejuízo, mas afirma que essa avaliação está a ser feita. Ainda, sobe o número de mortos em Kiev depois de ataque russo.",
+      "title": "As notícias das 12h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2379/",
+      "pubDate": "Tue, 07 Jul 2026 12:15:02 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Calor avassalador. Erros e perigos a evitar ao volante",
-      "link": "https://observador.pt/programas/operacao-stop/calor-avassalador-erros-e-perigos-a-evitar-ao-volante/",
-      "pubDate": "Tue, 07 Jul 2026 08:56:38 +0100",
-      "description": "Um Verão anormalmente quente leva-nos a concentrar no que podem fazer os automobilistas para reduzir o número de mortes e acidentes. Há opções erradas e decisões perigosas que podem fazer a diferença.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
+      "title": "ONG timorense alerta para subsídios encapotados a deputados",
+      "link": "https://observador.pt/2026/07/07/ong-timorense-preocupada-com-aumento-encapotado-do-subsidio-dos-deputados/",
+      "pubDate": "Tue, 07 Jul 2026 11:40:51 +0100",
+      "description": "A ONG sugere que falta de transparência \"poderá comprometer a confiança pública no parlamento\", recomendando ainda ao parlamento que peça um parecer jurídico independente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/04095915/38677633.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ronaldo em lágrimas e em reflexão. Salve Jesus. Adios Martín",
-      "link": "https://observador.pt/newsletters/360/ronaldo-em-lagrimas-e-em-reflexao-salve-jesus-adios-martinez-a-canicula-tambem-esta-de-saida/",
-      "pubDate": "Tue, 07 Jul 2026 08:38:30 +0100",
-      "description": "O fim da campanha portuguesa no Mundial dos EUA. Roberto Martínez de saída e Jorge Jesus a chegar. O calor deverá abrandar nos próximos dias.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+      "title": "DGS reduz para nível 1 o risco do Plano Sazonal de Saúde",
+      "link": "https://observador.pt/2026/07/07/dgs-reduz-para-nivel-1-o-risco-do-plano-sazonal-de-saude/",
+      "pubDate": "Tue, 07 Jul 2026 11:30:30 +0100",
+      "description": "Decisão é fundamentada nas previsões do IPMA, que prevê uma melhoria das condições meteorológicas com diminuição das temperaturas máximas e mínimas na generalidade do território.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:123/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/24114305/23480649.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "E agora o que é que fazemos com tantos imigrantes?",
-      "link": "https://observador.pt/programas/contra-corrente/e-agora-o-que-e-que-fazemos-com-tantos-imigrantes/",
-      "pubDate": "Tue, 07 Jul 2026 08:35:59 +0100",
-      "description": "É mesmo verdade, temos mais de milhão e meio de imigrantes e isso criou uma nova realidade no país que divide políticos e pressiona os serviços públicos. Mas será que alguém sabe o que fazer com eles?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
+      "title": "Calor: está a beber o suficiente?",
+      "link": "https://observador.pt/programas/aprender-a-comer/calor-esta-a-beber-o-suficiente/",
+      "pubDate": "Tue, 07 Jul 2026 11:30:21 +0100",
+      "description": "No verão, não basta beber “quando dá sede”: o corpo perde água antes de nos avisar. A Nutricionista Mariana Chaves esclarece",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/12171526/770-podcast-aprender-a-comerainda-bem.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Inteligência Artificial: é preciso agir antes da evidência",
+      "link": "https://observador.pt/opiniao/inteligencia-artificial-e-preciso-agir-antes-da-evidencia/",
+      "pubDate": "Tue, 07 Jul 2026 11:25:36 +0100",
+      "description": "Não encaramos a inteligência artificial como um setor isolado nem como uma moda tecnológica. Encaramo-la como um instrumento para modernizar o Estado e melhorar os serviços públicos",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1561%3A1562%3Anowe%3A761%3A88%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23025327%2Ffrp-ministrogoncalomatias-22042026-23.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Zelensky vai aproveitar encontro em Ancara para voltar a pressionar aliados por apoio na defesa aérea",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-vai-aproveitar-encontro-em-ancara-para-voltar-a-pressionar-aliados-por-apoio-na-defesa-aerea_n1751819",
-      "pubDate": "Tue, 07 Jul 2026 10:10:04 +0100",
-      "description": "O presidente ucraniano apelou a mais apoio, afirmando que &quot;os Estados Unidos e a Europa têm força suficiente para travar este terror&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edb579f49316bb696d1a89281425c9d7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Teerão não negociará acordo final com EUA enquanto persistirem ameaças",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/teerao-nao-negociara-acordo-final-com-eua-enquanto-persistirem-ameacas_n1751818",
-      "pubDate": "Tue, 07 Jul 2026 10:01:32 +0100",
-      "description": "O Irão avisou hoje que as negociações para um acordo final com os Estados Unidos não começarão enquanto o Presidente norte-americano, Donald Trump, continuar a ameaçar a República Islâmica.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f3/f3891ea17e92623ff025acb1eff148de?w=350&amp;q=50&amp;rect=0,45,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Imprensa desportiva espanhola promove Merino a herói",
-      "link": "https://www.rtp.pt/noticias/desporto/imprensa-desportiva-espanhola-promove-merino-a-heroi_a1751817",
-      "pubDate": "Tue, 07 Jul 2026 09:35:56 +0100",
-      "description": "O autor do golo contra Portugal e as lágrimas de Ronaldo - no final da partida enchem as páginas dos jornais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/42242db9c3516068b1bbe5945a3dc23f?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "08h Derrota com Espanha abre novo ciclo na Seleção",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-derrota-com-espanha-abre-novo-ciclo-na-selecao_a1_1751816",
-      "pubDate": "Tue, 07 Jul 2026 09:26:02 +0100",
+      "title": "11h Acidente com autocarro em Agualva-Cacém faz dois mortos e 14 feridos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-acidente-com-autocarro-em-agualva-cacem-faz-dois-mortos-e-14-feridos_a1_1751835",
+      "pubDate": "Tue, 07 Jul 2026 12:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,61 +65,121 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Jornadas Parlamentares do PSD. Durão Barroso defende patriotismo",
-      "link": "https://www.rtp.pt/noticias/politica/jornadas-parlamentares-do-psd-durao-barroso-defende-patriotismo_n1751815",
-      "pubDate": "Tue, 07 Jul 2026 09:23:16 +0100",
-      "description": "Portugal deve reforçar o sentimento de comunidade nacional que alguns querem pôr em causa, defende Durão Barroso, que diz que o patriotismo não quer dizer nacionalismo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/20fc4bf0e577906fab69281052af7091?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
+      "title": "Dois mortos e 16 feridos em acidente com autocarro em Agualva-Cacém",
+      "link": "https://www.rtp.pt/noticias/pais/dois-mortos-e-16-feridos-em-acidente-com-autocarro-em-agualva-cacem_n1751832",
+      "pubDate": "Tue, 07 Jul 2026 11:44:53 +0100",
+      "description": "Duas pessoas morreram e 16 ficaram feridas num acidente com um autocarro em Agualva-Cacém, esta terça-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d83fefef1b91a5ba23435d25b89f8953?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h Mário Nogueira pede a demissão do Ministro da Educação",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-mario-nogueira-pede-a-demissao-do-ministro-da-educacao_a1_1751830",
+      "pubDate": "Tue, 07 Jul 2026 11:23:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "NATO vai investir 40 mil milhões de dólares em equipamentos contra drones",
+      "link": "https://www.rtp.pt/noticias/mundo/nato-vai-investir-40-mil-milhoes-de-dolares-em-equipamentos-contra-drones_n1751826",
+      "pubDate": "Tue, 07 Jul 2026 11:12:49 +0100",
+      "description": "Os países da NATO vão investir mais de 40 mil milhões de dólares nos próximos cinco anos nas suas capacidades de defesa contra drones, revelou o secretário-geral Mark Rutte esta terça-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b58460e4336cd6c06ed9db2e086c8366?w=350&amp;q=50&amp;rect=0,68,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Antigo líder da Fenprof exige a demissão do ministro da Educação",
+      "link": "https://www.rtp.pt/noticias/pais/antigo-lider-da-fenprof-exige-a-demissao-do-ministro-da-educacao_n1751829",
+      "pubDate": "Tue, 07 Jul 2026 11:11:15 +0100",
+      "description": "O antigo líder da Fenprof exige a demissão do ministro da Educação por ter mostrado total incompetência na forma como geriu as correções digitais dos exames nacionais do secundário.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f143567ced52f66c2119a055884453cb?w=350&amp;q=50&amp;rect=0,82,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Liga: calendário e todos os resultados da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Tue, 7 Jul 2026 08:59:00 +0100",
-      "description": "Clubes já estão a preparar a época 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/13907517/250"
+      "title": "Golpe para a Bélgica: Amadou Onana sofre lesão grave e acaba Mundial",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/golpe-para-a-belgica-amadou-onana-sofre-lesao-grave-e-acaba-mundial",
+      "pubDate": "Tue, 7 Jul 2026 12:10:00 +0100",
+      "description": "Médio belga rompeu o ligamento cruzado anterior do joelho direito, avança o The Athletic",
+      "thumbnail": "https://img.iol.pt/image/id/6a4cdd7dd34e511da0b2b8c7/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rodri: «Cometi um erro e pedi desculpa a Bernardo Silva»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/rodri-cometi-um-erro-e-pedi-desculpa-a-bernardo-silva",
-      "pubDate": "Tue, 7 Jul 2026 08:45:00 +0100",
-      "description": "Médio espanhol celebrou ocasião não concretizada pelo seu ex-colega no Manchester City, no Portugal-Espanha",
-      "thumbnail": "https://img.iol.pt/image/id/6a4cae14d34e511da0b2b7d7/250"
+      "title": "FC Porto: Beatriz Carvalho deixa o Benfica e reforça a baliza",
+      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/transferencias/fc-porto-beatriz-carvalho-deixa-o-benfica-e-reforca-a-baliza",
+      "pubDate": "Tue, 7 Jul 2026 12:07:00 +0100",
+      "description": "Guarda-redes de 17 anos integrou a equipa B das águias a partir de 2024",
+      "thumbnail": "https://img.iol.pt/image/id/6a4cdd9bd34ef04b4f3f4c5f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/mundial-2026/hoje-vai-ser-noticia-178340760",
-      "pubDate": "Tue, 7 Jul 2026 08:00:00 +0100",
-      "description": "Há Argentina-Egito e Suíça-Colômbia para os «oitavos» do Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a483e76d34e28842c85ed75/250"
+      "title": "Rafael Pontelo de saída do Sporting em definitivo",
+      "link": "https://maisfutebol.iol.pt/transferencias/rafael-pontelo/rafael-pontelo-de-saida-do-sporting-em-definitivo",
+      "pubDate": "Tue, 7 Jul 2026 11:53:33 +0100",
+      "description": "Defesa-central brasileiro vai jogar nos sérvios do Radnik Surdulica",
+      "thumbnail": "https://img.iol.pt/image/id/65c0f599d34e371fc0bcbdd0/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Mundial 2026: lista de todos os marcadores na fase final",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
-      "pubDate": "Tue, 7 Jul 2026 03:18:00 +0100",
-      "description": "Mikel Merino entrou nesta lista com o golo marcado a Portugal",
-      "thumbnail": "https://img.iol.pt/image/id/6a4c18e7d34edcee7c6624f1/250"
+      "title": "OFICIAL: Maurice Boakye deixa Hamburgo e reforça ataque do Marítimo",
+      "link": "https://maisfutebol.iol.pt/maritimo/mercado-de-transferencias/oficial-maurice-boakye-deixa-hamburgo-e-reforca-ataque-do-maritimo",
+      "pubDate": "Tue, 7 Jul 2026 11:48:46 +0100",
+      "description": "Avançado de 21 anos afirmou-se na quarta divisão da Alemanha e assina até 2029",
+      "thumbnail": "https://img.iol.pt/image/id/6a4cd8e8d34e511da0b2b8aa/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
-      "pubDate": "Tue, 7 Jul 2026 03:16:00 +0100",
-      "description": "São 104 partidas ao longo de 39 dias",
-      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
+      "title": "OFICIAL: Liam Rosenior regressa a França para treinar o Paris FC",
+      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/transferencias/oficial-liam-rosenior-regressa-a-franca-para-treinar-o-paris-fc",
+      "pubDate": "Tue, 7 Jul 2026 11:39:00 +0100",
+      "description": "Treinador inglês deixou o Chelsea em abril e assina até 2028",
+      "thumbnail": "https://img.iol.pt/image/id/6a4cd6fed34ef04b4f3f4c40/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Autocarro em Agualva-Cacém despista-se, mata duas pessoas e deixa vários feridos",
+      "link": "https://sapo.pt/artigo/acidente-com-autocarro-deixa-dois-mortos-e-14-feridos-agualva-cacem-6a4cc8a9e100fa384f5ecc21",
+      "pubDate": "Tue, 07 Jul 2026 11:05:29 +0000",
+      "description": "Autocarro despistou-se e atingiu pessoas que estavam no passeio. Duas mulheres que estavam na paragem morreram.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Afc1HO0IugQDoQ0qnH7PL1%2BVTLL1MxfMtVgZKlFAtj%2BlbH%2BP0nQJV37x7queDuKAif%2FpDqtavxt0JM6huf5xe%2FwFMtBdid1uBQ5TbunvZWQhfl9T16bLDlWVGRKtQpf1k"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Encarregados de educação lançam petição para anular exames nacionais",
+      "link": "https://sapo.pt/artigo/encarregados-de-educacao-lancam-peticao-para-anular-exames-nacionais-6a4cc827c30adc7e01b21f21",
+      "pubDate": "Tue, 07 Jul 2026 09:57:47 +0000",
+      "description": "Pais e encarregados de educação alertam que falhas registadas na classificação das provas colocam em causa a integridade dos resultados, afetam psicologicamente os alunos e podem ter impacto financeiro nas famílias.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=530&W=942&crop=center&delay_optim=1&epic=V2%3ANl4VqSoq60MMXQl7IPNsNeJkRptqUrbNnIrvlk04FXcMBAdRjvlFpBitnnDv9LzIdA5FztHP8UKCmLKfEIobAtWJyb3lewd5hcQM2VFSpy5mGw9IzPo3aQL9Bq%2BrtxRr"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Incêndio no sudeste de França obriga à saída de 12 mil pessoas das suas casas",
+      "link": "https://sapo.pt/artigo/incendio-no-sudeste-de-franca-obriga-a-saida-de-12-mil-pessoas-das-suas-casas-6a4ccaf0c30adc7e01b30e41",
+      "pubDate": "Tue, 07 Jul 2026 09:57:47 +0000",
+      "description": "Temperaturas fortes, baixa humidade e vento complicam combate às chamas. 800 bombeiros e aviões de países europeus tentam conter incêndio com área de cerca de 40 quilómetros.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=657&W=1168&crop=center&delay_optim=1&epic=V2%3A%2BPJ24Fvv33HvQsrJbYt1H4Idc58m2cksU1Ya5WcXNm2zMP9Q8GF%2FlJyODDX6tbaKecPv9HyauCKm0dKuLFm5bHX2JDbYDCOn1ya36YTNb6LCk2eX1TLyS1ymfCfjiTTt"
     },
     {
       "sourceId": "sapo",
@@ -165,190 +195,160 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "NATO reunida na Turquia com investimento em Defesa e apoio à Ucrânia na agenda",
-      "link": "https://sapo.pt/artigo/nato-reunida-na-turquia-com-investimento-em-defesa-e-apoio-a-ucrania-na-agenda-6a4c9374c900a3badad82cad",
-      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
-      "description": "A cimeira da NATO arranca esta terça-feira em Ancara. Vão ser discutidos três assuntos: o investimento em Defesa, o reforço da produção industrial e o apoio à Ucrânia.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ajgn2w1RZuM2ymZPT4%2BZYUmrI4OMwVJGwrDGKtT2kaI4kMJx54N4DkES0gUaEqG40ngui15PLMmwtT%2FcH0dbG37u2LePI8M%2FVnv4KhHBAZtYHPoAkbSEdvq6df6%2BCuYJA"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Cerca de cem concelhos em perigo máximo de incêndio",
-      "link": "https://sapo.pt/artigo/cerca-de-cem-concelhos-em-perigo-maximo-de-incendio-6a4ca013e14556a12a0b4136",
-      "pubDate": "Tue, 07 Jul 2026 07:07:28 +0000",
-      "description": "Avisos de perigo de incêndio são explicados com \"a manutenção da onda de calor\", possíveis trovoadas e rajadas de vento acima dos 40 quilómetros por hora. Governo sugere medidas preventivas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AfOVgy64chUGLXHt9mU1tRtOpbifsciqD1nXGxL%2BGjqFsDFiEWeqHWjBe4baU7%2BuYecVSYcJ1WoaaSexd6mPGMfg6ysUZPiyeQ3XvVdNtReIFX74pqCxvCaS1CYo5vKZb"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Petroleiro atacado com projétil não identificado perto do estreito de Ormuz",
-      "link": "https://sapo.pt/artigo/petroleiro-atacado-com-projetil-nao-identificado-perto-do-estreito-de-ormuz-6a4c8ec57105f154cb55899e",
-      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
-      "description": "O ataque ocorreu a 8 milhas náuticas (15 quilómetros) a leste de Limah, no Sultanato de Omã. O incidente não causou feridos nem danos ambientais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Av5gR8zRgyPW9fJF467dcCLGZqj%2FNE9sdsr16auEd4arATnZtEJ9oFqlb25xsCupfFRscphigmItVsXubVamOaH8WP6MZoO8yiX0BmEcHn%2BNecHfgjXXjWXthTj0ZXX%2BR"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Como a compra da EasyJet pela Castlelake pode mexer com a venda da TAP",
-      "link": "https://eco.sapo.pt/2026/07/07/como-a-compra-da-easyjet-pela-castlelake-pode-mexer-com-a-venda-da-tap/",
-      "pubDate": "Tue, 07 Jul 2026 06:27:23 +0000",
-      "description": "Oferta do fundo americano mostra atratividade do setor, pode valorizar a companhia portuguesa e mexer com xadrez do setor.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AN2SoLNFq2qw2BFE28h0kTzVfzVYS52bB75gI73a%2FYZHpb0qFsPGfnyR6LX3YHlHEprgnU8eKl%2FabRigWeVdQ18vLlRm06KyCRWnNHtTWDBohDyzGYA9UK3KI7vzlrunI"
+      "title": "Climáximo diz que mortes de duas irmãs em estufa na Póvoa de Varzim \"não são uma tragédia natural\"",
+      "link": "https://sapo.pt/artigo/climaximo-diz-que-mortes-de-duas-irmas-em-estufa-na-povoa-de-varzim-nao-sao-uma-tragedia-natural-6a4cc60fe14556a12a13eba7",
+      "pubDate": "Tue, 07 Jul 2026 09:57:47 +0000",
+      "description": "Coletivo pela justiça climática considera que as mortes ocorridas durante a onda de calor não são uma \"tragédia natural\" e acusa sucessivos governos e empresas de combustíveis fósseis de ignorarem a ciência climática.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AMao28e9QMpEF8gw2S8fj0nwoT5o3rLdhiCHsw4C8VTG9s1rik9%2FCtlDRvDI35LwdBumM1mIogsWUYaRTyRd8Lb%2B92%2BcojvVpTmgCby2obIfbfCKAWWcZt9uUKlRwueu6"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bélgica elimina EUA e festeja com... movimentos de dança de Trump",
-      "link": "https://www.noticiasaominuto.com/desporto/3017609/belgica-elimina-eua-e-festeja-com-movimentos-de-danca-de-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 09:15:08",
+      "title": "Assembleia Legislativa dos Açores manifesta pesar pelas vítimas",
+      "link": "https://www.noticiasaominuto.com/pais/3017696/assembleia-legislativa-dos-acores-manifesta-pesar-pelas-vitimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 12:14:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb2bd5135f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66154f86118f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MTcsImNyb3BIZWlnaHQiOjUxNiwiY3JvcFgiOjQ3LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Morreu aos 37 anos Lauren Bennett (voz de \"Party Rock Anthem\" com LMFAO)",
-      "link": "https://www.noticiasaominuto.com/fama/3017599/morreu-aos-37-anos-lauren-bennett-voz-de-party-rock-anthem-com-lmfao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 09:13:46",
+      "title": "Megaoperação de combate ao tráfico de droga em Aveiro. Há 26 detidos",
+      "link": "https://www.noticiasaominuto.com/pais/3017716/megaoperacao-de-combate-ao-trafico-de-droga-em-aveiro-ha-26-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 12:13:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb433abfa9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDg0LCJjcm9wWSI6MjQyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjksImNyb3BIZWlnaHQiOjEzNjcsImNyb3BYIjoxMjc2LCJjcm9wWSI6MjIyfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65cb6ad889653.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Os telemóveis da Samsung e Apple que deixam de ser atualizados em breve",
-      "link": "https://www.noticiasaominuto.com/tech/3017611/os-telemoveis-da-samsung-e-apple-que-deixam-de-ser-atualizados-em-breve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 09:11:55",
+      "title": "Oficial: Rosenior é o novo treinador do Paris FC",
+      "link": "https://www.noticiasaominuto.com/desporto/3017663/oficial-rosenior-e-o-novo-treinador-do-paris-fc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 12:11:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6063147419ebc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDM3LCJjcm9wSGVpZ2h0IjoxMTQ2LCJjcm9wWCI6MTMsImNyb3BZIjoyMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1NywiY3JvcEhlaWdodCI6MTM0NiwiY3JvcFgiOjY4NSwiY3JvcFkiOjl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c3c8176b7df.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Há capital para investir em Portugal\", mas falta capital inteligente",
-      "link": "https://www.noticiasaominuto.com/economia/3017586/ha-capital-para-investir-em-portugal-mas-falta-capital-inteligente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 09:10:01",
+      "title": "Jovem norueguesa desaparecida em Marbella foi atropelada. Condutor fugiu",
+      "link": "https://www.noticiasaominuto.com/mundo/3017637/jovem-norueguesa-desaparecida-em-marbella-foi-atropelada-condutor-fugiu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 12:11:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb45c58b89.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cc13839151.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "IKEA abre \"formato piloto\" em Portugal. Só há \"meia dúzia\" assim no mundo",
-      "link": "https://www.noticiasaominuto.com/economia/3017610/ikea-abre-formato-piloto-em-portugal-so-ha-meia-duzia-assim-no-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 09:06:22",
+      "title": "Passo a passo para limpar o seu ferro de engomar a fundo",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3017678/passo-a-passo-para-limpar-o-seu-ferro-de-engomar-a-fundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 12:10:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cb379a7184.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cd2c9cfa58.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTU4LCJjcm9wWSI6MzA3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzQsImNyb3BIZWlnaHQiOjE2NjAsImNyb3BYIjo3MjcsImNyb3BZIjo0N319"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "“Multibanco Social” arranca em 30 freguesias para levar serviços bancários a zonas isoladas",
-      "link": "https://pplware.sapo.pt/informacao/multibanco-social-arranca-em-30-freguesias-para-levar-servicos-bancarios-a-zonas-isoladas/",
-      "pubDate": "Tue, 07 Jul 2026 07:59:52 +0000",
-      "description": "O projeto piloto &#8220;Multibanco + Perto&#8221;, que quer aproximar o acesso a dinheiro e serviços bancários de centenas de milhares de portugueses, arrancou esta segunda-feira numa freguesia de Bragança, o distrito mais afetado pela&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/06/mb_multibanco_pplware-720x420-1-e1783411547593.jpg"
+      "title": "Jogo Portugal-Espanha “partiu” a Internet: 15 milhões de TikToks ao mesmo tempo",
+      "link": "https://pplware.sapo.pt/internet/jogo-portugal-espanha-partiu-a-internet-15-milhoes-de-tiktoks-ao-mesmo-tempo/",
+      "pubDate": "Tue, 07 Jul 2026 11:18:45 +0000",
+      "description": "O jogo de ontem, Portugal-Espanha, não ficou só na memória pelo resultado em campo. Segundo o maior operador mundial de Internet Exchange, o encontro também entrou para a história da Internet, gerando o maior&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/cristiano-ronaldo02.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Baterias dos elétricos duram mais do que a indústria esperava",
-      "link": "https://pplware.sapo.pt/motores/baterias-dos-eletricos-duram-mais-do-que-a-industria-esperava/",
-      "pubDate": "Tue, 07 Jul 2026 07:00:46 +0000",
-      "description": "Um dos maiores receios de quem pondera comprar um carro elétrico começa a dissipar-se. Dados reais mostram que as baterias estão a aguentar muito mais quilómetros do que se antecipava, com muitos veículos a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/11/baterias_carro_eletrico00.jpg"
+      "title": "CHUWI UniBook: Intel Wildcat Lake em pré-venda por 449 dólares",
+      "link": "https://pplware.sapo.pt/high-tech/chuwi-unibook-intel-wildcat-lake-pre-venda/",
+      "pubDate": "Tue, 07 Jul 2026 10:30:51 +0000",
+      "description": "O CHUWI UniBook acaba de entrar em pré-venda com um argumento invulgar no segmento de entrada: estreia o processador Intel Core 3 304 &#8220;Wildcat Lake&#8221;, fabricado no novíssimo processo Intel 18A. Durante a campanha&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/unibook_1_16x9_1280x720.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Há mais uma novidade no WhatsApp que vai querer usar sempre",
-      "link": "https://pplware.sapo.pt/internet/ha-mais-uma-novidade-no-whtsapp-que-vai-querer-usar-sempre/",
-      "pubDate": "Tue, 07 Jul 2026 06:00:32 +0000",
-      "description": "Há muitas mudanças a serem preparadas pela Meta para o WhatsApp. A mais óbvia foi vista na semana passada, mas agora uma foi descoberta. Tudo aponta para ser muito mais simples detetar um utilizador&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/whatsapp_nome.jpg"
+      "title": "Segurança Social já está no WhatsApp! Saiba o que pode fazer por lá…",
+      "link": "https://pplware.sapo.pt/internet/seguranca-social-ja-esta-no-whatsapp-saiba-o-que-pode-fazer-por-la/",
+      "pubDate": "Tue, 07 Jul 2026 09:47:54 +0000",
+      "description": "A Segurança Social passou a disponibilizar um novo canal de atendimento através do WhatsApp, permitindo aos cidadãos agendar atendimentos de forma rápida, simples e intuitiva, com o apoio de um assistente automatizado. Segurança Social&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/SS_z001.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Calor? Estas são algumas das melhores ventoinhas para refrescar a casa neste verão",
-      "link": "https://pplware.sapo.pt/gadgets/calor-estas-sao-algumas-das-melhores-ventoinhas-para-refrescar-a-casa-neste-verao/",
-      "pubDate": "Mon, 06 Jul 2026 21:00:55 +0000",
-      "description": "As temperaturas elevadas voltaram a fazer-se sentir e, manter a casa fresca tornou-se uma prioridade. Em vez de comprar um ar condicionado, comprar uma ventoinha poderá ficar bem mais em conta. Embora o ar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/ventoinha_2.webp"
+      "title": "Posso casar com uma IA? Não, não pode. E a China quer garantir que isso continua assim",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/posso-casar-com-uma-ia-nao-nao-podes-e-a-china-quer-garantir-que-isso-continua-assim/",
+      "pubDate": "Tue, 07 Jul 2026 09:30:40 +0000",
+      "description": "A inteligência artificial (IA) está a tornar-se cada vez mais convincente. Há utilizadores que conversam diariamente com chatbots, criam relações de amizade e até simulam relações amorosas. Mas há um país que decidiu colocar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/relacao_ia_humanos00.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "IRS: Escolheu a tributação conjunta? Saiba como funciona a liquidação",
-      "link": "https://pplware.sapo.pt/internet/irs-escolheu-a-tributacao-conjunta-saiba-como-funciona-a-liquidacao/",
-      "pubDate": "Mon, 06 Jul 2026 20:30:41 +0000",
-      "description": "Se, na entrega da declaração de IRS, optou pela tributação conjunta, há alguns aspetos importantes a conhecer relativamente ao processo de liquidação do imposto. Embora a declaração seja apresentada em conjunto, a Autoridade Tributária&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/irs_prestacoes00.jpg"
+      "title": "Em Barcelona, as azeitonas podem estar prestes a revolucionar o asfalto",
+      "link": "https://pplware.sapo.pt/motores/em-barcelona-as-azeitonas-podem-estar-prestes-a-revolucionar-o-asfalto/",
+      "pubDate": "Tue, 07 Jul 2026 09:00:48 +0000",
+      "description": "Barcelona prepara-se para testar um novo tipo de pavimento que substitui parte dos materiais tradicionais do asfalto por um composto produzido a partir de caroços de azeitona e biomassa de pinho. O objetivo é&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/asfalto-azeitona-barcelona-1.jpg"
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Teo Martín Motorsport pode investir em dois Toyota WRC27",
-      "link": "https://www.autosport.pt/ralis/teo-martin-motorsport-pode-investir-em-dois-toyota-wrc27/",
-      "pubDate": "Tue, 07 Jul 2026 06:41:02 +0000",
-      "description": "A Teo Martín Motorsport poderá investir em duas unidades do novo Toyota WRC27. Em declarações ao podcast RallyCast, o próprio Teo Martín sinalizou a firme intenção de adquirir duas unidades Rally1 preparadas para o novo regulamento de 2027. Numa equipa há muito com fortes ligações à Toyota, a ideia ",
+      "title": "Vila Real: Uma pista especial e apaixonante",
+      "link": "https://www.autosport.pt/velocidade/vila-real-uma-pista-especial-e-apaixonante/",
+      "pubDate": "Tue, 07 Jul 2026 10:30:00 +0000",
+      "description": "Se é fã de desporto motorizado e não viu ao vivo as corridas de Vila Real, está a perder um espetáculo único. Independentemente dos carros que por lá possam competir. Se está indeciso sobre uma possível ida à capital transmontana, não pense mais. Vá, que não se vai arrepender. O que torna Vila Real ",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Vila Real: Os traçados que fizeram história",
-      "link": "https://www.autosport.pt/velocidade/vila-real-os-tracados-que-fizeram-historia/",
-      "pubDate": "Mon, 06 Jul 2026 15:00:00 +0000",
-      "description": "A história de Vila Real pode ser contada pela evolução do traçado do seu circuito. É por isso importante relembrar cada curva, pois talvez tenha sido esse o local em que foi plantada a semente da paixão pelas corridas, numa criança que ali assistia ao desfilar das máquinas que fizeram sonhar milhare",
+      "title": "F1: Decisão sobre ida ao Bahrein tomada até à pausa, Portimão pode receber prova ainda este ano",
+      "link": "https://www.autosport.pt/formula1/f1-decisao-sobre-ida-ao-bahrein-tomada-ate-a-pausa-portimao-pode-receber-prova-ainda-este-ano/",
+      "pubDate": "Tue, 07 Jul 2026 10:00:03 +0000",
+      "description": "A Fórmula 1 terá de decidir antes da pausa de verão se o Grande Prémio do Bahrein, cancelado devido à instabilidade no Médio Oriente, será reagendado ainda este ano. O CEO Stefano Domenicali confirmou que o assunto está em análise, numa altura em que o calendário já foi reduzido de 24 para 22 corrid",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "ELMS, José Cautela: “Continuar a lutar pelas vitórias e pelo título”",
-      "link": "https://www.autosport.pt/velocidade/elms-jose-cautela-continuar-a-lutar-pelas-vitorias-e-pelo-titulo/",
-      "pubDate": "Mon, 06 Jul 2026 14:58:03 +0000",
-      "description": "O piloto português José Cautela voltou a estar em destaque na European Le Mans Series (ELMS), ao conquistar o segundo lugar da categoria LMP3 nas 4 Horas de Imola, terceira ronda do campeonato, disputada este fim de semana no histórico Autódromo Enzo e Dino Ferrari, em Itália. Com este resultado, o ",
+      "title": "Vila Real: Os Horários do fim de semana",
+      "link": "https://www.autosport.pt/velocidade/vila-real-os-horarios-do-fim-de-semana-2/",
+      "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "description": "Vila Real recebe já este fim de semana a 55.ª edição do Circuito Internacional de Vila Real, num programa que arranca ainda na quinta-feira com o tradicional desfile de pilotos pela cidade e culmina no domingo à tarde com as corridas principais do TCR World Tour, enquanto as estrelas dos campeonatos",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Paddock: A plataforma global que visa aproximar pilotos, equipas e novas oportunidades",
-      "link": "https://www.autosport.pt/maismotores/paddock-a-plataforma-global-que-visa-aproximar-pilotos-equipas-e-novas-oportunidades/",
-      "pubDate": "Mon, 06 Jul 2026 14:19:16 +0000",
-      "description": "Foi lançada a Paddock, apresentada como a primeira infraestrutura global de gestão para o motorsport, uma plataforma que pretende modernizar a forma como pilotos e equipas se encontram, tornando o processo mais transparente, eficiente e global. Fundada por Nuno Breda e Tiago Tomás, a empresa foi ofi",
+      "title": "CPV, Vila Real: 25 Inscritos para a ronda transmontana",
+      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-25-inscritos-para-a-ronda-transmontana/",
+      "pubDate": "Tue, 07 Jul 2026 09:26:27 +0000",
+      "description": "O Supercars Endurance regressa no próximo fim de semana ao Circuito Internacional de Vila Real para a segunda prova pontuável do Campeonato de Portugal de Velocidade, integrada no programa da 55.ª edição do Circuito Internacional de Vila Real. O evento reúne a mais numerosa lista de inscritos dos úl",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "F1: Gabriel Bortoleto garante todos os pontos da Audi desde a estreia: “Finalmente demonstrámos a nossa velocidade”",
-      "link": "https://www.autosport.pt/formula1/f1-gabriel-bortoleto-garante-todos-os-pontos-da-audi-desde-a-estreia-finalmente-demonstramos-a-nossa-velocidade/",
-      "pubDate": "Mon, 06 Jul 2026 13:25:57 +0000",
-      "description": "Piloto brasileiro termina em oitavo no GP da Grã-Bretanha e assina melhor resultado da marca Gabriel Bortoleto garantiu o oitavo lugar no Grande Prémio da Grã-Bretanha, alcançando os primeiros pontos da Audi Revolut F1 Team desde a ronda de abertura na Austrália. Curiosamente, apesar da experiência ",
+      "title": "Vila Real: ANPAC, desagradada com mudanças de última hora, descarta responsabilidades na organização do paddock",
+      "link": "https://www.autosport.pt/velocidade/vila-real-anpac-desagradada-com-mudancas-de-ultima-hora-descarta-responsabilidades-na-organizacao-do-paddock/",
+      "pubDate": "Tue, 07 Jul 2026 09:00:45 +0000",
+      "description": "É uma das grandes dificuldades na organização do Circuito de Vila Real. A gestão do espaço para criar um dos maiores paddocks da temporada, talvez no espaço menos generoso da época, é sempre uma dor de cabeça para os organizadores locais e os promotores dos campeonatos. Exige-se visão, inteligência,",
       "thumbnail": ""
     }
   ]
