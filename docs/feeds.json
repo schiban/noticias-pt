@@ -1,13 +1,33 @@
 {
-  "updated": "2026-07-07T16:26:56.988480+00:00",
+  "updated": "2026-07-07T18:29:15.770474+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 17h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2235/",
-      "pubDate": "Tue, 07 Jul 2026 17:21:34 +0100",
+      "title": "Lisboa paga 1 milhão por quedas de árvores",
+      "link": "https://observador.pt/2026/07/07/camara-de-lisboa-assume-mais-de-1-milhao-de-euros-em-indemnizacoes-por-queda-de-arvores/",
+      "pubDate": "Tue, 07 Jul 2026 19:26:42 +0100",
+      "description": "Mais de 100 processos de indemnização foram assumidos pela Câmara de Lisboa. Na mesma reunião da AML, o PS criticou a ausência de vereadores para responder às questões.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/23195118/42977261.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Marine Le Pen anuncia recurso para o Supremo",
+      "link": "https://observador.pt/2026/07/07/marine-le-pen-recorre-para-o-supremo-e-insiste-que-e-inocente-e-candidata-a-presidencia/",
+      "pubDate": "Tue, 07 Jul 2026 19:20:23 +0100",
+      "description": "Le Pen insiste na inocência e garante que vai manter a palavra, ao \"fazer campanha sem pulseira eletrónica\", argumentando que a decisão do Supremo vai reverter a pena do tribunal de recurso.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1996:1124:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07133635/47422011.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2117/",
+      "pubDate": "Tue, 07 Jul 2026 19:20:07 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,49 +35,29 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Utentes pedem quota maior nos medicamentos genéricos",
-      "link": "https://observador.pt/2026/07/07/utentes-pedem-mais-ambicao-na-quota-de-genericos-para-maior-poupanca/",
-      "pubDate": "Tue, 07 Jul 2026 17:00:20 +0100",
-      "description": "Em 2025, estes fármacos permitiram poupar em Portugal 666 milhões de euros. Com esta nova proposta de subida para 75% levaria a uma poupança de mais 300 milhões de euros ao ano.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2400:1349:nowe:0:125/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/11181033/remedios-medicamentos-medicina-farmacia-antibioticos.jpg"
+      "title": "Almada vive um cenário de terceiro mundo na água?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/almada-vive-um-cenario-de-terceiro-mundo-na-agua/",
+      "pubDate": "Tue, 07 Jul 2026 19:15:15 +0100",
+      "description": "Falhas no abastecimento expõem falhas na gestão local que ignora problemas que se arrastam há anos. Novo código do licenciamento promete agilizar processos que demoram mais de um ano a obter resposta.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Estado não pode gerir património dos portugueses, diz APS",
-      "link": "https://observador.pt/2026/07/07/populacao-nao-pode-esperar-que-o-estado-tome-conta-do-seu-patrimonio-diz-associacao-portuguesa-de-seguradores/",
-      "pubDate": "Tue, 07 Jul 2026 16:58:02 +0100",
-      "description": "No Fórum Nacional de Seguros, José Galamba de Oliveira falou sobre a necessidade de sensibilizar a população a tomar conta do seu património e alertou para a necessidade de fazer seguros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/06/15163619/gettyimages-1407463198-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Bruxelas quer reforçar cibersegurança com recurso à IA",
-      "link": "https://observador.pt/2026/07/07/bruxelas-quer-reforcar-ciberseguranca-com-recurso-a-inteligencia-artificial/",
-      "pubDate": "Tue, 07 Jul 2026 16:57:34 +0100",
-      "description": "Bruxelas quer avaliação independente de modelos de IA operacional em 2027 e plataforma de testes para setores críticos como saúde, energia e finanças.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1808:1015:nowe:0:154/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/03/14151809/img-ciberseguranca.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Atacar um polícia é atacar a sociedade\", diz MAI",
-      "link": "https://observador.pt/2026/07/07/ministro-da-administracao-interna-repudia-agressao-particularmente-grave-a-agentes-da-psp-no-aeroporto-de-lisboa/",
-      "pubDate": "Tue, 07 Jul 2026 16:57:19 +0100",
-      "description": "Um irlandês de 27 anos foi detido após agredir gravemente um polícia no Aeroporto Humberto Delgado. O ministro da Administração Interna exige \"firme reprovação do Estado\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07133253/47421772.jpg"
+      "title": "20 milhões para o ataque: Jakub Kaminski no Benfica",
+      "link": "https://observador.pt/2026/07/07/20-milhoes-por-um-concorrente-para-schjelderup-jakub-kaminski-e-reforco-do-benfica/",
+      "pubDate": "Tue, 07 Jul 2026 19:13:19 +0100",
+      "description": "Avançado polaco de 24 anos estava no Colónia, mas já passou pelo Wolfsburgo. Foi dos que mais correram na Bundesliga na época passada e é reforço do Benfica para concorrer com Schjelderup na esquerda.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:60/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07154937/gettyimages-2246224842.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "17h Reunião da NATO na Turquia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-reuniao-da-nato-na-turquia_a1_1751904",
-      "pubDate": "Tue, 07 Jul 2026 18:21:02 +0100",
+      "title": "19h Centro de Saúde na Costa da Caparica fechou portas por falta de água",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-centro-de-saude-na-costa-da-caparica-fechou-portas-por-falta-de-agua_a1_1751928",
+      "pubDate": "Tue, 07 Jul 2026 20:19:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,101 +65,101 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Descoberto novo método de combate a bactérias resistentes a antibióticos",
-      "link": "https://www.rtp.pt/noticias/mundo/descoberto-novo-metodo-de-combate-a-bacterias-resistentes-a-antibioticos_n1751902",
-      "pubDate": "Tue, 07 Jul 2026 18:15:24 +0100",
-      "description": "Cientistas descobriram que comunidades bacterianas conhecidas como biofilmes são capazes de ativar uma &quot;cápsula de escape&quot; para libertar células e garantir a sobrevivência da colónia, abrindo caminho ao combate a bactérias resistentes a antibióticos sem usar medicamentos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4ed26e96c6a8a3f57eb0eb6cf15314f?w=350&amp;q=50&amp;rect=0,54,1500,822&amp;auto=format"
+      "title": "PR do Zimbabué promulga emendas constitucionais para adiar eleições e prolongar mandato",
+      "link": "https://www.rtp.pt/noticias/mundo/pr-do-zimbabue-promulga-emendas-constitucionais-para-adiar-eleicoes-e-prolongar-mandato_n1751910",
+      "pubDate": "Tue, 07 Jul 2026 19:47:37 +0100",
+      "description": "O Presidente do Zimbabué promulgou emendas constitucionais que abolem as eleições presidenciais diretas, adiam a próxima votação e prolongam o seu mandato, de acordo com uma nota do Governo emitida hoje, apesar da forte oposição dos críticos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/26/26b152b8da979743dab5c52f148c0005?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Meia centena de pessoas com sintomas de intoxicação nas Caldas da Rainha",
-      "link": "https://www.rtp.pt/noticias/pais/meia-centena-de-pessoas-com-sintomas-de-intoxicacao-nas-caldas-da-rainha_n1751899",
-      "pubDate": "Tue, 07 Jul 2026 18:04:02 +0100",
-      "description": "Cerca de meia centena de pessoas com sintomas de intoxicação alimentar foram assistidas no Hospital das Caldas da Rainha, a maioria jovens que participam num torneio de futebol, informou hoje a Câmara Municipal.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/58194de95e6ebb79d9a081c810202192?w=350&amp;q=50&amp;rect=0,116,1500,822&amp;auto=format"
+      "title": "Centro de Saúde da Costa da Caparica fechou na tarde de hoje por falta de água",
+      "link": "https://www.rtp.pt/noticias/pais/centro-de-saude-da-costa-da-caparica-fechou-na-tarde-de-hoje-por-falta-de-agua_n1751919",
+      "pubDate": "Tue, 07 Jul 2026 19:42:49 +0100",
+      "description": "A Unidade de Saúde Familiar (USF) Costa do Mar, na Costa da Caparica, no concelho de Almada, distrito de Setúbal, encerrou na tarde de hoje devido à falta de água na região, segundo fontes oficiais.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mais de 5.700 peticionários pedem anulação dos exames nacionais",
-      "link": "https://www.rtp.pt/noticias/pais/mais-de-5700-peticionarios-pedem-anulacao-dos-exames-nacionais_n1751900",
-      "pubDate": "Tue, 07 Jul 2026 18:01:57 +0100",
-      "description": "Mais de 5.700 pessoas subscreveram uma petição em que pedem a anulação dos exames nacionais, sem prejuízo dos alunos, devido aos problemas no processo de correção, argumentando que as sucessivas falhas técnicas comprometem a validade das provas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b7de73f279ea40e3eede4fc4b12595fb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Farioli diz que o FC Porto \"começa do zero\" na defesa do título nacional",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/farioli-diz-que-o-fc-porto-comeca-do-zero-na-defesa-do-titulo-nacional_d1751922",
+      "pubDate": "Tue, 07 Jul 2026 19:40:45 +0100",
+      "description": "O treinador do FC Porto, Francesco Farioli, afirmou esta terça-feira que os campeões nacionais iniciam a temporada 2026/27 &quot;do zero&quot;, apesar de terem mantido grande parte do plantel que conquistou a última edição da I Liga portuguesa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5e46ed9ede127d9f389be4a4d41c1352?w=350&amp;q=50&amp;rect=0,56,1233,676&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mads Pedersen foge para a vitória e Torstein Traeen para a amarela",
-      "link": "https://www.rtp.pt/noticias/ciclismo/mads-pedersen-foge-para-a-vitoria-e-torstein-traeen-para-a-amarela_d1751901",
-      "pubDate": "Tue, 07 Jul 2026 18:01:24 +0100",
-      "description": "O ciclista dinamarquês Mads Pedersen (Lidl-Trek) bateu os seus companheiros de fuga para somar o terceiro triunfo na Volta a França, na quarta etapa da 113.ª edição, com o norueguês Torstein Traeen (Uno-X) a vestir a amarela.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e212421e40261db8af384b6562508f6c?w=350&amp;q=50&amp;rect=0,64,1289,707&amp;auto=format"
+      "title": "18h Combate a incêndio na Quinta do Monteiro no concelho do Sabugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-combate-a-incendio-na-quinta-do-monteiro-no-concelho-do-sabugal_a1_1751921",
+      "pubDate": "Tue, 07 Jul 2026 19:33:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Benfica diz que é preciso «atuar em conformidade» com Gustavo Correia",
-      "link": "https://maisfutebol.iol.pt/liga/federacao-portuguesa-de-futebol/benfica-diz-que-e-preciso-atuar-em-conformidade-com-gustavo-correia",
-      "pubDate": "Tue, 7 Jul 2026 17:02:00 +0100",
-      "description": "«Gustavo Correia faltou à verdade dentro do campo e, posteriormente, fora dele»",
-      "thumbnail": "https://img.iol.pt/image/id/635561350cf2ea4f0a62c317/250"
+      "title": "Mundial 2026: Argentina-Egito, 3-2 (crónica)",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/argentina/mundial-2026-argentina-egito-3-2-cronica",
+      "pubDate": "Tue, 7 Jul 2026 19:16:00 +0100",
+      "description": "Por alguma razão são campeões do Mundo",
+      "thumbnail": "https://img.iol.pt/image/id/6a4d4075d34ef04b4f3f4fb6/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Pedersen vence quarta etapa e Traeen «rouba» amarela a Pogacar",
-      "link": "https://maisfutebol.iol.pt/volta-a-franca/ciclismo/volta-a-franca-pedersen-vence-quarta-etapa-e-traeen-rouba-amarela-a-pogacar",
-      "pubDate": "Tue, 7 Jul 2026 16:45:00 +0100",
-      "description": "Norueguês é o novo líder da classificação geral, com quase oito minutos de vantagem para o esloveno da UAE Team Emirates",
-      "thumbnail": "https://img.iol.pt/image/id/6a4d1ec2d34e511da0b2bacf/250"
+      "title": "Mundial 2026: lista de todos os marcadores na fase final",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-lista-de-todos-os-marcadores-na-fase-final",
+      "pubDate": "Tue, 7 Jul 2026 19:15:00 +0100",
+      "description": "Lionel Messi volta a destacar-se no topo",
+      "thumbnail": "https://img.iol.pt/image/id/6a4d4076d34ef04b4f3f4fb7/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "FIFA revela nova bola para a reta final do Mundial 2026",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/fifa-revela-nova-bola-para-a-reta-final-do-mundial-2026",
-      "pubDate": "Tue, 7 Jul 2026 16:31:30 +0100",
-      "description": "«Trionda Final» será utilizada a partir das «meias»",
-      "thumbnail": "https://img.iol.pt/image/id/6a4d1a8ad34e511da0b2baac/250"
+      "title": "OFICIAL: Kaminski é reforço do Benfica por 17 milhões de euros",
+      "link": "https://maisfutebol.iol.pt/benfica/07-07-2026/oficial-kaminski-e-reforco-do-benfica",
+      "pubDate": "Tue, 7 Jul 2026 19:07:00 +0100",
+      "description": "Extremo polaco chega do Colónia e fica com cláusula de rescisão de 60 milhões",
+      "thumbnail": "https://img.iol.pt/image/id/6a4d42e8d34ef04b4f3f4fc1/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Farioli: «Quando Diogo Costa voltar vamos fechar o aeroporto e as estradas»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/porto/farioli-comecamos-do-zero-tudo-o-que-fizemos-esta-no-passado",
-      "pubDate": "Tue, 7 Jul 2026 16:26:00 +0100",
-      "description": "Treinador do FC Porto brinca com a possível saída do guarda-redes após as boas exibições do Mundial e fala ainda sobre André Silva, Grannas e Samu",
-      "thumbnail": "https://img.iol.pt/image/id/6a456317d34edcee7c65f181/250"
+      "title": "Ronaldo na comitiva que viaja para Portugal após eliminação do Mundial 2026",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/ronaldo-na-comitiva-que-viaja-para-portugal-apos-eliminacao-do-mundial-2026",
+      "pubDate": "Tue, 7 Jul 2026 19:07:00 +0100",
+      "description": "Roberto Martínez e 18 dos 27 jogadores que representaram a Seleção Nacional na prova deslocam-se para o aeroporto",
+      "thumbnail": "https://img.iol.pt/image/id/6a4c1ee5d34e28842c86065d/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Gil Vicente anuncia mais um reforço vindo do Sporting",
-      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/oficial-gil-vicente-anuncia-mais-um-reforco-vindo-do-sporting",
-      "pubDate": "Tue, 7 Jul 2026 16:22:00 +0100",
-      "description": "José Silva assina um contrato válido até junho de 2029",
-      "thumbnail": "https://img.iol.pt/image/id/6a4d17d9d34e511da0b2ba9b/250"
+      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
+      "pubDate": "Tue, 7 Jul 2026 19:06:00 +0100",
+      "description": "São 104 partidas ao longo de 39 dias",
+      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Autocarro em Agualva-Cacém despista-se, mata duas pessoas e deixa vários feridos",
-      "link": "https://sapo.pt/artigo/acidente-com-autocarro-deixa-dois-mortos-e-14-feridos-agualva-cacem-6a4cc8a9e100fa384f5ecc21",
-      "pubDate": "Tue, 07 Jul 2026 11:05:29 +0000",
-      "description": "Autocarro despistou-se e atingiu pessoas que estavam no passeio. Duas mulheres que estavam na paragem morreram.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Afc1HO0IugQDoQ0qnH7PL1%2BVTLL1MxfMtVgZKlFAtj%2BlbH%2BP0nQJV37x7queDuKAif%2FpDqtavxt0JM6huf5xe%2FwFMtBdid1uBQ5TbunvZWQhfl9T16bLDlWVGRKtQpf1k"
+      "title": "Carris diz que as causas do acidente com o autocarro em Agualva-Cacém estão a ser apuradas",
+      "link": "https://sapo.pt/artigo/carris-metropolitana-lamenta-acidente-com-autocarro-em-agualva-cacem-e-diz-que-causas-estao-a-ser-apuradas-6a4cf50c32acebfc2a8f5d0e",
+      "pubDate": "Tue, 07 Jul 2026 16:43:15 +0000",
+      "description": "A Transportes Metropolitanos de Lisboa, gestora da Carris Metropolitana, indica que \"está em permanente articulação com o operador Viação Alvorada, os serviços de emergência e as autoridades competentes\", e que está a colaborar “para o apuramento...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Aeyez%2Fbt20Cm60VWKJTWsbdme4Cks6lJQAGpM1p0JW%2BAxbImp9ZOEICD4uOJTSjgld%2Bi20WmpYQdd1k0WfEgZQ%2FgJq391mDxmkvnI%2FQ3eg%2BvH2hqzSwvhAUGi%2FD76Jwjx"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +175,121 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ministra do ambiente espera que combustíveis continuem a descer e pede estudo sobre formação dos preços",
-      "link": "https://sapo.pt/artigo/ministra-do-ambiente-espera-que-combustiveis-continuem-a-descer-e-pede-estudo-sobre-formacao-dos-precos-6a4cff48e100fa384f6d8d6c",
-      "pubDate": "Tue, 07 Jul 2026 13:30:33 +0000",
-      "description": "Maria da Graça Carvalho disse que vai também pedir à Entidade Reguladora dos Serviços Energéticos “um estudo aprofundado” sobre a formação de preços.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AgdrOanrNo6LUHGPA6Z%2Bj0nphbwg0y%2Fe8y63ZYEKOt9U7oDIX4w7kmO4ny8mejU0vyi72Em%2FlTG%2BLTk%2BahWkubarKm76Lc3iMqNCrs%2FW8sypQ99KuJy5ppmSHRZE5fC3u"
+      "title": "Falta de água na Costa da Caparica obriga a trabalho na madrugada \"para aproveitar\" quando as torneiras enchem",
+      "link": "https://sapo.pt/artigo/falta-de-agua-na-costa-da-caparica-obriga-a-trabalho-na-madrugada-para-aproveitar-quando-as-torneiras-enchem-6a4d3b08eba0628c3ddb38f8",
+      "pubDate": "Tue, 07 Jul 2026 18:11:55 +0000",
+      "description": "População enfrenta dias quentes de verão com problemas na rede de abastecimento que decorrem há pelo menos quatro dias. Junta de freguesia recorre aos bombeiros para apoio na distribuição de água.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A2V3X1TC4sarKDx3Wg%2B7qgd8c6BqzYu2DFxbLYl0VAcDgAA4S%2Fs640LI40hJ9gCQZvJLU6lAJxnvXP3JlZ7WNcH9kw089PEfoliHAynsz%2FNDFZMZagzRB24iSArGLjMcw"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Líder parlamentar do CDS-PP pede a CGTP que atribua medalha de mérito a André Ventura",
-      "link": "https://sapo.pt/artigo/lider-parlamentar-do-cds-pp-pede-a-cgtp-que-atribua-medalha-de-merito-a-andre-ventura-6a4d19ad5e96f24992dc3f5b",
-      "pubDate": "Tue, 07 Jul 2026 15:50:53 +0000",
-      "description": "Paulo Núncio diz que desde Álvaro Cunhal, “pouca gente terá feito tanto pela causa do sindicalismo comunista como o deputado André Ventura nos últimos tempos”",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AoZCeY6PdEE8C69vsd9sdUkWJv%2FxMB9jJ3ysjyRG5G%2Bjq%2Fny0rummq1IDVEGM%2BGyvW30k8JWZMsWQ%2FQiwia3SlEYIr%2FC8Xi3pa3nL2bk3B5cW5f16uL6rTDASkzXPKQ18"
+      "title": "Mais de 5.700 pessoas pedem anulação dos exames nacionais",
+      "link": "https://sapo.pt/artigo/mais-de-5-700-pessoas-pedem-anulacao-dos-exames-nacionais-6a4d3d3feba0628c3ddbf448",
+      "pubDate": "Tue, 07 Jul 2026 18:11:55 +0000",
+      "description": "Falhas na correção digital das provas levaram encarregados de educação e alunos a exigir a anulação dos exames. Faltam menos de 2.000 assinaturas para chegar ao parlamento.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AYcoAC9dXuoIh9Tg8alyRlh5E3bk9jDuNc00owt1tWu7z8BOAYeinvo1Hdmtd6WD2bzsLcFQQ%2FX87X%2FnwsEFzuwc%2BMG0JQLsVgmHHupxap1eIGf1ggX7NzHFJcavWAASN"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal envia hoje toneladas de ajuda humanitária e operacionais regressam da Venezuela",
-      "link": "https://jornaleconomico.sapo.pt/noticias/venezuela-sismo-portugal-envia-hoje-toneladas-de-ajuda-humanitaria-e-operacionais-regressam-diz-mne/",
-      "pubDate": "Tue, 07 Jul 2026 12:24:23 +0000",
-      "description": "Em comunicado, o Ministério dos Negócios Estrangeiros (MNE) indicou que dois aviões da Força Aérea Portuguesa partem ao início da tarde de hoje de Lisboa, carregando 12 toneladas de material de higiene, abrigo, conforto e saneamento, e 1,5...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AmJHYtROv6LYvo3jjYVlr%2FQZ%2BHKCD%2F%2BLPhT8GNI2VIXAQB5cAkpsdckovochuocszm5kC6emK6TvMlDutZ8RydU%2BD3FxlDGnKHzY5tjYilVs6LdR88ugcX%2FHWFYwwv2hY"
+      "title": "Argentina vence Egito por 3-2 e passa aos quartos de final",
+      "link": "https://sapo.pt/artigo/argentina-vence-egito-por-3-2-e-passa-aos-quartos-de-final-6a4d42dc95c3679069f8e515",
+      "pubDate": "Tue, 07 Jul 2026 18:23:24 +0000",
+      "description": "A seleção argentina continua viva no Mundial, após vencer o Egipto por 3-2 num jogo que começou por vaticinar o pior para os argentinos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3APTDGo8rv6%2Fgja9tT%2FhlsTqG%2F7eaz0uZ%2FJc4U%2BHM6U1ycmwoI%2BDfNObFPHdiCmtE0zibTatV8Boj2hk2jMe93adbVo3ZhfOgWvzXTPvxcNZ8jjmhYNwNn4baBsxo%2F5PuQ"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Moçambique prevê crescer quase a 10% ao ano com entrada de projetos de gás",
-      "link": "https://www.noticiasaominuto.com/mundo/3017971/mocambique-preve-crescer-quase-a-10-ao-ano-com-entrada-de-projetos-de-gas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 17:22:00",
+      "title": "Violência doméstica: Homem detido no concelho de Vila Nova de Famalicão",
+      "link": "https://www.noticiasaominuto.com/pais/3018019/violencia-domestica-homem-detido-no-concelho-de-vila-nova-de-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 19:27:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46141767.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6878e8e483af5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Flávio Bolsonaro afirma nos EUA que nova tarifa iria premiar governantes",
-      "link": "https://www.noticiasaominuto.com/mundo/3017964/flavio-bolsonaro-afirma-nos-eua-que-nova-tarifa-iria-premiar-governantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 17:20:59",
+      "title": "Megadeth? Concerto cancelado gera polémica (e fãs querem reembolso)",
+      "link": "https://www.noticiasaominuto.com/cultura/3018028/megadeth-concerto-cancelado-gera-polemica-e-fas-querem-reembolso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 19:24:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47334139.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d3fa1a8778.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODk5LCJjcm9wSGVpZ2h0IjoxNTk5LCJjcm9wWCI6ODk2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "U2 divulgam hoje primeiro tema de novo álbum a ser editado no fim do ano",
-      "link": "https://www.noticiasaominuto.com/cultura/3017957/u2-divulgam-hoje-primeiro-tema-de-novo-album-a-ser-editado-no-fim-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 17:19:47",
+      "title": "Mais de 100 operacionais combate fogo no Gerês que cede aos meios",
+      "link": "https://www.noticiasaominuto.com/pais/3018030/mais-de-100-operacionais-combate-fogo-no-geres-que-cede-aos-meios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 19:24:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47092506.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57d178a1bb830.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Príncipe Harry e Elton John perdem processo contra jornal Daily Mail",
-      "link": "https://www.noticiasaominuto.com/fama/3017955/principe-harry-e-elton-john-perdem-processo-contra-jornal-daily-mail#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 17:14:34",
+      "title": "Marine Le Pen vai mesmo candidatar-se à presidência de França",
+      "link": "https://www.noticiasaominuto.com/mundo/3018045/marine-le-pen-vai-mesmo-candidatar-se-a-presidencia-de-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 19:20:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47422394.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d43863de3b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica exige consequências para Gustavo Correia: \"É incompreensível...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3017960/benfica-exige-consequencias-para-gustavo-correia-e-incompreensivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 17:07:28",
+      "title": "EM DIRETO: Argentina 'à campeã' vence Egito e espera por adversário",
+      "link": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 19:11:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1223506db37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MywiY3JvcEhlaWdodCI6MTY5NCwiY3JvcFgiOjgzMCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d26d6de419.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTg4LCJjcm9wSGVpZ2h0IjoxNzU3LCJjcm9wWCI6Nzc2LCJjcm9wWSI6M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Case Solved: The London Files chega em breve com mistérios na Londres dos anos 60",
+      "link": "https://pplware.sapo.pt/jogos/case-solved-the-london-files-chega-em-breve-com-misterios-para-desvendar-na-londres-dos-anos-60/",
+      "pubDate": "Tue, 07 Jul 2026 18:00:56 +0000",
+      "description": "Os fãs de jogos de investigação e quebra-cabeças podem rejubilar pois já se sabe quando vai ser lançado Case Solved: The London Files. Venham saber quando começam as investigações. Eis uma noticia que vai&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/CSTLF_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Apple Music chega a mais de dois milhões de automóveis Volvo com até três meses gratuitos",
+      "link": "https://pplware.sapo.pt/multimedia-2/musica/apple-music-chega-a-mais-de-dois-milhoes-de-automoveis-volvo-com-ate-tres-meses-de-subscricao-gratuita/",
+      "pubDate": "Tue, 07 Jul 2026 17:30:20 +0000",
+      "description": "A Volvo Cars está a integrar o Apple Music em mais de dois milhões de automóveis através de uma atualização over-the-air. Além de a Volvo estar a integrar o Apple Music em mais de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/apple-music-volvo-cars-1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Amazon Leo está quase pronta. Rival da Starlink quer levar Internet por satélite a todo o mundo",
+      "link": "https://pplware.sapo.pt/internet/amazon-leo-esta-quase-pronta-rival-da-starlink-quer-levar-internet-por-satelite-a-todo-o-mundo/",
+      "pubDate": "Tue, 07 Jul 2026 17:00:11 +0000",
+      "description": "Estamos a assistir ao início daquela que poderá ser a próxima grande revolução no acesso à Internet. A Internet por satélite promete acelerar a transformação das comunicações do planeta. Depois de anos de desenvolvimento,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/amazon_satelites00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Visa lança plataforma para reforçar a defesa contra ciberameaças e fraudes em Portugal",
+      "link": "https://pplware.sapo.pt/internet/seguranca/visa-lanca-plataforma-para-reforcar-a-defesa-contra-ciberameacas-e-fraudes-em-portugal/",
+      "pubDate": "Tue, 07 Jul 2026 16:30:18 +0000",
+      "description": "A Visa, que bloqueia cerca de 90 milhões de ciberataques e 11 milhões de e-mails de phishing todos os meses, em mais de 200 países, anunciou o lançamento de uma solução concebida para ajudar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/03/mastercard-visa.jpg"
     },
     {
       "sourceId": "pplware",
@@ -262,44 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/ubuntu-25-10.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Polestar alarga oferta do seu best-seller: novo SUV vai chegar com 630 km de autonomia",
-      "link": "https://pplware.sapo.pt/motores/polestar-alarga-oferta-do-seu-best-seller-novo-suv-chega-com-630-km-de-autonomia/",
-      "pubDate": "Tue, 07 Jul 2026 15:30:56 +0000",
-      "description": "Ainda mais prático e versátil, com um design distinto e uma condução ainda mais refinada, a Polestar confirmou a chegada de um novo elemento da família Polestar 4. A marca sueca de automóveis elétricos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/teaser-polestar4-suv.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WEC, 6h de São Paulo: Informações e Horários",
+      "link": "https://www.autosport.pt/velocidade/wec-6h-de-sao-paulo-informacoes-e-horarios/",
+      "pubDate": "Tue, 07 Jul 2026 17:37:48 +0000",
+      "description": "O WEC chega este fim de semana ao Brasil para as 6 Horas de São Paulo, quarta ronda da temporada de 2026, disputada no Autódromo José Carlos Pace, palco que recebe as máquinas da resistência mundial, após as exigentes 24h de Le Mans. O traçado de Interlagos, o mais curto do calendário com 4,309 km, ",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "SpaceX destruiu 260 satélites Starlink em apenas seis meses. E há centenas na fila",
-      "link": "https://pplware.sapo.pt/internet/spacex-destruiu-260-satelites-starlink-em-apenas-seis-meses-e-ha-centenas-na-fila/",
-      "pubDate": "Tue, 07 Jul 2026 15:00:49 +0000",
-      "description": "A SpaceX está a acelerar a renovação da sua constelação de satélites Starlink, mas o processo está a levantar questões que vão muito além da tecnologia. A SpaceX continua a renovar a sua constelação&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/starlink_explode_detritos00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Cada vez mais rumores apontam Max Verstappen à McLaren",
+      "link": "https://www.autosport.pt/formula1/f1-cada-vez-mais-rumores-apontam-max-verstappen-a-mclaren/",
+      "pubDate": "Tue, 07 Jul 2026 17:09:20 +0000",
+      "description": "Max Verstappen na McLaren? Os rumores que dão uma resposta afirmativa a esta questão crescem cada vez mais. A suposta transferência de Max Verstappen da Red Bull para a McLaren estará, segundo consta, a aproximar-se de um ponto decisivo, com a cláusula de rescisão do piloto neerlandês a entrar em vi",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cocorico: 40 anos desde que o Citroën 2 CV vestiu a sua camisola tricolor",
-      "link": "https://pplware.sapo.pt/motores/citroen-40-anos-desde-que-o-2-cv-vestiu-a-sua-camisola-tricolor/",
-      "pubDate": "Tue, 07 Jul 2026 14:30:47 +0000",
-      "description": "Entre as muitas edições icónicas, o Citroën 2 CV Cocorico ocupa um lugar especial. Lançado em 1986, num contexto de fervor desportivo e entusiasmo nacional, o automóvel simboliza tanto a criatividade da marca como&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/citroen-2cv-cocorico2-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Android Auto 17.2 traz o caos com bloqueios constantes e utilizadores revoltados",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/android-auto-17-2-traz-o-caos-com-bloqueios-constantes-e-utilizadores-revoltados/",
-      "pubDate": "Tue, 07 Jul 2026 14:00:25 +0000",
-      "description": "Como se começa a tornar hábito, uma nova versão do Android Auto traz novos problemas. O Android Auto 17.2 está a causar desconexões e encerramentos inesperados em diversos dispositivos Android. Os utilizadores relatam bloqueios&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/android-auto-samsung-auto-dex.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Competições ANPAC cumprem terceira jornada em Vila Real",
+      "link": "https://www.autosport.pt/velocidade/competicoes-anpac-cumprem-terceira-jornada-em-vila-real/",
+      "pubDate": "Tue, 07 Jul 2026 16:19:15 +0000",
+      "description": "As competições clássicas organizadas pela ANPAC — CPVC, CPVL, CPVSL e CPV1300 — têm proporcionado algumas das lutas mais intensas do ano no automobilismo nacional. À chegada a Vila Real, palco privilegiado para este tipo de competição, pilotos e equipas chegam ao ponto alto do ano. Grelhas cheias e ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/vila-real-a-primeira-vez-na-tv-em-direto/",
       "pubDate": "Tue, 07 Jul 2026 13:00:00 +0000",
       "description": "Em 1970 a televisão tinha, pela primeira vez, transmitido em directo o principal evento do programa, mas a falta de emoção na segunda metade da prova convenceu os organizadores a reduzirem a distância novamente para metade no ano seguinte, rondando agora a de um Grande Prémio. Aberto na mesma a carr",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1, Fernando Alonso: “Não é preciso talento do piloto para ultrapassar”",
-      "link": "https://www.autosport.pt/formula1/f1-fernando-alonso-nao-e-preciso-talento-do-piloto-para-ultrapassar/",
-      "pubDate": "Tue, 07 Jul 2026 12:31:18 +0000",
-      "description": "Uma F1 que não precisa de talento. É o que Fernando Alonso afirma sobre a competição atual, ainda muito influenciada pela gestão de energia que as unidades motrizes requerem. O espanhol da Aston Martin, que atravessa uma temporada complicada devido a problemas de competitividade na sua equipa, apont",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "TCR World Tour: Urrutia lidera por seis pontos, rumo a Vila Real",
-      "link": "https://www.autosport.pt/velocidade/tcr-world-tour-urrutia-lidera-por-seis-pontos-rumo-a-vila-real/",
-      "pubDate": "Tue, 07 Jul 2026 12:07:07 +0000",
-      "description": "A temporada do FIA TCR World Tour conta já com três rondas decorridas. O campeonato apresenta-se equilibrado, imprevisível e marcado pela chegada de um novo protagonista ao pelotão: o Geely Preface TCR. Com a ronda de Vila Real à porta, fazemos um resumo do que aconteceu até agora. O ano de 2026 com",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "“O Circuito de Vila Real, faz-me lembrar a Sofia Loren! Que curvas…!”",
-      "link": "https://www.autosport.pt/velocidade/o-circuito-de-vila-real-faz-me-lembrar-a-sofia-loren-que-curvas/",
-      "pubDate": "Tue, 07 Jul 2026 11:00:00 +0000",
-      "description": "Dissipados os ventos negros que varreram a mundo entre 1939 e 1945, a sociedade voltou gradualmente ao normal, e o automobilismo não deixou de ser excepção. Logo em 1948 os entusiastas vila-realenses quiseram organizar a sua prova, mas tal não foi ainda viável, mas um ano depois as condições já esta",
       "thumbnail": ""
     }
   ]
