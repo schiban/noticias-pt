@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-07T23:59:04.906441+00:00",
+  "updated": "2026-07-08T03:28:42.729236+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2338/",
+      "pubDate": "Wed, 08 Jul 2026 04:17:39 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2371/",
+      "pubDate": "Wed, 08 Jul 2026 03:14:50 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Teerão reafirma o controlo sobre o Estreito de Ormuz",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2344/",
+      "pubDate": "Wed, 08 Jul 2026 02:14:06 +0100",
+      "description": "E não confirma nem desmente as acusações de ataques contra navios comerciais. Ainda, a Suíça venceu a Colômbia e está nos quartos de final do Campeonato do Mundo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Trump avisa que ataques no Irão são para continuar",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2317/",
+      "pubDate": "Wed, 08 Jul 2026 01:15:15 +0100",
+      "description": "Washington diz que a operação visa impor \"custos pesados\" a Teerão. Ainda, dois feridos na sequência de um ataque com mísseis russos à capital ucraniana.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:933:524:nowe:0:17/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08002513/hmqnpkfxaaalei4.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O suicídio económico da Europa chama-se transição climática",
-      "link": "https://observador.pt/opiniao/o-suicidio-economico-da-europa-tem-um-nome-transicao-climatica/",
-      "pubDate": "Wed, 08 Jul 2026 00:25:25 +0100",
-      "description": "Decadência industrial, dependência da China e empobrecimento das classes médias. Eis os resultados das políticas climáticas europeias.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A503%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170547%2Fjoao-marques-de-almeida.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Exames: Ministro da Educação assume custo político",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-exames-ministro-da-educacao-assume-custo-politico_a1_1751998",
+      "pubDate": "Wed, 08 Jul 2026 03:41:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ninguém queria enfrentar Messi e a sacrificada foi a Suiça",
-      "link": "https://observador.pt/programas/minuto-90/ninguem-queria-enfrentar-messi-e-a-sacrificada-foi-a-suica/",
-      "pubDate": "Wed, 08 Jul 2026 00:24:02 +0100",
-      "description": "Suiça eliminou Colômbia nos penáltis e segue para os quartos de final. Alpes Suiços trouxeram a frieza necessária para Kobel defender e Vargas sentenciar a eliminatória na marca dos 11 metros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180448/770-podcastminuto-90.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Academia Portuguesa de Cinema traz ao São Jorge Les Nuits en Or",
+      "link": "https://www.rtp.pt/noticias/cultura/academia-portuguesa-de-cinema-traz-ao-sao-jorge-les-nuits-en-or_n1751970",
+      "pubDate": "Wed, 08 Jul 2026 03:34:22 +0100",
+      "description": "O cinema São Jorge em Lisboa recebe a mostra Les Nuits en Or, uma iniciativa da Academia Francesa César. A programação reúne as melhoras curtas-metragens do ano, vencedoras dos principais festivais de todo o mundo.  A Academia Portuguesa de Cinema é a responsável por trazer esta mostra a Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d0/d00f6f1c1adfa55399aaeb7bb1777ec4?w=350&amp;q=50&amp;rect=0,7,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A crise da imigração: do negacionismo à remigração",
-      "link": "https://observador.pt/opiniao/a-crise-da-imigracao-do-negacionismo-a-remigracao/",
-      "pubDate": "Wed, 08 Jul 2026 00:23:44 +0100",
-      "description": "O tema dos fluxos migratórios e suas consequências está para ficar e não deve ser ignorado, em especial por quem coloca a dignidade da pessoa humana no centro das suas preocupações.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F10%2F11100759%2Fandrecc81-azevedo-alves-11_467x467_acf_cropped.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A coligação",
-      "link": "https://observador.pt/opiniao/a-coligacao/",
-      "pubDate": "Wed, 08 Jul 2026 00:21:19 +0100",
-      "description": "É a coligação entre poder autárquico, associações de bombeiros, protecção civil e jornalismo que tem mantido um conjunto de mitos inúteis sobre a gestão de fogos",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2015%2F10%2Ffoto_hpsantos.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h BE e LIVRE querem explicações sobre a empresa que gere a plataforma de classificação dos exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-be-e-livre-querem-explicacoes-sobre-a-empresa-que-gere-a-plataforma-de-classificacao-dos-exames_a1_1751997",
+      "pubDate": "Wed, 08 Jul 2026 03:07:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -68,36 +98,6 @@
       "title": "0h Fumes obrigam voo com 140 pessoas a bordo a aterragem de emergência no Aeroporto das Lajes",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-fumes-obrigam-voo-com-140-pessoas-a-bordo-a-aterragem-de-emergencia-no-aeroporto-das-lajes_a1_1751989",
       "pubDate": "Wed, 08 Jul 2026 01:33:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h PR promulgou esta noite a nova lei orgânica do INEM, sem observações",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pr-promulgou-esta-noite-a-nova-lei-organica-do-inem-sem-observacoes_a1_1751981",
-      "pubDate": "Wed, 08 Jul 2026 00:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Wall Street fecha em baixa com nervos pelos investimentos colossais para a IA",
-      "link": "https://www.rtp.pt/noticias/mundo/wall-street-fecha-em-baixa-com-nervos-pelos-investimentos-colossais-para-a-ia_n1751977",
-      "pubDate": "Tue, 07 Jul 2026 23:49:53 +0100",
-      "description": "A bolsa nova-iorquina encerrou hoje em baixa, a sofrer com a má fase do setor dos semicondutores, em pleno nervosismo dos investidores com os investimentos colossais para desenvolver a inteligência artificial (IA).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/10e5894d9c9025f357f25574968cb5f1?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Câmara de Almada vai proibir a rega e pondera fechar equipamentos não essenciais para poupar água",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-camara-de-almada-vai-proibir-a-rega-e-pondera-fechar-equipamentos-nao-essenciais-para-poupar-agua_a1_1751976",
-      "pubDate": "Tue, 07 Jul 2026 23:42:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -235,21 +235,21 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Há um arranha-céus em Nova Iorque a mover-se e que corre risco de desabar",
-      "link": "https://www.noticiasaominuto.com/mundo/3018128/ha-um-arranha-ceus-em-nova-iorque-a-mover-se-e-que-corre-risco-de-desabar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 23:56:50",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3017580/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 23:58:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d82c125644.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTcwLCJjcm9wSGVpZ2h0Ijo2NTgsImNyb3BYIjowLCJjcm9wWSI6NDI2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4NzgsImNyb3BIZWlnaHQiOjE1NjEsImNyb3BYIjowLCJjcm9wWSI6LTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a49f8014fedb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "27.º dia do Mundial2026 em imagens: Muito Messi entre polémica (e não só)",
-      "link": "https://www.noticiasaominuto.com/desporto/3018112/27-dia-do-mundial2026-em-imagens-magia-de-messi-entre-a-polemica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-07 23:55:37",
+      "title": "Há um arranha-céus em Nova Iorque a mover-se e que corre risco de desabar",
+      "link": "https://www.noticiasaominuto.com/mundo/3018128/ha-um-arranha-ceus-em-nova-iorque-a-mover-se-e-que-corre-risco-de-desabar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-07 23:56:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d6d9f80a0e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM2LCJjcm9wSGVpZ2h0IjoxNjY0LCJjcm9wWCI6OTU4LCJjcm9wWSI6MjJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d82c125644.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTcwLCJjcm9wSGVpZ2h0Ijo2NTgsImNyb3BYIjowLCJjcm9wWSI6NDI2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4NzgsImNyb3BIZWlnaHQiOjE1NjEsImNyb3BYIjowLCJjcm9wWSI6LTF9fQ=="
     },
     {
       "sourceId": "pplware",
