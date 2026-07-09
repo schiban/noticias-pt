@@ -1,13 +1,43 @@
 {
-  "updated": "2026-07-09T01:08:42.010352+00:00",
+  "updated": "2026-07-09T05:34:35.109255+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2318/",
-      "pubDate": "Thu, 09 Jul 2026 01:13:21 +0100",
+      "title": "Três filmes para ver esta semana",
+      "link": "https://observador.pt/2026/07/09/tres-filmes-para-ver-esta-semana-312/",
+      "pubDate": "Thu, 09 Jul 2026 06:31:53 +0100",
+      "description": "O épico histórico \"George Washington\", o novo \"Vaiana\" da Walt Disney e a comédia dramática \"O Convite\", de e com Olivia Wilde, são as escolhas desta semana de Eurico de Barros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2252:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07174839/wash3.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Terapia de casais para o jantar com deceção à sobremesa",
+      "link": "https://observador.pt/2026/07/09/o-convite-terapia-de-casais-para-o-jantar-com-dececao-a-sobremesa/",
+      "pubDate": "Thu, 09 Jul 2026 06:30:47 +0100",
+      "description": "Olivia Wilde realiza e é uma das intérpretes de \"O Convite\", versão americana de \"Sentimental\", do espanhol Cesc Gay, que este baseou numa peça de sua autoria. Eurico de Barros dá-lhe duas estrelas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:787:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08180859/convite1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A decisão rápida de Proença num \"objetivo de vitória\"",
+      "link": "https://observador.pt/programas/diario-do-mundial/a-decisao-rapida-de-proenca-num-objetivo-de-vitoria/",
+      "pubDate": "Thu, 09 Jul 2026 06:26:00 +0100",
+      "description": "Pedro Proença deixa detalhes sobre a sucessão de Martínez. Os “faraós” querem expulsar um árbitro do Mundial. França e Marrocos inauguram os “quartos” com uma reedição das “meias” de 2022.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12112515/770-podcastdiario-mundi.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2428/",
+      "pubDate": "Thu, 09 Jul 2026 06:14:25 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,41 +45,51 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Nos 250 anos da \"Nova Roma\"",
-      "link": "https://observador.pt/opiniao/nos-250-anos-da-nova-roma/",
-      "pubDate": "Thu, 09 Jul 2026 00:25:09 +0100",
-      "description": "Lamento informar as mediáticas Cassandras que, 250 anos volvidos, o Congresso e o Supremo, bem como a divisão de poderes, continuam de saúde nos Estados Unidos do “pior dos césares”",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2040%3A2039%3Anowe%3A216%3A241%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170546%2Fjaime-nogueira-pinto.jpg"
+      "title": "“Assumir o erro” e “dar a cara”",
+      "link": "https://observador.pt/programas/querido-lder/assumir-o-erro-e-dar-a-cara/",
+      "pubDate": "Thu, 09 Jul 2026 06:04:52 +0100",
+      "description": "Marlos Henrique da Silva é diretor de Investigação, Desenvolvimento e Inovação na Sonae MC. Uma conversa sobre como gerir expectativas entre quem inova, quem trabalha e quem procura resultados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/30180533/770-podcast-querido-lider-1.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O século XXI é o mais pindérico de sempre?",
-      "link": "https://observador.pt/opiniao/o-seculo-xxi-e-o-mais-pinderico-de-sempre/",
-      "pubDate": "Thu, 09 Jul 2026 00:24:59 +0100",
-      "description": "Porque a literatura anda tão chata? E onde foram parar os grandes filmes? Já não há estreias de jeito no teatro? E exposições a não perder? Há dois suspeitos, que não são os do costume.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Guarda Revolucionária do Irão inicia retalição contra EUA",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-guarda-revolucionaria-do-irao-inicia-retalicao-contra-eua_a1_1752224",
+      "pubDate": "Thu, 09 Jul 2026 05:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Se eles pensam e logo existem",
-      "link": "https://observador.pt/opiniao/se-eles-pensam-e-logo-existem/",
-      "pubDate": "Thu, 09 Jul 2026 00:23:29 +0100",
-      "description": "Foram os grandes modelos de linguagem a surpresa com que ninguém contava e que haveria de colocar o filósofo de regresso ao centro desta ágora inesperada.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Tensão no Golfo: explosões no Kuwait e Bahrein",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-tensao-no-golfo-explosoes-no-kuwait-e-bahrein_a1_1752223",
+      "pubDate": "Thu, 09 Jul 2026 04:29:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Caso a caso",
-      "link": "https://observador.pt/opiniao/caso-a-caso/",
-      "pubDate": "Thu, 09 Jul 2026 00:20:17 +0100",
-      "description": "Um país livre e democrático é governado com base em normas universais. Em Portugal, exibem-se os privilégios selectivos.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A528%3A528%3Anowe%3A44%3A72%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F06182734%2Fbentes-penedo-1.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Falta de água em Almada: autarca divulga explicações",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-falta-de-agua-em-almada-autarca-divulga-explicacoes_a1_1752221",
+      "pubDate": "Thu, 09 Jul 2026 03:23:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Ministro da educação: 65% das provas do ensino secundário distribuídas para avaliação já estão corrigidas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-ministro-da-educacao-65-das-provas-do-ensino-secundario-distribuidas-para-avaliacao-ja-estao-corrigidas_a1_1752220",
+      "pubDate": "Thu, 09 Jul 2026 03:10:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Thu, 09 Jul 2026 02:35:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Chegaram a Caracas 2 aviões da Força Aérea Portuguesas com 12 toneladas de ajuda humanitária",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-chegaram-a-caracas-2-avioes-da-forca-aerea-portuguesas-com-12-toneladas-de-ajuda-humanitaria_a1_1752218",
-      "pubDate": "Thu, 09 Jul 2026 01:55:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Rússia critica \"decisões irresponsáveis\" da NATO sobre a invasão",
-      "link": "https://www.rtp.pt/noticias/economia/russia-critica-decisoes-irresponsaveis-da-nato-sobre-a-invasao_n1752210",
-      "pubDate": "Thu, 09 Jul 2026 01:13:20 +0100",
-      "description": "A Rússia classificou hoje de &quot;irresponsáveis&quot; os compromissos assumidos pela NATO em favor da Ucrânia na sua última cimeira na Turquia, acusando ainda os estados europeus de se prepararem &quot;para um conflito armado&quot; com Moscovo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Multidão homenageia Ali Khamenei nas cidades santas xiitas de Najaf e Kerbala",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/multidao-homenageia-ali-khamenei-nas-cidades-santas-xiitas-de-najaf-e-kerbala_n1752213",
-      "pubDate": "Thu, 09 Jul 2026 01:11:45 +0100",
-      "description": "Uma multidão imensa invadiu as ruas das cidades santas xiitas de Najaf e Kerbala, no Iraque, para acompanhar o cortejo funerário de Ali Khamenei, antes de ser sepultado no seu país natal.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Grande Entrevista. Rui Tavares pede clarificação de Montenegro sobre revisão constitucional",
-      "link": "https://www.rtp.pt/noticias/politica/grande-entrevista-rui-tavares-pede-clarificacao-de-montenegro-sobre-revisao-constitucional_n1752208",
-      "pubDate": "Thu, 09 Jul 2026 00:55:18 +0100",
-      "description": "O ainda porta-voz do Livre foi o convidado desta quarta-feira na Grande Entrevista da RTP Notícias, onde deixou um repto ao PS e ao primeiro-ministro sobre a revisão constitucional que paira sobre a futura sessão legislativa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/996aaabff6f03364554557e4a95a3de5?w=350&amp;q=50&amp;rect=0,28,1341,735&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3018190/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-09 00:03:25",
+      "title": "Edifício que abateu em Nova Iorque foi \"estabilizado\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3018742/edificio-que-abateu-em-nova-iorque-foi-estabilizado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-09 06:21:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69eb971a7c584.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47426147.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Potencial candidato acusa Netanyahu de transformar Israel em pária",
-      "link": "https://www.noticiasaominuto.com/mundo/3018733/potencial-candidato-acusa-netanyahu-de-transformar-israel-em-paria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-08 23:58:39",
+      "title": "Junho foi o mais quente de sempre na Europa Ocidental",
+      "link": "https://www.noticiasaominuto.com/mundo/3018753/junho-foi-o-mais-quente-de-sempre-na-europa-ocidental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-09 06:20:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4ed7adb5d70.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47381483.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExMjIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rússia critica \"decisões irresponsáveis\" da NATO sobre a invasão",
-      "link": "https://www.noticiasaominuto.com/mundo/3018732/russia-critica-decisoes-irresponsaveis-da-nato-sobre-a-invasao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-08 23:57:01",
+      "title": "China atribui milhões em novos apoios às zonas afetadas por tempestades",
+      "link": "https://www.noticiasaominuto.com/mundo/3018765/china-atribui-milhoes-em-novos-apoios-as-zonas-afetadas-por-tempestades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-09 06:18:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6722c67d0c291.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47420763.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exames nacionais? \"Há tranquilidade. 65% das provas estão corrigidas\"",
-      "link": "https://www.noticiasaominuto.com/pais/3018728/exames-nacionais-ha-tranquilidade-65-das-provas-estao-corrigidas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-08 23:52:41",
+      "title": "Seul e Kyiv aceitam pedido de repatriação de soldados norte-coreanos",
+      "link": "https://www.noticiasaominuto.com/mundo/3018768/seul-e-kyiv-aceitam-pedido-de-repatriacao-de-soldados-norte-coreanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-09 06:15:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66a17b986b411.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjY0MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46195129.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump ameaça Irão com ataques \"muito piores\" se voltar a atacar navios",
-      "link": "https://www.noticiasaominuto.com/mundo/3018730/trump-ameaca-irao-com-ataques-muito-piores-se-voltar-a-atacar-navios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-08 23:48:45",
+      "title": "DECO congratula-se com reforço dos direitos dos passageiros: O que muda?",
+      "link": "https://www.noticiasaominuto.com/economia/3018778/deco-congratula-se-com-reforco-dos-direitos-dos-passageiros-o-que-muda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-09 06:13:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4ed3d066a51.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM3LCJjcm9wSGVpZ2h0IjoxNDI3LCJjcm9wWCI6LTEsImNyb3BZIjo2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTIxMSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4f2ea61718c.webp"
     },
     {
       "sourceId": "pplware",
