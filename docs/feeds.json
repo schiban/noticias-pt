@@ -1,83 +1,73 @@
 {
-  "updated": "2026-07-11T14:20:09.925855+00:00",
+  "updated": "2026-07-11T15:29:25.878990+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 15h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2392/",
-      "pubDate": "Sat, 11 Jul 2026 15:14:06 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "110 portugueses e lusodescendentes mortos na Venezuela",
+      "link": "https://observador.pt/2026/07/11/sobe-para-110-numero-de-portugueses-e-lusodescendentes-mortos-no-duplo-sismo-que-atingiu-a-venezuela/",
+      "pubDate": "Sat, 11 Jul 2026 16:21:06 +0100",
+      "description": "O número de cidadãos portugueses e lusodescendentes que morreram no duplo sismo que atingiu a Venezuela em 24 de junho aumentou para 110 e há 55 desaparecidos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11150417/47436504.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Incêndios. PP espanhol alerta para semanas \"muito exigentes\"",
+      "link": "https://observador.pt/2026/07/11/presidente-do-pp-espanhol-alerta-para-semanas-muito-exigentes-no-combate-aos-fogos/",
+      "pubDate": "Sat, 11 Jul 2026 16:19:02 +0100",
+      "description": "O presidente do Partido Popular espanhol alerta que as próximas semanas serão \"muito exigentes\" devido às condições meteorológicas, no rescaldo do \"terrível incêndio\" em Almeria.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11155436/47440768.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Kristin. Anafre exige resposta sobre verbas que não chegaram",
+      "link": "https://observador.pt/2026/07/11/anafre-exige-resposta-sobre-verbas-da-tempestade-kristin-que-nao-chegaram-as-freguesias/",
+      "pubDate": "Sat, 11 Jul 2026 16:12:46 +0100",
+      "description": "A Associação Nacional de Freguesias vai exigir uma resposta sobre verbas destinadas a danos da tempestade Kristin que ainda não chegaram às freguesias.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11145038/46556700.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "16h. Sismos na Venezuela. Já são 110 portugueses mortos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2298/",
+      "pubDate": "Sat, 11 Jul 2026 16:12:30 +0100",
+      "description": "Entre as vitimas mortais estão 20 crianças e 90 adultos. E, em Almada, dez zonas do concelho vão ficar sem água a partir das dez da noite de hoje. O corte vai durar até às seis da manhã de domingo.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Cortes noturnos de água vão afetar 10 localidades e bairros",
-      "link": "https://observador.pt/2026/07/11/cortes-noturnos-de-agua-vao-afetar-dez-localidades-e-bairros-de-almada/",
-      "pubDate": "Sat, 11 Jul 2026 15:05:03 +0100",
-      "description": "Onze zonas do concelho de Almada vão ficar sem água a partir das 22:00 deste sábado e até às 06:00 de domingo, no âmbito das medidas da Câmara Municipal para restabelecer reservas de água.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11142327/47443869.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dia 31 do Mundial-2026",
-      "link": "https://observador.pt/liveblogs/dia-31-do-mundial-2026-jogador-da-selecao-sul-africana-morre-aos-25-anos/",
-      "pubDate": "Sat, 11 Jul 2026 14:49:06 +0100",
-      "description": "Para mais um dia de Campeonato do Mundo, está reservado um encontro entre Noruega e Inglaterra (22h), a valer um lugar nas meias-finais. Às 2h, Argentina e Suíça disputam outro lugar na mesma fase.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:409/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11144155/gettyimages-2284691978-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "França detém 32 suspeitos de provocar incêndios",
-      "link": "https://observador.pt/2026/07/11/franca-atribui-nove-em-cada-dez-incendios-a-acao-humana-e-detem-32-suspeitos/",
-      "pubDate": "Sat, 11 Jul 2026 14:40:12 +0100",
-      "description": "As autoridades francesas detiveram 32 suspeitos de provocar incêndios florestais desde o início do verão. Macron recordou que \"nove em cada dez incêndios têm origem humana\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11134956/47392451.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Philip Roth e um mui respeitável seio",
-      "link": "https://observador.pt/2026/07/11/philip-roth-e-um-mui-respeitavel-seio/",
-      "pubDate": "Sat, 11 Jul 2026 14:36:23 +0100",
-      "description": "Este pequeno livro kafkiano de 1972 está longe do brilhantismo de outras obras rothianas. Mas isso talvez valesse também para a quase totalidade da ficção do último século.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3034:1706:nowe:0:171/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/22164019/gettyimages-50396465.jpg"
+      "title": "Homem detido por alegada importunação sexual em Peniche",
+      "link": "https://observador.pt/2026/07/11/homem-detido-por-alegada-importunacao-sexual-em-transmissao-de-jogo-de-portugal-em-peniche/",
+      "pubDate": "Sat, 11 Jul 2026 16:07:00 +0100",
+      "description": "Um homem de 65 anos foi detido por suspeitas da prática do crime de importunação sexual, durante a transmissão pública de um jogo da Seleção Nacional de Futebol, em Peniche.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/04112451/vcoelho-20260403-fotos-de-arquivo-01-43-scaled.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Anafre exige resposta sobre verbas da tempestade que não chegaram às freguesias",
-      "link": "https://www.rtp.pt/noticias/economia/anafre-exige-resposta-sobre-verbas-da-tempestade-que-nao-chegaram-as-freguesias_n1752725",
-      "pubDate": "Sat, 11 Jul 2026 16:14:18 +0100",
-      "description": "A Associação Nacional de Freguesias (Anafre) vai exigir uma resposta sobre verbas destinadas a danos da tempestade Kristin que ainda não chegaram às freguesias e exige que estas autarquias locais não sejam reféns dos municípios, disse hoje o presidente.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Bernardo Pires lidera basquetebol do Sporting",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/bernardo-pires-lidera-basquetebol-do-sporting_d1752737",
+      "pubDate": "Sat, 11 Jul 2026 17:23:21 +0100",
+      "description": "O português Bernardo Pires é o novo treinador da equipa de basquetebol do Sporting, sucedendo a Luís Magalhães, anunciou hoje o clube lisboeta, sem anunciar a duração do contrato.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/30/308c733c8ca23d76734dd7351ad533b2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Venezuela. Sobe para 110 número de portugueses e lusodescendentes mortos",
-      "link": "https://www.rtp.pt/noticias/lusa/venezuela-sobe-para-110-numero-de-portugueses-e-lusodescendentes-mortos_n1752726",
-      "pubDate": "Sat, 11 Jul 2026 16:08:34 +0100",
-      "description": "O número de cidadãos portugueses e lusodescendentes que morreram no duplo sismo que atingiu a Venezuela em 24 de junho aumentou para 110 e há 55 desaparecidos, anunciou hoje o Ministério dos Negócios Estrangeiros (MNE).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/9254274507e62ad9ef9d2297fd565eda?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "14h MECI garante que as respostas incompletas nos exames não estão a ser avaliadas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-meci-garante-que-as-respostas-incompletas-nos-exames-nao-estao-a-ser-avaliadas_a1_1752723",
-      "pubDate": "Sat, 11 Jul 2026 15:25:03 +0100",
+      "title": "16H Líder do PS acusa PM sobre crise de confiança nos exames nacionais",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-lider-do-ps-acusa-pm-sobre-crise-de-confianca-nos-exames-nacionais_a1_1752736",
+      "pubDate": "Sat, 11 Jul 2026 17:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,171 +75,191 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Foo Fighters e sueca Zara Larsson no Nos Alive",
-      "link": "https://www.rtp.pt/noticias/cultura/foo-fighters-e-sueca-zara-larsson-no-nos-alive_v1752721",
-      "pubDate": "Sat, 11 Jul 2026 15:23:47 +0100",
-      "description": "Em dia de lotação esgotada, 60 mil pessoas estiveram ontem no Nos Alive. Os Foo Fighters foram os cabeça de cartaz e a sueca Zara Larsson terminou a noite com um concerto pop.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0b/0b669f5392e55f145cbacdeb3edbae5d_N.jpg?"
+      "title": "Marc Márquez primeiro na sprint-race do MotoGP da Alemanha",
+      "link": "https://www.rtp.pt/noticias/motores/marc-marquez-primeiro-na-sprint-race-do-motogp-da-alemanha_d1752735",
+      "pubDate": "Sat, 11 Jul 2026 17:18:59 +0100",
+      "description": "O espanhol Marc Márquez (Ducati) venceu a corrida sprint do Grande Prémio da Alemanha de MotoGP, 11.ª prova da temporada, que decorre este fim de semana em Sachsenring.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1dcaa7fb88403091782ec7d117c0fa91?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Pedro Abrunhosa em concerto solidário",
-      "link": "https://www.rtp.pt/noticias/cultura/pedro-abrunhosa-em-concerto-solidario_v1752720",
-      "pubDate": "Sat, 11 Jul 2026 15:21:47 +0100",
-      "description": "Pedro Abrunhosa e a Orquestra Sinfónica do Porto Casa da Música juntaram-se num concerto de apoio a instituições culturais afetadas pela Tempestade Kristin. Este domingo, na Casa da Música, a solidariedade manifesta-se com as canções mais marcantes da carreira do músico.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/5d/5d3806795adbc68db24618ee7442420a_N.jpg?"
+      "title": "Pedro Emanuel é o novo treinador do Vasco da Gama",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/pedro-emanuel-e-o-novo-treinador-do-vasco-da-gama_d1752734",
+      "pubDate": "Sat, 11 Jul 2026 17:14:01 +0100",
+      "description": "O português Pedro Emanuel é o novo treinador do Vasco da Gama, com um contrato válido até dezembro de 2027, informa o clube do Brasileirão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f209a4b3471bd19840dc3a5c20e6e17?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Hjulmand reforça Atlético de Madrid",
+      "link": "https://www.rtp.pt/noticias/sporting/hjulmand-reforca-atletico-de-madrid_d1752732",
+      "pubDate": "Sat, 11 Jul 2026 17:07:21 +0100",
+      "description": "O internacional dinamarquês Morten Hjulmand é reforço do Atlético Madrid até 2031, numa transferência que renderá 40 milhões de euros ao Sporting, informaram os &#039;leões&#039; à Comissão do Mercado de Valores Mobiliários.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/551a0878823e5c6a843462970c57bfde?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Liga: calendário e todos os resultados da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Sat, 11 Jul 2026 14:58:00 +0100",
-      "description": "Clubes já estão a preparar a época 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+      "title": "Nacional entra em falso na pré-temporada e perde frente à AD Machico",
+      "link": "https://maisfutebol.iol.pt/nacional/liga/nacional-entra-em-falso-na-pre-temporada-e-perde-frente-a-ad-machico",
+      "pubDate": "Sat, 11 Jul 2026 16:09:13 +0100",
+      "description": "Equipa orientada por João Gião, ex-Sporting B, perdeu por 2-1",
+      "thumbnail": "https://img.iol.pt/image/id/6a525c05d34e511da0b2caa4/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Casa Pia vence Sporting B no primeiro teste da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/casa-pia/jogo-de-preparacao/casa-pia-vence-sporting-b-no-primeiro-teste-da-pre-temporada",
-      "pubDate": "Sat, 11 Jul 2026 14:56:00 +0100",
-      "description": "Equipa de Filipe Coelho bateu os leões por 2-1 em Alcochete",
-      "thumbnail": "https://img.iol.pt/image/id/6a524b7cd34ef04b4f3f5e3a/250"
+      "title": "OFICIAL: Bernardo Pires é o novo treinador de basquetebol do Sporting",
+      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/oficial-bernardo-pires-e-o-novo-treinador-de-basquetebol-do-sporting",
+      "pubDate": "Sat, 11 Jul 2026 15:58:36 +0100",
+      "description": "Técnico de 32 anos deixa o Imortal e sucede a Luís Magalhães no comando dos leões",
+      "thumbnail": "https://img.iol.pt/image/id/6a5259fed34e511da0b2caa2/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Parsemain estreia-se em grande e lidera goleada do Moreirense",
-      "link": "https://maisfutebol.iol.pt/moreirense/pre-epoca/parsemain-estreia-se-em-grande-e-lidera-goleada-do-moreirense",
-      "pubDate": "Sat, 11 Jul 2026 14:37:42 +0100",
-      "description": "Reforço francês marcou três golos no primeiro jogo de preparação dos cónegos frente à equipa sub-23",
-      "thumbnail": "https://img.iol.pt/image/id/6a5246f3d34e511da0b2ca76/250"
+      "title": "Triatlo: Vasco Vilaça é segundo em Hamburgo, mas reforça liderança mundial",
+      "link": "https://maisfutebol.iol.pt/triatlo/modalidades/triatlo-vasco-vilaca-e-segundo-em-hamburgo-mas-reforca-lideranca-mundial",
+      "pubDate": "Sat, 11 Jul 2026 15:47:00 +0100",
+      "description": "Compatriota Ricardo Batista ficou na 23.ª posição",
+      "thumbnail": "https://img.iol.pt/image/id/66aa1c9cd34e94b82903af71/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Atenção, Benfica: St. Gallen goleado pelo Lyon em jogo de preparação",
-      "link": "https://maisfutebol.iol.pt/pre-epoca/st-gallen/atencao-benfica-st-gallen-goleado-pelo-lyon-em-jogo-de-preparacao",
-      "pubDate": "Sat, 11 Jul 2026 14:13:02 +0100",
-      "description": "Conjunto suíço é o adversário das águias na segunda pré-eliminatória da Liga Europa",
-      "thumbnail": "https://img.iol.pt/image/id/6a524128d34e511da0b2ca67/250"
+      "title": "V. Guimarães vence Felgueiras no primeiro teste de pré-temporada",
+      "link": "https://maisfutebol.iol.pt/vitoria-guimaraes/felgueiras/v-guimaraes-vence-felgueiras-no-primeiro-teste-de-pre-temporada",
+      "pubDate": "Sat, 11 Jul 2026 15:34:00 +0100",
+      "description": "Oumar Camara, com um bis, e Tony Strata marcaram os golos da triunfo por 3-1",
+      "thumbnail": "https://img.iol.pt/image/id/6a52543cd34e511da0b2ca95/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Morreu Jayden Adams, internacional sul-africano que esteve no Mundial 2026",
-      "link": "https://maisfutebol.iol.pt/luto/obito/morreu-jayden-adams-internacional-sul-africano-que-esteve-no-mundial-2026",
-      "pubDate": "Sat, 11 Jul 2026 14:06:57 +0100",
-      "description": "Médio dos Mamelodi Sundowns tinha 25 anos",
-      "thumbnail": "https://img.iol.pt/image/id/6a523fb6d34e511da0b2ca62/250"
+      "title": "VÍDEO: Gil Vicente arranca pré-época com derrota frente ao Paredes",
+      "link": "https://maisfutebol.iol.pt/gil-vicente/pre-epoca/video-gil-vicente-arranca-pre-epoca-com-derrota-frente-ao-paredes",
+      "pubDate": "Sat, 11 Jul 2026 15:32:20 +0100",
+      "description": "Reforço Andreas Lausen marcou no desaire por 3-1",
+      "thumbnail": "https://img.iol.pt/image/id/6a5253b8d34e511da0b2ca90/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Eduqa garante que repostas incompletas de alunos não estão a ser avaliadas e que foi criado um sistema de reporte de problemas",
-      "link": "https://sapo.pt/artigo/eduqa-garante-que-repostas-incompletas-de-alunos-nao-estao-a-ser-avaliadas-e-que-foi-criado-um-sistema-de-reporte-de-problemas-6a521fa376b0389efa5169e5",
-      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
-      "description": "O Eduqa criou um sistema de reporte de desconformidades para os avaliadores dos exames nacionais e negou a denúncia feita pelo movimento Missão Escola Pública de que os professores deveriam classificar as respostas incompletas como estão",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AOQNZm46oYa%2FSRnYKwAw8OpQ0ZOdIw7taqMp%2FB%2Fm3dzsklO4fpz59h8ed%2FuKmrW4XAVu8AQ%2FSZFcSX2pFwYyRB2wL3cHQtxgj6MM4BBhauTQAveuYpgSz%2BlWaS1pqDvX8"
+      "title": "\"Professores não estão à venda\", diz José Luís Carneiro",
+      "link": "https://sapo.pt/artigo/montenegro-esta-a-trabalhar-para-ser-um-dos-piores-primeiros-ministros-desde-o-25-de-abril-diz-carneiro-6a52518a93000f7db6dbe2b5",
+      "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
+      "description": "Líder do PS acusou o primeiro-ministro de estar ausente nos incêndios e no processo dos exames do secundário e que \"está a trabalhar para ser um dos piores primeiros-ministros desde o 25 de Abril\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A1UFjMxzL4cEFRFrR%2Bgz%2BtxsCqfPiLvvSnA1A6Hsu1Xx0uE%2BaT%2F2WWcICdvUCN0za0Gyg%2FD6moVDWwA9g5vp0As0dwBKbS29j4YhBP8a3HyoMPCbR53jJXq7M4%2BJGjPMG"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ministro da Administração Interna lamenta morte por atropelamento de militar da Brigada de Trânsito da GNR",
-      "link": "https://sapo.pt/artigo/ministro-da-administracao-interna-lamenta-morte-por-atropelamento-de-militar-da-brigada-de-transito-da-gnr-6a521fa41d07e0c61caff474",
-      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
-      "description": "O ministro da Administração Interna (MAI) lamentou hoje a morte por atropelamento de um militar, do Destacamento de Trânsito de Leiria da Guarda Nacional Republicana (GNR), defendendo que \"nenhuma vida deve ser perdida por indiferença,...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Abgcd%2BSO0sET4pZEdMk03TIbAoQ7sI9jFkL%2BQVxG%2BgJbapcGz7s4oLklXKM0dd9ia0sVUokB0SvjDtt1SYtCBCRMej1D59mVy9IPP0lFUew7LlS2PO9Rbx69SL7MVtuj0"
+      "title": "GNR resgata 13 migrantes no Mediterrâneo durante operação em Espanha",
+      "link": "https://sapo.pt/artigo/gnr-resgata-13-migrantes-no-mediterraneo-durante-operacao-em-espanha-6a52518393000f7db6dbdeaa",
+      "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
+      "description": "A tripulação da Lancha de Patrulhamento Costeiro Bojador, da Unidade de Controlo Costeiro e de Fronteiras da GNR, resgatou, no dia 8 de julho, 13 migrantes no mar Mediterrâneo, no âmbito da Operação Conjunta \"Spain Indalo 2026\", coordenada pela...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6ztDm7tcMavjHKPuCCfFD8yEAXMkcmXLIKNjh7fmYDpnCUjieTc9BCI3RU3hNf%2F7nIfHy8Va7pqRmpKrLwKki9sr777Jt3W7gagXL6A9%2B4IaCIpyRisqTPaie9nGi%2Fq5"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Principal suspeito de morte de Ann Widdecombe foi libertado",
-      "link": "https://sapo.pt/artigo/principal-suspeito-de-morte-de-ann-widdecombe-foi-libertado-6a521f8876b0389efa515e7c",
-      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
-      "description": "Homem de 26 anos foi detido na sexta-feira, mas libertado esta manhã. Autoridades britânicas continuam a afastar um crime com motivações políticas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3An96YxXWdrHQrpYYimveFDPBF7k8m%2BZQPYlY5GQd%2BZc1Nf8XyEa7I7pcQxpg451%2B0a3Jxol3mvLidLWEujmaAIan6db2WVIjbrFK8uweahdSZS1bY0M2i2J8JE9wlb%2BZg"
+      "title": "PSP alerta para aumento de burlas com falsos funcionários bancários após 24 casos registados num só dia",
+      "link": "https://sapo.pt/artigo/psp-alerta-para-aumento-de-burlas-com-falsos-funcionarios-bancarios-apos-24-casos-registados-num-so-dia-6a5253e476b0389efa5b5adc",
+      "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
+      "description": "A Polícia de Segurança Pública alertou para um aumento significativo das burlas praticadas por telefone por indivíduos que se fazem passar por funcionários bancários. Só no dia 7 de julho foram reportadas 24 ocorrências deste tipo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AeQvkT9CaigqGmSJonyqRjJ%2FRvARHw2SNbWIvpBu6Cv%2FoWDZWQjeIB7qweJhCO86MxZsjGYdRFFgCXf42nW0dW%2FDdQIibLr%2BlqTqhHDMPsbwnvyRck2MJGEg7l84qaG4%2B"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Teerão diz ter \"cumprido a palavra\" perante EUA no protocolo de cessar-fogo",
-      "link": "https://sapo.pt/artigo/teerao-diz-ter-cumprido-a-palavra-perante-eua-no-protocolo-de-cessar-fogo-6a5213f093000f7db6d0d74e",
-      "pubDate": "Sat, 11 Jul 2026 10:46:45 +0000",
-      "description": "O ministro dos Negócios Estrangeiros iraniano acrescentou que \"só pode haver respeito quando este é mútuo\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A3FD9VsjBtARfgTrEEHnUX%2FMQdw5IUi2I3bvVsD8qSQmbc3E3y%2Bmr1nxgJVFCRYUJfXInEhAwDw0EOsoLB4%2Bh3TV7H6TL6TDnz5CTInBTbDbrl0AeWBmzOPuBuww3IvKs"
+      "title": "Líder Supremo do Irão promete vingança pela morte do pai, Ali Khamenei",
+      "link": "https://sapo.pt/artigo/lider-supremo-do-irao-promete-vinganca-pela-morte-do-pai-ali-khamenei-6a5232cc93000f7db6d6b916",
+      "pubDate": "Sat, 11 Jul 2026 13:57:02 +0000",
+      "description": "Mojtaba Khamenei afirmou que a vingança pela morte do pai é uma “exigência da nação”.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A470oYvESpeDsSo6Ev5uFZFxxkE2TfXzfsAWUirD17vVAaVYkto%2B%2BIkzaxB6se6m4WTVO5PYRJ0R%2BG%2BK4KANe%2BRdkQTuzWbeAB2FS0iJ%2BL%2Fv7AtUgEgnmTMCxgrdg163d"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Fogo em Almeria: Autoridades mais otimistas, Espanha agradece apoio internacional",
-      "link": "https://sapo.pt/artigo/fogo-em-almeria-autoridades-mais-otimistas-espanha-agradece-apoio-internacional-6a521fa493000f7db6d31658",
-      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
-      "description": "O Governo espanhol agradeceu hoje o apoio e solidariedade internacional face ao incêndio em Almería que matou 12 pessoas e destruiu 6.600 hectares, num momento em que as autoridades estão mais otimistas no combate ao fogo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AmMEI%2FCB3tb%2BYDYeRYbnL0HN%2BONLzFYU6vgaTyEwcn8MJr9oUZnN1oQke9CMoCNmDcDrWSK6hJkvVv1QWIgbMQIK838JmJjqXUVECR8pg6e1FmWEJUTQHX34IgWusuLCr"
+      "title": "Falta de água em Almada: Cortes noturnos de água vão afetar dez localidades e bairros",
+      "link": "https://sapo.pt/artigo/falta-de-agua-em-almada-cortes-noturnos-de-agua-vao-afetar-dez-localidades-e-bairros-6a524a8676b0389efa5975b5",
+      "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
+      "description": "Dez zonas do concelho de Almada vão ficar sem água a partir das 22:00 de hoje e até às 06:00 de domingo, no âmbito das medidas da Câmara Municipal para restabelecer reservas de água, anunciou a autarquia",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A%2BIvoljb1qTnZ2qJ4PrvY%2FMdAh4%2FWVH24u%2BaGNrJjFsGufMjJwZwAgsh%2BBoAldofgciepb%2FGydSUX5jhYESbkIER43o7TpgBEOPYjk7YfrnbzeZfCrpaI6X1DVtPCVbXw"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "N.º de portugueses e lusodescendentes mortos na Venezuela sobe para 110",
-      "link": "https://www.noticiasaominuto.com/mundo/3020070/n-de-portugueses-e-lusodescendentes-mortos-na-venezuela-sobe-para-110#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 15:07:17",
+      "title": "Académica vence Marítimo pela margem mínima em jogo particular",
+      "link": "https://www.noticiasaominuto.com/desporto/3020092/academica-vence-maritimo-pela-margem-minima-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 16:24:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47436504.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e02d890987e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3019956/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 15:00:39",
+      "title": "Freguesias querem beneficiar de IVA reduzido, diz Anafre",
+      "link": "https://www.noticiasaominuto.com/pais/3020086/freguesias-querem-beneficiar-de-iva-reduzido-diz-anafre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 16:23:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a51e7afb63fe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoxNiwiY3JvcFkiOjExN319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a525ff14eb9e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Esta ex-concorrente do \"Big Brother\" comprou a quinta casa e \"a pronto\"",
-      "link": "https://www.noticiasaominuto.com/fama/3017646/esta-ex-concorrente-do-big-brother-comprou-a-quinta-casa-e-a-pronto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 15:00:00",
+      "title": "Espanhol Marc Marquez vence corrida sprint de MotoGP na Alemanha",
+      "link": "https://www.noticiasaominuto.com/auto/3020091/espanhol-marc-marquez-vence-corrida-sprint-de-motogp-na-alemanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 16:14:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a510210989e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDY2LCJjcm9wSGVpZ2h0Ijo1OTksImNyb3BYIjo2LCJjcm9wWSI6MTU1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47446754.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Anafre exige resposta sobre verbas da tempestade que não chegaram",
-      "link": "https://www.noticiasaominuto.com/pais/3020068/anafre-exige-resposta-sobre-verbas-da-tempestade-que-nao-chegaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 14:57:13",
+      "title": "Venezuela critica Colômbia por querer assumir reconstrução após sismos",
+      "link": "https://www.noticiasaominuto.com/mundo/3020087/venezuela-critica-colombia-por-querer-assumir-reconstrucao-apos-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 15:59:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46556700.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a525a6114234.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Após suspensão, retomadas visitas nas Urgências do Hospital do Funchal",
-      "link": "https://www.noticiasaominuto.com/pais/3020066/apos-suspensao-retomadas-visitas-nas-urgencias-do-hospital-do-funchal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 14:54:31",
+      "title": "Presidente do PP alerta para semanas \"exigentes\" no combate aos fogos",
+      "link": "https://www.noticiasaominuto.com/mundo/3020089/presidente-do-pp-alerta-para-semanas-exigentes-no-combate-aos-fogos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 15:58:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6570ab4d2601a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47440768.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Xiaomi SkyNomad: o SUV gigante que promete revolucionar o mercado",
+      "link": "https://pplware.sapo.pt/motores/xiaomi-skynomad-o-suv-gigante-que-promete-revolucionar-o-mercado/",
+      "pubDate": "Sat, 11 Jul 2026 15:00:35 +0000",
+      "description": "A Xiaomi continua a reforçar a sua presença no setor automóvel. Depois do sucesso alcançado com o desportivo SU7, a Xiaomi apresenta agora a sua segunda marca dedicada à mobilidade, a SkyNomad. A estreia&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Xiaomi-skynomad_.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/renault_douai_robo_calvin.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "EUA dão luz verde ao satélite gigante que quer refletir luz solar para a Terra",
-      "link": "https://pplware.sapo.pt/motores/eua-dao-luz-verde-ao-satelite-gigante-que-quer-refletir-luz-solar-para-a-terra/",
-      "pubDate": "Sat, 11 Jul 2026 10:00:01 +0000",
-      "description": "Refletir luz solar para a Terra depois do pôr do sol parece um conceito saído da ficção científica, mas é isso que a startup Reflect Orbital pretende fazer, e o seu satélite já recebeu&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/reflect-orbital00-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPVL, Vila Real: Vasco Barros destacou-se na Corrida 1",
+      "link": "https://www.autosport.pt/sem-categoria/cpvl-vila-real-vasco-barros-destacou-se-na-corrida-1/",
+      "pubDate": "Sat, 11 Jul 2026 14:34:35 +0000",
+      "description": "Vasco Barros (Mercedes-Benz 190 E 2.3-16V) levou a melhor na primeira corrida do CPVSL, vencendo à geral e na sua categoria que, apesar de alguns contratempos, foi relativamente fluída e com algumas lutas de relevo. Barros teve um arranque de eleição e rapidamente se colocou na frente da corrida, ul",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/cpv-vila-real-volta-canhao-para-daniel-teixeira-hyundai-elantra-n-tcr-nos-gtx-e-tc-na-qualificacao-1/",
       "pubDate": "Sat, 11 Jul 2026 11:30:00 +0000",
       "description": "A primeira qualificação do Campeonato de Portugal de Velocidade, GTC e TC foi interrompida quando faltavam cerca de nove minutos para o fim da sessão devido ao acidente de Pompeu Simões, piloto da Speedy Motorsport que bateu com o seu Porsche 718 Cayman GT4 CS. A par com outro incidente noutra zona ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC, Sami Pajari recupera e foca-se na Estónia e Finlândia: “os meus dois ralis favoritos”",
-      "link": "https://www.autosport.pt/ralis/wrc-sami-pajari-recupera-e-foca-se-na-estonia-e-finlandia-os-meus-dois-ralis-favoritos/",
-      "pubDate": "Sat, 11 Jul 2026 11:21:00 +0000",
-      "description": "Sami Pajari, piloto da Toyota Gazoo Racing, garantiu o quarto lugar final no Rali da Acrópole, na Grécia, após uma forte recuperação no último dia da prova. Com este resultado, o jovem de 24 anos consolidou a quarta posição no Campeonato Mundial de Ralis antes de enfrentar as duas jornadas seguintes",
       "thumbnail": ""
     }
   ]
