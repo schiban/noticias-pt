@@ -1,105 +1,125 @@
 {
-  "updated": "2026-07-11T21:13:52.776644+00:00",
+  "updated": "2026-07-11T22:12:29.692073+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Exames. Fenprof vai apresentar queixa na PGR",
-      "link": "https://observador.pt/2026/07/11/fenprof-vai-apresentar-queixa-na-pgr-a-pedir-inquerito-a-classificacao-dos-exames/",
-      "pubDate": "Sat, 11 Jul 2026 22:10:12 +0100",
-      "description": "Federação de professores quer apurar \"fiabilidade, segurança e credibilidade da plataforma\" e dos procedimentos de classificação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11214043/47428366.jpg"
+      "title": "Horas extra pagas são obrigação legal, lembra a FNE",
+      "link": "https://observador.pt/2026/07/11/pagamento-de-horas-extra-aos-classificadores-e-obrigacao-legal-lembra-federacao-nacional-da-educacao-fne/",
+      "pubDate": "Sat, 11 Jul 2026 23:02:33 +0100",
+      "description": "Federação Nacional da Educação acha \"justo e necessário\" o pagamento de horas extraordinárias aos professores classificadores. Trata-se de uma obrigação legal e não de um \"reconhecimento excecional\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/10/03144428/20087934_770x433_acf_cropped.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "21h. Ordem dos Engenheiros envia especialistas à Venezuela",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1696/",
-      "pubDate": "Sat, 11 Jul 2026 21:12:15 +0100",
-      "description": "Os engenheiros Humberto Varum e Luís Guerreiro vão avaliar a segurança dos edifícios e das estruturas em estado crítico. Ainda, o Bloco de Esquerda pede a demissão do ministro da Educação.",
+      "title": "Exames. Ainda há professores com respostas incompletas",
+      "link": "https://observador.pt/2026/07/11/ainda-ha-professores-com-respostas-incompletas-de-exames-para-classificar/",
+      "pubDate": "Sat, 11 Jul 2026 22:39:08 +0100",
+      "description": "Há professores classificadores ainda à espera de folhas de resposta em falta e outros a quem está a ser pedido que reavaliem itens já classificados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07174309/47415278.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Alive volta a 8, 9 e 10 de julho de 2027",
+      "link": "https://observador.pt/2026/07/11/festival-alive-regressa-ao-passeio-maritimo-de-alges-em-8-9-e-10-de-julho/",
+      "pubDate": "Sat, 11 Jul 2026 22:28:31 +0100",
+      "description": "Festival teve dois dias esgotados e vai encerrar com o regresso dos Buraka Som Sistema aos palcos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11211816/47447853.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Derrota de um Benfica inconclusivo com um Flamengo adiantado",
+      "link": "https://observador.pt/2026/07/11/uma-aguia-inconclusiva-foi-ineficaz-contra-um-flamengo-mais-adiantado-a-cronica-do-benfica-flamengo/",
+      "pubDate": "Sat, 11 Jul 2026 22:20:52 +0100",
+      "description": "O Benfica perdeu por 1-2 diante do Flamengo no Estádio do Algarve. Pelos cariocas marcaram Lino (45+5') e Wallace (68'). Pelas águias, marcou Pavlidis de grande penalidade, ainda antes do intervalo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1988:nowe:0:229/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11220659/gettyimages-2285085130.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "22h. Castro Almeida admite falha na classificação dos exames",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1822/",
+      "pubDate": "Sat, 11 Jul 2026 22:13:39 +0100",
+      "description": "No entanto, o governante diz que o Ministro da Educação tem a situação controlada. No Mundial de futebol, arrancou o jogo entre a Noruega e a Inglaterra que lutam por um lugar nas meias finais.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alemanha anuncia acordo com Klopp para selecionador",
-      "link": "https://observador.pt/2026/07/11/federacao-alema-anuncia-acordo-com-jurgen-klopp-para-selecionador/",
-      "pubDate": "Sat, 11 Jul 2026 21:11:06 +0100",
-      "description": "A Federação Alemã de Futebol (DFB) anunciou hoje ter chegado a acordo com Jürgen Klopp para que este assuma o cargo de selecionador da Mannschaft, mas ainda precisa da aprovação do grupo Red Bull.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11181621/47425553.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PJ detém suspeito de violação de ex-namorada",
-      "link": "https://observador.pt/2026/07/11/pj-detem-nos-acores-suspeito-de-violacao-e-violencia-domestica-contra-ex-namorada/",
-      "pubDate": "Sat, 11 Jul 2026 21:05:23 +0100",
-      "description": "Homem de 27 anos introduziu-se em casa da vítima de forma ilegítima e atacou-a. Foi detido na mesma madrugada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1968:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16165120/gettyimages-2227549546.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fernando Pimenta vence K1 1.000 da Taça do Mundo de Montreal",
-      "link": "https://observador.pt/2026/07/11/fernando-pimenta-vence-k1-1-000-da-taca-do-mundo-de-montreal/",
-      "pubDate": "Sat, 11 Jul 2026 20:55:44 +0100",
-      "description": "\"Quando olho para o lado vejo medalhados em Jogos Olímpicos, Mundiais e Europeus e foi uma boa luta contra estes gigantes da nossa modalidade\", considerou o atleta português depois da vitória.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:114/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/23103040/45290885.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "FC Porto arranca com empate à porta fechada",
+      "link": "https://www.rtp.pt/noticias/fc-porto/fc-porto-arranca-com-empate_d1752775",
+      "pubDate": "Sun, 12 Jul 2026 00:06:49 +0100",
+      "description": "O FC Porto empatou com os escoceses do Hibernian por 1-1, no seu primeiro jogo de pré-temporada, disputado à porta fechada, divulgaram os campeões portugueses.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca8748960ecf8fcc694e3371a38ef7c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Livre acusa ministro da Educação de ser \"negacionista do caos dos exames\"",
-      "link": "https://www.rtp.pt/noticias/pais/livre-acusa-ministro-da-educacao-de-ser-negacionista-do-caos-dos-exames_n1752767",
-      "pubDate": "Sat, 11 Jul 2026 22:50:03 +0100",
-      "description": "A deputada do Livre Filipa Pinto acusou hoje o ministro da Educação de ser &quot;negacionista do caos dos exames&quot; nacionais e pediu a Fernando Alexandre que assuma &quot;as suas responsabilidades políticas&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Benfica perde primeiro jogo da pré-época",
+      "link": "https://www.rtp.pt/noticias/benfica/benfica-perde-primeiro-jogo-da-pre-epoca_d1752774",
+      "pubDate": "Sun, 12 Jul 2026 00:03:17 +0100",
+      "description": "O Benfica perdeu hoje por 2-1 com o Flamengo no primeiro jogo com público na era Marco Silva, encontro de preparação, no Troféu do Algarve, disputado em Faro.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf68c9338bfc1f3c00b899525049fe8e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Livre vai insistir em propostas para limitar publicidade a jogo `online`",
-      "link": "https://www.rtp.pt/noticias/economia/livre-vai-insistir-em-propostas-para-limitar-publicidade-a-jogo-online_n1752769",
-      "pubDate": "Sat, 11 Jul 2026 22:49:45 +0100",
-      "description": "A líder parlamentar do Livre, Isabel Mendes Lopes, anunciou hoje que o partido vai voltar a apresentar iniciativas no Parlamento para limitar a publicidade ao jogo e apostas `online`.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "22h Benfica perde no Algarve por 2-1 frente aos brasileiros do Flamengo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-benfica-perde-no-algarve-por-2-1-frente-aos-brasileiros-do-flamengo_a1_1752773",
+      "pubDate": "Sat, 11 Jul 2026 23:53:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Buraka Som Sistema celebram os 20 anos da banda no palco principal do NOS Alive",
-      "link": "https://www.rtp.pt/noticias/cultura/buraka-som-sistema-celebram-os-20-anos-da-banda-no-palco-principal-do-nos-alive_a1752770",
-      "pubDate": "Sat, 11 Jul 2026 22:40:58 +0100",
-      "description": "Branko, Riot, Kalaf, Conductor e Blaya celebram o aniversário de 20 anos da banda. Os Buraka Som Sistema são cabeça de cartaz no último dia do festival NOS Alive.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f3301b275192b9255908cf75fa36a33?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "21h Exames nacionais: FENPROF vai apresentar queixa na Procuradoria Geral da República",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-exames-nacionais-fenprof-vai-apresentar-queixa-na-procuradoria-geral-da-republica_a1_1752772",
+      "pubDate": "Sat, 11 Jul 2026 23:49:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ataques russos na Ucrânia fazem sete mortos e dezenas de feridos",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataques-russos-na-ucrania-fazem-sete-mortos-e-dezenas-de-feridos_n1752768",
-      "pubDate": "Sat, 11 Jul 2026 22:27:37 +0100",
-      "description": "O presidente ucraniano quer alterar a ação diplomática para acelerar o fornecimento de armas e garantir a execução imediata dos pacotes de ajuda ocidental.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0fc4b479035600bd5d9cb2fe060bb24c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "20h Venezuela, dados oficiais apontam para mais de 4300 vítimas mortais",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-venezuela-dados-oficiais-apontam-para-mais-de-4300-vitimas-mortais_a1_1752771",
+      "pubDate": "Sat, 11 Jul 2026 23:44:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Noruega - Inglaterra",
-      "link": "https://www.rtp.pt/noticias/desporto/noruega-inglaterra_e1752738",
-      "pubDate": "Sat, 11 Jul 2026 22:09:51 +0100",
-      "description": "As seleções da Noruega disputam a penúltima vaga nas meias-finais do Campeonato do Mundo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4af555e2798295f4b270af43175f665?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jardim e o desacato com o banco do Benfica: «Os cobardes fogem»",
+      "link": "https://maisfutebol.iol.pt/benfica/flamengo/jardim-e-o-desacato-com-o-banco-do-benfica-os-cobardes-fogem",
+      "pubDate": "Sat, 11 Jul 2026 22:51:00 +0100",
+      "description": "Benfica-Flamengo, 1-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a52a9bed34ef04b4f3f5f28/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Leonardo Jardim: «Fico feliz por Jorge Jesus ser o selecionador»",
+      "link": "https://maisfutebol.iol.pt/resultados/resultados-hoje/leonardo-jardim-fico-feliz-por-jorge-jesus-ser-o-selecionador",
+      "pubDate": "Sat, 11 Jul 2026 22:45:45 +0100",
+      "description": "Benfica-Flamengo, 1-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a1dfd81d34e28842c84b70f/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -119,7 +139,7 @@
       "link": "https://maisfutebol.iol.pt/benfica/flamengo/marco-silva-deixa-recado-para-dentro-benfica-tem-de-comecar-a-ser-benfica-de-vez",
       "pubDate": "Sat, 11 Jul 2026 21:54:00 +0100",
       "description": "Treinador do Benfica analisa derrota contra o Flamengo e fala sobre uma pré-época «diferente» e mais curta do que o normal",
-      "thumbnail": "https://img.iol.pt/image/id/6a480825d34e28842c85eb07/250"
+      "thumbnail": "https://img.iol.pt/image/id/6a52b6a7d34ef04b4f3f5f4d/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,24 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a52b0b8d34e511da0b2cb72/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica-Flamengo, 1-2 (destaques)",
-      "link": "https://maisfutebol.iol.pt/benfica/resultados/benfica-flamengo-1-2-destaques",
-      "pubDate": "Sat, 11 Jul 2026 21:52:14 +0100",
-      "description": "Lenglet q.b, Umeh e pouco Kaminski",
-      "thumbnail": "https://img.iol.pt/image/id/6a52a9bfd34e511da0b2cb5b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Samuel Lino: «Prestianni? O que aconteceu com Vinicius não nos diz respeito»",
-      "link": "https://maisfutebol.iol.pt/benfica/flamengo/samuel-lino-prestianni-o-que-aconteceu-com-vinicius-nao-nos-diz-respeito",
-      "pubDate": "Sat, 11 Jul 2026 21:47:00 +0100",
-      "description": "Avançado do Flamengo mostrou-se feliz pela vitória",
-      "thumbnail": "https://img.iol.pt/image/id/6a52a04bd34ef04b4f3f5f12/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Exames nacionais. Fenprof vai avançar com queixa na PGR",
+      "link": "https://sapo.pt/artigo/exames-nacionais-fenprof-vai-avancar-com-queixa-na-pgr-6a52b53e1d07e0c61ccd98ad",
+      "pubDate": "Sat, 11 Jul 2026 21:34:34 +0000",
+      "description": "A Fenprof vai apresentar uma queixa na Procuradoria-Geral da República para pedir a abertura de um inquérito ao processo de classificação eletrónica dos exames nacionais do ensino secundário. A federação aponta falhas na plataforma digital e pede...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AMOvTnh0227gG0gPtKDSStAIO7Xp0VqUPR8ZBZYeQvL%2BK7APXw5X4FDXBY99ILlejgDU7UGMCQ5KeFeKs4rL1DE%2B3TXX8rCr6kLHiyOrt92STzSeQgAHbXlPT%2BHlB%2Bdsg"
     },
     {
       "sourceId": "sapo",
@@ -175,16 +185,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "\"Professores não estão à venda\", diz José Luís Carneiro",
-      "link": "https://sapo.pt/artigo/montenegro-esta-a-trabalhar-para-ser-um-dos-piores-primeiros-ministros-desde-o-25-de-abril-diz-carneiro-6a52518a93000f7db6dbe2b5",
-      "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
-      "description": "Líder do PS acusou o primeiro-ministro de estar ausente nos incêndios e no processo dos exames do secundário e que \"está a trabalhar para ser um dos piores primeiros-ministros desde o 25 de Abril\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A1UFjMxzL4cEFRFrR%2Bgz%2BtxsCqfPiLvvSnA1A6Hsu1Xx0uE%2BaT%2F2WWcICdvUCN0za0Gyg%2FD6moVDWwA9g5vp0As0dwBKbS29j4YhBP8a3HyoMPCbR53jJXq7M4%2BJGjPMG"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "PSP alerta para aumento de burlas com falsos funcionários bancários após 24 casos registados num só dia",
       "link": "https://sapo.pt/artigo/psp-alerta-para-aumento-de-burlas-com-falsos-funcionarios-bancarios-apos-24-casos-registados-num-so-dia-6a5253e476b0389efa5b5adc",
       "pubDate": "Sat, 11 Jul 2026 15:19:12 +0000",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "GNR apreende 3 toneladas de cocaína em Olhão. Suspeitos fugiram a pé",
-      "link": "https://www.noticiasaominuto.com/pais/3020156/gnr-apreende-3-toneladas-de-cocaina-em-olhao-suspeitos-fugiram-a-pe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 22:10:41",
+      "title": "Mark Consuelos sentiu a \"presença\" do falecido pai em jogo do México",
+      "link": "https://www.noticiasaominuto.com/fama/3017831/mark-consuelos-sentiu-a-presenca-do-falecido-pai-em-jogo-do-mexico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 23:01:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5c876aa005a90.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d032a36424.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAwLCJjcm9wSGVpZ2h0IjoxNDA2LCJjcm9wWCI6NDgsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6ODg3LCJjcm9wWSI6NDZ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Noruega e Inglaterra já jogam, antes do Argentina-Suíça",
-      "link": "https://www.noticiasaominuto.com/desporto/3020110/em-direto-noruega-e-inglaterra-medem-forcas-antes-do-argentina-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 22:01:55",
+      "title": "Oficial: Ponta de lança João Lima assina pelo Tondela até 2028",
+      "link": "https://www.noticiasaominuto.com/desporto/3020141/oficial-ponta-de-lanca-joao-lima-assina-pelo-tondela-ate-2028#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 22:55:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5277bf50771.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52bba63b18d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDY2LCJjcm9wSGVpZ2h0Ijo2MDAsImNyb3BYIjoxNCwiY3JvcFkiOjU4fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FC Porto empata com o Hibernian no primeiro desafio da pré-época",
-      "link": "https://www.noticiasaominuto.com/desporto/3020154/fc-porto-empata-com-o-hibernian-no-primeiro-desafio-da-pre-epoca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 21:56:25",
+      "title": "Farense empata em jogo particular com ingleses do Middlesbrough",
+      "link": "https://www.noticiasaominuto.com/desporto/3020142/farense-empata-em-jogo-particular-com-ingleses-do-middlesbrough#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 22:54:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52adc448baa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OSwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjUxNCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52bacfe61a6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODI1LCJjcm9wSGVpZ2h0IjoxMDI3LCJjcm9wWCI6MCwiY3JvcFkiOjQwM319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ambiente ferveu no Benfica-Flamengo. Prestianni vaiado e bancos explodem",
-      "link": "https://www.noticiasaominuto.com/desporto/3020153/ambiente-ferveu-no-benfica-flamengo-prestianni-vaiado-e-bancos-explodem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 21:52:11",
+      "title": "Paolo Maldini nomeado diretor técnico da federação italiana de futebol",
+      "link": "https://www.noticiasaominuto.com/desporto/3020162/paolo-maldini-nomeado-diretor-tecnico-da-federacao-italiana-de-futebol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 22:47:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52acdae00c8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_647f55e54b595.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fenprof fará queixa na PGR para pedir inquérito à classificação de exames",
-      "link": "https://www.noticiasaominuto.com/pais/3020152/fenprof-fara-queixa-na-pgr-para-pedir-inquerito-a-classificacao-de-exames#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 21:46:09",
+      "title": "Sporting já está em Lagos para o estágio e levou estes 31 jogadores",
+      "link": "https://www.noticiasaominuto.com/desporto/3020160/sporting-ja-esta-em-lagos-para-o-estagio-e-levou-estes-31-jogadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 22:46:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47428366.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo2NTgsImNyb3BZIjoxMzF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52b69a66391.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Mole: a ferramenta gratuita que promete limpar, otimizar e monitorizar o macOS",
+      "link": "https://pplware.sapo.pt/apple/mole-a-ferramenta-gratuita-que-promete-limpar-otimizar-e-monitorizar-o-macos/",
+      "pubDate": "Sat, 11 Jul 2026 21:21:39 +0000",
+      "description": "Manter um Mac rápido e organizado nem sempre é uma tarefa simples. Com o passar do tempo, o sistema acumula ficheiros temporários, caches, registos e aplicações que deixam “vestígios” mesmo depois de serem removidas.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/mole_macos00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 11 Jul 2026 18:30:30 +0000",
       "description": "A partilha de informação é um dos pilares da cibersegurança. Empresas, organismos públicos, equipas de resposta a incidentes (CSIRT), fabricantes de software e investigadores partilham diariamente indicadores de compromisso (IoC), vulnerabilidades, técnicas de ataque&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/semaforo_01.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Ghost Keeper: quem disse que o terror não pode ser estratégico",
-      "link": "https://pplware.sapo.pt/jogos/ghost-keeper-quem-disse-que-o-terror-nao-pode-ser-estrategico/",
-      "pubDate": "Sat, 11 Jul 2026 18:00:39 +0000",
-      "description": "Após um período de Acesso Antecipado marcado por forte contributo da comunidade, Ghost Keeper prepara-se para o seu lançamento oficial. Trata-se de um jogo de estratégia tática que envolve fantasmas, demónios e outras criaturas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/GhostKeeper_1.jpg"
     },
     {
       "sourceId": "autosport",
