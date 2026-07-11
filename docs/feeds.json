@@ -1,93 +1,83 @@
 {
-  "updated": "2026-07-11T12:31:17.039628+00:00",
+  "updated": "2026-07-11T14:20:09.925855+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Portugal terá de fazer grande esforço de adaptação ao calor",
-      "link": "https://observador.pt/2026/07/11/portugal-tera-de-fazer-grande-esforco-para-adaptar-edificios-e-espacos-publicos-ao-calor-extremo/",
-      "pubDate": "Sat, 11 Jul 2026 13:20:38 +0100",
-      "description": "Nuno Sampaio, diretor executivo da Casa da Arquitetura, propõe eliminar estacionamento para criar zonas com árvores, sombras nos passeios e áreas de descanso ao ar livre.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02190712/gettyimages-2283725600-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h. Exames: \"pagamento de horas é patético\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2382/",
-      "pubDate": "Sat, 11 Jul 2026 13:14:23 +0100",
-      "description": "Fenprof considera \"patético\" pagamento de horas a professores por causa dos exames. Sebastião Bugalho recusa contradição com grupo parlamentar sobre imigração.",
+      "title": "As notícias das 15h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2392/",
+      "pubDate": "Sat, 11 Jul 2026 15:14:06 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "PJ detém mulher suspeita de matar o marido no Seixal",
-      "link": "https://observador.pt/2026/07/11/pj-detem-mulher-suspeita-de-matar-o-marido-no-seixal/",
-      "pubDate": "Sat, 11 Jul 2026 13:12:35 +0100",
-      "description": "Uma mulher de 54 anos foi detida pela Polícia Judiciária \"fortemente indiciada\" por homicídio qualificado, na forma consumada, que vitimou o seu marido, de 57 anos, no concelho do Seixal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25005602/ilacerda-quadros-penalva-do-castelo10-scaled.jpg"
+      "title": "Cortes noturnos de água vão afetar 10 localidades e bairros",
+      "link": "https://observador.pt/2026/07/11/cortes-noturnos-de-agua-vao-afetar-dez-localidades-e-bairros-de-almada/",
+      "pubDate": "Sat, 11 Jul 2026 15:05:03 +0100",
+      "description": "Onze zonas do concelho de Almada vão ficar sem água a partir das 22:00 deste sábado e até às 06:00 de domingo, no âmbito das medidas da Câmara Municipal para restabelecer reservas de água.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11142327/47443869.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Air Force One. Jornalistas do New York Times intimados",
-      "link": "https://observador.pt/2026/07/11/the-new-york-times-acusa-trump-de-intimidacao-apos-jornalistas-que-revelaram-falhas-de-seguranca-no-air-force-one-serem-intimados-a-depor/",
-      "pubDate": "Sat, 11 Jul 2026 12:55:20 +0100",
-      "description": "Quatro jornalistas terão de testemunhar perante um grande juiz federal em Manhattan esta quarta-feira, após revelarem que o avião oficial da presidência não tinha proteção contra mísseis.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19224955/gettyimages-2281811371-scaled.jpg"
+      "title": "Dia 31 do Mundial-2026",
+      "link": "https://observador.pt/liveblogs/dia-31-do-mundial-2026-jogador-da-selecao-sul-africana-morre-aos-25-anos/",
+      "pubDate": "Sat, 11 Jul 2026 14:49:06 +0100",
+      "description": "Para mais um dia de Campeonato do Mundo, está reservado um encontro entre Noruega e Inglaterra (22h), a valer um lugar nas meias-finais. Às 2h, Argentina e Suíça disputam outro lugar na mesma fase.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:409/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11144155/gettyimages-2284691978-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Amália alucina em versão chatbot (que não é suposto ser)",
-      "link": "https://observador.pt/especiais/alucinacoes-do-modelo-amalia-dao-que-falar-mas-o-llm-portugues-nao-foi-feito-para-ser-um-chatbot-mostram-vontade-de-experimentar/",
-      "pubDate": "Sat, 11 Jul 2026 12:24:10 +0100",
-      "description": "Lançado há uma semana, uma versão do modelo adaptada a chatbot dá respostas inusitadas. Mas esse não é o objetivo do modelo português, que ainda dá os primeiros passos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2497:1407:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01171817/ts154a6163.jpg"
+      "title": "França detém 32 suspeitos de provocar incêndios",
+      "link": "https://observador.pt/2026/07/11/franca-atribui-nove-em-cada-dez-incendios-a-acao-humana-e-detem-32-suspeitos/",
+      "pubDate": "Sat, 11 Jul 2026 14:40:12 +0100",
+      "description": "As autoridades francesas detiveram 32 suspeitos de provocar incêndios florestais desde o início do verão. Macron recordou que \"nove em cada dez incêndios têm origem humana\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11134956/47392451.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Philip Roth e um mui respeitável seio",
+      "link": "https://observador.pt/2026/07/11/philip-roth-e-um-mui-respeitavel-seio/",
+      "pubDate": "Sat, 11 Jul 2026 14:36:23 +0100",
+      "description": "Este pequeno livro kafkiano de 1972 está longe do brilhantismo de outras obras rothianas. Mas isso talvez valesse também para a quase totalidade da ficção do último século.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3034:1706:nowe:0:171/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/22164019/gettyimages-50396465.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Níveis de alerta sismo vulcânicos na ilha Terceira baixam para V1",
-      "link": "https://www.rtp.pt/noticias/pais/niveis-de-alerta-sismo-vulcanicos-na-ilha-terceira-baixam-para-v1_n1752699",
-      "pubDate": "Sat, 11 Jul 2026 14:15:27 +0100",
-      "description": "Ponta Delgada, Açores, 11 jul 2026 (Lusa) -- Os níveis de alerta do Vulcão de Santa Bárbara e do Sistema Vulcânico Fissural Oeste, na ilha Terceira, nos Açores, baixaram para V1 (sistema vulcânico em fase de equilíbrio metaestável), foi divulgado.",
+      "title": "Anafre exige resposta sobre verbas da tempestade que não chegaram às freguesias",
+      "link": "https://www.rtp.pt/noticias/economia/anafre-exige-resposta-sobre-verbas-da-tempestade-que-nao-chegaram-as-freguesias_n1752725",
+      "pubDate": "Sat, 11 Jul 2026 16:14:18 +0100",
+      "description": "A Associação Nacional de Freguesias (Anafre) vai exigir uma resposta sobre verbas destinadas a danos da tempestade Kristin que ainda não chegaram às freguesias e exige que estas autarquias locais não sejam reféns dos municípios, disse hoje o presidente.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Congresso Livre. Tavares diz que ser porta-voz foi \"enorme privilégio\" e critica \"ideias desumanas\" do Governo",
-      "link": "https://www.rtp.pt/noticias/politica/congresso-livre-tavares-diz-que-ser-porta-voz-foi-enorme-privilegio-e-critica-ideias-desumanas-do-governo_n1752706",
-      "pubDate": "Sat, 11 Jul 2026 14:11:54 +0100",
-      "description": "O porta-voz cessante do Livre disse hoje que foi &quot;um enorme privilégio&quot; ocupar este cargo, em dupla, acusou o Governo de &quot;ideias desumanas&quot; e insurgiu-se contra a revisão constitucional à direita.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Venezuela. Sobe para 110 número de portugueses e lusodescendentes mortos",
+      "link": "https://www.rtp.pt/noticias/lusa/venezuela-sobe-para-110-numero-de-portugueses-e-lusodescendentes-mortos_n1752726",
+      "pubDate": "Sat, 11 Jul 2026 16:08:34 +0100",
+      "description": "O número de cidadãos portugueses e lusodescendentes que morreram no duplo sismo que atingiu a Venezuela em 24 de junho aumentou para 110 e há 55 desaparecidos, anunciou hoje o Ministério dos Negócios Estrangeiros (MNE).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/9254274507e62ad9ef9d2297fd565eda?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Congresso Livre. Jorge Pinto diz que partido é \"o futuro da esquerda\"",
-      "link": "https://www.rtp.pt/noticias/politica/congresso-livre-jorge-pinto-diz-que-partido-e-o-futuro-da-esquerda_n1752707",
-      "pubDate": "Sat, 11 Jul 2026 14:06:09 +0100",
-      "description": "O deputado e candidato a porta-voz do Livre, Jorge Pinto, defendeu hoje que o partido &quot;é o futuro da esquerda&quot; e acusou o PS de &quot;passar cheques em branco&quot; ao Governo, avisando que não o fará.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "12h Exames: Professores vão receber horas extraordinárias",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-exames-professores-vao-receber-horas-extraordinarias_a1_1752708",
-      "pubDate": "Sat, 11 Jul 2026 13:41:01 +0100",
+      "title": "14h MECI garante que as respostas incompletas nos exames não estão a ser avaliadas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-meci-garante-que-as-respostas-incompletas-nos-exames-nao-estao-a-ser-avaliadas_a1_1752723",
+      "pubDate": "Sat, 11 Jul 2026 15:25:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,61 +85,71 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Tufão Bavi aproxima-se da China depois de passar pelo Japão e Taiwan",
-      "link": "https://www.rtp.pt/noticias/mundo/tufao-bavi-aproxima-se-da-china-depois-de-passar-pelo-japao-e-taiwan_n1752697",
-      "pubDate": "Sat, 11 Jul 2026 13:01:43 +0100",
-      "description": "A China retirou mais de 1,8 milhões de pessoas este sábado, à medida que o tufão Bavi se aproximava da importante cidade de Wenzhou, no leste do país, depois de ter atingido o arquipélago de Sakishima, no sul do Japão, com chuvas fortes e ventos violentos e de ter passado perto do norte de Taiwan.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca9f0ced2ba1fedc8b8bbbffeb8343ba?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+      "title": "Foo Fighters e sueca Zara Larsson no Nos Alive",
+      "link": "https://www.rtp.pt/noticias/cultura/foo-fighters-e-sueca-zara-larsson-no-nos-alive_v1752721",
+      "pubDate": "Sat, 11 Jul 2026 15:23:47 +0100",
+      "description": "Em dia de lotação esgotada, 60 mil pessoas estiveram ontem no Nos Alive. Os Foo Fighters foram os cabeça de cartaz e a sueca Zara Larsson terminou a noite com um concerto pop.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0b/0b669f5392e55f145cbacdeb3edbae5d_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Pedro Abrunhosa em concerto solidário",
+      "link": "https://www.rtp.pt/noticias/cultura/pedro-abrunhosa-em-concerto-solidario_v1752720",
+      "pubDate": "Sat, 11 Jul 2026 15:21:47 +0100",
+      "description": "Pedro Abrunhosa e a Orquestra Sinfónica do Porto Casa da Música juntaram-se num concerto de apoio a instituições culturais afetadas pela Tempestade Kristin. Este domingo, na Casa da Música, a solidariedade manifesta-se com as canções mais marcantes da carreira do músico.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/5d/5d3806795adbc68db24618ee7442420a_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hjulmand e o Atl. Madrid: «Quero aprender a língua o mais rapidamente possível»",
-      "link": "https://maisfutebol.iol.pt/espanha/morten-hjulmand/hjulmand-e-o-atl-madrid-quero-aprender-a-lingua-o-mais-rapidamente-possivel",
-      "pubDate": "Sat, 11 Jul 2026 13:09:31 +0100",
-      "description": "Ex-capitão do Sporting fala sobre mudança para «um grande clube»",
-      "thumbnail": "https://img.iol.pt/image/id/6a523209d34ef04b4f3f5e20/250"
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Sat, 11 Jul 2026 14:58:00 +0100",
+      "description": "Clubes já estão a preparar a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: até o presidente da Câmara de Kansas City entrou na festa da Argentina",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/argentina/video-ate-o-presidente-da-camara-de-kansas-city-entrou-na-festa-da-argentina",
-      "pubDate": "Sat, 11 Jul 2026 12:54:25 +0100",
-      "description": "Quinton Lucas juntou-se aos milhares de adeptos da «albiceleste»",
-      "thumbnail": "https://img.iol.pt/image/id/6a522ec3d34ef04b4f3f5e1b/250"
+      "title": "Casa Pia vence Sporting B no primeiro teste da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/casa-pia/jogo-de-preparacao/casa-pia-vence-sporting-b-no-primeiro-teste-da-pre-temporada",
+      "pubDate": "Sat, 11 Jul 2026 14:56:00 +0100",
+      "description": "Equipa de Filipe Coelho bateu os leões por 2-1 em Alcochete",
+      "thumbnail": "https://img.iol.pt/image/id/6a524b7cd34ef04b4f3f5e3a/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Tondela: sócios reelegem Gilberto Coimbra e aprovam contas por unanimidade",
-      "link": "https://maisfutebol.iol.pt/tondela/gilberto-coimbra/socios-do-tondela-reelegem-gilberto-coimbra-como-presidente-e-aprovam-contas-de-2025-por-unanimidade",
-      "pubDate": "Sat, 11 Jul 2026 11:58:00 +0100",
-      "description": "Presidente do clube beirão pediu novos candidatos, porque «está na hora de ser substituído»",
-      "thumbnail": "https://img.iol.pt/image/id/69bfd0cdd34e28842c8208c4/250"
+      "title": "Parsemain estreia-se em grande e lidera goleada do Moreirense",
+      "link": "https://maisfutebol.iol.pt/moreirense/pre-epoca/parsemain-estreia-se-em-grande-e-lidera-goleada-do-moreirense",
+      "pubDate": "Sat, 11 Jul 2026 14:37:42 +0100",
+      "description": "Reforço francês marcou três golos no primeiro jogo de preparação dos cónegos frente à equipa sub-23",
+      "thumbnail": "https://img.iol.pt/image/id/6a5246f3d34e511da0b2ca76/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "NBA: Wembanyama renova pelos Spurs, Timberwolves agitam mercado com LaMelo Ball",
-      "link": "https://maisfutebol.iol.pt/nba/basquetebol/nba-wembanyama-renova-pelos-spurs-timberwolves-agitam-mercado-com-lamelo-ball",
-      "pubDate": "Sat, 11 Jul 2026 11:43:46 +0100",
-      "description": "Francês assina o maior contrato da história de San Antonio, enquanto Minnesota protagoniza troca a quatro equipas que leva Ball e Josh Green para a equipa",
-      "thumbnail": "https://img.iol.pt/image/id/65d9c48ad34e87e0c08a04c9/250"
+      "title": "Atenção, Benfica: St. Gallen goleado pelo Lyon em jogo de preparação",
+      "link": "https://maisfutebol.iol.pt/pre-epoca/st-gallen/atencao-benfica-st-gallen-goleado-pelo-lyon-em-jogo-de-preparacao",
+      "pubDate": "Sat, 11 Jul 2026 14:13:02 +0100",
+      "description": "Conjunto suíço é o adversário das águias na segunda pré-eliminatória da Liga Europa",
+      "thumbnail": "https://img.iol.pt/image/id/6a524128d34e511da0b2ca67/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: a resposta inspiradora do Ministério da Defesa do Reino Unido à «remada viking»",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/inglaterra/video-a-resposta-inspiradora-do-ministerio-da-defesa-do-reino-unido-a-remada-viking",
-      "pubDate": "Sat, 11 Jul 2026 11:16:10 +0100",
-      "description": "Inglaterra e Noruega disputam um lugar nas meias-finais do Mundial de 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a4b0e85d34edcee7c661769/250"
+      "title": "Morreu Jayden Adams, internacional sul-africano que esteve no Mundial 2026",
+      "link": "https://maisfutebol.iol.pt/luto/obito/morreu-jayden-adams-internacional-sul-africano-que-esteve-no-mundial-2026",
+      "pubDate": "Sat, 11 Jul 2026 14:06:57 +0100",
+      "description": "Médio dos Mamelodi Sundowns tinha 25 anos",
+      "thumbnail": "https://img.iol.pt/image/id/6a523fb6d34e511da0b2ca62/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Hamas denuncia aumento de ataques de colonos na Cisjordânia",
-      "link": "https://www.noticiasaominuto.com/mundo/3020034/hamas-denuncia-aumento-de-ataques-de-colonos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 13:16:52",
+      "title": "N.º de portugueses e lusodescendentes mortos na Venezuela sobe para 110",
+      "link": "https://www.noticiasaominuto.com/mundo/3020070/n-de-portugueses-e-lusodescendentes-mortos-na-venezuela-sobe-para-110#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 15:07:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6794aa7d30bf9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47436504.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bacalhau com abóbora e couve-de-bruxelas: A receita é de Haaland",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3018572/bacalhau-com-abobora-e-couve-de-bruxelas-a-receita-e-de-haaland#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 13:03:37",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3019956/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 15:00:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5233803d411.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjU2LCJjcm9wWSI6MjczfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a51e7afb63fe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoxNiwiY3JvcFkiOjExN319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Google Tradutor. As 7 melhores opções que (provavelmente) não conhece",
-      "link": "https://www.noticiasaominuto.com/tech/3018598/google-tradutor-as-7-melhores-opcoes-que-provavelmente-nao-conhece#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 13:00:00",
+      "title": "Esta ex-concorrente do \"Big Brother\" comprou a quinta casa e \"a pronto\"",
+      "link": "https://www.noticiasaominuto.com/fama/3017646/esta-ex-concorrente-do-big-brother-comprou-a-quinta-casa-e-a-pronto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 15:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63e4cc517b7e9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTIsImNyb3BZIjoxNjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NCwiY3JvcEhlaWdodCI6MTY3OSwiY3JvcFgiOjc3NiwiY3JvcFkiOjE1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a510210989e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDY2LCJjcm9wSGVpZ2h0Ijo1OTksImNyb3BYIjo2LCJjcm9wWSI6MTU1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Filho de Ricky e Daniela Faria do \"BB Famosos\" já tem 21 anos e há fotos",
-      "link": "https://www.noticiasaominuto.com/fama/3017053/filho-de-ricky-e-daniela-faria-do-bb-famosos-ja-tem-21-anos-e-ha-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 13:00:00",
+      "title": "Anafre exige resposta sobre verbas da tempestade que não chegaram",
+      "link": "https://www.noticiasaominuto.com/pais/3020068/anafre-exige-resposta-sobre-verbas-da-tempestade-que-nao-chegaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 14:57:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4b7c1258a1d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MjAsImNyb3BIZWlnaHQiOjM0OCwiY3JvcFgiOjcsImNyb3BZIjoyMDh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46556700.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Cristiano Ronaldo? Se há alguém capaz de tomar esta decisão, é Jesus\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3020026/se-ha-alguem-capaz-de-afastar-cristiano-ronaldo-e-jorge-jesus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:58:34",
+      "title": "Após suspensão, retomadas visitas nas Urgências do Hospital do Funchal",
+      "link": "https://www.noticiasaominuto.com/pais/3020066/apos-suspensao-retomadas-visitas-nas-urgencias-do-hospital-do-funchal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 14:54:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5228a771f08.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6570ab4d2601a.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Windows 10 ainda recebe funcionalidades do Windows 11, mas só para alguns",
+      "link": "https://pplware.sapo.pt/microsoft/windows/windows-10-ainda-recebe-funcionalidades-do-windows-11-mas-so-para-alguns/",
+      "pubDate": "Sat, 11 Jul 2026 14:00:55 +0000",
+      "description": "O fim do Windows 10 foi declarado e acontecia a um ritmo abaixo do esperado. A Microsoft contribui para isso e agora dá mais um passo considerado contraditório. Em vez de terminar de vez&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/03/windows_10_capa.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Disney+ pode lançar subscrição gratuita para competir com o YouTube",
+      "link": "https://pplware.sapo.pt/internet/disney-pode-lancar-subscricao-gratuita-para-competir-com-o-youtube/",
+      "pubDate": "Sat, 11 Jul 2026 13:00:20 +0000",
+      "description": "A pouco a pouco as plataformas de streaming estão a tornar-se o padrão. Para reforçar isso, surgem rumores que o Disney+ está a considerar lançar uma subscrição gratuita com anúncios para conter o crescimento&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/04/disney_plus_password_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,31 +302,21 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/reflect-orbital00-1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Manuais escolares gratuitos (MEGA): já há datas para vouchers",
-      "link": "https://pplware.sapo.pt/informacao/manuais-escolares-gratuitos-mega-ja-ha-datas-para-vouchers/",
-      "pubDate": "Sat, 11 Jul 2026 09:00:24 +0000",
-      "description": "As famílias já podem começar a preparar o regresso às aulas. Foram divulgadas as datas para a emissão dos vouchers do programa MEGA (Manuais Escolares Gratuitos), que permitem levantar gratuitamente os manuais escolares dos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Mega_x01.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Portugal cria grafeno que pode tornar drones e aviões quase invisíveis aos radares",
-      "link": "https://pplware.sapo.pt/ciencia/portugal-cria-grafeno-que-pode-tornar-drones-e-avioes-quase-invisiveis-aos-radares/",
-      "pubDate": "Sat, 11 Jul 2026 08:00:11 +0000",
-      "description": "Portugal poderá estar prestes a assumir um papel de destaque no desenvolvimento de tecnologia stealth. Uma equipa nacional criou um material inovador à base de grafeno capaz de absorver ondas de radar, reduzindo significativamente&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/grafeno_portugal00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPV, Vila Real/Qualificação 2 GT4: Pedro Salvador na frente em sessão interrompida devido a acidente",
+      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-qualificacao-2-gt4-pedro-salvador-na-frente-em-sessao-interrompida-devido-a-acidente/",
+      "pubDate": "Sat, 11 Jul 2026 12:38:00 +0000",
+      "description": "Na segunda qualificação, Pedro Salvador (Speedy Motorsport/Toyota GR Supra GT4 EVO2) foi para a frente a cerca de sete minutos do fim da sessão, bateu Francisco Abreu (Toyota Gazoo Racing Caetano Portugal/Toyota GR Supra GT4 EVO2) por 0.332s com Patrick Cunha (Veloso Motorsport/Audi R8 LMS GT4) em t",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
       "title": "CPV, Vila Real/Qualificação 1 GT4: Francisco Mora bem na frente",
-      "link": "https://www.autosport.pt/sem-categoria/cpv-vila-real-qualificacao-1-gt4-francisco-mora-bem-na-frente/",
+      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-qualificacao-1-gt4-francisco-mora-bem-na-frente/",
       "pubDate": "Sat, 11 Jul 2026 12:19:34 +0000",
       "description": "Nos GT4, César Machado (Speedy Motorsport/Toyota GR Supra GT4 EVO2) foi cedo para a frente com 2:13.525, mas ainda muito longe dos tempos ‘normais’ com Francisco Mora a prová-lo com o piloto da Toyota Gazoo Racing Caetano Portugal a colocar o seu Toyota GR Supra GT4 EVO2 na frente com 2:01.266, 0.79",
       "thumbnail": ""
@@ -326,7 +336,7 @@
       "sourceName": "Autosport",
       "color": "#f0c040",
       "title": "CPV, Vila Real: Volta ‘canhão’ para Daniel Teixeira (Hyundai Elantra N TCR) nos GTX e TC na Qualificação 1",
-      "link": "https://www.autosport.pt/sem-categoria/cpv-vila-real-volta-canhao-para-daniel-teixeira-hyundai-elantra-n-tcr-nos-gtx-e-tc-na-qualificacao-1/",
+      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-volta-canhao-para-daniel-teixeira-hyundai-elantra-n-tcr-nos-gtx-e-tc-na-qualificacao-1/",
       "pubDate": "Sat, 11 Jul 2026 11:30:00 +0000",
       "description": "A primeira qualificação do Campeonato de Portugal de Velocidade, GTC e TC foi interrompida quando faltavam cerca de nove minutos para o fim da sessão devido ao acidente de Pompeu Simões, piloto da Speedy Motorsport que bateu com o seu Porsche 718 Cayman GT4 CS. A par com outro incidente noutra zona ",
       "thumbnail": ""
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/ralis/wrc-sami-pajari-recupera-e-foca-se-na-estonia-e-finlandia-os-meus-dois-ralis-favoritos/",
       "pubDate": "Sat, 11 Jul 2026 11:21:00 +0000",
       "description": "Sami Pajari, piloto da Toyota Gazoo Racing, garantiu o quarto lugar final no Rali da Acrópole, na Grécia, após uma forte recuperação no último dia da prova. Com este resultado, o jovem de 24 anos consolidou a quarta posição no Campeonato Mundial de Ralis antes de enfrentar as duas jornadas seguintes",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPVL, Vila Real: Luís Barros sem concorrência na frente, grandes lutas mais atrás",
-      "link": "https://www.autosport.pt/velocidade/cpvl-vila-real-luis-barros-sem-concorrencia-na-frente-grandes-lutas-mais-atras/",
-      "pubDate": "Sat, 11 Jul 2026 10:47:56 +0000",
-      "description": "Luís Barros (Ford Sierra RS 500) venceu à geral a primeira e atribulada corrida do CPVL, em Vila Real, prova que teve um final prematuro, devido a vários incidentes que foram acontecendo ao longo da corrida que viu duas bandeiras vermelhas. Barros protagonizou um arranque perfeito e não perdeu tempo",
       "thumbnail": ""
     }
   ]
