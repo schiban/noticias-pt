@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-11T11:28:59.504835+00:00",
+  "updated": "2026-07-11T12:31:17.039628+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Portugal terá de fazer grande esforço de adaptação ao calor",
+      "link": "https://observador.pt/2026/07/11/portugal-tera-de-fazer-grande-esforco-para-adaptar-edificios-e-espacos-publicos-ao-calor-extremo/",
+      "pubDate": "Sat, 11 Jul 2026 13:20:38 +0100",
+      "description": "Nuno Sampaio, diretor executivo da Casa da Arquitetura, propõe eliminar estacionamento para criar zonas com árvores, sombras nos passeios e áreas de descanso ao ar livre.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02190712/gettyimages-2283725600-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h. Exames: \"pagamento de horas é patético\"",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2382/",
+      "pubDate": "Sat, 11 Jul 2026 13:14:23 +0100",
+      "description": "Fenprof considera \"patético\" pagamento de horas a professores por causa dos exames. Sebastião Bugalho recusa contradição com grupo parlamentar sobre imigração.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PJ detém mulher suspeita de matar o marido no Seixal",
+      "link": "https://observador.pt/2026/07/11/pj-detem-mulher-suspeita-de-matar-o-marido-no-seixal/",
+      "pubDate": "Sat, 11 Jul 2026 13:12:35 +0100",
+      "description": "Uma mulher de 54 anos foi detida pela Polícia Judiciária \"fortemente indiciada\" por homicídio qualificado, na forma consumada, que vitimou o seu marido, de 57 anos, no concelho do Seixal.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25005602/ilacerda-quadros-penalva-do-castelo10-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Air Force One. Jornalistas do New York Times intimados",
+      "link": "https://observador.pt/2026/07/11/the-new-york-times-acusa-trump-de-intimidacao-apos-jornalistas-que-revelaram-falhas-de-seguranca-no-air-force-one-serem-intimados-a-depor/",
+      "pubDate": "Sat, 11 Jul 2026 12:55:20 +0100",
+      "description": "Quatro jornalistas terão de testemunhar perante um grande juiz federal em Manhattan esta quarta-feira, após revelarem que o avião oficial da presidência não tinha proteção contra mísseis.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19224955/gettyimages-2281811371-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2497:1407:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01171817/ts154a6163.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Jesus no comando traz a fé que faltava aos portugueses?",
-      "link": "https://observador.pt/programas/e-o-campeao-e/jesus-no-comando-traz-a-fe-que-faltava-aos-portugueses/",
-      "pubDate": "Sat, 11 Jul 2026 12:12:42 +0100",
-      "description": "JJ assume a pasta de Martínez e pede uma seleção que jogue o dobro. Espanha está a beneficiar da sorte? \"Haaland mania\" quer levar a Noruega às meias, Suíça tenta surpreender Messi e companhia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Níveis de alerta sismo vulcânicos na ilha Terceira baixam para V1",
+      "link": "https://www.rtp.pt/noticias/pais/niveis-de-alerta-sismo-vulcanicos-na-ilha-terceira-baixam-para-v1_n1752699",
+      "pubDate": "Sat, 11 Jul 2026 14:15:27 +0100",
+      "description": "Ponta Delgada, Açores, 11 jul 2026 (Lusa) -- Os níveis de alerta do Vulcão de Santa Bárbara e do Sistema Vulcânico Fissural Oeste, na ilha Terceira, nos Açores, baixaram para V1 (sistema vulcânico em fase de equilíbrio metaestável), foi divulgado.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Uma versão enganadora da história: o mundo depois de 1945",
-      "link": "https://observador.pt/especiais/uma-versao-enganadora-da-historia-da-humanidade-parte-5-o-mundo-depois-de-1945/",
-      "pubDate": "Sat, 11 Jul 2026 12:08:42 +0100",
-      "description": "\"A Maldição de Golias\", de Luke Kemp, denuncia as falhas das democracias, revela que o capitalismo está onde menos se espera e olha com saudade para o tempo em que éramos mais felizes — e mais altos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2008:1132:nowe:652:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10120052/paul-gauguin-dou-venons-nous.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Congresso Livre. Tavares diz que ser porta-voz foi \"enorme privilégio\" e critica \"ideias desumanas\" do Governo",
+      "link": "https://www.rtp.pt/noticias/politica/congresso-livre-tavares-diz-que-ser-porta-voz-foi-enorme-privilegio-e-critica-ideias-desumanas-do-governo_n1752706",
+      "pubDate": "Sat, 11 Jul 2026 14:11:54 +0100",
+      "description": "O porta-voz cessante do Livre disse hoje que foi &quot;um enorme privilégio&quot; ocupar este cargo, em dupla, acusou o Governo de &quot;ideias desumanas&quot; e insurgiu-se contra a revisão constitucional à direita.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "12H. Governo vai pagar horas extra a professores",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2383/",
-      "pubDate": "Sat, 11 Jul 2026 12:04:35 +0100",
-      "description": "Sebastião Bugalho enaltece o esforço que está a ser feito pelos docentes. Ainda, Rui Tavares já discursou no primeiro dia de Congresso do Livre.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Congresso Livre. Jorge Pinto diz que partido é \"o futuro da esquerda\"",
+      "link": "https://www.rtp.pt/noticias/politica/congresso-livre-jorge-pinto-diz-que-partido-e-o-futuro-da-esquerda_n1752707",
+      "pubDate": "Sat, 11 Jul 2026 14:06:09 +0100",
+      "description": "O deputado e candidato a porta-voz do Livre, Jorge Pinto, defendeu hoje que o partido &quot;é o futuro da esquerda&quot; e acusou o PS de &quot;passar cheques em branco&quot; ao Governo, avisando que não o fará.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Níveis de alerta sismovulcânicos na Terceira baixam para V1",
-      "link": "https://observador.pt/2026/07/11/niveis-de-alerta-sismovulcanicos-na-ilha-terceira-baixam-para-v1/",
-      "pubDate": "Sat, 11 Jul 2026 12:01:36 +0100",
-      "description": "Os níveis de alerta na Terceira foram revistos porque \"a atividade sismovulcânica registada desde o início do ano na ilha Terceira tem-se situado a níveis mais baixos\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/05120729/46013834.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h Exames: Professores vão receber horas extraordinárias",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-exames-professores-vao-receber-horas-extraordinarias_a1_1752708",
+      "pubDate": "Sat, 11 Jul 2026 13:41:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca9f0ced2ba1fedc8b8bbbffeb8343ba?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Docentes podem reportar problemas nos exames no sistema e repostas incompletas não estão a ser avaliadas",
-      "link": "https://www.rtp.pt/noticias/pais/docentes-podem-reportar-problemas-nos-exames-no-sistema-e-repostas-incompletas-nao-estao-a-ser-avaliadas_n1752701",
-      "pubDate": "Sat, 11 Jul 2026 12:57:51 +0100",
-      "description": "O Eduqa criou um sistema de reporte de desconformidades para os avaliadores dos exames nacionais e negou a denúncia feita pelo movimento Missão Escola Pública de que os professores deveriam classificar as respostas incompletas como estão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2eb17c7c1e9535c9679e699251a414e7?w=350&amp;q=50&amp;rect=0,22,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hjulmand e o Atl. Madrid: «Quero aprender a língua o mais rapidamente possível»",
+      "link": "https://maisfutebol.iol.pt/espanha/morten-hjulmand/hjulmand-e-o-atl-madrid-quero-aprender-a-lingua-o-mais-rapidamente-possivel",
+      "pubDate": "Sat, 11 Jul 2026 13:09:31 +0100",
+      "description": "Ex-capitão do Sporting fala sobre mudança para «um grande clube»",
+      "thumbnail": "https://img.iol.pt/image/id/6a523209d34ef04b4f3f5e20/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Exames Nacionais. Governo vai pagar horas extraordinárias aos professores classificadores",
-      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-governo-vai-pagar-horas-extraordinarias-aos-professores-classificadores_n1752698",
-      "pubDate": "Sat, 11 Jul 2026 12:27:17 +0100",
-      "description": "Sebastião Bogalho, vice-presidente e porta-voz do PSD, revelou que o governo vai pagar horas extraordinárias aos professores classificadores que estão &quot;este sábado&quot; a corrigir os exames nacionais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/41a1ae9ca1d58a9eb0cb03144e8e26d6?w=350&amp;q=50&amp;rect=0,14,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "10h Incêndio em Almería: Combate evolui favoravelmente",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-incendio-em-almeria-combate-evolui-favoravelmente_a1_1752693",
-      "pubDate": "Sat, 11 Jul 2026 11:51:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PS pede documentação detalhada da nova solução para futura sede do Banco de Portugal",
-      "link": "https://www.rtp.pt/noticias/economia/ps-pede-documentacao-detalhada-da-nova-solucao-para-futura-sede-do-banco-de-portugal_n1752688",
-      "pubDate": "Sat, 11 Jul 2026 11:34:50 +0100",
-      "description": "O PS pediu hoje a documentação detalhada da nova solução para a futura sede do Banco de Portugal, referindo dúvidas quanto à dimensão da poupança relativamente ao anterior projeto, estimada pelo governador em pelo menos 35 milhões de euros.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: até o presidente da Câmara de Kansas City entrou na festa da Argentina",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/argentina/video-ate-o-presidente-da-camara-de-kansas-city-entrou-na-festa-da-argentina",
+      "pubDate": "Sat, 11 Jul 2026 12:54:25 +0100",
+      "description": "Quinton Lucas juntou-se aos milhares de adeptos da «albiceleste»",
+      "thumbnail": "https://img.iol.pt/image/id/6a522ec3d34ef04b4f3f5e1b/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,34 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a4b0e85d34edcee7c661769/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ex-empresário arrasa Cardoso Varela: «Faltou a treinos e destruiu um apartamento»",
-      "link": "https://maisfutebol.iol.pt/croacia/made-in/ex-empresario-arrasa-cardoso-varela-adormeceu-em-treinos-e-destruiu-um-apartamento",
-      "pubDate": "Sat, 11 Jul 2026 11:05:00 +0100",
-      "description": "Andy Bara explica porque deixou de representar o internacional jovem português, que fugiu do FC Porto e agora foi despromovido à equipa B do Dínamo Zagreb",
-      "thumbnail": "https://img.iol.pt/image/id/67b1c74fd34e3f0bae9a8556/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Jeremy Monga troca Leicester pelo Man. City",
-      "link": "https://maisfutebol.iol.pt/inglaterra/manchester-city/oficial-jeremy-monga-troca-leicester-pelo-man-city",
-      "pubDate": "Sat, 11 Jul 2026 11:03:00 +0100",
-      "description": "Extremo internacional jovem inglês assina até 2031",
-      "thumbnail": "https://img.iol.pt/image/id/6a521028d34e511da0b2ca12/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Eduqa garante que repostas incompletas de alunos não estão a ser avaliadas e que foi criado um sistema de reporte de problemas",
+      "link": "https://sapo.pt/artigo/eduqa-garante-que-repostas-incompletas-de-alunos-nao-estao-a-ser-avaliadas-e-que-foi-criado-um-sistema-de-reporte-de-problemas-6a521fa376b0389efa5169e5",
+      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
+      "description": "O Eduqa criou um sistema de reporte de desconformidades para os avaliadores dos exames nacionais e negou a denúncia feita pelo movimento Missão Escola Pública de que os professores deveriam classificar as respostas incompletas como estão",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AOQNZm46oYa%2FSRnYKwAw8OpQ0ZOdIw7taqMp%2FB%2Fm3dzsklO4fpz59h8ed%2FuKmrW4XAVu8AQ%2FSZFcSX2pFwYyRB2wL3cHQtxgj6MM4BBhauTQAveuYpgSz%2BlWaS1pqDvX8"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Almada entra em fim de semana crítico: cortes de água podem repetir-se e crise ainda vai durar semanas",
-      "link": "https://executivedigest.sapo.pt/almada-entra-em-fim-de-semana-critico-cortes-de-agua-podem-repetir-se-e-crise-ainda-vai-durar-semanas/",
-      "pubDate": "Sat, 11 Jul 2026 07:53:58 +0000",
-      "description": "Costa da Caparica, Charneca da Caparica e Sobreda estão entre as áreas com maiores consumos, também marcadas por mais construção e maior afluência sazonal",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AhsNi%2BRh9tCfhanUHf5GkoTRchLBl9Zlo%2Bia0zHJN09IXlBxq368Itg7qi1WPuRMQ4wOwY5M7ZM70ez18OclBVj63Ms%2BW5crretxkcaVoHbnqsSLeRDvkYai8fv2roKXQ"
+      "title": "Ministro da Administração Interna lamenta morte por atropelamento de militar da Brigada de Trânsito da GNR",
+      "link": "https://sapo.pt/artigo/ministro-da-administracao-interna-lamenta-morte-por-atropelamento-de-militar-da-brigada-de-transito-da-gnr-6a521fa41d07e0c61caff474",
+      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
+      "description": "O ministro da Administração Interna (MAI) lamentou hoje a morte por atropelamento de um militar, do Destacamento de Trânsito de Leiria da Guarda Nacional Republicana (GNR), defendendo que \"nenhuma vida deve ser perdida por indiferença,...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Abgcd%2BSO0sET4pZEdMk03TIbAoQ7sI9jFkL%2BQVxG%2BgJbapcGz7s4oLklXKM0dd9ia0sVUokB0SvjDtt1SYtCBCRMej1D59mVy9IPP0lFUew7LlS2PO9Rbx69SL7MVtuj0"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Principal suspeito de morte de Ann Widdecombe foi libertado",
+      "link": "https://sapo.pt/artigo/principal-suspeito-de-morte-de-ann-widdecombe-foi-libertado-6a521f8876b0389efa515e7c",
+      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
+      "description": "Homem de 26 anos foi detido na sexta-feira, mas libertado esta manhã. Autoridades britânicas continuam a afastar um crime com motivações políticas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3An96YxXWdrHQrpYYimveFDPBF7k8m%2BZQPYlY5GQd%2BZc1Nf8XyEa7I7pcQxpg451%2B0a3Jxol3mvLidLWEujmaAIan6db2WVIjbrFK8uweahdSZS1bY0M2i2J8JE9wlb%2BZg"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Rússia anuncia abate de 178 drones ucranianos, Kiev denuncia novos ataques russos",
-      "link": "https://sapo.pt/artigo/russia-anuncia-abate-de-178-drones-ucranianos-kiev-denuncia-novos-ataques-russos-6a5213ca76b0389efa4ed176",
-      "pubDate": "Sat, 11 Jul 2026 10:46:45 +0000",
-      "description": "As defesas aéreas russas abateram 178 drones ucranianos de longo alcance durante a noite sobre oito regiões da Rússia, Crimeia e os mares Negro e de Azov. Zelensky tamb+em denunciou \"ataques\" que terão atingido infraestruturas civis.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AM68iPSU78JUEYvoukMPWpkP77kukPItdoCvlbchneWD%2FWkehPIBMeMgNAqCmm1h%2BDeu3Ibn3mHBgp5OlKDfC1dOtABzUFXh6A1bFdU%2F%2FcV3MpPvN6gjpjD9faEjzYOyU"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "GNR morre atropelado no IC2 na zona de Alcobaça",
-      "link": "https://sapo.pt/artigo/gnr-morre-atropelado-no-ic2-na-zona-de-alcobaca-6a5190d91d07e0c61ca08c53",
-      "pubDate": "Sat, 11 Jul 2026 07:44:46 +0000",
-      "description": "O militar da GNR estaria a sinalizar um camião que estava a arder quando foi atropelado por outro veículo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AJ9t1di5dSwMK5pxX0ifsrYSmkbYWlQ4lnMKE%2FkwN%2FIHdqJtFSPs%2FIUOwt%2F4p80zmdx9a2I8O5IzWjjhG%2BkoPAfUdeRrpylQAyG6cOtKOUMp2jdb7xQ%2B%2FqwoR5%2FIb%2BdTQ"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Caracas quer Portugal na reconstrução da Venezuela após sismos que já fizeram mais de quatro mil mortos",
-      "link": "https://sapo.pt/artigo/caracas-quer-portugal-na-reconstrucao-da-venezuela-apos-sismos-que-ja-fizeram-mais-de-quatro-mil-mortos-6a51fc6593000f7db6cd4f36",
-      "pubDate": "Sat, 11 Jul 2026 09:19:20 +0000",
-      "description": "A presidente interina da Venezuela, Delcy Rodríguez, manifestou ao secretário de Estado das Comunidades Portuguesas, Emídio Sousa, a vontade de contar com Portugal e com empresas portuguesas no processo de reconstrução do país, devastado pelos...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=556&W=990&crop=center&delay_optim=1&epic=V2%3AhyP8GDUIJZvo3iPJQ%2FQBQyXVxGm3XI%2F2tdKwqyJ838cnumg5AMBb5dUUVX5bkR5oqtxiffUnl2M%2BaohcRPinC5LdbEhKvdvZoLpbvel49a3pNM1vkwl7VBnHo6nLlJe4"
+      "title": "Fogo em Almeria: Autoridades mais otimistas, Espanha agradece apoio internacional",
+      "link": "https://sapo.pt/artigo/fogo-em-almeria-autoridades-mais-otimistas-espanha-agradece-apoio-internacional-6a521fa493000f7db6d31658",
+      "pubDate": "Sat, 11 Jul 2026 12:05:34 +0000",
+      "description": "O Governo espanhol agradeceu hoje o apoio e solidariedade internacional face ao incêndio em Almería que matou 12 pessoas e destruiu 6.600 hectares, num momento em que as autoridades estão mais otimistas no combate ao fogo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AmMEI%2FCB3tb%2BYDYeRYbnL0HN%2BONLzFYU6vgaTyEwcn8MJr9oUZnN1oQke9CMoCNmDcDrWSK6hJkvVv1QWIgbMQIK838JmJjqXUVECR8pg6e1FmWEJUTQHX34IgWusuLCr"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Foi assim que Morten Hjulmand se despediu do Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3020023/foi-assim-que-morten-hjulmand-se-despediu-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:23:23",
+      "title": "Hamas denuncia aumento de ataques de colonos na Cisjordânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3020034/hamas-denuncia-aumento-de-ataques-de-colonos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 13:16:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52274f8b4e2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6794aa7d30bf9.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Supercarro chinês não se contenta com 1.604 cv e terá versão de 2.000 cv",
-      "link": "https://www.noticiasaominuto.com/auto/3019414/supercarro-chines-nao-se-contenta-com-1604-cv-e-tera-versao-de-2000-cv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:22:06",
+      "title": "Bacalhau com abóbora e couve-de-bruxelas: A receita é de Haaland",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3018572/bacalhau-com-abobora-e-couve-de-bruxelas-a-receita-e-de-haaland#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 13:03:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a50a0697fce4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MTksImNyb3BIZWlnaHQiOjQ2MSwiY3JvcFgiOjY5LCJjcm9wWSI6MjE0fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5233803d411.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjU2LCJjcm9wWSI6MjczfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Pedro Emanuel é o novo treinador do Vasco da Gama",
-      "link": "https://www.noticiasaominuto.com/desporto/3020021/oficial-pedro-emanuel-e-o-novo-treinador-do-vasco-da-gama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:12:11",
+      "title": "Google Tradutor. As 7 melhores opções que (provavelmente) não conhece",
+      "link": "https://www.noticiasaominuto.com/tech/3018598/google-tradutor-as-7-melhores-opcoes-que-provavelmente-nao-conhece#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 13:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_694d94771d3db.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63e4cc517b7e9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTIsImNyb3BZIjoxNjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NCwiY3JvcEhlaWdodCI6MTY3OSwiY3JvcFgiOjc3NiwiY3JvcFkiOjE1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Heineken dá \"mais amigos\" com tecnologia. \"Não é só uma campanha global\"",
-      "link": "https://www.noticiasaominuto.com/tech/3019937/heineken-da-mais-amigos-com-tecnologia-nao-e-so-uma-campanha-global#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:10:14",
+      "title": "Filho de Ricky e Daniela Faria do \"BB Famosos\" já tem 21 anos e há fotos",
+      "link": "https://www.noticiasaominuto.com/fama/3017053/filho-de-ricky-e-daniela-faria-do-bb-famosos-ja-tem-21-anos-e-ha-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 13:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a51cdde52714.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTM5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxNzI4LCJjcm9wSGVpZ2h0IjozMDcyLCJjcm9wWCI6NDEwLCJjcm9wWSI6NzY4fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4b7c1258a1d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MjAsImNyb3BIZWlnaHQiOjM0OCwiY3JvcFgiOjcsImNyb3BZIjoyMDh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Moldova. Sandu escolheu Vasile Tofan como candidato a primeiro-ministro",
-      "link": "https://www.noticiasaominuto.com/mundo/3020020/moldova-sandu-escolheu-vasile-tofan-como-candidato-a-primeiro-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 12:06:49",
+      "title": "\"Cristiano Ronaldo? Se há alguém capaz de tomar esta decisão, é Jesus\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3020026/se-ha-alguem-capaz-de-afastar-cristiano-ronaldo-e-jorge-jesus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 12:58:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5223ce07b8e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5228a771f08.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "VeraCrypt: Crie uma zona “secreta e segura” no disco do seu PC",
+      "link": "https://pplware.sapo.pt/software/veracrypt-crie-uma-zona-secreta-e-segura-no-disco-do-seu-pc/",
+      "pubDate": "Sat, 11 Jul 2026 12:00:15 +0000",
+      "description": "A informação sensível deve ser guardada num “local seguro”. Hoje em dia há já alguns sistemas operativos que implementam alguns mecanismos que garantem a confidencialidade dos dados. Já ouviu falar do software VeraCrypt? O&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2018/12/disk_capa.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/grafeno_portugal00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Meta recua e desativa a polémica função de IA do Instagram",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/meta-recua-e-desativa-a-polemica-funcao-de-ia-do-instagram/",
-      "pubDate": "Sat, 11 Jul 2026 07:00:31 +0000",
-      "description": "A integração de ferramentas de IA nas redes sociais continua a levantar questões críticas sobre a gestão de dados pessoais. Numa mudança recente, a Meta viu-se forçada a recuar na implementação da sua mais&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/instagram_IA_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPV, Vila Real/Qualificação 1 GT4: Francisco Mora bem na frente",
+      "link": "https://www.autosport.pt/sem-categoria/cpv-vila-real-qualificacao-1-gt4-francisco-mora-bem-na-frente/",
+      "pubDate": "Sat, 11 Jul 2026 12:19:34 +0000",
+      "description": "Nos GT4, César Machado (Speedy Motorsport/Toyota GR Supra GT4 EVO2) foi cedo para a frente com 2:13.525, mas ainda muito longe dos tempos ‘normais’ com Francisco Mora a prová-lo com o piloto da Toyota Gazoo Racing Caetano Portugal a colocar o seu Toyota GR Supra GT4 EVO2 na frente com 2:01.266, 0.79",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPV, Vila Real/GTX e TC/Qualificação 2: novamente Daniel Teixeira (Hyundai Elantra N TCR)",
+      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-gtx-e-tc-qualificacao-2-novamente-daniel-teixeira-hyundai-elantra-n-tcr/",
+      "pubDate": "Sat, 11 Jul 2026 11:53:00 +0000",
+      "description": "Tal como a primeira qualificação do Campeonato de Portugal de Velocidade, GTC e TC, também a segunda foi interrompida, neste caso devido a um problema com o Ligier JS2 R da Veloso Motorsport, agora guiado por José Maria Marreiros, que terá dado um toque, furou e danificou a roda traseira direita. Fa",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPV, Vila Real: Volta ‘canhão’ para Daniel Teixeira (Hyundai Elantra N TCR) nos GTX e TC na Qualificação 1",
+      "link": "https://www.autosport.pt/sem-categoria/cpv-vila-real-volta-canhao-para-daniel-teixeira-hyundai-elantra-n-tcr-nos-gtx-e-tc-na-qualificacao-1/",
+      "pubDate": "Sat, 11 Jul 2026 11:30:00 +0000",
+      "description": "A primeira qualificação do Campeonato de Portugal de Velocidade, GTC e TC foi interrompida quando faltavam cerca de nove minutos para o fim da sessão devido ao acidente de Pompeu Simões, piloto da Speedy Motorsport que bateu com o seu Porsche 718 Cayman GT4 CS. A par com outro incidente noutra zona ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/cpvl-vila-real-luis-barros-sem-concorrencia-na-frente-grandes-lutas-mais-atras/",
       "pubDate": "Sat, 11 Jul 2026 10:47:56 +0000",
       "description": "Luís Barros (Ford Sierra RS 500) venceu à geral a primeira e atribulada corrida do CPVL, em Vila Real, prova que teve um final prematuro, devido a vários incidentes que foram acontecendo ao longo da corrida que viu duas bandeiras vermelhas. Barros protagonizou um arranque perfeito e não perdeu tempo",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "José Grosso leva Fiat 131 Abarth histórico ao Rally Rota da Cereja de Resende",
-      "link": "https://www.autosport.pt/ralis/jose-grosso-leva-fiat-131-abarth-historico-ao-rally-rota-da-cereja-de-resende/",
-      "pubDate": "Sat, 11 Jul 2026 10:27:52 +0000",
-      "description": "O &#8220;gentleman driver&#8221; leiriense assume as funções de Carro Zero na terceira edição da prova, tripulando uma máquina mítica com as cores da Alitalia recentemente conduzida por Markku Alén. A terceira edição do Rally Rota da Cereja de Resende, agendada para os dias 18 e 19 de julho, vai con",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPVCL 1300, Vila Real: Luís Alegria impõe-se na Corrida 1",
-      "link": "https://www.autosport.pt/velocidade/cpvcl-1300-vila-real-luis-alegria-impoe-se-na-corrida-1/",
-      "pubDate": "Sat, 11 Jul 2026 10:16:28 +0000",
-      "description": "A primeira corrida do dia trouxe à grelha os concorrentes do CPVCL 1300, numa prova que voltou a ser marcada por sucessivas interrupções e alguns toques entre concorrentes. Ainda assim, o resultado final não deixou margem para dúvidas: Luís Alegria, ao volante do seu Datsun 1200, confirmou o favorit",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Elfyn Evans minimiza pressão na luta pelo título do WRC: “mentalidade diferente na Estónia”",
-      "link": "https://www.autosport.pt/ralis/elfyn-evans-minimiza-pressao-na-luta-pelo-titulo-do-wrc-mentalidade-diferente-na-estonia/",
-      "pubDate": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "description": "O galês Elfyn Evans desvalorizou a aproximação dos rivais no Campeonato Mundial de Ralis, após um Rali da Acrópole adverso. Apesar de ter sofrido dois furos na Grécia, o piloto da Toyota Gazoo Racing beneficiou de penalizações pós-corrida aplicadas a Adrien Fourmaux e Josh McErlean para subir ao qui",
       "thumbnail": ""
     }
   ]
