@@ -1,61 +1,91 @@
 {
-  "updated": "2026-07-11T04:10:31.096489+00:00",
+  "updated": "2026-07-11T06:33:31.680501+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "4h. EUA aguardam que Irão confirme reabertura de Estreito",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2340/",
-      "pubDate": "Sat, 11 Jul 2026 04:14:44 +0100",
-      "description": "Washington espera um comunicado de Teerão até este sábado. Segundo a imprensa internacional, responsáveis iranianos terão admitido a Donald Trump que o ataque a navios comerciais foi um erro.",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2440/",
+      "pubDate": "Sat, 11 Jul 2026 07:12:47 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. PCP quer ouvir ministro da Educação antes das notas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2374/",
-      "pubDate": "Sat, 11 Jul 2026 03:12:51 +0100",
-      "description": "Paulo Raimundo quer antecipar a audição de Fernando Alexandre, prevista para 21 de julho. O líder do PCP admite forçar um debate de urgência devido aos problemas na avaliação dos exames.",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2430/",
+      "pubDate": "Sat, 11 Jul 2026 06:14:30 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Chega quer combustíveis colados a preços lá fora",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2347/",
-      "pubDate": "Sat, 11 Jul 2026 02:14:30 +0100",
-      "description": "André Ventura propõe que as descidas do petróleo no mercado internacional reflitam-se de imediato nas bombas nacionais. O líder do Chega criticou ainda Luís Montenegro por ir ao NOS Alive.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Milhares de milhões aceleram corrida a dois no Mundo da IA",
+      "link": "https://observador.pt/programas/m-quinas-que-pensam/milhares-de-milhoes-aceleram-corrida-a-dois-no-mundo-da-ia/",
+      "pubDate": "Sat, 11 Jul 2026 06:07:24 +0100",
+      "description": "OpenAI e Anthropic captaram quase metade de todo o investimento global em startups no primeiro semestre do ano. IA continua a crescer, mas há cada vez concentração de capital nesta corrida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Nova falha pode obrigar professores a reavaliar provas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2320/",
-      "pubDate": "Sat, 11 Jul 2026 01:15:41 +0100",
-      "description": "O movimento MetaProf alerta que a resolução de um erro técnico na plataforma de classificação de exames pode forçar os professores a rever respostas que já tinham sido totalmente corrigidas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Francisco, o viajante inquieto",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/francisco-o-viajante-inquieto/",
+      "pubDate": "Sat, 11 Jul 2026 06:06:23 +0100",
+      "description": "Francisco Moura já foi a 150 países, visitou lugares exóticos e contactou com povos remotos. É um viajante curioso, a tal ponto que tem dedicado o tempo livre ao estudo das religiões e da História.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Rubio anuncia deportação de imigrante perdoado há um mês",
-      "link": "https://observador.pt/2026/07/11/marco-rubio-anuncia-deportacao-de-imigrante-do-laos-que-havia-recebido-perdao-ha-um-mes/",
-      "pubDate": "Sat, 11 Jul 2026 00:33:06 +0100",
-      "description": "Rubio revogou o estatuto legal de Tou Lue Vang, condenado em 2005 por violações a uma criança. O caso opôs a administração Trump ao governador democrata Tim Walz.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/19204523/47090870.jpg"
+      "title": "NATO e Trump: será esta a crise mais séria da história?",
+      "link": "https://observador.pt/programas/5-continentes/nato-e-trump-sera-esta-a-crise-mais-seria-da-historia/",
+      "pubDate": "Sat, 11 Jul 2026 06:05:25 +0100",
+      "description": "Bruno Cardoso Reis analisa a crise \"existencial\" da NATO, o reforço militar português e a produção ucraniana de mísseis. Ainda a fragilidade do cessar-fogo no Irão e o risco no Estreito de Ormuz.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16094819/770-podcastcinco-continentescinco-continentes.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Irão afirma ter \"cumprido a sua palavra\" Estados Unidos mantêm ultimato",
+      "title": "7h Irão afirma ter \"cumprido a sua palavra\" Trump insiste que memorando de entendimento acabou",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-irao-afirma-ter-cumprido-a-sua-palavra-trump-insiste-que-memorando-de-entendimento-acabou_a1_1752678",
+      "pubDate": "Sat, 11 Jul 2026 08:30:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h Trump ameaça destruir Irão em caso de tentativa de assassinato",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-trump-ameaca-destruir-irao-em-caso-de-tentativa-de-assassinato_a1_1752671",
+      "pubDate": "Sat, 11 Jul 2026 07:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Trump ameaça dizimar Irão se país tentar assassiná-lo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-trump-ameaca-dizimar-irao-se-pais-tentar-assassina-lo_a1_1752670",
+      "pubDate": "Sat, 11 Jul 2026 06:22:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Irão afirma ter \"cumprido a sua palavra\", Estados Unidos mantêm ultimato",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-irao-afirma-ter-cumprido-a-sua-palavra-estados-unidos-mantem-ultimato_a1_1752668",
       "pubDate": "Sat, 11 Jul 2026 05:39:02 +0100",
       "description": "",
@@ -70,36 +100,6 @@
       "pubDate": "Sat, 11 Jul 2026 04:23:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h População idosa em Portugal cresceu cinco vezes mais depressa que a ativa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-populacao-idosa-em-portugal-cresceu-cinco-vezes-mais-depressa-que-a-ativa_a1_1752664",
-      "pubDate": "Sat, 11 Jul 2026 03:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01H Buraka Som Sistema em concerto para celebrar 20 anos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-buraka-som-sistema-em-concerto-para-celebrar-20-anos_a1_1752663",
-      "pubDate": "Sat, 11 Jul 2026 02:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Bombas da Segunda Guerra Mundial encontradas em linha ferroviária Roma-Nápoles",
-      "link": "https://www.rtp.pt/noticias/mundo/bombas-da-segunda-guerra-mundial-encontradas-em-linha-ferroviaria-roma-napoles_n1752655",
-      "pubDate": "Sat, 11 Jul 2026 01:46:06 +0100",
-      "description": "As Forças Armadas italianas informaram ter descoberto cerca de uma dezena de bombas da Segunda Guerra Mundial numa linha ferroviária que une a capital, Roma, e a cidade de Nápoles, no sul do país.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Leiria. PSP faz 7 detidos por tráfico de droga e apreende mais de 17.000€",
-      "link": "https://www.noticiasaominuto.com/pais/3019909/leiria-psp-faz-7-detidos-por-trafico-de-droga-e-apreende-mais-de-17000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 00:03:50",
+      "title": "Bombas da II Guerra Mundial encontradas em linha ferroviária Roma-Nápoles",
+      "link": "https://www.noticiasaominuto.com/mundo/3019914/bombas-da-ii-guerra-mundial-encontradas-em-linha-ferroviaria-roma-napoles#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 07:30:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5179d01b507.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69eb6a9e78b40.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Venezuela: Número de mortos após sismo sobe para 4.118",
-      "link": "https://www.noticiasaominuto.com/mundo/3019908/venezuela-numero-de-mortos-apos-sismo-sobe-para-4118#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 00:01:12",
+      "title": "Milei no Brasil em julho para apoiar candidatura de Flávio Bolsonaro",
+      "link": "https://www.noticiasaominuto.com/mundo/3019916/milei-no-brasil-em-julho-para-apoiar-candidatura-de-flavio-bolsonaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 07:27:06",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47b28ce043f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjAwLCJjcm9wSGVpZ2h0Ijo2NzUsImNyb3BYIjowLCJjcm9wWSI6MzE4fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67cabc8fac1ee.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ex-mulher de Bolsonaro vê contas bancárias bloqueadas. Não pagou dívida",
-      "link": "https://www.noticiasaominuto.com/mundo/3019907/ex-mulher-de-bolsonaro-ve-contas-bancarias-bloqueadas-nao-pagou-divida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-10 23:58:56",
+      "title": "Cuba dá \"importância particular\" às reformas do comércio e investimento",
+      "link": "https://www.noticiasaominuto.com/mundo/3019944/cuba-da-importancia-particular-as-reformas-do-comercio-e-investimento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 07:24:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a517803b6419.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MTAsImNyb3BIZWlnaHQiOjM0MywiY3JvcFgiOjI3LCJjcm9wWSI6MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjQ1LCJjcm9wSGVpZ2h0Ijo0MzUsImNyb3BYIjoyMzAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f4c59ac6a1a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ucrânia: Luz verde da Casa Branca a novas sanções à Rússia",
-      "link": "https://www.noticiasaominuto.com/mundo/3019906/ucrania-luz-verde-da-casa-branca-a-novas-sancoes-a-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-10 23:57:09",
+      "title": "\"Tenho a certeza que Jorge Jesus é a pessoa certa para treinar Portugal\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3019757/tenho-a-certeza-que-jorge-jesus-e-a-pessoa-certa-para-treinar-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 07:23:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69be3b67cd9f6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MjkxfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5118eea5c4f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI1Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ2LCJjcm9wSGVpZ2h0IjoxNjgyLCJjcm9wWCI6ODA1LCJjcm9wWSI6MTR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ataque à Casa Branca: Plano revelado agora, mãe denunciou e os 8 detidos",
-      "link": "https://www.noticiasaominuto.com/mundo/3019899/ataque-a-casa-branca-plano-revelado-agora-mae-denunciou-e-os-8-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-10 23:55:32",
+      "title": "Taylor Swift surge em público pela 1.ª vez após casamento e mostra anel",
+      "link": "https://www.noticiasaominuto.com/fama/3019950/taylor-swift-surge-em-publico-pela-1-vez-apos-casamento-e-mostra-anel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 07:07:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a51736ea3e69.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA4LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6NTIsImNyb3BZIjoyOTd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEzOTQsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a12ff27e6af0.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "A crise é mais grave do que parecia: Volkswagen vai cortar até metade dos seus modelos",
+      "link": "https://pplware.sapo.pt/motores/a-crise-e-mais-grave-do-que-parecia-volkswagen-vai-cortar-ate-metade-dos-seus-modelos/",
+      "pubDate": "Sat, 11 Jul 2026 06:00:47 +0000",
+      "description": "A Volkswagen anunciou um plano de reestruturação sem precedentes, que implica o desaparecimento de até 50% da gama de modelos. Além disso, as opções de personalização serão cortadas em até 75%. O Grupo Volkswagen&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/volkswagen02-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 10 Jul 2026 18:30:32 +0000",
       "description": "A Microsoft vai mudar a forma como lança as atualizações de segurança do Windows 11. A gigante anunciou que receberá mais patches a cada atualização mensal. Afirmou que este ajuste está relacionado com o&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/04/windows_11_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Anunciadas as pré-reservas para Grand Theft Auto VI",
-      "link": "https://pplware.sapo.pt/jogos/anunciadas-as-pre-reservas-para-grand-theft-auto-vi/",
-      "pubDate": "Fri, 10 Jul 2026 18:00:35 +0000",
-      "description": "É um dos jogos deste ano, certamente. Grand Theft Auto VI ainda se encontra um pouco longe do seu lançamento mas as expetativas são assombrosas. E agora, já foram anunciadas as pré-reservas. A Rockstar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/GTAVI_1.jpg"
     },
     {
       "sourceId": "autosport",
