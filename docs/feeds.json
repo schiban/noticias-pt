@@ -1,63 +1,83 @@
 {
-  "updated": "2026-07-11T17:30:32.175942+00:00",
+  "updated": "2026-07-11T18:56:25.275467+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 18h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2093/",
-      "pubDate": "Sat, 11 Jul 2026 18:12:53 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Sobe para 4.333 o número de mortos nos sismos na Venezuela",
+      "link": "https://observador.pt/2026/07/11/sobe-para-4-333-o-numero-de-mortos-nos-sismos-na-venezuela/",
+      "pubDate": "Sat, 11 Jul 2026 19:50:25 +0100",
+      "description": "Número de mortos provocado pelos dois sismos que atingiram a Venezuela a 24 de junho subiu para 4.333. Destas, 315 das vítimas mortais continuam por identificar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30193741/47381489.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Itália. Banhistas proibidos de comer o que trouxeram de casa",
+      "link": "https://observador.pt/2026/07/11/italia-concessionarios-de-praia-impedem-clientes-de-comer-refeicoes-trazidas-de-casa-mar-nao-pode-tornar-se-um-luxo-defende-governador/",
+      "pubDate": "Sat, 11 Jul 2026 19:44:20 +0100",
+      "description": "Restaurantes proíbem clientes que alugam espreguiçadeiras e chapéus de sol no areal de comerem alimentos trazidos de casa. Em Vieste, uma criança foi impedida de comer uma sandes à beira-mar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2044:1149:nowe:0:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11181058/beach-club-proibe-sanduiche-na-praia-em-italia.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "19h. PR lamenta morte de militar da GNR em Alcobaça",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2120/",
+      "pubDate": "Sat, 11 Jul 2026 19:14:31 +0100",
+      "description": "O militar da Brigada de Trânsito da GNR foi atropelado por um veículo no IC2 na sexta-feira à noite, em Alcobaça. E são já 110 portugueses e lusodescendentes mortos no duplo sismo na Venezuela.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Seguro lamenta morte de militar da GNR",
-      "link": "https://observador.pt/2026/07/11/presidente-da-republica-lamenta-morte-de-militar-da-brigada-de-transito-da-gnr/",
-      "pubDate": "Sat, 11 Jul 2026 18:03:28 +0100",
-      "description": "Militar da Brigada de Trânsito da GNR perdeu a vida na sequência de um atropelamento em Alcobaça. Presidente reconheceu o \"sentido de missão no cumprimento do dever\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/20221551/ilacerda-criancas-abandonadas-alcacer49-scaled.jpg"
+      "title": "Estação mais funda do Metro terá acesso por super-elevadores",
+      "link": "https://observador.pt/especiais/acesso-a-estrela-vai-ser-feito-por-super-elevadores-viagem-a-estacao-mais-funda-do-metro-de-lisboa/",
+      "pubDate": "Sat, 11 Jul 2026 19:01:44 +0100",
+      "description": "Há mais de dez anos que o Metro de Lisboa não abre uma nova estação. Linha circular só tem 2 quilómetros, mas promete relançar interface do Cais do Sodré e terá estação mais funda da rede, a Estrela.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29192118/ilacerda-visita-obras-metro-96-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Almada. Água poderá apresentar alterações após cortes",
-      "link": "https://observador.pt/2026/07/11/almada-regulador-avisa-que-agua-podera-apresentar-alteracoes-apos-cortes/",
-      "pubDate": "Sat, 11 Jul 2026 18:00:32 +0100",
-      "description": "Não está em causa a qualidade para consumo humano, garante Entidade Reguladora dos Serviços de Águas e Resíduos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11174501/47446051.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Detido homem procurado pelo Brasil por crime de tortura",
-      "link": "https://observador.pt/2026/07/11/detido-na-amadora-homem-procurado-pelo-brasil-para-cumprir-pena-por-tortura-em-instituicao-de-tratamento-de-dependencias/",
-      "pubDate": "Sat, 11 Jul 2026 17:45:20 +0100",
-      "description": "Responsável legal de organização para pessoas aditas ao álcool e drogas fugiu depois de ser condenado a 17 anos e seis meses de prisão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011818/arquivo-diogofariareis-9052-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vietname. 15 mortos após naufrágio de barco turístico",
-      "link": "https://observador.pt/2026/07/11/vietname-pelo-menos-15-mortos-em-naufragio-de-barco-turistico-ao-largo-da-ilha-de-phu-quoc/",
-      "pubDate": "Sat, 11 Jul 2026 17:33:43 +0100",
-      "description": "Embarcação que navegava com 36 pessoas a bordo no sul do Vietname virou e afundou. 21 foram resgatadas com vida e 15 morreram. Não há desaparecidos e as causas do acidente estão a ser investigadas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1201:676:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11164308/barco-naufraga-com-turistas-no-vietname.jpg"
+      "title": "Trump diz ter feito exames médicos \"perfeitos\"",
+      "link": "https://observador.pt/2026/07/11/donald-trump-diz-ter-realizado-novos-exames-medicos-perfeitos-e-pediu-teste-cognitivo/",
+      "pubDate": "Sat, 11 Jul 2026 18:46:37 +0100",
+      "description": "Presidente dos Estados Unidos pediu ainda um teste cognitivo. Resultados ainda não foram divulgados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06160141/47408755.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "18h Tufão Bavi: 2 milhões de pessoas retiradas da China",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-tufao-bavi-2-milhoes-de-pessoas-retiradas-da-china_a1_1752744",
-      "pubDate": "Sat, 11 Jul 2026 19:21:02 +0100",
+      "title": "Trabalhos do Livre marcados por divergências sobre a rede de autarcas",
+      "link": "https://www.rtp.pt/noticias/politica/trabalhos-do-livre-marcados-por-divergencias-sobre-a-rede-de-autarcas_n1752757",
+      "pubDate": "Sat, 11 Jul 2026 20:37:47 +0100",
+      "description": "O partido está reunido em Sintra para escolher um novo porta-voz.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/81/814490f3370db68596f0ec686483c2ab?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Jesse Derry confirmado no Sporting",
+      "link": "https://www.rtp.pt/noticias/sporting/jesse-derry-confirmado-no-sporting_d1752759",
+      "pubDate": "Sat, 11 Jul 2026 20:35:50 +0100",
+      "description": "O inglês Jesse Derry é o quinto reforço do Sporting para 2026/27, chegando a Alvalade por empréstimo dos ingleses do Chelsea, anunciaram os dois clubes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/19/19458fcb11dee976b0d6aa70526e0796?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "19h Aumenta o número de mortos na Venezuela",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-aumenta-o-numero-de-mortos-na-venezuela_a1_1752755",
+      "pubDate": "Sat, 11 Jul 2026 20:20:04 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,51 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Presidente da República lamenta morte de militar da Brigada de Trânsito da GNR",
-      "link": "https://www.rtp.pt/noticias/pais/presidente-da-republica-lamenta-morte-de-militar-da-brigada-de-transito-da-gnr_n1752742",
-      "pubDate": "Sat, 11 Jul 2026 19:06:29 +0100",
-      "description": "O Presidente da República, António José Seguro, lamentou hoje a morte em serviço de um militar da Brigada de Trânsito da GNR, na sequência de um atropelamento em Alcobaça, e reconheceu o &quot;sentido de missão no cumprimento do dever&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/51/51fde62ef79109589c5450ad75c0299b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Contte vence etapa, Tiago Antunes lidera Troféu Joaquim Agostinho",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/contte-vence-etapa-tiago-antunes-lidera-trofeu-joaquim-agostinho_d1752754",
+      "pubDate": "Sat, 11 Jul 2026 20:19:34 +0100",
+      "description": "O ciclista português Tiago Antunes (Efapel) lidera o Troféu Joaquim Agostinho depois da primeira etapa, ganha ao sprint pelo argentino Thomas Contte (Aviludo-Louletano-Loulé Concelho) em Torres Vedras.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/5846ab65d9d49dab44c4a971e65f9b80?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"Vontade da nação\". Líder supremo do Irão promete vingança pela morte do pai",
-      "link": "https://www.rtp.pt/noticias/mundo/vontade-da-nacao-lider-supremo-do-irao-promete-vinganca-pela-morte-do-pai_n1752743",
-      "pubDate": "Sat, 11 Jul 2026 18:50:56 +0100",
-      "description": "O Ayatollah Mojtaba Khamenei declarou, este sábado, que a vingança pela morte do seu pai, Ali Khamenei, é &quot;inevitável&quot; e &quot;a vontade da nação&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a1f2fdea641fec9c2c09bfe9d76692a9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Miguel Oliveira 11.º em Donington",
+      "link": "https://www.rtp.pt/noticias/motores/miguel-oliveira-11o-em-donington_d1752753",
+      "pubDate": "Sat, 11 Jul 2026 20:16:35 +0100",
+      "description": "O piloto português Miguel Oliveira (BMW) foi 11.º na primeira corrida da ronda britânica do Mundial de Superbikes, que decorre em Donington Park, prova ganha pelo espanhol Íker Lecuona (Aruba.it Racing-Ducati).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf4e727aa8d079686c046a6d0cde97ab?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Exames: José Luís Carneiro não rejeita Comissão Parlamentar de Inquérito",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-exames-jose-luis-carneiro-nao-rejeita-comissao-parlamentar-de-inquerito_a1_1752741",
-      "pubDate": "Sat, 11 Jul 2026 18:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Jesse Derry reforça Sporting por empréstimo do Chelsea",
+      "link": "https://maisfutebol.iol.pt/transferencias/sporting/oficial-jesse-derry-reforca-sporting-por-emprestimo-do-chelsea",
+      "pubDate": "Sat, 11 Jul 2026 19:06:00 +0100",
+      "description": "Extremo inglês é mais uma opção para o treinador Rui Borges",
+      "thumbnail": "https://img.iol.pt/image/id/6a528dc1d34e511da0b2caff/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Cortes noturnos de água vão afetar uma dezena de localidades em Almada",
-      "link": "https://www.rtp.pt/noticias/politica/cortes-noturnos-de-agua-vao-afetar-uma-dezena-de-localidades-em-almada_n1752740",
-      "pubDate": "Sat, 11 Jul 2026 18:01:30 +0100",
-      "description": "Os cortes localizados durante a noite e madrugada têm sido uma prática nos últimos dias.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/888627141d42d73f5213adac7ec2b82c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Ténis: Linda Noskova conquista primeiro título do Grand Slam em Wimbledon",
+      "link": "https://maisfutebol.iol.pt/tenis/wimbledon/tenis-linda-noskova-conquista-primeiro-grand-slam-em-wimbledon",
+      "pubDate": "Sat, 11 Jul 2026 18:51:00 +0100",
+      "description": "Checa sobe ao sétimo lugar ranking WTA",
+      "thumbnail": "https://img.iol.pt/image/id/6a528242d34e511da0b2cadd/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Federação alemã anuncia acordo com Jürgen Klopp para selecionador",
+      "link": "https://maisfutebol.iol.pt/internacional/jurgen-klopp/federacao-alema-anuncia-acordo-com-jurgen-klopp-para-selecionador",
+      "pubDate": "Sat, 11 Jul 2026 18:30:00 +0100",
+      "description": "Falta ainda aprovação do grupo Red Bull",
+      "thumbnail": "https://img.iol.pt/image/id/67868ad1d34e94b82909ae7e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,44 +152,24 @@
       "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rio Ave vence Arouca com golo do reforço Samuel Alves",
-      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/rio-ave-vence-arouca-com-golo-do-reforco-samuel-alves",
-      "pubDate": "Sat, 11 Jul 2026 17:55:00 +0100",
-      "description": "Duas equipas da Liga portuguesa travaram um duelo de preparação",
-      "thumbnail": "https://img.iol.pt/image/id/6a527582d34e511da0b2cac2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica B empata no primeiro jogo de pré-temporada",
-      "link": "https://maisfutebol.iol.pt/ii-liga/benfica-b/benfica-b-empata-no-primeiro-jogo-de-pre-temporada",
-      "pubDate": "Sat, 11 Jul 2026 17:22:00 +0100",
-      "description": "Equipa secundária das águias soma nulo diante do Sintrense",
-      "thumbnail": "https://img.iol.pt/image/id/63543b770cf2ea4f0a62a7ad/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Famalicão negoceia contratação de Carlos Carvalhal",
-      "link": "https://maisfutebol.iol.pt/famalicao/carlos-carvalhal/famalicao-negoceia-contratacao-de-carlos-carvalhal",
-      "pubDate": "Sat, 11 Jul 2026 17:15:00 +0100",
-      "description": "Técnico de 60 anos é o mais sério candidato à sucessão de Hugo Oliveira",
-      "thumbnail": "https://img.iol.pt/image/id/67bfa14ed34e3f0bae9b019f/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Irão ameaça abandonar acordo com os EUA se ataques continuarem",
+      "link": "https://sapo.pt/artigo/irao-ameaca-abandonar-acordo-com-os-eua-se-ataques-continuarem-6a52730993000f7db6e2075e",
+      "pubDate": "Sat, 11 Jul 2026 17:48:45 +0000",
+      "description": "Teerão avisou que deixará de se considerar vinculado ao memorando de entendimento alcançado com Washington caso prossigam as ações militares norte-americanas, numa altura de troca de ameaças entre os dois países",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Arr6syLTsjw16y5ufDxhN12KH2bmLmuOBqSds7aXTUT4k3ZXvCNFlp4OFCLed6sV4Esh6cQagxNZsDTneFuy3L%2BLeVPBoX93FZw8XQJ2%2F7HMs9meQ8T7yq28Zy64o5KMI"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Consumo “imprevisível” retira água a Almada. Das restrições aos furos, qual a solução?",
-      "link": "https://eco.sapo.pt/especiais/consumo-imprevisivel-retira-agua-a-almada-das-restricoes-aos-furos-conheca-a-resposta/",
-      "pubDate": "Sat, 11 Jul 2026 15:48:00 +0000",
-      "description": "",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AqvWXIEyQkkR1lrpC6BioAB91sc7lzUNMndtQxp6vIZbwAnP2cGeGlxcunlkMKZaJboeXFshocDx%2BKmD9IUyi1Au%2FVTw4W2yEbzzHGmjwIi5pt8yXleECLFoRjaAa%2FiiR"
+      "title": "Almada: água continua própria para consumo embora possa apresentar ”alterações” após cortes de abastecimento",
+      "link": "https://sapo.pt/artigo/almada-agua-continua-propria-para-consumo-embora-possa-apresentar-alteracoes-apos-cortes-de-abastecimento-6a5275691d07e0c61cbfffa7",
+      "pubDate": "Sat, 11 Jul 2026 17:48:45 +0000",
+      "description": "A Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR) esclarece que o aspeto esbranquiçado da água pode ocorrer devido à entrada de ar nas condutas após interrupções no abastecimento",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Aj%2Frgfmu0O4hkQcFcFG%2B1ZLBC4rCw09zLjowlXjwVLah6AvmhQtzuWHBeQ2bm5UVZpzRifnt0nBAi3ilC2PMgUlqb5xl9E9wV%2FQvgHC3jvNPFbLixINcSE3zuCZL9ud%2FH"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AeQvkT9CaigqGmSJonyqRjJ%2FRvARHw2SNbWIvpBu6Cv%2FoWDZWQjeIB7qweJhCO86MxZsjGYdRFFgCXf42nW0dW%2FDdQIibLr%2BlqTqhHDMPsbwnvyRck2MJGEg7l84qaG4%2B"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Líder Supremo do Irão promete vingança pela morte do pai, Ali Khamenei",
-      "link": "https://sapo.pt/artigo/lider-supremo-do-irao-promete-vinganca-pela-morte-do-pai-ali-khamenei-6a5232cc93000f7db6d6b916",
-      "pubDate": "Sat, 11 Jul 2026 13:57:02 +0000",
-      "description": "Mojtaba Khamenei afirmou que a vingança pela morte do pai é uma “exigência da nação”.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A470oYvESpeDsSo6Ev5uFZFxxkE2TfXzfsAWUirD17vVAaVYkto%2B%2BIkzaxB6se6m4WTVO5PYRJ0R%2BG%2BK4KANe%2BRdkQTuzWbeAB2FS0iJ%2BL%2Fv7AtUgEgnmTMCxgrdg163d"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Se quiserem \"país dos 3 Salazares\" terão de enfrentar \"o do 25 de Abril\"",
+      "link": "https://www.noticiasaominuto.com/politica/3020135/se-quiserem-pais-dos-3-salazares-terao-de-enfrentar-o-do-25-de-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 19:51:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_660314e28d29e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FC Porto terá apresentado proposta por lateral direito do Flamengo",
-      "link": "https://www.noticiasaominuto.com/desporto/3020113/fc-porto-tera-apresentado-proposta-por-lateral-direito-do-flamengo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 18:22:46",
+      "title": "Número de mortos na Venezuela aumenta para 4.333",
+      "link": "https://www.noticiasaominuto.com/mundo/3020131/numero-de-mortos-na-venezuela-aumenta-para-4333#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 19:41:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52788a4ba1b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjQ0MSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4947cf871ff.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Noruega e Inglaterra medem forças, antes do Argentina-Suíça",
-      "link": "https://www.noticiasaominuto.com/desporto/3020110/em-direto-noruega-e-inglaterra-medem-forcas-antes-do-argentina-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 18:05:24",
+      "title": "Divergências sobre a rede de autarcas do Livre aquecem Congresso",
+      "link": "https://www.noticiasaominuto.com/politica/3020122/divergencias-sobre-a-rede-de-autarcas-do-livre-aquecem-congresso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 19:23:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5277bf50771.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681d26713a64f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg3OSwiY3JvcEhlaWdodCI6MTU2MiwiY3JvcFgiOjE2NzgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Comprou um novo iPad? Aqui estão 10 dicas para tirar máximo partido",
-      "link": "https://www.noticiasaominuto.com/tech/3018601/comprou-um-novo-ipad-aqui-estao-10-dicas-para-tirar-maximo-partido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 18:00:00",
+      "title": "BE defende que Fernando Alexandre \"não tem condições\" para continuar",
+      "link": "https://www.noticiasaominuto.com/politica/3020128/be-defende-que-fernando-alexandre-nao-tem-condicoes-para-continuar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 19:21:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4e97c934565.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoyNzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0OSwiY3JvcEhlaWdodCI6MTY4NywiY3JvcFgiOjExODMsImNyb3BZIjo2fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_692d4b20398f6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Famalicão goleia sub-23 no primeiro teste sem Hugo Oliveira no comando",
-      "link": "https://www.noticiasaominuto.com/desporto/3020108/famalicao-goleia-sub-23-no-primeiro-teste-sem-hugo-oliveira-no-comando#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 17:46:10",
+      "title": "Localidade em Almería pede a desalojados que ainda não regressem",
+      "link": "https://www.noticiasaominuto.com/mundo/3020115/localidade-em-almeria-pede-a-desalojados-que-ainda-nao-regressem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-11 19:19:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d78b4594653.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5288f6ab6e2.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Maxi Araújo e Rodrigo Zalazar preparam assim a nova época no Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3020107/maxi-araujo-e-rodrigo-zalazar-preparam-assim-a-nova-epoca-no-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-11 17:44:57",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5272a66eb74.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEyNywiY3JvcEhlaWdodCI6MjI1LCJjcm9wWCI6MjAxLCJjcm9wWSI6MX19"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Cibersegurança: o que é o TLP e porque é tão importante?",
+      "link": "https://pplware.sapo.pt/internet/ciberseguranca-o-que-e-o-tlp-e-porque-e-tao-importante/",
+      "pubDate": "Sat, 11 Jul 2026 18:30:30 +0000",
+      "description": "A partilha de informação é um dos pilares da cibersegurança. Empresas, organismos públicos, equipas de resposta a incidentes (CSIRT), fabricantes de software e investigadores partilham diariamente indicadores de compromisso (IoC), vulnerabilidades, técnicas de ataque&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/semaforo_01.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Ghost Keeper: quem disse que o terror não pode ser estratégico",
+      "link": "https://pplware.sapo.pt/jogos/ghost-keeper-quem-disse-que-o-terror-nao-pode-ser-estrategico/",
+      "pubDate": "Sat, 11 Jul 2026 18:00:39 +0000",
+      "description": "Após um período de Acesso Antecipado marcado por forte contributo da comunidade, Ghost Keeper prepara-se para o seu lançamento oficial. Trata-se de um jogo de estratégia tática que envolve fantasmas, demónios e outras criaturas&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/GhostKeeper_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Xiaomi-skynomad_.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows 10 ainda recebe funcionalidades do Windows 11, mas só para alguns",
-      "link": "https://pplware.sapo.pt/microsoft/windows/windows-10-ainda-recebe-funcionalidades-do-windows-11-mas-so-para-alguns/",
-      "pubDate": "Sat, 11 Jul 2026 14:00:55 +0000",
-      "description": "O fim do Windows 10 foi declarado e acontecia a um ritmo abaixo do esperado. A Microsoft contribui para isso e agora dá mais um passo considerado contraditório. Em vez de terminar de vez&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/03/windows_10_capa.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "McLaren 788HS: o pináculo da linhagem 700",
+      "link": "https://www.autosport.pt/automais/mclaren-788hs-o-pinaculo-da-linhagem-700/",
+      "pubDate": "Sat, 11 Jul 2026 17:40:08 +0000",
+      "description": "Por Pedro Junceiro Derradeira evolução da família 700 da McLaren, o novo 788 HS eleva o conceito de superdesportivo a um patamar mais extremo, com melhorias profundas no motor, no chassis e na aerodinâmica, e uma produção limitada a apenas 200 unidades, repartidas de forma equitativa entre as varian",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Disney+ pode lançar subscrição gratuita para competir com o YouTube",
-      "link": "https://pplware.sapo.pt/internet/disney-pode-lancar-subscricao-gratuita-para-competir-com-o-youtube/",
-      "pubDate": "Sat, 11 Jul 2026 13:00:20 +0000",
-      "description": "A pouco a pouco as plataformas de streaming estão a tornar-se o padrão. Para reforçar isso, surgem rumores que o Disney+ está a considerar lançar uma subscrição gratuita com anúncios para conter o crescimento&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/04/disney_plus_password_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Novo Kia Seltos desde 33.990 €",
+      "link": "https://www.autosport.pt/automais/novo-kia-seltos-desde-33-990-e/",
+      "pubDate": "Sat, 11 Jul 2026 17:31:35 +0000",
+      "description": "A Kia, no contexto atual de transformação rápida do setor automóvel, trabalha na consolidação da posição comercial na Europa e em Portugal com uma estratégia que combina o aumento da gama de carros elétricos com a renovação (contínua) da gama de modelos com motores térmicos com e sem sistemasde elet",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPVC, Vila Real: João Macedo Silva sempre na frente na corrida 1",
+      "link": "https://www.autosport.pt/velocidade/cpvc-vila-real-joao-macedo-silva-sempre-na-frente-na-corrida-1/",
+      "pubDate": "Sat, 11 Jul 2026 17:08:33 +0000",
+      "description": "João Macedo Silva (Porsche 911 RSR) não deu hipóteses na corrida 1 do CPVC, em Vila Real, com uma prova dominada sem qualquer discussão. Uma corrida bem disputa, sem interrupções e com as máquinas que fazem vibrar os fãs. Na largada, Macedo Silva mostrou nervos de aço e conseguiu aguentar o ataque i",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/wec-em-interlagos-alpine-na-frente-do-tl3-antes-da-qualificacao-para-as-6-horas-de-sao-paulo/",
       "pubDate": "Sat, 11 Jul 2026 15:47:19 +0000",
       "description": "Victor Martins colocou a Alpine no topo da tabela de tempos no circuito de Interlagos, numa sessão matinal marcada por um empate absoluto na categoria LMGT3. Félix da Costa e os seus colegas de equipa no #35 Alpine A424, foram oitavos a menos de meio segundo da frente. O circuito de Interlagos acolh",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: A revolução silenciosa de Laurent Mekies no primeiro ano à frente da Red Bull",
-      "link": "https://www.autosport.pt/formula1/f1-a-revolucao-silenciosa-de-laurent-mekies-no-primeiro-ano-a-frente-da-red-bull/",
-      "pubDate": "Sat, 11 Jul 2026 15:25:39 +0000",
-      "description": "Doze meses após substituir Christian Horner, a equipa mantém o quarto lugar do Mundial, mas a reestruturação interna sinaliza uma rota de rejuvenescimento a médio/longo prazo. Exatamente um ano depois da nomeação de Laurent Mekies como o segundo Chefe de Equipa da história da Red Bull Racing, a form",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPVL, Vila Real: Vasco Barros destacou-se na Corrida 1",
-      "link": "https://www.autosport.pt/velocidade/cpvl-vila-real-vasco-barros-destacou-se-na-corrida-1/",
-      "pubDate": "Sat, 11 Jul 2026 14:34:35 +0000",
-      "description": "Vasco Barros (Mercedes-Benz 190 E 2.3-16V) levou a melhor na primeira corrida do CPVSL, vencendo à geral e na sua categoria que, apesar de alguns contratempos, foi relativamente fluída e com algumas lutas de relevo. Barros teve um arranque de eleição e rapidamente se colocou na frente da corrida, ul",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Marçal Muller e Gaetano Di Mauro conquistam a pole position na Porsche Cup Brasil no AIA",
-      "link": "https://www.autosport.pt/velocidade/marcal-muller-e-gaetano-di-mauro-conquistam-a-pole-position-na-porsche-cup-brasil-no-aia/",
-      "pubDate": "Sat, 11 Jul 2026 14:20:00 +0000",
-      "description": "Marçal Muller e Gaetano Di Mauro vão largar da pole position na ronda de abertura do campeonato de endurance da Porsche Cup Brasil C6 Bank, após dominarem a qualificação deste sábado no AIA.A definição do primeiro lugar da grelha de partida foi obtida através da média das voltas mais rápidas de cada",
       "thumbnail": ""
     }
   ]
