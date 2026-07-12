@@ -1,14 +1,34 @@
 {
-  "updated": "2026-07-12T21:21:58.624610+00:00",
+  "updated": "2026-07-12T22:14:33.386871+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 22h",
+      "title": "Governo substitui 15 diretores do PS por 15 novos do PSD",
+      "link": "https://observador.pt/especiais/sai-ps-entra-psd-15-dos-18-diretores-distritais-da-seguranca-social-sao-militantes-do-psd/",
+      "pubDate": "Sun, 12 Jul 2026 22:39:12 +0100",
+      "description": "Governo completa transição com ajuda de nova lei e afasta todos os dirigentes nomeados na era Costa. Dois terços dos diretores distritais estão em funções sem terem sido avaliados pela CReSAP.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:170/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/29154347/47016264.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Pimenta consegue ouro no Mundial de velocidade de canoagem",
+      "link": "https://observador.pt/2026/07/12/fernando-pimenta-soma-novo-ouro-na-taca-do-mundo-de-velocidade-de-canoagem/",
+      "pubDate": "Sun, 12 Jul 2026 22:27:56 +0100",
+      "description": "Foi a 3.ª medalha portuguesa na Taça do Mundo de Montreal, depois da prata em K4 500 metros, conquistada por Gustavo Gonçalves, João Ribeiro, Messias Baptista e Pedro Casinha, e do ouro em K1 1.000.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/06/16153853/43052105.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "22h. 27 pessoas morreram num incêndio num bar na Tailândia",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1823/",
       "pubDate": "Sun, 12 Jul 2026 22:12:31 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "As causas do incêndio ainda estão sob investigação. Ainda, o Ministro da Administração Interna rejeita ter ameaçado André Ventura durante o debate quinzenal do dia 27 de maio.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,74 +52,84 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mercedes lança berlina desportiva com 3 motores e 1 vibrador",
-      "link": "https://observador.pt/2026/07/12/mercedes-vai-lancar-berlina-desportiva-com-tres-motores-e-um-vibrador/",
-      "pubDate": "Sun, 12 Jul 2026 21:09:51 +0100",
-      "description": "O próximo Mercedes-AMG CLA 45 eléctrico vai montar três motores (dois no eixo traseiro) e um dispositivo que certamente vai provocar alguma surpresa junto de muitos clientes: um vibrador!",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2666:1501:nowe:569:736/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12202402/26c0207-017-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo em bar na Tailândia mata pelo menos 27 pessoas",
-      "link": "https://observador.pt/2026/07/12/pelo-menos-27-pessoas-mortas-devido-a-fogo-em-bar-de-banguecoque-na-tailandia/",
-      "pubDate": "Sun, 12 Jul 2026 21:02:09 +0100",
-      "description": "As causas do incêndio estão sob investigação, garantiu o primeiro-ministro tailandês. Existem ainda 63 feridos, dos quais 22 estão em estado crítico.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:235/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12205943/gettyimages-2283362716-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "21h Técnicos do INEM denunciam falência do atual modelo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-tecnicos-do-inem-denunciam-falencia-do-atual-modelo_a1_1752910",
+      "pubDate": "Mon, 13 Jul 2026 00:00:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"O fado também tem lugar num ambiente mais festivaleiro\"",
-      "link": "https://www.rtp.pt/noticias/cultura/o-fado-tambem-tem-lugar-num-ambiente-mais-festivaleiro_a1752898",
-      "pubDate": "Sun, 12 Jul 2026 23:17:59 +0100",
-      "description": "Participar no NOS Alive, festival que já conhecia como público, tornou a noite especialmente feliz para a fadista Diana Vilarinho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/97/9786164790f6fe565fb9c70ef96fb11f?w=350&amp;q=50&amp;rect=0,15,2048,1123&amp;auto=format"
+      "title": "20h O Secretário-geral das Nações Unidas pede aos EUA e ao Irão para retomarem as negociações",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-o-secretario-geral-das-nacoes-unidas-pede-aos-eua-e-ao-irao-para-retomarem-as-negociacoes_a1_1752909",
+      "pubDate": "Sun, 12 Jul 2026 23:57:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "NOS Alive regressa ao Passeio Marítimo de Algés a 8, 9 e 10 de julho de 2027",
-      "link": "https://www.rtp.pt/noticias/cultura/nos-alive-regressa-ao-passeio-maritimo-de-alges-a-8-9-e-10-de-julho-de-2027_a1752900",
-      "pubDate": "Sun, 12 Jul 2026 23:13:59 +0100",
-      "description": "Em 2027, o festival NOS Alive estará de volta ao Passeio Marítimo de Algés no segundo fim de semana de julho, nos dias 8, 9 e 10, anunciou o diretor do festival NOS Alive.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e9e1dad619247d4b091886d24d5839f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Vítimas mortais no incêndio florestal de Los Gallardos sobem para 13",
+      "link": "https://www.rtp.pt/noticias/mundo/vitimas-mortais-no-incendio-florestal-de-los-gallardos-sobem-para-13_n1752908",
+      "pubDate": "Sun, 12 Jul 2026 23:46:17 +0100",
+      "description": "O número de mortos no incêndio florestal de Los Gallardos, em Almería, subiu para 13, após a morte de uma mulher britânica de 93 anos que estava internada no Hospital de Torrecárdenas, revelaram as autoridades.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mais ouro para Pimenta em Montreal",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/mais-ouro-para-pimenta-em-montreal_d1752906",
-      "pubDate": "Sun, 12 Jul 2026 23:10:01 +0100",
-      "description": "O canoísta português Fernando Pimenta somou nova medalha de ouro na Taça do Mundo de canoagem de velocidade de Montreal, no Canadá, ao vencer a prova de K1 5.000 metros, após o triunfo em K1 1.000 no sábado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b7dbb8f1bc486907f630c7b1932a13b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Exército norte-americano anuncia nova ronda de ataques contra o Irão",
+      "link": "https://www.rtp.pt/noticias/mundo/exercito-norte-americano-anuncia-nova-ronda-de-ataques-contra-o-irao_e1752794",
+      "pubDate": "Sun, 12 Jul 2026 23:34:39 +0100",
+      "description": "As Forças Armadas dos EUA anunciaram que lançaram uma nova ronda de ataques contra o Irão para impedir o país de atacar navios no Estreito de Ormuz. Acompanhámos aqui o evoluir da situação no Médio Oriente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/45a83cd3552c99db8129c3f62bc9442d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndio industrial em Camarate dado como dominado",
-      "link": "https://www.rtp.pt/noticias/pais/incendio-industrial-em-camarate-dado-como-dominado_n1752903",
-      "pubDate": "Sun, 12 Jul 2026 22:40:20 +0100",
-      "description": "O incêndio deflagrou numa zona de armazéns em Camarate, perto do aeroporto de Lisboa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f8d3c365d44d35b6b4bbef780f7b118?w=350&amp;q=50&amp;rect=0,15,2048,1123&amp;auto=format"
+      "title": "Mais de meia centena de mortos nas cheias em Bangladesh",
+      "link": "https://www.rtp.pt/noticias/mundo/mais-de-meia-centena-de-mortos-nas-cheias-em-bangladesh_n1752896",
+      "pubDate": "Sun, 12 Jul 2026 23:27:03 +0100",
+      "description": "Mais de meia centena de pessoas morreram vítimas das inundações e deslizamentos de terra provocados pelas fortes chuvas no leste de Bangladesh, segundo o último balanço feito hoje pelo Governo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d412fc84b7da41261de07213f8a127bd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio num bar em Banguecoque faz pelo menos 27 mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-num-bar-em-banguecoque-faz-pelo-menos-27-mortos_n1752893",
-      "pubDate": "Sun, 12 Jul 2026 22:12:40 +0100",
-      "description": "Um incêndio consumiu um bar na zona norte de Banguecoque, a capital da Tailândia, e fez pelo menos 27 mortos, anunciaram as autoridades este domingo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fc/fc01f67f96eb9a1cb65a390ab6737821?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Hulk estreia-se a marcar no regresso de Thiago Silva ao Fluminense",
+      "link": "https://maisfutebol.iol.pt/brasil/internacional/video-hulk-estreia-se-a-marcar-no-regresso-de-thiago-silva-ao-fluminense",
+      "pubDate": "Sun, 12 Jul 2026 23:06:32 +0100",
+      "description": "Equipa carioca venceu o Bahia (2-0) no último teste antes do recomeço do Brasileirão",
+      "thumbnail": "https://img.iol.pt/image/id/69fa72b3d34edcee7c63d0c3/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mercado: FC Porto conservador, Sporting gastador e Benfica expectante",
+      "link": "https://maisfutebol.iol.pt/transferencias/mercado/mercado-fc-porto-conservador-sporting-gastador-e-benfica-expectante",
+      "pubDate": "Sun, 12 Jul 2026 23:04:00 +0100",
+      "description": "Fazendo um balanço das transferências completadas até ao momento, o Sporting é quem mais gastou, mas também aquele que soma maior lucro na balança comercial. FC Porto está no vermelho e Benfica pouco ativo",
+      "thumbnail": "https://img.iol.pt/image/id/6a53d52bd34ef04b4f3f606b/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Canoagem: Fernando Pimenta conquista novo ouro na Taça do Mundo",
+      "link": "https://maisfutebol.iol.pt/canoagem/modalidades/canoagem-fernando-pimenta-conquista-novo-ouro-na-taca-do-mundo",
+      "pubDate": "Sun, 12 Jul 2026 22:36:08 +0100",
+      "description": "Canoísta português venceu o K1 5.000 metros em Montreal",
+      "thumbnail": "https://img.iol.pt/image/id/666ef617d34e04989221ff1f/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,44 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/69a8cc22d34e28842c815fd6/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica confirma lesão muscular «grave» de Umeh na coxa direita",
-      "link": "https://maisfutebol.iol.pt/benfica/jaden-umeh/benfica-confirma-lesao-muscular-grave-de-umeh-na-coxa-direita",
-      "pubDate": "Sun, 12 Jul 2026 19:58:00 +0100",
-      "description": "Extremo de 18 anos saiu com queixas do jogo entre Benfica e Flamengo, este sábado, após uma entrada dura de Emerson Royal",
-      "thumbnail": "https://img.iol.pt/image/id/6a53e44ed34ef04b4f3f6087/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ténis: Sinner bate Zverev e sagra-se bicampeão em Wimbledon",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-sinner-bate-zverev-e-sagra-se-bicampeao-em-wimbledon",
-      "pubDate": "Sun, 12 Jul 2026 19:57:00 +0100",
-      "description": "Tenista italiano venceu por 3-1 em quase 4h de jogo",
-      "thumbnail": "https://img.iol.pt/image/id/6a53e825d34e511da0b2cced/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Carolina Alves reforça baliza do Sporting",
-      "link": "https://maisfutebol.iol.pt/futebol-feminino/carolina-alves/oficial-carolina-alves-reforca-baliza-do-sporting",
-      "pubDate": "Sun, 12 Jul 2026 19:55:31 +0100",
-      "description": "Guarda-redes de 20 anos deixa o Valadares Gaia e assina até junho de 2028",
-      "thumbnail": "https://img.iol.pt/image/id/6a53e07cd34ef04b4f3f607f/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Foram convocados mais professores para corrigir exames a três dias do fim do prazo, diz Missão Escola Pública",
-      "link": "https://sapo.pt/artigo/foram-convocados-mais-professores-para-corrigir-exames-a-tres-dias-do-fim-do-prazo-diz-missao-escola-publica-6a53df1a93000f7db622e54d",
-      "pubDate": "Sun, 12 Jul 2026 18:39:35 +0000",
-      "description": "Porta-voz do movimento diz que vários professores foram informados ontem 11 de julho, ao final da tarde, pelos agrupamentos do Júri Nacional de Exames, que iriam receber itens para classificar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=674&W=1200&crop=center&delay_optim=1&epic=V2%3ACwbowry9CYT1yJnuodjgc0XsylBQgPOHaJoT86aRHJXe2D74Si4wdlD%2FJ6yW6j2K7iegdPkRT7VhDfbYmgctgZNtyJie1voSjXR2bChtEGYB%2BdIbKMZLn7UA%2FoMB8Omu"
+      "title": "Exames: dezenas de técnicos do EduQA procuram respostas em falta durante a madrugada",
+      "link": "https://sapo.pt/artigo/exames-dezenas-de-tecnicos-do-eduqa-procuram-respostas-em-falta-durante-a-madrugada-6a5402f393000f7db62b8cff",
+      "pubDate": "Sun, 12 Jul 2026 21:50:53 +0000",
+      "description": "Cerca de 40 técnicos trabalham em contrarrelógio à procura das respostas em papel que desapareceram. O reforço de última hora acontece nas vésperas do prazo para a correção dos exames chegar ao fim.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=551&W=979&crop=center&delay_optim=1&epic=V2%3AnvA9gU6nx1YG4ZxiKnphQfvc77kP5QxV6L2s5x2UYgDlrlhZ3WAXX8pHeJIF4KWt1WDq9ee4OT5rpIZjx30eJ7Ri2M5otcP8MVsOVNSbTNvSch5bjB61EJPkyxRAfl3e"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Jorge Pinto quer Livre “no poder já no próximo ciclo eleitoral”",
-      "link": "https://jornaleconomico.sapo.pt/noticias/jorge-pinto-quer-livre-no-poder-ja-no-proximo-ciclo-eleitoral/",
-      "pubDate": "Sun, 12 Jul 2026 15:53:40 +0000",
-      "description": "“Foi para isso que o Livre nasceu: para ser poder, para mudar a vida das pessoas e para dizer que há um Portugal que nós amamos e pelo qual vale a pena luta\", disse Jorge Pinto.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AmFKnoCYiFBt7UfAm82MPFWbFnISx%2BYcHWdmwe1hRpUzYtcs6Djo5ZtjozKR%2FvNjwhIs9jamnf5Mh2JEXLaAYPu%2B0dswp6gqWx%2F1CPgeeSBPcdsCPtVf9Wx1K9E%2BI97Vn"
+      "title": "”Reconheço que hoje faria de maneira diferente\": Ministro Luís Neves responde a polémica com empreiteiro amigo",
+      "link": "https://sapo.pt/artigo/reconheco-que-hoje-faria-de-maneira-diferente-ministro-luis-neves-responde-a-polemica-com-empreiteiro-amigo-6a53fdfd93000f7db62a07a0",
+      "pubDate": "Sun, 12 Jul 2026 20:54:24 +0000",
+      "description": "O ministro da Administração Interna tem estado a braços com uma polémica contratação de um empreiteiro que fez obras também na Polícia Judiciária. Luís Neves nega irregularidades, mas reconhece que teria agido de forma diferente",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Abgcd%2BSO0sET4pZEdMk03TIbAoQ7sI9jFkL%2BQVxG%2BgJbapcGz7s4oLklXKM0dd9ia0sVUokB0SvjDtt1SYtCBCRMej1D59mVy9IPP0lFUew7LlS2PO9Rbx69SL7MVtuj0"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Resgatadas duas pessoas numa cratera geológica na ilha de São Miguel",
-      "link": "https://www.noticiasaominuto.com/pais/3020393/resgatadas-duas-pessoas-numa-cratera-geologica-na-ilha-de-sao-miguel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 22:18:22",
+      "title": "Universitatea Craiova, de Filipe Coelho, conquista Supertaça da Roménia",
+      "link": "https://www.noticiasaominuto.com/desporto/3020403/universitatea-craiova-de-filipe-coelho-conquista-supertaca-da-romenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 23:07:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6637e7a03ab9b.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69cd89f1ad7f6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O empreiteiro na PJ e obras em imóvel de Odemira: MAI esclarece polémica",
-      "link": "https://www.noticiasaominuto.com/pais/3020388/o-empreiteiro-na-pj-e-obras-em-imovel-de-odemira-mai-esclarece-polemica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 22:10:08",
+      "title": "Ice Spice faz \"maior piercing na língua do mundo\"",
+      "link": "https://www.noticiasaominuto.com/fama/3019062/ice-spice-faz-maior-piercing-na-lingua-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 23:00:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69e275feac574.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6LTEsImNyb3BZIjoxMTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NSwiY3JvcEhlaWdodCI6MTcxNSwiY3JvcFgiOjEwMjksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4fa8e8a1fc7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzE2LCJjcm9wSGVpZ2h0Ijo3NDAsImNyb3BYIjoxMSwiY3JvcFkiOjUyMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODQyLCJjcm9wSGVpZ2h0IjoxNDk3LCJjcm9wWCI6NDc0LCJjcm9wWSI6MTM2fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Roy Keane atira-se ao pai de Haaland: \"Se beberes, vês um jogo diferente\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3020390/roy-keane-atira-se-ao-pai-de-haaland-se-beberes-ves-um-jogo-diferente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 22:05:32",
+      "title": "N.º de mortos após incêndio em Almería sobe para 13. Vítima tinha 93 anos",
+      "link": "https://www.noticiasaominuto.com/mundo/3020400/n-de-mortos-apos-incendio-em-almeria-sobe-para-13-vitima-tinha-93-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 22:50:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a54018adbbb7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47450321.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio deflagra em armazém de Loures. Viaturas ficaram danificadas",
-      "link": "https://www.noticiasaominuto.com/pais/3020386/incendio-consome-armazem-em-loures-mais-de-50-bombeiros-no-local#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 21:38:21",
+      "title": "Mundial2026: Afluência nos estádios já ultrapassa duas últimas edições",
+      "link": "https://www.noticiasaominuto.com/desporto/3020396/mundial2026-afluencia-nos-estadios-ja-ultrapassa-duas-ultimas-edicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 22:36:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6910f161a72c6.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d724c8e3a6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3020226/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 21:30:24",
+      "title": "Fernando Pimenta soma novo ouro na Taça do Mundo de velocidade",
+      "link": "https://www.noticiasaominuto.com/desporto/3020394/fernando-pimenta-soma-novo-ouro-na-taca-do-mundo-de-velocidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 22:20:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a533fa9e3154.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzQyLCJjcm9wSGVpZ2h0Ijo5ODAsImNyb3BYIjozNCwiY3JvcFkiOjE5OH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43052105.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Nem uma VPN impede o Windows 11 de vigiar os seus utilizadores",
+      "link": "https://pplware.sapo.pt/microsoft/windows/nem-uma-vpn-impede-o-windows-11-de-vigiar-os-seus-utilizadores/",
+      "pubDate": "Sun, 12 Jul 2026 21:30:44 +0000",
+      "description": "A recente detenção de um hacker informático revelou que a Microsoft utiliza um identificador secreto no Windows para monitorizar a atividade dos utilizadores sem o seu consentimento. O que é o GDID e como&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/windows_11.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/CoHFS_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Retinas humanas “ressuscitadas” responderam à luz até 10 horas após a morte",
-      "link": "https://pplware.sapo.pt/ciencia/retinas-humanas-ressuscitadas-responderam-a-luz-ate-10-horas-apos-a-morte/",
-      "pubDate": "Sun, 12 Jul 2026 17:00:48 +0000",
-      "description": "O que acontece aos nossos olhos depois de morrermos? A resposta parece ser mais complexa do que se pensava. Cientistas conseguiram restaurar a capacidade de retinas humanas responderem à luz até 10 horas após&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/retina_10horas00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WEC/6 Horas de São Paulo: WRT BMW vence após ‘colapso’ da Cadillac, Félix da Costa 10º",
+      "link": "https://www.autosport.pt/velocidade/wec-6-horas-de-sao-paulo-wrt-bmw-vence-apos-colapso-da-cadillac-felix-da-costa-10o/",
+      "pubDate": "Sun, 12 Jul 2026 21:29:39 +0000",
+      "description": "A equipa WRT BMW conquistou a sua segunda vitória da temporada no Campeonato do Mundo de Resistência (WEC), ao triunfar nas 6 Horas de São Paulo. Num dia marcado por contratempos sucessivos para a Hertz Team JOTA, que partiu da primeira linha, o trio composto por Kevin Magnussen, Raffaello Marciello",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/wec-como-assistir-as-corridas-de-endurance-como-um-especialista/",
       "pubDate": "Sun, 12 Jul 2026 16:55:46 +0000",
       "description": "A ciência da estratégia no FIA WEC desmistificada numa era dourada do desporto&#8230; O Campeonato Mundial de Resistência da FIA (WEC) vive uma era dourada, impulsionada pela entrada de novos construtores e pela chegada de um público global. Perante uma competição cada vez mais complexa, a FIA e as ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPV, Vila Real, Corrida 2: anti-clímax atrás do Safety Car, triunfo de Carlos Vieira e Hendrik Stil",
-      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-corrida-2-anti-climax-atras-do-safety-car-triunfo-de-carlos-vieira-e-hendrik-stil/",
-      "pubDate": "Sun, 12 Jul 2026 14:46:16 +0000",
-      "description": "Numa corrida neutralizada duas vezes por Safety Car devido a acidentes, tudo terminou com o anti clímax dos concorrentes a verem a bandeira axadrezada atrás do Safety Car. O triunfo foi para Carlos Vieira/Hendrik Still no Porsche Cayman CS RS da Veloso Motorsport, batendo César Machado e Pedro Salva",
       "thumbnail": ""
     }
   ]
