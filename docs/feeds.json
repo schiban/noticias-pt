@@ -1,33 +1,23 @@
 {
-  "updated": "2026-07-12T01:02:29.455550+00:00",
+  "updated": "2026-07-12T04:49:57.738594+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ex-Benfica Manú morreu na sequência de acidente de viação",
-      "link": "https://observador.pt/2026/07/12/ex-futebolista-de-benfica-manu-morreu-na-sequencia-de-acidente-de-viacao-tinha-45-anos/",
-      "pubDate": "Sun, 12 Jul 2026 01:52:55 +0100",
-      "description": "Manú morreu este sábado aos 45 anos, vítima de um acidente. Ex-jogador passou por Benfica, Alverca, Marítimo, Lourinhanense, E. Amadora, V. Setúbal, Cartaxo e Vilafranquense, onde acabou a carreira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1208:678:nowe:0:13/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12015006/manu-1-new.jpg"
+      "title": "Argentina resiste à ideia do Europeu no meio do Mundial",
+      "link": "https://observador.pt/2026/07/12/argentina-continua-a-resistir-a-ideia-do-europeu-no-meio-do-mundial-campea-em-titulo-tem-pela-frente-classico-com-a-inglaterra/",
+      "pubDate": "Sun, 12 Jul 2026 05:37:59 +0100",
+      "description": "Pela primeira vez na história dos Mundiais, os quatro primeiros do ranking FIFA estão nas meias-finais. Messi tornou-se no primeiro jogador a chegar às dez assistências.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2118:1189:nowe:0:223/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12052650/gettyimages-2285142647.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Noruega queixa-se de golo irregular por toque num... cabo",
-      "link": "https://observador.pt/2026/07/12/noruega-queixa-se-de-golo-irregular-de-bellingham-por-toque-num-cabo-inglaterra-volta-as-meias-em-jogo-historico-de-jude-e-kane/",
-      "pubDate": "Sun, 12 Jul 2026 01:30:44 +0100",
-      "description": "O golo do empate de Bellingham poderá ter sido irregular, com os noruegueses a reclamarem um toque da bola num cabo da \"sky cam\". FIFA diz que sensor não mexeu, mas antenas estão à altura do relvado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12011347/gettyimages-2285682628-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2321/",
-      "pubDate": "Sun, 12 Jul 2026 01:14:17 +0100",
+      "title": "As notícias das 5h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1548/",
+      "pubDate": "Sun, 12 Jul 2026 05:15:42 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -35,21 +25,61 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Entre vikings e Oasis, emerge o Wonderwall de Jude",
-      "link": "https://observador.pt/2026/07/12/ha-quem-olhe-para-jude-e-veja-o-seu-wonderwall-quando-os-vikings-ameacam-transformar-miami-num-oasis-a-cronica-do-noruega-inglaterra/",
-      "pubDate": "Sun, 12 Jul 2026 01:04:06 +0100",
-      "description": "Quando Inglaterra mais precisa, Bellingham aparece. Depois de Schjelderup ter animado o jogo com um dos golos do torneio, Jude apareceu, levou o jogo para o prolongamento e resolveu sabe (1-2, a.p.).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12004908/gettyimages-2285108249-scaled.jpg"
+      "title": "A rebelião não olha para o relógio e gosta de dar chocolate",
+      "link": "https://observador.pt/2026/07/12/nao-olham-para-o-relogio-e-gostam-de-dar-chocolate-a-rebeliao-da-aranha-voltou-a-explorar-vulnerabilidades-a-cronica-do-argentina-suica/",
+      "pubDate": "Sun, 12 Jul 2026 04:57:30 +0100",
+      "description": "Começou bem, mas pouco mais se viu até descambar depois do intervalo. Suíça encostou Argentina às cordas, com a expulsão de Embolo a renascer a albiceleste. Prolongamento trouxe golaço (3-1, a.p.).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:91/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12045441/gettyimages-2285711698-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Culpar o país pelo falhanço do PS em Almada? Não, obrigado",
-      "link": "https://observador.pt/opiniao/culpar-o-pais-pelo-falhanco-do-ps-em-almada-nao-obrigado/",
-      "pubDate": "Sun, 12 Jul 2026 00:25:45 +0100",
-      "description": "A falta de água em Almada não é um exemplo do falhanço do país. O país fez progressos visíveis no abastecimento de água potável. O que falhou em Almada foi um poder municipal abaixo de medíocre",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg"
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2341/",
+      "pubDate": "Sun, 12 Jul 2026 04:13:54 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Castro Almeida admite que modelo de exames correu mal",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2375/",
+      "pubDate": "Sun, 12 Jul 2026 03:15:56 +0100",
+      "description": "O ministro da Economia desvaloriza o impacto, mas assume preocupação. Em entrevista à SIC Notícias, o governante admitiu ainda que a meta de crescimento de 3,4% até 2028 vai ser \"muito difícil\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Ataques do Irão a países do Golfo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ataques-do-irao-a-paises-do-golfo_a1_1752786",
+      "pubDate": "Sun, 12 Jul 2026 05:23:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Várias explosões no sul do Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-varias-explosoes-no-sul-do-irao_a1_1752784",
+      "pubDate": "Sun, 12 Jul 2026 04:23:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h EUA lançam nova vaga de ataques contra o Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-eua-lancam-nova-vaga-de-ataques-contra-o-irao_a1_1752783",
+      "pubDate": "Sun, 12 Jul 2026 03:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Há professores classificadores ainda à espera de folhas de resposta dos exames nacionais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ha-professores-classificadores-ainda-a-espera-de-folhas-de-resposta-dos-exames-nacionais_a1_1752777",
-      "pubDate": "Sun, 12 Jul 2026 01:41:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "FC Porto arranca com empate à porta fechada",
-      "link": "https://www.rtp.pt/noticias/fc-porto/fc-porto-arranca-com-empate-a-porta-fechada_d1752775",
-      "pubDate": "Sun, 12 Jul 2026 00:06:49 +0100",
-      "description": "O FC Porto empatou com os escoceses do Hibernian por 1-1, no seu primeiro jogo de pré-temporada, disputado à porta fechada, divulgaram os campeões portugueses.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca8748960ecf8fcc694e3371a38ef7c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Benfica perde primeiro jogo da pré-época",
-      "link": "https://www.rtp.pt/noticias/benfica/benfica-perde-primeiro-jogo-da-pre-epoca_d1752774",
-      "pubDate": "Sun, 12 Jul 2026 00:03:17 +0100",
-      "description": "O Benfica perdeu hoje por 2-1 com o Flamengo no primeiro jogo com público na era Marco Silva, encontro de preparação, no Troféu do Algarve, disputado em Faro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf68c9338bfc1f3c00b899525049fe8e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: Argentina-Suíça, 3-1 (crónica)",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/mundial2026/mundial-2026-argentina-suica-3-1-cronica",
+      "pubDate": "Sun, 12 Jul 2026 04:55:40 +0100",
+      "description": "Um coelho destes não sai de qualquer cartola…",
+      "thumbnail": "https://img.iol.pt/image/id/6a530f81d34e511da0b2cbc4/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 12 Jul 2026 00:52:00 +0100",
       "description": "Bellingham igualou o compatriota Harry Kane com seis golos",
       "thumbnail": "https://img.iol.pt/image/id/6a52b668d34ef04b4f3f5f4a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: todos os jogos, datas, horas e resultados",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/jogos/mundial-2026-todos-os-jogos-datas-horas-e-resultados",
-      "pubDate": "Sun, 12 Jul 2026 00:46:00 +0100",
-      "description": "São 104 partidas ao longo de 39 dias",
-      "thumbnail": "https://img.iol.pt/image/id/69316e8bd34e2bd5c6d4bb0a/250"
     },
     {
       "sourceId": "sapo",
