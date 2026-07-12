@@ -1,93 +1,83 @@
 {
-  "updated": "2026-07-12T17:59:35.051489+00:00",
+  "updated": "2026-07-12T19:16:48.772405+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Maus resultados nos exames",
-      "link": "https://observador.pt/opiniao/maus-resultados-nos-exames/",
-      "pubDate": "Sun, 12 Jul 2026 18:43:16 +0100",
-      "description": "Depois dos exames do secundário, a avaliação universitária foi capturada por um facilitismo que traz os alunos até classificações que não correspondem à robustez e versatilidade dos seus conhecimentos",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Como a LiveMode está a mudar a forma de ver futebol",
-      "link": "https://observador.pt/especiais/nada-sera-como-antes-como-a-livemode-esta-a-mudar-a-forma-de-ver-futebol-em-portugal/",
-      "pubDate": "Sun, 12 Jul 2026 18:41:24 +0100",
-      "description": "Neste Mundial de 2026 as transmissões dos jogos mudaram. Em Portugal, apareceu a LiveMode que passa partidas no Youtube. O que promete mudar o mercado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2584:1453:nowe:0:135/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10182511/gettyimages-2284541306.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Senador Mitch McConnell não é visto há quase um mês",
-      "link": "https://observador.pt/2026/07/12/nao-faco-ideia-como-esta-senador-mitch-mcconnell-nao-e-visto-ha-quase-um-mes-depois-de-ter-ido-de-ambulancia-para-hospital-em-washington/",
-      "pubDate": "Sun, 12 Jul 2026 18:30:06 +0100",
-      "description": "Não é conhecido o estado de saúde do senador republicano de 84 anos, que foi para o hospital no passado dia 14 de junho. Ausência de McConnell pode complicar poder do partido no Senado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/07/16191642/gettyimages-1948400884-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "18h. Eleições em Israel marcadas para 27 de outubro",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2094/",
-      "pubDate": "Sun, 12 Jul 2026 18:15:39 +0100",
-      "description": "Vai ser a primeira legislatura a ser cumprida em quase quarenta anos. Ainda, em Almada, o novo furo de água já está a funcionar com o objetivo de diminuir os problemas no abastecimento.",
+      "title": "As notícias das 20h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2000/",
+      "pubDate": "Sun, 12 Jul 2026 20:14:45 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ucrânia. Presidente anuncia remodelação ministerial",
-      "link": "https://observador.pt/2026/07/12/presidente-da-ucrania-anuncia-remodelacao-ministerial-e-substitui-primeira-ministra/",
-      "pubDate": "Sun, 12 Jul 2026 18:12:55 +0100",
-      "description": "Volodymyr Zelensky afirmou que o país \"está a mudar a sua estratégia política\". Yuliia Svyrydenko foi nomeada no verão de 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:44/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12144847/47425036.jpg"
+      "title": "MAI nega ter ameaçado Ventura no Parlamento",
+      "link": "https://observador.pt/2026/07/12/ministro-da-administracao-interna-nega-ter-ameacado-andre-ventura-chega-pediu-reuniao-com-presidente-da-republica/",
+      "pubDate": "Sun, 12 Jul 2026 20:10:41 +0100",
+      "description": "Luís Neves diz ainda ser \"estranho\" que as alegações do partido tenham surgido tanto tempo depois e acusa o partido de \"truncar imagens\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1998:1126:nowe:0:207/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17200400/47301716.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "IL aposta em lei de bases da Proteção Civil",
+      "link": "https://observador.pt/2026/07/12/il-aposta-em-lei-de-bases-da-protecao-civil-contra-sistema-demasiado-reativo-e-a-contar-com-cidadao-agente/",
+      "pubDate": "Sun, 12 Jul 2026 20:05:35 +0100",
+      "description": "Partido liderado por Mariana Leitão avança com proposta de lei de bases da Proteção Civil está segunda-feira. Cidadão passa a ser central e aposta é numa lógica de prevenção.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/18135659/dventura-pr-recebe-partidos-il-11-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Desta vez, Sinner aproveitou o facto de Carlos não estar lá",
+      "link": "https://observador.pt/2026/07/12/desta-vez-ele-conseguiu-mesmo-aproveitar-o-facto-de-carlos-nao-estar-la-sinner-vence-zverev-e-volta-a-conquistar-wimbledon/",
+      "pubDate": "Sun, 12 Jul 2026 19:58:38 +0100",
+      "description": "Depois de cair cedo em Roland Garros, o italiano não desperdiçou uma nova oportunidade em Wimbledon e venceu Alexander Zverev para revalidar o título e chegar ao quinto Grand Slam da carreira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12200359/gettyimages-2285213897.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Líder do PSD/Madeira exige da República \"respeito\"",
+      "link": "https://observador.pt/2026/07/12/lider-do-psd-madeira-exige-da-republica-respeito-e-consideracao-e-garante-que-governo-regional-nao-vai-fazer-fretes/",
+      "pubDate": "Sun, 12 Jul 2026 19:49:52 +0100",
+      "description": "Miguel Albuquerque discursou durante a tradicional festa anual do PSD/Madeira e defendeu que o Estado tem de \"assumir de uma vez por todas\" os custos e sobrecustos de várias áreas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:137/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/16111358/44951465.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Irão diz que \"mísseis inimigos\" atingiram a ilha de Qeshm",
-      "link": "https://www.rtp.pt/noticias/mundo/irao-diz-que-misseis-inimigos-atingiram-a-ilha-de-qeshm_e1752794",
-      "pubDate": "Sun, 12 Jul 2026 19:31:38 +0100",
-      "description": "Os EUA atacaram 140 alvos iranianos e Teerão retaliou. A Guarda Revolucionária Islâmica do Irão atingiu centros de apoio logístico a navios da marinha norte-americana. Acompanhamos aqui o evoluir da situação no Médio Oriente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c486d54c71f9976a6255b4cfb1f552a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Carlos Carvalhal assina pelo Famalicão",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/carlos-carvalhal-assina-pelo-famalicao_d1752881",
+      "pubDate": "Sun, 12 Jul 2026 20:49:45 +0100",
+      "description": "Carlos Carvalhal é o novo treinador do Famalicão, com contrato assinado por uma temporada, anunciou o clube.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d82f7e8f173051c809fdcb4b07afa5ed?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Rajoy criticado por \"declarações racistas e xenófobas\" contra a seleção francesa",
-      "link": "https://www.rtp.pt/noticias/mundial-2026/rajoy-criticado-por-declaracoes-racistas-e-xenofobas-contra-a-selecao-francesa_d1752869",
-      "pubDate": "Sun, 12 Jul 2026 19:26:17 +0100",
-      "description": "Os governos espanhol e francês classificaram hoje como racistas e xenófobas as declarações do ex-chefe do Governo espanhol Mariano Rajoy sobre a seleção francesa de futebol, que disse ser uma equipa boa, mas &quot;sem franceses&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0dd88aa42eaff6e2cf7c8d2cf6e668b7?w=350&amp;q=50&amp;rect=0,156,1500,822&amp;auto=format"
+      "title": "A 27 de outubro. Eleições para o Knesset, um referendo ao primeiro-ministro Netanyahu",
+      "link": "https://www.rtp.pt/noticias/mundo/a-27-de-outubro-eleicoes-para-o-knesset-um-referendo-ao-primeiro-ministro-netanyahu_n1752879",
+      "pubDate": "Sun, 12 Jul 2026 20:18:18 +0100",
+      "description": "O Knesset conclui o atual mandato a 17 de julho, o que fará com que, pela primeira vez em décadas, um executivo cumpra integralmente a legislatura de quatro anos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec2bc51547b9fb56f738bd3fd888e131?w=350&amp;q=50&amp;rect=0,55,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Israel marca eleições legislativas para 27 de outubro",
-      "link": "https://www.rtp.pt/noticias/mundo/israel-marca-eleicoes-legislativas-para-27-de-outubro_n1752870",
-      "pubDate": "Sun, 12 Jul 2026 19:22:31 +0100",
-      "description": "As próximas eleições legislativas israelitas, as primeiras desde o ataque inédito do islamista palestiniano Hamas, a 7 de outubro de 2023, realizar-se-ão em 27 de outubro, anunciou hoje a conselheira jurídica do Parlamento, Sagit Afik.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h Cresce o ambiente de tensão entre os EUA e Irão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-cresce-o-ambiente-de-tensao-entre-os-eua-e-irao_a1_1752872",
-      "pubDate": "Sun, 12 Jul 2026 19:16:02 +0100",
+      "title": "19h Secretário-Geral da ONU apela à contenção entre os EUA e Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-secretario-geral-da-onu-apela-a-contencao-entre-os-eua-e-irao_a1_1752880",
+      "pubDate": "Sun, 12 Jul 2026 20:16:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,61 +85,71 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Morreram seis pessoas na Ucrânia em ataques russos, cinco na resposta de Kiev",
-      "link": "https://www.rtp.pt/noticias/mundo/morreram-seis-pessoas-na-ucrania-em-ataques-russos-cinco-na-resposta-de-kiev_n1752866",
-      "pubDate": "Sun, 12 Jul 2026 18:59:38 +0100",
-      "description": "Summy, Kiev, Kharkiv, Dnipro, Donetsk, Kherson e Zaporizhia foram este sábado alvos das forças russas. Kiev respondeu em força.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d9c1f37e38c1d4141b89a98164b78620?w=350&amp;q=50&amp;rect=0,152,1500,822&amp;auto=format"
+      "title": "Embarcação sobrelotada com recorde de 128 migrantes atravessa Canal da Mancha",
+      "link": "https://www.rtp.pt/noticias/mundo/embarcacao-sobrelotada-com-recorde-de-128-migrantes-atravessa-canal-da-mancha_n1752876",
+      "pubDate": "Sun, 12 Jul 2026 20:04:58 +0100",
+      "description": "Mais de 200 migrantes chegaram sexta-feira à costa inglesa em três barcos, um dos quais com 128 pessoas a bordo, um recorde para uma única embarcação na perigosa travessia do Canal da Mancha.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/44/44b6e5fd3fe0b732fa6bb2e7e5644b9c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tiago Antunes conquista Troféu Joaquim Agostinho",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/tiago-antunes-conquista-trofeu-joaquim-agostinho_d1752877",
+      "pubDate": "Sun, 12 Jul 2026 19:57:43 +0100",
+      "description": "O ‘local’ Tiago Antunes conquistou o 49.º Troféu Joaquim Agostinho, subindo ao lugar mais alto de um pódio composto exclusivamente por ciclistas portugueses, após a chegada ao alto de Montejunto, onde se impôs José Neves.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/04222821242ee55f4e277236896bbd16?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Emerson: «Prestianni? Para azar dele, apareceu naquele sítio à hora errada»",
-      "link": "https://maisfutebol.iol.pt/benfica/emerson/emerson-prestianni-para-azar-dele-apareceu-naquele-sitio-a-hora-errada",
-      "pubDate": "Sun, 12 Jul 2026 18:41:00 +0100",
-      "description": "Defesa do Flamengo aborda a polémica entre o argentino do Benfica e Vinicius Júnior",
-      "thumbnail": "https://img.iol.pt/image/id/6a53cbecd34e511da0b2ccad/250"
+      "title": "Benfica confirma lesão muscular «grave» de Umeh na coxa direita",
+      "link": "https://maisfutebol.iol.pt/benfica/jaden-umeh/benfica-confirma-lesao-muscular-grave-de-umeh-na-coxa-direita",
+      "pubDate": "Sun, 12 Jul 2026 19:58:00 +0100",
+      "description": "Extremo de 18 anos saiu com queixas do jogo entre Benfica e Flamengo, este sábado, após uma entrada dura de Emerson Royal",
+      "thumbnail": "https://img.iol.pt/image/id/6a53e44ed34ef04b4f3f6087/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Carlos Carvalhal é o novo treinador do Famalicão",
-      "link": "https://maisfutebol.iol.pt/famalicao/carlos-carvalhal/oficial-carlos-carvalhal-e-o-novo-treinador-do-famalicao",
-      "pubDate": "Sun, 12 Jul 2026 18:17:00 +0100",
-      "description": "Técnico português assina um contrato válido até ao fim da temporada de 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a53cd43d34ef04b4f3f605d/250"
+      "title": "Ténis: Sinner bate Zverev e sagra-se bicampeão em Wimbledon",
+      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-sinner-bate-zverev-e-sagra-se-bicampeao-em-wimbledon",
+      "pubDate": "Sun, 12 Jul 2026 19:57:00 +0100",
+      "description": "Tenista italiano venceu por 3-1 em quase 4h de jogo",
+      "thumbnail": "https://img.iol.pt/image/id/6a45288dd34edcee7c65ef51/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Quartel-general da seleção inglesa veste-se a rigor para receber o FC Porto",
-      "link": "https://maisfutebol.iol.pt/fc-porto/pre-epoca/quartel-general-da-selecao-inglesa-veste-se-a-rigor-para-receber-o-fc-porto",
-      "pubDate": "Sun, 12 Jul 2026 18:15:00 +0100",
-      "description": "Azuis e brancos vão estagiar em Inglaterra de segunda-feira a sábado",
-      "thumbnail": "https://img.iol.pt/image/id/6a53c832d34ef04b4f3f6050/250"
+      "title": "OFICIAL: Carolina Alves reforça baliza do Sporting",
+      "link": "https://maisfutebol.iol.pt/futebol-feminino/carolina-alves/oficial-carolina-alves-reforca-baliza-do-sporting",
+      "pubDate": "Sun, 12 Jul 2026 19:55:31 +0100",
+      "description": "Guarda-redes de 20 anos deixa o Valadares Gaia e assina até junho de 2028",
+      "thumbnail": "https://img.iol.pt/image/id/6a53e07cd34ef04b4f3f607f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Hugo Oliveira deixa o Famalicão e é o novo treinador do Estrasburgo",
-      "link": "https://maisfutebol.iol.pt/famalicao/estrasburgo/oficial-famalicao-anuncia-saida-de-hugo-oliveira",
-      "pubDate": "Sun, 12 Jul 2026 18:05:00 +0100",
-      "description": "Clube francês exerceu a cláusula de rescisão do técnico",
-      "thumbnail": "https://img.iol.pt/image/id/6a53cce8d34ef04b4f3f605c/250"
+      "title": "Prestianni reage após o Benfica-Flamengo: «Não responder também é carácter»",
+      "link": "https://maisfutebol.iol.pt/benfica/prestianni/prestianni-reage-apos-o-benfica-flamengo-nao-responder-tambem-e-caracter",
+      "pubDate": "Sun, 12 Jul 2026 19:23:43 +0100",
+      "description": "Argentino recorreu às redes sociais depois de um particular marcado por entradas duras e tensão",
+      "thumbnail": "https://img.iol.pt/image/id/6a53da1bd34ef04b4f3f6075/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: ator da série «Ted Lasso» faz a estreia no futebol profissional",
-      "link": "https://maisfutebol.iol.pt/mf-social/ted-lasso/video-ator-da-serie-ted-lasso-faz-a-estreia-no-futebol-profissional",
-      "pubDate": "Sun, 12 Jul 2026 17:54:10 +0100",
-      "description": "Cristo Fernández, mais conhecido como Dani Rojas, deu os primeiros passos como jogador profissional, ao serviço do El Paso Locomotive FC (Estados Unidos)",
-      "thumbnail": "https://img.iol.pt/image/id/6a53c417d34e511da0b2cca0/250"
+      "title": "Ganhar um Óscar ou uma Liga Inglesa? Tom Holland surpreende na resposta...",
+      "link": "https://maisfutebol.iol.pt/mf-social/tottenham/ganhar-um-oscar-ou-uma-liga-inglesa-tom-holland-surpreende-na-resposta",
+      "pubDate": "Sun, 12 Jul 2026 19:19:44 +0100",
+      "description": "Ator britânico é adepto do Tottenham e garante que tal acontecimento seria um «milagre» maior do que vencer um Óscar",
+      "thumbnail": "https://img.iol.pt/image/id/6a53d794d34ef04b4f3f6072/250"
     },
     {
       "sourceId": "sapo",
@@ -185,6 +185,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Foram convocados mais professores para corrigir exames a três dias do fim do prazo, diz Missão Escola Pública",
+      "link": "https://sapo.pt/artigo/foram-convocados-mais-professores-para-corrigir-exames-a-tres-dias-do-fim-do-prazo-diz-missao-escola-publica-6a53df1a93000f7db622e54d",
+      "pubDate": "Sun, 12 Jul 2026 18:39:35 +0000",
+      "description": "Porta-voz do movimento diz que vários professores foram informados ontem 11 de julho, ao final da tarde, pelos agrupamentos do Júri Nacional de Exames, que iriam receber itens para classificar.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=674&W=1200&crop=center&delay_optim=1&epic=V2%3ACwbowry9CYT1yJnuodjgc0XsylBQgPOHaJoT86aRHJXe2D74Si4wdlD%2FJ6yW6j2K7iegdPkRT7VhDfbYmgctgZNtyJie1voSjXR2bChtEGYB%2BdIbKMZLn7UA%2FoMB8Omu"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Jorge Pinto quer Livre “no poder já no próximo ciclo eleitoral”",
       "link": "https://jornaleconomico.sapo.pt/noticias/jorge-pinto-quer-livre-no-poder-ja-no-proximo-ciclo-eleitoral/",
       "pubDate": "Sun, 12 Jul 2026 15:53:40 +0000",
@@ -192,64 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AmFKnoCYiFBt7UfAm82MPFWbFnISx%2BYcHWdmwe1hRpUzYtcs6Djo5ZtjozKR%2FvNjwhIs9jamnf5Mh2JEXLaAYPu%2B0dswp6gqWx%2F1CPgeeSBPcdsCPtVf9Wx1K9E%2BI97Vn"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Aldeia espanhola junto à fronteira com Portugal procura novos habitantes e tem casas desde 40 mil euros",
-      "link": "https://executivedigest.sapo.pt/aldeia-espanhola-junto-a-fronteira-com-portugal-procura-novos-habitantes-e-tem-casas-desde-40-mil-euros/",
-      "pubDate": "Sun, 12 Jul 2026 14:52:49 +0000",
-      "description": "A proximidade a Portugal, a ligação a outros municípios e o ambiente rural tranquilo são alguns dos argumentos usados para atrair novos residentes, incluindo nómadas digitais e pessoas interessadas em criar pequenos negócios.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=381&W=678&crop=center&delay_optim=1&epic=V2%3AE%2B0XRzTJNE6zWXrTtIcYOrFJfMe2QG0DlxUftAZJl3gee6f7Wo%2FJI4tS4lbO%2BNuQdD%2BoVlNk7zXZohtYfqzfzmfpG4ONMqLk6Abmohiw9ICizDj53Qm9%2ByHK1pKc7Svr"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Benfica confirma lesão grave de Jaden Umeh após particular no Algarve",
+      "link": "https://www.noticiasaominuto.com/desporto/3020372/benfica-confirma-lesao-grave-de-jaden-umeh-apos-particular-no-algarve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 19:57:26",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53e3133d5f3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Media iranianos noticiam um morto e dois feridos em ataque dos EUA",
-      "link": "https://www.noticiasaominuto.com/mundo/3020361/media-iranianos-noticiam-um-morto-e-dois-feridos-em-ataque-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 18:57:26",
+      "title": "Chega acusa MAI de ameaçar Ventura. \"Imagens truncadas\", diz ministro",
+      "link": "https://www.noticiasaominuto.com/politica/3020371/chega-acusa-mai-de-ameacar-ventura-imagens-truncadas-diz-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 19:54:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53d58c68c3a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a8afec7b287.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Embarcação sobrelotada com recorde de migrantes atravessa Canal da Mancha",
-      "link": "https://www.noticiasaominuto.com/mundo/3020360/embarcacao-sobrelotada-com-recorde-de-migrantes-atravessa-canal-da-mancha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 18:54:43",
+      "title": "Oficial: Carolina Alves reforça equipa feminina de futebol do Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3020370/oficial-carolina-alves-reforca-equipa-feminina-de-futebol-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 19:54:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67605b9f284b9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53e2abafc3d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjAsImNyb3BIZWlnaHQiOjQwNSwiY3JvcFgiOjAsImNyb3BZIjoxNDd9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Professores convocados para corrigir exames a 3 dias do final do processo",
-      "link": "https://www.noticiasaominuto.com/pais/3020358/professores-convocados-para-corrigir-exames-a-3-dias-do-final-do-processo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 18:50:13",
+      "title": "Selecionador egípcio proibiu palavra Messi: \"Queria incendiar o ambiente\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3020369/selecionador-egipcio-proibiu-palavra-messi-queria-incendiar-o-ambiente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 19:51:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47415277.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjM1MywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d6dbeb15e6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lindsey Graham falou com Trump antes de morrer. \"Disse: 'Estou cansado'\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3020353/lindsey-graham-falou-com-trump-antes-de-morrer-disse-estou-cansado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 18:48:10",
+      "title": "\"Emoção\". Casal britânico encontrado vivo em ravina após fogo em Espanha",
+      "link": "https://www.noticiasaominuto.com/mundo/3020362/casal-britanico-encontrado-vivo-em-ravina-apos-fogo-em-espanha-emocao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 19:29:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53cd8fececd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA0LCJjcm9wSGVpZ2h0IjoxMzUyLCJjcm9wWCI6MTUxLCJjcm9wWSI6NDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0MDMsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53d5e0401ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg4LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6MzYsImNyb3BZIjozMDh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkwMiwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rodrigo Zalazar fala da mudança para o Sporting: \"Se fizer o que sei...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3020354/rodrigo-zalazar-fala-da-mudanca-para-o-sporting-se-fizer-o-que-sei#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 18:46:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a311a9c4c8b7.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Consumidores estão a trocar de carro elétrico chinês mais depressa do que de telemóvel",
+      "link": "https://pplware.sapo.pt/motores/consumidores-estao-a-trocar-de-carro-eletrico-chines-mais-depressa-do-que-de-telemovel/",
+      "pubDate": "Sun, 12 Jul 2026 18:30:32 +0000",
+      "description": "A ideia de que um automóvel é um bem para manter durante vários anos poderá estar a perder força, pelo menos no mercado chinês dos carros elétricos. Então, por que razão trocam tão depressa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/eletrico_vs_smartphone00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Company of Heroes 3: Final Stand é a nova experiência standalone da Relic",
+      "link": "https://pplware.sapo.pt/jogos/company-of-heroes-3-final-stand-e-a-nova-experiencia-standalone-da-relic/",
+      "pubDate": "Sun, 12 Jul 2026 18:00:10 +0000",
+      "description": "A Relic Entertainment anunciou Company of Heroes 3: Final Stand, uma nova experiência standalone baseada na popular série de estratégia em tempo real, Company of Heroes. Com lançamento previsto para o próximo dia 29&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/CoHFS_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2021/11/IUC_00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Revolta contra os centros de dados de IA está apenas a começar",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/revolta-contra-os-centros-de-dados-de-ia-esta-apenas-a-comecar/",
-      "pubDate": "Sun, 12 Jul 2026 15:00:30 +0000",
-      "description": "A expansão descontrolada dos centros de dados dedicados à inteligência artificial (IA) está a encontrar uma forte barreira na oposição das populações locais. O consumo extremo de recursos está a forçar multinacionais a recuar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/centro-dados-fayetteville-georgia00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "A Banda Sonora de Goodwood: Orquestra de cilindros, os sons que definiram eras",
+      "link": "https://www.autosport.pt/maismotores/a-banda-sonora-de-goodwood-orquestra-de-cilindros-os-sons-que-definiram-eras/",
+      "pubDate": "Sun, 12 Jul 2026 17:57:16 +0000",
+      "description": "Se não pode marcar presença no Goodwood Festival of Speed, fazemos o possível para atenuar a falta de estímulos sensoriais, destacando, claro está, o som dos motores. Por isso, aqui estão alguns dos principais sons favoritos do fim de semana. Coloque o som alto, q.b: 00:16 &#8211; Toyota-Judd Formul",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Pplware Classics…",
-      "link": "https://pplware.sapo.pt/multimedia-2/musica/pplware-classics-758/",
-      "pubDate": "Sun, 12 Jul 2026 14:00:53 +0000",
-      "description": "Porque recordar é viver, o Pplware traz aos seus leitores a sua habitual rubrica semanal de música. Apresentamos as músicas que marcaram a nossa juventude ou o nosso passado recente e que ainda ouvimos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Bonnie_Tyler.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Marçal Muller e Gaetano Di Mauro vencem prova de endurance da Porsche Cup Brasil no Algarve",
+      "link": "https://www.autosport.pt/velocidade/marcal-muller-e-gaetano-di-mauro-vencem-prova-de-endurance-da-porsche-cup-brasil-no-algarve/",
+      "pubDate": "Sun, 12 Jul 2026 17:56:19 +0000",
+      "description": "A dupla composta por Marçal Muller e Gaetano Di Mauro alcançou uma vitória dominante na prova de 300 km da Porsche Cup Brasil C6 Bank, realizada este fim de semana no Autódromo Internacional do Algarve.Partindo da pole position, o carro #544 liderou a maior parte da corrida, vencendo o primeiro segm",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "TCR World Tour, Vila Real: Norbert Michelisz vence corrida 2",
+      "link": "https://www.autosport.pt/velocidade/tcr-world-tour-vila-real-norbert-michelisz-vence-corrida-2/",
+      "pubDate": "Sun, 12 Jul 2026 17:50:33 +0000",
+      "description": "Norbert Michelisz conquistou a sua segunda vitória da temporada na segunda corrida de Vila Real, tendo utilizado a joker lap para atrasar Thed Björk e obrigá-lo a recuar até à sétima posição antes da última volta. Michelisz partiu da pole position e liderou desde o início ao volante do seu Hyundai. ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/cpv-vila-real-corrida-2-anti-climax-atras-do-safety-car-triunfo-de-carlos-vieira-e-hendrik-stil/",
       "pubDate": "Sun, 12 Jul 2026 14:46:16 +0000",
       "description": "Numa corrida neutralizada duas vezes por Safety Car devido a acidentes, tudo terminou com o anti clímax dos concorrentes a verem a bandeira axadrezada atrás do Safety Car. O triunfo foi para Carlos Vieira/Hendrik Still no Porsche Cayman CS RS da Veloso Motorsport, batendo César Machado e Pedro Salva",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPV, Vila Real, Corrida 2: Acidente neutraliza corrida",
-      "link": "https://www.autosport.pt/velocidade/cpv-vila-real-corrida-2-acidente-neutraliza-corrida/",
-      "pubDate": "Sun, 12 Jul 2026 13:44:45 +0000",
-      "description": "Na fundo do pelotão, Vitor Costa (Monteiros Competições/Porsche 911 Cup) e Michel Fernandes ( Peugeot 308 GTi TCR) desentenderam-se à saída da chicane da Araucária e embateram com violência nos rails no lado esquerdo após a chicane da Araucária, levando à entrada do Safety Car, que neutralizou a cor",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "TCR World Tour, Vila Real: Yann Ehrlacher vence corrida 1",
-      "link": "https://www.autosport.pt/velocidade/tcr-world-tour-vila-real-yann-ehrlacher-vence-corrida-1-2/",
-      "pubDate": "Sun, 12 Jul 2026 12:30:00 +0000",
-      "description": "Yann Ehrlacher conquistou a sua primeira vitória da temporada, assumindo a liderança logo à partida sobre o polesitter Mikel Azcona e gerindo a corrida até ao triunfo, numa corrida que foi por duas vezes interrompida com recurso ao safety car. O piloto da Geely Cyan Racing superou o arranque de Azco",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Alonso, e não só, critica regulamento da F1 e alerta que o talento dos pilotos está a morrer",
-      "link": "https://www.autosport.pt/formula1/alonso-e-nao-so-critica-regulamento-da-f1-e-alerta-que-o-talento-dos-pilotos-esta-a-morrer/",
-      "pubDate": "Sun, 12 Jul 2026 12:21:15 +0000",
-      "description": "A introdução dos regulamentos de 2026 no Mundial de Fórmula 1 gerou uma onda de debates acesos no paddock, levantando sérias questões sobre a identidade do desporto. A análise pormenorizada das críticas dos pilotos — liderada pela voz experiente de Fernando Alonso, cuja carreira de um quarto de sécu",
       "thumbnail": ""
     }
   ]
