@@ -1,14 +1,44 @@
 {
-  "updated": "2026-07-12T19:16:48.772405+00:00",
+  "updated": "2026-07-12T20:12:54.378072+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 20h",
+      "title": "Mercedes lança berlina desportiva com 3 motores e 1 vibrador",
+      "link": "https://observador.pt/2026/07/12/mercedes-vai-lancar-berlina-desportiva-com-tres-motores-e-um-vibrador/",
+      "pubDate": "Sun, 12 Jul 2026 21:09:51 +0100",
+      "description": "O próximo Mercedes-AMG CLA 45 eléctrico vai montar três motores (dois no eixo traseiro) e um dispositivo que certamente vai provocar alguma surpresa junto de muitos clientes: um vibrador!",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2666:1501:nowe:569:736/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12202402/26c0207-017-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogo em bar na Tailândia mata pelo menos 27 pessoas",
+      "link": "https://observador.pt/2026/07/12/pelo-menos-27-pessoas-mortas-devido-a-fogo-em-bar-de-banguecoque-na-tailandia/",
+      "pubDate": "Sun, 12 Jul 2026 21:02:09 +0100",
+      "description": "As causas do incêndio estão sob investigação, garantiu o primeiro-ministro tailandês.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:235/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12205943/gettyimages-2283362716-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Livre quer dissolução da AR se CRP for alterada só à direita",
+      "link": "https://observador.pt/especiais/entrevista-cruzada-nova-lideranca-do-livre-apela-a-seguro-que-dissolva-ar-se-houver-revisao-da-constituicao-so-a-direita/",
+      "pubDate": "Sun, 12 Jul 2026 20:21:08 +0100",
+      "description": "Co-porta-vozes do Livre apelam a acordo entre \"a esquerda e a direita democráticas\" para uma revisão minimalista. Caso contrário, querem dissolução por temerem \"destruição\" da Constituição.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12123346/47446095.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20h. MAI defende transparência em polémica com empreiteiro",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2000/",
       "pubDate": "Sun, 12 Jul 2026 20:14:45 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Luís Neves garante que só conheceu o empreiteiro em 2023, depois de grande parte das obras na PJ estarem feitas. Ainda, Mendes Lopes e Jorge Pinto criticam a forma como o Governo de fazer reformas.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,84 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1998:1126:nowe:0:207/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17200400/47301716.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "IL aposta em lei de bases da Proteção Civil",
-      "link": "https://observador.pt/2026/07/12/il-aposta-em-lei-de-bases-da-protecao-civil-contra-sistema-demasiado-reativo-e-a-contar-com-cidadao-agente/",
-      "pubDate": "Sun, 12 Jul 2026 20:05:35 +0100",
-      "description": "Partido liderado por Mariana Leitão avança com proposta de lei de bases da Proteção Civil está segunda-feira. Cidadão passa a ser central e aposta é numa lógica de prevenção.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/18135659/dventura-pr-recebe-partidos-il-11-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Desta vez, Sinner aproveitou o facto de Carlos não estar lá",
-      "link": "https://observador.pt/2026/07/12/desta-vez-ele-conseguiu-mesmo-aproveitar-o-facto-de-carlos-nao-estar-la-sinner-vence-zverev-e-volta-a-conquistar-wimbledon/",
-      "pubDate": "Sun, 12 Jul 2026 19:58:38 +0100",
-      "description": "Depois de cair cedo em Roland Garros, o italiano não desperdiçou uma nova oportunidade em Wimbledon e venceu Alexander Zverev para revalidar o título e chegar ao quinto Grand Slam da carreira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12200359/gettyimages-2285213897.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Líder do PSD/Madeira exige da República \"respeito\"",
-      "link": "https://observador.pt/2026/07/12/lider-do-psd-madeira-exige-da-republica-respeito-e-consideracao-e-garante-que-governo-regional-nao-vai-fazer-fretes/",
-      "pubDate": "Sun, 12 Jul 2026 19:49:52 +0100",
-      "description": "Miguel Albuquerque discursou durante a tradicional festa anual do PSD/Madeira e defendeu que o Estado tem de \"assumir de uma vez por todas\" os custos e sobrecustos de várias áreas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:137/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/16111358/44951465.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Dave Mustaine decidiu terminar a carreira enquanto está em alta",
+      "link": "https://www.rtp.pt/noticias/cultura/dave-mustaine-decidiu-terminar-a-carreira-enquanto-esta-em-alta_v1752894",
+      "pubDate": "Sun, 12 Jul 2026 22:07:47 +0100",
+      "description": "Poucas horas antes de cancelar o concerto no Festival EvilLive em Lisboa, o líder dos Megadeth explicou, em entrevista exclusiva à RTP, as razões para pôr fim a uma das bandas de metal mais icónicas do mundo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/253223daa05fd6a04e45b932a1572bf9_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Carlos Carvalhal assina pelo Famalicão",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/carlos-carvalhal-assina-pelo-famalicao_d1752881",
-      "pubDate": "Sun, 12 Jul 2026 20:49:45 +0100",
-      "description": "Carlos Carvalhal é o novo treinador do Famalicão, com contrato assinado por uma temporada, anunciou o clube.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d82f7e8f173051c809fdcb4b07afa5ed?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Sagres participou na Regata das Quatro Irmãs",
+      "link": "https://www.rtp.pt/noticias/pais/sagres-participou-na-regata-das-quatro-irmas_v1752892",
+      "pubDate": "Sun, 12 Jul 2026 21:50:47 +0100",
+      "description": "A Sagres participou nesta prova ao lado de veleiros dos Estados Unidos, da Alemanha e da Roménia. Um encontro de navios que não se cruzavam há 50 anos e que celebraram assim o aniversário da independência norte-americana.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7d/7dd1014b1c867c161e19df924ae09da6_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "A 27 de outubro. Eleições para o Knesset, um referendo ao primeiro-ministro Netanyahu",
-      "link": "https://www.rtp.pt/noticias/mundo/a-27-de-outubro-eleicoes-para-o-knesset-um-referendo-ao-primeiro-ministro-netanyahu_n1752879",
-      "pubDate": "Sun, 12 Jul 2026 20:18:18 +0100",
-      "description": "O Knesset conclui o atual mandato a 17 de julho, o que fará com que, pela primeira vez em décadas, um executivo cumpra integralmente a legislatura de quatro anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec2bc51547b9fb56f738bd3fd888e131?w=350&amp;q=50&amp;rect=0,55,1500,822&amp;auto=format"
+      "title": "Sinner revalida título em Wimbledon",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/sinner-revalida-titulo-em-wimbledon_d1752891",
+      "pubDate": "Sun, 12 Jul 2026 21:49:32 +0100",
+      "description": "O italiano Jannik Sinner foi mais forte do que o alemão Alexander Zverev na final de Wimbledon, não vacilando em nenhum momento no objetivo de manter o troféu de Wimpbledon conquistado em 2025, arrebatando assim o terceiro título de um torneio do Grand Slam na presente temporada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e238845f78a296da79735c727e250062?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "19h Secretário-Geral da ONU apela à contenção entre os EUA e Irão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-secretario-geral-da-onu-apela-a-contencao-entre-os-eua-e-irao_a1_1752880",
-      "pubDate": "Sun, 12 Jul 2026 20:16:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Costa leste da China varrida duas vezes pelo mesmo tufão",
+      "link": "https://www.rtp.pt/noticias/mundo/costa-leste-da-china-varrida-duas-vezes-pelo-mesmo-tufao_v1752890",
+      "pubDate": "Sun, 12 Jul 2026 21:47:47 +0100",
+      "description": "O fenómeno aconteceu em menos de uma hora e obrigou quase três milhões de pessoas a deixarem as suas casas. Houve ventos com mais de 140 km por hora e chuvas torrenciais que provocaram a subida rápida das águas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/8c/8c77665a1b099cd8177bab1b4a0f56ff_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Embarcação sobrelotada com recorde de 128 migrantes atravessa Canal da Mancha",
-      "link": "https://www.rtp.pt/noticias/mundo/embarcacao-sobrelotada-com-recorde-de-128-migrantes-atravessa-canal-da-mancha_n1752876",
-      "pubDate": "Sun, 12 Jul 2026 20:04:58 +0100",
-      "description": "Mais de 200 migrantes chegaram sexta-feira à costa inglesa em três barcos, um dos quais com 128 pessoas a bordo, um recorde para uma única embarcação na perigosa travessia do Canal da Mancha.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/44/44b6e5fd3fe0b732fa6bb2e7e5644b9c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tiago Antunes conquista Troféu Joaquim Agostinho",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/tiago-antunes-conquista-trofeu-joaquim-agostinho_d1752877",
-      "pubDate": "Sun, 12 Jul 2026 19:57:43 +0100",
-      "description": "O ‘local’ Tiago Antunes conquistou o 49.º Troféu Joaquim Agostinho, subindo ao lugar mais alto de um pódio composto exclusivamente por ciclistas portugueses, após a chegada ao alto de Montejunto, onde se impôs José Neves.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/04222821242ee55f4e277236896bbd16?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Professores convocados à última hora para corrigir exames",
+      "link": "https://www.rtp.pt/noticias/pais/professores-convocados-a-ultima-hora-para-corrigir-exames_v1752888",
+      "pubDate": "Sun, 12 Jul 2026 21:41:47 +0100",
+      "description": "Muitos professores estão a ser convocados à última hora para corrigir os exames nacionais. Os docentes falam numa situação muito complicada e o tempo está a contar. O ministro prometeu ter as pautas afixadas na sexta-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ad/ade03b2be8c8caf335acc582a0e23f3b_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -119,7 +119,7 @@
       "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-sinner-bate-zverev-e-sagra-se-bicampeao-em-wimbledon",
       "pubDate": "Sun, 12 Jul 2026 19:57:00 +0100",
       "description": "Tenista italiano venceu por 3-1 em quase 4h de jogo",
-      "thumbnail": "https://img.iol.pt/image/id/6a45288dd34edcee7c65ef51/250"
+      "thumbnail": "https://img.iol.pt/image/id/6a53e825d34e511da0b2cced/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,11 +155,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "As vitórias da Ucrânia e outros destaques da cimeira de Ancara",
-      "link": "https://sapo.pt/artigo/as-vitorias-da-ucrania-e-outros-destaques-da-cimeira-de-ancara-6a53d33476b0389efa9dd987",
-      "pubDate": "Sun, 12 Jul 2026 17:49:18 +0000",
-      "description": "Europa e Canadá mostraram estar empenhados na NATO, através do aumento dos gastos e da assinatura de acordos de defesa. Trump anunciou a reversão de uma política de décadas em relação à Síria.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AxBG2UaD4u2WoQslINR9XaCuTzjHIRvsVXLhpboIaBNrrCgkIGLLMJmHSoIJ9MzDev1SzwGPxZbxnVaPLp4HqKFVCGUNJv2ctWRfSO8QSzIb2BLtCWL0ve2h%2F3xw%2BAX9c"
+      "title": "Foram convocados mais professores para corrigir exames a três dias do fim do prazo, diz Missão Escola Pública",
+      "link": "https://sapo.pt/artigo/foram-convocados-mais-professores-para-corrigir-exames-a-tres-dias-do-fim-do-prazo-diz-missao-escola-publica-6a53df1a93000f7db622e54d",
+      "pubDate": "Sun, 12 Jul 2026 18:39:35 +0000",
+      "description": "Porta-voz do movimento diz que vários professores foram informados ontem 11 de julho, ao final da tarde, pelos agrupamentos do Júri Nacional de Exames, que iriam receber itens para classificar.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=674&W=1200&crop=center&delay_optim=1&epic=V2%3ACwbowry9CYT1yJnuodjgc0XsylBQgPOHaJoT86aRHJXe2D74Si4wdlD%2FJ6yW6j2K7iegdPkRT7VhDfbYmgctgZNtyJie1voSjXR2bChtEGYB%2BdIbKMZLn7UA%2FoMB8Omu"
     },
     {
       "sourceId": "sapo",
@@ -175,21 +175,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Israel marca eleições legislativas para 27 de outubro",
-      "link": "https://jornaleconomico.sapo.pt/noticias/israel-marca-eleicoes-legislativas-para-27-de-outubro-2/",
-      "pubDate": "Sun, 12 Jul 2026 17:48:25 +0000",
-      "description": "As eleições de outubro são amplamente consideradas como um referendo à liderança do primeiro-ministro, Benjamin Netanyahu, e surgem na sequência da conclusão do mandato completo de quatro anos, que termina na próxima semana.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AuI5%2BcQNyg3zMU87IxrU93Si4KKrYwpiUUELeohUl7wasuF1RPoyJKk3lc9Sx%2Fh04odpSk6sgTZkFXKqlW9pwoYqfK6QdRH7dSS%2F9ngZS0keZvO6oHzHaDa6eCOSkpRTr"
+      "title": "As vitórias da Ucrânia e outros destaques da cimeira de Ancara",
+      "link": "https://sapo.pt/artigo/as-vitorias-da-ucrania-e-outros-destaques-da-cimeira-de-ancara-6a53d33476b0389efa9dd987",
+      "pubDate": "Sun, 12 Jul 2026 17:49:18 +0000",
+      "description": "Europa e Canadá mostraram estar empenhados na NATO, através do aumento dos gastos e da assinatura de acordos de defesa. Trump anunciou a reversão de uma política de décadas em relação à Síria.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AxBG2UaD4u2WoQslINR9XaCuTzjHIRvsVXLhpboIaBNrrCgkIGLLMJmHSoIJ9MzDev1SzwGPxZbxnVaPLp4HqKFVCGUNJv2ctWRfSO8QSzIb2BLtCWL0ve2h%2F3xw%2BAX9c"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Foram convocados mais professores para corrigir exames a três dias do fim do prazo, diz Missão Escola Pública",
-      "link": "https://sapo.pt/artigo/foram-convocados-mais-professores-para-corrigir-exames-a-tres-dias-do-fim-do-prazo-diz-missao-escola-publica-6a53df1a93000f7db622e54d",
-      "pubDate": "Sun, 12 Jul 2026 18:39:35 +0000",
-      "description": "Porta-voz do movimento diz que vários professores foram informados ontem 11 de julho, ao final da tarde, pelos agrupamentos do Júri Nacional de Exames, que iriam receber itens para classificar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=674&W=1200&crop=center&delay_optim=1&epic=V2%3ACwbowry9CYT1yJnuodjgc0XsylBQgPOHaJoT86aRHJXe2D74Si4wdlD%2FJ6yW6j2K7iegdPkRT7VhDfbYmgctgZNtyJie1voSjXR2bChtEGYB%2BdIbKMZLn7UA%2FoMB8Omu"
+      "title": "Israel marca eleições legislativas para 27 de outubro",
+      "link": "https://jornaleconomico.sapo.pt/noticias/israel-marca-eleicoes-legislativas-para-27-de-outubro-2/",
+      "pubDate": "Sun, 12 Jul 2026 17:48:25 +0000",
+      "description": "As eleições de outubro são amplamente consideradas como um referendo à liderança do primeiro-ministro, Benjamin Netanyahu, e surgem na sequência da conclusão do mandato completo de quatro anos, que termina na próxima semana.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AuI5%2BcQNyg3zMU87IxrU93Si4KKrYwpiUUELeohUl7wasuF1RPoyJKk3lc9Sx%2Fh04odpSk6sgTZkFXKqlW9pwoYqfK6QdRH7dSS%2F9ngZS0keZvO6oHzHaDa6eCOSkpRTr"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica confirma lesão grave de Jaden Umeh após particular no Algarve",
-      "link": "https://www.noticiasaominuto.com/desporto/3020372/benfica-confirma-lesao-grave-de-jaden-umeh-apos-particular-no-algarve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 19:57:26",
+      "title": "Síria: Novo parlamento realiza 1.ª sessão desde queda de Bashar al-Assad",
+      "link": "https://www.noticiasaominuto.com/mundo/3020382/siria-novo-parlamento-realiza-1-sessao-desde-queda-de-bashar-al-assad#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 21:07:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53e3133d5f3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46138281.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Chega acusa MAI de ameaçar Ventura. \"Imagens truncadas\", diz ministro",
-      "link": "https://www.noticiasaominuto.com/politica/3020371/chega-acusa-mai-de-ameacar-ventura-imagens-truncadas-diz-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 19:54:51",
+      "title": "A foto (mais) carinhosa de Hailey e Justin Bieber nos 8 anos de noivado",
+      "link": "https://www.noticiasaominuto.com/fama/3018530/a-foto-mais-carinhosa-de-hailey-e-justin-bieber-nos-8-anos-de-noivado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 21:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a8afec7b287.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6980a91582c81.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM0LCJjcm9wSGVpZ2h0IjoxNDI2LCJjcm9wWCI6MTEsImNyb3BZIjozODJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE3MjgsImNyb3BIZWlnaHQiOjMwNzEsImNyb3BYIjoxMSwiY3JvcFkiOjE2MX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Carolina Alves reforça equipa feminina de futebol do Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3020370/oficial-carolina-alves-reforca-equipa-feminina-de-futebol-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 19:54:14",
+      "title": "Incêndio em bar de Banguecoque faz pelo menos 27 mortos",
+      "link": "https://www.noticiasaominuto.com/mundo/3020381/incendio-em-bar-de-banguecoque-faz-pelo-menos-27-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 20:53:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53e2abafc3d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjAsImNyb3BIZWlnaHQiOjQwNSwiY3JvcFgiOjAsImNyb3BZIjoxNDd9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53f119b30ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MzEsImNyb3BIZWlnaHQiOjI5OSwiY3JvcFgiOjMzLCJjcm9wWSI6MTE0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoyNDYsImNyb3BIZWlnaHQiOjQzOCwiY3JvcFgiOjE5MSwiY3JvcFkiOjF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Selecionador egípcio proibiu palavra Messi: \"Queria incendiar o ambiente\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3020369/selecionador-egipcio-proibiu-palavra-messi-queria-incendiar-o-ambiente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 19:51:32",
+      "title": "Presidente angolano defende reforço de laços com São Tomé e Príncipe",
+      "link": "https://www.noticiasaominuto.com/mundo/3020375/presidente-angolano-defende-reforco-de-lacos-com-sao-tome-e-principe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 20:24:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d6dbeb15e6.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41403808.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Emoção\". Casal britânico encontrado vivo em ravina após fogo em Espanha",
-      "link": "https://www.noticiasaominuto.com/mundo/3020362/casal-britanico-encontrado-vivo-em-ravina-apos-fogo-em-espanha-emocao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 19:29:56",
+      "title": "Jannik Sinner revalida título de Wimbledon ao vencer Alexander Zverev",
+      "link": "https://www.noticiasaominuto.com/desporto/3020374/jannik-sinner-revalida-titulo-de-wimbledon-ao-vencer-alexander-zverev#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 20:19:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53d5e0401ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg4LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6MzYsImNyb3BZIjozMDh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkwMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47451852.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O estranho truque dos fósforos na sanita afinal funciona?",
+      "link": "https://pplware.sapo.pt/redes_sociais/o-estranho-truque-dos-fosforos-na-sanita-afinal-funciona/",
+      "pubDate": "Sun, 12 Jul 2026 19:30:57 +0000",
+      "description": "É um daqueles truques domésticos que passam de geração em geração e que, de tempos a tempos, voltam a ganhar popularidade nas redes sociais. Há quem coloque fósforos na sanita, ou acenda um após&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/fosforo_cheiro_wc00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 12 Jul 2026 16:30:30 +0000",
       "description": "A GoodOffer24 lançou uma campanha que permite comprar a chave digital do Office 2024 Professional Plus por 15,5€ e juntar-lhe o Windows 11 Pro com chave original por 21,8€. Com o cupão TT30, o&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/12th-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Governo aprovou novo modelo de pagamento do IUC: saiba o que vai mudar",
-      "link": "https://pplware.sapo.pt/motores/governo-aprovou-novo-modelo-de-pagamento-do-iuc-saiba-o-que-vai-mudar/",
-      "pubDate": "Sun, 12 Jul 2026 15:40:16 +0000",
-      "description": "O Conselho de Ministros aprovou uma alteração ao modelo de pagamento do Imposto Único de Circulação (IUC), dando mais um passo na reforma anunciada pelo Governo. O objetivo passa por simplificar o cumprimento desta&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2021/11/IUC_00.jpg"
     },
     {
       "sourceId": "autosport",
