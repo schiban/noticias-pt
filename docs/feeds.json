@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-12T15:56:11.318978+00:00",
+  "updated": "2026-07-12T16:57:12.419560+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Eva Herzigová casou-se com Gregorio Marsiaj em Turim",
+      "link": "https://observador.pt/2026/07/12/supermodelo-eva-herzigova-e-empresario-gregorio-marsiaj-casaram-se-em-turim-25-anos-depois-de-se-terem-conhecido/",
+      "pubDate": "Sun, 12 Jul 2026 17:46:10 +0100",
+      "description": "A modelo checa de 53 anos e o empresário de 49 têm três filhos em comum. Na cerimónia, marcaram presença cerca de 50 convidados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12174420/gettyimages-2285661410-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "17h. Novo furo de água em Almada funciona antes do previsto",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2240/",
+      "pubDate": "Sun, 12 Jul 2026 17:13:18 +0100",
+      "description": "Os Serviços Municipalizados de Água e Saneamento explicam que a nova captação aumenta a produção mais 60 metros cúbicos por hora. E, o Papa Leão apela para “o diálogo\" na Ucrânia e no Médio Oriente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,32 +52,42 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1963:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12161306/gettyimages-2274817719.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "16h. EUA asseguram que o Estreito de Ormuz está aberto",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2299/",
-      "pubDate": "Sun, 12 Jul 2026 16:13:31 +0100",
-      "description": "Os EUA desmentem e dizem que o Irão não controla o estreito. Ainda, sobre os exames nacionais, o líder do PS quer explicações do Primeiro Ministro sobre os constrangimentos na correção das provas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Um país antigo e improvável que sobrevive a tudo",
-      "link": "https://observador.pt/2026/07/12/um-pais-antigo-e-improvavel-que-sobrevive-a-tudo/",
-      "pubDate": "Sun, 12 Jul 2026 16:13:28 +0100",
-      "description": "\"Portugal Refractário\" é uma espécie de extenso diaporama em 512 páginas, profusamente comentado, com a amplitude — e também a liberdade — que só o conhecimento dá ou pode dar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1815:1019:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10175941/portugal-refractario-destaque.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Novo furo reforça abastecimento de água em Almada antes do previsto",
+      "link": "https://www.rtp.pt/noticias/pais/novo-furo-reforca-abastecimento-de-agua-em-almada-antes-do-previsto_n1752860",
+      "pubDate": "Sun, 12 Jul 2026 18:47:26 +0100",
+      "description": "Um novo furo de captação de água subterrânea entrou em funcionamento em Almada antes do previsto, aumentando em 60 metros cúbicos por hora a capacidade.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "16h Livre quer adiar candidaturas ao Ensino Superior",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-livre-quer-adiar-candidaturas-ao-ensino-superior_a1_1752859",
-      "pubDate": "Sun, 12 Jul 2026 17:16:01 +0100",
+      "title": "Congresso Livre. Partido quer \"refundar a esquerda\" e já vê como inevitável uma chegada ao poder",
+      "link": "https://www.rtp.pt/noticias/politica/congresso-livre-partido-quer-refundar-a-esquerda-e-ja-ve-como-inevitavel-uma-chegada-ao-poder_n1752862",
+      "pubDate": "Sun, 12 Jul 2026 18:47:04 +0100",
+      "description": "O Livre propõe-se a &quot;refundar a esquerda&quot;, num contexto político dominado pela direita, e até já vê como inevitável uma chegada ao poder no próximo ciclo eleitoral, ao mesmo tempo que ainda aprende a crescer internamente.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Teerão descreve Estreito de Ormuz como \"mais importante\" do que \"bombas atómicas\"",
+      "link": "https://www.rtp.pt/noticias/mundo/teerao-descreve-estreito-de-ormuz-como-mais-importante-do-que-bombas-atomicas_e1752794",
+      "pubDate": "Sun, 12 Jul 2026 18:31:24 +0100",
+      "description": "Os EUA atacaram 140 alvos iranianos e Teerão retaliou. A Guarda Revolucionária Islâmica do Irão atingiu centros de apoio logístico a navios da marinha norte-americana. Acompanhamos aqui o evoluir da situação no Médio Oriente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/887e4b48a361b7eb44492960f0fc9116?w=350&amp;q=50&amp;rect=0,66,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "17h Miguel Albuquerque quer diálogo direto entre o governo regional e o primeiro-ministro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-miguel-albuquerque-quer-dialogo-direto-entre-o-governo-regional-e-o-primeiro-ministro_a1_1752865",
+      "pubDate": "Sun, 12 Jul 2026 18:20:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,51 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Legislativas russas contam com 80 candidatos independentes",
-      "link": "https://www.rtp.pt/noticias/mundo/legislativas-russas-contam-com-80-candidatos-independentes_n1752857",
-      "pubDate": "Sun, 12 Jul 2026 16:57:46 +0100",
-      "description": "Um total de 80 candidatos independentes vão concorrer às eleições legislativas russas de setembro, anunciou hoje a Comissão Eleitoral Central (CEC).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Miguel Oliveira 12.º na segunda corrida de Donington",
+      "link": "https://www.rtp.pt/noticias/motores/miguel-oliveira-12o-na-segunda-corrida-de-donington_d1752864",
+      "pubDate": "Sun, 12 Jul 2026 18:00:19 +0100",
+      "description": "O português Miguel Oliveira (Ducati) foi 12.º na segunda corrida do fim de semana da prova de Donington Park do Mundial de Superbikes, oitava ronda da temporada, que consagrou a Ducati como campeã de construtores.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4bed7f41ccda2f931efa6f0a1b22c702?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jorge Pinto quer Livre \"no poder já no próximo ciclo eleitoral\"",
-      "link": "https://www.rtp.pt/noticias/politica/jorge-pinto-quer-livre-no-poder-ja-no-proximo-ciclo-eleitoral_n1752856",
-      "pubDate": "Sun, 12 Jul 2026 16:57:18 +0100",
-      "description": "O porta-voz do Livre Jorge Pinto manifestou-se hoje convicto de que o seu partido &quot;vai ser poder já no próximo ciclo eleitoral&quot;, seja a nível europeu, autárquico ou legislativo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/7908113b950b7d3a867caf026210f1b8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: ator da série «Ted Lasso» faz a estreia no futebol profissional",
+      "link": "https://maisfutebol.iol.pt/mf-social/ted-lasso/video-ator-da-serie-ted-lasso-faz-a-estreia-no-futebol-profissional",
+      "pubDate": "Sun, 12 Jul 2026 17:54:10 +0100",
+      "description": "Cristo Fernández, mais conhecido como Dani Rojas, deu os primeiros passos como jogador profissional, ao serviço do El Paso Locomotive FC (Estados Unidos)",
+      "thumbnail": "https://img.iol.pt/image/id/6a53c417d34e511da0b2cca0/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "INEM averigua envio de meios de Guimarães para vila das Taipas após morte de homem",
-      "link": "https://www.rtp.pt/noticias/pais/inem-averigua-envio-de-meios-de-guimaraes-para-vila-das-taipas-apos-morte-de-homem_n1752855",
-      "pubDate": "Sun, 12 Jul 2026 16:55:34 +0100",
-      "description": "O INEM vai averiguar por que motivo foram acionados os bombeiros de Guimarães para socorrer um homem em paragem cardiorrespiratória na vila das Taipas, que acabaria por morrer, quando a corporação local tinha todos os meios disponíveis.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Zalazar: «Assinar pelo Sporting foi um passo importante na minha carreira»",
+      "link": "https://maisfutebol.iol.pt/sporting/zalazar/zalazar-assinar-pelo-sporting-foi-um-passo-importante-na-minha-carreira",
+      "pubDate": "Sun, 12 Jul 2026 17:18:00 +0100",
+      "description": "Médio esteve na inauguração de um centro de pilates, em Málaga, e falou à imprensa espanhola",
+      "thumbnail": "https://img.iol.pt/image/id/6a072880d34e28842c8413cb/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Zelensky substitui primeira-ministra e aponta China como prioridade",
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-substitui-primeira-ministra-e-aponta-china-como-prioridade_n1752842",
-      "pubDate": "Sun, 12 Jul 2026 16:28:21 +0100",
-      "description": "O presidente ucraniano assinala uma mudança na &quot;estratégia política&quot; e aponta como prioridade na política externa &quot;a China e as principais organizações internacionais que influenciam as decisões globais&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/43/43a60b88b348643cbc774e4ab742e68e?w=350&amp;q=50&amp;rect=0,46,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mariano Rajoy gera debate diplomático: «França joga sem franceses»",
+      "link": "https://maisfutebol.iol.pt/internacional/mariano-rajoy/mariano-rajoy-gera-debate-diplomatico-franca-joga-sem-franceses",
+      "pubDate": "Sun, 12 Jul 2026 17:14:19 +0100",
+      "description": "Representantes do Governo francês e da oposição condenaram declaração",
+      "thumbnail": "https://img.iol.pt/image/id/6a53ba49d34ef04b4f3f6037/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Torino fecha a porta a Obrador: «Gastar nove milhões não é opção»",
+      "link": "https://maisfutebol.iol.pt/benfica/mercado/torino-fecha-a-porta-a-obrador-gastar-nove-milhoes-nao-e-opcao",
+      "pubDate": "Sun, 12 Jul 2026 17:12:00 +0100",
+      "description": "Diretor desportivo Gianluca Petrachi admite que contratar o lateral do Benfica travaria a afirmação do jovem Alessio Cacciamani",
+      "thumbnail": "https://img.iol.pt/image/id/6a0a4609d34e28842c84242a/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sun, 12 Jul 2026 16:35:28 +0100",
       "description": "Extremo do FC Porto vai ter Adrian Santos por perto",
       "thumbnail": "https://img.iol.pt/image/id/6a53b423d34e511da0b2cc90/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Van der Poel conquista nona etapa, Pogacar continua de amarelo",
-      "link": "https://maisfutebol.iol.pt/volta-a-franca/ciclismo/video-van-der-poel-conquista-nona-etapa-pogacar-continua-de-amarelo",
-      "pubDate": "Sun, 12 Jul 2026 16:35:00 +0100",
-      "description": "Esloveno mantém 2m42s de vantagem sobre Jonas Vingegaard antes do primeiro dia de descanso do Tour",
-      "thumbnail": "https://img.iol.pt/image/id/6a53b428d34e511da0b2cc91/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Negócio fechado: Hugo Oliveira troca Famalicão pelo Estrasburgo",
-      "link": "https://maisfutebol.iol.pt/transferencias/mercado/negocio-fechado-hugo-oliveira-troca-famalicao-pelo-estrasburgo",
-      "pubDate": "Sun, 12 Jul 2026 16:08:00 +0100",
-      "description": "Treinador português leva adjuntos para França",
-      "thumbnail": "https://img.iol.pt/image/id/698a42d4d34e0ec52ec3594f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Superbikes: Miguel Oliveira termina GP do Reino Unido no 12.º lugar",
-      "link": "https://maisfutebol.iol.pt/superbikes/miguel-oliveira/superbikes-miguel-oliveira-termina-gp-do-reino-unido-no-12-lugar",
-      "pubDate": "Sun, 12 Jul 2026 16:03:00 +0100",
-      "description": "Nicolo Bulega triunfa na segunda corrida do fim de semana e Aruba.It Racing - Ducati conquista mundial de construtores",
-      "thumbnail": "https://img.iol.pt/image/id/6a15c4c5d34e28842c847e0f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Feriado nacional e jogo com Espanha: França anuncia reforço policial",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/franca/feriado-nacional-e-jogo-com-espanha-franca-anuncia-reforco-policial",
-      "pubDate": "Sun, 12 Jul 2026 15:55:00 +0100",
-      "description": "Celebração da Tomada da Bastilha, a 14 de julho, coincide em 2026 com o jogo da meia-final do Mundial",
-      "thumbnail": "https://img.iol.pt/image/id/6a49961cd34edcee7c661200/250"
     },
     {
       "sourceId": "sapo",
@@ -175,11 +175,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Livre desafia PS a travar revisão constitucional, dizendo que socialistas têm “votos para conseguir negociar”",
-      "link": "https://sapo.pt/artigo/livre-desafia-ps-a-travar-revisao-constitucional-dizendo-que-socialistas-tem-votos-para-conseguir-negociar-6a538e3393000f7db611a1de",
-      "pubDate": "Sun, 12 Jul 2026 14:52:49 +0000",
-      "description": "Isabel Mendes Lopes falava durante o 17.º Congresso do Livre, que termina este domingo, 12 de julho, em Sintra, depois de ter sido reeleita porta-voz, agora com o deputado Jorge Pinto.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AbbDO95r7OOFg05F0L1wf6QeGfppjcTGICW07yvk6f%2B7hCErZaJ2fVNOhhsIy7sK00p6tezqKJeMf7SOL8r5hCVA09S0a%2FyrMGzrl0%2Bdxi%2B1%2BWxxn3Cb0SL3HuHGwvVeu"
+      "title": "Jorge Pinto quer Livre “no poder já no próximo ciclo eleitoral”",
+      "link": "https://jornaleconomico.sapo.pt/noticias/jorge-pinto-quer-livre-no-poder-ja-no-proximo-ciclo-eleitoral/",
+      "pubDate": "Sun, 12 Jul 2026 15:53:40 +0000",
+      "description": "“Foi para isso que o Livre nasceu: para ser poder, para mudar a vida das pessoas e para dizer que há um Portugal que nós amamos e pelo qual vale a pena luta\", disse Jorge Pinto.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AmFKnoCYiFBt7UfAm82MPFWbFnISx%2BYcHWdmwe1hRpUzYtcs6Djo5ZtjozKR%2FvNjwhIs9jamnf5Mh2JEXLaAYPu%2B0dswp6gqWx%2F1CPgeeSBPcdsCPtVf9Wx1K9E%2BI97Vn"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mathieu van der Poel bateu companheiros de fuga para vencer 9.ª etapa",
-      "link": "https://www.noticiasaominuto.com/desporto/3020340/mathieu-van-der-poel-bateu-companheiros-de-fuga-para-vencer-9-etapa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 16:51:30",
+      "title": "\"Declarações xenófobas\" de Rajoy sobre seleção francesa contestadas",
+      "link": "https://www.noticiasaominuto.com/desporto/3020347/declaracoes-xenofobas-de-rajoy-sobre-selecao-francesa-contestadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 17:54:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47451124.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5af9945ae2e45.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 2 milhões de pessoas precisam de água e comida na Somália",
-      "link": "https://www.noticiasaominuto.com/mundo/3020336/mais-de-2-milhoes-de-pessoas-precisam-de-agua-e-comida-na-somalia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 16:37:21",
+      "title": "Adolescente denuncia plano da mãe para matar mulher no Brasil",
+      "link": "https://www.noticiasaominuto.com/mundo/3020343/adolescente-denuncia-plano-da-mae-para-matar-mulher-no-brasil-foi-detida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 17:52:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6585bdff8342d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a160de7e552b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6LTEsImNyb3BZIjo0ODR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Novo furo reforça abastecimento de água em Almada antes do previsto",
-      "link": "https://www.noticiasaominuto.com/pais/3020337/novo-furo-reforca-abastecimento-de-agua-em-almada-antes-do-previsto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 16:36:04",
+      "title": "Autarca faz balanço positivo de circuito automóvel que projecta Vila Real",
+      "link": "https://www.noticiasaominuto.com/auto/3020346/autarca-faz-balanco-positivo-de-circuito-automovel-que-projecta-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 17:50:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_699f6a58e49e8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53c5d508f4a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSD pede mais \"críticas construtivas e menos polarização\"",
-      "link": "https://www.noticiasaominuto.com/politica/3020332/psd-pede-mais-criticas-construtivas-e-menos-polarizacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 16:34:29",
+      "title": "De arrepiar. Inglaterra rumou às 'meias' do Mundial e festejou assim",
+      "link": "https://www.noticiasaominuto.com/desporto/3020345/de-arrepiar-inglaterra-rumou-as-meias-do-mundial-e-festejou-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 17:39:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53d0ee1239958.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53c3168cb87.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Schjelderup frustrado com eliminação do Mundial2026: \"Sinto-me roubado\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3020338/schjelderup-frustrado-com-eliminacao-do-mundial2026-sinto-me-roubado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-12 16:32:41",
+      "title": "EUA. Mulher faz entrega de comida mesmo depois de ser atingida por carro",
+      "link": "https://www.noticiasaominuto.com/mundo/3020339/eua-funcionaria-completa-entrega-de-comida-apos-ser-atingida-por-carro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-12 17:36:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a52bd65a02d7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53b4a69195f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjMsImNyb3BZIjoyNzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjExNDcsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Office 2024 e Windows 11 Pro por menos de 40€ com o TT30",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-windows-11-goodoffer24-tt30/",
+      "pubDate": "Sun, 12 Jul 2026 16:30:30 +0000",
+      "description": "A GoodOffer24 lançou uma campanha que permite comprar a chave digital do Office 2024 Professional Plus por 15,5€ e juntar-lhe o Windows 11 Pro com chave original por 21,8€. Com o cupão TT30, o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/12th-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 12 Jul 2026 13:03:51 +0000",
       "description": "Há dias, um leitor do Pplware contou que, por engano ao digitar um número de telefone, enviou dinheiro por MB WAY para a pessoa errada, sem se aperceber de imediato. Os 250 euros acabaram&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/mbway_numero_errado00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "PTES: o standard que torna os “pentests” mais eficazes",
-      "link": "https://pplware.sapo.pt/internet/ptes-o-standard-que-torna-os-pentests-mais-eficazes/",
-      "pubDate": "Sun, 12 Jul 2026 12:00:41 +0000",
-      "description": "Os testes de intrusão, mais conhecidos como Pentests, são uma das principais ferramentas utilizadas para avaliar a segurança de infraestruturas, aplicações e redes. Já conhece a metodologia estruturada PTES (Penetration Testing Execution Standard)? O&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/pen_00.jpg"
     },
     {
       "sourceId": "autosport",
