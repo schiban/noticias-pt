@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-12T23:24:55.761975+00:00",
+  "updated": "2026-07-13T01:02:33.993211+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Venezuela. Número de portugueses mortos sobe para 114",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2322/",
+      "pubDate": "Mon, 13 Jul 2026 01:13:52 +0100",
+      "description": "Continuam ainda desaparecidos 54 portugueses e lusodescendentes. Na sequência do duplo sismo morreram ao todo 4490 pessoas. Ainda, Irão acusa EUA de violar o cessar-fogo com uma nova vaga de ataques.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fiz 50 anos de jornalismo. Adoro que faço, não o que fazem",
+      "link": "https://observador.pt/opiniao/fiz-50-anos-de-jornalismo-adoro-que-faco-nao-o-que-fazem/",
+      "pubDate": "Mon, 13 Jul 2026 00:26:24 +0100",
+      "description": "Comecei em Julho de 1976, vi muito e assisti a transformações radicais, mas quero seguir inquieto e não conformista, até por não querer que o jornalismo se suicide como às vezes parece tentado a fazer",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1903:1070:nowe:140:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12233329/vw-sheep-plant-00004-2048x1152-1.webp"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Neves pagou 5 mil euros a empreiteiro para \"fundo de maneio\"",
-      "link": "https://observador.pt/2026/07/12/luis-neves-pagou-5-mil-euros-a-empreiteiro-para-pequenas-despesas-e-fundo-de-maneio-revelara-faturas-se-entender-que-e-necessario/",
-      "pubDate": "Sun, 12 Jul 2026 23:14:47 +0100",
-      "description": "Ministro da Administração Interna deu entrevistas a três canais sobre a contratação polémica de um amigo que trabalhou para a PJ: \"Sabendo o que sei hoje, o percurso teria sido diferente.\"",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07133253/47421772.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Aumento acentuado do preço do petróleo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-aumento-acentuado-do-preco-do-petroleo_a1_1752916",
+      "pubDate": "Mon, 13 Jul 2026 01:42:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "23h. PS diz que PM deu \"respostas levianas\" sobre os exames",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2125/",
-      "pubDate": "Sun, 12 Jul 2026 23:10:21 +0100",
-      "description": "José Luís Carneiro acusa Luís Montenegro de falhar com os jovens que querem entrar no ensino superior. Ainda, Fernando Pimenta conquistou uma nova medalha de ouro na Taça do Mundo de Montreal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Basquetebol: seleção portuguesa campeã da divisão B do Europeu Feminino de Sub-20",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-basquetebol-selecao-portuguesa-campea-da-divisao-b-do-europeu-feminino-de-sub-20_a1_1752915",
+      "pubDate": "Mon, 13 Jul 2026 01:39:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,32 +102,12 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Vítimas mortais no incêndio florestal de Los Gallardos sobem para 13",
-      "link": "https://www.rtp.pt/noticias/mundo/vitimas-mortais-no-incendio-florestal-de-los-gallardos-sobem-para-13_n1752908",
-      "pubDate": "Sun, 12 Jul 2026 23:46:17 +0100",
-      "description": "O número de mortos no incêndio florestal de Los Gallardos, em Almería, subiu para 13, após a morte de uma mulher britânica de 93 anos que estava internada no Hospital de Torrecárdenas, revelaram as autoridades.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Exército norte-americano anuncia nova ronda de ataques contra o Irão",
-      "link": "https://www.rtp.pt/noticias/mundo/exercito-norte-americano-anuncia-nova-ronda-de-ataques-contra-o-irao_e1752794",
-      "pubDate": "Sun, 12 Jul 2026 23:34:39 +0100",
-      "description": "As Forças Armadas dos EUA anunciaram que lançaram uma nova ronda de ataques contra o Irão para impedir o país de atacar navios no Estreito de Ormuz. Acompanhámos aqui o evoluir da situação no Médio Oriente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/45a83cd3552c99db8129c3f62bc9442d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
       "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
       "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Mon, 13 Jul 2026 00:21:00 +0100",
+      "pubDate": "Mon, 13 Jul 2026 00:24:00 +0100",
       "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
       "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
