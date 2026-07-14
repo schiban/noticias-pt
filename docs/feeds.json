@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-13T23:27:13.238176+00:00",
+  "updated": "2026-07-14T00:53:18.225409+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. PR diz que reduzir risco sísmico é prioridade nacional",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2323/",
+      "pubDate": "Tue, 14 Jul 2026 01:14:59 +0100",
+      "description": "António José Seguro recebeu no Palácio de Belém \"especialistas em engenharia civil, geologia e sismologia\". Ainda, Emirados Árabes Unidos afirmam que dois petroleiros foram atacados pelo Irão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sertã dá parecer negativo às zonas de renováveis",
+      "link": "https://observador.pt/2026/07/14/camara-da-serta-da-parecer-desfavoravel-as-zonas-de-aceleracao-de-renovaveis/",
+      "pubDate": "Tue, 14 Jul 2026 00:27:37 +0100",
+      "description": "A Câmara da Sertã emitiu parecer desfavorável ao PSZAER, em consulta pública até dia 15. O município alerta para impactos num território \"ambientalmente sensível\" e de \"elevado valor paisagístico\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2014/10/10081936.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,73 +52,53 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O Estado da Nação de Gonçalo Ramires",
-      "link": "https://observador.pt/opiniao/o-estado-da-nacao-de-goncalo-ramires/",
-      "pubDate": "Tue, 14 Jul 2026 00:22:10 +0100",
-      "description": "O Estado (que falha nos exames, na água ou na resposta a tempestades) não pode estar bem. A Nação parece sempre remediada e remendada, como escrevia Eça e repetiu Marcelo, à espera de um milagre.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2414%3A2414%3Anowe%3A74%3A952%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170559%2Frui-pedro-antunes.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O sexto mundial sem sentido",
-      "link": "https://observador.pt/opiniao/o-sexto-mundial-sem-sentido/",
-      "pubDate": "Tue, 14 Jul 2026 00:20:23 +0100",
-      "description": "Ainda agora, não saiu com a equipa para encarar os adeptos que a esperavam no aeroporto, pisgou-se logo para o seu jacto privado. Foi a única desmarcação bem-sucedida dos últimos tempos.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2444%3A2443%3Anowe%3A24%3A962%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170602%2Fze-diogo-quintela.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Taxas na passagem do Estreiro de Ormuz",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-taxas-na-passagem-do-estreiro-de-ormuz_a1_1753167",
+      "pubDate": "Tue, 14 Jul 2026 02:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Pete Hegseth quer identificar e processar autores de `fugas` de informação",
-      "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-quer-identificar-e-processar-autores-de-fugas-de-informacao_n1753158",
-      "pubDate": "Tue, 14 Jul 2026 01:24:16 +0100",
-      "description": "O secretário da Guerra norte-americano, Pete Hegseth, anunciou a criação de um grupo de trabalho com o Departamento da Justiça para &quot;identificar e processar&quot; judicialmente quem der informação sensível de defesa à comunicação social.",
+      "title": "Kiev acusa exército russo de executar centenas de soldados ucranianos",
+      "link": "https://www.rtp.pt/noticias/mundo/kiev-acusa-exercito-russo-de-executar-centenas-de-soldados-ucranianos_n1753165",
+      "pubDate": "Tue, 14 Jul 2026 01:53:49 +0100",
+      "description": "A Ucrânia já abriu 116 investigações à morte de 306 soldados prisioneiros do exército russo, embora haja estimativas de números mais altos, segundo as autoridades de Kiev, citadas pela Agence France-Presse (AFP).",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sismos na Venezuela. Número de portugueses e lusodescendentes mortos sobe para 116",
-      "link": "https://www.rtp.pt/noticias/mundo/sismos-na-venezuela-numero-de-portugueses-e-lusodescendentes-mortos-sobe-para-116_n1753153",
-      "pubDate": "Tue, 14 Jul 2026 01:00:36 +0100",
-      "description": "O número de portugueses e lusodescendentes que morreram no duplo sismo que atingiu a Venezuela em 24 de junho aumentou para 116 e o número de desaparecidos diminuiu para 53, anunciou hoje o Ministério dos Negócios Estrangeiros (MNE).",
+      "title": "Reino Unido quer mudar lei para deportar líder de rede de tráfico sexual de crianças",
+      "link": "https://www.rtp.pt/noticias/mundo/reino-unido-quer-mudar-lei-para-deportar-lider-de-rede-de-trafico-sexual-de-criancas_n1753163",
+      "pubDate": "Tue, 14 Jul 2026 01:37:03 +0100",
+      "description": "O Governo britânico pretende obter uma alteração à lei para tentar deportar um pedófilo paquistanês condenado por liderar uma rede de tráfico sexual de crianças, anunciou ministra do Interior, Shabana Mahmood.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "PR quer redução do risco sísmico como prioridade nacional acima dos ciclos políticos",
-      "link": "https://www.rtp.pt/noticias/pais/pr-quer-reducao-do-risco-sismico-como-prioridade-nacional-acima-dos-ciclos-politicos_n1753154",
-      "pubDate": "Tue, 14 Jul 2026 00:59:53 +0100",
-      "description": "O Presidente da República defende que a redução do risco sísmico deve ser &quot;entendida como uma prioridade nacional e um compromisso de Estado, acima dos ciclos políticos&quot;, com políticas públicas &quot;coordenadas, continuadas e avaliáveis no terreno&quot;.",
+      "title": "Trinta adultos e 29 menores detidos por incêndios em França",
+      "link": "https://www.rtp.pt/noticias/mundo/trinta-adultos-e-29-menores-detidos-por-incendios-em-franca_n1753160",
+      "pubDate": "Tue, 14 Jul 2026 01:36:35 +0100",
+      "description": "Os incêndios em França, incluindo na histórica floresta de Fontainebleau, a menos de 100 quilómetros de Paris, levaram à detenção de 30 adultos e 29 menores, informou o ministro do Interior.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Polícia de Toronto confirma que vítimas mortais eram alvo em tiroteio em festival",
-      "link": "https://www.rtp.pt/noticias/mundo/policia-de-toronto-confirma-que-vitimas-mortais-eram-alvo-em-tiroteio-em-festival_n1753156",
-      "pubDate": "Tue, 14 Jul 2026 00:59:36 +0100",
-      "description": "A polícia de Toronto confirmou hoje que os dois homens mortos no tiroteio de sábado entre dois grupos num festival de rua na cidade canadiana eram o alvo dos disparos, prosseguindo a investigação até agora sem detenções.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Índia doa 500 toneladas de arroz para apoiar vítimas das cheias em Moçambique",
-      "link": "https://www.rtp.pt/noticias/mundo/india-doa-500-toneladas-de-arroz-para-apoiar-vitimas-das-cheias-em-mocambique_n1753157",
-      "pubDate": "Tue, 14 Jul 2026 00:59:11 +0100",
-      "description": "A Índia entregou hoje a Moçambique 500 toneladas de arroz e medicamentos para assistência humanitária a famílias afetadas pelas cheias e inundações de janeiro.",
+      "title": "Trump recomenda que a irmã do falecido Lindsay Graham complete o mandato deste",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-recomenda-que-a-irma-do-falecido-lindsay-graham-complete-o-mandato-deste_n1753162",
+      "pubDate": "Tue, 14 Jul 2026 01:36:13 +0100",
+      "description": "Darline Graham Nordone, irmã do falecido senador Lindsay Graham, anunciou na segunda-feira que vai completar o mandato deste até janeiro de 2027, depois de Donald Trump tal ter recomendado.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
