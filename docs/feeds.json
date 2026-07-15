@@ -1,13 +1,23 @@
 {
-  "updated": "2026-07-15T05:13:42.448910+00:00",
+  "updated": "2026-07-15T07:27:59.433473+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2434/",
-      "pubDate": "Wed, 15 Jul 2026 06:03:08 +0100",
+      "title": "\"Trump está a cair numa armadilha e a arriscar as eleições\"",
+      "link": "https://observador.pt/programas/gabinete-de-guerra/trump-esta-a-cair-numa-armadilha-e-a-arriscar-as-eleicoes/",
+      "pubDate": "Wed, 15 Jul 2026 08:15:49 +0100",
+      "description": "Francisco Pereira Coutinho avisa que acordo entre EUA e Irão correu mal. O especialista em direito internacional, diz que descontrolo do preço do petróleo pode destruir hipótese de Trump nas eleições.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2458/",
+      "pubDate": "Wed, 15 Jul 2026 08:13:15 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,101 +25,81 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Quantas mariconeras cabem nas malas do Haaland?",
-      "link": "https://observador.pt/programas/do-avesso/quantas-mariconeras-cabem-nas-malas-do-haaland/",
-      "pubDate": "Wed, 15 Jul 2026 06:02:31 +0100",
-      "description": "Dos relvados do Mundial para os prados da Dior, seguimos o estilo dos futebolistas, as novidades para homem saídas da semana da moda, e tudo o que adorámos na alta-costura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/29154007/770-podcast-do-avesso.jpg"
+      "title": "Nova tecnologia mede humidade para prevenir incêndios",
+      "link": "https://observador.pt/2026/07/15/nova-tecnologia-permite-medir-humidade-florestal-na-peninsula-iberica-para-prevenir-incendios/",
+      "pubDate": "Wed, 15 Jul 2026 08:03:00 +0100",
+      "description": "Plataforma atualiza estado hídrico das florestas. Possibilita ver outros indicadores para prevenção. Integra dados de vários serviços meteorológicos. 2025 foi \"quarto pior ano\" em área ardida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1138:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100033/gco-incendio-vouzela-4-julho-2026-006.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As duas muralhas romanas de Viseu",
-      "link": "https://observador.pt/programas/a-historia-das-historias/as-duas-muralhas-romanas-de-viseu/",
-      "pubDate": "Wed, 15 Jul 2026 06:02:24 +0100",
-      "description": "Uma cintura defensiva augustiniana do séc. I e outra do séc. III, esta com raro torreão semi-circular, rodeado de sepulturas, 3 necrópoles romanas e um magnífico sarcófafgo em mármore",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
+      "title": "A tradição de Alain Pérez canta uma Cuba \"à beira do abismo\"",
+      "link": "https://observador.pt/especiais/alain-perez-dizem-que-a-juventude-nao-liga-as-raizes-mas-o-bad-bunny-faz-um-album-com-os-ritmos-da-sua-terra-e-e-um-deus/",
+      "pubDate": "Wed, 15 Jul 2026 07:54:37 +0100",
+      "description": "Cresceu e fez-se músico na ilha, partilhou o palco com Paco de Lucía e é hoje uma referência. Entrevistámo-lo antes da estreia a solo em Lisboa. Sexta-feira, dia 17 de julho, a \"Fiesta\" é garantida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2734:1539:nowe:0:638/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/13155832/image00003-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Porque é que traduzimos os nomes dos reis? — Dúvidas",
-      "link": "https://observador.pt/programas/portugues-suave/porque-e-que-traduzimos-os-nomes-dos-reis-duvidas/",
-      "pubDate": "Wed, 15 Jul 2026 06:02:02 +0100",
-      "description": "Porque é que chamamos \"Isabel II\" e não \"Elizabeth II\"? Marcos Neves explica porque traduzimos os nomes dos reis e de onde vem a diferença entre \"dobragem\" (em Portugal) e \"dublagem\" (no Brasil).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O calor pode alterar o efeito dos medicamentos?",
-      "link": "https://observador.pt/programas/tratar-da-saude/o-calor-pode-alterar-o-efeito-dos-medicamentos/",
-      "pubDate": "Wed, 15 Jul 2026 06:01:58 +0100",
-      "description": "Quando as temperaturas sobem, há medicamentos que exigem atenção redobrada. Suspender a medicação não é a solução, mas saber como agir pode evitar complicações.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/26182232/770-podcast-tratar-da-saude-1.jpg"
+      "title": "Chapo participa em fórum económico em Cascais",
+      "link": "https://observador.pt/2026/07/15/presidente-mocambicano-participa-esta-quarta-feira-no-eurafrican-forum-em-cascais/",
+      "pubDate": "Wed, 15 Jul 2026 07:39:36 +0100",
+      "description": "PR moçambicano é \"convidado de honra\" no EurAfrican Forum, que promove diálogo entre África, Europa e investidores internacionais. Visita ocorre perante avanços em \"megaprojetos\" de gás natural.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/12103534/46171556.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Justiça eleitoral no Brasil quer selo de exatidão para empresas de sondagens de voto",
-      "link": "https://www.rtp.pt/noticias/mundo/justica-eleitoral-no-brasil-quer-selo-de-exatidao-para-empresas-de-sondagens-de-voto_n1753416",
-      "pubDate": "Wed, 15 Jul 2026 07:11:35 +0100",
-      "description": "O Tribunal Superior Eleitoral (TSE) brasileiro anunciou na terça-feira a intenção de criar um selo de precisão eleitoral para premiar os institutos de sondagens de intenção de voto que mais acertarem os resultados das eleições.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e2ea793dac349a4e1687b0f393908463?w=350&amp;q=50&amp;rect=0,0,547,300&amp;auto=format"
+      "title": "Campeã Argentina e Inglaterra procuram segunda vaga na final",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/campea-argentina-e-inglaterra-procuram-segunda-vaga-na-final_d1753468",
+      "pubDate": "Wed, 15 Jul 2026 09:26:12 +0100",
+      "description": "A campeão em título Argentina e a Inglaterra disputam hoje a segunda vaga na final do Mundial de futebol de 2026, no domingo, na qual já está a Espanha, que bateu a França, por 2-0, na terça-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a932c8385e2c7df9dca9262a2b85ae17?w=350&amp;q=50&amp;rect=0,36,3452,1893&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Reino Unido proíbe redes sociais de madrugada a adolescentes com 16 e 17 anos",
-      "link": "https://www.rtp.pt/noticias/mundo/reino-unido-proibe-redes-sociais-de-madrugada-a-adolescentes-com-16-e-17-anos_n1753415",
-      "pubDate": "Wed, 15 Jul 2026 07:01:45 +0100",
-      "description": "O governo britânico anunciou na terça-feira um período, entre a meia-noite e as seis da manhã, de proibição das redes sociais a adolescentes com 16 e 17 anos, que complementa a interdição aos menores de 16 anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f263835611c9f829aec4abddd9a30a7b?w=350&amp;q=50&amp;rect=0,60,1024,561&amp;auto=format"
+      "title": "Von der Leyen em Kiev para apoiar indústria de defesa ucraniana",
+      "link": "https://www.rtp.pt/noticias/mundo/von-der-leyen-em-kiev-para-apoiar-industria-de-defesa-ucraniana_n1753459",
+      "pubDate": "Wed, 15 Jul 2026 09:26:07 +0100",
+      "description": "A presidente da Comissão Europeia, Ursula von der Leyen, vai anunciar em Kiev esta quarta-feira novas iniciativas relacionadas com a indústria de defesa do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d3e79f85d30b80a56ea29b704930d741?w=350&amp;q=50&amp;rect=1,0,4206,2306&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Alargado até ao meio-dia o prazo para correção dos exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-alargado-ate-ao-meio-dia-o-prazo-para-correcao-dos-exames_a1_1753438",
-      "pubDate": "Wed, 15 Jul 2026 06:33:02 +0100",
+      "title": "Los Angeles 2028. COP homenageia atletas olímpicos portugueses",
+      "link": "https://www.rtp.pt/noticias/desporto/los-angeles-2028-cop-homenageia-atletas-olimpicos-portugueses_v1753466",
+      "pubDate": "Wed, 15 Jul 2026 09:25:48 +0100",
+      "description": "O Comité Olímpico Português já aponta agulhas a Los Angeles 2028.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/39/39ff8f5362370f910114192b3ca40e47_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Argentina defende título na sexta meia-final da sua história",
+      "link": "https://www.rtp.pt/noticias/desporto/argentina-defende-titulo-na-sexta-meia-final-da-sua-historia_v1753465",
+      "pubDate": "Wed, 15 Jul 2026 09:21:47 +0100",
+      "description": "A Argentina, campeã em título, quer fazer história mais uma vez.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d9/d9f46863f56e7bb0f014063f8cff8bd8_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "08h Diretores escolares preocupados com acréscimo de tarefas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-diretores-escolares-preocupados-com-acrescimo-de-tarefas_a1_1753464",
+      "pubDate": "Wed, 15 Jul 2026 09:19:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h Exames. Para Montenegro, há professores a perturbar o processo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-exames-para-montenegro-ha-professores-a-perturbar-o-processo_a1_1753429",
-      "pubDate": "Wed, 15 Jul 2026 05:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Trump diz que ataques no Irão continuam até ordem contrária",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-trump-diz-que-ataques-no-irao-continuam-ate-ordem-contraria_a1_1753425",
-      "pubDate": "Wed, 15 Jul 2026 04:15:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Wed, 15 Jul 2026 00:41:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -117,9 +107,29 @@
       "color": "#4fc48a",
       "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
       "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Wed, 15 Jul 2026 00:40:00 +0100",
+      "pubDate": "Wed, 15 Jul 2026 08:14:00 +0100",
       "description": "O que de mais importante está a acontecer num único local",
       "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Wed, 15 Jul 2026 08:04:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/futebol/hoje-vai-ser-noticia-178409880",
+      "pubDate": "Wed, 15 Jul 2026 08:00:00 +0100",
+      "description": "Há um lugar na final do Mundial em jogo",
+      "thumbnail": "https://img.iol.pt/image/id/6a530f81d34e511da0b2cbc4/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Tue, 14 Jul 2026 23:59:00 +0100",
       "description": "Foi há pouco mais de 40 anos que Maradona teve aquela mítica tarde no Azteca ante os ingleses, no caminho para o título mundial. À 206.ª internacionalização, «La Pulga» prepara-se para defrontar pela primeira vez os ingleses. História e estatísticas à porta da segunda meia-final do Mundial 2026",
       "thumbnail": "https://img.iol.pt/image/id/6a551c23d34e511da0b2d121/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: família Real espanhola celebra apuramento para a final do Mundial",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/espanha/video-familia-real-espanhola-celebra-apuramento-para-a-final-do-mundial",
-      "pubDate": "Tue, 14 Jul 2026 23:44:00 +0100",
-      "description": "«Agora é o momento de lutar pelo título», pode ler-se numa publicação das redes sociais",
-      "thumbnail": "https://img.iol.pt/image/id/6a56bb60d34e511da0b2d5d3/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Scaloni rendido a Inglaterra: \"Tem dois dos melhores jogadores do mundo\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3021587/scaloni-rendido-a-inglaterra-tem-dois-dos-melhores-jogadores-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 06:03:04",
+      "title": "Incêndio em armazéns no concelho de Paredes em fase de rescaldo",
+      "link": "https://www.noticiasaominuto.com/pais/3021666/incendio-em-armazens-no-concelho-de-paredes-em-fase-de-rescaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-15 08:23:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a40df303c258.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjgyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxNDM2LCJjcm9wWSI6NTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6910f161a72c6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjQ2fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tuchel sem medo de Messi: \"Estiver a pensar...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3021581/tuchel-sem-medo-de-messi-estiver-a-pensar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 06:01:37",
+      "title": "Ursula von der Leyen em Kyiv para apoiar indústria de defesa ucraniana",
+      "link": "https://www.noticiasaominuto.com/mundo/3021661/ursula-von-der-leyen-em-kyiv-para-apoiar-industria-de-defesa-ucraniana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-15 08:23:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ddc7e41aa60.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5733b85a0bb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA2LCJjcm9wSGVpZ2h0IjoxNDEwLCJjcm9wWCI6MjQsImNyb3BZIjo0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NTM1LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Palestinianos pedem ação  contra abusos sexuais em prisões israelitas",
-      "link": "https://www.noticiasaominuto.com/mundo/3021567/palestinianos-pedem-acao-contra-abusos-sexuais-em-prisoes-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-14 23:58:21",
+      "title": "Hoje é notícia: Furtos por carteiristas sobem; Piscina? Câmara não sabia",
+      "link": "https://www.noticiasaominuto.com/pais/3021626/hoje-e-noticia-furtos-por-carteiristas-sobem-piscina-camara-nao-sabia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-15 08:21:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fea4c954f0a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a572ea505150.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NjUsImNyb3BIZWlnaHQiOjU0MywiY3JvcFgiOjgsImNyb3BZIjo2fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Shearer dá voz a personagens icónicas de Simpsons, mas revela: \"Não vi\"",
-      "link": "https://www.noticiasaominuto.com/cultura/3021564/shearer-da-voz-a-personagens-iconicas-de-simpsons-mas-revela-nao-vi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-14 23:54:56",
+      "title": "Família real espanhola em grande festa com vitória da seleção espanhola",
+      "link": "https://www.noticiasaominuto.com/fama/3021650/familia-real-espanhola-em-grande-festa-com-vitoria-da-selecao-espanhola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-15 08:07:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a56bd1a7e1e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU3LCJjcm9wSGVpZ2h0IjoxMzgyLCJjcm9wWCI6MzcsImNyb3BZIjo3M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTg3LCJjcm9wSGVpZ2h0IjoxNzU1LCJjcm9wWCI6MTQwNywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a572fa526074.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3ODMsImNyb3BIZWlnaHQiOjQ0MCwiY3JvcFgiOjUsImNyb3BZIjoyNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjYzLCJjcm9wSGVpZ2h0Ijo0NjcsImNyb3BYIjoyNywiY3JvcFkiOjEzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3021033/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-14 23:54:32",
+      "title": "\"Titanic moderno\". A história verídica do mais novo fenómeno da Netflix",
+      "link": "https://www.noticiasaominuto.com/tech/3021400/titanic-moderno-a-historia-veridica-do-mais-novo-fenomeno-da-netflix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-15 08:01:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a55d75b3f23b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjU0MCwiY3JvcFgiOjAsImNyb3BZIjo4N319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a565f3c3d848.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODg5LCJjcm9wSGVpZ2h0IjoxMDYzLCJjcm9wWCI6MTEsImNyb3BZIjo5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1OTQsImNyb3BIZWlnaHQiOjEwNTUsImNyb3BYIjo4NTIsImNyb3BZIjo2fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Tarifas falharam? Carros elétricos chineses continuam 21% mais baratos na Europa",
+      "link": "https://pplware.sapo.pt/motores/tarifas-falharam-carros-eletricos-chineses-continuam-21-mais-baratos-na-europa/",
+      "pubDate": "Wed, 15 Jul 2026 07:00:48 +0000",
+      "description": "A Europa criou tarifas para equilibrar o mercado automóvel. O objetivo era claro, mas o resultado ficou aquém do esperado. Os carros elétricos das marcas chinesas mantêm vantagem expressiva e custam menos 21% do&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/europa_china_eletricos_taxa_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Android Auto vai mudar a aplicação mais utilizada por todos no carro",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/android-auto-vai-mudar-a-aplicacao-mais-utilizada-por-todos-no-carro/",
+      "pubDate": "Wed, 15 Jul 2026 06:00:25 +0000",
+      "description": "Ainda não se pode experimentar, mas a próxima atualização do Android Auto vai valer a pena. Está focada numa das aplicações mais usadas ​​no carro: a música. A Google percebeu que havia um problema&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/android_auto_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Tue, 14 Jul 2026 19:30:52 +0000",
       "description": "A Apple está a planear uma autêntica revolução na sua linha Mac ao preparar o lançamento do processador M7 Ultra. Este novo componente disponibilizará uma capacidade de memória unificada nunca antes vista no mercado.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/apple-m7.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows 11: Copilot ajudará um PC lento e uma das respostas é esta IA",
-      "link": "https://pplware.sapo.pt/microsoft/windows/windows-11-copilot-ajudara-um-pc-lento-e-uma-das-respostas-e-esta-ia/",
-      "pubDate": "Tue, 14 Jul 2026 18:30:36 +0000",
-      "description": "A Microsoft está a testar o PC Insights no Copilot para Windows 11. Esta funcionalidade analisa o desempenho do PC e ajuda o utilizador a gerir o sistema. No entanto, traz uma contradição. O&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/02/copilot_microsoft.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O habitat dos diferentes tipos de videojogos",
-      "link": "https://pplware.sapo.pt/jogos/o-habitat-dos-diferentes-tipos-de-videojogos/",
-      "pubDate": "Tue, 14 Jul 2026 18:00:14 +0000",
-      "description": "Todos os géneros de videojogos têm o seu habitat natural. Apesar de poderem ser jogados em praticamente qualquer lado, existem certos locais onde claramente certos tipos de jogos podem&#8230; ou melhor&#8230; devem ser desfrutados&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/HabitatGaming_3.jpg"
     },
     {
       "sourceId": "autosport",
