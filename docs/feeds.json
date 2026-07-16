@@ -1,73 +1,63 @@
 {
-  "updated": "2026-07-16T03:23:00.027248+00:00",
+  "updated": "2026-07-16T05:58:39.621034+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2345/",
-      "pubDate": "Thu, 16 Jul 2026 04:13:55 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Primeiro-ministro abre hoje debate do Estado da Nação",
+      "link": "https://observador.pt/liveblogs/primeiro-ministro-abre-hoje-debate-do-estado-da-nacao-com-exames-no-centro-da-polemica/",
+      "pubDate": "Thu, 16 Jul 2026 06:55:16 +0100",
+      "description": "Luís Montenegro abre hoje o debate do Estado da Nação, que terá uma duração aproximada de quatro horas. O debate deverá ficar marcado pelos problemas registados na correção dos exames nacionais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/16192920/46936261.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Rui Rio acusa o Governo de ter medo de fazer reformas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2378/",
-      "pubDate": "Thu, 16 Jul 2026 03:16:04 +0100",
-      "description": "Ex-presidente do PSD  afirma que classe política não faz reformas porque tem medo de ir contra interesses instalados. Ainda, o prazo de correção acabou, mas ainda há exames nacionais por classificar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Educação. PS indignado com \"falta de respeito\" de Montenegro",
+      "link": "https://observador.pt/2026/07/16/ps-indignado-com-falta-de-respeito-de-montenegro-com-os-professores/",
+      "pubDate": "Thu, 16 Jul 2026 06:54:44 +0100",
+      "description": "\"O Governo que devia ser fonte de soluções é visto pelos portugueses como um dos principais problemas do país\", criticou André Moz Caldas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/28162241/dventura-congresso-ps-dia2-46-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Prazo de correção acabou, mas há exames por classificar",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2351/",
-      "pubDate": "Thu, 16 Jul 2026 02:13:44 +0100",
-      "description": "Movimento Escola Pública coloca a hipótese de as pautas divulgadas esta sexta-feira não conterem todas as classificações. Ainda, Estados Unidos lançaram segunda vaga de bombardeamentos contra o Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "EUA atingiram alvos militares no Irão",
+      "link": "https://observador.pt/liveblogs/ataques-norte-americanos-ao-irao-visaram-centros-de-comando-e-locais-de-vigilancia-militares-teerao-reivindica-ter-atingido-alvos-no-kuwait-e-jordania/",
+      "pubDate": "Thu, 16 Jul 2026 06:45:27 +0100",
+      "description": "Nova onda de ataques, que já terminou, foi mais demorada que a da manhã de quarta-feira. Teerão atacou instalações militares dos EUA na Jordânia e Kuwait.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16064010/gettyimages-2285588726-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Carneiro jura não ter pressa, mas aperta cerco a Montenegro",
-      "link": "https://observador.pt/2026/07/16/carneiro-jura-nao-ter-pressa-mas-tenta-apertar-cerco-a-montenegro/",
-      "pubDate": "Thu, 16 Jul 2026 01:52:46 +0100",
-      "description": "Na véspera do debate do Estado da Nação, Carneiro promete não força instabilidade, mas quer convencer os portugueses de que o problema já é o primeiro-ministro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19115006/47315359.jpg"
+      "title": "Muchachos, agora é tempo de revalidar o título",
+      "link": "https://observador.pt/programas/vamos-a-bola/muchachos-agora-e-tempo-de-revalidar-o-titulo/",
+      "pubDate": "Thu, 16 Jul 2026 06:36:00 +0100",
+      "description": "Argentina elimina a Inglaterra e está na final do campeonato do mundo frente a Espanha. Ainda, Boavista deve fechar portas até ao final do mês.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. EUA lançam segunda vaga de bombardeamentos contra Irão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2325/",
-      "pubDate": "Thu, 16 Jul 2026 01:15:24 +0100",
-      "description": "Ataques visam capacidades militares iranianas, que segundo os EUA, que ameaçam navios que transitam pelo estreito de Ormuz. Ainda, Rui Rio acusa Governo de não ter coragem para fazer reformas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Apreendidos 250 mil medicamentos contrafeitos o ano passado",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/apreendidos-250-mil-medicamentos-contrafeitos-o-ano-passado/",
+      "pubDate": "Thu, 16 Jul 2026 06:32:32 +0100",
+      "description": "DN: São cerca de 750 medicamentos contrafeitos e que representam um risco para a saúde por dia. The Guardian: Estados Unidos vão produzir uma moeda de um dólar com a imagem de Donald Trump.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Maioria dos democratas norte-americanos vota corte de ajuda a Israel",
-      "link": "https://www.rtp.pt/noticias/mundo/maioria-dos-democratas-norte-americanos-vota-corte-de-ajuda-a-israel_n1753666",
-      "pubDate": "Thu, 16 Jul 2026 05:21:11 +0100",
-      "description": "Mais de metade dos democratas na Câmara dos Representantes norte-americana votou na quarta-feira favoravelmente um corte de 3,3 mil milhões de dólares (2,8 mil milhões de euros) em ajuda a Israel, comprovando as divisões partidárias sobre o tema.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c60f279301b111cc6459bdbb690b7c41?w=350&amp;q=50&amp;rect=0,72,960,526&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h PS indignado com declarações de Montenegro sobre docentes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ps-indignado-com-declaracoes-de-montenegro-sobre-docentes_a1_1753677",
-      "pubDate": "Thu, 16 Jul 2026 04:22:02 +0100",
+      "title": "6h EUA anunciam sobretaxa para produtos brasileiros",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-eua-anunciam-sobretaxa-para-produtos-brasileiros_a1_1753692",
+      "pubDate": "Thu, 16 Jul 2026 07:34:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,9 +65,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Correção de exames ainda prossegue, diz Missão Escola Pública",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-correcao-de-exames-ainda-prossegue-diz-missao-escola-publica_a1_1753676",
-      "pubDate": "Thu, 16 Jul 2026 04:22:02 +0100",
+      "title": "5h Exames entre os temas no debate de hoje do Estado da Nação",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-exames-entre-os-temas-no-debate-de-hoje-do-estado-da-nacao_a1_1753691",
+      "pubDate": "Thu, 16 Jul 2026 07:34:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,9 +75,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Relatório: custo de vida continua a ser a principal preocupação dos portugueses",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-relatorio-custo-de-vida-continua-a-ser-a-principal-preocupacao-dos-portugueses_a1_1753672",
-      "pubDate": "Thu, 16 Jul 2026 02:41:02 +0100",
+      "title": "4h Custo de vida preocupa portugueses, apesar da economia estável",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-custo-de-vida-preocupa-portugueses-apesar-da-economia-estavel_a1_1753690",
+      "pubDate": "Thu, 16 Jul 2026 07:34:01 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,11 +85,21 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "0h Missão Escola Pública: professores continuaram a receber provas para classificar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-missao-escola-publica-professores-continuaram-a-receber-provas-para-classificar_a1_1753667",
-      "pubDate": "Thu, 16 Jul 2026 01:26:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Estados Unidos impõem taxa adicional de 25% a produtos brasileiros",
+      "link": "https://www.rtp.pt/noticias/economia/estados-unidos-impoem-taxa-adicional-de-25-a-produtos-brasileiros_n1753688",
+      "pubDate": "Thu, 16 Jul 2026 07:26:50 +0100",
+      "description": "O Governo norte-americano anunciou na quarta-feira que vai impor uma tarifa adicional de 25% sobre vários bens brasileiros a partir de 22 de julho, excluindo produtos como petróleo, gás natural, café, e carne bovina.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3757dbb22601c77e453b101a5a9ee54?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fabricante de chips CXMT prepara segundo maior IPO da história da China",
+      "link": "https://www.rtp.pt/noticias/economia/fabricante-de-chips-cxmt-prepara-segundo-maior-ipo-da-historia-da-china_n1753687",
+      "pubDate": "Thu, 16 Jul 2026 07:17:22 +0100",
+      "description": "A ChangXin Memory Technologies (CXMT), maior fabricante chinês de chips de memória, iniciou hoje a subscrição de ações para uma entrada em bolsa que poderá tornar-se a segunda maior oferta pública inicial da história da China.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/27ff4e50623615f8061f935713f2865a?w=350&amp;q=50&amp;rect=0,8,800,439&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Kuwait diz ter intercetado mais de 20 drones iranianos no seu espaço aéreo",
-      "link": "https://www.noticiasaominuto.com/mundo/3022237/kuwait-diz-ter-intercetado-mais-de-20-drones-iranianos-no-seu-espaco-aereo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 23:58:03",
+      "title": "Investida milionária pode levar Geny Catamo do Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3022279/investida-milionaria-pode-levar-geny-catamo-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 06:52:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c8c473755bb.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MywiY3JvcEhlaWdodCI6MTY5NCwiY3JvcFgiOjEyMTYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a586ed1a2ed6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzM3LCJjcm9wWSI6NTR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Barragem de Girabolhos é \"essencial e estratégica\" para o país",
-      "link": "https://www.noticiasaominuto.com/economia/3022235/barragem-de-girabolhos-e-essencial-e-estrategica-para-o-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 23:55:12",
+      "title": "Cerca de 50 concelhos do Norte, Centro e Algarve em perigo máximo de fogo",
+      "link": "https://www.noticiasaominuto.com/pais/3022281/cerca-de-50-concelhos-do-norte-centro-e-algarve-em-perigo-maximo-de-fogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 06:51:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b2ce84cb4d1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62d06dbbe0708.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEzLCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6MzIsImNyb3BZIjoxNX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Crianças de Estados insulares com sete vezes mais calor do que em 2000",
-      "link": "https://www.noticiasaominuto.com/mundo/3022227/criancas-de-estados-insulares-com-sete-vezes-mais-calor-do-que-em-2000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 23:54:14",
+      "title": "Habitantes de Toronto aconselhados a ficar em casa por causa do fumo",
+      "link": "https://www.noticiasaominuto.com/mundo/3022245/habitantes-de-toronto-aconselhados-a-ficar-em-casa-por-causa-do-fumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 06:50:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cab0e6da05.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk5MiwiY3JvcEhlaWdodCI6MTc2NCwiY3JvcFgiOjU1OSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5870739401f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Musk manifesta apoio a Le Pen: \"Última esperança de França\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3022234/musk-manifesta-apoio-a-le-pen-ultima-esperanca-de-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 23:53:27",
+      "title": "Myanmar. Mais de 500 refugiados rohingya podem ter morrido em naufrágios",
+      "link": "https://www.noticiasaominuto.com/mundo/3022263/myanmar-mais-de-500-refugiados-rohingya-podem-ter-morrido-em-naufragios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 06:40:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6723633606032.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjk0LCJjcm9wSGVpZ2h0IjoxMjkwLCJjcm9wWCI6MTUwLCJjcm9wWSI6NDEyfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65fbefc975929.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MjksImNyb3BZIjoxMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5NywiY3JvcFgiOjkzMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carneiro acusa Montenegro de mostrar \"desdém em relação à crise\" dos exames",
-      "link": "https://www.noticiasaominuto.com/politica/3022230/carneiro-acusa-montenegro-de-mostrar-desdem-em-relacao-a-crise-dos-exames#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-15 23:52:35",
+      "title": "Brasil classifica tarifas dos EUA como \"marco lastimável\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3022278/brasil-classifica-tarifas-dos-eua-como-marco-lastimavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 06:36:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a413e77f0598.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_570a87b601bcb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDA3LCJjcm9wSGVpZ2h0Ijo1NjcsImNyb3BYIjoxMCwiY3JvcFkiOjgwfX0="
     },
     {
       "sourceId": "pplware",
