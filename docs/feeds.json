@@ -1,73 +1,63 @@
 {
-  "updated": "2026-07-17T05:25:51.316248+00:00",
+  "updated": "2026-07-17T07:32:29.447668+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2436/",
-      "pubDate": "Fri, 17 Jul 2026 06:14:48 +0100",
+      "title": "Guterres alerta para controlo de IA por países ou empresas",
+      "link": "https://observador.pt/2026/07/17/guterres-alerta-para-controlo-da-ia-por-um-punhado-de-paises-ou-empresas/",
+      "pubDate": "Fri, 17 Jul 2026 08:23:21 +0100",
+      "description": "Em conferência sobre IA, o secretário-geral da ONU alertou sobre a ameaça de \"desigualdades ainda maiores\". Destaca a necessidade de uma governação enraizada no direito internacional.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17054715/47475946.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Notas hoje mas só \"à tarde\", um atrelado na polémica com MAI",
+      "link": "https://observador.pt/newsletters/360/notas-hoje-mas-so-a-tarde-um-atrelado-na-polemica-com-luis-neves-e-trump-culpa-china-pela-derrota-em-2020/",
+      "pubDate": "Fri, 17 Jul 2026 08:21:24 +0100",
+      "description": "Ministro pediu ajuda, mas professores recusam continuar avaliações. Atrelado apreendido pela PJ encontrado na Construbarcelos. O resumo do estado da Nação. E o novo episódio de \"O Candidato Perfeito\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "No Coliseu do Porto, a criação artística não tem idade",
+      "link": "https://observador.pt/especiais/com-o-festival-alquimia-o-coliseu-do-porto-quer-mostrar-que-a-criacao-artistica-nao-tem-idade/",
+      "pubDate": "Fri, 17 Jul 2026 08:17:34 +0100",
+      "description": "Depois de meses de actividades, as apresentações do Alquimia acontecem este fim de semana. O presidente da sala de espectáculos e a diretora do serviço educativo explicam motivos e objetivos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1150:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16210819/10.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Polémica Senegal: médico da seleção é, afinal, ginecologista",
+      "link": "https://observador.pt/programas/tres-toques/polemica-senegal-medico-da-selecao-e-afinal-ginecologista/",
+      "pubDate": "Fri, 17 Jul 2026 08:16:25 +0100",
+      "description": "Enquanto o Senegal lida com a revelação de que o médico da seleção é ginecologista, a tensão entre Argentina e Inglaterra cresce com acusações de truques sujos e a polémica celebração de Enzo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2460/",
+      "pubDate": "Fri, 17 Jul 2026 08:11:57 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As receitas escondidas na Bíblia",
-      "link": "https://observador.pt/programas/adivinha-quem-vem-jantar/as-receitas-escondidas-na-biblia/",
-      "pubDate": "Fri, 17 Jul 2026 06:07:18 +0100",
-      "description": "Jesus também cozinhava. O chef Luís Lavrador e o Padre Luís Lencastre explicam o significado da comida na Bíblia e revelam receitas que ainda hoje podem ser recriadas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05173721/770-podcast-adivinha-quem-vem-jantar.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Estado da Nação e ministros sob pressão",
-      "link": "https://observador.pt/programas/gera-o-v/estado-da-nacao-e-ministros-sob-pressao/",
-      "pubDate": "Fri, 17 Jul 2026 06:04:17 +0100",
-      "description": "Que retrato deixa o debate do Estado da Nação? Analisamos os principais temas discutidos no Parlamento e as polémicas que marcam os ministros da Educação e da Administração Interna.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/16183157/770-podcast-geracao-v-2025.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A Coleção Arqueológica Dr. José Coelho",
-      "link": "https://observador.pt/programas/a-historia-das-historias/a-colecao-arqueologica-dr-jose-coelho/",
-      "pubDate": "Fri, 17 Jul 2026 06:02:46 +0100",
-      "description": "O espólio que se mostra no Pólo Arqueológico de Viseu António Almeida Henriques, reunido por José Coelho, professor, investigador e coleccionador que foi castigado pelo Estado Novo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sopa no fim ajuda a digestão? – A sua pergunta",
-      "link": "https://observador.pt/programas/aprender-a-comer/sopa-no-fim-ajuda-a-digestao-a-sua-pergunta/",
-      "pubDate": "Fri, 17 Jul 2026 06:02:25 +0100",
-      "description": "Sopa no início ou no fim? A resposta depende do objetivo: saciedade, glicemia ou proteína. A Nutricionista Mariana Chaves esclarece.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/12171526/770-podcast-aprender-a-comerainda-bem.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Termina hoje campanha eleitoral das presidenciais em São Tomé e Príncipe",
-      "link": "https://www.rtp.pt/noticias/mundo/termina-hoje-campanha-eleitoral-das-presidenciais-em-sao-tome-e-principe_n1753969",
-      "pubDate": "Fri, 17 Jul 2026 07:05:04 +0100",
-      "description": "São Tomé e Príncipe vive hoje o último dia de campanha eleitoral para as presidenciais marcadas para domingo, com o sábado reservado como dia de reflexão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d50c81126e2e6b98d6457a55a034fe0?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h Montenegro mantém confiança política no ministro Luís Neves",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-montenegro-mantem-confianca-politica-no-ministro-luis-neves_a1_1753970",
-      "pubDate": "Fri, 17 Jul 2026 06:59:02 +0100",
+      "title": "8h Confederação Pais  pede calma na hora de pedir a reapreciação dos exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/8h-confederacao-pais-pede-calma-na-hora-de-pedir-a-reapreciacao-dos-exames_a1_1753992",
+      "pubDate": "Fri, 17 Jul 2026 09:27:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +65,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Guterres alerta contra controlo da IA por \"um punhado de países ou empresas\"",
-      "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-contra-controlo-da-ia-por-um-punhado-de-paises-ou-empresas_n1753967",
-      "pubDate": "Fri, 17 Jul 2026 06:46:28 +0100",
-      "description": "O secretário-geral da ONU, António Guterres, apelou hoje para que não se permita a &quot;um punhado de países ou empresas&quot; controlar o futuro da inteligência artificial (IA), sublinhando que deve ser a humanidade a &quot;moldar&quot; essa tecnologia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e1bd205416f33269eaf3f7bee91165e?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
+      "title": "Atrelado apreendido pela PJ aparece agarrado a camião da Construbarcelos",
+      "link": "https://www.rtp.pt/noticias/pais/atrelado-apreendido-pela-pj-aparece-agarrado-a-camiao-da-construbarcelos_n1753991",
+      "pubDate": "Fri, 17 Jul 2026 09:20:07 +0100",
+      "description": "Foi descoberto o atrelado que estava dado como desaparecido e que tinha sido apreendido pela Polícia Judiciária numa operação no combate ao tráfico de droga. Uma informação que se revela com mais interesse, até porque este veículo estava &quot;atrelado&quot; a um camião da Construbarcelos - firma qu",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/14d6009427bb547410c774e0e1398bfc?w=350&amp;q=50&amp;rect=0,124,1225,672&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Missão Escola Pública acredita na afixação das pautas dos exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-missao-escola-publica-acredita-na-afixacao-das-pautas-dos-exames_a1_1753968",
-      "pubDate": "Fri, 17 Jul 2026 06:45:02 +0100",
+      "title": "Quando o jornalismo promove os debates que a política adia",
+      "link": "https://www.rtp.pt/noticias/opiniao/felisbela-lopes/quando-o-jornalismo-promove-os-debates-que-a-politica-adia_1753990",
+      "pubDate": "Fri, 17 Jul 2026 09:15:16 +0100",
       "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Xi Jinping pede governação global da IA e rejeita domínio de um só país",
-      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-pede-governacao-global-da-ia-e-rejeita-dominio-de-um-so-pais_n1753966",
-      "pubDate": "Fri, 17 Jul 2026 06:37:07 +0100",
-      "description": "O Presidente chinês, Xi Jinping, defendeu hoje que a inteligência artificial não deve ser dominada por um único país e apelou ao reforço da cooperação internacional na governação desta tecnologia, na abertura da Conferência Mundial de Inteligência Artificial.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f94898365c5714615c24e8badf24fa9f?w=350&amp;q=50&amp;rect=0,11,960,526&amp;auto=format"
+      "title": "Trump aponta o dedo à China de interferência nas eleições em que perdeu para Biden",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-aponta-o-dedo-a-china-de-interferencia-nas-eleicoes-em-que-perdeu-para-biden_n1753988",
+      "pubDate": "Fri, 17 Jul 2026 08:58:17 +0100",
+      "description": "Donald Trump não esqueceu as eleições que perdeu em 2022 para o anterior presidente norte-americano Joe Biden. Trump diz agora que teve acesso a informações que foram desclassificadas que provam que houve interferência da China nessas eleições.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5e7503f5c9c74776a26c5a90494fd6a?w=350&amp;q=50&amp;rect=0,588,4964,2721&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Vinte crianças e um adulto morrem em acidente com autocarro escolar no Uganda",
+      "link": "https://www.rtp.pt/noticias/mundo/vinte-criancas-e-um-adulto-morrem-em-acidente-com-autocarro-escolar-no-uganda_n1753980",
+      "pubDate": "Fri, 17 Jul 2026 08:51:07 +0100",
+      "description": "Vinte alunos de uma escola primária e um adulto morreram num acidente com o autocarro que os levava de regresso de uma visita de estudo no leste do Uganda, anunciou hoje a polícia ugandesa.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Fri, 17 Jul 2026 08:12:00 +0100",
+      "description": "Clubes já estão a preparar a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Fri, 17 Jul 2026 08:11:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a4d42e8d34ef04b4f3f4fc1/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Fri, 17 Jul 2026 08:10:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/benfica/hoje-vai-ser-noticia-178427160",
+      "pubDate": "Fri, 17 Jul 2026 08:00:00 +0100",
+      "description": "Benfica joga frente ao Villarreal em mais um teste de preparação",
+      "thumbnail": "https://img.iol.pt/image/id/6a52ae55d34ef04b4f3f5f34/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -112,54 +152,44 @@
       "thumbnail": "https://img.iol.pt/image/id/6a596d0bd34e511da0b2de8b/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga Europa: os possíveis adversários do Benfica na 3.ª pré-eliminatória",
-      "link": "https://maisfutebol.iol.pt/benfica/liga-europa/liga-europa-os-possiveis-adversarios-do-benfica-na-3-pre-eliminatoria",
-      "pubDate": "Fri, 17 Jul 2026 00:29:00 +0100",
-      "description": "Com o final da primeira pré-eliminatória, ficou encurtado para 13 o lote de possíveis oponentes se os encarnados superarem o St. Gallen. Sorteio é na segunda-feira, antes de as águias jogarem com os suíços",
-      "thumbnail": "https://img.iol.pt/image/id/6a52ae55d34e511da0b2cb67/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Camisola de Pelé da final do Mundial 1958 é vendida por mais de 4 milhões de euros",
-      "link": "https://maisfutebol.iol.pt/incrivel/pele/camisola-de-pele-da-final-do-mundial-1958-e-vendida-por-mais-de-4-milhoes-de-euros",
-      "pubDate": "Fri, 17 Jul 2026 00:24:27 +0100",
-      "description": "Peça é a segunda mais cara da história, apenas atrás da usada por Diego Maradona nos quartos de final do Mundial 1986",
-      "thumbnail": "https://img.iol.pt/image/id/6a596822d34ef04b4f3f7218/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Memórias com Armstrong, Gamito e Ayuso: o trio português da Lidl/Trek no Tour",
-      "link": "https://maisfutebol.iol.pt/tour-de-france/tour/memorias-com-armstrong-gamito-e-ayuso-o-trio-portugues-da-lidl-trek-no-tour",
-      "pubDate": "Thu, 16 Jul 2026 23:59:00 +0100",
-      "description": "Francisco Carvalho (pai e filho) e Marco Marques são peças decisivas na campanha notável no Tour. Há 20 portugueses nos bastidores, entre sete equipas, e a camaradagem é genuína. O Maisfutebol conheceu as histórias do trio e da Lidl/Trek, equipa que aposta em várias lideranças e no pódio em Paris",
-      "thumbnail": "https://img.iol.pt/image/id/6a591ce2d34ef04b4f3f714a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Çelik reforça Juventus e lembra Mourinho no adeus à Roma",
-      "link": "https://maisfutebol.iol.pt/mercado/transferencias/oficial-celik-reforca-juventus-e-lembra-mourinho-no-adeus-a-roma",
-      "pubDate": "Thu, 16 Jul 2026 23:47:00 +0100",
-      "description": "Lateral turco estava prestes a renovar, mas muda de clube em Itália",
-      "thumbnail": "https://img.iol.pt/image/id/6a595f36d34e511da0b2de7e/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "“Dia D” da afixação das notas dos exames põe ministro à prova",
+      "link": "https://eco.sapo.pt/2026/07/17/dia-d-da-afixacao-das-notas-dos-exames-poe-ministro-a-prova/",
+      "pubDate": "Fri, 17 Jul 2026 06:49:10 +0000",
+      "description": "Fernando Alexandre admitiu, na véspera da divulgação das classificações, que existe o risco de o prazo voltar a falhar. Escolas antecipam mais pedidos de reapreciação e a pressão política aumenta.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ARKvpGX6%2BZ1OPA5IasVA5hSXvIk5SjpCx0w2HOhQTcJrkCkGAvEtGvoQ%2Bk8uyxVmD8Ib%2BfoRbyovBynJFNjTzb%2BO7yMe%2BES%2BMvkJqQvDy%2FLi1KXqS0RIm8pxmeZT4sibN"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ministro confiante de que \"amanhã à tarde\" vão ser publicadas \"as notas de todas as disciplinas\"",
-      "link": "https://sapo.pt/artigo/ministro-confiante-de-que-amanha-a-tarde-publicaremos-as-notas-de-todas-as-disciplinas-6a5934b56b5c2e83dac18610",
-      "pubDate": "Thu, 16 Jul 2026 20:29:54 +0000",
-      "description": "A afirmação foi feita pelo ministro da Educação à saída do debate sobre o Estado da Nação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACsUgafK0LpYI%2F9WHpJlWPaJFFaxp9zkUV9134%2BE0RKay0sscWKkv6joaVy1MllxVeHBF1mv4pRlCA%2FSZHMIUkj6PF2NpGOLxIiHrnp9VGtIVB21OyHq%2BepD9Et2k9zK0"
+      "title": "O discurso de Trump à Nação: \"China levou a cabo a maior violação de dados eleitorais da história\"",
+      "link": "https://sapo.pt/artigo/o-discurso-de-trump-a-nacao-china-levou-a-cabo-a-maior-violacao-de-dados-eleitorais-da-historia-6a5991566b5c2e83daca7a73",
+      "pubDate": "Fri, 17 Jul 2026 06:49:10 +0000",
+      "description": "Donald Trump falou esta noite (madrugada em Portugal) à Nação, a partir da Casa Branca. O tema foi “a vulnerabilidade“ do sistema eleitoral dos EUA e o alvo a ”influência da China” que, denunciou o Presidente norte-americano, teve acesso a...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AT9MIl74MvCGstIlZQEj104vLv12OX2DjYetZOBVr2Klg%2BRmYqjjgq5ESoVj1HHjXVQdoyeduM%2FtTs%2FR4y75ElLMxMxgBUx6jN5FK8ac0%2BDHip3CqsLfg5y7BP%2BDC0Wck"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Parlamento encerra hoje trabalhos com votações decisivas sobre TVDE, táxis e ‘lei da burca’",
+      "link": "https://executivedigest.sapo.pt/parlamento-encerra-hoje-trabalhos-com-votacoes-decisivas-sobre-tvde-taxis-e-lei-da-burca/",
+      "pubDate": "Fri, 17 Jul 2026 06:49:10 +0000",
+      "description": "A Assembleia da República realiza esta sexta-feira aquela que deverá ser a última sessão legislativa antes das férias parlamentares.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AMnNujE%2BNuuZCaRsiCSAyo09E%2FKNb%2Bj%2BS7stdCppsgoeqAnGgr0XqFUy8D2veI81R5%2FhTFLWqFQ6EgRKa%2B7JgNDm2aXhkzJIHhoFYynWyNBpvA2LuDx%2BuUQbuv6IYArRB"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ângelo Correia diz que MAI é alvo do Chega por negar relação entre criminalidade e imigração",
+      "link": "https://sapo.pt/artigo/angelo-correia-diz-que-mai-e-alvo-do-chega-por-negar-relacao-entre-criminalidade-e-imigracao-6a596d57bbff543e35407d4b",
+      "pubDate": "Fri, 17 Jul 2026 06:49:10 +0000",
+      "description": "Numa altura em que o Governo está sob pressão, Ângelo Correia saiu em defesa de Luís Neves e Fernando Alexandre. O comentador da SIC considera que o ministro da Administração Interna é um alvo do Chega e rejeita a saída do ministro da Educação...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AbROQ30anQ7hCLxxgy8HV3gBIAEabUGfSKK5eS5EFeeXwel9tO4VkZhuCfqYCQlax6yrIZ9K3aeI4DRtLoO5z8hyRlLWOVIm8LWveXDJVcrfUc0%2Bddo7g5dPXrzD%2BrWFT"
     },
     {
       "sourceId": "sapo",
@@ -172,84 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ay1S1EI0hWKhRDaiP7lRPOam0P5dbhWhv3TJAC3jubkRG69lf8zo7HL5zvyj1KHQMk%2FSnmrBQS6ONmx9v5qVzWMk6EUoujc7O9tPbZTdCj185o0%2Fshs6zDHYnEXl0CRtx"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ataques aéreos dos EUA atingem aeroporto e sul do Irão, perto do estreito de Ormuz",
-      "link": "https://sapo.pt/artigo/ataques-aereos-dos-eua-atingem-aeroporto-e-sul-do-irao-perto-do-estreito-de-ormuz-6a59583c6b5c2e83dac5be4d",
-      "pubDate": "Thu, 16 Jul 2026 22:41:05 +0000",
-      "description": "Cidade portuária de Bushehr que alberga única central nuclear do país alvo dos ataques. Residentes da cidade Ahvaz relatam intensos ataques aéreos",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AL14aAhWENFomZTCc4iafv9tdXkme6Dk415HYAIl8lVP%2Fk1JWFD%2BiJnfg68UXG0r4j8MFDZ4NVcajH4wRRkDLLk10oLMyE%2FqbqlO0HztVptsEXVcr8i4hejFiiXOBxvgc"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Trump destitui novo procurador federal de Seattle uma hora após nomeação",
-      "link": "https://sapo.pt/artigo/trump-destitui-novo-procurador-federal-de-seattle-uma-hora-apos-nomeacao-6a593f00935537d5002039ae",
-      "pubDate": "Thu, 16 Jul 2026 22:41:16 +0000",
-      "description": "O procurador-geral interino, Todd Blanche, anunciou a destituição de Roger Rogoff numa mensagem publicada na plataforma LinkedIn, acusando os juízes de não consultarem o Governo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Asod3c7I%2Bgqb%2Fw32dChbi0Z87zHeXQKkYEWdkluj2PUq%2BdJ3ukG0WlRjMjGXEvAHztEjPpsTDBX3RTplwzKLQKp17WZ0wBPu3EIexpi4f6DNq%2FJjGpPO433XlaXCdYzwA"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Quatro verdades e mentiras que foram ditas no debate do Estado da Nação",
-      "link": "https://sapo.pt/artigo/quatro-verdades-e-mentiras-que-foram-ditas-no-debate-do-estado-da-nacao-6a5951670fd7fb3f2f86b7f9",
-      "pubDate": "Thu, 16 Jul 2026 22:41:05 +0000",
-      "description": "O debate do Estado da Nação, que aconteceu esta quinta-feira, ficou marcado pela troca de argumentos, números e acusações entre Governo e oposição. Ao longo de quase cinco horas, foram feitas declarações sobre economia, saúde, habitação,...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AdTqypa6vLTuG%2FQFeR3yNv4Vz9Exs4wRYqS0MyJ%2Fg8eVpepJAF9TNz4vYctN0OverlWoRQTl1BBCEHsFTbsCQZJKz63YnKfNZ9Ea9MInNwrM0C3I8Ujc4U%2BqQRCt02tXv"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Xpeng L03: Novo SUV com tecnologia em estreia na Europa",
+      "link": "https://www.noticiasaominuto.com/auto/3022901/novo-xpeng-l03-chega-a-europa-com-tecnologia-inedita-da-marca-na-regiao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 08:23:58",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59cecf8efab.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O sonho chegou ao fim. João Pinheiro não é o árbitro da final do Mundial",
-      "link": "https://www.noticiasaominuto.com/desporto/3022878/o-sonho-chegou-ao-fim-joao-pinheiro-nao-e-o-arbitro-da-final-do-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 06:11:12",
+      "title": "Grupo agride e tenta assaltar idoso em Baltimore. Polícia pede ajuda",
+      "link": "https://www.noticiasaominuto.com/mundo/3022904/grupo-agride-e-tenta-assaltar-idoso-em-baltimore-policia-pede-ajuda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 08:20:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3d96fe1c72d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTI1LCJjcm9wSGVpZ2h0IjoxMTk2LCJjcm9wWCI6MCwiY3JvcFkiOjc5fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59cf86d3750.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Acidente em Nova Iorque com turistas espanhóis: 'Heli' colidiu com gansos",
-      "link": "https://www.noticiasaominuto.com/mundo/3022834/acidente-em-nova-iorque-com-turistas-espanhois-heli-colidiu-com-gansos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:59:17",
+      "title": "Japão promulgou lei que criminaliza a profanação da bandeira nacional",
+      "link": "https://www.noticiasaominuto.com/mundo/3022905/japao-promulgou-lei-que-criminaliza-a-profanacao-da-bandeira-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 08:18:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5960a50d1b3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_532718f09a8d1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Malvinas denunciam mensagens políticas da Argentina e pedem ação da FIFA",
-      "link": "https://www.noticiasaominuto.com/mundo/3022831/malvinas-denunciam-mensagens-politicas-da-argentina-e-pedem-acao-da-fifa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:53:50",
+      "title": "Tarifa indexada de eletricidade deixa de ser a mais barata? O que mudou?",
+      "link": "https://www.noticiasaominuto.com/economia/3022605/tarifa-indexada-de-eletricidade-deixa-de-ser-a-mais-barata-o-que-mudou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 08:14:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_655ccd942cf09.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4f31d16aef2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3022293/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:52:52",
+      "title": "Rita Patrocínio mostra o amoroso momento em que filhas conhecem irmã",
+      "link": "https://www.noticiasaominuto.com/fama/3022913/rita-patrocinio-mostra-o-amoroso-momento-em-que-filhas-conhecem-irma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 08:14:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5876781988f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjk1LCJjcm9wSGVpZ2h0Ijo3MjksImNyb3BYIjoxNDIsImNyb3BZIjoyOX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59d5b6d7a4e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjIxLCJjcm9wSGVpZ2h0Ijo2ODcsImNyb3BYIjo2LCJjcm9wWSI6MTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQwMywiY3JvcEhlaWdodCI6NzE2LCJjcm9wWCI6NDIsImNyb3BZIjoyM319"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo em Proença-a-Nova entra em fase de resolução e EN351 reabre",
-      "link": "https://www.noticiasaominuto.com/pais/3022830/fogo-em-proenca-a-nova-entra-em-fase-de-resolucao-e-en351-reabre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:52:17",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689af97dd82d2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0MTYsImNyb3BZIjowfX0="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Europa obriga Google a abrir Android e pesquia à concorrência",
+      "link": "https://pplware.sapo.pt/google/europa-obriga-google-a-abrir-android-e-pesquia-a-concorrencia/",
+      "pubDate": "Fri, 17 Jul 2026 07:00:20 +0000",
+      "description": "A Comissão Europeia desferiu mais um golpe na Google ao exigir que a empresa abra o Android e o seu motor de busca na web aos concorrentes. As autoridades da Europa afirmam que a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/google_europa_android_pesquisa.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Microsoft corrige falha no Windows com 10 anos e que expunha a ataques invisíveis",
+      "link": "https://pplware.sapo.pt/microsoft/windows/microsoft-corrige-falha-no-windows-com-10-anos-e-que-expunha-a-ataques-invisiveis/",
+      "pubDate": "Fri, 17 Jul 2026 06:00:26 +0000",
+      "description": "A Microsoft corrigiu uma vulnerabilidade que ativa no Windows. Esta existia há mais de uma década sem que ninguém se apercebesse. A atualização mais recente corrigiu a falha que afetava diretamente o Arranque Seguro&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/windows11_angryuser2_720.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Thu, 16 Jul 2026 19:30:48 +0000",
       "description": "A Polícia Judiciária (PJ) deteve uma funcionária judicial de 28 anos, suspeita de utilizar os sistemas internos da Justiça para aceder a informação confidencial e divulgá-la em servidores privados da plataforma Discord. Publicações no&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/discord.jpeg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Planet Zoo 2 destaca leões, emoções e bem-estar animal num novo trailer",
-      "link": "https://pplware.sapo.pt/jogos/planet-zoo-2-destaca-leoes-emocoes-e-bem-estar-animal-num-novo-trailer/",
-      "pubDate": "Thu, 16 Jul 2026 19:00:18 +0000",
-      "description": "A Frontier Developments revelou o primeiro episódio da série Feature Focus de Planet Zoo 2, uma iniciativa criada para apresentar em maior detalhe algumas das principais novidades do aguardado simulador de gestão zoológica. Este&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/PlanetZoo2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Atenção: PSP alerta para burla do perfil clonado",
-      "link": "https://pplware.sapo.pt/informacao/atencao-psp-alerta-para-burla-do-perfil-clonado/",
-      "pubDate": "Thu, 16 Jul 2026 18:00:45 +0000",
-      "description": "&#8220;Olá! Podes transferir-me 200 € com urgência? Perdi o telemóvel!&#8221; Já recebeu uma mensagem semelhante através do Facebook, aparentemente enviada por um amigo ou familiar? Atenção: pode tratar-se da burla do perfil clonado. PSP&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/burla_x02.jpg"
     },
     {
       "sourceId": "autosport",
