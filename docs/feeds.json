@@ -1,13 +1,33 @@
 {
-  "updated": "2026-07-17T11:18:50.226400+00:00",
+  "updated": "2026-07-17T12:41:42.799476+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 12h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2389/",
-      "pubDate": "Fri, 17 Jul 2026 12:02:10 +0100",
+      "title": "Alexandra Leitão: \"O PS não precisa de um Sebastião Bugalho\"",
+      "link": "https://observador.pt/programas/vichyssoise/alexandra-leitao-o-ps-nao-precisa-de-um-sebastiao-bugalho/",
+      "pubDate": "Fri, 17 Jul 2026 13:32:23 +0100",
+      "description": "A ex-secretária de Estado da Educação diz que, quando este processo terminar, Fernando Alexandre deve avaliar se tem condições para continuar. Alexandra Leitão, acha que não tem. E que exames são problema mais grave na Educação dos últim...",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Governo alive, um tanque suspeito e um elogio de Passos",
+      "link": "https://observador.pt/programas/vichyssoise/governo-alive-um-tanque-suspeito-e-um-elogio-de-passos/",
+      "pubDate": "Fri, 17 Jul 2026 13:30:25 +0100",
+      "description": "A pressão sobre Fernando Alexandre e Luís Neves, a confiança de Montenegro e o elogio de Passos Coelho ao ministro da Educação foram os temas à mesa da Vichyssoise em semana de Estado da Nação.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 13h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2388/",
+      "pubDate": "Fri, 17 Jul 2026 13:16:23 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,49 +35,29 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "F1 de Senna a Schumacher chega ao Caramulo",
-      "link": "https://observador.pt/2026/07/17/carros-de-ayrton-senna-e-nelson-piquet-na-mostra-de-formula-1-no-museu-do-caramulo/",
-      "pubDate": "Fri, 17 Jul 2026 11:55:07 +0100",
-      "description": "A exposição \"Fórmula Mágica\" abre este sábado e fica até outubro. Inclui o Lotus 97T com que Senna venceu pela 1.ª vez na F1, no GP de Portugal de 1985.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17081937/47473129.jpg"
+      "title": "Messi e Yamal partilham mais do que apenas uma fotografia",
+      "link": "https://observador.pt/2026/07/17/depois-de-19-anos-de-espera-messi-e-yamal-vao-partilhar-mais-do-que-apenas-uma-fotografia/",
+      "pubDate": "Fri, 17 Jul 2026 13:13:21 +0100",
+      "description": "São muitas as coincidências que têm a fotografia apenas como ponto de partida. O círculo fecha-se este domingo na final do Campeonato do Mundo, entre a Espanha de Yamal e a Argentina de Lionel Messi.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:887:499:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17121726/messi-lamine.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Gasóleo volta a subir mais de 10 cêntimos por litro",
-      "link": "https://observador.pt/2026/07/17/gasoleo-volta-a-subir-mais-de-10-centimos-por-litro-sera-o-maior-aumento-desde-marco/",
-      "pubDate": "Fri, 17 Jul 2026 11:44:08 +0100",
-      "description": "Cotações de produtos refinados até quinta-feira apontam para um aumento de mais de dez cêntimos no preço do gasóleo na próxima semana. Gasolina também vai subir, mas menos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/10181105/34558598.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pestana Tróia: \"Proposta do estacionamento público recusada\"",
-      "link": "https://observador.pt/programas/resposta-pronta/pestana-troia-proposta-do-estacionamento-publico-recusada/",
-      "pubDate": "Fri, 17 Jul 2026 11:21:51 +0100",
-      "description": "José Roquette, do grupo Pestana, explica que há 12 anos propuseram à CM Grândola a criação de um acesso pedonal à praia e um parque de estacionamento público. Hoje está criado apenas o acesso pedonal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/07/08183745/troia1_770x433_acf_cropped.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Andy Burnham é o novo líder do Partido Trabalhista britânico",
-      "link": "https://observador.pt/2026/07/17/andy-burnham-proclamado-lider-do-partido-trabalhista-britanico/",
-      "pubDate": "Fri, 17 Jul 2026 11:16:01 +0100",
-      "description": "Andy Burnham vai ser proclamado líder do Partido Trabalhista britânico, após sair da Câmara de Manchester. Keir Starmer deverá apresentar na segunda-feira a demissão formal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:44/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17082831/47333774.jpg"
+      "title": "PJ confirma inquérito ao atrelado na posse de amigo de Neves",
+      "link": "https://observador.pt/2026/07/17/pj-confirma-inquerito-sobre-atrelado-de-droga-apreendido-que-foi-encontrado-em-empresa-de-amigo-do-ministro-luis-neves/",
+      "pubDate": "Fri, 17 Jul 2026 13:04:27 +0100",
+      "description": "Judiciária instaurou inquérito e comunicou ao MP após galera apreendida em caso de tráfico surgir na Construbarcelos. PGR diz que esta a analisar \"outros factos noticiados\" no caso Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16164401/47473310.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Diário do Mundial #022",
-      "link": "https://www.rtp.pt/noticias/diario-do-mundial/diario-do-mundial-022_a1_1754058",
-      "pubDate": "Fri, 17 Jul 2026 13:02:03 +0100",
+      "title": "13h Filinto Lima queixa se de que as classificações ainda não chegaram às escolas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-filinto-lima-queixa-se-de-que-as-classificacoes-ainda-nao-chegaram-as-escolas_a1_1754093",
+      "pubDate": "Fri, 17 Jul 2026 14:32:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,101 +65,111 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Daymaro Salina e Gilberto Duarte continuam no andebol do FC Porto até 2027",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/daymaro-salina-e-gilberto-duarte-continuam-no-andebol-do-fc-porto-ate-2027_d1754055",
-      "pubDate": "Fri, 17 Jul 2026 12:57:51 +0100",
-      "description": "Os internacionais portugueses Daymaro Salina e Gilberto Duarte renovaram contrato com o FC Porto por mais uma temporada, até 2027, anunciou hoje o clube segundo classificado das últimas três edições da Liga de andebol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/81/81e6999fbffa8d9dae99fd92ac5a0ea6?w=350&amp;q=50&amp;rect=66,0,684,375&amp;auto=format"
+      "title": "Francisco Cabral na final do torneio de pares de Bastad",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/francisco-cabral-na-final-do-torneio-de-pares-de-bastad_d1754092",
+      "pubDate": "Fri, 17 Jul 2026 14:30:08 +0100",
+      "description": "A dupla luso-francesa Francisco Cabral/Théo Arribagé, primeira cabeça de série, vai disputar a final do torneio de pares de Bastad, depois da vitória sobre o neerlandês Bart Stevens e o norte-americano Vasil Kirkov.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4211de4576552aa41b20494ea545f6a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Parlamento aprova deslocação do PR a Cabo Verde para primeira visita de Estado",
-      "link": "https://www.rtp.pt/noticias/politica/parlamento-aprova-deslocacao-do-pr-a-cabo-verde-para-primeira-visita-de-estado_n1754057",
-      "pubDate": "Fri, 17 Jul 2026 12:52:50 +0100",
-      "description": "O parlamento aprovou hoje, por unanimidade, a deslocação do Presidente da República, António José Seguro, a Cabo Verde, para a sua primeira visita de Estado, a convite do seu homólogo cabo-verdiano, José Maria Neves, na próxima semana.",
+      "title": "CPLP. José Luís Carneiro pede novo impulso para a organização e alerta para \"um dos seus momentos mais críticos\"",
+      "link": "https://www.rtp.pt/noticias/pais/cplp-jose-luis-carneiro-pede-novo-impulso-para-a-organizacao-e-alerta-para-um-dos-seus-momentos-mais-criticos_n1754091",
+      "pubDate": "Fri, 17 Jul 2026 14:25:46 +0100",
+      "description": "No dia em que a Comunidade dos Países de Língua Portuguesa (CPLP) assinala 30 anos de existência, o secretário-geral do PS afirma que a organização atravessa uma fase particularmente delicada e defende que Portugal deve assumir um papel mais ativo no seu futuro.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/9912957361554c05a0ee8f505a714362?w=350&amp;q=50&amp;rect=0,50,1225,672&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Aprovado alargamento a todo o país dos transportes gratuitos para ex-combatentes",
+      "link": "https://www.rtp.pt/noticias/politica/aprovado-alargamento-a-todo-o-pais-dos-transportes-gratuitos-para-ex-combatentes_n1754063",
+      "pubDate": "Fri, 17 Jul 2026 14:21:15 +0100",
+      "description": "O parlamento aprovou hoje o alargamento a todo o território da gratuitidade dos transportes públicos para ex-combatentes, um texto final que resultou de um projeto de lei do Chega com alterações introduzidas pelo PSD.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ordem dos Médicos vai entregar à tutela análise sobre erros na tabela de atos do SNS",
-      "link": "https://www.rtp.pt/noticias/pais/ordem-dos-medicos-vai-entregar-a-tutela-analise-sobre-erros-na-tabela-de-atos-do-sns_n1754052",
-      "pubDate": "Fri, 17 Jul 2026 12:44:13 +0100",
-      "description": "A Ordem dos Médicos vai entregar ao Ministério da Saúde uma análise em que aponta erros graves na nova tabela de atos médicos do SNS, alertando que as falhas podem ter consequências para os serviços, os médicos e os doentes.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Debate Educação. Ministro diz que exames estão classificados e pautas serão afixadas hoje",
-      "link": "https://www.rtp.pt/noticias/pais/debate-educacao-ministro-diz-que-exames-estao-classificados-e-pautas-serao-afixadas-hoje_e1753993",
-      "pubDate": "Fri, 17 Jul 2026 12:31:29 +0100",
-      "description": "O ministro da Educação esteve, esta sexta-feira, no parlamento para dar explicações sobre a polémica dos exames nacionais, enquanto mais de 166 mil alunos do Ensino Secundário aguardam pela afixação dos resultados. Fernando Alexandre garantiu que todos os exames estão classificados e que as notas se",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/035e12c8ca78f1ad8086f561fe9d1fbe?w=350&amp;q=50&amp;rect=0,39,1435,787&amp;auto=format"
+      "title": "Descobrir o traje histórico, através do toque. Exposição \"Traje para Todos\" no Museu Nacional dos Coches",
+      "link": "https://www.rtp.pt/noticias/cultura/descobrir-o-traje-historico-atraves-do-toque-exposicao-traje-para-todos-no-museu-nacional-dos-coches_n1754061",
+      "pubDate": "Fri, 17 Jul 2026 14:20:55 +0100",
+      "description": "Os visitantes são convidados a tocar e explorar cinco reproduções de traje, acompanhando a evolução das suas principais características entre o final do século XVIII e o final do século XIX. A exposição tem por base o projeto de Ana Margarida Valente, que é cega e que no âmbito do seu Doutoramento e",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e39813add1012ea788dbacccdebdc4ec?w=350&amp;q=50&amp;rect=0,0,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Pedro Trigueira termina a carreira aos 38 anos",
-      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/transferencias/oficial-pedro-trigueira-termina-a-carreira-aos-38-anos",
-      "pubDate": "Fri, 17 Jul 2026 12:09:44 +0100",
-      "description": "Guarda-redes passou por Vitória de Setúbal, Moreirense e Tondela. Nas últimas três temporadas representou o AVS",
-      "thumbnail": "https://img.iol.pt/image/id/6a5a0d0ad34ef04b4f3f738d/250"
+      "title": "FC Porto com novo nome no boletim clítico antes do particular com o Birmingham City",
+      "link": "https://maisfutebol.iol.pt/fc-porto/porto/fc-porto-com-novo-nome-no-boletim-clitico-antes-do-particular-com-o-birmingham-city",
+      "pubDate": "Fri, 17 Jul 2026 13:15:00 +0100",
+      "description": "Martim Fernandes esteve em gestão de esforço no treino desta sexta-feira",
+      "thumbnail": "https://img.iol.pt/image/id/69d821b3d34e28842c82bc71/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Andebol: FC Porto renova com capitão Daymaro Salina e Gilberto Duarte",
-      "link": "https://maisfutebol.iol.pt/andebol/modalidades/andebol-fc-porto-renova-com-capitao-salina-e-com-gilberto-duarte",
-      "pubDate": "Fri, 17 Jul 2026 11:59:00 +0100",
-      "description": "Pesos pesados da equipa do Dragão prolongam vínculo por mais uma temporada",
-      "thumbnail": "https://img.iol.pt/image/id/692f3fbad34e3caad84bf2e0/250"
+      "title": "Proença: «Ser nomeado para três jogos demonstra a qualidade da arbitragem portuguesa»",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/arbitros/proenca-ser-nomeado-para-tres-jogos-demonstra-a-qualidade-da-arbitragem-portuguesa",
+      "pubDate": "Fri, 17 Jul 2026 13:12:38 +0100",
+      "description": "Presidente da Federação Portuguesa de Futebol enaltece desempenho dos árbitros na competição",
+      "thumbnail": "https://img.iol.pt/image/id/67ce16e0d34e3f0bae9b6a90/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "À espera do Benfica, Durán já não treina no Al Nassr",
-      "link": "https://maisfutebol.iol.pt/benfica/mercado-de-transferencias/a-espera-do-benfica-duran-ja-nao-treina-no-al-nassr",
-      "pubDate": "Fri, 17 Jul 2026 11:47:00 +0100",
-      "description": "Águias tentam o empréstimo do jovem ponta de lança colombiano",
-      "thumbnail": "https://img.iol.pt/image/id/67ae434cd34ef72ee4423c4d/250"
+      "title": "Negócio fechado: Hwang In-beom vai ser reforço do FC Porto",
+      "link": "https://maisfutebol.iol.pt/fc-porto/transferencias/negocio-fechado-hwang-in-beom-vai-ser-reforco-do-fc-porto",
+      "pubDate": "Fri, 17 Jul 2026 13:01:00 +0100",
+      "description": "Dragões chegaram a acordo com o Feyenoord pelo médio internacional sul-coreano",
+      "thumbnail": "https://img.iol.pt/image/id/6a574646d34ef04b4f3f6996/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Mariana Cabral é a nova treinadora adjunta do Angel City FC",
-      "link": "https://maisfutebol.iol.pt/made-in/mariana-cabral/oficial-mariana-cabral-e-a-nova-treinadora-adjunta-do-angel-city-fc",
-      "pubDate": "Fri, 17 Jul 2026 11:38:00 +0100",
-      "description": "Técnica portuguesa mantém-se na liga norte-americana de futebol feminino após passagens por Utah Royals e Chicago Stars.",
-      "thumbnail": "https://img.iol.pt/image/id/6987575bd34e92a344988cc0/250"
+      "title": "Boavista: Chega exige atenção ao futuro de atletas de 31 modalidades",
+      "link": "https://maisfutebol.iol.pt/boavista/porto/boavista-chega-exige-medidas-em-prol-do-futuro-de-atletas-de-31-modalidades",
+      "pubDate": "Fri, 17 Jul 2026 12:49:00 +0100",
+      "description": "Partido de André Ventura visa a postura da Câmara Municipal do Porto",
+      "thumbnail": "https://img.iol.pt/image/id/6828e14bd34e3f0bae9e4c55/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Liga Europeia: Benfica, Águas Santas e Marítimo conhecem os grupos",
-      "link": "https://maisfutebol.iol.pt/andebol/benfica/liga-europeia-benfica-aguas-santas-e-maritimo-conhecem-os-grupos",
-      "pubDate": "Fri, 17 Jul 2026 11:33:00 +0100",
-      "description": "Águas Santas defronta Flensburg, bicampeão em 2025",
-      "thumbnail": "https://img.iol.pt/image/id/6913b6d4d34e3caad84b2e70/250"
+      "title": "Ténis: Francisco Cabral está na final do torneio de pares de Bastad",
+      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-francisco-cabral-esta-na-final-do-torneio-de-pares-de-bastad",
+      "pubDate": "Fri, 17 Jul 2026 12:42:52 +0100",
+      "description": "Tenista português procura alcançar sétimo título ATP de pares",
+      "thumbnail": "https://img.iol.pt/image/id/6867ab02d34ef72ee447ef53/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ministro diz que todos os exames estão classificados e pautas serão afixadas até ao final do dia de hoje",
-      "link": "https://sapo.pt/artigo/ministro-diz-que-todos-os-exames-estao-classificados-e-pautas-serao-afixadas-ate-ao-final-do-dia-de-hoje-6a59f88bbbff543e354d3fab",
-      "pubDate": "Fri, 17 Jul 2026 09:42:41 +0000",
-      "description": "“O Júri Nacional de Exames tem todas as classificações prontas para distribuir às escolas”, diz Fernando Alexandre, que não antecipa “razão nenhuma para que hoje não sejam publicadas todas as notas”.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AVvXWLutkDoMQFhpu%2Fw7Ur%2Fj44frc3ib8Qql788yAEyuKtc9Y4XPnIp4gEJAdMUCVI4s0CqvH5kFIy48qAtYvQdga7WGLsYfQ7I9LnPum7bEBbFh6gZPU9qNnJIs8JhgA"
+      "title": "Fernando Alexandre: “Temos condições para garantir que a segunda fase dos exames nacionais vai correr sem os problemas da primeira fase”",
+      "link": "https://jornaleconomico.sapo.pt/noticias/fernando-alexandre-temos-condicoes-para-garantir-que-a-segunda-fase-dos-exames-nacionais-vai-correr-sem-os-problemas-da-primeira-fase/",
+      "pubDate": "Fri, 17 Jul 2026 11:49:38 +0000",
+      "description": "O ministro da Educação admitiu erros durante os exames nacionais, com impacto nos alunos e famílias, mas que esses erros \"não vão\" prejudicar o acesso dos alunos ao ensino superior, e que “não há razão” para mudar o calendário de acesso ao ensino...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A7VxJOfX7UH79VurVjOTbXgmUiCz49f2ciaTgP2EzQ6Ev2w1N5TXB26BKCedFzoXLGwFBPegsYmDNZPoLTd3X%2Bg6by%2BbL1FTOfV1uN70lZJggeJ%2BkN7ZNsWbJEg7%2FvDuQ"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Lei permite à PJ não divulgar 12 contratos de 2,3 milhões de euros com a Construbarcelos",
+      "link": "https://executivedigest.sapo.pt/lei-permite-a-pj-nao-divulgar-12-contratos-de-23-milhoes-de-euros-com-a-construbarcelos/",
+      "pubDate": "Fri, 17 Jul 2026 11:49:38 +0000",
+      "description": "A Polícia Judiciária (PJ) não divulgou no portal Basegov 12 contratos celebrados com a empresa Construbarcelos entre 2019 e 2025, num valor global de cerca de 2,3 milhões de euros, recorrendo a um mecanismo previsto no Código dos Contratos...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ACNM%2FwQH4SkbNeUwobaK7SHj5vuPwVZh6ZZ86OpxKu6lh360GeuDWfK%2Fg4R3Bz2wQXyHdIerbSbONblvc7Osar2Cr%2Bn%2ByAnHc70aj6ZhuDdDwGsOP8cO5kDoHNh%2BWygR5"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +185,91 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão: EUA intensificam ofensiva aérea com ataques a pontes e porto estratégico",
-      "link": "https://jornaleconomico.sapo.pt/noticias/irao-eua-intensificam-ofensiva-aerea-com-ataques-a-pontes-e-porto-estrategico/",
-      "pubDate": "Fri, 17 Jul 2026 09:42:41 +0000",
-      "description": "As pontes rodoviárias e ferroviárias visadas parecem ter como objetivo cortar o acesso a Bandar Abbas, principal porto iraniano, dificultando o transporte de material militar e bens essenciais para os cerca de 90 milhões de habitantes do país,...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AlSim4Pisvn0L1OuH44J%2BVI5bq6PiFpX1aC94oT6Im3puupuwdataOm0mMge9ySAbA8Jav%2BtgagkEZaxRzYm%2B%2BQXUJElD1IWGdTT4aoYuXIZGuT6ddRta2WkqrpwMERsX"
+      "title": "Aterro que serve concelhos de Cascais, Sintra, Oeiras e Mafra “próximo do esgotamento”",
+      "link": "https://sapo.pt/artigo/aterro-que-serve-concelhos-de-cascais-sintra-oeiras-e-mafra-proximo-do-esgotamento-6a59fd46c3fc30cdb07a67ef",
+      "pubDate": "Fri, 17 Jul 2026 11:49:38 +0000",
+      "description": "Empresa que trata os resíduos sólidos dos quatro municípios alerta que o “sistema está à beira do colapso” e é urgente construir um novo local.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=608&W=1080&crop=center&delay_optim=1&epic=V2%3Ahk589Gd54FJx%2Fri301gcRS0Jj3RqGv%2FSnOmyLp7qZrVqrbBZ6FReliqAqHYn%2BpV4EpuTSMXC4DGAKNl3rgJg7brZ%2F1RB72NTwtePvNR6A1eqIdJPtdHrGSbVhuTodmK1"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "O discurso de Trump à Nação: \"China levou a cabo a maior violação de dados eleitorais da história\"",
-      "link": "https://sapo.pt/artigo/o-discurso-de-trump-a-nacao-china-levou-a-cabo-a-maior-violacao-de-dados-eleitorais-da-historia-6a5991566b5c2e83daca7a73",
-      "pubDate": "Fri, 17 Jul 2026 06:49:10 +0000",
-      "description": "Donald Trump falou esta noite (madrugada em Portugal) à Nação, a partir da Casa Branca. O tema foi “a vulnerabilidade“ do sistema eleitoral dos EUA e o alvo a ”influência da China” que, denunciou o Presidente norte-americano, teve acesso a...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AT9MIl74MvCGstIlZQEj104vLv12OX2DjYetZOBVr2Klg%2BRmYqjjgq5ESoVj1HHjXVQdoyeduM%2FtTs%2FR4y75ElLMxMxgBUx6jN5FK8ac0%2BDHip3CqsLfg5y7BP%2BDC0Wck"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Dezassete concelhos de cinco distritos em perigo máximo de incêndio",
-      "link": "https://eco.sapo.pt/2026/07/17/dezassete-concelhos-de-cinco-distritos-em-perigo-maximo-de-incendio/",
-      "pubDate": "Fri, 17 Jul 2026 09:42:41 +0000",
-      "description": "Dezassete concelhos dos distritos de Bragança, Castelo Branco, Santarém, Portalegre e Faro estão em risco máximo de incêndio rural, segundo o Instituto Português do Mar e da Atmosfera (IPMA).",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AlrdZjESYGoU%2F2hOpDPoCaaJWHYrgFOhmsx%2BKrJkjOFWNRvhCPm1bgPuAfqCEXwMl326dPS644StJ7eczsPa5kQ0R%2Fo1z6k5Fh9PX3lXKEuw%2BYd%2B1NO1U5voZ1ABnFuwR"
+      "title": "Polícia italiana faz buscas à Chanel, Bulgari e outras marcas de luxo por suspeitas de exploração laboral",
+      "link": "https://executivedigest.sapo.pt/policia-italiana-faz-buscas-a-chanel-bulgari-e-outras-marcas-de-luxo-por-suspeitas-de-exploracao-laboral/",
+      "pubDate": "Fri, 17 Jul 2026 12:14:21 +0000",
+      "description": "Operação, coordenada pelo Ministério Público de Milão, abrangeu ainda marcas como Brunello Cucinelli, Etro, Moncler, Goyard Italie, Jacob Cohen Company e Stefano Ricci",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A0VKwhaS3gw%2FGoZxj%2BbTBwprke1vR4j%2BJ8RzdvDh3Wvs%2FKRId2akeTBzCsAwIEfUmNTenSixXLHgyog8jLow%2BogmnwlpW0CuhK0pBnkeu0QIAFGSqq%2FDrX53cahU%2B6yK2"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exames? PS, Chega e PCP dizem que relatos desmentem garantias do ministro",
-      "link": "https://www.noticiasaominuto.com/politica/3023058/exames-ps-chega-e-pcp-dizem-que-relatos-desmentem-garantias-do-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 12:12:32",
+      "title": "Despedido operador de teleponto de Trump que apostava nos discursos",
+      "link": "https://www.noticiasaominuto.com/mundo/3023132/despedido-operador-de-teleponto-de-trump-que-apostava-nos-discursos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 13:39:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47476953.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5a2284b611b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PJ de Setúbal detém homem suspeito de abuso sexual de menor de 12 anos",
-      "link": "https://www.noticiasaominuto.com/pais/3023046/pj-de-setubal-detem-homem-suspeito-de-abuso-sexual-de-menor-de-12-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 12:10:09",
+      "title": "Ronaldo e Messi em versões (de luxo) de telemóveis da Apple e Samsung",
+      "link": "https://www.noticiasaominuto.com/tech/3023133/ronaldo-e-messi-em-versoes-de-luxo-de-telemoveis-da-apple-e-samsung#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 13:36:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6881f2cecb6ae.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5a2163a904f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTA3LCJjcm9wSGVpZ2h0IjoxMTg1LCJjcm9wWCI6NywiY3JvcFkiOjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY2NCwiY3JvcEhlaWdodCI6MTE4MSwiY3JvcFgiOjI0MSwiY3JvcFkiOjEwfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Renda mediana na habitação cresce 9,7% em 2025 para 9,29 euros/m2",
-      "link": "https://www.noticiasaominuto.com/economia/3023048/renda-mediana-na-habitacao-cresce-9-7-em-2025-para-9-29-eurosm2#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 12:08:53",
+      "title": "Está a conduzir na posição certa? Saiba como se sentar",
+      "link": "https://www.noticiasaominuto.com/auto/3023130/esta-a-conduzir-na-posicao-certa-saiba-como-se-sentar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 13:32:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57c40ba818493.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5a1fbbb2cd2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Kuwait atribui ao Irão ataque contra central de dessalinização de água",
-      "link": "https://www.noticiasaominuto.com/mundo/3023005/kuwait-atribui-ao-irao-ataque-contra-central-de-dessalinizacao-de-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 12:08:17",
+      "title": "Contrariedade para Farioli na véspera do Birmingham City-FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3023116/contrariedade-para-farioli-na-vespera-do-birmingham-city-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 13:25:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5698dd4c6c48c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69dccc01e26a9.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Número de visitantes em Macau sobe 9% para 20,9 milhões no 1.º semestre",
-      "link": "https://www.noticiasaominuto.com/economia/3022999/numero-de-visitantes-em-macau-sobe-9-para-20-9-milhoes-no-1-semestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 12:03:29",
+      "title": "Rita Matias arguida em caso de difamação agravada e incitação ao ódio",
+      "link": "https://www.noticiasaominuto.com/politica/3023125/rita-matias-arguida-em-caso-de-difamacao-agravada-e-incitacao-ao-odio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 13:24:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/40176701.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46987676.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Sabe o que é uma WAF (Web Application Firewall)?",
+      "link": "https://pplware.sapo.pt/internet/sabe-o-que-e-uma-waf-web-application-firewall/",
+      "pubDate": "Fri, 17 Jul 2026 12:00:01 +0000",
+      "description": "A maioria dos utilizadores conhece o conceito de firewall, mas poucos sabem que existe uma solução especificamente concebida para proteger websites e aplicações Web. Chama-se WAF (Web Application Firewall). Uma Web Application Firewall (WAF)&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/waf_01.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Office 2024 por 15,5 € e os truques que poucos conhecem",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-dicas-atalhos-chave-digital/",
+      "pubDate": "Fri, 17 Jul 2026 11:30:36 +0000",
+      "description": "Comprar software da Microsoft a preço de café tornou-se rotina para muitos leitores, e a GoodOffer24 volta a descer a fasquia: já é possível comprar a chave digital do Office 2024 por apenas 15,5&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/17th.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/exportacao_bev_china02.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Atenção ao prazo das matrículas: não deixe passar a data",
-      "link": "https://pplware.sapo.pt/internet/atencao-ao-prazo-das-matriculas-nao-deixe-passar-a-data/",
-      "pubDate": "Fri, 17 Jul 2026 09:22:22 +0000",
-      "description": "Se vai frequentar o 10.º, 11.º ou 12.º ano no próximo ano letivo, esteja atento ao calendário. As matrículas e inscrições decorrem exclusivamente dentro dos períodos estabelecidos para cada fase do concurso nacional de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/matriculas_00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC, Rali da Estónia/PEC1: Sami Pajari (Toyota) é o primeiro líder",
+      "link": "https://www.autosport.pt/ralis/wrc-rali-da-estonia-pec1-sami-pajari-toyota-e-o-primeiro-lider/",
+      "pubDate": "Fri, 17 Jul 2026 10:59:10 +0000",
+      "description": "Sami Pajari (Toyota) assumiu a liderança do Delfi Rally Estonia ao vencer a primeira especial do dia, superando Sébastien Ogier por 3,8 segundos. O arranque da prova ficou marcado por um contratempo para Mārtiṇš Sesks, penalizado em 20 segundos por sair da assistência com atraso, na sequência das re",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Tesla lançou uma bicicleta nova, mas não está ao alcance de todos",
-      "link": "https://pplware.sapo.pt/motores/tesla-lancou-uma-bicicleta-nova-mas-nao-esta-ao-alcance-de-todos/",
-      "pubDate": "Fri, 17 Jul 2026 09:00:53 +0000",
-      "description": "A Tesla não vende apenas carros elétricos, tendo uma loja online recheada de acessórios e artigos de lifestyle. O mais recente produto a chamar a atenção é uma bicicleta. Com um design futurista e&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tesla-bicicleta-kids05.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Kimi Antonelli, de rookie a líder do campeonato: a busca incessante pela perfeição técnica",
+      "link": "https://www.autosport.pt/formula1/kimi-antonelli-de-rookie-a-lider-do-campeonato-a-busca-incessante-pela-perfeicao-tecnica/",
+      "pubDate": "Fri, 17 Jul 2026 10:52:41 +0000",
+      "description": "Aos 19 anos, Kimi Antonelli habita o centro de um turbilhão mediático que poucos pilotos da sua idade alguma vez conheceram. Entre o glamour de Wimbledon — onde trocou conselhos com a lenda Roger Federer — e o rigor técnico das pistas, o líder do campeonato de Fórmula 1 navega pela ascensão meteóric",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -315,40 +335,20 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "Fórmula 2: Nikola Tsolov lidera treinos livres Em Spa-Francorchamps",
+      "link": "https://www.autosport.pt/sem-categoria/formula-2-nikola-tsolov-lidera-treinos-livres-em-spa-francorchamps/",
+      "pubDate": "Fri, 17 Jul 2026 10:19:00 +0000",
+      "description": "O piloto da Campos Racing, Nikola Tsolov, assumiu a liderança da tabela de tempos na sessão de treinos livres desta manhã, em Spa-Francorchamps. Ao registar uma volta em 1:58.927, o líder do campeonato reafirmou a sua forma competitiva no traçado belga, superando a concorrência direta na abertura da",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "Esteban Ocon: uma década de evolução na Fórmula 1: “Não sinto que estou aqui há 10 anos”",
       "link": "https://www.autosport.pt/formula1/esteban-ocon-uma-decada-de-evolucao-na-formula-1-nao-sinto-que-estou-aqui-ha-10-anos/",
       "pubDate": "Fri, 17 Jul 2026 09:57:39 +0000",
       "description": "Dez anos passaram desde que Esteban Ocon, um jovem estreante ao volante de um Manor, se alinhou na grelha de Spa-Francorchamps para o seu batismo na Fórmula 1. O que parecia uma montanha íngreme — enfrentar os ídolos que até então apenas observava no ecrã — tornou-se a fundação de uma carreira resil",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1, Alex Albon e a longa caminhada da Williams: “estamos numa fase de reconstrução, temos muito a fazer”",
-      "link": "https://www.autosport.pt/formula1/f1-alex-albon-e-a-longa-caminhada-da-williams-estamos-numa-fase-de-reconstrucao-temos-muito-a-fazer/",
-      "pubDate": "Fri, 17 Jul 2026 09:19:22 +0000",
-      "description": "No paddock da Fórmula 1, onde a inovação é medida em milissegundos, a Williams atravessa um período de introspeção necessária. Para Alex Albon, o desafio atual não se resume apenas a encontrar ritmo em pista, mas a gerir a frustração de uma fase de reconstrução que exige paciência. Longe do brilho i",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC, Rali da Estónia: Evans e Pajari lideram o shakedown",
-      "link": "https://www.autosport.pt/ralis/wrc-rali-da-estonia-evans-e-pajari-lideram-o-shakedown/",
-      "pubDate": "Fri, 17 Jul 2026 09:08:39 +0000",
-      "description": "Elfyn Evans e Sami Pajari destacaram-se como os primeiros candidatos à vitória no Delfi Rally Estonia ao partilharem o tempo mais rápido no shakedown de Kastre, com 4,08 km, esta manhã. Ao volante dos Toyota GR Yaris Rally1, ambos registaram 1m 55,6s na sua terceira passagem, deixando claro o ritmo ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Max Verstappen, tudo o que disse na conferência de imprensa: “Não.” “Nada.” “Não há nada a dizer da minha parte.” “Já disse que não há nada a dizer.”",
-      "link": "https://www.autosport.pt/formula1/max-verstappen-tudo-o-que-disse-na-conferencia-de-imprensa-nao-nada-nao-ha-nada-a-dizer-da-minha-parte-ja-disse-que-nao-ha-nada-a-di/",
-      "pubDate": "Fri, 17 Jul 2026 08:53:47 +0000",
-      "description": "Max Verstappen atravessa um período de introspeção competitiva num momento em que a Red Bull Racing enfrenta desafios técnicos que testam a resiliência da equipa. Em Spa, um circuito onde a mestria do neerlandês é frequentemente celebrada, o clima é de cautela pragmática. Longe dos holofotes das pis",
       "thumbnail": ""
     }
   ]
