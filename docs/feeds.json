@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-16T23:55:24.402591+00:00",
+  "updated": "2026-07-17T02:23:27.416365+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2352/",
+      "pubDate": "Fri, 17 Jul 2026 02:14:42 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Se eleições fossem hoje PS e AD ficariam empatados",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2326/",
+      "pubDate": "Fri, 17 Jul 2026 01:14:28 +0100",
+      "description": "Resultados da sondagem da Universidade Católica. PS e AD teriam 19% das intenções de voto, Chega teria 21%. Ainda, atrelado de droga que desapareceu da PJ encontrado na empresa de amigo de Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,42 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/12104853/23801956.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Coimbra. Tribunal de Contas arquiva processo sobre ULS",
-      "link": "https://observador.pt/2026/07/17/tribunal-de-contas-arquiva-processo-da-uls-de-coimbra-e-nao-avanca-contra-ex-administracao/",
-      "pubDate": "Fri, 17 Jul 2026 00:30:25 +0100",
-      "description": "Antigo presidente Alexandre Lourenço fala em \"campanha difamatória\" após decisão de 9 de julho que encerra processo aberto na sequência de reportagens da TVI em 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/29101545/39926185.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "30 Anos de CPLP. Associação pede mais proximidade a cidadãos",
-      "link": "https://observador.pt/2026/07/17/30-anos-da-cplp-associacao-pede-comunidade-de-cidadaos-e-lista-dez-prioridades-para-aproximar-lusofonia-das-novas-geracoes/",
-      "pubDate": "Fri, 17 Jul 2026 00:28:37 +0100",
-      "description": "A Conexão Lusófona diz que o futuro da CPLP passa por mobilizar os povos. O manifesto pede também que os jovens sejam reconhecidos na comunidade e a criação de um mercado lusófono de emprego.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/27171737/46106460.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Número de mortos ultrapassa 4.900",
-      "link": "https://www.rtp.pt/noticias/mundo/numero-de-mortos-ultrapassa-4900_n1753941",
-      "pubDate": "Fri, 17 Jul 2026 01:07:08 +0100",
-      "description": "O número de mortos provocados pelo duplo sismo que atingiu a Venezuela em 24 de junho ultrapassou 4.900, divulgou hoje o presidente da Assembleia Nacional, Jorge Rodríguez.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Vigília em frente à AR: alunos e professores em contra a digitalização dos exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-vigilia-em-frente-a-ar-alunos-e-professores-em-contra-a-digitalizacao-dos-exames_a1_1753942",
-      "pubDate": "Fri, 17 Jul 2026 00:48:02 +0100",
+      "title": "2h Exames. Ministro confiante na afixação das pautas logo à tarde",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-exames-ministro-confiante-na-afixacao-das-pautas-logo-a-tarde_a1_1753956",
+      "pubDate": "Fri, 17 Jul 2026 03:42:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,30 +65,40 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Pontes e aeroporto perto do estreito de Ormuz atacados pelos EUA",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pontes-e-aeroporto-perto-do-estreito-de-ormuz-atacados-pelos-eua_n1753940",
-      "pubDate": "Fri, 17 Jul 2026 00:23:22 +0100",
-      "description": "Ataques aéreos norte-americanos atingiram hoje à noite um aeroporto e duas pontes no sul do Irão, perto do estreito de Ormuz, segundo media estatais iranianos.",
+      "title": "1h Ministro Fernando Alexandre garante vão afixar as notas esta tarde",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-ministro-fernando-alexandre-garante-vao-afixar-as-notas-esta-tarde_a1_1753954",
+      "pubDate": "Fri, 17 Jul 2026 03:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Movimento Missão Escola Pública acredita que vão afixar as pautas esta sexta-feira",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-movimento-missao-escola-publica-acredita-que-vao-afixar-as-pautas-esta-sexta-feira_a1_1753953",
+      "pubDate": "Fri, 17 Jul 2026 02:59:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "EUA designam dois novos cartéis mexicanos como organizações terroristas",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-designam-dois-novos-carteis-mexicanos-como-organizacoes-terroristas_n1753950",
+      "pubDate": "Fri, 17 Jul 2026 02:02:36 +0100",
+      "description": "Os Estados Unidos classificaram o cartel de Juárez e o cartel de Los Viagras, ambos no México, como organizações terroristas estrangeiras, segundo publicação do diário oficial do governo federal.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Comité para Proteção de Jornalistas condena restrições de Trump a correspondentes",
-      "link": "https://www.rtp.pt/noticias/mundo/comite-para-protecao-de-jornalistas-condena-restricoes-de-trump-a-correspondentes_n1753932",
-      "pubDate": "Fri, 17 Jul 2026 00:20:40 +0100",
-      "description": "O Comité para a Proteção dos Jornalistas condenou hoje a decisão do Governo norte-americano de impor novas restrições de visto a correspondentes internacionais, com as quais procura limitar a permanência de profissionais estrangeiros nos EUA a 240 dias.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pentágono investe 8,7 mil ME em novos projetos militares",
-      "link": "https://www.rtp.pt/noticias/mundo/pentagono-investe-87-mil-me-em-novos-projetos-militares_n1753936",
-      "pubDate": "Fri, 17 Jul 2026 00:19:15 +0100",
-      "description": "O Departamento de Guerra norte-americano (Pentágono) confirmou hoje um investimento de 10 mil milhões de dólares (8,7 mil milhões de euros) em novos projetos militares, após o governo de Donald Trump ter assumido o compromisso.",
+      "title": "Lucro da Netflix aumenta 8,8% no segundo trimestre",
+      "link": "https://www.rtp.pt/noticias/cultura/lucro-da-netflix-aumenta-88-no-segundo-trimestre_n1753945",
+      "pubDate": "Fri, 17 Jul 2026 02:01:30 +0100",
+      "description": "A plataforma audiovisual Netflix anunciou um lucro de 3,4 mil milhões de dólares (cerca de três mil milhões de euros) no segundo trimestre, mais 8,8% face ao período homólogo de 2025.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
