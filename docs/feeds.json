@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-17T02:23:27.416365+00:00",
+  "updated": "2026-07-17T05:25:51.316248+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2352/",
-      "pubDate": "Fri, 17 Jul 2026 02:14:42 +0100",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2436/",
+      "pubDate": "Fri, 17 Jul 2026 06:14:48 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,49 +15,59 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Se eleições fossem hoje PS e AD ficariam empatados",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2326/",
-      "pubDate": "Fri, 17 Jul 2026 01:14:28 +0100",
-      "description": "Resultados da sondagem da Universidade Católica. PS e AD teriam 19% das intenções de voto, Chega teria 21%. Ainda, atrelado de droga que desapareceu da PJ encontrado na empresa de amigo de Luís Neves.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "As receitas escondidas na Bíblia",
+      "link": "https://observador.pt/programas/adivinha-quem-vem-jantar/as-receitas-escondidas-na-biblia/",
+      "pubDate": "Fri, 17 Jul 2026 06:07:18 +0100",
+      "description": "Jesus também cozinhava. O chef Luís Lavrador e o Padre Luís Lencastre explicam o significado da comida na Bíblia e revelam receitas que ainda hoje podem ser recriadas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05173721/770-podcast-adivinha-quem-vem-jantar.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "MAI. Histórico de imagens de satélite nunca mostra tanque",
-      "link": "https://observador.pt/2026/07/17/historico-de-imagens-de-satelite-da-propriedade-de-luis-neves-mostram-que-nunca-houve-um-tanque-visivel-no-terreno/",
-      "pubDate": "Fri, 17 Jul 2026 00:39:48 +0100",
-      "description": "Imagens pré-2024 analisadas pelo Expresso não mostram qualquer estrutura visível no local onde agora está um piscina. Propriedade está num território protegido como Reserva Agrícola e Ecológica.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04104159/47039451.jpg"
+      "title": "Estado da Nação e ministros sob pressão",
+      "link": "https://observador.pt/programas/gera-o-v/estado-da-nacao-e-ministros-sob-pressao/",
+      "pubDate": "Fri, 17 Jul 2026 06:04:17 +0100",
+      "description": "Que retrato deixa o debate do Estado da Nação? Analisamos os principais temas discutidos no Parlamento e as polémicas que marcam os ministros da Educação e da Administração Interna.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/16183157/770-podcast-geracao-v-2025.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Boavista ainda procura viabilizar plano de recuperação",
-      "link": "https://observador.pt/2026/07/17/boavista-quer-viabilizar-plano-de-recuperacao-para-travar-encerramento-ordenado-pela-administradora-de-insolvencia/",
-      "pubDate": "Fri, 17 Jul 2026 00:31:36 +0100",
-      "description": "O clube portuense tem até 31 de julho para entregar as chaves do Bessa. Presidente rejeita falar em refundação do histórico clube, fundado em 1903.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/24211937/boavista-futebol-clube-bandeira-1.jpg"
+      "title": "A Coleção Arqueológica Dr. José Coelho",
+      "link": "https://observador.pt/programas/a-historia-das-historias/a-colecao-arqueologica-dr-jose-coelho/",
+      "pubDate": "Fri, 17 Jul 2026 06:02:46 +0100",
+      "description": "O espólio que se mostra no Pólo Arqueológico de Viseu António Almeida Henriques, reunido por José Coelho, professor, investigador e coleccionador que foi castigado pelo Estado Novo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Porto de Mós contra programa de zonas renováveis",
-      "link": "https://observador.pt/2026/07/17/porto-de-mos-emite-parecer-desfavoravel-ao-programa-de-zonas-de-aceleracao-de-energias-renovaveis-por-insuficiencias-tecnicas/",
-      "pubDate": "Fri, 17 Jul 2026 00:30:47 +0100",
-      "description": "O município acompanha a posição da CIM da Região de Leiria e critica a falta de articulação com os planos territoriais e a ausência de avaliação dos impactes cumulativos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/12104853/23801956.jpg"
+      "title": "Sopa no fim ajuda a digestão? – A sua pergunta",
+      "link": "https://observador.pt/programas/aprender-a-comer/sopa-no-fim-ajuda-a-digestao-a-sua-pergunta/",
+      "pubDate": "Fri, 17 Jul 2026 06:02:25 +0100",
+      "description": "Sopa no início ou no fim? A resposta depende do objetivo: saciedade, glicemia ou proteína. A Nutricionista Mariana Chaves esclarece.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/12171526/770-podcast-aprender-a-comerainda-bem.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Exames. Ministro confiante na afixação das pautas logo à tarde",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-exames-ministro-confiante-na-afixacao-das-pautas-logo-a-tarde_a1_1753956",
-      "pubDate": "Fri, 17 Jul 2026 03:42:02 +0100",
+      "title": "Termina hoje campanha eleitoral das presidenciais em São Tomé e Príncipe",
+      "link": "https://www.rtp.pt/noticias/mundo/termina-hoje-campanha-eleitoral-das-presidenciais-em-sao-tome-e-principe_n1753969",
+      "pubDate": "Fri, 17 Jul 2026 07:05:04 +0100",
+      "description": "São Tomé e Príncipe vive hoje o último dia de campanha eleitoral para as presidenciais marcadas para domingo, com o sábado reservado como dia de reflexão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d50c81126e2e6b98d6457a55a034fe0?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Montenegro mantém confiança política no ministro Luís Neves",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-montenegro-mantem-confianca-politica-no-ministro-luis-neves_a1_1753970",
+      "pubDate": "Fri, 17 Jul 2026 06:59:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,9 +75,19 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Ministro Fernando Alexandre garante vão afixar as notas esta tarde",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-ministro-fernando-alexandre-garante-vao-afixar-as-notas-esta-tarde_a1_1753954",
-      "pubDate": "Fri, 17 Jul 2026 03:17:02 +0100",
+      "title": "Guterres alerta contra controlo da IA por \"um punhado de países ou empresas\"",
+      "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-contra-controlo-da-ia-por-um-punhado-de-paises-ou-empresas_n1753967",
+      "pubDate": "Fri, 17 Jul 2026 06:46:28 +0100",
+      "description": "O secretário-geral da ONU, António Guterres, apelou hoje para que não se permita a &quot;um punhado de países ou empresas&quot; controlar o futuro da inteligência artificial (IA), sublinhando que deve ser a humanidade a &quot;moldar&quot; essa tecnologia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e1bd205416f33269eaf3f7bee91165e?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Missão Escola Pública acredita na afixação das pautas dos exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-missao-escola-publica-acredita-na-afixacao-das-pautas-dos-exames_a1_1753968",
+      "pubDate": "Fri, 17 Jul 2026 06:45:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +95,11 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "0h Movimento Missão Escola Pública acredita que vão afixar as pautas esta sexta-feira",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-movimento-missao-escola-publica-acredita-que-vao-afixar-as-pautas-esta-sexta-feira_a1_1753953",
-      "pubDate": "Fri, 17 Jul 2026 02:59:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "EUA designam dois novos cartéis mexicanos como organizações terroristas",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-designam-dois-novos-carteis-mexicanos-como-organizacoes-terroristas_n1753950",
-      "pubDate": "Fri, 17 Jul 2026 02:02:36 +0100",
-      "description": "Os Estados Unidos classificaram o cartel de Juárez e o cartel de Los Viagras, ambos no México, como organizações terroristas estrangeiras, segundo publicação do diário oficial do governo federal.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Lucro da Netflix aumenta 8,8% no segundo trimestre",
-      "link": "https://www.rtp.pt/noticias/cultura/lucro-da-netflix-aumenta-88-no-segundo-trimestre_n1753945",
-      "pubDate": "Fri, 17 Jul 2026 02:01:30 +0100",
-      "description": "A plataforma audiovisual Netflix anunciou um lucro de 3,4 mil milhões de dólares (cerca de três mil milhões de euros) no segundo trimestre, mais 8,8% face ao período homólogo de 2025.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Xi Jinping pede governação global da IA e rejeita domínio de um só país",
+      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-pede-governacao-global-da-ia-e-rejeita-dominio-de-um-so-pais_n1753966",
+      "pubDate": "Fri, 17 Jul 2026 06:37:07 +0100",
+      "description": "O Presidente chinês, Xi Jinping, defendeu hoje que a inteligência artificial não deve ser dominada por um único país e apelou ao reforço da cooperação internacional na governação desta tecnologia, na abertura da Conferência Mundial de Inteligência Artificial.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f94898365c5714615c24e8badf24fa9f?w=350&amp;q=50&amp;rect=0,11,960,526&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,6 +205,26 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "O sonho chegou ao fim. João Pinheiro não é o árbitro da final do Mundial",
+      "link": "https://www.noticiasaominuto.com/desporto/3022878/o-sonho-chegou-ao-fim-joao-pinheiro-nao-e-o-arbitro-da-final-do-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-17 06:11:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3d96fe1c72d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTI1LCJjcm9wSGVpZ2h0IjoxMTk2LCJjcm9wWCI6MCwiY3JvcFkiOjc5fX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Acidente em Nova Iorque com turistas espanhóis: 'Heli' colidiu com gansos",
+      "link": "https://www.noticiasaominuto.com/mundo/3022834/acidente-em-nova-iorque-com-turistas-espanhois-heli-colidiu-com-gansos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-16 23:59:17",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5960a50d1b3.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Malvinas denunciam mensagens políticas da Argentina e pedem ação da FIFA",
       "link": "https://www.noticiasaominuto.com/mundo/3022831/malvinas-denunciam-mensagens-politicas-da-argentina-e-pedem-acao-da-fifa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-07-16 23:53:50",
@@ -230,26 +250,6 @@
       "pubDate": "2026-07-16 23:52:17",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689af97dd82d2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0MTYsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Número de mortos nos sismos na Venezuela ultrapassa 4.900",
-      "link": "https://www.noticiasaominuto.com/mundo/3022832/numero-de-mortos-nos-sismos-na-venezuela-ultrapassa-4900#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:51:46",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59603a53344.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Figueira da Foz recebe concertos de Sting e Lewis Capaldi: Eis o guia",
-      "link": "https://www.noticiasaominuto.com/cultura/3022833/figueira-da-foz-recebe-concertos-de-sting-e-lewis-capaldi-eis-o-guia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-16 23:51:41",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a595fac353e4.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOCwiY3JvcEhlaWdodCI6MTA4MCwiY3JvcFgiOjI3OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
