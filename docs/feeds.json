@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-18T16:53:25.649302+00:00",
+  "updated": "2026-07-18T17:53:47.064803+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ventura envia carta a Montenegro a pedir demissão de Neves",
+      "link": "https://observador.pt/2026/07/18/ventura-envia-carta-a-montenegro-a-pedir-demissao-de-neves-em-que-puxa-de-reuniao-com-seguro-e-lembra-exemplo-de-miguel-macedo/",
+      "pubDate": "Sat, 18 Jul 2026 18:21:18 +0100",
+      "description": "Líder do Chega diz que se Luís Neves não sair isso arrastará o Governo para uma \"cumplicidade criminosa\". Lembra que Miguel Macedo demitiu-se para defender cargo mesmo tendo sido depois absolvido.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03192731/47401406.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "18h. Irão suspende compromissos estabelecidos com os E.U.A",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2098/",
+      "pubDate": "Sat, 18 Jul 2026 18:13:57 +0100",
+      "description": "Informação anunciada pelo vice-ministro dos Negócios Estrangeiros do Irão que diz que os Estados Unidos violaram os compromissos do memorando. Ainda, Francisco Trincão abandona o Sporting.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Químicos para fazer drogas na empresa de amigo de Luís Neves",
-      "link": "https://observador.pt/2026/07/18/quimicos-para-produzir-droga-da-operacao-pacoba-estavam-dentro-da-empresa-do-amigo-de-luis-neves/",
-      "pubDate": "Sat, 18 Jul 2026 17:05:09 +0100",
-      "description": "PJ investiga como atrelado e precursores químicos apreendidos em 2024 foram parar à Construbarcelos, empresa com 2,3 milhões em contratos com a Judiciária.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/26205754/47180750.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Provedora de Justiça pede ao ministério ponto de situação sobre as notas",
+      "link": "https://www.rtp.pt/noticias/pais/provedora-de-justica-pede-ao-ministerio-ponto-de-situacao-sobre-as-notas_n1754363",
+      "pubDate": "Sat, 18 Jul 2026 19:38:19 +0100",
+      "description": "A Provedoria de Justiça pediu ao Ministério da Educação um &quot;ponto de situação&quot; sobre a publicação das notas dos exames nacionais e as &quot;medidas pensadas&quot; para a segunda fase, que arranca na segunda-feira, foi hoje anunciado.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Uma viagem por Filadélfia nos 250 anos do 4th of July",
-      "link": "https://observador.pt/especiais/cristiano-ronaldo-amish-e-um-exemplo-do-mundo-do-chocolate-uma-viagem-por-filadelfia-nos-250-anos-do-4th-of-july/",
-      "pubDate": "Sat, 18 Jul 2026 16:50:29 +0100",
-      "description": "No aniversário dos Estados Unidos da América, uma viagem pelo país em tempos de Mundial e sem Trump à vista. Primeira paragem: Filadélfia. Um ensaio de João van Zeller.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17180408/gettyimages-2283826803-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Almada. Reservas de água atingem 40% e permitem avaliar redução dos cortes",
+      "link": "https://www.rtp.pt/noticias/pais/almada-reservas-de-agua-atingem-40-e-permitem-avaliar-reducao-dos-cortes_n1754360",
+      "pubDate": "Sat, 18 Jul 2026 19:20:43 +0100",
+      "description": "As reservas médias de água no concelho de Almada situavam-se hoje nos 40%, um nível que permite uma avaliação e possível redução do número de horas de corte, divulgaram hoje os Serviços Municipalizados de Água e Saneamento (SMAS).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/09/09dd344ae72cf117b09a3b22a0864e5f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Trincão abandona o Sporting",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-trincao-abandona-o-sporting_a1_1754361",
+      "pubDate": "Sat, 18 Jul 2026 19:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministério da Educação convocou diretores escolares para reunião ao final da tarde de hoje",
+      "link": "https://www.rtp.pt/noticias/pais/ministerio-da-educacao-convocou-diretores-escolares-para-reuniao-ao-final-da-tarde-de-hoje_n1754359",
+      "pubDate": "Sat, 18 Jul 2026 19:01:47 +0100",
+      "description": "Foram convocados os representantes do conselho das escolas, da associação nacional de diretores de agrupamentos e escolas públicas e da associação nacional de dirigentes escolares.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2b32ac6be226363836d5368643a2881f?w=350&amp;q=50&amp;rect=0,37,1000,548&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/36/3665379a11fc2756f548123ce6fcba2f?w=350&amp;q=50&amp;rect=0,120,1281,702&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Kimi Antonelli conquista pole position para o GP da Bélgica de Fórmula 1",
-      "link": "https://www.rtp.pt/noticias/motores/kimi-antonelli-conquista-pole-position-para-o-gp-da-belgica-de-formula-1_d1754357",
-      "pubDate": "Sat, 18 Jul 2026 18:26:00 +0100",
-      "description": "O italiano Kimi Antonelli (Mercedes) conquistou hoje a pole position para o Grande Prémio da Bélgica de Fórmula 1, ao ser o mais rápido na qualificação disputada no circuito de Spa-Francorchamps.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edab3c0942cf3094ecc971cefcccb5e6?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Sat, 18 Jul 2026 18:30:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a5bb778d34ef04b4f3f76d1/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h É oficial: Trincão no Al-Ahli",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-e-oficial-trincao-no-al-ahli_a1_1754356",
-      "pubDate": "Sat, 18 Jul 2026 18:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: um ano após lutar com Rabiot, Rowe é expulso em amigável",
+      "link": "https://maisfutebol.iol.pt/internacional/italia/video-um-ano-apos-lutar-com-rabiot-rowe-e-expulso-em-amigavel",
+      "pubDate": "Sat, 18 Jul 2026 18:20:00 +0100",
+      "description": "Jogador inglês atua agora pelo Bolonha, mas está envolto novamente em episódio violento",
+      "thumbnail": "https://img.iol.pt/image/id/6a5bb58ed34e511da0b2e34b/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Qual o calendário dos exames e candidaturas ao Ensino Superior?",
-      "link": "https://www.rtp.pt/noticias/pais/qual-o-calendario-dos-exames-e-candidaturas-ao-ensino-superior_n1754355",
-      "pubDate": "Sat, 18 Jul 2026 18:21:18 +0100",
-      "description": "Com a incerteza decorrentes do atrasos na afixação de notas dos exames do 12º anos, os estudantes fazem contas aos prazos de candidatura à segunda fase dos exames e de acesso ao Ensino Superior. Estas são as principais datas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dcdae8686be226d2d59565e923fae9e8?w=350&amp;q=50&amp;rect=0,192,1620,888&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trincão também recebe carimbo de 40 ME e entra no top 10 de vendas do Sporting",
-      "link": "https://www.rtp.pt/noticias/sporting/trincao-tambem-recebe-carimbo-de-40-me-e-entra-no-top-10-de-vendas-do-sporting_d1754354",
-      "pubDate": "Sat, 18 Jul 2026 18:07:59 +0100",
-      "description": "O internacional português Francisco Trincão entrou hoje para o top 10 de vendas do Sporting, ao proporcionar os mesmos 40 milhões de euros (ME) fixos de encaixe registados há dias com o futebolista Morten Hjulmand.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9f6fce94ab6f7d0ab327986f99f62ff?w=350&amp;q=50&amp;rect=0,140,1164,638&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Manchester United tropeça no primeiro teste de pré-época",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/manchester-united-tropeca-no-primeiro-teste-de-pre-epoca",
+      "pubDate": "Sat, 18 Jul 2026 18:12:22 +0100",
+      "description": "«Red Devils» perderam diante do Wrexham por 1-0",
+      "thumbnail": "https://img.iol.pt/image/id/6a5bb380d34e511da0b2e343/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +137,7 @@
       "color": "#4fc48a",
       "title": "Trincão leva receitas do Sporting acima dos 100 milhões de euros",
       "link": "https://maisfutebol.iol.pt/sporting/mercado/trincao-leva-receitas-do-sporting-acima-dos-100-milhoes-de-euros",
-      "pubDate": "Sat, 18 Jul 2026 17:49:32 +0100",
+      "pubDate": "Sat, 18 Jul 2026 17:49:00 +0100",
       "description": "Venda para o Al Ahli reforça um dos anos mais lucrativos dos leões",
       "thumbnail": "https://img.iol.pt/image/id/6a5b9751d34e511da0b2e312/250"
     },
@@ -122,36 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a5bab1bd34e511da0b2e338/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto B vence Salgueiros em teste de pré-temporada",
-      "link": "https://maisfutebol.iol.pt/fc-porto-b/salgueiros/fc-porto-b-vence-salgueiros-em-teste-de-pre-temporada",
-      "pubDate": "Sat, 18 Jul 2026 17:01:50 +0100",
-      "description": "Martim Cunha e António Ribeiro apontaram os golos da vitória azul e branca",
-      "thumbnail": "https://img.iol.pt/image/id/6a5ba332d34e511da0b2e325/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Tour: Pogacar volta a escapar a Vingegaard e vence no topo de Markstein",
-      "link": "https://maisfutebol.iol.pt/tour/tour-de-france/tour-pogacar-vence-no-topo-de-markstein-e-escapa-a-vingegaard",
-      "pubDate": "Sat, 18 Jul 2026 17:01:00 +0100",
-      "description": "Esloveno da Emirates reforçou a camisola amarela e a liderança na montanha",
-      "thumbnail": "https://img.iol.pt/image/id/6a5ba33bd34ef04b4f3f76b0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Afonso Moreira bisa na estreia pelo Bayer Leverkusen",
-      "link": "https://maisfutebol.iol.pt/internacional/afonso-moreira/video-afonso-moreira-bisa-na-estreia-pelo-bayer-leverkusen",
-      "pubDate": "Sat, 18 Jul 2026 16:52:36 +0100",
-      "description": "Extremo português começa aventura na Alemanha com o pé direito",
-      "thumbnail": "https://img.iol.pt/image/id/6a5b9ea4d34ef04b4f3f76a8/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,26 @@
       "pubDate": "Sat, 18 Jul 2026 13:09:24 +0000",
       "description": "Na sexta-feira, dia 17 de julho, a Assembleia da República aprovou um texto de substituição que altera de forma substancial a lei que regula os direitos na preconceção, na procriação medicamente assistida, na gravidez, no parto e no puerpério.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ApXCurUzWd8SGidhDmO3%2BUaC7s9QQWkgBEbjgkkmixAJWSz%2BrhM2IdTixGn06PGMIfsuEn96ksEU2G3dnxhwDhUZuM78%2Bg2e2Xk%2FuBK4wJejJjUouZQIw1JgJ4CMl5t1a"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "PCP culpa Montenegro e critica falta de coragem do ministro da Educação \"na bronca\" dos exames nacionais",
+      "link": "https://sapo.pt/artigo/pcp-culpa-montenegro-e-critica-falta-de-coragem-do-ministro-da-educacao-na-bronca-dos-exames-nacionais-6a5bb4a44f27158af56ba147",
+      "pubDate": "Sat, 18 Jul 2026 17:30:19 +0000",
+      "description": "Paulo Raimundo disse que o ministro da Educação, Fernando Alexandre, na sexta-feira, na Assembleia da República, num debate promovido pelo PCP, \"conseguiu estar 40 minutos sem dizer nada e, quando abriu a boca, nada disse\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AW%2BvgWcw9m26I37dEW0pcAtSXD5kKfwSbmd2BGUuZzHINmGrEMn7YUwQQICFp4PgckgY%2FhkaAJwp%2FVv6ZjygMJf1J83fd9bAGbg8KJpY0d5gjLdxdEc0Hmv3R6YJ8Vk68"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ventura envia carta ao primeiro-ministro sobre o MAI",
+      "link": "https://sapo.pt/artigo/ventura-envia-carta-ao-primeiro-ministro-sobre-o-mai-6a5bb6dd4f27158af56bd516",
+      "pubDate": "Sat, 18 Jul 2026 17:30:19 +0000",
+      "description": "André Ventura começa por lembrar os vários entendimentos entre PSD e Chega nos últimos meses, para depois dizer que \"a situação do Ministro da Administração Interna provoca necessariamente uma alteração dessa equação\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AHRRPVY%2BQOcTP1t5s05q5A7aezLxWamCqr7mfp%2BQlqS2EqE%2B0lUrMyD9dSnRN6UTy4Gf4l8C1kRnJDout5v6NdYdtdvej4Dzv3aDshBpVRJyT3RuvNZKGw%2F2675T0%2FRjk"
     },
     {
       "sourceId": "sapo",
@@ -182,74 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AsLhg3ffioPxDWV8B39rYBjGJgaEpwiB3DoouLqVoCm0x39%2B4sjKnxS0tZ8%2Fs7FnB9KPf4KfxVebsL7ymDVjsnTQUaAqELogl3LsLq6LgRntSKjjZDFLUJVflDD20rkwe"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Dominado incêndio florestal em Ovar",
-      "link": "https://sapo.pt/artigo/incendio-florestal-deflagra-com-intensidade-em-ovar-6a5b8d25c77521aa462472f0",
-      "pubDate": "Sat, 18 Jul 2026 15:30:20 +0000",
-      "description": "Incêndio chegou a ter 91 operacionais, 23 meios terrestres e três aviões a combater as chamas que lavram na região do distrito de Aveiro.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A2VhpV8P5muqL8P%2FgVwPBRRMPyOyEN%2Ft9d2hE8LrE2O2fSu%2Fwaom2Hx1HmT05VdF5R0oBNoTyxDs0%2B4XrPXP69QHAQsbGQnKnlNo1M8o69VuOywiBuRHMTpu1Qsk2w90A"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ordem alerta que fixação de médicos de família no SNS exige mais incentivos, quase 40% das vagas ficaram por preencher",
-      "link": "https://sapo.pt/artigo/ordem-alerta-que-fixacao-de-medicos-de-familia-no-sns-exige-mais-incentivos-quase-40-das-vagas-ficaram-por-preencher-6a5b7db94f27158af562a18c",
-      "pubDate": "Sat, 18 Jul 2026 14:39:15 +0000",
-      "description": "A Ordem dos Médicos alerta que a fixação de médicos de família no SNS exige que sejam tomadas medidas adicionais. Último concurso não resolveu a falta desses especialistas",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AKbkjbP%2BPhAiJ6Hmd5SebwK%2FkG0V236UzFYIwjmSXG%2BOAin2OvY1Y%2BsFHyip3fAT%2BhNQXEgtY5twJLBCagg6CEK2nwIxmZGfMftTZ%2FnzYbAxemV2gHqizKHQAcauIe4Xk"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Potências petrolíferas árabes condenam \"crimes de guerra\" iranianos",
+      "link": "https://www.noticiasaominuto.com/mundo/3023662/potencias-petroliferas-arabes-condenam-crimes-de-guerra-iranianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 18:52:59",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5bbd7e8f85c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PCP culpa Montenegro e critica falta de coragem do ministro da Educação",
-      "link": "https://www.noticiasaominuto.com/politica/3023666/pcp-culpa-montenegro-e-critica-falta-de-coragem-do-ministro-da-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 17:43:35",
+      "title": "Ex-presidente moçambicano lidera missão de observação em São Tomé",
+      "link": "https://www.noticiasaominuto.com/mundo/3023672/ex-presidente-mocambicano-lidera-missao-de-observacao-em-sao-tome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 18:49:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66a7e08580cac.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45575993.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dezenas de guineenses apelam em Lisboa à libertação de Simões Pereira",
-      "link": "https://www.noticiasaominuto.com/mundo/3023663/dezenas-de-guineenses-apelam-em-lisboa-a-libertacao-de-simoes-pereira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 17:41:12",
+      "title": "FMM mantém-se em Porto Covo porque vantagens superam constrangimentos",
+      "link": "https://www.noticiasaominuto.com/cultura/3023673/fmm-mantem-se-em-porto-covo-porque-vantagens-superam-constrangimentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 18:48:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47482967.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69669836d2562.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Teerão anuncia suspensão dos compromissos com EUA em dia de novos ataques",
-      "link": "https://www.noticiasaominuto.com/mundo/3023650/teerao-anuncia-suspensao-dos-compromissos-com-eua-em-dia-de-novos-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 17:36:11",
+      "title": "BE exige explicação \"cabal\" ainda hoje a Luís Neves sobre empreiteiro",
+      "link": "https://www.noticiasaominuto.com/politica/3023680/be-exige-explicacao-cabal-ainda-hoje-a-luis-neves-sobre-empreiteiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 18:38:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5bab7c849a3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65f232ca1f32d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDEwLCJjcm9wSGVpZ2h0Ijo1NjgsImNyb3BYIjoxMywiY3JvcFkiOjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM4NCwiY3JvcEhlaWdodCI6NjgzLCJjcm9wWCI6NDk4LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Leixões e Nacional empatam em jogo particular",
-      "link": "https://www.noticiasaominuto.com/desporto/3023641/leixoes-e-nacional-empatam-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 17:25:41",
+      "title": "Tempestades obrigam Espanha a cancelar último treino antes da final",
+      "link": "https://www.noticiasaominuto.com/desporto/3023675/tempestades-obrigam-espanha-a-cancelar-ultimo-treino-antes-da-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 18:30:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5ba8bfd4de3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM4MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5bb82d682ec.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Antonelli conquista 'pole position' para o GP da Bélgica de Fórmula 1",
-      "link": "https://www.noticiasaominuto.com/auto/3023660/antonelli-conquista-pole-position-para-o-gp-da-belgica-de-formula-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 17:21:40",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47483225.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google não consegue convencer os utilizadores de iPhone a mudarem para Android",
+      "link": "https://pplware.sapo.pt/gadgets/iphone/google-nao-consegue-convencer-os-utilizadores-de-iphone-a-mudarem-para-android/",
+      "pubDate": "Sat, 18 Jul 2026 17:00:43 +0000",
+      "description": "Um estudo recente revela que a esmagadora maioria dos utilizadores de iPhone prefere manter-se fiel à Apple, frustrando os planos da Google em conquistar este segmento de mercado. Fidelidade ao ecossistema da Apple atinge&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/iphone_pixel_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/malware_mac00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Signal já deixa usar a mesma conta em vários smartphones Android",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/signal-ja-deixa-usar-a-mesma-conta-em-varios-smartphones-android/",
-      "pubDate": "Sat, 18 Jul 2026 12:00:14 +0000",
-      "description": "Com algumas situações menos claras no WhatsApp, em termos de privacidade, a escolha por outras soluções foi natural. Uma delas foi o Signal, que vem recheado de funcionalidades. Uma nova chega agora e deixa-o&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2021/01/pplware_signal_sms_0.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F2, Bélgica: Joshua Duerksen triunfa na Sprint",
+      "link": "https://www.autosport.pt/sem-categoria/f2-belgica-joshua-duerksen-triunfa-na-sprint/",
+      "pubDate": "Sat, 18 Jul 2026 16:45:43 +0000",
+      "description": "Joshua Duerksen conquistou a vitória na Corrida Sprint de Fórmula 2 em Spa-Francorchamps, resistindo a Martinius Stenshorne numa disputa decidida na última volta, para garantir a sua segunda vitória da temporada. O piloto da Invicta Racing assumiu a liderança a meio da corrida e geriu bem um reiníci",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -315,7 +325,7 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP da Bélgica F1, Lewis Hamilton: “O carro não era idêntico”",
+      "title": "GP da Bélgica F1, Lewis Hamilton: “A sensação do carro era diferente”",
       "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-lewis-hamilton-o-carro-nao-era-identico/",
       "pubDate": "Sat, 18 Jul 2026 16:25:44 +0000",
       "description": "Lewis Hamilton conseguiu participar na Qualificação, após um acidente no TL3 que obrigou a reconstruir boa parte da traseira do seu monolugar. Inevitavelmente, o carro não foi com a afinação igual ao que tinha no treino e as diferenças acabaram por se sentir. Hamilton enalteceu o trabalho dos mecâni",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-gp-da-belgica-charles-leclerc-estou-um-pouco-desapontado-com-a-ultima-volta/",
       "pubDate": "Sat, 18 Jul 2026 16:10:39 +0000",
       "description": "Charles Leclerc conquistou o quinto tempo da qualificação para o GP da Bélgica, mas reconheceu que queria mais, apesar de concordar que a performance do seu monolugar encontrou-se onde esperava. O piloto monegasco ficou à frente do colega de equipa, Lewis Hamilton, com a Ferrari a ficar no top 5, on",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1 GP da Bélgica: Toto Wolff feliz com pole, mas incerto que se traduza em vantagem para amanhã",
-      "link": "https://www.autosport.pt/formula1/f1-gp-da-belgica-toto-wolff-feliz-com-pole-mas-incerto-que-se-traduza-em-vantagem-para-amanha/",
-      "pubDate": "Sat, 18 Jul 2026 16:00:37 +0000",
-      "description": "Toto Wolff não consegue esconder o orgulho que sente por ver o seu jovem protegido a brilhar esplendorosamente no difícil mundo da F1. O bom trabalho da Mercedes, aliado ao talento do jovem italiano, que se adaptou na perfeição aos novos regulamentos, permitem uma parceria de sucesso. Wolff comentou",
       "thumbnail": ""
     }
   ]
