@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-18T20:04:48.405866+00:00",
+  "updated": "2026-07-18T21:13:17.769045+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "21h. Exames. Notas suspensas são comunicadas hoje às escolas",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1704/",
+      "pubDate": "Sat, 18 Jul 2026 21:16:51 +0100",
+      "description": "Comunicado vem na sequência da reunião desta tarde com Conselho das Escolas e associações de diretores e de dirigentes escolares. Ainda, André Ventura pede a demissão de Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -35,28 +45,48 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "20h. André Ventura pede demissão de MAI em carta enviada",
+      "title": "20h. André Ventura pede demissão de MAI a PM",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2006/",
       "pubDate": "Sat, 18 Jul 2026 20:12:28 +0100",
       "description": "O líder do Chega avisa que manter Luís Neves no cargo arrastará o Governo para uma \"cumplicidade criminosa\". Ainda, as reservas de água em Almada atingiram hoje os 40%.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais de 100 casas destruídas em incêndio na Noruega",
-      "link": "https://observador.pt/2026/07/18/mais-de-100-casas-destruidas-em-incendio-na-noruega/",
-      "pubDate": "Sat, 18 Jul 2026 19:56:07 +0100",
-      "description": "Camiões-cisterna tiveram de ser enviados para o local para apoiar o combate às chamas, uma vez que a rede de água local não conseguia dar resposta às necessidades perante um incêndio desta dimensão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18132931/47480352.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Grandes incêndios em Espanha, Noruega e Canadá",
+      "link": "https://www.rtp.pt/noticias/mundo/grandes-incendios-em-espanha-noruega-e-canada_v1754388",
+      "pubDate": "Sat, 18 Jul 2026 22:16:47 +0100",
+      "description": "O fogo que continua ativo na região de Aragão é já o maior deste ano em Espanha. Já na Noruega, mais de 100 casas foram consumidas pelas chamas, no maior incêndio residencial de sempre no país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d0/d0d2f54dd4dc0921bab3bb1359409294_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Exames nacionais. Há ainda classificações que permanecem \"em suspenso\"",
-      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-ha-ainda-classificacoes-que-permanecem-em-suspenso_n1754375",
+      "title": "Comissão de Trabalhadores denuncia falhas no novo sistema do INEM e exige esclarecimentos",
+      "link": "https://www.rtp.pt/noticias/pais/comissao-de-trabalhadores-denuncia-falhas-no-novo-sistema-do-inem-e-exige-esclarecimentos_n1754384",
+      "pubDate": "Sat, 18 Jul 2026 22:16:09 +0100",
+      "description": "A Comissão de Trabalhadores (CT) do INEM denunciou hoje falhas no sistema informático OnCall, utilizado nos Centros de Orientação de Doentes Urgentes (CODU), alertando para riscos no acionamento dos meios de emergência e exigindo esclarecimentos ao conselho diretivo.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Guerra pode aumentar preços das viagens e reduzir fluxos turísticos, avisa CEO do Vila Galé",
+      "link": "https://www.rtp.pt/noticias/conversa-capital/guerra-pode-aumentar-precos-das-viagens-e-reduzir-fluxos-turisticos-avisa-ceo-do-vila-gale_v1754154",
+      "pubDate": "Sat, 18 Jul 2026 22:06:00 +0100",
+      "description": "Gonçalo Rebelo de Almeida, CEO do Vila Galé, receia que a crise no Médio Oriente, com o aumento do custo do jet fuel, conduza a um aumento dos preços das viagens e com isso a uma redução dos fluxos turísticos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8edbfdd3c87efb465c8231db5c73e3b9?q=50&amp;rect=0,0,1920,1080&amp;auto=format&amp;w=350"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Exames nacionais. EduQA informa ainda este sábado escolas sobre classificações que permanecem em suspenso",
+      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-eduqa-informa-ainda-este-sabado-escolas-sobre-classificacoes-que-permanecem-em-suspenso_n1754375",
       "pubDate": "Sat, 18 Jul 2026 21:49:04 +0100",
       "description": "Em comunicado enviado às redações, o Ministério da Educação refere que ainda hoje informará as escolas sobre as classificações que permanecem com a menção “suspenso”, não revelando quantos são esses casos. O Ministério garante que nenhum aluno será prejudicado no acesso ao Ensino Superior por motivo",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/02/02fd77fecaa26ba3f8509e77f81a64e7?w=350&amp;q=50&amp;rect=0,45,1500,822&amp;auto=format"
@@ -72,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/c1/c1224f7d2ed7e4062f0cac13f39f5fd3_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Preço dos combustíveis vai subir bastante a partir de segunda-feira",
-      "link": "https://www.rtp.pt/noticias/economia/preco-dos-combustiveis-vai-subir-bastante-a-partir-de-segunda-feira_v1754382",
-      "pubDate": "Sat, 18 Jul 2026 21:35:47 +0100",
-      "description": "Mesmo contando com o desconto no imposto aplicado pelo governo, que afinal não será tão elevado como se pensava. O gasóleo deverá custar mais de 11 cêntimos por litro e a gasolina sobe 6 cêntimos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/3b/3bf1a6edb3338bf5b595ee46b0edc0c4_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio em Matosinhos obriga dezenas de moradores a sair de casa",
-      "link": "https://www.rtp.pt/noticias/pais/incendio-em-matosinhos-obriga-dezenas-de-moradores-a-sair-de-casa_v1754381",
-      "pubDate": "Sat, 18 Jul 2026 21:34:47 +0100",
-      "description": "Um incêndio deflagrou este sábado numa loja de artigos chineses em Matosinhos. Dezenas de moradores tiveram de deixar as casas. Essa mesma loja ardeu em 2017 e os moradores só voltaram às casas três anos depois.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/79/79ce691021d61cf8eaa216329076d053_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ministério Público pede suspensão imediata da construção do hotel Hilton e apartamentos na linha de Cascais",
-      "link": "https://www.rtp.pt/noticias/economia/ministerio-publico-pede-suspensao-imediata-da-construcao-do-hotel-hilton-e-apartamentos-na-linha-de-cascais_v1754380",
-      "pubDate": "Sat, 18 Jul 2026 21:33:47 +0100",
-      "description": "É uma notícia RTP. O Ministério Público pede a suspensão imediata das obras de construção do novo hotel Hilton e 120 apartamentos na linha de Cascais e a demolição dos edifícios que estão quase concluídos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/25561065624c2a3537e86320235f2e54_N.jpg?"
-    },
-    {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
       "title": "Liga: calendário e todos os resultados da pré-temporada",
       "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Sat, 18 Jul 2026 20:52:00 +0100",
+      "pubDate": "Sat, 18 Jul 2026 21:46:00 +0100",
       "description": "Clubes já estão a preparar a época 2026/27",
       "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sp. Braga apresenta-se aos adeptos com empate diante do Celta de Vigo",
+      "link": "https://maisfutebol.iol.pt/sp-braga/celta-de-vigo/sp-braga-apresenta-se-aos-adeptos-com-empate-diante-do-celta-de-vigo",
+      "pubDate": "Sat, 18 Jul 2026 21:45:00 +0100",
+      "description": "Vítor Carvalho e Jónatas, ambos na sequência de uma bola parada, marcaram os golos da formação minhota",
+      "thumbnail": "https://img.iol.pt/image/id/6a5be5b5d34ef04b4f3f774b/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/69d13440d34edcee7c62a818/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Los mejores del mundo!",
-      "link": "https://maisfutebol.iol.pt/opiniao/livre-de-letra/los-mejores-del-mundo",
-      "pubDate": "Sat, 18 Jul 2026 20:38:00 +0100",
-      "description": "«Livre de Letra» - Era para ter sido uma «Finalíssima» em março; vai ser uma «Super Final» em julho. Espanha e Argentina, campeãs da Europa e da América do Sul (e do Mundo, no caso argentino, o que não é coisa pouca…) foram as seleções mais competentes deste Mundial. Só uma será a melhor do mundo.",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bd600d34e511da0b2e3a8/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
       "description": "“A permanência em funções do senhor ministro da Administração Interna afeta muito negativamente a imagem do Governo e arrastá-lo-á irremediavelmente para a cumplicidade criminosa, pressão sobre as instituições de investigação criminal e perda de...",
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ar2O838D%2BtMwO1xIhALalUSZSuJYmg8wb10gIviqG7tykeD%2FrWujnu8ODDbIOUQWHPEgNs0%2BFtIU4Avrt1T9opAmHgVEMLEp6ZZ%2B4NTCWGh8U7I%2FzG%2BOu73B1Bd6gm%2BfV"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ministério Público pede suspensão imediata da construção do hotel Hilton e mais de 100 apartamentos na linha de Cascais, avança RTP",
+      "link": "https://sapo.pt/artigo/ministerio-publico-pede-suspensao-imediata-da-construcao-do-hotel-hilton-e-mais-de-100-apartamentos-na-linha-de-cascais-avanca-rtp-6a5bdf54c77521aa462ffd98",
+      "pubDate": "Sat, 18 Jul 2026 20:28:57 +0000",
+      "description": "A PGR quer ainda a suspensão das licenças e a declaração de nulidade das deliberações e despachos dos responsáveis políticos que autorizaram o empreendimento. A maioria foi assinada por Miguel Pinto Luz, então vice-presidente da Câmara de Cascais...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AdnZ3G5Apl4e0stYANZBAYKdYXBjrUHVezIjDb3k4PVRrcV3pzkWd4Sv9M5xFsTeZlJc9cqQTN07gqQ7pTn3iWE%2BskI1t76pgOvGR4%2F4LlOUitaU0MNaJeO9bILaFoSVc"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ApXCurUzWd8SGidhDmO3%2BUaC7s9QQWkgBEbjgkkmixAJWSz%2BrhM2IdTixGn06PGMIfsuEn96ksEU2G3dnxhwDhUZuM78%2Bg2e2Xk%2FuBK4wJejJjUouZQIw1JgJ4CMl5t1a"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Presidente da Hungria deixa o cargo após alteração constitucional",
-      "link": "https://sapo.pt/artigo/presidente-da-hungria-deixa-o-cargo-apos-alteracao-constitucional-6a5bccdb052274a7064f85dd",
-      "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
-      "description": "O presidente da Hungria, Tamás Sulyok, aceitou deixar o cargo, ao promulgar uma alteração à Constituição que põe termo ao seu mandato à meia-noite de domingo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A1zMG6LU4ZwlqDwjnQlfK4MtZnedUfNHxBxUkU1jM5upT8uPr2D2PmHqhkZqfY%2Bu4uQg4h1gTICcTrJ2vzoaFytSzfqitVXbDFi3ldvlUSZJAyXBb62Uwe5FhwK57KZm%2B"
-    },
-    {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Já há onzes para o duelo entre França e Inglaterra",
-      "link": "https://www.noticiasaominuto.com/desporto/3023664/em-direto-franca-e-inglaterra-medem-forcas-pela-medalha-de-bronze#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 20:53:14",
+      "title": "Vitória SC derrota Académica em jogo particular com golos 'jovens'",
+      "link": "https://www.noticiasaominuto.com/desporto/3023713/vitoria-sc-derrota-academica-em-jogo-particular-com-golos-jovens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 22:02:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5baa843d73b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOCwiY3JvcEhlaWdodCI6MTY1MCwiY3JvcFgiOjEyNjAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5be966141dd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjQsImNyb3BYIjowLCJjcm9wWSI6NDgzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exames: Ministério \"lamenta atrasos\" e pede desculpas por \"transtornos\"",
-      "link": "https://www.noticiasaominuto.com/pais/3023705/exames-ministerio-lamenta-atrasos-e-pede-desculpas-por-transtornos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "title": "EM DIRETO: Declan Rice quebra o nulo no encontro",
+      "link": "https://www.noticiasaominuto.com/desporto/3023664/em-direto-franca-e-inglaterra-medem-forcas-pela-medalha-de-bronze#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 22:01:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5bea4d8dffc.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Sporting de Braga apresenta plantel com 31 jogadores para 2026/27",
+      "link": "https://www.noticiasaominuto.com/desporto/3023712/sporting-de-braga-apresenta-plantel-com-31-jogadores-para-202627#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 21:57:56",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5be8364de92.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzY2LCJjcm9wSGVpZ2h0Ijo3NjgsImNyb3BYIjowLCJjcm9wWSI6MTI4MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Comissão de Trabalhadores denuncia falhas no novo sistema do INEM",
+      "link": "https://www.noticiasaominuto.com/pais/3023707/comissao-de-trabalhadores-denuncia-falhas-no-novo-sistema-do-inem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 21:42:22",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43899666.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Ministério pede \"desculpas\" e garante que alunos não serão \"prejudicados\"",
+      "link": "https://www.noticiasaominuto.com/pais/3023705/ministerio-explica-notas-em-suspenso-e-lamenta-transtornos-causados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-07-18 20:40:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a500741bdacb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a500741bdacb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Durán chega a Lisboa para reforçar o Benfica: \"Maior equipa em Portugal\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3023704/duran-ja-esta-em-lisboa-para-reforcar-o-benfica-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 20:32:01",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59f220b7fa4.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE0NSwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Caso de 93 animais mortos em fogo de Santo Tirso pode mudar \"paradigma\"",
-      "link": "https://www.noticiasaominuto.com/politica/3023703/caso-de-93-animais-mortos-em-fogo-de-santo-tirso-pode-mudar-paradigma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 20:29:58",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e773690.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Autarca de Nova Iorque pondera deter Netanyahu na Assembleia-Geral da ONU",
-      "link": "https://www.noticiasaominuto.com/mundo/3023701/autarca-de-nova-iorque-pondera-deter-netanyahu-na-assembleia-geral-da-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 20:20:12",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6958bab2f367a.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Calor: o seu carro pode transformar-se num “forno” em menos de uma hora",
+      "link": "https://pplware.sapo.pt/motores/calor-o-seu-carro-pode-transformar-se-num-forno-em-menos-de-uma-hora/",
+      "pubDate": "Sat, 18 Jul 2026 20:15:10 +0000",
+      "description": "Com a chegada dos dias mais quentes, basta deixar o carro estacionado ao sol durante alguns minutos para perceber que o interior se transforma rapidamente num verdadeiro forno. Quando o veículo fica exposto ao&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/07/calor_00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/iphone_pixel_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apple envia cartas a ameaçar ex-trabalhadores que agora estão na OpenAI",
-      "link": "https://pplware.sapo.pt/apple/apple-envia-cartas-a-ameacar-ex-trabalhadores-que-agora-estao-na-openai/",
-      "pubDate": "Sat, 18 Jul 2026 16:00:04 +0000",
-      "description": "A Apple decidiu adotar uma postura muito mais agressiva no seu conflito com a OpenAI, enviando advertências diretas a antigos funcionários. Esta ação surge na sequência de acusações graves de desvio de segredos comerciais&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/05/tim_cook_zangado00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPM, Rampa Capital do Móvel: Nuno Caetano na frente após primeiro dia intenso",
+      "link": "https://www.autosport.pt/velocidade/cpm-rampa-capital-do-movel-nuno-caetano-na-frente-apos-primeiro-dia-intenso/",
+      "pubDate": "Sat, 18 Jul 2026 20:00:00 +0000",
+      "description": "A 7.ª Rampa Capital do Móvel arrancou este sábado, marcando a primeira jornada da quinta prova do Campeonato de Portugal de Montanha JC Group. Na luta pela vitória absoluta, Nuno Caetano (Osella PA2000 EVO2 LMR), da Power House, foi o mais rápido nas três subidas disputadas, terminando o dia na lide",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/f3-belgica-jin-nakamura-estreia-se-a-vencer-na-sprint/",
       "pubDate": "Sat, 18 Jul 2026 16:35:45 +0000",
       "description": "Jin Nakamura conquistou a primeira vitória da carreira na Fórmula 3, e também a primeira da Hitech em 2026, ao vencer a Corrida Sprint em Spa-Francorchamps. O piloto japonês partiu da segunda fila, fez um excelente arranque para assumir o segundo lugar e, mais tarde, executou uma última manobra deci",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP da Bélgica F1, Lewis Hamilton: “A sensação do carro era diferente”",
-      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-lewis-hamilton-o-carro-nao-era-identico/",
-      "pubDate": "Sat, 18 Jul 2026 16:25:44 +0000",
-      "description": "Lewis Hamilton conseguiu participar na Qualificação, após um acidente no TL3 que obrigou a reconstruir boa parte da traseira do seu monolugar. Inevitavelmente, o carro não foi com a afinação igual ao que tinha no treino e as diferenças acabaram por se sentir. Hamilton enalteceu o trabalho dos mecâni",
       "thumbnail": ""
     }
   ]
