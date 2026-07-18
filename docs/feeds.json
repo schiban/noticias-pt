@@ -1,55 +1,65 @@
 {
-  "updated": "2026-07-18T03:51:49.159320+00:00",
+  "updated": "2026-07-18T06:01:35.098573+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "6h. Irão ameaça EUA com nova escalada no Médio Oriente",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2437/",
+      "pubDate": "Sat, 18 Jul 2026 06:14:29 +0100",
+      "description": "Forças norte-americanas realizam sétima noite de ataques contra o Irão. Teerão responde com ataque a base militar dos EUA no Bahrein. Ainda, Seguro promulga PSU e pede reforma da Justiça.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O binómio esquerda e direita ainda serve para ler o mundo?",
+      "link": "https://observador.pt/programas/5-continentes/o-binomio-esquerda-e-direita-ainda-serve-para-ler-o-mundo/",
+      "pubDate": "Sat, 18 Jul 2026 06:05:28 +0100",
+      "description": "Bruno Cardoso Reis e Rui Tavares debatem a utilidade dos conceitos de esquerda e direita. Abordam ainda a herança colonial, a ascensão do populismo e a necessidade de diálogos maduros sobre o passado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16094819/770-podcastcinco-continentescinco-continentes.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Atravessar os Alpes a pé",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/atravessar-os-alpes-a-pe/",
+      "pubDate": "Sat, 18 Jul 2026 06:05:26 +0100",
+      "description": "Há quem suba nontanhas, mas Nuno Gomes atravessa Cordilheiras. Amantes de lugares altos, Nuno já percorreu os Pirinéus e os Alpes a pé, e prepara uma aventura asiática ainda maior.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Canções para jogar finais",
+      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-jogar-finais/",
+      "pubDate": "Sat, 18 Jul 2026 06:03:58 +0100",
+      "description": "É o tudo ou nada! Do punk dos Offspring à pop de Beyoncé, passando pelo clássico Julio Iglesias, eis o alinhamento motivacional perfeito para entrar em campo e ganhar finais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. EUA concluem sétima noite consecutiva de ataques ao Irão",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2347/",
       "pubDate": "Sat, 18 Jul 2026 04:13:56 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Ataques visaram vigilâncias, logística militar, depósitos subterrâneos e meios marítimos. Ainda neste jornal, pelo menos um ferido na sequência de fuga de amoníaco no Porto de Leixões.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Exames. PCP critica silêncio sobre notas suspensas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2380/",
-      "pubDate": "Sat, 18 Jul 2026 03:14:17 +0100",
-      "description": "Comunistas consideram situação \"extremamente preocupante\" e pedem respostas. Ainda neste jornal, Presidente da República admite que processo de avaliação dos exames nacionais não correu bem",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Seguro promulga PSU e defende reforma urgente da Justiça",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2353/",
-      "pubDate": "Sat, 18 Jul 2026 02:14:54 +0100",
-      "description": "Presidente da República define combate à corrupção, criminalidade organizada e maior celeridade como prioridades. Ainda, ministra do Ambiente quer mais explicações sobre os preços dos combustíveis.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Fuga de amoníaco em festa nas Docas de Leixões",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2327/",
-      "pubDate": "Sat, 18 Jul 2026 01:14:03 +0100",
-      "description": "Há registo de um ferido ligeiro. Recinto do evento foi evacuado. Ainda, PCP critica a falta de respostas do ministro da Educação sobre os alunos com as notas dos exames nacionais suspensas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PS: MAI deve dar explicações \"de forma clara e inequívoca\"",
-      "link": "https://observador.pt/2026/07/18/carneiro-diz-que-luis-neves-deve-dar-explicacoes-de-forma-clara-e-inequivoca/",
-      "pubDate": "Sat, 18 Jul 2026 00:41:33 +0100",
-      "description": "O secretário-geral do PS diz que a autoridade do ministro da Administração Interna \"não pode estar maculada\" e que os factos recentes \"têm gravidade\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15125511/47268256.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "05h Irão promete retaliar caso os Estados Unidos não parem com os ataques",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/05h-irao-promete-retaliar-caso-os-estados-unidos-nao-parem-com-os-ataques_a1_1754274",
+      "pubDate": "Sat, 18 Jul 2026 06:57:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Sat, 18 Jul 2026 03:08:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Iraque e Síria vão reconstruir oleoduto que liga os dois países",
-      "link": "https://www.rtp.pt/noticias/mundo/iraque-e-siria-vao-reconstruir-oleoduto-que-liga-os-dois-paises_n1754257",
-      "pubDate": "Sat, 18 Jul 2026 02:20:10 +0100",
-      "description": "Os Estados Unidos anunciaram um projeto de cooperação entre os governos iraquiano e sírio para a reabilitação e reconstrução do oleoduto entre os dois países árabes.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dezenas de operacionais mobilizados para fuga de amoníaco em Matosinhos",
-      "link": "https://www.noticiasaominuto.com/pais/3023477/dezenas-de-operacionais-mobilizados-para-fuga-de-amoniaco-em-matosinhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 01:02:47",
+      "title": "Parasita em alface vendida em fast food gera surto de diarreia nos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3023476/parasita-em-alface-vendida-em-fast-food-gera-surto-de-diarreia-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 07:01:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64dbb154044e4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d699c0c913.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rodri aponta ambição da Espanha para a final",
-      "link": "https://www.noticiasaominuto.com/desporto/3023465/rodri-aponta-ambicao-da-espanha-para-a-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 00:01:27",
+      "title": "Iraque e Síria reconstruirão oleoduto que liga os dois países, dizem EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3023479/iraque-e-siria-reconstruirao-oleoduto-que-liga-os-dois-paises-dizem-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 06:59:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5ab4295e8fb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5c42d94897a75.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eleitores? Secretário da Segurança Interna dos EUA insiste em falhas",
-      "link": "https://www.noticiasaominuto.com/mundo/3023464/eleitores-secretario-da-seguranca-interna-dos-eua-insiste-em-falhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 00:00:06",
+      "title": "Sting serviu 100 minutos de puro rock na Figueira da Foz. Eis as imagens",
+      "link": "https://www.noticiasaominuto.com/cultura/3023475/sting-serviu-100-minutos-de-puro-rock-na-figueira-da-foz-eis-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 06:57:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c2f964cfffe.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Jovem de 16 anos que estava \"irregular\" em Portugal detido após roubo",
-      "link": "https://www.noticiasaominuto.com/pais/3023463/jovem-de-16-anos-que-estava-irregular-em-portugal-detido-apos-roubo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 23:58:59",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_625ec3c4d1b93.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU4NiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5b1561479e7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
       "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3022891/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-17 23:56:22",
+      "link": "https://www.noticiasaominuto.com/desporto/3023513/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 06:53:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59c6efa1447.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjQsImNyb3BIZWlnaHQiOjQ4NiwiY3JvcFgiOjAsImNyb3BZIjoyNjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5b14b70a063.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Taiwan suspende programa de facilitação de visto para cambojanos",
+      "link": "https://www.noticiasaominuto.com/mundo/3023497/taiwan-suspende-programa-de-facilitacao-de-visto-para-cambojanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 06:52:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_59ef43a390392.webp"
     },
     {
       "sourceId": "pplware",
