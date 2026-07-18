@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-18T18:58:00.075720+00:00",
+  "updated": "2026-07-18T20:04:48.405866+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Guineenses protestam em Lisboa por Domingos Simões Pereira",
+      "link": "https://observador.pt/2026/07/18/guineenses-manifestam-se-em-lisboa-e-pedem-a-seguro-que-pressione-comunidade-internacional-pela-libertacao-de-domingos-simoes-pereira/",
+      "pubDate": "Sat, 18 Jul 2026 20:50:14 +0100",
+      "description": "Em frente ao palácio de Belém, manifestantes acusaram Sissoco Embaló de \"traidor da pátria\" e apelaram à intervenção de Seguro junto da CPLP, CEDEAO e ONU.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18173226/47482967.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Miranda do Corvo e os seus novos arquitectos",
+      "link": "https://observador.pt/2026/07/18/miranda-do-corvo-e-os-seus-novos-arquitectos/",
+      "pubDate": "Sat, 18 Jul 2026 20:30:59 +0100",
+      "description": "Um livro que mostra de que é feita a actividade de um atelier distante dos grandes centros e como, através do mesmo, se conhece mais sobre o processo de renovação contemporêano.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:685/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17153749/destaque-atelier-do-corvo-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Provedora de Justiça pede \"ponto de situação\" sobre as notas",
+      "link": "https://observador.pt/2026/07/18/provedora-de-justica-pede-ao-ministerio-da-educacao-um-ponto-de-situacao-sobre-as-notas/",
+      "pubDate": "Sat, 18 Jul 2026 20:14:35 +0100",
+      "description": "Milhares de alunos ficaram com classificação \"suspenso\" após a primeira tentativa de correção digital dos exames secundários. Provedoria quer garantias de igualdade para a segunda fase.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18191809/47466910.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20h. André Ventura pede demissão de MAI em carta enviada",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2006/",
+      "pubDate": "Sat, 18 Jul 2026 20:12:28 +0100",
+      "description": "O líder do Chega avisa que manter Luís Neves no cargo arrastará o Governo para uma \"cumplicidade criminosa\". Ainda, as reservas de água em Almada atingiram hoje os 40%.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,144 +52,134 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18132931/47480352.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Exames nacionais. Há ainda classificações que permanecem \"em suspenso\"",
+      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-ha-ainda-classificacoes-que-permanecem-em-suspenso_n1754375",
+      "pubDate": "Sat, 18 Jul 2026 21:49:04 +0100",
+      "description": "Em comunicado enviado às redações, o Ministério da Educação refere que ainda hoje informará as escolas sobre as classificações que permanecem com a menção “suspenso”, não revelando quantos são esses casos. O Ministério garante que nenhum aluno será prejudicado no acesso ao Ensino Superior por motivo",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/02/02fd77fecaa26ba3f8509e77f81a64e7?w=350&amp;q=50&amp;rect=0,45,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bidões para processar cocaína estavam em empresa de amigo do MAI",
+      "link": "https://www.rtp.pt/noticias/pais/bidoes-para-processar-cocaina-estavam-em-empresa-de-amigo-do-mai_v1754383",
+      "pubDate": "Sat, 18 Jul 2026 21:37:49 +0100",
+      "description": "O atrelado apreendido pela PJ que estava na propriedade da empresa do amigo do ministro da Administração Interna tinha químicos no interior.&lt;br /&gt;Químicos que estavam agora, segundo o jornal Público, armazenados nas instalações da empresa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c1/c1224f7d2ed7e4062f0cac13f39f5fd3_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Preço dos combustíveis vai subir bastante a partir de segunda-feira",
+      "link": "https://www.rtp.pt/noticias/economia/preco-dos-combustiveis-vai-subir-bastante-a-partir-de-segunda-feira_v1754382",
+      "pubDate": "Sat, 18 Jul 2026 21:35:47 +0100",
+      "description": "Mesmo contando com o desconto no imposto aplicado pelo governo, que afinal não será tão elevado como se pensava. O gasóleo deverá custar mais de 11 cêntimos por litro e a gasolina sobe 6 cêntimos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/3b/3bf1a6edb3338bf5b595ee46b0edc0c4_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio em Matosinhos obriga dezenas de moradores a sair de casa",
+      "link": "https://www.rtp.pt/noticias/pais/incendio-em-matosinhos-obriga-dezenas-de-moradores-a-sair-de-casa_v1754381",
+      "pubDate": "Sat, 18 Jul 2026 21:34:47 +0100",
+      "description": "Um incêndio deflagrou este sábado numa loja de artigos chineses em Matosinhos. Dezenas de moradores tiveram de deixar as casas. Essa mesma loja ardeu em 2017 e os moradores só voltaram às casas três anos depois.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/79/79ce691021d61cf8eaa216329076d053_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministério Público pede suspensão imediata da construção do hotel Hilton e apartamentos na linha de Cascais",
+      "link": "https://www.rtp.pt/noticias/economia/ministerio-publico-pede-suspensao-imediata-da-construcao-do-hotel-hilton-e-apartamentos-na-linha-de-cascais_v1754380",
+      "pubDate": "Sat, 18 Jul 2026 21:33:47 +0100",
+      "description": "É uma notícia RTP. O Ministério Público pede a suspensão imediata das obras de construção do novo hotel Hilton e 120 apartamentos na linha de Cascais e a demolição dos edifícios que estão quase concluídos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/25561065624c2a3537e86320235f2e54_N.jpg?"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Sat, 18 Jul 2026 20:52:00 +0100",
+      "description": "Clubes já estão a preparar a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Estoril trava Wolverhampton de César Peixoto em teste de pré-época",
+      "link": "https://maisfutebol.iol.pt/pre-epoca/estoril/estoril-trava-wolverhampton-de-cesar-peixoto-teste-de-pre-epoca",
+      "pubDate": "Sat, 18 Jul 2026 20:51:00 +0100",
+      "description": "Encontro à porta fechada terminou sem golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a5bd8e2d34e511da0b2e3af/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Shakhtar em negociações para disputar Liga dos Campeões em Londres",
+      "link": "https://maisfutebol.iol.pt/liga-dos-campeoes/internacional/shakhtar-em-negociacoes-para-disputar-liga-dos-campeoes-em-londres",
+      "pubDate": "Sat, 18 Jul 2026 20:45:21 +0100",
+      "description": "O clube, recorde-se, não pode receber competições europeias devido à invasão russa em território ucraniano e procura encontrar uma solução junto do Chelsea, Brentford e Fulham",
+      "thumbnail": "https://img.iol.pt/image/id/69d80d5dd34edcee7c62dc89/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Roménia: golo português derrota António Folha na estreia",
+      "link": "https://maisfutebol.iol.pt/internacional/romenia/romenia-golo-portugues-derrota-antonio-folha-na-estreia",
+      "pubDate": "Sat, 18 Jul 2026 20:39:00 +0100",
+      "description": "João Lameira marca na vitória do Otelul diante do CFR Cluj por 2-1",
+      "thumbnail": "https://img.iol.pt/image/id/69d13440d34edcee7c62a818/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Los mejores del mundo!",
+      "link": "https://maisfutebol.iol.pt/opiniao/livre-de-letra/los-mejores-del-mundo",
+      "pubDate": "Sat, 18 Jul 2026 20:38:00 +0100",
+      "description": "«Livre de Letra» - Era para ter sido uma «Finalíssima» em março; vai ser uma «Super Final» em julho. Espanha e Argentina, campeãs da Europa e da América do Sul (e do Mundo, no caso argentino, o que não é coisa pouca…) foram as seleções mais competentes deste Mundial. Só uma será a melhor do mundo.",
+      "thumbnail": "https://img.iol.pt/image/id/6a5bd600d34e511da0b2e3a8/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ventura avisa Montenegro que manter Luís Neves significa “cumplicidade criminosa” do Governo",
+      "link": "https://sapo.pt/artigo/ventura-avisa-montenegro-que-manter-luis-neves-significa-cumplicidade-criminosa-do-governo-6a5bceaad1e0d1e7a92d5375",
+      "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
+      "description": "“A permanência em funções do senhor ministro da Administração Interna afeta muito negativamente a imagem do Governo e arrastá-lo-á irremediavelmente para a cumplicidade criminosa, pressão sobre as instituições de investigação criminal e perda de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ar2O838D%2BtMwO1xIhALalUSZSuJYmg8wb10gIviqG7tykeD%2FrWujnu8ODDbIOUQWHPEgNs0%2BFtIU4Avrt1T9opAmHgVEMLEp6ZZ%2B4NTCWGh8U7I%2FzG%2BOu73B1Bd6gm%2BfV"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Autarca de Nova Iorque pondera deter Netanyahu na Assembleia-Geral da ONU",
+      "link": "https://sapo.pt/artigo/autarca-de-nova-iorque-pondera-deter-netanyahu-na-assembleia-geral-da-onu-6a5bd5d4052274a7065075ca",
+      "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
+      "description": "A Assembleia-Geral das Nações Unidas, o grande encontro anual dos líderes de todo o mundo, realiza-se em setembro na sede da ONU, em Nova Iorque.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ARZ1NGkHgDzxoBgaZv0agW7tmEiCtt06rkXDAt02BmTVXP%2Bojv48L7OP%2F3SdkYXFu0arq35an1%2FuB3XTh0%2BpK1NA3s%2FBa4l3nY2SMz4tnXl2SMW3kPGo3AmmCs%2FsV4ehM"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Espanha resgata 86 migrantes que chegaram às Baleares",
-      "link": "https://observador.pt/2026/07/18/tres-embarcacoes-com-86-migrantes-subsaarianos-intercetadas-nas-baleares-numa-so-noite-arquipelago-ja-recebeu-3-385-este-ano/",
-      "pubDate": "Sat, 18 Jul 2026 19:33:48 +0100",
+      "link": "https://sapo.pt/artigo/espanha-resgata-86-migrantes-que-chegaram-as-baleares-6a5bc882c3fc30cdb0dabef0",
+      "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
       "description": "Guarda Civil, bombeiros e Cruz Vermelha mobilizados em operações distintas ao largo de Formentera, Cabrera e Maiorca. Chegadas irregulares ao arquipélago subiram 24,5% em 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18170752/47428128.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "19h. Exames. Provedoria da Justiça pede ponto de situação",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2126/",
-      "pubDate": "Sat, 18 Jul 2026 19:15:33 +0100",
-      "description": "A Provedoria querer também saber quais as medidas pensadas para contornar os problemas na segunda fase das provas. Ainda, PCP culpa primeiro-ministro pelos problemas registados na correção dos exames.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Reservas de água nos 40% podem reduzir cortes em Almada",
-      "link": "https://observador.pt/2026/07/18/reservas-de-agua-em-almada-atingem-40-e-permitem-avaliar-reducao-dos-cortes-no-abastecimento/",
-      "pubDate": "Sat, 18 Jul 2026 19:11:05 +0100",
-      "description": "SMAS de Almada calculam a reserva média com base em sete reservatórios. Dois novos furos já reforçam a rede com mais 120 m³ de água por hora.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18182431/47443870.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ventura envia carta a Montenegro a pedir demissão de Neves",
-      "link": "https://observador.pt/2026/07/18/ventura-envia-carta-a-montenegro-a-pedir-demissao-de-neves-em-que-puxa-de-reuniao-com-seguro-e-lembra-exemplo-de-miguel-macedo/",
-      "pubDate": "Sat, 18 Jul 2026 18:21:18 +0100",
-      "description": "Líder do Chega diz que se Luís Neves não sair isso arrastará o Governo para uma \"cumplicidade criminosa\". Lembra que Miguel Macedo demitiu-se para defender cargo mesmo tendo sido depois absolvido.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03192731/47401406.jpg"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Dois militares norte-americanos mortos em ataque iraniano a base na Jordânia",
-      "link": "https://www.rtp.pt/noticias/mundo/dois-militares-norte-americanos-mortos-em-ataque-iraniano-a-base-na-jordania_n1754373",
-      "pubDate": "Sat, 18 Jul 2026 20:26:49 +0100",
-      "description": "Dois militares norte-americanos morreram e um terceiro está &quot;desaparecido em combate&quot; após ataques com mísseis iranianos contra alvos norte-americanos na Jordânia, segundo o Comando Central dos Estados Unidos (CENTCOM).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Líder supremo ameaça infligir aos EUA \"lições inesquecíveis\"",
-      "link": "https://www.rtp.pt/noticias/mundo/lider-supremo-ameaca-infligir-aos-eua-licoes-inesqueciveis_n1754366",
-      "pubDate": "Sat, 18 Jul 2026 20:22:54 +0100",
-      "description": "O líder supremo iraniano, Mojtaba Khamenei, ameaçou hoje infligir aos EUA &quot;lições inesquecíveis&quot; após a retomada de ataques contra o Irão, os quais, na sua visão, provam que a assinatura de Trump &quot;não tem valor&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/23/232faaba29d33837f4f8d613d038e714?w=350&amp;q=50&amp;rect=0,21,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h CONFAP tem reunião ainda hoje com o ME",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-confap-tem-reuniao-ainda-hoje-com-o-me_a1_1754370",
-      "pubDate": "Sat, 18 Jul 2026 20:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "André Ventura escreveu carta Montenegro a pedir a demissão do MAI",
-      "link": "https://www.rtp.pt/noticias/politica/andre-ventura-escreveu-carta-montenegro-a-pedir-a-demissao-do-mai_n1754368",
-      "pubDate": "Sat, 18 Jul 2026 20:08:51 +0100",
-      "description": "O líder do Chega diz que as notícias que envolvem o ministro da Administração Interna Luís Neves comprometem gravemente a confiança dos portugueses nas instituições e denotam uma cultura de gangsterismo que não é compatível com o exercício do poder democrático.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/33/3335d18485b3294e54e55cfe32d05fa6?w=350&amp;q=50&amp;rect=0,18,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Provedora de Justiça pede ao ministério ponto de situação sobre as notas",
-      "link": "https://www.rtp.pt/noticias/pais/provedora-de-justica-pede-ao-ministerio-ponto-de-situacao-sobre-as-notas_n1754363",
-      "pubDate": "Sat, 18 Jul 2026 19:38:19 +0100",
-      "description": "A Provedoria de Justiça pediu ao Ministério da Educação um &quot;ponto de situação&quot; sobre a publicação das notas dos exames nacionais e as &quot;medidas pensadas&quot; para a segunda fase, que arranca na segunda-feira, foi hoje anunciado.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial: tempestade obriga Espanha e Argentina a alterarem planos de treino",
-      "link": "https://maisfutebol.iol.pt/mundial2026/mundial-2026/mundial-tempestade-obriga-espanha-e-argentina-a-alterarem-planos-de-treino",
-      "pubDate": "Sat, 18 Jul 2026 19:39:00 +0100",
-      "description": "Comitiva espanhola suspendeu os trabalhos previstos no relvado e abrigou-se num complexo coberto",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bab1bd34e511da0b2e338/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vítor Magalhães reconduzido na presidência do Moreirense até 2028",
-      "link": "https://maisfutebol.iol.pt/moreirense/liga/vitor-magalhaes-reconduzido-na-presidencia-do-moreirense-ate-2028",
-      "pubDate": "Sat, 18 Jul 2026 19:33:24 +0100",
-      "description": "Sócios aprovaram por unanimidade a continuidade dos atuais órgãos sociais em assembleia-geral extraordinária",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bc678d34ef04b4f3f7701/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO e FOTOS: a despedida do FC Porto do estágio em Inglaterra",
-      "link": "https://maisfutebol.iol.pt/fc-porto/estagio-fc-porto/video-e-fotos-a-despedida-do-fc-porto-do-estagio-em-inglaterra",
-      "pubDate": "Sat, 18 Jul 2026 19:32:00 +0100",
-      "description": "Dragões estiveram quase uma semana no St. George’s Park",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bc4ddd34ef04b4f3f76f7/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mbappé despede-se de Deschamps: «Devias ter um final melhor, mas falhámos»",
-      "link": "https://maisfutebol.iol.pt/internacional/mundial-2026/mbappe-despede-se-de-deschamps-devias-ter-um-final-melhor-mas-falhamos",
-      "pubDate": "Sat, 18 Jul 2026 19:26:39 +0100",
-      "description": "Capitão da Seleção francesa diz que o selecionador foi «fundamental no renascimento da equipa»",
-      "thumbnail": "https://img.iol.pt/image/id/6a443d0dd34e28842c85c69f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting B empata com o Farense em jogo de pré-época",
-      "link": "https://maisfutebol.iol.pt/pre-epoca/sporting-b/sporting-b-empata-com-o-farense-em-jogo-de-pre-epoca",
-      "pubDate": "Sat, 18 Jul 2026 19:23:00 +0100",
-      "description": "Empate a uma bola encerrou estágio no Algarve",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bc189d34e511da0b2e371/250"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A43isls%2FjwmtReCVUc1St3kS24e91TEkGqnEkrH2JzLeR7eAn%2F9DxybXcmkCCO3bRtFOWYLz62Tlt64yox6PK7szmeZGcXptMZz1iWEJ0hsEzK6EaGv1WcElFrIWcbhMi"
     },
     {
       "sourceId": "sapo",
@@ -165,91 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Provedora de Justiça pede ao Governo ponto de situação sobre as notas dos exames nacionais",
-      "link": "https://sapo.pt/artigo/provedora-de-justica-pede-ao-governo-ponto-de-situacao-sobre-as-notas-dos-exames-nacionais-6a5bbb9bc3fc30cdb0d90eb8",
-      "pubDate": "Sat, 18 Jul 2026 18:51:31 +0000",
-      "description": "Em comunicado, a Provedoria de Justiça salientou que as \"circunstâncias e o contexto\" que envolvem a realização das provas “têm sido objeto de várias queixas”, em particular por parte das famílias dos alunos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AccdK7Q6LidqCgcU%2F95oxEgcWQsKT0ewiuu7xHMPuGeS5nx78D7eCB4U7vUgdyVof8BGELevIlvG8eEZu7ESPPEsVXUx1NurzNciYbWRo9is4hAsAD6PQxhQVzSfTUWdW"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Reservas de água em Almada atingem 40% e permitem avaliar redução dos cortes",
-      "link": "https://jornaleconomico.sapo.pt/noticias/reservas-de-agua-em-almada-atingem-40-e-permitem-avaliar-reducao-dos-cortes/",
-      "pubDate": "Sat, 18 Jul 2026 18:51:31 +0000",
-      "description": "Os Serviços Municipalizados de Água e Saneamento anunciaram também que prosseguem a operação de apoio às instituições prioritárias, através da distribuição de reservatórios de água.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A80jkUHe08Eh5Cmz6g1S917DyDPWCISqMdNDd3%2FQ9PgFfr2vxzibLBR93lGiNKGifzv%2FtAoDz1TzxqmOezB0v2h89lKAqgFdP4yw98ukPMyccCKlYMN6%2BNsy42%2FM6AZIr"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "PCP culpa Montenegro e critica falta de coragem do ministro da Educação \"na bronca\" dos exames nacionais",
-      "link": "https://sapo.pt/artigo/pcp-culpa-montenegro-e-critica-falta-de-coragem-do-ministro-da-educacao-na-bronca-dos-exames-nacionais-6a5bb4a44f27158af56ba147",
-      "pubDate": "Sat, 18 Jul 2026 17:30:19 +0000",
-      "description": "Paulo Raimundo disse que o ministro da Educação, Fernando Alexandre, na sexta-feira, na Assembleia da República, num debate promovido pelo PCP, \"conseguiu estar 40 minutos sem dizer nada e, quando abriu a boca, nada disse\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AW%2BvgWcw9m26I37dEW0pcAtSXD5kKfwSbmd2BGUuZzHINmGrEMn7YUwQQICFp4PgckgY%2FhkaAJwp%2FVv6ZjygMJf1J83fd9bAGbg8KJpY0d5gjLdxdEc0Hmv3R6YJ8Vk68"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ventura envia carta ao primeiro-ministro sobre o MAI",
-      "link": "https://sapo.pt/artigo/ventura-envia-carta-ao-primeiro-ministro-sobre-o-mai-6a5bb6dd4f27158af56bd516",
-      "pubDate": "Sat, 18 Jul 2026 17:30:19 +0000",
-      "description": "André Ventura começa por lembrar os vários entendimentos entre PSD e Chega nos últimos meses, para depois dizer que \"a situação do Ministro da Administração Interna provoca necessariamente uma alteração dessa equação\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AHRRPVY%2BQOcTP1t5s05q5A7aezLxWamCqr7mfp%2BQlqS2EqE%2B0lUrMyD9dSnRN6UTy4Gf4l8C1kRnJDout5v6NdYdtdvej4Dzv3aDshBpVRJyT3RuvNZKGw%2F2675T0%2FRjk"
+      "title": "Presidente da Hungria deixa o cargo após alteração constitucional",
+      "link": "https://sapo.pt/artigo/presidente-da-hungria-deixa-o-cargo-apos-alteracao-constitucional-6a5bccdb052274a7064f85dd",
+      "pubDate": "Sat, 18 Jul 2026 19:38:07 +0000",
+      "description": "O presidente da Hungria, Tamás Sulyok, aceitou deixar o cargo, ao promulgar uma alteração à Constituição que põe termo ao seu mandato à meia-noite de domingo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A1zMG6LU4ZwlqDwjnQlfK4MtZnedUfNHxBxUkU1jM5upT8uPr2D2PmHqhkZqfY%2Bu4uQg4h1gTICcTrJ2vzoaFytSzfqitVXbDFi3ldvlUSZJAyXBb62Uwe5FhwK57KZm%2B"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sousa Real: Oposições internas têm de respeitar \"quem o coletivo elege\"",
-      "link": "https://www.noticiasaominuto.com/politica/3023694/sousa-real-oposicoes-internas-tem-de-respeitar-quem-o-coletivo-elege#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 19:53:31",
+      "title": "EM DIRETO: Já há onzes para o duelo entre França e Inglaterra",
+      "link": "https://www.noticiasaominuto.com/desporto/3023664/em-direto-franca-e-inglaterra-medem-forcas-pela-medalha-de-bronze#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 20:53:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65f22bf811e8b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6NDIsImNyb3BZIjozMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6OTE3LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5baa843d73b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOCwiY3JvcEhlaWdodCI6MTY1MCwiY3JvcFgiOjEyNjAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois militares norte-americanos mortos em ataque iraniano a base na Jordânia",
-      "link": "https://www.noticiasaominuto.com/mundo/3023692/dois-militares-norte-americanos-mortos-em-ataque-iraniano-a-base-na-jordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 19:46:34",
+      "title": "Exames: Ministério \"lamenta atrasos\" e pede desculpas por \"transtornos\"",
+      "link": "https://www.noticiasaominuto.com/pais/3023705/exames-ministerio-lamenta-atrasos-e-pede-desculpas-por-transtornos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 20:40:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_695e69802d264.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a500741bdacb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Líder supremo do Irão ameaça infligir aos EUA \"lições inesquecíveis\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3023691/lider-supremo-do-irao-ameaca-infligir-aos-eua-licoes-inesqueciveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 19:45:00",
+      "title": "Durán chega a Lisboa para reforçar o Benfica: \"Maior equipa em Portugal\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3023704/duran-ja-esta-em-lisboa-para-reforcar-o-benfica-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 20:32:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47453334.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjkxOCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59f220b7fa4.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE0NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trincão já fala para os adeptos do Al Ahli após deixar o Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3023695/trincao-ja-fala-para-os-adeptos-do-al-ahli-apos-deixar-o-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 19:44:04",
+      "title": "Caso de 93 animais mortos em fogo de Santo Tirso pode mudar \"paradigma\"",
+      "link": "https://www.noticiasaominuto.com/politica/3023703/caso-de-93-animais-mortos-em-fogo-de-santo-tirso-pode-mudar-paradigma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 20:29:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5bc8f505cf6.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e773690.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sócios do Moreirense reconduzem Vítor Magalhães como presidente do clube",
-      "link": "https://www.noticiasaominuto.com/desporto/3023688/socios-do-moreirense-reconduzem-vitor-magalhaes-como-presidente-do-clube#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-18 19:28:38",
+      "title": "Autarca de Nova Iorque pondera deter Netanyahu na Assembleia-Geral da ONU",
+      "link": "https://www.noticiasaominuto.com/mundo/3023701/autarca-de-nova-iorque-pondera-deter-netanyahu-na-assembleia-geral-da-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-18 20:20:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69be9ff3e191d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6958bab2f367a.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Combustíveis: há descontos a partir de segunda-feira! Saiba quanto",
+      "link": "https://pplware.sapo.pt/motores/combustiveis-ha-descontos-a-partir-de-segunda-feira-saiba-quanto/",
+      "pubDate": "Sat, 18 Jul 2026 19:06:34 +0000",
+      "description": "O Governo anunciou um novo reforço do desconto aplicado aos combustíveis através da redução do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP), numa tentativa de atenuar o impacto da subida dos preços prevista&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/04/agua_no_gasoleo_00.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/05/tim_cook_zangado00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Um novo radar deteta os aviões furtivos que se julgavam invisíveis e muda as regras do jogo",
-      "link": "https://pplware.sapo.pt/informacao/um-novo-radar-deteta-os-avioes-furtivos-que-se-julgavam-invisiveis-e-muda-as-regras-do-jogo/",
-      "pubDate": "Sat, 18 Jul 2026 15:00:22 +0000",
-      "description": "A tecnologia furtiva revolucionou a aviação militar, tornando alguns dos caças e bombardeiros mais avançados do mundo extremamente difíceis de detetar. No entanto, essa vantagem poderá estar prestes a ser posta em causa. A&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tecnologia_furtiva00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rali da Estónia: Sami Pajari a caminho do seu primeiro triunfo no WRC",
+      "link": "https://www.autosport.pt/ralis/rali-da-estonia-sami-pajari-a-caminho-do-seu-primeiro-triunfo-no-wrc/",
+      "pubDate": "Sat, 18 Jul 2026 18:41:03 +0000",
+      "description": "Sami Pajari (Toyota GR Yaris Rally1) chega à véspera da última etapa do Rali da Estónia em clara posição de controlo, com 25,0 segundos de vantagem sobre Oliver Solberg (Toyota GR Yaris Rally1) e a primeira vitória no Mundial de Ralis muito perto de ficar selada. Thierry Neuville (Hyundai i20 N Rall",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-lewis-hamilton-o-carro-nao-era-identico/",
       "pubDate": "Sat, 18 Jul 2026 16:25:44 +0000",
       "description": "Lewis Hamilton conseguiu participar na Qualificação, após um acidente no TL3 que obrigou a reconstruir boa parte da traseira do seu monolugar. Inevitavelmente, o carro não foi com a afinação igual ao que tinha no treino e as diferenças acabaram por se sentir. Hamilton enalteceu o trabalho dos mecâni",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP da Bélgica F1, George Russell: “Mudei o estilo de pilotagem, mas não resultou”",
-      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-george-russell-mudei-o-estilo-de-pilotagem-mas-nao-resultou/",
-      "pubDate": "Sat, 18 Jul 2026 16:20:40 +0000",
-      "description": "George Russell continua perdido, sem referências para entender o que se passa e onde estão as diferenças para o colega, Kimi Antonelli. O piloto britânico da Mercedes, foi questionado sobre uma potencial diferença de estilos de pilotagem, mas explicou que o problema é diferente. Russell tem tentado ",
       "thumbnail": ""
     }
   ]
