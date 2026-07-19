@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-19T19:01:38.320584+00:00",
+  "updated": "2026-07-19T20:22:21.137943+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Altas figuras de Estado e muitos famosos: as fotos da final",
+      "link": "https://observador.pt/2026/07/19/altas-figuras-de-estado-desfile-de-celebridades-e-um-embate-equilibrado-no-relvado-as-fotografias-da-final-do-campeonato-do-mundo-2026/",
+      "pubDate": "Sun, 19 Jul 2026 21:14:39 +0100",
+      "description": "A final do Mundial-2026 contou inúmeras figuras públicas nas bancadas do MetLife Stadium, como as figuras de Estado dos EUA e Espanha, jogadores de futebol e atletas dos desportos norte-americanos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:227/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19203714/gettyimages-2286166244-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogo a norte de Madrid já consumiu 16 mil hectares",
+      "link": "https://observador.pt/2026/07/19/fogo-fora-de-controlo-a-norte-de-madrid-ja-consumiu-16-mil-hectares/",
+      "pubDate": "Sun, 19 Jul 2026 20:34:08 +0100",
+      "description": "O combate ao fogo envolvia a meio da tarde 255 bombeiros, apoiados por 122 veículos e 11 meios aéreos, incluindo cinco aviões Canadair, quatro helicópteros de combate a incêndios e dois aviões DASH.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19201826/47485964.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Diz que foi uma cerimónia de encerramento (em duas partes)",
+      "link": "https://observador.pt/2026/07/19/um-historico-speed-o-trio-do-desire-e-tom-cruise-a-falar-num-pulpito-diz-que-foi-uma-cerimonia-de-encerramento-em-duas-partes/",
+      "pubDate": "Sun, 19 Jul 2026 20:24:21 +0100",
+      "description": "Cerimónia teve uma parte inicial 80 minutos antes e um segundo bloco a 15 minutos do arranque. E quando Tom Cruise se limita a fazer um discurso no relvado, ser especial era uma Missão Impossível...",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:844:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19190847/speed-cerimonia-de-encerramento-mundial.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19193643/47459087.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 19h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2127/",
-      "pubDate": "Sun, 19 Jul 2026 19:16:47 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Urnas fecham em São Tomé e Príncipe. Fraca mobilização e dois boicotes nas presidenciais",
+      "link": "https://www.rtp.pt/noticias/mundo/urnas-fecham-em-sao-tome-e-principe-fraca-mobilizacao-e-dois-boicotes-nas-presidenciais_n1754491",
+      "pubDate": "Sun, 19 Jul 2026 21:36:59 +0100",
+      "description": "As urnas nas mais de 350 assembleias de voto encerraram às 18h00 (19h00 em Lisboa) nas eleições presidenciais são-tomenses deste domingo que ficaram marcadas pela reduzida mobilização do eleitorado e por dois boicotes eleitorais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f60fefd499340e245fc19fd0e8eddcd?w=350&amp;q=50&amp;rect=0,13,849,465&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Temperaturas voltam a subir. Pico do verão ainda não passou?",
-      "link": "https://observador.pt/especiais/esta-semana-as-temperaturas-sobem-novamente-entao-porque-e-que-alguns-modelos-dizem-que-o-pico-do-verao-ja-passou/",
-      "pubDate": "Sun, 19 Jul 2026 19:02:07 +0100",
-      "description": "Atualmente, os modelos são precisos a três ou quatro dias. Mas quando se fala de previsões alargadas ou sazonais, já são apenas probabilidades. Para onde apontam agora?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2252:1266:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17181505/captura-de-ecra-2026-07-17-as-181350.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Luca Pairetto e Mehmet Turkmen arbitram Benfica e Sporting de Braga na Europa",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/luca-pairetto-e-mehmet-turkmen-arbitram-benfica-e-sporting-de-braga-na-europa_d1754495",
+      "pubDate": "Sun, 19 Jul 2026 21:30:52 +0100",
+      "description": "O italiano Luca Pairetto foi nomeado para o St. Gallen-Benfica, enquanto o turco Mehmet Turkmen dirigirá o Pancevo-Sporting de Braga, jogos da primeira mão das segundas pré-eliminatórias europeias de futebol, divulgou a UEFA.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/29/29c93d6f2b35350e4a97101ef2b3b086?w=350&amp;q=50&amp;rect=0,45,1233,676&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Concentração motard de Faro com 17 mil com balanço positivo",
-      "link": "https://observador.pt/2026/07/19/concentracao-de-motos-de-faro-com-17-mil-pessoas-encerra-com-balanco-positivo/",
-      "pubDate": "Sun, 19 Jul 2026 18:41:10 +0100",
-      "description": "A 44.ª Concentração Internacional de Motos de Faro, que começou na quinta-feira, no Vale das Almas, em Faro, chegou ao fim com o tradicional desfile de motos, na manhã deste domingo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17133013/43250549.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "SMAS identificaram \"diversos pontos com perdas significativas\" de água em Almada",
+      "link": "https://www.rtp.pt/noticias/pais/smas-identificaram-diversos-pontos-com-perdas-significativas-de-agua-em-almada_n1754485",
+      "pubDate": "Sun, 19 Jul 2026 21:29:22 +0100",
+      "description": "Os Serviços Municipalizados de Água e Saneamento (SMAS) de Almada reforçaram as ações de fiscalização para garantir uma &quot;utilização responsável&quot; de água e identificaram, nos últimos dias, &quot;diversos pontos com perdas significativas&quot;, foi hoje divulgado.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "São Tomé e Príncipe. Comissão eleitoral revela que foi travado ataque a base de dados eleitorais",
+      "link": "https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-comissao-eleitoral-revela-que-foi-travado-ataque-a-base-de-dados-eleitorais_n1754484",
+      "pubDate": "Sun, 19 Jul 2026 21:04:13 +0100",
+      "description": "O presidente da Comissão Eleitoral Nacional (CEN) de São Tomé e Príncipe revelou que foi travado um ataque informático que visou a base de dados eleitorais e deu garantias de segurança para as eleições presidenciais de hoje.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1e477056866305705e4f62e65d300aeb?w=350&amp;q=50&amp;rect=0,44,884,485&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jordânia e Kuwait denunciam novos ataques iranianos",
-      "link": "https://www.rtp.pt/noticias/mundo/jordania-e-kuwait-denunciam-novos-ataques-iranianos_n1754489",
-      "pubDate": "Sun, 19 Jul 2026 19:51:42 +0100",
-      "description": "Ao início da tarde deste domingo as sirenes soaram na capital da Jordânia, com a troca de ataques entre Estados Unidos e Irão. Pouco depois as autoridades de Amã indicaram ter intercetado mísseis iranianos. Também o Kuwait denunciou um ataque de Teerão contra uma central de produção de água e eletri",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b3c35f85e68b558ca8f389adb44ab9d?w=350&amp;q=50&amp;rect=0,18,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rio Ave empata diante do Al Ahli em teste de pré-temporada",
+      "link": "https://maisfutebol.iol.pt/rio-ave/liga/rio-ave-empata-diante-do-al-ahli-em-teste-de-pre-temporada",
+      "pubDate": "Sun, 19 Jul 2026 21:14:00 +0100",
+      "description": "Lomboto e Nto assinaram os golos da formação vilacondense, enquanto Matheus Gonçalves e Firas Al-Buraikan marcaram para a formação saudita. Francisco Trincão não foi utilizado",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d2e82d34e511da0b2e66c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h Escolas recebem hoje as classificações dos exames do 9º",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-escolas-recebem-hoje-as-classificacoes-dos-exames-do-9o_a1_1754488",
-      "pubDate": "Sun, 19 Jul 2026 19:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
-      "pubDate": "Sun, 19 Jul 2026 19:17:27 +0100",
-      "description": "Os tenistas portugueses Nuno Borges, Henrique Rocha e Tiago Pereira ficaram hoje a conhecer os primeiros adversários da ronda inaugural da 11.ª edição do Estoril Open, a decorrer até domingo no Clube de Ténis do Estoril.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/62bce7d9fe557f0336c6e61499d1ed4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h EduQA confirma classificações alteradas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-eduqa-confirma-classificacoes-alteradas_a1_1754483",
-      "pubDate": "Sun, 19 Jul 2026 18:53:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "E. Amadora: Al Nassr visita a Reboleira e entrada é gratuita",
+      "link": "https://maisfutebol.iol.pt/pre-epoca/e-amadora/e-amadora-al-nassr-visita-a-reboleira-e-entrada-e-gratuita",
+      "pubDate": "Sun, 19 Jul 2026 20:32:48 +0100",
+      "description": "A 1 de agosto no Troféu Cidade da Amadora",
+      "thumbnail": "https://img.iol.pt/image/id/6910aed6d34e3caad84b1422/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 19 Jul 2026 18:57:38 +0100",
       "description": "Nuno Borges, Henrique Rocha e Tiago Pereira são três dos seis portugueses em competição",
       "thumbnail": "https://img.iol.pt/image/id/69708fa2d34e0ec52ec27e83/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mundial 2026: Espanha mantém onze, Argentina muda três peças na final",
-      "link": "https://maisfutebol.iol.pt/mundial2026/mundial-2026/mundial-2026-espanha-mantem-onze-argentina-muda-tres-pecas-na-final",
-      "pubDate": "Sun, 19 Jul 2026 18:49:00 +0100",
-      "description": "Luis de la Fuente foi mais conservador do que Lionel Scaloni",
-      "thumbnail": "https://img.iol.pt/image/id/6a5d0465d34ef04b4f3f7974/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Volta a França: Vingegaard fraturou a clavícula e terá de ser operado",
-      "link": "https://maisfutebol.iol.pt/volta-a-franca/ciclismo/volta-a-franca-vingegaard-fraturou-a-clavicula-e-tera-de-ser-operado",
-      "pubDate": "Sun, 19 Jul 2026 18:44:00 +0100",
-      "description": "Ciclista dinamarquês caiu a 25 quilómetros do final da 15.ª etapa e abandonou o Tour",
-      "thumbnail": "https://img.iol.pt/image/id/6a5d0b3dd34e511da0b2e620/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Praças de cidades espanholas voltam a encher-se 16 anos depois",
-      "link": "https://www.noticiasaominuto.com/desporto/3023937/pracas-de-cidades-espanholas-voltam-a-encher-se-16-anos-depois#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 19:58:54",
+      "title": "Ucrânia: Cinco mortes em ataque russo contra navio mercante turco",
+      "link": "https://www.noticiasaominuto.com/mundo/3023954/ucrania-cinco-mortes-em-ataque-russo-contra-navio-mercante-turco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:18:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d1e542e66f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62ef70cf2c477.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6NTh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Viticultores do Douro marcam concentração para 7 de agosto na Régua",
-      "link": "https://www.noticiasaominuto.com/economia/3023942/viticultores-do-douro-marcam-concentracao-para-7-de-agosto-na-regua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 19:56:33",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3023773/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 20:47:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f103530e10ae.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5c676619596.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjc5NX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ministros israelitas em marcha para exigir repovoação judaica em Gaza",
-      "link": "https://www.noticiasaominuto.com/mundo/3023941/ministros-israelitas-em-marcha-para-exigir-repovoacao-judaica-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 19:52:00",
+      "title": "Fatawu perto de voltar à Premier League... e Sporting 'esfrega as mãos'",
+      "link": "https://www.noticiasaominuto.com/desporto/3023949/fatawu-perto-de-voltar-a-premier-league-e-sporting-esfrega-as-maos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 20:45:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69321b5368e8c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66c4c1209ca7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ5fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Intercetados 50 imigrantes chegados às Baleares em embarcações precárias",
-      "link": "https://www.noticiasaominuto.com/mundo/3023940/intercetados-50-imigrantes-chegados-as-baleares-em-embarcacoes-precarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 19:45:27",
+      "title": "Espanha ou Argentina? Trump é questionado... e elogia \"incrível Ronaldo\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3023950/espanha-ou-argentina-trump-e-questionado-e-elogia-incrivel-ronaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 20:44:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47459087.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d27c57c6f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU1LCJjcm9wSGVpZ2h0IjoxMzgxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjY4OCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exames? Livre diz que ministro deve \"assumir as suas responsabilidades\"",
-      "link": "https://www.noticiasaominuto.com/politica/3023936/exames-livre-diz-que-ministro-deve-assumir-as-suas-responsabilidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 19:28:27",
+      "title": "Fogo fora de controlo a norte de Madrid já consumiu 16 mil hectares",
+      "link": "https://www.noticiasaominuto.com/mundo/3023947/fogo-fora-de-controlo-a-norte-de-madrid-ja-consumiu-16-mil-hectares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 20:41:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_697a70c3765c5.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyMjAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47485964.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Lancheira Befit da Prozis: a solução prática para levar as refeições",
+      "link": "https://pplware.sapo.pt/internet/lancheira-befit-da-prozis-a-solucao-pratica-para-levar-as-refeicoes/",
+      "pubDate": "Sun, 19 Jul 2026 19:30:43 +0000",
+      "description": "Preparar as refeições em casa e levá-las para o trabalho, para a universidade ou até para uma viagem tornou-se um hábito para muitas pessoas. Além de ajudar a poupar dinheiro, permite também manter uma&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/lancheira_x00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 19 Jul 2026 16:00:19 +0000",
       "description": "Os piscas são, no âmbito da segurança, um dos elementos mais importantes de segurança de um automóvel. Além de serem obrigatórios, permitem indicar aos outros condutores quando vai mudar de direção, mudar de faixa&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/1-25-1024x576-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cuidado! Falha muito grave no Zoom do Windows 11 abre caminho aos hackers",
-      "link": "https://pplware.sapo.pt/internet/seguranca/cuidado-falha-muito-grave-no-zoom-do-windows-11-abre-caminho-aos-hackers/",
-      "pubDate": "Sun, 19 Jul 2026 15:00:12 +0000",
-      "description": "Os utilizadores do Zoom no Windows devem verificar urgentemente se têm a versão mais recente instalada. A empresa lançou uma atualização de segurança de emergência para corrigir uma vulnerabilidade crítica. Segundo a mesma, poderia&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/zoom_seguranca_1.jpg"
     },
     {
       "sourceId": "autosport",
