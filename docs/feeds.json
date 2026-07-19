@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-19T00:58:48.640114+00:00",
+  "updated": "2026-07-19T04:25:45.022596+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "5h. Exames. Pautas completas afixadas este domingo",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1550/",
+      "pubDate": "Sun, 19 Jul 2026 05:13:27 +0100",
+      "description": "Garantia do Júri Nacional de Exames e do EduQA. 1.400 provas ficaram com a nota em falta. Ainda neste jornal, Estados Unidos dão como concluída a oitava noite consecutiva de ataques contra o Irão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Exames. Governo diz que nenhum aluno será prejudicado",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2348/",
+      "pubDate": "Sun, 19 Jul 2026 04:13:45 +0100",
+      "description": "Ministério da Educação lamenta os atrasos e pede desculpa aos alunos, famílias, professores e escolas. Ainda neste jornal, Comissão de Trabalhadores do INEM denuncia falhas informáticas nos CODU.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Trabalhadores do INEM denunciam falhas nos CODU",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2381/",
+      "pubDate": "Sun, 19 Jul 2026 03:12:24 +0100",
+      "description": "Há relatos de problemas que afetam a escolha de ambulâncias, a localização das ocorrências e os hospitais de destino. Ainda, são afixadas este domingo as pautas completas dos exames nacionais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. EUA atacam Irão para vingar soldados mortos na Jordânia",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2354/",
+      "pubDate": "Sun, 19 Jul 2026 02:13:06 +0100",
+      "description": "Além dos dois militares norte-americanos mortos, há ainda um que continua desaparecido. Ainda neste jornal, André Ventura envia carta a Luís Montenegro a pedir demissão do MAI.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Deschamps e a saída digna após primeira parte \"catastrófica\"",
-      "link": "https://observador.pt/2026/07/19/a-despedida-de-didier-deschamps-da-primeira-parte-catastrofica-ao-final-digno-entre-o-recorde-de-mbappe/",
-      "pubDate": "Sun, 19 Jul 2026 01:17:47 +0100",
-      "description": "Despedida de Deschamps quase ganhou contornos de pesadelo, depois de um arranque em falso. Ao intervalo, a França perdia por 4-0, altura em que  substituiu quatro jogadores – um por cada golo sofrido.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19003611/gettyimages-2286141572-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "04h Eleições presidenciais em São Tomé e Príncipe marcadas para este domingo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/04h-eleicoes-presidenciais-em-sao-tome-e-principe-marcadas-para-este-domingo_a1_1754414",
+      "pubDate": "Sun, 19 Jul 2026 05:41:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "49€. Stellantis aluga um EV pelo valor que paga de telemóvel",
-      "link": "https://observador.pt/2026/07/19/49e-stellantis-aluga-lhe-um-electrico-pelo-mesmo-valor-que-paga-de-telemovel/",
-      "pubDate": "Sun, 19 Jul 2026 01:00:31 +0100",
-      "description": "A Leapmotor, a marca chinesa que é a mais recente da Stellantis, é também a que dá mostras de maior agressividade comercial. Na Alemanha aluga um T03 pelo mesmo valor de uma mensalidade de telemóvel.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1780:1004:nowe:140:333/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19005000/t03-externals-2048x1365-1.webp"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "03h Chega envia carta ao PM a pedir a demissão de Luís Neves",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/03h-chega-envia-carta-ao-pm-a-pedir-a-demissao-de-luis-neves_a1_1754412",
+      "pubDate": "Sun, 19 Jul 2026 05:39:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Exames. As notas em suspenso e as garantias do Ministério",
-      "link": "https://observador.pt/especiais/as-1-400-notas-em-suspenso-as-desculpas-e-as-garantias-como-o-ministerio-da-educacao-esta-a-resolver-o-caos-nos-exames/",
-      "pubDate": "Sun, 19 Jul 2026 00:43:06 +0100",
-      "description": "1.400 provas ficaram em suspenso. Os resultados chegam este domingo, as inscrições na 2.ª fase fecham segunda-feira. O que acontece a estes alunos?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3838:2161:nowe:212:371/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17111026/dventura-debate-urgencia-exames-24-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Luís Neves: dissolução de um ministro",
-      "link": "https://observador.pt/opiniao/luis-neves-dissolucao-de-um-ministro/",
-      "pubDate": "Sun, 19 Jul 2026 00:25:38 +0100",
-      "description": "A casinha, mais as pequenas obras, transformavam Luís Neves em um de nós. O atrelado e o bidões fizeram dele uma pessoa com a qual não queremos ter nada a ver.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "02h Governo pede desculpas pelos atrasos na correção dos exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/02h-governo-pede-desculpas-pelos-atrasos-na-correcao-dos-exames_a1_1754410",
+      "pubDate": "Sun, 19 Jul 2026 03:46:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -68,36 +98,6 @@
       "title": "00h Notas todas validadas podem ser afixadas este domingo",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-notas-todas-validadas-podem-ser-afixadas-este-domingo_a1_1754404",
       "pubDate": "Sun, 19 Jul 2026 01:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Notas todas validadas podem ser afixadas este domingo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-notas-todas-validadas-podem-ser-afixadas-este-domingo_a1_1754403",
-      "pubDate": "Sun, 19 Jul 2026 01:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sporting de Braga consente empate ao cair do pano frente ao Celta de Vigo",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-consente-empate-ao-cair-do-pano-frente-ao-celta-de-vigo_d1754400",
-      "pubDate": "Sun, 19 Jul 2026 00:55:34 +0100",
-      "description": "O Sporting de Braga empatou sábado 2-2 com o Celta de Vigo, no jogo de apresentação arsenalista para a época futebolística 2026/27, com o conjunto português a ceder a igualdade nos últimos instantes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc01244c31c417caa54076e4d2c8daad?w=350&amp;q=50&amp;rect=0,52,1233,676&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Pais e alunos à espera das notas suspensas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-pais-e-alunos-a-espera-das-notas-suspensas_a1_1754398",
-      "pubDate": "Sun, 19 Jul 2026 00:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
