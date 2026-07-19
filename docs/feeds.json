@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-19T16:54:01.187955+00:00",
+  "updated": "2026-07-19T17:55:29.163900+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Concentração motard de Faro com 17 mil com balanço positivo",
+      "link": "https://observador.pt/2026/07/19/concentracao-de-motos-de-faro-com-17-mil-pessoas-encerra-com-balanco-positivo/",
+      "pubDate": "Sun, 19 Jul 2026 18:41:10 +0100",
+      "description": "A 44.ª Concentração Internacional de Motos de Faro, que começou na quinta-feira, no Vale das Almas, em Faro, chegou ao fim com o tradicional desfile de motos, na manhã deste domingo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17133013/43250549.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
+      "link": "https://observador.pt/2026/07/19/estoril-open-borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno/",
+      "pubDate": "Sun, 19 Jul 2026 18:39:05 +0100",
+      "description": "Dos 6 jogadores portugueses em competição, apenas Tiago Torres, Frederico Silva e Henrique Rocha disputam na segunda-feira, a partir das 12:00, a 1ª ronda no pó de tijolo do Clube de Ténis do Estoril.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02154631/47386468.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "SMAS de Almadas identificaram \"diversos pontos com perdas\"",
+      "link": "https://observador.pt/2026/07/19/almada-smas-identificaram-diversos-pontos-com-perdas-significativas-de-agua/",
+      "pubDate": "Sun, 19 Jul 2026 18:26:48 +0100",
+      "description": "As intervenções implicaram \"trabalhos de escavação e drenagem, restabelecendo as condições de funcionamento da infraestrutura e eliminando situações de desperdício\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:197/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/09202438/jporfirio-falta-de-agua-almada-09-07-2026-02-33-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "18h. Notas dos exames do 9º ano vão ser afixadas amanhã",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2099/",
+      "pubDate": "Sun, 19 Jul 2026 18:12:59 +0100",
+      "description": "Informação do Júri Nacional de Exames, que indica que as notas da provas vão ser enviadas às escolas ao fim do dia de hoje. Ainda, líder do PS pede prolongação do prazo de acesso ao ensino superior.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,44 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 17h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2245/",
-      "pubDate": "Sun, 19 Jul 2026 17:16:17 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Jordânia e Kuwait denunciam novos ataques iranianos",
+      "link": "https://www.rtp.pt/noticias/mundo/jordania-e-kuwait-denunciam-novos-ataques-iranianos_n1754489",
+      "pubDate": "Sun, 19 Jul 2026 19:51:42 +0100",
+      "description": "Ao início da tarde deste domingo as sirenes soaram na capital da Jordânia, com a troca de ataques entre Estados Unidos e Irão. Pouco depois as autoridades de Amã indicaram ter intercetado mísseis iranianos. Também o Kuwait denunciou um ataque de Teerão contra uma central de produção de água e eletri",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b3c35f85e68b558ca8f389adb44ab9d?w=350&amp;q=50&amp;rect=0,18,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Portugal com seis equipas nos European Touch Championships",
-      "link": "https://observador.pt/2026/07/19/portugal-com-seis-equipas-nos-european-touch-championships-a-maior-comitiva-nacional-de-sempre-na-prova/",
-      "pubDate": "Sun, 19 Jul 2026 16:59:16 +0100",
-      "description": "Portugal vai estar representado por mais de 90 atletas em seis equipas nacionais nos European Touch Championships de 2026, que decorrem entre os dias 21 e 25 de julho na cidade francesa de Vichy.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19165425/raguebi.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Escolas recebem hoje as classificações dos exames do 9º",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-escolas-recebem-hoje-as-classificacoes-dos-exames-do-9o_a1_1754488",
+      "pubDate": "Sun, 19 Jul 2026 19:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Uma rotunda e um lancil também fazem parte da história",
-      "link": "https://observador.pt/2026/07/19/uma-rotunda-uma-curva-e-um-lancil-tambem-fazem-parte-da-historia-vingegaard-caiu-a-21-quilometros-do-fim-e-abandonou-com-braco-imobilizado/",
-      "pubDate": "Sun, 19 Jul 2026 16:58:17 +0100",
-      "description": "Começou com um controlo, acabou em descontrolo. Depois dos polémicos testes antidoping durante a noite, Vingegaard despediu-se após uma queda feia. Pogacar trabalhou para Del Toro e Evenepoel venceu.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:98/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19163904/gettyimages-2286615189-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
+      "link": "https://www.rtp.pt/noticias/tenis/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
+      "pubDate": "Sun, 19 Jul 2026 19:17:27 +0100",
+      "description": "Os tenistas portugueses Nuno Borges, Henrique Rocha e Tiago Pereira ficaram hoje a conhecer os primeiros adversários da ronda inaugural da 11.ª edição do Estoril Open, a decorrer até domingo no Clube de Ténis do Estoril.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/62bce7d9fe557f0336c6e61499d1ed4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sismo no Peru faz cinco mortos e deixa 300 desalojados",
-      "link": "https://observador.pt/2026/07/19/sismo-na-regiao-dos-andes-no-peru-faz-cinco-mortos-e-deixa-300-desalojados/",
-      "pubDate": "Sun, 19 Jul 2026 16:50:37 +0100",
-      "description": "Um sismo de magnitude 5,5 atingiu a região dos Andes no Peru e fez pelo menos cinco mortos, deixando 20 pessoas feridas e 300 desalojadas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:86/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/04231609/alerta-sismo.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "17h EduQA confirma classificações alteradas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-eduqa-confirma-classificacoes-alteradas_a1_1754483",
+      "pubDate": "Sun, 19 Jul 2026 18:53:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,94 +102,64 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8dcbb5a2ae8ad9b63968ded783417359?w=350&amp;q=50&amp;rect=0,10,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Espanha - Argentina",
-      "link": "https://www.rtp.pt/noticias/mundial-2026/espanha-argentina_e1754482",
-      "pubDate": "Sun, 19 Jul 2026 18:28:28 +0100",
-      "description": "A detentora do título Argentina, campeã em 1978, 1986 e 2022, e a Espanha, vencedor em 2010, disputam este domingo uma inédita final no Mundial de 2026, cuja 23.ª edição fecha no Estádio MetLife, em East Rutherford, nos Estados Unidos, com arbitragem do esloveno Slavko Vincic.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d769c3ac2fb0d2b89289731762e10592?w=350&amp;q=50&amp;rect=0,148,1227,673&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Evenepoel ganha 15.ª etapa e sobe a segundo após desistência de Vingegaard",
-      "link": "https://www.rtp.pt/noticias/ciclismo/evenepoel-ganha-15a-etapa-e-sobe-a-segundo-apos-desistencia-de-vingegaard_d1754479",
-      "pubDate": "Sun, 19 Jul 2026 18:08:07 +0100",
-      "description": "O ciclista belga Remco Evenepoel (Red Bull-BORA-hansgrohe) ganhou este domingo no alto do Plateau de Solaison, subindo ao segundo lugar da geral da Volta a França após uma 15.ª etapa marcada pelo abandono de Jonas Vingegaard (Visma-Lease a Bike).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d674a8d4751e198039f34356ed2d71a?w=350&amp;q=50&amp;rect=0,25,1181,647&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "EduQA admite que algumas notas enviadas na sexta-feira às escolas estavam incorretas",
-      "link": "https://www.rtp.pt/noticias/pais/eduqa-admite-que-algumas-notas-enviadas-na-sexta-feira-as-escolas-estavam-incorretas_n1754475",
-      "pubDate": "Sun, 19 Jul 2026 17:54:44 +0100",
-      "description": "Algumas notas dos exames inicialmente enviadas na sexta-feira às escolas estavam incorretas, devido a um erro de exportação nos ficheiros. A confirmação foi dada, este domingo, pelo o instituto EduQA que garantiu que essa anomalia foi corrigida no mesmo dia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cfa9a3d3836b03ff20a8037bc932a7bb?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sportinguista Doumbia admite que tem de evoluir \"no posicionamento em campo\"",
-      "link": "https://www.rtp.pt/noticias/sporting/sportinguista-doumbia-admite-que-tem-de-evoluir-no-posicionamento-em-campo_d1754477",
-      "pubDate": "Sun, 19 Jul 2026 17:46:06 +0100",
-      "description": "O futebolista Issa Doumbia, contratado pelo Sporting aos italianos do Veneza neste defeso, admitiu que precisa de evoluir &quot;nos passes e no posicionamento em campo&quot;, no decurso de um processo de adaptação que está a &quot;correr bem&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/99990e968c4056556695a9dcaf5b9812?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mundial 2026: Espanha mantém onze, Argentina muda três peças na final",
+      "link": "https://maisfutebol.iol.pt/mundial2026/mundial-2026/mundial-2026-espanha-mantem-onze-argentina-muda-tres-pecas-na-final",
+      "pubDate": "Sun, 19 Jul 2026 18:49:00 +0100",
+      "description": "Luis de la Fuente foi mais conservador do que Lionel Scaloni",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d0465d34ef04b4f3f7974/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Ténis: Rublev aquece para o Estoril Open com título em Bastad",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-rublev-aquece-para-o-estoril-open-com-titulo-em-bastad",
-      "pubDate": "Sun, 19 Jul 2026 17:15:29 +0100",
-      "description": "Tenista russo venceu Luciano Darderi por 6-4 e 6-3",
-      "thumbnail": "https://img.iol.pt/image/id/6a5cf79cd34e511da0b2e607/250"
+      "title": "Volta a França: Vingegaard fraturou a clavícula e terá de ser operado",
+      "link": "https://maisfutebol.iol.pt/volta-a-franca/ciclismo/volta-a-franca-vingegaard-fraturou-a-clavicula-e-tera-de-ser-operado",
+      "pubDate": "Sun, 19 Jul 2026 18:44:00 +0100",
+      "description": "Ciclista dinamarquês caiu a 25 quilómetros do final da 15.ª etapa e abandonou o Tour",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d0b3dd34e511da0b2e620/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Unidos para a vida»: as palavras que Giroud recorda na despedida de Deschamps",
-      "link": "https://maisfutebol.iol.pt/mundial2026/franca/unidos-para-a-vida-as-palavras-que-giroud-recorda-na-despedida-de-deschamps",
-      "pubDate": "Sun, 19 Jul 2026 16:56:00 +0100",
-      "description": "Internacional francês não esquece os 12 anos ao lado do técnico na seleção",
-      "thumbnail": "https://img.iol.pt/image/id/639f38ca0cf2aea785830e30/250"
+      "title": "Do Palmeiras ao Sporting, do cabelo ao pagode: memórias de Luís Guilherme e Pedro Lima",
+      "link": "https://maisfutebol.iol.pt/sporting/luis-guilherme/do-palmeiras-ao-sporting-do-cabelo-ao-pagode-memorias-de-luis-guilherme-e-pedro-lima",
+      "pubDate": "Sun, 19 Jul 2026 18:39:00 +0100",
+      "description": "Compatriotas jogaram juntos no Brasil e reencontraram-se nos leões como colegas de equipa para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d0a8ed34ef04b4f3f797d/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Volta a França: Evenepoel vence etapa marcada pela desistência de Vingegaard",
-      "link": "https://maisfutebol.iol.pt/modalidades/ciclismo/volta-a-franca-evenepoel-vence-etapa-que-marca-desistencia-de-vingegaard",
-      "pubDate": "Sun, 19 Jul 2026 16:50:00 +0100",
-      "description": "Tadej Pogacar escapou por pouco à queda que retirou o dinamarquês da competição e abrandou nos metros finais",
-      "thumbnail": "https://img.iol.pt/image/id/6a5cf24ad34ef04b4f3f795c/250"
+      "title": "OFICIAL: ex-FC Porto Alex Sandro renova com o Flamengo até 2027",
+      "link": "https://maisfutebol.iol.pt/brasil/internacional/oficial-ex-fc-porto-alex-sandro-renova-com-o-flamengo-ate-2027",
+      "pubDate": "Sun, 19 Jul 2026 18:25:47 +0100",
+      "description": "Lateral brasileiro prolonga ligação ao «mengão» e continua para uma quinta temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d06bbd34ef04b4f3f797a/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Ténis: Tsitsipas quebra seca com mais de um ano e conquista torneio de Gstaad",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-tsitsipas-quebra-seca-com-mais-de-um-ano-e-conquista-torneio-de-gstaad",
-      "pubDate": "Sun, 19 Jul 2026 16:48:00 +0100",
-      "description": "Tenista grego venceu Raphael Collignon por 6-4, 6-7 (3-7) e 6-3",
-      "thumbnail": "https://img.iol.pt/image/id/6a5cf12bd34ef04b4f3f795b/250"
+      "title": "Andebol: Mamadou Diocou deixa o FC Porto e segue para a Roménia",
+      "link": "https://maisfutebol.iol.pt/andebol/modalidades/andebol-mamadou-diocou-deixa-o-fc-porto-e-segue-para-a-romenia",
+      "pubDate": "Sun, 19 Jul 2026 18:13:00 +0100",
+      "description": "Espanhol assina pelo Minaur Baia Mare do português Nuno Farelo",
+      "thumbnail": "https://img.iol.pt/image/id/6a5cf869d34ef04b4f3f7965/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Doumbia já fala à leão: «Objetivos? Conquistar o maior número de títulos»",
-      "link": "https://maisfutebol.iol.pt/sporting/issa-doumbia/doumbia-ja-fala-a-leao-objetivos-conquistar-o-maior-numero-de-titulos",
-      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0100",
-      "description": "Médio italiano estreou-se pelo Sporting no particular frente ao Celtic",
-      "thumbnail": "https://img.iol.pt/image/id/6a47daacd34edcee7c6607b7/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Algumas classificações dos exames foram enviadas com erro, confirma EduQA",
+      "link": "https://sapo.pt/artigo/algumas-classificacoes-dos-exames-foram-enviadas-com-erro-confirma-eduqa-6a5cf54ec3fc30cdb0045971",
+      "pubDate": "Sun, 19 Jul 2026 16:22:01 +0000",
+      "description": "O Instituto de Educação, Qualidade e Avaliação (EduQA) admitiu que algumas das classificações dos exames nacionais inicialmente enviadas às escolas na sexta-feira continham erros, devido a uma falha na exportação dos ficheiros. Segundo o...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AbVcqNRLdKrrUigUf1Rw8rHwq9eX7TXL7DOuFzXJt49r%2F9cgfrDg3zGdYnzU%2FudWECK9Vk0GUgy2nZFwUdJkT0EhCeSnuWdIW1eSBsB4%2FertXGfRveNys9iNwEYc2k4bd"
     },
     {
       "sourceId": "sapo",
@@ -160,6 +170,16 @@
       "pubDate": "Sun, 19 Jul 2026 13:13:20 +0000",
       "description": "O aumento das temperaturas devido às alterações climáticas está a roubar horas de sono nas principais cidades do mundo, Lisboa incluída, indica um estudo.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AvTVf6sWljxYnkX4ATwfAp15%2FSal9S1JLzZ5U%2BU%2F3eJ54I6gbrRsN3n5gD2dYU%2FyIts2LSCujsh%2FwwhQBhGLE1FpuW1AkaMkrDa5tdtxw2HLX4N1rFLZFqF8tKC7CjlYi"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Conselho da Europa pede à FIFA que abra diálogo sobre pressões políticas no futebol",
+      "link": "https://jornaleconomico.sapo.pt/noticias/conselho-da-europa-pede-a-fifa-que-abra-dialogo-sobre-pressoes-politicas-no-futebol/",
+      "pubDate": "Sun, 19 Jul 2026 16:22:01 +0000",
+      "description": "“A influência política já se faz sentir até no próprio campo de jogo, uma sanção foi suspensa durante a competição depois de um chefe de Estado ter ligado ao presidente da FIFA. Quando as regras são contornadas devido a pressões, qualquer...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Au8H%2B2PiLEE0fLPYyHSIxh28NxkqtoRvkUhsbF5ozaIZdXNDGjrK9O3iICM272Bn%2FeNPT8thuRyS%2F7Y%2FXAuxhcXBLhzksPQLqrzgDHJder3ZylT8VAOs38bvonxY4HQqY"
     },
     {
       "sourceId": "sapo",
@@ -182,74 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A9FZlP1Mz0Ub0iwyLKBhJxXB6Qm0Xu1%2Bvc4H9RuHU18malEVba45xpSGezDNg3aYUXorIz%2B%2BfdeE9Olmd1zxJNQKm0j3NHQPwUZzj55EvgQcViOwKPhZzFzTLU6aTNLqG"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Intercetados navios que tentavam atravessar estreito de Ormuz \"sem autorização\" de Teerão",
-      "link": "https://sapo.pt/artigo/intercetados-navios-que-tentavam-atravessar-estreito-de-ormuz-sem-autorizacao-de-teerao-6a5cba5dc3fc30cdb0f7026c",
-      "pubDate": "Sun, 19 Jul 2026 13:13:20 +0000",
-      "description": "\"Quatro navios, agindo de forma maliciosa e com o apoio de terroristas norte-americanos, tentaram atravessar o estreito de Ormuz (...) ignorando os avisos\", disse a Guarda Revolucionária em comunicado,",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AX3kKbIvaC7KozyVC9rv81dIN%2F3y1dfYgJG5zaMwS7Lp8kaOPyu66kFcotvLjbX6TMeTwsKaDnygrn5pQUPPrBxdqgB9iwW2wSyvp0W3Euir9FxwCkTPBnyecv54ZW%2B0%2B"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "As lições do gato Larry após seis primeiros-ministros",
-      "link": "https://sapo.pt/artigo/as-licoes-do-gato-larry-apos-seis-primeiros-ministros-6a5cda86c77521aa464e14e5",
-      "pubDate": "Sun, 19 Jul 2026 14:14:30 +0000",
-      "description": "Adotado em 2011, o 'Chief Mouser to the Cabinet' tornou-se num símbolo de estabilidade e numa verdadeira estrela mundial. Se falasse, teria, com certeza, bons conselhos a dar a Andy Burnham, a partir desta segunda-feira o novo chefe do governo...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A5%2FDBG3AkOE%2F18hZdclDLjz1wUhIAgDVXXGf5d75u%2BBDbaQgs0Zpef2wWaUIyQnvOX%2FQmbvRA6h05Lqg6MlvoYk6f5CtLlRdKSgeDAWXQjZZ%2FRI0j6MRbPLZp1c7kzx0o"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Irão: Kuwait denuncia ataque contra central elétrica e de dessalinização",
+      "link": "https://www.noticiasaominuto.com/mundo/3023885/irao-kuwait-denuncia-ataque-contra-central-eletrica-e-de-dessalinizacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 18:48:16",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d5635bc32ea.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Agência da ONU investiga alegado dos EUA a central nuclear no Irão",
-      "link": "https://www.noticiasaominuto.com/mundo/3023895/agencia-da-onu-investiga-alegado-dos-eua-a-central-nuclear-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 17:43:10",
+      "title": "Número de resgatados do naufrágio na Guiana sobe para 67",
+      "link": "https://www.noticiasaominuto.com/mundo/3023896/numero-de-resgatados-do-naufragio-na-guiana-sobe-para-67#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 18:45:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63c1bcd2325e7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d0d2965567.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois em um. Benfica e Sp. Braga conhecem árbitros para a ronda europeia",
-      "link": "https://www.noticiasaominuto.com/desporto/3023912/estreante-para-os-dois-lados-benfica-e-braga-conhecem-arbitros-na-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 17:36:15",
+      "title": "Estoril Open: Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
+      "link": "https://www.noticiasaominuto.com/desporto/3023928/estoril-open-borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 18:42:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5cf7f00f702.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0MX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47386468.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMCwiY3JvcEhlaWdodCI6MTYzNSwiY3JvcFgiOjMwNSwiY3JvcFkiOi0xfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Chuvas fortes e deslizamentos de terra fazem 19 mortos na Índia",
-      "link": "https://www.noticiasaominuto.com/mundo/3023876/chuvas-fortes-e-deslizamentos-de-terra-fazem-19-mortos-na-india#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 17:36:01",
+      "title": "EUA e Liga Árabe em acordo sobre coordenação para facilitar paz no Sudão",
+      "link": "https://www.noticiasaominuto.com/mundo/3023899/eua-e-liga-arabe-em-acordo-sobre-coordenacao-para-facilitar-paz-no-sudao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 18:41:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5cfcf5d0df8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69418ed2b0fad.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PCP diz que Governo está em degradação e não descarta moção de censura",
-      "link": "https://www.noticiasaominuto.com/politica/3023908/pcp-diz-que-governo-esta-em-degradacao-e-nao-descarta-mocao-de-censura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 17:25:11",
+      "title": "Jogadores da seleção francesa deixam emotiva mensagem a Deschamps",
+      "link": "https://www.noticiasaominuto.com/desporto/3023925/jogadores-da-selecao-francesa-deixam-emotiva-mensagem-a-deschamps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 18:40:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47368315.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d0c05209ed.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Notas das provas do 9.º ano afixadas na manhã de segunda-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3023909/notas-das-provas-do-9-ano-afixadas-na-manha-de-segunda-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 17:11:46",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5b4884f1dbf7c.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Frio extremo na Antártida: estação Concordia registou impressionantes -84,1 °C",
+      "link": "https://pplware.sapo.pt/ciencia/frio-extremo-na-antartida-estacao-concordia-registou-impressionantes-841-c/",
+      "pubDate": "Sun, 19 Jul 2026 17:17:57 +0000",
+      "description": "A Antártida voltou a demonstrar porque é o continente mais frio do planeta. No dia 18 de julho de 2026, a estação científica Concordia, situada no planalto antártico, registou uma temperatura do ar de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/frio_artico00.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,63 +302,53 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/contactos_android_novidades_0.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Spotify apagou milhões de músicas e a culpa é da IA e do spam",
-      "link": "https://pplware.sapo.pt/multimedia-2/musica/o-spotify-apagou-milhoes-de-musicas-e-a-culpa-e-da-ia-e-do-spam/",
-      "pubDate": "Sun, 19 Jul 2026 12:00:00 +0000",
-      "description": "A IA está a trazer novos métodos de trabalho positivos, mas tem o lado menos claro da utilização para os criminosos. A prova disso está no Spotify, atualmente inundado de música criada por IA,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/04/spotify_hackers_2.jpg"
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "F3, Bélgica: Ernesto Rivera de quarto até à vitória na corrida principal",
-      "link": "https://www.autosport.pt/sem-categoria/f3-belgica-ernesto-rivera-de-quarto-ate-a-vitoria-na-corrida-principal/",
-      "pubDate": "Sun, 19 Jul 2026 16:24:31 +0000",
-      "description": "Ernesto Rivera foi imparável no domingo, conquistando a vitória na Corrida Principal de Fórmula 3 em Spa-Francorchamps, com uma exibição impressionante até ao lugar mais alto do pódio. O piloto da Campos Racing partiu do quarto lugar na grelha, mas foi paciente nas fases iniciais antes de ultrapassa",
+      "title": "GP da Bélgica, F1: Ferrari multada, Lewis Hamilton escapa a penalização",
+      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-ferrari-multada-lewis-hamilton-escapa-a-penalizacao/",
+      "pubDate": "Sun, 19 Jul 2026 17:48:09 +0000",
+      "description": "Lewis Hamilton escapou a uma penalização por unsafe release, depois de ter atingido um mecânico da Ferrari na sua paragem nas boxes. O incidente foi investigado após a prova e os comissários atribuíram uma multa à Ferrari. O incidente aconteceu na paragem de Hamilton, depois de ter cumprido uma pena",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP da Bélgica, F1: Toto Wolff elogia vitória “merecida” de Antonelli e lamenta problemas de fiabilidade",
-      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-toto-wolff-elogia-vitoria-merecida-de-antonelli-e-lamenta-problemas-de-fiabilidade/",
-      "pubDate": "Sun, 19 Jul 2026 15:40:11 +0000",
-      "description": "A sexta vitória da temporada de Kimi Antonelli foi recebida com particular satisfação no seio da Mercedes, numa corrida que voltou a expor tanto o potencial da equipa germânica como as suas fragilidades técnicas do lado da unidade motriz. Toto Wolff não escondeu o orgulho no resultado do jovem itali",
+      "title": "As palavras de Akio Toyoda para Sami Pajari: “É sempre gratificante ver pilotos experientes vencer, mas jovens trazem um entusiasmo diferente”",
+      "link": "https://www.autosport.pt/ralis/as-palavras-de-akio-toyoda-para-sami-pajari-e-sempre-gratificante-ver-pilotos-experientes-vencer-mas-jovens-trazem-um-entusiasmo-diferente/",
+      "pubDate": "Sun, 19 Jul 2026 17:08:26 +0000",
+      "description": "Sami Pajari alcançou este fim de semana a sua primeira vitória no Campeonato do Mundo de Ralis (WRC), ao vencer o Rali da Estónia com autoridade, liderando uma dobradinha da Toyota Gazoo Racing.Dois anos após a estreia ao volante de um GR Yaris Rally1 — aquando da conquista do título WRC2 em 2024 — ",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Sami Pajari estreia-se a vencer no WRC com triunfo marcante na Estónia: “é algo incrível”",
-      "link": "https://www.autosport.pt/ralis/sami-pajari-estreia-se-a-vencer-no-wrc-com-triunfo-marcante-na-estonia-e-algo-incrivel/",
-      "pubDate": "Sun, 19 Jul 2026 15:29:08 +0000",
-      "description": "Jovem piloto da Toyota dominou a prova de fio a pavio, subindo ao terceiro lugar do campeonato mundial, à frente de Oliver Solberg e Elfyn Evans. O finlandês Sami Pajari, acompanhado por Marko Salminen, conquistou a sua primeira vitória no Campeonato do Mundo de Ralis ao vencer o Rali da Estónia. Ao",
+      "title": "F2, Bélgica: Rafael Câmara volta a vencer",
+      "link": "https://www.autosport.pt/velocidade/f2-belgica-rafael-camara-volta-a-vencer/",
+      "pubDate": "Sun, 19 Jul 2026 17:04:19 +0000",
+      "description": "Rafael Câmara (Invicta Racing) conquistou a segunda vitória da temporada, na corrida Principal de Fórmula 2 em Spa-Francorchamps. O piloto brasileiro geriu a perda da liderança no arranque, uma interrupção com bandeira vermelha e os desafios dos rivais para garantir o triunfo. Tasanapol Inthraphuvas",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP Bélgica F1, Kimi Antonelli: “alguma sorte no campeonato”",
-      "link": "https://www.autosport.pt/formula1/gp-belgica-f1-kimi-antonelli-alguma-sorte-no-campeonato/",
-      "pubDate": "Sun, 19 Jul 2026 15:03:34 +0000",
-      "description": "Piloto italiano regressa aos triunfos no Grande Prémio da Bélgica e alarga a vantagem na liderança do campeonato. Na corrida, terminou à frente de Charles Leclerc e Max Verstappen. Kimi Antonelli venceu o Grande Prémio da Bélgica de Fórmula 1 após uma disputa intensa. O piloto italiano superou Charl",
+      "title": "Sami Pajari torna-se no sexto mais jovem a vencer no WRC",
+      "link": "https://www.autosport.pt/ralis/sami-pajari-torna-se-no-sexto-mais-jovem-a-vencer-no-wrc/",
+      "pubDate": "Sun, 19 Jul 2026 16:52:25 +0000",
+      "description": "Com o triunfo no Rali da Estónia, Sami Pajari torna-se no sexto mais jovem piloto a vencer no Mundial de Ralis, numa tabela que tem como recordista absoluto o finlandês Kalle Rovanperä, que se tornou o piloto mais jovem de sempre a vencer uma prova do WRC apenas com 20 anos. Rovanperä triunfou no Ra",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP Bélgica F1, Charles Leclerc 2º: “Acreditei na vitória até ao fim”",
-      "link": "https://www.autosport.pt/formula1/gp-belgica-f1-charles-leclerc-2o-acreditei-na-vitoria-ate-ao-fim/",
-      "pubDate": "Sun, 19 Jul 2026 14:59:05 +0000",
-      "description": "Monegasco da Ferrari acreditou na vitória até ao fim em Spa-Francorchamps e consolida evolução do monolugar, à frente de Verstappen e Hamilton. Charles Leclerc conquistou o segundo lugar no Grande Prémio da Bélgica de Fórmula 1, defendendo com sucesso a posição face à pressão de Max Verstappen, e ta",
+      "title": "Sami Pajari: de promessa no Rally de Lisboa a vencedor no WRC, a memória que o tempo confirmou",
+      "link": "https://www.autosport.pt/ralis/sami-pajari-de-promessa-no-rally-de-lisboa-a-vencedor-no-wrc-a-memoria-que-o-tempo-confirmou/",
+      "pubDate": "Sun, 19 Jul 2026 16:47:50 +0000",
+      "description": "Há momentos no desporto que, vistos à distância, ganham um peso quase profético. A 19 de junho de 2022, sob o olhar da Torre Vasco da Gama e com o Tejo como pano de fundo, Sami Pajari ainda era ainda um nome em construção. Nesse dia, venceu o Rally de Lisboa, numa fase em que [&#8230;]\nThe post Sami",
       "thumbnail": ""
     }
   ]
