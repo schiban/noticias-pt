@@ -1,55 +1,85 @@
 {
-  "updated": "2026-07-19T09:25:38.320343+00:00",
+  "updated": "2026-07-19T10:52:11.514278+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "10h. Filinto Lima critica PM",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2411/",
-      "pubDate": "Sun, 19 Jul 2026 10:13:24 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Fraca afluência às urnas em São Tomé e Príncipe",
+      "link": "https://observador.pt/2026/07/19/fraca-afluencia-as-urnas-em-sao-tome-e-principe-e-dois-bloqueios-a-sul-da-capital/",
+      "pubDate": "Sun, 19 Jul 2026 11:44:04 +0100",
+      "description": "As primeiras duas horas de votação nas eleições presidenciais são-tomenses estão a ser marcadas pela fraca afluência às urnas e por dois bloqueios a sul da capital.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19112519/47485261.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rússia com avanços no leste e ataque ucraniano faz 8 mortos",
+      "link": "https://observador.pt/2026/07/19/ucrania-russia-reivindica-avancos-no-leste-e-ataque-ucraniano-faz-oito-mortos/",
+      "pubDate": "Sun, 19 Jul 2026 11:42:16 +0100",
+      "description": "O chefe do Estado-Maior das Forças Armadas russas anunciou a tomada de Krasny Liman, Piskunovka e Myrne. Ucranianos atacaram com drones dois centros logísticos russos e terão provocado 8 mortos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19101424/47485230.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Amoníaco em Barcelos e o mistério dos exames digitais",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/amoniaco-em-barcelos-e-o-misterio-dos-exames-digitais/",
+      "pubDate": "Sun, 19 Jul 2026 11:40:21 +0100",
+      "description": "Com o amoníaco a passear na rua e as notas dos exames perdidas no \"digital\", o governo parece um \"sketch\" de humor. Junte-se o Reino Unido a inventar líderes e temos o caos internacional perfeito.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Número de mortos em incêndio em Banguecoque sobe para 34",
+      "link": "https://observador.pt/2026/07/19/numero-de-mortos-em-incendio-de-bar-em-banguecoque-sobe-para-34/",
+      "pubDate": "Sun, 19 Jul 2026 11:13:24 +0100",
+      "description": "A maioria das vítimas morreu por intoxicação com monóxido de carbono e ácido cianídrico. Banguecoque vai inspecionar cerca de mil estabelecimentos nas próximas semanas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:147/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19054616/47459392.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "11h.Almada.Águas de Portugal alerta para desperdício de água",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1303/",
+      "pubDate": "Sun, 19 Jul 2026 11:12:36 +0100",
+      "description": "Foi o que disse o presidente Macário Correia, em entrevista ao jornal Público. Ainda, o Facebook e o Instagram estão com falhas nos serviços em vários países, incluindo em Portugal.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Exames suspensos. \"Alunos vão receber hoje as notas\"",
-      "link": "https://observador.pt/programas/resposta-pronta/exames-suspensos-alunos-vao-receber-hoje-as-notas/",
-      "pubDate": "Sun, 19 Jul 2026 10:04:53 +0100",
-      "description": "O presidente da Associação dos Diretores de Escolas Públicas garante que as restantes notas vão ser atribuídas hoje. Filinto Lima critica ainda o Primeiro-Ministro e o ministro da Educação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18211133/47482490.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mais de 12.000 hectares de floresta destruídos por fogo a norte de Madrid",
+      "link": "https://www.rtp.pt/noticias/mundo/mais-de-12000-hectares-de-floresta-destruidos-por-fogo-a-norte-de-madrid_n1754442",
+      "pubDate": "Sun, 19 Jul 2026 12:25:46 +0100",
+      "description": "Um incêndio que deflagrou na quinta-feira a cerca de cem quilómetros a norte de Madrid destruiu já mais de 12.000 hectares de floresta, obrigando à retirada de centenas de pessoas, informaram hoje as autoridades locais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/95/959e2fb9345dd84ded5cf8ce11c2047c?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Diretores garantem que notas em falta chegam hoje de manhã",
-      "link": "https://observador.pt/liveblogs/presidente-da-associacao-de-diretores-garante-que-notas-em-falta-chegam-as-escolas-esta-manha/",
-      "pubDate": "Sun, 19 Jul 2026 09:54:30 +0100",
-      "description": "Filinto Lima, presidente da Associação Nacional dos Diretores de Agrupamentos e Escolas Públicas, sublinha que o ministro \"fez mal\" em culpar as escolas pelos problemas na classificação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19101146/doc202607184748249318-julho-2026-ac-foto4-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Diretores escolares confiantes que notas suspensas serão todas regularizadas hoje",
+      "link": "https://www.rtp.pt/noticias/pais/diretores-escolares-confiantes-que-notas-suspensas-serao-todas-regularizadas-hoje_n1754438",
+      "pubDate": "Sun, 19 Jul 2026 12:23:20 +0100",
+      "description": "Filinto Lima, presidente da Associação de Diretores de escolas, disse este domingo na RTP que as escolas estão a receber as pautas completas dos exames nacionais do 12º ano e acredita que todas as notas estarão lançadas este domingo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d09898d331287094af9affe0b689421?w=350&amp;q=50&amp;rect=0,21,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mundial. O baú Louis Vuitton que guarda a taça da final",
-      "link": "https://observador.pt/2026/07/19/o-bau-louis-vuitton-que-leva-a-taca-jules-rimet-ate-ao-relvado-da-final-do-mundial/",
-      "pubDate": "Sun, 19 Jul 2026 09:53:24 +0100",
-      "description": "Uma mala-baú exclusiva feita à mão pelos artesãos de Asnières-sur-Seine, em Paris, especialmente para o evento, completa a tradição, que já dura desde 2010: \"a vitória viaja em Louis Vuitton\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/14115142/louis-vuitton-x-fifa-world-cup-2026-trophy-trunk-h.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Irmãos Tate detidos em Miami por violação e tráfico sexual",
-      "link": "https://observador.pt/2026/07/19/eua-prendem-andrew-e-tristan-tate-a-pedido-do-reino-unido-por-crimes-de-violacao-e-trafico-sexual/",
-      "pubDate": "Sun, 19 Jul 2026 09:32:20 +0100",
-      "description": "Detidos em Miami, os irmãos deverão comparecer em tribunal federal no início da semana. Já tinham sido detidos na Roménia em 2022 por exploração sexual.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:47/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19022813/44632999.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11h Notas dos exames já foram atualizadas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-notas-dos-exames-ja-foram-atualizadas_a1_1754441",
+      "pubDate": "Sun, 19 Jul 2026 12:21:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,84 +102,74 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5ba77e6410ff4a86e08d0f7dce302c8?w=350&amp;q=50&amp;rect=0,69,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Presidente da Águas de Portugal alerta que desinvestimento na rede pode pôr em causa abastecimento",
-      "link": "https://www.rtp.pt/noticias/pais/presidente-da-aguas-de-portugal-alerta-que-desinvestimento-na-rede-pode-por-em-causa-abastecimento_n1754429",
-      "pubDate": "Sun, 19 Jul 2026 10:25:30 +0100",
-      "description": "O novo presidente da Águas de Portugal avisa que o caso de Almada não é único. Há mais municípios em que o desinvestimento na rede pode pôr em causa o abastecimento público.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d03d0841ac8f30bb84daa4b8ce92e47?w=350&amp;q=50&amp;rect=0,88,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h Almada não é caso único",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-almada-nao-e-caso-unico_a1_1754430",
-      "pubDate": "Sun, 19 Jul 2026 10:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Memórias dos mundiais deste século",
-      "link": "https://www.rtp.pt/noticias/mundial-2026/memorias-dos-mundiais-deste-seculo_d1754351",
-      "pubDate": "Sun, 19 Jul 2026 08:43:19 +0100",
-      "description": "A história dos Campeonatos do Mundo de futebol no século XXI é marcada pelo surgimento de novos campeões, o domínio das seleções europeias e a transformação de Portugal numa presença constante na elite do futebol mundial.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/21/21bc10a9b6abe6ba4123841fc2e12cb4?w=350&amp;q=50&amp;rect=0,61,1157,634&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: após o espetáculo, jogadores ingleses e franceses rezam juntos",
+      "link": "https://maisfutebol.iol.pt/mundial-2026/terceiro-e-quarto-lugar/video-apos-o-espetaculo-jogadores-ingleses-e-franceses-rezam-juntos",
+      "pubDate": "Sun, 19 Jul 2026 11:45:16 +0100",
+      "description": "Na partida de atribuição do terceiro lugar, atletas das duas seleções partilharam um momento de oração",
+      "thumbnail": "https://img.iol.pt/image/id/6a5ca847d34e511da0b2e599/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Messi: «Aconteça o que acontecer, este grupo já escreveu uma história que ninguém poderá apagar»",
-      "link": "https://maisfutebol.iol.pt/mundial2026/argentina/messi-aconteca-o-que-acontecer-este-grupo-ja-escreveu-uma-historia-que-ninguem-podera-apagar",
-      "pubDate": "Sun, 19 Jul 2026 10:15:00 +0100",
-      "description": "O capitão da «albiceleste» recorreu às redes sociais para deixar uma mensagem de agradecimento e união antes da final do Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a58001ed34e511da0b2da1f/250"
+      "title": "Tuchel: «Estávamos muito cansados... deixo o meu total respeito pelos jogadores»",
+      "link": "https://maisfutebol.iol.pt/mundial2026/inglaterra/tuchel-estavamos-muito-cansados-deixo-o-meu-total-respeito-pelos-jogadores",
+      "pubDate": "Sun, 19 Jul 2026 11:44:00 +0100",
+      "description": "Selecionador inglês reconhece o desgaste físico do grupo, provocado pela disparidade no nível de exigência dos adversários enfrentados ao longo do Mundial, e valoriza a resposta mental frente à França",
+      "thumbnail": "https://img.iol.pt/image/id/6a5b523bd34ef04b4f3f7630/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Michael Olise destrona Pelé com recorde de assistências num único Mundial",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/michael-olise/michael-olise-destrona-pele-no-recorde-de-assistencias-num-unico-mundial",
-      "pubDate": "Sun, 19 Jul 2026 09:48:00 +0100",
-      "description": "Extremo gaulês somou sete passes certeiros e sobe ao topo da tabela",
-      "thumbnail": "https://img.iol.pt/image/id/6a5a7fd6d34e511da0b2e1e4/250"
+      "title": "Deschamps despede-se da seleção francesa: «Foi uma jornada maravilhosa»",
+      "link": "https://maisfutebol.iol.pt/franca/deschamps/deschamps-despede-se-da-selecao-francesa-foi-uma-jornada-maravilhosa",
+      "pubDate": "Sun, 19 Jul 2026 11:15:57 +0100",
+      "description": "Treinador, de 57 anos, esteve 14 anos no comando técnico da França e conquistou o Mundial 2018",
+      "thumbnail": "https://img.iol.pt/image/id/6a3a5b89d34e28842c857b2f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/agenda/hoje-vai-ser-noticia-178444800",
-      "pubDate": "Sun, 19 Jul 2026 09:00:00 +0100",
-      "description": "Espanha e Argentina medem forças na final do Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a57f90bd34e511da0b2da18/250"
+      "title": "Mbappé e a luta pela Bota de Ouro: «Messi vai marcar, tenho a certeza»",
+      "link": "https://maisfutebol.iol.pt/mundial2026/franca/mbappe-e-a-luta-pela-bota-de-ouro-messi-vai-marcar-tenho-a-certeza",
+      "pubDate": "Sun, 19 Jul 2026 10:58:00 +0100",
+      "description": "Avançado francês assume «choque de realidade» com a Inglaterra, lamenta exibição da primeira parte e recusa culpar o selecionador após a derrota por 6-4",
+      "thumbnail": "https://img.iol.pt/image/id/6a5c0fc8d34e511da0b2e4ef/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Sun, 19 Jul 2026 01:25:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "title": "VÍDEO: Renato Paiva derrotado na estreia pelo Santos Laguna",
+      "link": "https://maisfutebol.iol.pt/mexico/renato-paiva/renato-paiva-derrotado-na-estreia-pelo-santos-laguna",
+      "pubDate": "Sun, 19 Jul 2026 10:55:00 +0100",
+      "description": "É a terceira passagem do técnico português pelo México",
+      "thumbnail": "https://img.iol.pt/image/id/68623942d34e3f0bae9fec04/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Sun, 19 Jul 2026 01:24:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Rússia lança um dos maiores ataques contra Kiev desde o início da guerra: incêndios deflagraram em cinco zonas",
+      "link": "https://sapo.pt/artigo/russia-lanca-um-dos-maiores-ataques-contra-kiev-desde-o-inicio-da-guerra-incendios-deflagraram-em-cinco-zonas-6a5ca0274f27158af580383d",
+      "pubDate": "Sun, 19 Jul 2026 10:14:38 +0000",
+      "description": "Há registo de pelo menos uma vítima mortal e 16 feridos, além de danos significativos em vários edifícios da capital. Durante cinco horas, as forças russas lançaram cerca de 40 mísseis e 120 drones",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=538&W=956&crop=center&delay_optim=1&epic=V2%3A6n2C2YM37SQ1AcdmNQ8BugDf66r%2BenyNUYU1awoMJZc7tpLrCC3AT3gwPngiZ9pS1m8u5Jck64P8urJhXj%2BJrekBCABTnaLlTbd78mWCZWEAZghc6eq%2B9z%2BReFy%2FfY6e"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "A areia das praias portuguesas está mesmo a desaparecer?",
+      "link": "https://sapo.pt/artigo/a-areia-das-praias-portuguesas-esta-mesmo-a-desaparecer-6a5ca1844f27158af5809a26",
+      "pubDate": "Sun, 19 Jul 2026 10:14:38 +0000",
+      "description": "A areia das praias portuguesas está mesmo a desaparecer?",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=225&W=400&crop=center&delay_optim=1&epic=V2%3AnxZ0bOjkrptfkTSLvXBUihBclF4UTC37Q%2BZ09dB7qElbDDAQssTPldHbqtBGlAoBu10izhF%2FWD2YaJfg5FivbbqMgupcVny7N87lC8%2FszYOYoV545pxEQb9N2eDPKJ0u"
     },
     {
       "sourceId": "sapo",
@@ -182,74 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AIFdQKv5mmEwDLSkwKQI6ngZhyDdBZwyK61kvXmrQBa3WMekIWMs3bcXa4mkg%2FpKBEPqAPiel1MOy%2B9LYKm0ceqBp8pDSoueLuB8qZj9FXW1elUgtjTEe%2FjSCWRTjH0YE"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Metro de Lisboa com mudanças na Linha Azul a partir de hoje. Saiba quais",
-      "link": "https://executivedigest.sapo.pt/metro-de-lisboa-com-mudancas-na-linha-azul-a-partir-de-hoje-saiba-quais/",
-      "pubDate": "Sun, 19 Jul 2026 08:01:05 +0000",
-      "description": "Os passageiros da Linha Azul do Metropolitano de Lisboa devem contar, a partir de hoje, com alterações temporárias na circulação dos comboios e nos acessos à estação Praça de Espanha, devido às obras de reabilitação em curso naquela...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AmMiaU8U35t4Wc9sdF3QkIBXuY54ZYuOZ%2FcniVqh9swAgU19KZUaVq5BNv2KgzMd6mY9ncPAMJsQIaTiJK3VQVSCproGDmyJJpqI7sy4FhdAQkwBqD9u83tExU10gmO6B"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Rússia lança o maior número de mísseis balísticos contra a Ucrânia, diz Kiev",
-      "link": "https://sapo.pt/artigo/russia-lanca-o-maior-numero-de-misseis-balisticos-contra-a-ucrania-diz-kiev-6a5c7c76c3fc30cdb0ea9475",
-      "pubDate": "Sun, 19 Jul 2026 08:01:05 +0000",
-      "description": "A Rússia atingiu a Ucrânia com o maior número de mísseis balísticos num único ataque desde o início da guerra em grande escala, disse o ministro dos Negócios Estrangeiros ucraniano.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AVcXXjnV979h4IEbEqvyTUbW%2BZILJM8YfBAlRhMBbGPyPXCGHn2PiNiefM4Ky9RpvVKUngRBHc7au10ZPFu1vt1c%2BeWbqMTM7lFxQk70e%2Fi512NaZ%2Fdr3IaZwBuODCirK"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Académica de Coimbra lança movimento \"Isto é Gozar com Quem Estuda\"",
+      "link": "https://www.noticiasaominuto.com/pais/3023820/academica-de-coimbra-lanca-movimento-isto-e-gozar-com-quem-estuda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 11:40:55",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5ca977a2e6c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Angola investe hoje mais em Portugal do que o inverso",
-      "link": "https://www.noticiasaominuto.com/economia/3023804/angola-investe-hoje-mais-em-portugal-do-que-o-inverso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 10:19:52",
+      "title": "Aguiar-Branco respondeu a 497 requerimentos desde o início do seu mandato",
+      "link": "https://www.noticiasaominuto.com/politica/3023828/aguiar-branco-respondeu-a-497-requerimentos-desde-o-inicio-do-seu-mandato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 11:37:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/11937473.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_692835420a5d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alunos com nota suspensa \"terão conhecimento\" da sua classificação hoje",
-      "link": "https://www.noticiasaominuto.com/pais/3023806/alunos-com-nota-suspensa-terao-conhecimento-da-sua-classificacao-hoje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 10:15:14",
+      "title": "Barco naufraga na Guiana com 116 passageiros a bordo. 53 resgatados",
+      "link": "https://www.noticiasaominuto.com/mundo/3023825/barco-naufraga-na-guiana-com-116-passageiros-a-bordo-53-resgatados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 11:36:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5d31fff1e028e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo1NjMsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5ca86bde4e2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMSwiY3JvcEhlaWdodCI6MTYzNywiY3JvcFgiOjQxNCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Calor volta a apertar na próxima semana. Máximas podem chegar aos 40 ºC",
-      "link": "https://www.noticiasaominuto.com/pais/3023805/calor-volta-a-apertar-na-proxima-semana-maximas-podem-chegar-aos-40-c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 10:13:35",
+      "title": "Oficial: Markus Jensen é reforço do Nacional",
+      "link": "https://www.noticiasaominuto.com/desporto/3023827/oficial-markus-jensen-e-reforco-do-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 11:32:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688d248ce6076.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5ca7a161ecc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUzOH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Urnas abrem em ambiente tranquilo e sem filas em São Tomé e Príncipe",
-      "link": "https://www.noticiasaominuto.com/mundo/3023802/urnas-abrem-em-ambiente-tranquilo-e-sem-filas-em-sao-tome-e-principe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 10:07:09",
+      "title": "Fraca afluência às urnas em São Tomé e dois bloqueios a sul da capital",
+      "link": "https://www.noticiasaominuto.com/mundo/3023824/fraca-afluencia-as-urnas-em-sao-tome-e-dois-bloqueios-a-sul-da-capital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 11:29:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47485246.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47485261.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjI4OCwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Melanie Santos 11.ª na Taça do Mundo em Edmonton",
-      "link": "https://www.noticiasaominuto.com/desporto/3023803/melanie-santos-11-na-taca-do-mundo-em-edmonton#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 10:04:03",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43309456.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzfX0="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Meta planeia negócio multimilionário para alugar os seus centros de dados à Anthropic",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/meta-planeia-negocio-multimilionario-para-alugar-os-seus-centros-de-dados-a-anthropic/",
+      "pubDate": "Sun, 19 Jul 2026 10:00:10 +0000",
+      "description": "A Meta poderá estar prestes a entrar no mercado do aluguer de infraestruturas tecnológicas através de uma parceria de milhares de milhões de dólares com a Anthropic. Uma nova fonte de receita para a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/meta_anthropic.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,20 +302,30 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/superiate_magnata_russo00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Preço do iPhone dispara 100 euros. A memória não é a culpada desta vez",
-      "link": "https://pplware.sapo.pt/apple/preco-do-iphone-dispara-100-euros-a-memoria-nao-e-a-culpada-desta-vez/",
-      "pubDate": "Sun, 19 Jul 2026 06:00:40 +0000",
-      "description": "No dia 17 de julho, os clientes japoneses da Apple depararam-se com novos preços em quase toda a gama de iPhones, com aumentos de até 11%, dependendo do modelo. Sem aviso, sem explicações: os&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/iphone_roubado_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Bélgica F1: Carlos Sainz frustrado com os regulamentos e com a Williams",
+      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-carlos-sainz-frustrado-com-os-regulamentos-e-com-a-williams/",
+      "pubDate": "Sun, 19 Jul 2026 10:01:10 +0000",
+      "description": "Carlos Sainz não está feliz nesta fase da sua carreira. Além dos problemas que os regulamentos de 2026 têm provocado, o espanhol está desiludido com a Williams, que falhou na promessa de entregar um carro capaz de lutar por posições de destaque. Sainz reiterou o seu apelo por alterações aos regulame",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "WRC, Rali da Estónia/PEC17: super-domingo decide com cinco em 2.7s…",
+      "title": "GP da Bélgica F1: Atualizações no carro de Arvid Lindblad surtiram efeito",
+      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-atualizacoes-no-carro-de-arvid-lindblad-surtiram-efeito/",
+      "pubDate": "Sun, 19 Jul 2026 09:19:56 +0000",
+      "description": "A Racing Bulls viveu uma das suas melhores sessões de qualificação da temporada no Grande Prémio da Bélgica, com Arvid Lindblad a liderar o pelotão intermédio no oitavo lugar, depois de as mais recentes atualizações da equipa terem proporcionado um ganho imediato de desempenho. Lindblad chegou à Q3 ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC, Rali da Estónia/PEC17: super-domingo decide-se com cinco em 2.7s…",
       "link": "https://www.autosport.pt/ralis/wrc-rali-da-estonia-pec17-super-domingo-decide-com-cinco-em-2-7s/",
       "pubDate": "Sun, 19 Jul 2026 09:05:08 +0000",
       "description": "Oliver Solberg (Toyota GR Yaris Rally1) venceu a primeira especial do dia no Rally Estónia e destacou-se na luta pelo Super-Domingo, ao bater Sami Pajari (Toyota GR Yaris Rally1) por 0,4 segundos, com Adrien Fourmaux (Hyundai i20 N Rally1) e Elfyn Evans (Toyota GR Yaris Rally1) a registar o terceiro",
@@ -316,7 +336,7 @@
       "sourceName": "Autosport",
       "color": "#f0c040",
       "title": "GP da Bélgica F1: As possíveis estratégias para a corrida",
-      "link": "https://www.autosport.pt/sem-categoria/gp-da-belgica-f1-as-possiveis-estrategias-para-a-corrida/",
+      "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-as-possiveis-estrategias-para-a-corrida/",
       "pubDate": "Sun, 19 Jul 2026 09:03:27 +0000",
       "description": "Kimi Antonelli conquistou a sua sexta pole no Grande Prémio da Bélgica, em Spa-Francorchamps, sendo três décimas mais rápido do que Max Verstappen e meio segundo acima do companheiro de equipa George Russell. Com o tempo previsto para se manter estável, a estratégia em Spa não deverá dar surpresas, ",
       "thumbnail": ""
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-da-belgica-f1-informacoes-estatisticas-e-horarios/",
       "pubDate": "Sun, 19 Jul 2026 08:30:00 +0000",
       "description": "A Fórmula 1 chegou a Spa-Francorchamps para disputar o Grande Prémio da Bélgica, penúltima corrida antes do intervalo de verão, num traçado conhecido pela exigência técnica que coloca aos pilotos. Com 7,004 quilómetros, integra o calendário do Mundial desde 1950, sendo marcado por retas prolongadas,",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GT4 European Series: Speedy Motorsport regressa aos pódios na corrida 1 de Misano",
-      "link": "https://www.autosport.pt/velocidade/gt4-european-series-speedy-motorsport-regressa-aos-podios-na-corrida-1-de-misano/",
-      "pubDate": "Sat, 18 Jul 2026 20:40:00 +0000",
-      "description": "A Speedy Motorsport voltou aos pódios no GT4 European Series. Depois do pódio na jornada de estreia, a equipa portuguesa voltou a brilhar, agora em Misano terminando com Mees Houben e Lachlan Evennett na terceira posição. Pedro Perino e Tomás Guedes terminaram na 10ª posição, 8ºs classificados na ca",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPM, Rampa Capital do Móvel: Nuno Caetano na frente após primeiro dia intenso",
-      "link": "https://www.autosport.pt/velocidade/cpm-rampa-capital-do-movel-nuno-caetano-na-frente-apos-primeiro-dia-intenso/",
-      "pubDate": "Sat, 18 Jul 2026 20:00:00 +0000",
-      "description": "A 7.ª Rampa Capital do Móvel arrancou este sábado, marcando a primeira jornada da quinta prova do Campeonato de Portugal de Montanha JC Group. Na luta pela vitória absoluta, Nuno Caetano (Osella PA2000 EVO2 LMR), da Power House, foi o mais rápido nas três subidas disputadas, terminando o dia na lide",
       "thumbnail": ""
     }
   ]
