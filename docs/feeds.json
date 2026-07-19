@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-19T20:22:21.137943+00:00",
+  "updated": "2026-07-19T21:22:22.766686+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Festival Marés regressa a Matosinhos em 2027",
+      "link": "https://observador.pt/2026/07/19/festival-mares-regressa-a-matosinhos-em-2027-de-16-a-18-de-julho/",
+      "pubDate": "Sun, 19 Jul 2026 22:03:02 +0100",
+      "description": "O presidente executivo da PEV Entertainment confessou ter ficado \"algo apreensivo\" com todas as questões que envolveram a mudança de local, mas a resposta das pessoas \"foi ótima\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:140/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19213908/47484194.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:311/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19192508/gettyimages-2286695988-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Intercetados 50 imigrantes chegados às Baleares",
-      "link": "https://observador.pt/2026/07/19/intercetados-50-imigrantes-chegados-as-baleares-em-embarcacoes-precarias/",
-      "pubDate": "Sun, 19 Jul 2026 19:42:18 +0100",
-      "description": "No sábado, um total de 86 migrantes de origem subsaariana já tinham chegado às Baleares, a bordo de três embarcações precárias intercetadas ao largo de Formentera, Cabrera e Maiorca.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19193643/47459087.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "\"Estado é que falhou\". Pais ponderam ações na Justiça",
+      "link": "https://www.rtp.pt/noticias/pais/estado-e-que-falhou-pais-ponderam-acoes-na-justica_v1754498",
+      "pubDate": "Sun, 19 Jul 2026 22:34:47 +0100",
+      "description": "Há associações de pais que ponderam avançar contra o Estado em tribunal por causa da gestão dos exames nacionais. O bastonário da Ordem dos Advogados entende que &quot;o Estado é que falhou&quot;, e sugere que o Governo ajuste o calendário para garantir as mesmas condições a todos os alunos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ef/ef1292977426bb8d747a2429c84918b6_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Pedidos de reapreciação dos exames vão aumentar",
+      "link": "https://www.rtp.pt/noticias/pais/pedidos-de-reapreciacao-dos-exames-vao-aumentar_v1754497",
+      "pubDate": "Sun, 19 Jul 2026 22:31:47 +0100",
+      "description": "Os alunos do Ensino Secundário podem começar a pedir a reapreciação dos exames já na segunda-feira. Os diretores das escolas públicas alertam que o número de pedidos vai &quot;aumentar bastante&quot;, comparando com o ano passado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ea/ea591ce36d0cc1ecc9a176be64e74c65_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "São Tomé e Príncipe. Comissão eleitoral revela que foi travado ataque a base de dados eleitorais",
-      "link": "https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-comissao-eleitoral-revela-que-foi-travado-ataque-a-base-de-dados-eleitorais_n1754484",
-      "pubDate": "Sun, 19 Jul 2026 21:04:13 +0100",
-      "description": "O presidente da Comissão Eleitoral Nacional (CEN) de São Tomé e Príncipe revelou que foi travado um ataque informático que visou a base de dados eleitorais e deu garantias de segurança para as eleições presidenciais de hoje.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1e477056866305705e4f62e65d300aeb?w=350&amp;q=50&amp;rect=0,44,884,485&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Pogacar: «Queda de Vingegaard? O controlo antidoping às 2 da manhã pode ter sido o motivo»",
+      "link": "https://maisfutebol.iol.pt/volta-a-franca/ciclismo/pogacar-queda-de-vingegaard-o-controlo-antidoping-as-2-da-manha-pode-ter-sido-o-motivo",
+      "pubDate": "Sun, 19 Jul 2026 22:04:00 +0100",
+      "description": "Ciclista esloveno acrescentou ainda que «o Tour não será o mesmo» sem o atleta da Visma-Lease a Bike",
+      "thumbnail": "https://img.iol.pt/image/id/6a47f4f5d34edcee7c660919/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Aquecimento para a final do Mundial",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-aquecimento-para-a-final-do-mundial_a1_1754493",
-      "pubDate": "Sun, 19 Jul 2026 20:32:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Sun, 19 Jul 2026 21:19:00 +0100",
+      "description": "Clubes já estão a preparar a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a5d1623d34ef04b4f3f7998/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Ricardo Valente termina carreira aos 35 anos",
-      "link": "https://maisfutebol.iol.pt/ii-liga/ricardo-valente/oficial-ricardo-valente-termina-carreira-aos-35-anos",
-      "pubDate": "Sun, 19 Jul 2026 19:55:00 +0100",
-      "description": "Avançado vai integrar a estrutura diretiva do Leixões",
-      "thumbnail": "https://img.iol.pt/image/id/63bdd1bd0cf2cf9224f3b08c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Estoril Open: trio luso já conhece os adversários para a primeira ronda",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/estoril-open-trio-luso-ja-conhece-os-adversarios-para-a-primeira-ronda",
-      "pubDate": "Sun, 19 Jul 2026 18:57:38 +0100",
-      "description": "Nuno Borges, Henrique Rocha e Tiago Pereira são três dos seis portugueses em competição",
-      "thumbnail": "https://img.iol.pt/image/id/69708fa2d34e0ec52ec27e83/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sun, 19 Jul 2026 16:22:01 +0000",
       "description": "O Instituto de Educação, Qualidade e Avaliação (EduQA) admitiu que algumas das classificações dos exames nacionais inicialmente enviadas às escolas na sexta-feira continham erros, devido a uma falha na exportação dos ficheiros. Segundo o...",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AbVcqNRLdKrrUigUf1Rw8rHwq9eX7TXL7DOuFzXJt49r%2F9cgfrDg3zGdYnzU%2FudWECK9Vk0GUgy2nZFwUdJkT0EhCeSnuWdIW1eSBsB4%2FertXGfRveNys9iNwEYc2k4bd"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Robôs humanoides armados são a nova aposta da Ucrânia para enfrentar a Rússia",
+      "link": "https://executivedigest.sapo.pt/robos-humanoides-armados-sao-a-nova-aposta-da-ucrania-para-enfrentar-a-russia/",
+      "pubDate": "Sun, 19 Jul 2026 20:53:14 +0000",
+      "description": "A Ucrânia quer acelerar a utilização de robôs humanoides no campo de batalha e lançou um programa de financiamento para desenvolver sistemas armados capazes de operar na linha da frente, reduzindo a exposição dos militares em missões de combate.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=631&W=1123&crop=center&delay_optim=1&epic=V2%3AiRhEplcSR4fY%2BaXsqRJ4tBSGu5os%2BKF8zFEEW5YX2lDwDvbykVF6QmxR6lubJqaT62%2BMknp2WA3JzJqXRFBWyKsWORBv5%2FLrg9DsgMfsrweJFG277sjXczuUJkqandFM"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +185,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Fogo a norte de Madrid já consumiu 16 mil hectares",
+      "link": "https://sapo.pt/artigo/fogo-a-norte-de-madrid-ja-consumiu-16-mil-hectares-6a5d28a8c3fc30cdb00e502f",
+      "pubDate": "Sun, 19 Jul 2026 20:53:14 +0000",
+      "description": "O combate ao fogo envolvia a meio da tarde 255 bombeiros, apoiados por 122 veículos e 11 meios aéreos, incluindo cinco aviões Canadair, quatro helicópteros de combate a incêndios e dois aviões DASH.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A8UKYX%2B3AnJwx08q3%2BqGhW5iqpyva7hBMj2ZMGR58LlV1mG64u%2BCaJA7M6Bv6knhUEYoKBgHfoHTcdz%2FYgN7GdUsvyaAgAS6XMRE4yNVqO1%2B9JkptBrgr9tZ8adjKc4Cv"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "MAI sob pressão crescente. Luís Neves mantém o silêncio",
       "link": "https://sapo.pt/artigo/mai-sob-pressao-crescente-luis-neves-mantem-o-silencio-6a5d1ad34f27158af591045d",
       "pubDate": "Sun, 19 Jul 2026 18:47:43 +0000",
@@ -182,74 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A9cx2ruUcFLUnoLg0fDn10tIsRg4PNPP%2FjXEtXEucNKhN18C0sYGds1OwS8Rtgg69cvMpdlQE4%2FpkPCeY7NGHpOdBNhfHDFrP5EGVpfC3BzD41LLb%2BW2F0APtLT2ArRhS"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Pagamentos a profissionais de saúde: Governo publicou despacho com valores errados?",
-      "link": "https://poligrafo.sapo.pt/fact-check/pagamentos-a-profissionais-de-saude-governo-publicou-despacho-com-valores-errados/",
-      "pubDate": "Sun, 19 Jul 2026 18:36:28 +0000",
-      "description": "Nas redes sociais, o Governo está a ser acusado de reduzir para metade a remuneração dos profissionais de saúde pela realização de procedimentos invasivos associados ao tratamento do Acidente Vascular Cerebral (AVC). Em causa está um despacho...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ArYPhQ7Pw%2BLYmfp0I4OjQLa3ksPJq8PM%2FfQqA7ZQnKeJIGYR%2BunIfkU2jm3mtrlKYRdu7X1df2rQidSMLmQqK2ULIhro34DPrpcGnvke7pAvNDHGBFgIbdGvZQA%2BEvVfT"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Calor faz cada lisboeta perder 40 horas de sono por ano",
-      "link": "https://sapo.pt/artigo/calor-faz-cada-lisboeta-perder-40-horas-de-sono-por-ano-6a5cae9a052274a706658c53",
-      "pubDate": "Sun, 19 Jul 2026 13:13:20 +0000",
-      "description": "O aumento das temperaturas devido às alterações climáticas está a roubar horas de sono nas principais cidades do mundo, Lisboa incluída, indica um estudo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AvTVf6sWljxYnkX4ATwfAp15%2FSal9S1JLzZ5U%2BU%2F3eJ54I6gbrRsN3n5gD2dYU%2FyIts2LSCujsh%2FwwhQBhGLE1FpuW1AkaMkrDa5tdtxw2HLX4N1rFLZFqF8tKC7CjlYi"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Ébola: Canadá proíbe entrada a estrangeiros vindos da RDCongo",
+      "link": "https://www.noticiasaominuto.com/mundo/3023952/ebola-canada-proibe-entrada-a-estrangeiros-vindos-da-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:48:22",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_541de7ea4d3f0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEyNDUsImNyb3BIZWlnaHQiOjIyMTQsImNyb3BYIjoxNzQxLCJjcm9wWSI6ODd9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ucrânia: Cinco mortes em ataque russo contra navio mercante turco",
-      "link": "https://www.noticiasaominuto.com/mundo/3023954/ucrania-cinco-mortes-em-ataque-russo-contra-navio-mercante-turco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 21:18:51",
+      "title": "Estreito de Ormuz quase paralisado com escalada entre EUA e Irão",
+      "link": "https://www.noticiasaominuto.com/mundo/3023961/estreito-de-ormuz-quase-paralisado-com-escalada-entre-eua-e-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:45:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62ef70cf2c477.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6NTh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1d8e719f7d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE3MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODgyLCJjcm9wSGVpZ2h0IjoxNTY4LCJjcm9wWCI6MTY0MiwiY3JvcFkiOjY1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3023773/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 20:47:18",
+      "title": "Festival Marés regressa a Matosinhos em 2027 de 16 a 18 de julho",
+      "link": "https://www.noticiasaominuto.com/cultura/3023962/festival-mares-regressa-a-matosinhos-em-2027-de-16-a-18-de-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:42:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5c676619596.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjc5NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47484194.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyNX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fatawu perto de voltar à Premier League... e Sporting 'esfrega as mãos'",
-      "link": "https://www.noticiasaominuto.com/desporto/3023949/fatawu-perto-de-voltar-a-premier-league-e-sporting-esfrega-as-maos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 20:45:50",
+      "title": "EM DIRETO: Espanha-Argentina no prolongamento. Argentinos com menos um",
+      "link": "https://www.noticiasaominuto.com/desporto/3023875/em-direto-espanha-ou-argentina-uma-delas-sera-coroada-campea-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:23:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66c4c1209ca7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ5fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d22920441c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkxOCwiY3JvcEhlaWdodCI6MTYzMiwiY3JvcFgiOjYwOCwiY3JvcFkiOi0xfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Espanha ou Argentina? Trump é questionado... e elogia \"incrível Ronaldo\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3023950/espanha-ou-argentina-trump-e-questionado-e-elogia-incrivel-ronaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 20:44:28",
+      "title": "Do palácio até à final: Felipe VI e Letizia no estádio para o Mundial",
+      "link": "https://www.noticiasaominuto.com/fama/3023955/do-palacio-ate-a-final-eua-felipe-vi-e-letizia-no-estadio-para-o-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-19 21:20:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d27c57c6f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU1LCJjcm9wSGVpZ2h0IjoxMzgxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjY4OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d29ffd6aac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MSwiY3JvcEhlaWdodCI6MTcyNywiY3JvcFgiOjY1MCwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo fora de controlo a norte de Madrid já consumiu 16 mil hectares",
-      "link": "https://www.noticiasaominuto.com/mundo/3023947/fogo-fora-de-controlo-a-norte-de-madrid-ja-consumiu-16-mil-hectares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-19 20:41:28",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47485964.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Fez marcha-atrás numa portagem? A multa pode ser pesada",
+      "link": "https://pplware.sapo.pt/motores/fez-marcha-atras-numa-portagem-a-multa-pode-ser-pesada/",
+      "pubDate": "Sun, 19 Jul 2026 20:30:15 +0000",
+      "description": "Entrar na via errada de uma portagem pode acontecer a qualquer condutor. No entanto, quando isso acontece, há quem tome uma decisão perigosa: fazer marcha-atrás para tentar regressar à faixa correta. É melhor ter&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/portagem_pplware_01.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 19 Jul 2026 17:17:57 +0000",
       "description": "A Antártida voltou a demonstrar porque é o continente mais frio do planeta. No dia 18 de julho de 2026, a estação científica Concordia, situada no planalto antártico, registou uma temperatura do ar de&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/frio_artico00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Não tem pisca a funcionar? Saiba se pode ser multado",
-      "link": "https://pplware.sapo.pt/motores/nao-tem-pisca-a-funcionar-saiba-se-pode-ser-multado/",
-      "pubDate": "Sun, 19 Jul 2026 16:00:19 +0000",
-      "description": "Os piscas são, no âmbito da segurança, um dos elementos mais importantes de segurança de um automóvel. Além de serem obrigatórios, permitem indicar aos outros condutores quando vai mudar de direção, mudar de faixa&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/1-25-1024x576-1.jpg"
     },
     {
       "sourceId": "autosport",
