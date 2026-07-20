@@ -1,13 +1,23 @@
 {
-  "updated": "2026-07-20T20:17:54.715620+00:00",
+  "updated": "2026-07-20T21:40:50.437667+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1705/",
-      "pubDate": "Mon, 20 Jul 2026 21:13:52 +0100",
+      "title": "Moçambique prevê 876 mil novas ligações de água até 2036",
+      "link": "https://observador.pt/2026/07/20/mocambique-quer-criar-876-mil-novas-ligacoes-de-agua-domiciliaria-e-25-mil-pontos-publicos-de-abastecimento-ate-2036/",
+      "pubDate": "Mon, 20 Jul 2026 22:30:59 +0100",
+      "description": "O plano integra o ProÁguas, programa de quase 4 mil milhões de euros lançado em maio, que visa levar água canalizada a 75% da população moçambicana.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/12140911/30770751.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 22h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1830/",
+      "pubDate": "Mon, 20 Jul 2026 22:15:16 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,131 +25,101 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "15 mil euros para associação ligada à campanha do PS",
-      "link": "https://observador.pt/2026/07/20/oposicao-acusa-camara-de-coimbra-de-financiar-com-15-mil-euros-associacao-de-apoiante-do-ps-sem-plano-operacional/",
-      "pubDate": "Mon, 20 Jul 2026 21:10:34 +0100",
-      "description": "A Maré Dialética, fundada em abril de 2026, recebeu apoio municipal aprovado com votos contra da oposição, que denuncia falta de fundamentação e ligação à campanha de Ana Abrunhosa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1932:1086:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/07193455/479929748-2797899127079616-7297185937139790860-n.jpeg"
+      "title": "Jhon, a aposta para puxar a fita atrás por uma nova vida",
+      "link": "https://observador.pt/2026/07/20/um-avancado-a-pedido-de-marco-silva-para-puxar-a-fita-atras-e-ganhar-uma-segunda-vida-aos-22-anos-jhon-duran-reforca-benfica/",
+      "pubDate": "Mon, 20 Jul 2026 22:07:35 +0100",
+      "description": "Aos 22 anos, avançado colombiano passou por EUA, Inglaterra, Arábia Saudita, Turquia e Rússia em quatro épocas mas Marco Silva acredita que pode dar uma segunda vida ao terceiro reforço do Benfica.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:27/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20212534/jhon-duran.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Rússia recupera controlo de rota fundamental para a Crimeia",
-      "link": "https://observador.pt/programas/a-guerra-traduzida/russia-recupera-controlo-de-rota-fundamental-para-a-crimeia/",
-      "pubDate": "Mon, 20 Jul 2026 21:09:23 +0100",
-      "description": "O governador de Zaporizhzhia transmitiu a Putin que as forças armadas russas têm utilizado novos métodos para repelir os drones ucranianos que têm atacado camiões de abastecimento nesta via.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+      "title": "“A vida dupla do espião traidor”. O novo Podcast Plus",
+      "link": "https://observador.pt/programas/a-vida-dupla-do-espio-traidor/trailer-a-vida-dupla-do-espiao-traidor-novo-podcast-plus-estreia-a-28-de-julho/",
+      "pubDate": "Mon, 20 Jul 2026 22:02:37 +0100",
+      "description": "A história do espião português que vendia segredos à Rússia de Putin e da operação internacional para o apanhar, que envolveu a PJ, a polícia italiana e os serviços secretos americanos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20154236/770-a-vida-dupla-do-espiao-traidor.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ucranianos dão prazo a Zelensky para readmitir ministro",
-      "link": "https://observador.pt/programas/a-guerra-traduzida/ucranianos-dao-prazo-a-zelensky-para-readmitir-ministro/",
-      "pubDate": "Mon, 20 Jul 2026 21:08:26 +0100",
-      "description": "A demissão do ministro da Defesa desencadeou uma onda protestos pelo país. Os manifestantes dão a Zelensky até sexta-feira para readmitir o anterior ministro, Mykhailo Fedorov.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Air France prolonga suspensão de voos para Dubai e Riade",
-      "link": "https://observador.pt/2026/07/20/air-france-prolonga-suspensao-voos-para-o-dubai-e-riade-por-motivos-de-seguranca/",
-      "pubDate": "Mon, 20 Jul 2026 21:07:43 +0100",
-      "description": "Voos para Beirute também suspensos até 2 de agosto. Companhia cita restrições em espaços aéreos e promete avaliar retoma consoante evolução da situação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20201757/47221585.jpg"
+      "title": "Coimbra requalifica Rotunda do Papa e reduz espaço a carros",
+      "link": "https://observador.pt/2026/07/20/camara-de-coimbra-preve-tirar-espaco-aos-carros-na-envolvente-da-rotunda-do-papa/",
+      "pubDate": "Mon, 20 Jul 2026 22:00:24 +0100",
+      "description": "Câmara de Coimbra aprovou por unanimidade o anteprojeto de requalificação da praça João Paulo II, com mais árvores, sombra e ciclovias — e menos carros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/15175155/44665691.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Houtis declaram bloqueio naval à Arábia Saudita",
-      "link": "https://www.rtp.pt/noticias/mundo/houtis-declaram-bloqueio-naval-a-arabia-saudita_v1754703",
-      "pubDate": "Mon, 20 Jul 2026 22:09:47 +0100",
-      "description": "Os Estados Unidos estão a enfrentar mais um problema na guerra contra o Irão. Os rebeldes Houtis do Iémen declararam o bloqueio naval à Arábia Saudita, ameaçando agora o abastecimento pelo Mar Vermelho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/07/07ba57fc1bc66bdb63856d6df937885b_N.jpg?"
+      "title": "Henrique Rocha afastado do Estoril Open",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/henrique-rocha-afastado-do-estoril-open_d1754723",
+      "pubDate": "Mon, 20 Jul 2026 23:35:32 +0100",
+      "description": "O tenista português Henrique Rocha foi eliminado na primeira ronda do Estoril Open, depois de perder com o finalista vencido em 2024, o espanhol Pedro Martínez, vindo da fase de qualificação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/8838cc509b525e0fec70330445a1cdbf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndio em Guadalajara está fora de controlo",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-em-guadalajara-esta-fora-de-controlo_v1754701",
-      "pubDate": "Mon, 20 Jul 2026 22:00:48 +0100",
-      "description": "O incêndio no Parque Natural da Serra Norte de Guadalajara está fora de controlo. Cerca de 1200 pessoas, habitantes de 33 localidades espanholas, foram já obrigadas a sair de casa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e3e9186b9e8b97583230bdeba1bc3324_N.jpg?"
+      "title": "Angola defende nova etapa de cooperação com Portugal centrada no investimento produtivo",
+      "link": "https://www.rtp.pt/noticias/economia/angola-defende-nova-etapa-de-cooperacao-com-portugal-centrada-no-investimento-produtivo_n1754718",
+      "pubDate": "Mon, 20 Jul 2026 23:34:14 +0100",
+      "description": "O secretário de Estado das Finanças e Tesouro de Angola, Ottoniel dos Santos, apelou hoje, em Luanda, a que as empresas portuguesas olhem para o país &quot;não apenas como um mercado de destino, mas como uma plataforma de produção&quot; e de acesso a outros mercados africanos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Espanha celebra título de campeã mundial de futebol",
-      "link": "https://www.rtp.pt/noticias/desporto/espanha-celebra-titulo-de-campea-mundial-de-futebol_v1754700",
-      "pubDate": "Mon, 20 Jul 2026 21:55:47 +0100",
-      "description": "A seleção espanhola chegou ao princípio da tarde a Madrid e milhares de pessoas esperam a esta hora os jogadores na praça Cibeles.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/da/da7e2ca6ffc7f8ab0af5d127d8b56223_N.jpg?"
+      "title": "Sporting `atropela` Estrasburgo",
+      "link": "https://www.rtp.pt/noticias/sporting/sporting-atropela-estrasburgo_d1754722",
+      "pubDate": "Mon, 20 Jul 2026 23:31:36 +0100",
+      "description": "O Sporting goleou por 7-0 os franceses do Estrasburgo, treinados pelo português Hugo Oliveira, em jogo de preparação das duas equipas de futebol para a temporada 2026/27, disputado no Estádio Algarve.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d76014ac29e5ee78d7b6714c063229b9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Exames nacionais. Ministro diz que quer concretizar reforma",
-      "link": "https://www.rtp.pt/noticias/politica/exames-nacionais-ministro-diz-que-quer-concretizar-reforma_v1754699",
-      "pubDate": "Mon, 20 Jul 2026 21:53:47 +0100",
-      "description": "O ministro da Educação considerou que o seu cargo não está em risco, mas sublinhou que a decisão é do primeiro-ministro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/66/66741f6d2f98e365bdc9dade9706a500_N.jpg?"
+      "title": "Justiça dos EUA suspende temporariamente compra da Warner Bros. pela Paramount",
+      "link": "https://www.rtp.pt/noticias/mundo/justica-dos-eua-suspende-temporariamente-compra-da-warner-bros-pela-paramount_n1754676",
+      "pubDate": "Mon, 20 Jul 2026 23:26:47 +0100",
+      "description": "A Justiça dos Estados Unidos ordenou hoje a suspensão temporária da fusão entre a Paramount e a Warner Bros. Discovery, após 12 estados terem apresentado uma ação judicial para travar o processo devido a riscos de monopólio.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9b39ef372923d6b638bf97693923dd99?w=350&amp;q=50&amp;rect=0,27,1370,751&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Frederico Silva eliminado na ronda inaugural do Estoril Open",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/frederico-silva-eliminado-na-ronda-inaugural-do-estoril-open_d1754697",
-      "pubDate": "Mon, 20 Jul 2026 21:33:23 +0100",
-      "description": "O tenista português Frederico Silva travou uma intensa batalha com o francês Luca van Asche, na estreia no 11.º Estoril Open, mas cedeu nos momentos decisivos do encontro e acabou eliminado na primeira ronda.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ba/ba3b631696a90428c70ded82beaa5f55?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Benfica confirma Jhon Durán",
+      "link": "https://www.rtp.pt/noticias/benfica/benfica-confirma-jhon-duran_d1754713",
+      "pubDate": "Mon, 20 Jul 2026 23:13:05 +0100",
+      "description": "O avançado internacional colombiano Jhon Durán vai jogar no Benfica durante a temporada 2026/27, por empréstimo dos sauditas do Al Nassr, anunciou hoje o clube.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/802431d7be4065d922d67c2401505a27?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Hwang In-beom reforça o FC Porto",
-      "link": "https://maisfutebol.iol.pt/fc-porto/mercado/oficial-hwang-in-beom-e-reforco-do-fc-porto",
-      "pubDate": "Mon, 20 Jul 2026 21:04:00 +0100",
-      "description": "Médio internacional pela Coreia do Sul assina por três épocas, com mais uma de opção",
-      "thumbnail": "https://img.iol.pt/image/id/6a5e7fe3d34ef04b4f3f7d94/250"
+      "title": "OFICIAL: André Gomes deixa o Benfica e é reforço do Casa Pia",
+      "link": "https://maisfutebol.iol.pt/liga/benfica/oficial-andre-gomes-deixa-o-benfica-e-e-reforco-do-casa-pia",
+      "pubDate": "Mon, 20 Jul 2026 22:34:42 +0100",
+      "description": "Guardião internacional pelos sub-21 de Portugal assina até junho de 2030",
+      "thumbnail": "https://img.iol.pt/image/id/6a5e92aad34ef04b4f3f7dc3/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Jhon Durán é reforço do Benfica por empréstimo",
-      "link": "https://maisfutebol.iol.pt/benfica/jhon-duran/oficial-jhon-duran-e-reforco-do-benfica",
-      "pubDate": "Mon, 20 Jul 2026 21:02:00 +0100",
-      "description": "Al Nassr cede internacional colombiano até ao fim da época e águias ficam com opção de compra por 30 milhões de euros",
-      "thumbnail": "https://img.iol.pt/image/id/6a5e7ee2d34e511da0b2ea62/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica anuncia venda de bilhetes para a receção ao Belenenses",
-      "link": "https://maisfutebol.iol.pt/benfica/belenenses/benfica-confirma-jogo-aberto-aos-adeptos-no-estadio-da-luz",
-      "pubDate": "Mon, 20 Jul 2026 20:59:00 +0100",
-      "description": "Águias medem forças com o Belenenses no próximo dia 24 de julho",
-      "thumbnail": "https://img.iol.pt/image/id/651726efd34e65afa2f5df3c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto com mais dois jogos de preparação esta semana",
-      "link": "https://maisfutebol.iol.pt/fc-porto/pre-epoca-fc-porto/fc-porto-com-mais-dois-jogos-de-preparacao-esta-semana",
-      "pubDate": "Mon, 20 Jul 2026 20:52:00 +0100",
-      "description": "Dragões têm duelo matinal com o Penafiel na quarta-feira. No domingo, recebem o São João de Ver, no dia seguinte à apresentação",
-      "thumbnail": "https://img.iol.pt/image/id/6a5bc821d34ef04b4f3f770d/250"
+      "title": "Sporting-Estrasburgo, 7-0 (destaques)",
+      "link": "https://maisfutebol.iol.pt/sporting/resultados/sporting-estrasburgo-7-0-destaques",
+      "pubDate": "Mon, 20 Jul 2026 22:22:49 +0100",
+      "description": "Tanto, mas tanto por onde escolher",
+      "thumbnail": "https://img.iol.pt/image/id/6a5e84b9d34ef04b4f3f7d9a/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -147,9 +127,29 @@
       "color": "#4fc48a",
       "title": "Liga: calendário e todos os resultados da pré-temporada",
       "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Mon, 20 Jul 2026 20:41:00 +0100",
+      "pubDate": "Mon, 20 Jul 2026 22:12:00 +0100",
       "description": "Clubes já estão a preparar a época 2026/27",
       "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting-Estrasburgo, 7-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/sporting/estrasburgo/sporting-estrasburgo-7-0-cronica",
+      "pubDate": "Mon, 20 Jul 2026 22:11:30 +0100",
+      "description": "Novos e velhos numa festa bonita",
+      "thumbnail": "https://img.iol.pt/image/id/6a5e84b9d34e511da0b2ea6c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Do túnel aos conselhos de João Brandão: o primeiro dia de Cardoso Varela no FC Porto",
+      "link": "https://maisfutebol.iol.pt/fc-porto/cardoso-varela/do-tunel-aos-conselhos-de-joao-brandao-o-primeiro-dia-de-cardoso-varela-no-fc-porto",
+      "pubDate": "Mon, 20 Jul 2026 21:33:28 +0100",
+      "description": "Avançado português vai integrar a equipa B dos dragões com o objetivo de, a espaços, integrar a equipa principal",
+      "thumbnail": "https://img.iol.pt/image/id/6a5e85bbd34ef04b4f3f7da2/250"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,81 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Washington acusa Cuba de espionagem e infiltração em instituições de redes revolucionárias",
-      "link": "https://sapo.pt/artigo/washington-acusa-cuba-de-espionagem-e-infiltracao-em-instituicoes-de-redes-revolucionarias-6a5e3bf286e5f86c558dc041",
-      "pubDate": "Mon, 20 Jul 2026 16:00:34 +0000",
-      "description": "Segundo um relatório divulgado pelo Departamento de Estado dos EUA, Cuba conseguiu infiltrar agentes no corpo diplomático norte-americano e no Departamento da Defesa \"durante décadas\" e \"nos mais altos escalões\", sem ser detetada",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AqJfZVb6f3%2BuKkE6NzoszvpSf7GvJKbT5Yzw1O%2B7Pv7xn0Ae5ey9l0tzgpG8JWlJ0%2B20QT7xUS4LDIMhnR6%2BV0jsrdMxaeB2zZdk%2FK0XGLMp%2FSYcK9IduVIu7TL%2B3otoG"
+      "title": "Syrskyi nega divergências com o ex-ministro da Defesa ucraniano",
+      "link": "https://sapo.pt/artigo/syrskyi-nega-divergencias-com-o-ex-ministro-da-defesa-ucraniano-6a5e84a886e5f86c55970e32",
+      "pubDate": "Mon, 20 Jul 2026 20:30:57 +0000",
+      "description": "Demissão de Mykhailo Fedorov desencadeou protestos diários a pedir a sua reintegração e o afastamento do comandante-chefe das Forças Armadas da Ucrânia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AvTxz7kXUlAhHRg095F1FxG08qwkZ6ZLz7I1%2B6FsGYA6F5kNrcXlExmSW%2FKRVZ6fscIpnSqK4KZXznCJLCzrlez6yQQnfvVKcEc21XilvB2lODpqwbr%2F8AeVQNgWLQxR2"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cotação do Brent para entrega em setembro sobe 1,27% para 89,22 dólares",
-      "link": "https://www.noticiasaominuto.com/economia/3024543/cotacao-do-brent-para-entrega-em-setembro-sobe-1-27-para-89-22-dolares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-20 21:11:52",
+      "title": "Jesus diz não ser \"burro\": \"Jogadores vão deixar de fazer o que gostam\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3024574/jesus-diz-nao-ser-burro-jogadores-vao-deixar-de-fazer-o-que-gostam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-20 22:26:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6723f977d31ca.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5118eea5c4f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Benfica anuncia a contratação do colombiano Jhon Durán",
-      "link": "https://www.noticiasaominuto.com/desporto/3024544/oficial-benfica-anuncia-a-contratacao-do-colombiano-jhon-duran#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-20 21:09:47",
+      "title": "Irão: EUA iniciam 10.ª vaga de ataques aéreos desde o fim do cessar-fogo",
+      "link": "https://www.noticiasaominuto.com/mundo/3024567/irao-eua-iniciam-10-vaga-de-ataques-aereos-desde-o-fim-do-cessar-fogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-20 22:24:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66d6b2ba37fbe.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EUA prometem reprimir gangues haitianos que lucram com redes sociais",
-      "link": "https://www.noticiasaominuto.com/mundo/3024538/eua-prometem-reprimir-gangues-haitianos-que-lucram-com-redes-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-20 21:06:27",
+      "title": "Israel mata jovem e pai em ataque contra hospital em Gaza",
+      "link": "https://www.noticiasaominuto.com/mundo/3024565/israel-mata-jovem-e-pai-em-ataque-contra-hospital-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-20 22:22:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68139981da49d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e91a4ac9e1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Candidato a suceder a Guterres reúne-se com Lavrov em Moscovo",
-      "link": "https://www.noticiasaominuto.com/mundo/3024519/candidato-a-suceder-a-guterres-reune-se-com-lavrov-em-moscovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-20 21:02:29",
+      "title": "De goleada em goleada. Sporting humilha Strasbourg com reforços a brilhar",
+      "link": "https://www.noticiasaominuto.com/desporto/3024560/de-goleada-em-goleada-sporting-humilha-strasbourg-com-reforcos-a-brilhar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-20 22:09:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a04c65fd0e44.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MCwiY3JvcFkiOjZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e8983075d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Suspeito acusado de homicídio da antiga deputada britânica Ann Widdecombe",
-      "link": "https://www.noticiasaominuto.com/mundo/3024512/suspeito-acusado-de-homicidio-da-antiga-deputada-britanica-ann-widdecombe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-20 20:59:49",
+      "title": "Zodíaco. Semana de mudanças e oportunidades! Os conselhos para cada signo",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3024549/zodiaco-semana-de-mudancas-e-oportunidades-os-conselhos-para-cada-signo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-20 22:07:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5134b6f0cc4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQ1LCJjcm9wSGVpZ2h0IjoxMzc1LCJjcm9wWCI6MCwiY3JvcFkiOjIwNn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e838349c7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUxLCJjcm9wSGVpZ2h0IjoxMzc5LCJjcm9wWCI6NjQsImNyb3BZIjozMjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMywiY3JvcEhlaWdodCI6MTY1OSwiY3JvcFgiOjY0MywiY3JvcFkiOjQ2fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "NASA revela vídeo espetacular da passagem da sonda Psyche por Marte",
+      "link": "https://pplware.sapo.pt/ciencia/nasa-revela-video-espetacular-da-passagem-da-sonda-psyche-por-marte/",
+      "pubDate": "Mon, 20 Jul 2026 21:30:16 +0000",
+      "description": "A NASA divulgou um novo timelapse que reúne milhares de imagens captadas pela sonda Psyche durante a sua passagem por Marte. O vídeo destaca a beleza do planeta vermelho e marca uma etapa importante&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/horas_de_marte02.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pedidos de reapreciação dos exames nacionais custam 25€",
+      "link": "https://pplware.sapo.pt/informacao/pedidos-de-reapreciacao-dos-exames-nacionais-custam-25e/",
+      "pubDate": "Mon, 20 Jul 2026 20:30:04 +0000",
+      "description": "Os alunos que não concordem com a classificação obtida nos exames nacionais podem solicitar a reapreciação da prova. No entanto, este processo tem um custo associado de 25 euros por disciplina, valor que terá&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/09/ensino_superior_2-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Mon, 20 Jul 2026 19:00:36 +0000",
       "description": "A gigante de Cupertino mudou de estratégia com o Apple Watch Series 11, oferecendo mais bateria, ligação 5G e um ecrã mais resistente. Agora, a Amazon está a disponibilizar o smartwatch com um desconto&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/apple-watch-series-11-2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apagão ibérico: portugueses levam Red Eléctrica a tribunal",
-      "link": "https://pplware.sapo.pt/informacao/apagao-iberico-portugueses-vao-a-tribunal-e-pedem-centenas-de-milhoes-de-euros/",
-      "pubDate": "Mon, 20 Jul 2026 18:00:04 +0000",
-      "description": "Uma associação de defesa do consumidor avançou com uma ação popular contra a Red Eléctrica de España (REE), responsabilizando a operadora espanhola pelos prejuízos causados pelo apagão de 28 de abril de 2025. Em&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/apagao-tribunal-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Um tsunami vai atingir o Mediterrâneo. E Portugal também está em risco",
-      "link": "https://pplware.sapo.pt/informacao/um-tsunami-vai-atingir-o-mediterraneo-e-portugal-tambem-esta-em-risco/",
-      "pubDate": "Mon, 20 Jul 2026 17:41:44 +0000",
-      "description": "A possibilidade de um tsunami atingir o Mediterrâneo nas próximas décadas não é uma hipótese remota. Segundo a UNESCO, existe uma probabilidade de 100% de ocorrer, nos próximos 30 a 50 anos, pelo menos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tsunami_portugal00.webp"
     },
     {
       "sourceId": "autosport",
