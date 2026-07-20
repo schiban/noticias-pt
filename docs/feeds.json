@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-20T01:05:24.543283+00:00",
+  "updated": "2026-07-20T05:03:08.714262+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Portugal é o país da União onde a habitação ficou mais cara",
+      "link": "https://observador.pt/programas/boa-moeda-ma-moeda/portugal-e-o-pais-da-uniao-onde-a-habitacao-ficou-mais-cara/",
+      "pubDate": "Mon, 20 Jul 2026 06:01:58 +0100",
+      "description": "País continua a deter o lugar do pódio quando se fala em subida dos preços. Embora o número de casas vendidas tenha caído no início do ano, os preços continuaram a aumentar e a atingir novos recordes",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O pior já passou nos exames nacionais?",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/o-pior-ja-passou-nos-exames-nacionais/",
+      "pubDate": "Mon, 20 Jul 2026 05:02:40 +0100",
+      "description": "Depois dos erros nas classificações, as dúvidas mantêm-se. Filinto Lima explica o que falhou, o impacto nos alunos e o que esperar da segunda fase.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,32 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fotogaleria. A \"fiesta\" espanhola no Terreiro do Paço",
-      "link": "https://observador.pt/2026/07/20/espanhois-e-argentinos-encheram-o-terreiro-do-paco-mas-no-final-a-vitoria-foi-roja-as-imagens-da-fiesta-espanhola-em-lisboa/",
-      "pubDate": "Mon, 20 Jul 2026 01:19:19 +0100",
-      "description": "A língua espanhola encheu o Terreiro do Paço e no final a vitória sorriu à La Roja. Um golo solitário do avançado espanhol Ferran Torres selou o jogo de sentido único na final do Mundial-2026.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010803/ts154a5808.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Messi, Yamal, Mbappé, Rodri. As contas da Bola de Ouro",
-      "link": "https://observador.pt/2026/07/20/messi-fora-da-equacao-yamal-na-corrida-mbappe-a-baralhar-a-logica-e-rodri-a-tornar-se-evidente-como-ficaram-as-contas-da-bola-de-ouro/",
-      "pubDate": "Mon, 20 Jul 2026 01:17:20 +0100",
-      "description": "A vitória de Espanha e a derrota da Argentina acabaram por deixar Messi longe da nona Bola de Ouro. Yamal e Mbappé surgem como óbvios candidatos, mas Rodri pode voltar a ser a opção mais segura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010856/gettyimages-2286814189-scaled.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Mundial: Golo de Ferran Torres dá vitória a Espanha",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-mundial-golo-de-ferran-torres-da-vitoria-a-espanha_a1_1754510",
-      "pubDate": "Mon, 20 Jul 2026 02:14:02 +0100",
+      "title": "5h Arranca hoje o concurso nacional de acesso ao ensino superior",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-arranca-hoje-o-concurso-nacional-de-acesso-ao-ensino-superior_a1_1754518",
+      "pubDate": "Mon, 20 Jul 2026 06:41:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +65,41 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "00h Espanha é campeão do mundo de futebol",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-espanha-e-campeao-do-mundo-de-futebol_a1_1754509",
-      "pubDate": "Mon, 20 Jul 2026 01:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Novo líder trabalhista Andy Burnham assume hoje chefia do Governo britânico",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-lider-trabalhista-andy-burnham-assume-hoje-chefia-do-governo-britanico_n1754514",
+      "pubDate": "Mon, 20 Jul 2026 06:38:16 +0100",
+      "description": "O novo líder do Partido Trabalhista, Andy Burnham, torna-se hoje o sétimo primeiro-ministro britânico em 10 anos, sucedendo a Keir Starmer, que anunciou a demissão no mês passado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1e194bf2bce568f84c4a6a3624ca178a?w=350&amp;q=50&amp;rect=0,0,1720,943&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ataque russo contra Kiev faz um morto e vários feridos",
-      "link": "https://www.rtp.pt/noticias/mundo/ataque-russo-contra-kiev-faz-um-morto-e-varios-feridos_v1754504",
-      "pubDate": "Mon, 20 Jul 2026 00:01:47 +0100",
-      "description": "Uma pessoa morreu e outras 16 ficaram feridas depois de um dos maiores ataques da Rússia à Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/92/92d638479e8b9fa5e43b25c34f686b07_N.jpg?"
+      "title": "Candidaturas ao ensino superior arrancam hoje com mais de 56 mil vagas",
+      "link": "https://www.rtp.pt/noticias/pais/candidaturas-ao-ensino-superior-arrancam-hoje-com-mais-de-56-mil-vagas_n1754513",
+      "pubDate": "Mon, 20 Jul 2026 06:35:41 +0100",
+      "description": "O concurso nacional de acesso ao ensino superior arranca hoje, com mais de 56 mil vagas, numa altura em que os alunos já deverão conhecer todas as classificações dos exames nacionais, após os atrasos na divulgação das pautas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0fa9a2bd2db5bdb0e38966bd8150d0c9?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "PCP não afasta apresentar moção de censura ao Governo",
-      "link": "https://www.rtp.pt/noticias/politica/pcp-nao-afasta-apresentar-mocao-de-censura-ao-governo_v1754503",
-      "pubDate": "Sun, 19 Jul 2026 23:59:47 +0100",
-      "description": "O PCP não afasta uma moção de censura ao Governo. Paulo Raimundo diz que o executivo merece censura com o caso dos exames, com as polémicas em torno do ministro da Administração Interna e com o rumo político em especial na Saúde.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2f/2f637c392e55a23b2deb2c2535c13e49_N.jpg?"
+      "title": "Irão. Diplomacia iraniana avisa que o país não se deixa intimidar",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-diplomacia-iraniana-avisa-que-o-pais-nao-se-deixa-intimidar_v1754517",
+      "pubDate": "Mon, 20 Jul 2026 06:30:47 +0100",
+      "description": "O Ministro dos Negócios Estrangeiros do Irão deixa um aviso claro a Washington e a Telavive: Teerão não aceita ameaças nem subornos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b8/b8dbbb0c6a7a223151690f890a421281_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndios em Espanha. Já arderam mais de 70 mil hectares este ano",
-      "link": "https://www.rtp.pt/noticias/mundo/incendios-em-espanha-ja-arderam-mais-de-70-mil-hectares-este-ano_v1754502",
-      "pubDate": "Sun, 19 Jul 2026 23:24:47 +0100",
-      "description": "Há três dias que o fogo na serra norte de Guadalajara, nos arredores de Madrid, está avançar. Esta noite foram 14 quilómetros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/69/69c59ef8924354a24e183f34dedd3368_N.jpg?"
+      "title": "Golo no prolongamento dá o título mundial à Espanha",
+      "link": "https://www.rtp.pt/noticias/desporto/golo-no-prolongamento-da-o-titulo-mundial-a-espanha_v1754516",
+      "pubDate": "Mon, 20 Jul 2026 06:28:47 +0100",
+      "description": "A Espanha é a nova campeã do mundo de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/5b/5bb0f0a28adf85617768a92f1157babe_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
