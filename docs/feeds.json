@@ -1,145 +1,105 @@
 {
-  "updated": "2026-07-21T08:21:25.502912+00:00",
+  "updated": "2026-07-21T10:37:49.591895+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 9h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2416/",
-      "pubDate": "Tue, 21 Jul 2026 09:15:15 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Habitação. Cidadãos \"podem ter direito a apoio e não saber\"",
+      "link": "https://observador.pt/programas/resposta-pronta/habitacao-cidadaos-podem-ter-direito-a-apoio-e-nao-saber/",
+      "pubDate": "Tue, 21 Jul 2026 11:34:47 +0100",
+      "description": "A porta voz da DECO, Ana Sofia Ferreira, explica ao Observador como funciona o apoio de comunicação grátis que serve para informar beneficiários do Programa de Apoio Extraordinário à Renda.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Volta. Caça ao lixo tem \"tendência a diminuir\", diz SDR",
-      "link": "https://observador.pt/2026/07/21/volta-recolheu-100-milhoes-de-embalagens-em-tres-meses-caca-ao-lixo-tem-tendencia-a-diminuir-diz-sdr/",
-      "pubDate": "Tue, 21 Jul 2026 09:01:39 +0100",
-      "description": "Sistema de recolha de embalagens cumpre três meses com taxa de recolha de 38%. SDR diz que apanha em contentores não reflete \"falha\" e lembra que valor do depósito não reverte para o Estado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/10051846/46894697.jpg"
+      "title": "Irão não exclui ataques no próprio território contra os EUA",
+      "link": "https://observador.pt/2026/07/21/irao-nao-exclui-ataques-no-proprio-territorio-alvejaremos-os-americanos-mesmo-em-ilhas-que-nos-pertencem/",
+      "pubDate": "Tue, 21 Jul 2026 11:34:03 +0100",
+      "description": "O porta-voz do exército iraniano avisa que qualquer incursão terrestre dos EUA na ilha de Kharg será retaliada — e ameaça quem use o Estreito de Ormuz para abastecer Washington.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2058:1157:nowe:0:61/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/21110447/mohammad-akraminia.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Portugal entre destinos favorecidos por mudanças no turismo",
-      "link": "https://observador.pt/2026/07/21/portugal-esta-entre-destinos-favorecidos-pela-alteracao-dos-fluxos-turisticos-de-acordo-com-a-mckinsey/",
-      "pubDate": "Tue, 21 Jul 2026 08:57:22 +0100",
-      "description": "Estudo da consultora norte-americana indica que instabilidade geopolítica leva viajantes a \"reavaliar destinos e rotas\". Apesar disso, poucos cancelam. Segurança também é fator de peso.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/21080258/47252275.jpg"
+      "title": "Cesarianas quadriplicaram no ano passado",
+      "link": "https://observador.pt/2026/07/21/proporcao-de-cesarianas-programadas-quadruplicou-no-ano-passado/",
+      "pubDate": "Tue, 21 Jul 2026 11:29:15 +0100",
+      "description": "Reguladora contabiliza 83.039 partos, um aumento de 3,6% no período homólogo. Região Centro tem menor proporção, em 29%. Números têm maior incidência fora do SNS.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3600:2024:nowe:0:188/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/08/05074714/39994929.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "O estado da Nação sem gritos",
-      "link": "https://observador.pt/opiniao/o-estado-da-nacao-sem-gritos/",
-      "pubDate": "Tue, 21 Jul 2026 08:53:11 +0100",
-      "description": "Os portugueses dizem que estão pior do que há um ano. Como o emprego e o rendimento têm crescido, as razões para esta visão está nos detalhes, onde encontramos em geral o diabo.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg"
+      "title": "Gorongosa promove piripíri como fonte de rendimento",
+      "link": "https://observador.pt/2026/07/21/parque-mocambicano-da-gorongosa-promove-piripiri-como-fonte-de-rendimento-para-familias-rurais/",
+      "pubDate": "Tue, 21 Jul 2026 10:58:33 +0100",
+      "description": "O projeto visa transformar o piripíri da Gorongosa numa cadeia de valor sustentável e inclusiva. Gorongosa estima que a produção da cultura atingiu 5,1 toneladas de piripíri desde janeiro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3840:2161:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/04210341/GettyImages-1341802823.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notas de graça e o cão que quer matar o Herman",
-      "link": "https://observador.pt/programas/momentos-de-glria/as-notas-de-graca-e-o-cao-que-quer-matar-o-herman/",
-      "pubDate": "Tue, 21 Jul 2026 08:49:07 +0100",
-      "description": "Entre o aquecimento espanhol e as vinganças no Parlamento, há alunos a celebrar notas suspensas. Portugal só perde com campeões e o Herman foge do \"criminoso\" Álvaro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
+      "title": "Tempestade no Chile faz 10 mortos e isola 104 mil pessoas",
+      "link": "https://observador.pt/2026/07/21/tempestade-intensa-no-chile-faz-pelo-menos-10-mortos-e-isola-mais-de-100-mil-pessoas/",
+      "pubDate": "Tue, 21 Jul 2026 10:58:05 +0100",
+      "description": "As chuvas fortes começaram na quinta-feira no centro-sul e avançaram para norte, onde foi declarado estado de catástrofe. Zonas sem água potável e casas destruídas alvo de ajuda humanitária.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/21092110/47494048.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sete anos de prisão para líder de rede de tráfico de bebés na Indonésia",
-      "link": "https://www.rtp.pt/noticias/mundo/sete-anos-de-prisao-para-lider-de-rede-de-trafico-de-bebes-na-indonesia_n1754793",
-      "pubDate": "Tue, 21 Jul 2026 10:14:59 +0100",
-      "description": "Um tribunal da cidade indonésia de Bandung condenou hoje uma mulher a sete anos de prisão, por dirigir uma rede de tráfico de bebés entre a Indonésia e Singapura.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/16/16cf23a9fd0b86b5e2c30ab2dbd8e70f?w=350&amp;q=50&amp;rect=31,0,1437,788&amp;auto=format"
+      "title": "11h Presidente do EDUQA garante que falhas no sistema de correção digital foram reparadas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-presidente-do-eduqa-garante-que-falhas-no-sistema-de-correcao-digital-foram-reparadas_a1_1754837",
+      "pubDate": "Tue, 21 Jul 2026 12:29:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"Volta\". Sistema de depósito de embalagens atinge os 100 milhões",
-      "link": "https://www.rtp.pt/noticias/pais/volta-sistema-de-deposito-de-embalagens-atinge-os-100-milhoes_n1754798",
-      "pubDate": "Tue, 21 Jul 2026 10:03:44 +0100",
-      "description": "O Sistema de Depósito com Reembolso (SDR), chamado Volta, atingiu esta semana os 100 milhões de embalagens de bebidas de uso único devolvidas, com uma taxa de recolha nos 38%, informaram hoje os responsáveis pela infraestrutura.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/427ff0fe19628187a2cb7cd6318f5d67?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+      "title": "Ministro da Educação diz que vantagens da avaliação digital ultrapassam os riscos",
+      "link": "https://www.rtp.pt/noticias/pais/ministro-da-educacao-diz-que-vantagens-da-avaliacao-digital-ultrapassam-os-riscos_e1754812",
+      "pubDate": "Tue, 21 Jul 2026 12:27:45 +0100",
+      "description": "O ministro da Educação, Ciência e Inovação, Fernando Alexandre, participa esta terça-feira numa audição convocada pelo PCP e Livre sobre o processo de digitalização e avaliação dos exames nacionais. Acompanhamos aqui, ao minuto, todos os desenvolvimentos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f6dc03c1047847aea0502b811ff7813b?w=350&amp;q=50&amp;rect=2,0,7163,3927&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Armazém humanitário da UNICEF com danos graves após ataque russo",
-      "link": "https://www.rtp.pt/noticias/mundo/armazem-humanitario-da-unicef-com-danos-graves-apos-ataque-russo_n1754797",
-      "pubDate": "Tue, 21 Jul 2026 10:01:06 +0100",
-      "description": "O Fundo das Nações Unidas para a Infância (UNICEF) alertou hoje que um armazém humanitário localizado na região de Kiev foi atingido no domingo durante um ataque do exército russo, destruindo mantimentos vitais destinados às famílias ucranianas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/72ac2196d5aa7b9a0aa2e3c59b41e769?w=350&amp;q=50&amp;rect=0,49,1500,822&amp;auto=format"
+      "title": "Índia. \"Partido das baratas\" cancela marchas para evitar mais feridos",
+      "link": "https://www.rtp.pt/noticias/mundo/india-partido-das-baratas-cancela-marchas-para-evitar-mais-feridos_n1754833",
+      "pubDate": "Tue, 21 Jul 2026 12:26:05 +0100",
+      "description": "O fundador do movimento já pediu desculpas aos manifestantes que ficaram feridos na sequência de protestos que decorreram em Nova Deli, na Índia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cf4669d9f51de99bf3b33b77074e59e?w=350&amp;q=50&amp;rect=0,31,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Mundial2026. EUA fecham quase 2.000 ‘sites’ que transmitiam ilegalmente jogos",
-      "link": "https://www.rtp.pt/noticias/mundial-2026/mundial2026-eua-fecham-quase-2000-sites-que-transmitiam-ilegalmente-jogos_d1754795",
-      "pubDate": "Tue, 21 Jul 2026 09:41:51 +0100",
-      "description": "As autoridades norte-americanas encerraram quase 2.000 &#039;sites&#039; que transmitiam jogos do Campeonato do Mundo de futebol sem as devidas autorizações, mais de metade sediados na Colômbia, foi hoje divulgado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/92002ee133102e740ea31bbb9c26cb89?w=350&amp;q=50&amp;rect=0,233,3928,2154&amp;auto=format"
+      "title": "Dívida agrava-se na zona euro e UE no 1.º trimestre e Portugal regista a 5.ª maior",
+      "link": "https://www.rtp.pt/noticias/economia/divida-agrava-se-na-zona-euro-e-ue-no-1o-trimestre-e-portugal-regista-a-5a-maior_n1754822",
+      "pubDate": "Tue, 21 Jul 2026 11:57:52 +0100",
+      "description": "A dívida pública da zona euro agravou-se, no primeiro trimestre, para os 88,9% do Produto Interno Bruto (PIB) e a da União Europeia (UE) para 82,9%, com Portugal a registar a quinta mais alta (91%), segundo o Eurostat.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d78a61a0f37889a971bc7a98e7a30739?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Portugal desce ao sétimo lugar do ranking da FIFA, campeã mundial Espanha sobe à liderança",
-      "link": "https://www.rtp.pt/noticias/selecao-nacional/portugal-desce-ao-setimo-lugar-do-ranking-da-fifa-campea-mundial-espanha-sobe-a-lideranca_d1754794",
-      "pubDate": "Tue, 21 Jul 2026 09:35:22 +0100",
-      "description": "Portugal desceu do quinto para o sétimo lugar do ranking da FIFA, que foi divulgado hoje e passou a ser liderado pela Espanha, ao ultrapassar a Argentina, após a vitória sobre os sul-americanos na final do Mundial2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/22/22b28a086390a77bfb3391de0edbd1c7?w=350&amp;q=50&amp;rect=0,264,1771,971&amp;auto=format"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Argentina recebeu vice-campeões em clima de festa, mas sem Messi",
-      "link": "https://maisfutebol.iol.pt/mundial-2026/argentina/video-argentina-recebeu-vice-campeoes-em-clima-de-festa-mas-sem-messi",
-      "pubDate": "Tue, 21 Jul 2026 08:23:00 +0100",
-      "description": "Milhares de adeptos desafiaram a chuva para agradecer à seleção pelo percurso no Mundial 2026",
-      "thumbnail": "https://img.iol.pt/image/id/6a5f1e01d34ef04b4f3f7e06/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/hoje-e-noticia/hoje-vai-ser-noticia-178461720",
-      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0100",
-      "description": "Carlos Vicens, treinador do Sp. Braga, e um jogador, fazem a antevisão ao duelo diante do Zeleznicar Pancevo, em jogo a contar para a primeira mão da segunda pré-eliminatória de acesso à fase de liga da Liga Conferência",
-      "thumbnail": "https://img.iol.pt/image/id/6a5be5b5d34ef04b4f3f774b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Tue, 21 Jul 2026 00:24:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Tue, 21 Jul 2026 00:24:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "title": "Défice da zona euro e da UE sobe para 3,1% do PIB no 1.º trimestre",
+      "link": "https://www.rtp.pt/noticias/economia/defice-da-zona-euro-e-da-ue-sobe-para-31-do-pib-no-1o-trimestre_n1754821",
+      "pubDate": "Tue, 21 Jul 2026 11:53:12 +0100",
+      "description": "O défice público da zona euro e da União Europeia tiveram um agravamento homólogo, no primeiro trimestre, de 0,1 pontos percentuais para 3,1% do PIB, com Portugal a registar o terceiro maior excedente (0,3%), divulga hoje o Eurostat.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -147,9 +107,49 @@
       "color": "#4fc48a",
       "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
       "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
-      "pubDate": "Tue, 21 Jul 2026 00:13:00 +0100",
+      "pubDate": "Tue, 21 Jul 2026 11:20:00 +0100",
       "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
       "thumbnail": "https://img.iol.pt/image/id/6a5e82f2d34e511da0b2ea67/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Yaya Bojang reforça a defesa do Alverca",
+      "link": "https://maisfutebol.iol.pt/transferencias/yaya-bojang/oficial-yaya-bojang-reforca-a-defesa-do-alverca",
+      "pubDate": "Tue, 21 Jul 2026 11:19:45 +0100",
+      "description": "Defesa-central de 21 anos chega proveniente da Liga da Dinamarca",
+      "thumbnail": "https://img.iol.pt/image/id/6a5f4507d34e511da0b2eb99/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Aurélio Buta reforça São Paulo",
+      "link": "https://maisfutebol.iol.pt/transferencias/mercado/oficial-aurelio-buta-reforca-sao-paulo",
+      "pubDate": "Tue, 21 Jul 2026 11:19:12 +0100",
+      "description": "Lateral direito assinou por um ano (com mais um ano de opção)",
+      "thumbnail": "https://img.iol.pt/image/id/6a5f456bd34e511da0b2eb9a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Ex-namorada acusa Michael Olise de nunca ter visto a filha",
+      "link": "https://maisfutebol.iol.pt/alemanha/bayern-munique/ex-namorada-acusa-michael-olise-de-nunca-ter-visto-a-filha",
+      "pubDate": "Tue, 21 Jul 2026 11:16:08 +0100",
+      "description": "Segundo o jornal alemão Bild, antigo companheiro da mulher reconheceu a paternidade, mas contacto decorre apenas através de advogados",
+      "thumbnail": "https://img.iol.pt/image/id/69f113e7d34edcee7c63930f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Benfica reforça andebol com internacional norueguês vindo do PSG",
+      "link": "https://maisfutebol.iol.pt/andebol/benfica/oficial-benfica-reforca-andebol-com-internacional-noruegues-vindo-do-psg",
+      "pubDate": "Tue, 21 Jul 2026 10:49:49 +0100",
+      "description": "Sindre Heldal assinou até 2028 e chega à Luz depois de conquistar o campeonato francês",
+      "thumbnail": "https://img.iol.pt/image/id/6a5f4085d34ef04b4f3f7e90/250"
     },
     {
       "sourceId": "sapo",
@@ -165,141 +165,161 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Volta vê problemas de higiene urbana como “pontuais”",
+      "title": "Especialistas questionam sigilo da PJ sobre contratos com empreiteiro ligado ao caso Luís Neves",
+      "link": "https://executivedigest.sapo.pt/especialistas-questionam-sigilo-da-pj-sobre-contratos-com-empreiteiro-ligado-ao-caso-luis-neves/",
+      "pubDate": "Tue, 21 Jul 2026 09:53:05 +0000",
+      "description": "A crescente polémica em torno da relação entre o ministro da Administração Interna, Luís Neves, e o empreiteiro João Carvalho continua a ganhar novos contornos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=446&W=792&crop=center&delay_optim=1&epic=V2%3ADV5WBZMPf%2FXGD5Zn31uRHAJL%2FhmaNc9eVRgi%2F1LEqhze7W3%2B8GXF0IHRjN9LsN%2Fqq%2B6DfjZDm1%2BlcZQAhG%2FDjRgnuEeufm7vVdFbH5iGDl76kaYcfU803Ut1R6NAyL4V"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Criticado por ir ao futebol, Montenegro abdica de férias para “coordenar atividade do Governo”",
+      "link": "https://eco.sapo.pt/2026/07/21/primeiro-ministro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo/",
+      "pubDate": "Tue, 21 Jul 2026 09:35:58 +0000",
+      "description": "Luís Montenegro não vai tirar férias de verão este ano. O primeiro-ministro manterá a coordenação da atividade do Governo e a agenda política enquanto líder do PSD.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ad%2FvetTy8EVsM%2FITlHXL%2BokNUhEBVm8XDD7k5PGX4SsbNK3L%2F1jP5C%2BDrDzSeo9nyF%2BDQqxHKe%2Fen4TUeECEOA%2BQPwZrMwXtuV46BlNBKnNM%2BD%2FrR1hHKmkOQhCiG6bIr"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ministério Público arquiva inquérito ao abate de centenas de veados na Herdade da Torre Bela na Azambuja",
+      "link": "https://sapo.pt/artigo/ministerio-publico-arquiva-inquerito-ao-abate-de-centenas-de-veados-na-herdade-da-torre-bela-na-azambuja-6a5f387e86e5f86c55a6be03",
+      "pubDate": "Tue, 21 Jul 2026 09:34:33 +0000",
+      "description": "O Ministério Público considerou que não existem indícios suficientes da prática do crime de dano contra a natureza.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=420&W=746&crop=center&delay_optim=1&epic=V2%3AhGf5jqHcINNoRV89C7j%2FJfKZKKpi9XsrTytf7yGaY%2B4A23k%2BLN5AvkKa3G5VXE5iFooaMCFNXEZtntfJXGtCgUeK%2FHicvnJdnHJZOJXx0Be7k0PGx6ggRm8AjR0qRbWk"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Volta vê problemas de higiene urbana como “pontuais”. Já foram recolhidas 100 milhões de embalagens",
       "link": "https://eco.sapo.pt/2026/07/21/volta-ve-problemas-de-higiene-urbana-como-pontuais-e-diz-que-noutros-paises-tambem-aconteceram-mas-reduziram-se/",
       "pubDate": "Tue, 21 Jul 2026 08:05:51 +0000",
       "description": "Volta garante que \"ataque\" a contentores nas ruas para retirar embalagens passou-se também noutros países, mas foi desvanecendo, à medida que cresceu a maturidade dos sistemas de depósito e reembolso.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AbWm%2F4fqAPJZ1dFHoxLJwGGsNCvDXzLx%2BNVQcaxy%2BvevFUK67fMPb4gXZLaAamhcXS4J1oCZRuSFpfziHsXvUZhiUadPaS4VZ45DBP%2BjN3YhzAV%2FzmjQsQAejf%2FDHBrYC"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Do papel ao IRS automático, o contraste com o caos na correção digital dos exames",
-      "link": "https://eco.sapo.pt/2026/07/21/do-papel-ao-irs-automatico-o-contraste-com-o-caos-na-correcao-digital-dos-exames/",
-      "pubDate": "Tue, 21 Jul 2026 07:12:15 +0000",
-      "description": "A transição digital do IRS demorou mais de duas décadas, passando do papel ao atual modelo automático. Evolução gradual contrasta com multiplicação de problemas na correção eletrónica dos exames.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AQPcYYvBgn67H9s6Dq4lmZx7aB8Gnrjl6aK6em4BLtFEIHJF221qSBPkmijWN%2FWxI%2BqaGQcwgiCG%2FZTtwqYGNfERvcm3y9icg3HXRVeJfT%2BpaAwW0m%2B%2BmSmLI6Swi6y5s"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Almada aprecia moção de censura a executivo PS-CDU",
-      "link": "https://sapo.pt/artigo/almada-aprecia-mocao-de-censura-a-executivo-ps-cdu-6a5f1c861c5549f5dbc5c56f",
-      "pubDate": "Tue, 21 Jul 2026 07:53:05 +0000",
-      "description": "Moção surge na sequência de falhas no abastecimento de água. PSD/Almada afirma que \"não houve planeamento adequado\". SMAS anunciaram fiscalização para \"utilização responsável\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ABexP8p8IMJiutOD42XjtMdiKEBvkoDT4qnZ7YkHbwnNLkMPEULHGut2anxM%2BFhDe2nEWkh4UVFI0QLQpE9nOIKJO6WeKiBjgdb4Z9h2gEgmr4d59YoSUs3Rojz5yIJxa"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "“Tratar a apneia do sono não é apenas dormir melhor: é também proteger a saúde cerebral”",
-      "link": "https://sapo.pt/artigo/tratar-a-apneia-do-sono-nao-e-apenas-dormir-melhor-e-tambem-proteger-a-saude-cerebral-sofia-rebocho-tecnica-de-cardiopneumologia-e-neurofisiologia-6a5f1f7b39564b23dacedd83",
-      "pubDate": "Tue, 21 Jul 2026 08:05:51 +0000",
-      "description": "Há um cansaço acumulado que o repouso não mitiga. Quando o sono é repetidamente interrompido pela apneia, o corpo ressente-se e o cérebro pode sofrer consequências duradouras. Sofia Rebocho, técnica de Cardiopneumologia e Neurofisiologia e mestre...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6YZP21ticzHBm6GZcC4LfwHXOspL5CiRLwGj5FZ1vyi%2Bf4h4zikN5JH0r9JhEW%2B%2BFTa4kpr9mmjrFS1HzrQrmJqvJI%2Bt0hCFdDnuaHjGreCIOIEH4k%2BbMk%2B6j42Gku3y"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Queixas sobre ações de \"recall\" dispararam 459% até junho",
+      "link": "https://www.noticiasaominuto.com/auto/3024745/reclamacoes-sobre-acoes-de-recall-disparou-459-ate-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-21 11:30:08",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f49866dbf8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Juros da dívida de Portugal descem a dois anos e sobem a cinco e 10 anos",
-      "link": "https://www.noticiasaominuto.com/economia/3024688/juros-da-divida-de-portugal-descem-a-dois-anos-e-sobem-a-cinco-e-10-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-21 09:15:03",
+      "title": "Cão desaparecido há semanas resgatado enquanto nadava nos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3024764/cao-desaparecido-ha-semanas-resgatado-enquanto-nadava-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-21 11:24:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5e3d23934f104.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMjZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f46d9a5c74.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Devolvidas 100 milhões de embalagens. Higiene urbana? \"Problema pontual\"",
-      "link": "https://www.noticiasaominuto.com/economia/3024692/devolvidas-100-milhoes-de-embalagens-higiene-urbana-problema-pontual#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-21 09:13:54",
+      "title": "António Silva já tem acordo com Bournemouth. Benfica fixa prazo de venda",
+      "link": "https://www.noticiasaominuto.com/desporto/3024766/antonio-silva-ja-tem-acordo-com-bournemouth-benfica-fixa-prazo-de-venda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-21 11:18:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3a4458b1b6a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f4782ef671.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjcsImNyb3BZIjoyM319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Armazém humanitário da UNICEF em Kyiv com danos graves após ataque russo",
-      "link": "https://www.noticiasaominuto.com/mundo/3024687/armazem-humanitario-da-unicef-em-kyiv-com-danos-graves-apos-ataque-russo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-21 09:07:38",
+      "title": "Detalhes da época especial de exames serão divulgados hoje",
+      "link": "https://www.noticiasaominuto.com/pais/3024763/detalhes-da-epoca-especial-de-exames-serao-divulgados-hoje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-21 11:16:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f292e4c428.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6MzR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47495361.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg5MywiY3JvcEhlaWdodCI6MTU4OCwiY3JvcFgiOjg5MCwiY3JvcFkiOjZ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eurodeputados iniciam visita à China para abordar tensões com Bruxelas",
-      "link": "https://www.noticiasaominuto.com/mundo/3024686/eurodeputados-iniciam-visita-a-china-para-abordar-tensoes-com-bruxelas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-21 09:06:48",
+      "title": "Sobrevivente de massacre de Utoya diz que sociedade não cumpriu promessas",
+      "link": "https://www.noticiasaominuto.com/mundo/3024717/sobrevivente-de-massacre-de-utoya-diz-que-sociedade-nao-cumpriu-promessas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-21 11:15:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6495607dac897.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MzksImNyb3BZIjoxMjV9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Mais adrenalina em Espanha: Conheça os heróis que não usam chuteiras",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3024135/mais-adrenalina-em-espanha-conheca-os-herois-que-nao-usam-chuteiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-21 09:05:19",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e245942c4e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5db4e65608e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTN9fQ=="
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Vai de férias? A GNR pode vigiar a sua casa, gratuitamente",
-      "link": "https://pplware.sapo.pt/informacao/vai-de-ferias-a-gnr-pode-vigiar-a-sua-casa-gratuitamente/",
-      "pubDate": "Tue, 21 Jul 2026 07:48:01 +0000",
-      "description": "Vai de férias e vai deixar a casa vazia? A Guarda Nacional Republicana (GNR), em articulação com a Polícia de Segurança Pública (PSP), tem uma solução simples e totalmente grátis para isso. Basta um&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/casa-ferias-1.jpg"
+      "title": "Office 2024 Pro por 16,99€ e Windows 11 Pro desde 12,25€",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-pro-windows-11-pro-summer-sale-godeal24/",
+      "pubDate": "Tue, 21 Jul 2026 10:30:57 +0000",
+      "description": "Quem soma as renovações do Microsoft 365 dos últimos anos chega facilmente ao preço de um portátil novo. A subscrição subiu, os programas continuam os mesmos e a fatura repete-se todos os anos. A&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/260720-720p-gd24-PT-1.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Google Maps ganha novidade no Android Auto para poder bater o Waze",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-maps-ganha-novidade-no-android-auto-quer-bater-o-waze/",
-      "pubDate": "Tue, 21 Jul 2026 07:00:44 +0000",
-      "description": "O Google Maps tem uma novidade que o coloca ao nível do Waze. Começou a mostrar um velocímetro em tempo real no Android Auto. Esta funcionalidade já existe há anos nos telemóveis Android e&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/01/Google-Maps-Android-Auto.jpg"
+      "title": "X reconstrói totalmente a sua app para Android para acabar com as falhas",
+      "link": "https://pplware.sapo.pt/redes_sociais/aplicacao-do-x-para-android-foi-totalmente-reconstruida-para-acabar-com-as-falhas/",
+      "pubDate": "Tue, 21 Jul 2026 10:00:32 +0000",
+      "description": "A rede social X, anteriormente conhecida como Twitter, lançou uma versão completamente renovada da sua aplicação para dispositivos Android. Após quase um ano de desenvolvimento intensivo, a plataforma de Elon Musk decidiu reconstruir o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/07/x-twitter.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Fim da privacidade? Europa prepara-se para entregar os seus dados biométricos aos EUA",
-      "link": "https://pplware.sapo.pt/internet/seguranca/fim-da-privacidade-europa-prepara-se-para-entregar-os-seus-dados-biometricos-aos-eua/",
-      "pubDate": "Tue, 21 Jul 2026 06:00:33 +0000",
-      "description": "A relação com os EUA pode estar prestes a sofrer mudanças. A Europa negoceia atualmente um acordo que prevê a partilha de dados biométricos e perfis de risco dos cidadãos com as autoridades dos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/europa_eua_1.jpg"
+      "title": "Pneus sem ar já circulam no Japão, mas há um senão gigante",
+      "link": "https://pplware.sapo.pt/motores/pneus-sem-ar-ja-circulam-no-japao-mas-ha-um-senao-gigante/",
+      "pubDate": "Tue, 21 Jul 2026 09:30:42 +0000",
+      "description": "Depois de quase duas décadas de investigação, os pneus sem ar AirFree da Bridgestone saíram do laboratório e entraram em circulação real nas ruas do Japão, equipando uma pequena frota de veículos autónomos. Apesar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/airfree-bridgestone00.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "NASA revela vídeo espetacular da passagem da sonda Psyche por Marte",
-      "link": "https://pplware.sapo.pt/ciencia/nasa-revela-video-espetacular-da-passagem-da-sonda-psyche-por-marte/",
-      "pubDate": "Mon, 20 Jul 2026 21:30:16 +0000",
-      "description": "A NASA divulgou um novo timelapse que reúne milhares de imagens captadas pela sonda Psyche durante a sua passagem por Marte. O vídeo destaca a beleza do planeta vermelho e marca uma etapa importante&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/horas_de_marte02.webp"
+      "title": "Mailpit: a ferramenta para testar emails sem os enviar para destinatários reais",
+      "link": "https://pplware.sapo.pt/informacao/mailpit-a-ferramenta-para-testar-emails-sem-os-enviar-para-destinatarios-reais/",
+      "pubDate": "Tue, 21 Jul 2026 09:00:16 +0000",
+      "description": "Quando se está a desenvolver uma aplicação que envia emails, é essencial conseguir testar mensagens sem correr o risco de as enviar para utilizadores reais. É precisamente para isso que existe o Mailpit, uma&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/mailpit_00.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Pedidos de reapreciação dos exames nacionais custam 25€",
-      "link": "https://pplware.sapo.pt/informacao/pedidos-de-reapreciacao-dos-exames-nacionais-custam-25e/",
-      "pubDate": "Mon, 20 Jul 2026 20:30:04 +0000",
-      "description": "Os alunos que não concordem com a classificação obtida nos exames nacionais podem solicitar a reapreciação da prova. No entanto, este processo tem um custo associado de 25 euros por disciplina, valor que terá&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/09/ensino_superior_2-1.jpg"
+      "title": "Estes dois sinais de trânsito parecem iguais… mas não são",
+      "link": "https://pplware.sapo.pt/motores/estes-dois-sinais-de-transito-parecem-iguais-mas-nao-sao/",
+      "pubDate": "Tue, 21 Jul 2026 08:30:54 +0000",
+      "description": "Há dois sinais de trânsito que continuam a gerar alguma confusão entre os condutores portugueses. Ambos apresentam uma seta branca sobre um fundo azul, mas têm significados distintos e exigem comportamentos diferentes. Trânsito de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/sinais_00_t-1-1.jpg"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Oscar Piastri frustrado com “grelhas decididas por computadores”",
+      "link": "https://www.autosport.pt/formula1/f1-oscar-piastri-frustrado-com-grelhas-decididas-por-computadores/",
+      "pubDate": "Tue, 21 Jul 2026 09:23:54 +0000",
+      "description": "Oscar Piastri afirmou que as grelhas de Fórmula 1 estão a ser decididas por &#8220;computadores a comportarem-se bem ou mal&#8221;, classificando o formato atual como &#8220;uma forma bastante má de competir&#8221;. A afirmação surgiu depois do Grande Prémio da Bélgica, disputado em Spa-Francorchamp",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Duelo Alpine vs Racing Bulls está empatado",
+      "link": "https://www.autosport.pt/formula1/f1-duelo-alpine-vs-racing-bulls-esta-empatado/",
+      "pubDate": "Tue, 21 Jul 2026 09:07:03 +0000",
+      "description": "Há uma luta no meio da tabela que começa a atrair atenções. Alpine e Racing Bulls são as protagonistas do duelo pelo top 5, com as restantes já a alguma distância. E nas últimas duas jornadas, temos visto a Racing Bulls aproximar-se da equipa francesa, de tal forma que estão agora empatadas com 61 p",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-permanencia-de-alonso-na-aston-martin-nao-depende-do-pacote-de-atualizacoes-previsto-para-a-proxima-corrida/",
       "pubDate": "Mon, 20 Jul 2026 16:11:57 +0000",
       "description": "Fernando Alonso garantiu que a sua participação na temporada 2027 não dependerá do desempenho da tão aguardada atualização da Aston Martin, prevista para este fim de semana no Grande Prémio da Hungria. A declaração surge num momento em que Alonso pondera o seu futuro na modalidade, tendo há muito an",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Todos os motores Mercedes deram problemas no arranque do GP da Bélgica",
-      "link": "https://www.autosport.pt/formula1/f1-todos-os-motores-mercedes-deram-problemas-no-arranque-do-gp-da-belgica/",
-      "pubDate": "Mon, 20 Jul 2026 15:38:35 +0000",
-      "description": "Toto Wolff revelou que todos os carros equipados com motores Mercedes sofreram um problema no início do Grande Prémio da Bélgica, disputado em Spa-Francorchamps. A revelação surgiu depois de George Russell ter caído dramaticamente para o meio do pelotão na reta Kemmel, antes de um toque de Lewis Ham",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC, Elfyn Evans gere rali difícil na Estónia: “pontos decentes, o melhor que estava ao alcance”",
-      "link": "https://www.autosport.pt/ralis/wrc-elfyn-evans-gere-rali-dificil-na-estonia-pontos-decentes-o-melhor-que-estava-ao-alcance/",
-      "pubDate": "Mon, 20 Jul 2026 15:33:48 +0000",
-      "description": "Elfyn Evans terminou o Rally da Estónia na sexta posição da geral, mas conseguiu ainda assim reforçar a liderança do Campeonato do Mundo de Ralis, passando a dispor de 25 pontos de vantagem sobre o segundo classificado. O piloto galês, navegado por Scott Martin, foi segundo na Super Domingo e tercei",
       "thumbnail": ""
     }
   ]
