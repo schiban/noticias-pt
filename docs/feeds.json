@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-20T23:54:58.944307+00:00",
+  "updated": "2026-07-21T02:21:01.450335+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2382/",
+      "pubDate": "Tue, 21 Jul 2026 03:14:38 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Donald Trump diz que conversou com Andy Burnham",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2355/",
+      "pubDate": "Tue, 21 Jul 2026 02:14:50 +0100",
+      "description": "Donald Trump adianta que ambos os líderes vão-se encontrar em breve para “tratar de temas de interesse mútuo”. Ainda, a Fenprof acusa o Governo de lançar um clima de suspeição sobre os professores.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. PCP defende gratuitidade na reapreciação dos exames",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2329/",
+      "pubDate": "Tue, 21 Jul 2026 01:13:30 +0100",
+      "description": "Paula Santos considera ainda que as questões levantadas por todo este processo continuam sem solução. Ainda, Donald Trump diz que teve uma conversa \"produtiva\" com o novo primeiro-ministro britânico.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2444%3A2443%3Anowe%3A24%3A962%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170602%2Fze-diogo-quintela.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ouçam o que o Pedro diz",
-      "link": "https://observador.pt/opiniao/oucam-o-que-o-pedro-diz/",
-      "pubDate": "Tue, 21 Jul 2026 00:22:31 +0100",
-      "description": "Passos adoraria que Montenegro conseguisse fazer na Administração Pública o que o próprio não logrou, apesar de ter criado a CReSAP. 15 anos depois, tudo igual: mudam os governos, mudam os diretores.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2414%3A2414%3Anowe%3A74%3A952%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170559%2Frui-pedro-antunes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Pode haver mais exames com erros nas avaliações, diz movimento",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-pode-haver-mais-exames-com-erros-nas-avaliacoes-diz-movimento_a1_1754748",
+      "pubDate": "Tue, 21 Jul 2026 03:31:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sporting - Estrasburgo. \"Zalazar teve uma entrada de Leão\"",
-      "link": "https://observador.pt/programas/programa-comentarios/sporting-estrasbrugo-zalazar-teve-uma-entrada-de-leao/",
-      "pubDate": "Tue, 21 Jul 2026 00:22:22 +0100",
-      "description": "João Castro destaca a eficácia dos reforços e a evolução para uma equipa mais física e vertical no arranque da temporada. O adepto diz ainda que \"Flávio Gonçalves pode ser o Joker da formação\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:8/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20224711/sporting.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Portugal não teme concorrência no mercado angolano",
-      "link": "https://observador.pt/2026/07/21/empresas-portuguesas-sem-medo-da-concorrencia-em-angola-a-competicao-global-e-algo-a-que-estamos-habituados/",
-      "pubDate": "Tue, 21 Jul 2026 00:20:58 +0100",
-      "description": "Na véspera da 41ª FILDA, secretário de Estado da Economia defende vantagem competitiva de Portugal em Angola e mostra otimismo com exportações a subir 9% no início de 2026.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20225139/47493855.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h No dia em que Fernando Alexandre deixasse de ser ministro, seria um mau dia, diz o porta-voz do PSD",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-no-dia-em-que-fernando-alexandre-deixasse-de-ser-ministro-seria-um-mau-dia-diz-o-porta-voz-do-psd_a1_1754746",
+      "pubDate": "Tue, 21 Jul 2026 03:23:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Tue, 21 Jul 2026 00:52:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Bab el-Mandeb. Houthis ameaçam fechar estreito e estrangular ainda mais as rotas do petróleo",
-      "link": "https://www.rtp.pt/noticias/economia/bab-el-mandeb-houthis-ameacam-fechar-estreito-e-estrangular-ainda-mais-as-rotas-do-petroleo_n1754730",
-      "pubDate": "Tue, 21 Jul 2026 00:35:30 +0100",
-      "description": "Os Houthis do Iémen declararam “um embargo marítimo contra o inimigo criminoso saudita, baseado na equação de ‘olho por olho’, com efeito imediato”.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1da25c15c8076a92931572c9edeb78b8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Wall Street fecha em baixa com os investidores a optarem pela cautela",
-      "link": "https://www.rtp.pt/noticias/economia/wall-street-fecha-em-baixa-com-os-investidores-a-optarem-pela-cautela_n1754728",
-      "pubDate": "Mon, 20 Jul 2026 23:58:12 +0100",
-      "description": "A bolsa de Nova Iorque encerrou hoje em ligeira queda, numa sessão marcada pela turbulência geopolítica e aumento das taxas das obrigações, antes de mais uma vaga de balanços das empresas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f88d93db1f05c6ee9eac11e419cf66af?w=350&amp;q=50&amp;rect=0,27,1370,751&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
