@@ -1,105 +1,115 @@
 {
-  "updated": "2026-07-24T04:12:20.827245+00:00",
+  "updated": "2026-07-24T07:04:49.808453+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2351/",
-      "pubDate": "Fri, 24 Jul 2026 04:13:44 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "O vestido caro que gerou críticas à mulher do PM britânico",
+      "link": "https://observador.pt/programas/no-se-fala-de-outra-coisa/o-vestido-caro-que-gerou-criticas-a-mulher-do-pm-britanico/",
+      "pubDate": "Fri, 24 Jul 2026 08:00:42 +0100",
+      "description": "Mary France foi criticada pelo look de mais de mil euros na posse do Primeiro Ministro britânico. Entre o marketing e as \"más línguas\", o foco acabou apenas no corpo e na roupa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/14120208/770-podcast-nao-se-fala-de-outra-coisa-1.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2385/",
-      "pubDate": "Fri, 24 Jul 2026 03:15:57 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "França recebe meios aéreos através da UE",
+      "link": "https://observador.pt/2026/07/24/franca-recebe-meios-aereos-incluindo-de-portugal-atraves-de-mecanismo-da-ue/",
+      "pubDate": "Fri, 24 Jul 2026 07:53:47 +0100",
+      "description": "Incêndios no sul da Europa consomem várias regiões. Sudeste e sudoeste do país afetados por incêndios. Dois bombeiros morreram no combate. 2026 é segundo pior ano em área queimada, segundo satélite.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07175511/47401561.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Luís Neves não entregou ao TC declaração de património",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2358/",
-      "pubDate": "Fri, 24 Jul 2026 02:11:35 +0100",
-      "description": "O ministro da Administração Interna não entregou declarações nem em 2018 nem quando foi reconduzido no cargo, em 2021. Ainda, CODU Norte registou uma falha no sistema informático durante esta noite.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Luís Represas: missa pública, funeral só para família",
+      "link": "https://observador.pt/2026/07/24/funeral-do-musico-luis-represas-reservado-a-familia-antecedido-de-missa-aberta-ao-publico/",
+      "pubDate": "Fri, 24 Jul 2026 07:53:39 +0100",
+      "description": "A cerimónia religiosa realiza-se às 15h, na Basílica da Estrela, em Lisboa, e é aberta ao público. Depois segue-se o funeral do fundador dos Trovante reservado só para a família.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:185/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24055252/47503665.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. CODU do Norte registou falha no sistema informático",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2332/",
-      "pubDate": "Fri, 24 Jul 2026 01:12:54 +0100",
-      "description": "O Sindicato dos Técnicos de Emergência Pré-Hospitalar diz que ficaram por atender no momento pelo menos 50 ocorrências. Ainda, MAI sente-se legitimado para continuar a desempenhar funções.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Qual é o preço para a aprovação do Orçamento de Estado?",
+      "link": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/qual-e-o-preco-para-a-aprovacao-do-orcamento-de-estado/",
+      "pubDate": "Fri, 24 Jul 2026 07:51:38 +0100",
+      "description": "Enquanto o PS impõe linhas vermelhas para aprovar o Orçamento de Estado, a oposição pressiona Montenegro devido às polémicas no Governo e à estabilidade da equipa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/14100301/770-podcast-ainda-bem-que-faz-essa-pergunta-com-bruno-vieira-amaral.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Idosa encontrada morta no rio Ave",
-      "link": "https://observador.pt/2026/07/24/guimaraes-idosa-encontrada-morta-no-rio-ave/",
-      "pubDate": "Fri, 24 Jul 2026 00:31:05 +0100",
-      "description": "Uma mulher de 83 anos foi encontrada sem vida no rio Ave, em Guimarães. O alerta foi dado 18h49 e foram destacados para o local os bombeiros de Guimarães, do INEM e da GNR. A PJ também foi acionada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16154533/dventura-inem-2-scaled.jpg"
+      "title": "Admnistração Trump muda de estratégia legal em novas tarifas",
+      "link": "https://observador.pt/2026/07/24/admnistracao-trump-muda-de-estrategia-legal-em-novas-tarifas-contra-mais-de-80-paises/",
+      "pubDate": "Fri, 24 Jul 2026 07:43:31 +0100",
+      "description": "As taxas, entre 10% e 12,5%, entram em vigor às 7h01 de Lisboa e recaem sobre novos países, entre os quais os membros da União Europeia. Impostos não se aplicam a produtos como petróleo e gás.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24035823/47510377.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Líder da oposição na Guiné Bissau em Lisboa por razões médicas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-lider-da-oposicao-na-guine-bissau-em-lisboa-por-razoes-medicas_a1_1755514",
-      "pubDate": "Fri, 24 Jul 2026 05:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Nicolás Otamendi diz adeus à seleção da Argentina",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/nicolas-otamendi-diz-adeus-a-selecao-da-argentina_d1755547",
+      "pubDate": "Fri, 24 Jul 2026 08:59:22 +0100",
+      "description": "O defesa Nicolás Otamendi vai deixar de jogar pela seleção da Argentina, anunciou na quinta-feira o próprio futebolista, que agora representa o River Plate, após seis anos ao serviço do Benfica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f6d292f0e01aee9d5e0125059a45872b?w=350&amp;q=50&amp;rect=0,284,2046,1122&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Caso Luís Neves. PJ não encontra ordem para deslocar atrelado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-caso-luis-neves-pj-nao-encontra-ordem-para-deslocar-atrelado_a1_1755510",
-      "pubDate": "Fri, 24 Jul 2026 04:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Movimento Chumbado.pt sai à rua esta sexta-feira",
+      "link": "https://www.rtp.pt/noticias/pais/movimento-chumbadopt-sai-a-rua-esta-sexta-feira_n1755543",
+      "pubDate": "Fri, 24 Jul 2026 08:56:25 +0100",
+      "description": "O processo dos exames nacionais não tem escapado às críticas por causa dos atrasos e dos erros na correção da prova. Motivos que levam a que o movimento Chumbado.pt sai à rua em protesto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/30/30f5d5c684c721f826c9dc4fd67090d6?w=350&amp;q=50&amp;rect=0,43,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h INEM. Falha informática no CODU Norte gerou constrangimentos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-inem-falha-informatica-no-codu-norte-gerou-constrangimentos_a1_1755509",
-      "pubDate": "Fri, 24 Jul 2026 04:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Néstor Lorenzo renova contrato e mantém-se como selecionador da Colômbia",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/nestor-lorenzo-renova-contrato-e-mantem-se-como-selecionador-da-colombia_d1755542",
+      "pubDate": "Fri, 24 Jul 2026 08:53:53 +0100",
+      "description": "O treinador argentino Néstor Lorenzo renovou contrato com a Federação Colombiana de Futebol (FCF) para continuar à frente a seleção sul-americana, que atingiu os oitavos de final do último Campeoanto do Mundo, anunciou hoje aquele organismo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/721e7fdc81749920e65733875a7f00ef?w=350&amp;q=50&amp;rect=0,181,4106,2251&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Aeroporto Lisboa: dezenas de guineenses, à espera do líder do PAIGC",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-aeroporto-lisboa-dezenas-de-guineenses-a-espera-do-lider-do-paigc_a1_1755504",
-      "pubDate": "Fri, 24 Jul 2026 02:39:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Pafos, de Ricardo Sá Pinto, perde por 2-0 com Hajduk Split",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/pafos-de-ricardo-sa-pinto-perde-por-2-0-com-hajduk-split_d1755541",
+      "pubDate": "Fri, 24 Jul 2026 08:52:58 +0100",
+      "description": "O Pafos, treinado pelo português Ricardo Sá Pinto, perdeu hoje por 2-0 no estádio dos croatas do Hajduk Split, em jogo da primeira mão da segunda pré-eliminatória da Liga Europa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/41b3448dbd776a15ad9ba6e9ca65ad74?w=350&amp;q=50&amp;rect=0,188,2930,1606&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "França recebe meios aéreos incluindo de Portugal através de mecanismo da UE",
-      "link": "https://www.rtp.pt/noticias/mundo/franca-recebe-meios-aereos-incluindo-de-portugal-atraves-de-mecanismo-da-ue_n1755501",
-      "pubDate": "Fri, 24 Jul 2026 01:58:57 +0100",
-      "description": "A França solicitou a ativação do mecanismo de proteção civil da União Europeia (UE) e vai receber rapidamente reforços aéreos europeus para combater os incêndios, incluindo dois aviões portugueses, anunciou na quinta-feira à noite o Presidente Emmanuel Macron.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Polémica MAI. PJ não encontrou nenhum documento para deslocar atrelado",
+      "link": "https://www.rtp.pt/noticias/pais/polemica-mai-pj-nao-encontrou-nenhum-documento-para-deslocar-atrelado_n1755535",
+      "pubDate": "Fri, 24 Jul 2026 08:43:37 +0100",
+      "description": "A Polícia Judiciária não encontrou nenhum documento que desse ordem para deslocar o atrelado da PJ que foi parar às instalações da Construbarcelos, a empresa do empreiteiro que fez trabalhos para esta polícia e também numa casa do ministro da Administração Interna, Luís Neves, quando era diretor nac",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/03a7c30623c47de235bffd23ffdeb229?w=350&amp;q=50&amp;rect=0,28,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/agenda/hoje-vai-ser-noticia-178487640",
+      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0100",
+      "description": "Benfica recebe Belenenses em jogo de preparação no Estádio da Luz",
+      "thumbnail": "https://img.iol.pt/image/id/6a628008d34ef04b4f3f893b/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,14 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a6295a8d34ef04b4f3f896e/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Federação da Colômbia renova com o selecionador Nestor Lorenzo",
-      "link": "https://maisfutebol.iol.pt/colombia/internacional/federacao-da-colombia-renova-com-o-selecionador-nestor-lorenzo",
-      "pubDate": "Thu, 23 Jul 2026 23:29:27 +0100",
-      "description": "Treinador argentino deverá liderar os «cafeteros» até ao Mundial 2030",
-      "thumbnail": "https://img.iol.pt/image/id/6a3ef6b8d34e28842c85a319/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Patrões descartam salário mínimo acima de 970 euros em 2027",
+      "link": "https://eco.sapo.pt/2026/07/24/patroes-descartam-salario-minimo-acima-de-970-euros-em-2027/",
+      "pubDate": "Fri, 24 Jul 2026 06:52:19 +0000",
+      "description": "Secretário de Estado do Trabalho defendeu revisão em alta do salário mínimo que vigorará em 2027, mas presidente da Confederação Empresarial de Portugal entende que não estão reunidas condições.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AN%2FW9l0ja0ybnlk2BBPrMX%2F1HNJLSSg9B7VpOE51kc3xDUKWR33GpMz2l1I8b2dszuZPjegdwaJl1Prh2f5VrLT3jgGkg8LnhSThMBIzNnowFvOjgrn9sDFQQDPhd4b55"
     },
     {
       "sourceId": "sapo",
@@ -165,6 +175,26 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Trump diz que dinheiro iraniano compensará danos em navios, Teerão avisa para \"precedente incendiário\"",
+      "link": "https://sapo.pt/artigo/trump-diz-que-dinheiro-iraniano-compensara-danos-em-navios-teerao-avisa-para-precedente-incendiario-6a6303499c9f29b5ce337489",
+      "pubDate": "Fri, 24 Jul 2026 06:52:19 +0000",
+      "description": "Washington mantém bloqueados fundos e ativos ligados ao Governo iraniano como parte do regime de sanções.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ahx6shI%2FvZ3bcjJKB0mXFBHHGIUHNfPxs1nZQoO3ZgSCuhbcfYxhe6sLfLbODmHxyyVBf4uqDj5BrWKjTkqiVzpaHgN3UFB528AlxA5PiwlUqWe8fIlpwubKOMww%2FTlSc"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "\"Displicência\". Benfica perde e Marco Silva dá conferência arrasadora",
+      "link": "https://sapo.pt/artigo/displicencia-benfica-perde-e-marco-silva-da-conferencia-arrasadora-6a62f85f1c5549f5db44392d",
+      "pubDate": "Fri, 24 Jul 2026 06:52:19 +0000",
+      "description": "\"Se formos jogar ao nível que jogámos hoje, sabemos que nos podem esperar surpresas desagradáveis\", avisa Marco Silva, depois da derrota do Benfica perante o St. Gallen, na primeira mão da segunda pré-eliminatória da Liga Europa.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AOaDJDIOcp9Fyzmg%2BkBKfRlJTXB83osdNda7zZj6Hms78zzvOCwd84lAmjPBiJ%2BtLBrdNel7KSnf8BvYDts%2BD4DL4o0ekzOAk4HDm9PBVUQsZa2Ys9VaeZ0GZeLhPOn%2BP"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Barack Obama regressa a Portugal: antigo presidente dos EUA é o cabeça de cartaz de fórum internacional",
       "link": "https://sapo.pt/artigo/barack-obama-regressa-a-portugal-antigo-presidente-dos-eua-e-o-cabeca-de-cartaz-de-forum-internacional-6a625f4086e5f86c55087baa",
       "pubDate": "Thu, 23 Jul 2026 19:13:43 +0000",
@@ -172,84 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AYJPRvkngaLOxOMabFNZ31424SlkGfBY%2BeKdG%2FztmKqHZkxeWR859PkBvCntMUyg5MCjiVB%2BsmIeIWgOFA5KOxmgzjcC4%2Bb08dGUeGEYLgltR4JcPYWjL%2F%2B1p0wa4DsYb"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Trump impõe novas tarifas de 10% e 12,5% a 60 parceiros comerciais por alegações de trabalho forçado",
-      "link": "https://jornaleconomico.sapo.pt/noticias/trump-impoe-novas-tarifas-de-10-e-125-a-60-parceiros-comerciais-por-alegacoes-de-trabalho-forcado/",
-      "pubDate": "Thu, 23 Jul 2026 21:47:44 +0000",
-      "description": "A decisão representa o mais recente esforço da Casa Branca para retomar a visão de campanha do presidente Donald Trump de aplicar tarifas quase globais. Em fevereiro, a Suprema Corte dos Estados Unidos derrubou as tarifas “recíprocas” de 10% a...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ADtROHWWMiBRK58RUnYie%2BRyxjD3hGCSh9lWC0CvIR%2Blu%2F1%2BKmdTvKMwnIiC%2B7nG1hc1H3UFbpM%2FD2CdA9htftOcw2zXqn57tfBItSkjgHjdp5xRLZL0lCqneKTA0vu1W"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Sobe para 133 o número de portugueses e lusodescendentes mortos nos sismos na Venezuela",
-      "link": "https://sapo.pt/artigo/sobe-para-133-o-numero-de-portugueses-e-lusodescendentes-mortos-nos-sismos-na-venezuela-6a625f409c9f29b5ce1b2ef0",
-      "pubDate": "Thu, 23 Jul 2026 19:13:43 +0000",
-      "description": "Entre os 133 cidadãos portugueses e lusodescendentes mortos, dos quais 105 eram adultos e 28 menores, 113 tinham também a nacionalidade venezuelana.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AoaKTFTHLAx4j1n04udyf4RrJypQ4mofHiuWo%2BO%2F0uPSSoLo0PiqdCm%2FtXoBrx%2BiA8K7kHrHOiQU0fYijm6l0JhrqmJERaLM98kQnAzBvLaxc0mC3ogKi2mIRNwKUA3%2B9"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Benfica arranca época com dois pés esquerdos e perde frente ao St. Gallen",
-      "link": "https://sapo.pt/artigo/benfica-arranca-epoca-com-o-pe-esquerdo-e-perde-frente-ao-st-gallen-6a6272a039564b23da4d57a7",
-      "pubDate": "Thu, 23 Jul 2026 20:01:47 +0000",
-      "description": "O St. Gallen e o Benfica enfrentaram-se durante esta quinta-feira, num encontro da segunda eliminatória de acesso à Europa League.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AhSRnRtLratdO0mtCFGMfAVfTCDVyNFqz9Sj0OCx682I9R5JFKqIaSh%2F%2BiBvOO1r2roWqjXKc0bXrrMT8%2Bm7IGSHsUhAtJ0Sgoruuc70W1akOUvU4V4M0QO6PkpD2T6%2B%2F"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Lá fora: Mundial2026 ainda mexe, reforços à vista e Guardiola em Itália",
+      "link": "https://www.noticiasaominuto.com/desporto/3026690/la-fora-mundial2026-ainda-mexe-reforcos-a-vista-e-guardiola-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 07:59:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a630d9cc6573.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"As histórias de bebés que morrem esquecidos em carros dão cabo de mim\"",
-      "link": "https://www.noticiasaominuto.com/fama/3026594/as-historias-de-bebes-que-morrem-esquecidos-em-carros-dao-cabo-de-mim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-23 23:59:11",
+      "title": "Dacia \"campeão de vendas\" na Europa será também elétrico",
+      "link": "https://www.noticiasaominuto.com/auto/3026678/dacia-campeao-de-vendas-na-europa-sera-tambem-eletrico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 07:56:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_664f54ac4d6e0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MzV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a630a4d22e52.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MywiY3JvcEhlaWdodCI6MTY3NiwiY3JvcFgiOjE1MzIsImNyb3BZIjoxMn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Falha no CODU Norte deixou 50 ocorrências por acionar, diz sindicato",
-      "link": "https://www.noticiasaominuto.com/pais/3026585/falha-no-codu-norte-deixou-50-ocorrencias-por-acionar-diz-sindicato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-23 23:58:10",
+      "title": "Melhor imagem, melhor som e barato: 10 \"upgrades\" para a sua TV",
+      "link": "https://www.noticiasaominuto.com/tech/3026304/melhor-imagem-melhor-som-pouco-dinheiro-10-upgrades-para-a-sua-tv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 07:53:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6735d6891a84a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_668564350bf16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTgwLCJjcm9wSGVpZ2h0IjoxMjI2LCJjcm9wWCI6MTAsImNyb3BZIjo3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODE0LCJjcm9wSGVpZ2h0IjoxNDQ3LCJjcm9wWCI6NzA0LCJjcm9wWSI6MTN9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio perto de Madrid obriga à retirada de 3.500 pessoas",
-      "link": "https://www.noticiasaominuto.com/mundo/3026593/incendio-perto-de-madrid-obriga-a-retirada-de-3500-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-23 23:53:42",
+      "title": "IA. DeepSeek aponta a maior desvantagem da China face aos EUA",
+      "link": "https://www.noticiasaominuto.com/tech/3026679/ia-deepseek-aponta-a-maior-desvantagem-da-china-face-aos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 07:52:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63f63319de963.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDg0LCJjcm9wSGVpZ2h0Ijo2MTAsImNyb3BYIjowLCJjcm9wWSI6OTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM5NCwiY3JvcEhlaWdodCI6NzAwLCJjcm9wWCI6MzkzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6798b3c78d4ff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTQsImNyb3BZIjo0MTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2MywiY3JvcEhlaWdodCI6MTM1NiwiY3JvcFgiOjU2MywiY3JvcFkiOjI3MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3025792/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-23 23:51:04",
+      "title": "Velório. As palavras no adeus a Luís Represas: \"Vai ficar para sempre\"",
+      "link": "https://www.noticiasaominuto.com/fama/3026676/velorio-as-palavras-no-adeus-a-luis-represas-vai-ficar-para-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 07:47:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a62160c228d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDMsImNyb3BZIjozMzl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a608bd0d754a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2NDYsImNyb3BIZWlnaHQiOjM2NCwiY3JvcFgiOjY0LCJjcm9wWSI6ODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ4NiwiY3JvcEhlaWdodCI6ODY0LCJjcm9wWCI6MTIzLCJjcm9wWSI6MTR9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Após morte de Represas, Rita Ferro Rodrigues solidária com ex-mulher",
-      "link": "https://www.noticiasaominuto.com/fama/3026587/apos-morte-de-represas-rita-ferro-rodrigues-solidaria-com-ex-mulher#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-23 23:44:49",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a62966903a55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MjAsImNyb3BZIjo4OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODYyLCJjcm9wSGVpZ2h0IjoxNTMyLCJjcm9wWCI6MTU2OCwiY3JvcFkiOjB9fQ=="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Telemóveis e cancro da cabeça: estudo da OMS afasta perigo e traz dados conclusivos",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/telemoveis-e-cancro-da-cabeca-estudo-da-oms-afasta-perigo-e-traz-dados-conclusivos/",
+      "pubDate": "Fri, 24 Jul 2026 07:00:48 +0000",
+      "description": "Há muito que se especula que existe uma relação direta entre os telemóveis e o cancro da cabeça. Mesmo com toda a informação disponíveis, há muitos que garantem a correlação direta. Com vista a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/oms_telemovel_cancro_cabeca_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google matou as passwords! Já pode autenticar na sua conta com um vídeo",
+      "link": "https://pplware.sapo.pt/google/google-matou-as-passwords-ja-pode-autenticar-na-sua-conta-com-um-video/",
+      "pubDate": "Fri, 24 Jul 2026 06:00:08 +0000",
+      "description": "O fim das passwords estava declarado. A Microsoft já trabalhava neste sentido e agora é a Google que dá mais um passo importante. A sua novidade é que passa a ser necessário apenas um&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Selfie-Video-Sign-In.webp"
     },
     {
       "sourceId": "pplware",
@@ -282,73 +302,53 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/nissan-leaf-nismo2.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Battlefield 6 prepara próxima temporada com crossover oficial com Top Gun",
-      "link": "https://pplware.sapo.pt/jogos/battlefield-6-prepara-proxima-temporada-com-crossover-oficial-com-top-gun/",
-      "pubDate": "Thu, 23 Jul 2026 19:00:12 +0000",
-      "description": "A Electronic Arts e os Battlefield Studios anunciaram uma das maiores atualizações de sempre para Battlefield 6, na qual se introduz um crossover oficial com&#8230; Top Gun. Venham conhecer. Foi revelado recentemente pela Electronic&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Battlefield6_2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Acesso ao Ensino Superior 2026: tem novo calendário para a 2.ª fase",
-      "link": "https://pplware.sapo.pt/informacao/acesso-ao-ensino-superior-2026-tem-novo-calendario-para-a-2-a-fase/",
-      "pubDate": "Thu, 23 Jul 2026 18:17:12 +0000",
-      "description": "O calendário do Concurso Nacional de Acesso ao Ensino Superior 2026 sofreu alterações na sequência da criação de uma época extraordinária de exames nacionais do ensino secundário. A primeira fase do concurso mantém as&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/superior_01.jpg"
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Rali da Madeira com 25 RC2 inscritos: 5 ex-vencedores",
-      "link": "https://www.autosport.pt/ralis/rali-da-madeira-com-25-rc2-inscritos-5-ex-vencedores/",
-      "pubDate": "Thu, 23 Jul 2026 20:38:43 +0000",
-      "description": "Kris Meeke é a grande novidade, presente vai estar o vencedor de 2024 e 2025, Diego Ruiloba, bem como Giandomenico Basso, que venceu quatro vezes o Rali da Madeira em 2006, 2007, 2009 e 2013. A ‘comitiva’ do CPR conta com 14 RC2, todos os habituais da competição, sendo que entre estes, José Pedro Fo",
+      "title": "F1: Lando Norris evita entusiasmos com as novas evoluções da McLaren",
+      "link": "https://www.autosport.pt/formula1/f1-lando-norris-evita-entusiasmos-com-as-novas-evolucoes-da-mclaren/",
+      "pubDate": "Fri, 24 Jul 2026 06:40:25 +0000",
+      "description": "Lando Norris adota uma postura cautelosa relativamente ao novo pacote de atualizações da McLaren para o Grande Prémio da Hungria. Apesar de a equipa introduzir o seu maior pacote do ano no Hungaroring, o piloto britânico prefere manter a prudência. Após um início de época oscilante e marcado por pen",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Tesla Model Y lidera vendas em junho",
-      "link": "https://www.autosport.pt/automais/tesla-model-y-lidera-vendas-em-junho/",
-      "pubDate": "Thu, 23 Jul 2026 17:10:57 +0000",
-      "description": "O Tesla Model Y, em junho, e de acordo com dados preliminares da Dataforce divulgados pelo Automotive News Europe, reassumiu a liderança das matrículas de automóveis novos na Europa em junho, com 32.685 unidades registadas, ultrapassando o Dacia Sandero (25.357 no mesmo período). Ainda assim, nos pr",
+      "title": "F1: Russell admite luta psicológica difícil na disputa pelo título contra Antonelli",
+      "link": "https://www.autosport.pt/formula1/f1-russell-admite-luta-psicologica-dificil-na-disputa-pelo-titulo-contra-antonelli/",
+      "pubDate": "Fri, 24 Jul 2026 06:37:19 +0000",
+      "description": "George Russell assumiu que os recentes contratempos na luta pelo título mundial de Fórmula 1 representam a batalha psicológica mais dura da sua carreira. O piloto britânico da Mercedes chega ao Grande Prémio da Hungria a 50 pontos do companheiro de equipa, Kimi Antonelli, após abandonar no GP da Bél",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP Hungria, F1: A ilusão do controlo absoluto dos pilotos e a diversão da atual geração de carros",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-a-ilusao-do-controlo-absoluto-dos-pilotos-e-a-diversao-da-atual-geracao-de-carros/",
-      "pubDate": "Thu, 23 Jul 2026 16:28:35 +0000",
-      "description": "O novo ciclo de unidades motrizes trouxe para a Fórmula 1 um nível de complexidade sem precedentes. O regulamento continua a afirmar que o piloto deve conduzir “sozinho e sem auxílio”, mas a realidade em pista é bem diferente, com o software de gestão de energia a decidir onde e como a energia é ent",
+      "title": "F1: Kimi Antonelli admite falha com limites de pista após aviso do pai",
+      "link": "https://www.autosport.pt/formula1/f1-kimi-antonelli-admite-falha-com-limites-de-pista-apos-aviso-do-pai/",
+      "pubDate": "Fri, 24 Jul 2026 06:34:43 +0000",
+      "description": "Kimi Antonelli revelou que precisa de corrigir a gestão dos limites de pista na Fórmula 1, assumindo que o pai, Marco Antonelli, é o seu maior crítico. Apesar de liderar o campeonato com seis vitórias e 45 pontos de vantagem, o jovem da Mercedes admitiu ter cometido erros desnecessários em provas re",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP da Hungria F1: Fernando Alonso mostrou confiança em Adrian Newey e… na Honda",
-      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-fernando-alonso-mostrou-confianca-em-adrian-newey-e-na-honda/",
-      "pubDate": "Thu, 23 Jul 2026 16:07:27 +0000",
-      "description": "A Aston Martin chega à Hungria numa fase decisiva da temporada, apostando num pacote de evoluções amplo em vez da abordagem incremental seguida pela concorrência. Fernando Alonso assume um discurso simultaneamente realista e confiante: sabe que o atraso acumulado não se corrige em dois fins de seman",
+      "title": "F1: Pérez e Bottas revelam a chave para a Cadillac somar os primeiros pontos",
+      "link": "https://www.autosport.pt/formula1/f1-perez-e-bottas-revelam-a-chave-para-a-cadillac-somar-os-primeiros-pontos/",
+      "pubDate": "Fri, 24 Jul 2026 06:30:58 +0000",
+      "description": "A Cadillac continua a tentar obter os primeiros pontos na época de estreia na Fórmula 1, registando uma evolução progressiva a cada fim de semana. Sergio Pérez e Valtteri Bottas garantem que a equipa está a consolidar as suas bases para capitalizar futuras oportunidades e integrar o top 10. No Grand",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Vendas na Europa crescem 13% em junho",
-      "link": "https://www.autosport.pt/automais/vendas-na-europa-crescem-13-em-junho-2/",
-      "pubDate": "Thu, 23 Jul 2026 15:22:01 +0000",
-      "description": "As matrículas de automóveis novos na Europa registaram um crescimento de 13% em junho, comparativamente ao mesmo mês do ano passado, atingindo o total de 1,38 milhões de unidades, impulsionadas, sobretudo, pela forte procura de carros equipados com motorizações elétricas, que disparou 52%, igualment",
+      "title": "Rali da Madeira: 86 inscritos para duelos intensos em todas as categorias",
+      "link": "https://www.autosport.pt/ralis/rali-da-madeira-86-inscritos-para-duelos-intensos-em-todas-as-categorias/",
+      "pubDate": "Fri, 24 Jul 2026 05:59:22 +0000",
+      "description": "A 67ª edição do Rali da Madeira promete marcar a época do automobilismo nacional com uma adesão massiva de pilotos e equipas de topo. O Club Sports da Madeira divulgou a lista oficial de inscritos, confirmando 86 equipas à partida, com o britânico Kris Meeke a ostentar o número 1 no seu Toyota GR Ya",
       "thumbnail": ""
     }
   ]
