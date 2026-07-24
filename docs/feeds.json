@@ -1,105 +1,115 @@
 {
-  "updated": "2026-07-24T20:18:42.934596+00:00",
+  "updated": "2026-07-24T21:35:52.622649+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1708/",
-      "pubDate": "Fri, 24 Jul 2026 21:15:22 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "CPLP: Portugal assume presidência da Assembleia Parlamentar",
+      "link": "https://observador.pt/2026/07/24/portugal-assume-presidencia-rotativa-da-assembleia-parlamentar-da-cplp-em-2027/",
+      "pubDate": "Fri, 24 Jul 2026 22:23:24 +0100",
+      "description": "Aguiar Branco anunciou em Luanda que Portugal assume a presidência rotativa da Assembleia Parlamentar da CPLP em 2027, sucedendo a Moçambique.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24220013/47515347.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Faria só ganhou mais uma lição para evitar o quase no futuro",
+      "link": "https://observador.pt/2026/07/24/jaime-faria-so-ganhou-mais-uma-licao-para-evitar-o-quase-no-futuro-portugues-cai-nos-quartos-do-estoril-open-frente-ao-21-o-do-ranking/",
+      "pubDate": "Fri, 24 Jul 2026 22:19:23 +0100",
+      "description": "Português deu uma master class do melhor ténis frente a Darderi durante 17 encontros. No 18.º, a servir para ganhar, sofreu o break – e voltou o \"fantasma Tiafoe\" em Roland Garros até ser eliminado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:141/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24211351/jaime-faria-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "22h. André Ventura critica partidos por não exigirem a MAI",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1834/",
+      "pubDate": "Fri, 24 Jul 2026 22:14:06 +0100",
+      "description": "O presidente do Chega garante que a comissão de inquérito não é para fragilizar a PJ. Ainda, Estado português nega violação de direitos humanos na Operação Marquês.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "CPLP defende liberdade total para Domingos Simões Pereira",
-      "link": "https://observador.pt/2026/07/24/cplp-defende-liberdade-total-para-domingos-simoes-pereira/",
-      "pubDate": "Fri, 24 Jul 2026 21:01:59 +0100",
-      "description": "Domingos Simões Pereira, preso desde 10 de julho por alegado golpe na Guiné-Bissau, foi autorizado a viajar para Portugal. A CPLP diz que a sua libertação parcial não chega.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24203338/47515313.jpg"
+      "title": "Rui Costa está na 'lista negra' do Banco de Portugal",
+      "link": "https://observador.pt/2026/07/24/rui-costa-esta-na-lista-negra-do-banco-de-portugal-por-incumprimento-em-projeto-imobiliario-de-45-milhoes-de-euros/",
+      "pubDate": "Fri, 24 Jul 2026 22:13:37 +0100",
+      "description": "Presidente do Benfica está sinalizado por incumprimento em créditos superiores a 20 milhões de euros para um empreendimento de luxo em Carnaxide. Empresa garante que não houve execução de hipotecas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:896:nowe:270:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04165931/46982916.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "IP3 reaberto após derrame de resina em Penacova",
-      "link": "https://observador.pt/2026/07/24/ip3-reaberto-em-todos-os-sentidos-apos-cinco-dias-de-corte-por-derrame-de-resina-em-penacova/",
-      "pubDate": "Fri, 24 Jul 2026 21:01:30 +0100",
-      "description": "O derrame de resina causou uma contaminação, comprometendo as características de aderência e as condições de segurança da infraestrutura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/11122325/41663174.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Preso tenta fugir pelo telhado da lavandaria",
-      "link": "https://observador.pt/2026/07/24/recluso-salta-do-telhado-da-lavandaria-para-tentar-fugir-da-prisao-de-santa-cruz-do-bispo-e-e-recapturado-no-edificio-vizinho/",
-      "pubDate": "Fri, 24 Jul 2026 21:01:17 +0100",
-      "description": "O recluso, de 39 anos, condenado a 9 anos por roubo agravado, fugiu à vigilância dos guardas e saltou para a rua. Foi apanhado na Casa do Povo adjacente.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1300:731:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/12/21111552/prisao.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ventura: PS é \"refém de poderes ocultos\" no caso Neves",
-      "link": "https://observador.pt/2026/07/24/ventura-acusa-ps-de-ser-refem-de-poderes-ocultos-no-caso-luis-neves/",
-      "pubDate": "Fri, 24 Jul 2026 20:56:02 +0100",
-      "description": "O presidente do Chega justifica a comissão de inquérito aos mandatos do ex-diretor da PJ com indícios que classifica de graves e acusa o PS de cumplicidade pelo silêncio.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24195138/47515110.jpg"
+      "title": "Trump: Irão leva negociações \"cada vez mais a sério\"",
+      "link": "https://observador.pt/2026/07/24/trump-diz-que-irao-leva-negociacoes-cada-vez-mais-a-serio/",
+      "pubDate": "Fri, 24 Jul 2026 22:06:06 +0100",
+      "description": "Com os confrontos no estratégico estreito de Ormuz a persistirem desde 7 de julho, Trump admite sinais de abertura iraniana — mas sem revelar porquê.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24213435/47515484.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "INEM teve de algura 13 viaturas desde o final de maio",
-      "link": "https://www.rtp.pt/noticias/pais/inem-teve-de-algura-13-viaturas-desde-o-final-de-maio_v1755735",
-      "pubDate": "Fri, 24 Jul 2026 22:14:48 +0100",
-      "description": "O presidente do INEM admitiu que teve de alugar viaturas para responder a chamadas. Luís Cabral anunciou que vão chegar 180 novas viaturas este ano.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/43/4371202ba8c614756bc4991d3146c89a_N.jpg?"
+      "title": "Contraponto. Polémicas de Luís Neves e o caos nos exames",
+      "link": "https://www.rtp.pt/noticias/opiniao/paulo-pedroso-e-miguel-maduro/contraponto-polemicas-de-luis-neves-e-o-caos-nos-exames_1755741",
+      "pubDate": "Fri, 24 Jul 2026 23:01:24 +0100",
+      "description": "A semana política esteve em análise no Contraponto desta sexta-feira com Miguel Poiares Maduro e Paulo Pedroso.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Falha no atendimento do INEM. CODU Norte esteve indisponível quase duas horas",
-      "link": "https://www.rtp.pt/noticias/pais/falha-no-atendimento-do-inem-codu-norte-esteve-indisponivel-quase-duas-horas_v1755734",
-      "pubDate": "Fri, 24 Jul 2026 22:10:47 +0100",
-      "description": "Uma atualização automática paralisou o Centro de Orientação de Doentes Urgentes do INEM do Norte.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b5/b5cf9ed31c76e235258e0b2d9ce85d41_N.jpg?"
+      "title": "Portugal assume presidência rotativa da Assembleia Parlamentar da CPLP em 2027",
+      "link": "https://www.rtp.pt/noticias/mundo/portugal-assume-presidencia-rotativa-da-assembleia-parlamentar-da-cplp-em-2027_n1755739",
+      "pubDate": "Fri, 24 Jul 2026 22:58:51 +0100",
+      "description": "O presidente da Assembleia da República portuguesa disse hoje, em Luanda, que Portugal abraçou com grande honra, sentido de responsabilidade a presidência da Assembleia Parlamentar da Comunidade de Países de Língua Portuguesa (CPLP).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/83/838cb766748f2818c07f28a2a12aad25?w=350&amp;q=50&amp;rect=1,0,1474,808&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Protesto em Lisboa. Alunos pedem demissão do ministro da Educação",
-      "link": "https://www.rtp.pt/noticias/pais/protesto-em-lisboa-alunos-pedem-demissao-do-ministro-da-educacao_v1755733",
-      "pubDate": "Fri, 24 Jul 2026 22:06:47 +0100",
-      "description": "Duas centenas de alunos manifestaram-se contra o ministro da Educação. Os manifestantes pediram a demissão de Fernando Alexandre e criticaram as mudanças implementadas pelo Governo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/74/74dd589d5085f7b6a641c3560c0d03d7_N.jpg?"
+      "title": "Teatro Nacional de São Carlos é o \"artista principal\" do Festival de Ópera de Saaremaa 2027",
+      "link": "https://www.rtp.pt/noticias/cultura/teatro-nacional-de-sao-carlos-e-o-artista-principal-do-festival-de-opera-de-saaremaa-2027_n1755714",
+      "pubDate": "Fri, 24 Jul 2026 22:45:10 +0100",
+      "description": "O Teatro Nacional de São Carlos (TNSC) é o &quot;artista principal&quot; convidado, no próximo ano, do Festival de Ópera de Saaremaa, na Estónia, de acordo com a programação anunciada pelo festival.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Bebé esquecida. Creche tem \"funcionamento regular\", concluiu Segurança Social",
-      "link": "https://www.rtp.pt/noticias/pais/bebe-esquecida-creche-tem-funcionamento-regular-concluiu-seguranca-social_v1755731",
-      "pubDate": "Fri, 24 Jul 2026 22:03:47 +0100",
-      "description": "A Segurança Social concluiu que estava tudo regular na creche frequentada pela bebé que morreu em Almada.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/8c/8ccff9f2576f9441063bc6c289f73a28_N.jpg?"
+      "title": "CPLP defende liberdade total para Domingos Simões Pereira - Secretária-executiva",
+      "link": "https://www.rtp.pt/noticias/mundo/cplp-defende-liberdade-total-para-domingos-simoes-pereira-secretaria-executiva_n1755722",
+      "pubDate": "Fri, 24 Jul 2026 22:29:02 +0100",
+      "description": "A secretária Executiva da Comunidade de Países de Língua Portuguesa (CPLP), Fátima Jardim, disse hoje, em Luanda, que os Estados-membros defendem liberdade total para o opositor guineense Domingos Simões Pereira, manifestando a sua satisfação pela sua libertação.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Chega vai forçar comissão de inquérito à Polícia Judiciária",
-      "link": "https://www.rtp.pt/noticias/politica/chega-vai-forcar-comissao-de-inquerito-a-policia-judiciaria_v1755730",
-      "pubDate": "Fri, 24 Jul 2026 21:58:47 +0100",
-      "description": "O Chega esclareceu que a comissão de inquérito se destina apenas a investigar a gestão de Luís Neves na Polícia Judiciária.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/97/974eb8ee03514f420984950201bb2cee_N.jpg?"
+      "title": "Repúdio a portaria. Milhares de doentes com intervenções canceladas",
+      "link": "https://www.rtp.pt/noticias/pais/repudio-a-portaria-milhares-de-doentes-com-intervencoes-canceladas_v1755736",
+      "pubDate": "Fri, 24 Jul 2026 22:19:47 +0100",
+      "description": "Foram desmarcados os tratamentos de centenas de utentes devido à contestação dos especialistas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e8/e8a4e9500b72dc1ccf276f8fd9285769_N.jpg?"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FOTOS: Estoril apresenta terceiro equipamento para 2026/27",
+      "link": "https://maisfutebol.iol.pt/liga/estoril/fotos-estoril-apresenta-terceiro-equipamento-para-2026-27",
+      "pubDate": "Fri, 24 Jul 2026 21:54:26 +0100",
+      "description": "Camisola visa homenagear a noite na vila e tem como cores predominantes o preto e o azul escuro",
+      "thumbnail": "https://img.iol.pt/image/id/6a63cda9d34e511da0b2fa20/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,14 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a63bb07d34ef04b4f3f8cde/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica-Belenenses, 5-1 (crónica)",
-      "link": "https://maisfutebol.iol.pt/benfica/belenenses/benfica-belenenses-5-1-cronica",
-      "pubDate": "Fri, 24 Jul 2026 19:59:00 +0100",
-      "description": "Juventude passa com distinção em mais um exame de pré-temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a63af8ed34ef04b4f3f8cbc/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Incêndio em Madrid \"impossível de extinguir\"",
+      "link": "https://sapo.pt/artigo/incendio-em-madrid-impossivel-de-extinguir-6a63cedd39564b23da83f241",
+      "pubDate": "Fri, 24 Jul 2026 21:04:10 +0000",
+      "description": "O incêndio está a alastrar mais \"para norte do que o previsto\", aumentando as esperanças de que não se una ao incêndio que assola Ávila, região vizinha de Madrid.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ApIMmKVG56WUZuoYnZkNY%2FakNkOaBaWv0VXvh%2BSssR44vb2TCkdnGQ4oAzrbQn6UB28o4h%2Fmd9G5lND70m4WTwV3l1%2FICxBwZrhmtIqmtaXcdx6KArbn2fZvZTy0rFHja"
     },
     {
       "sourceId": "sapo",
@@ -175,26 +185,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "“Será um dia crítico”: incêndios sem controlo cercam Madrid e obrigam França a retirar mais de 40 mil pessoas",
-      "link": "https://executivedigest.sapo.pt/sera-um-dia-critico-incendios-sem-controlo-cercam-madrid-e-obrigam-franca-a-retirar-mais-de-40-mil-pessoas/",
-      "pubDate": "Fri, 24 Jul 2026 13:10:26 +0000",
-      "description": "França e Espanha enfrentam esta sexta-feira uma das situações mais graves da atual época de fogos, agravada pelas temperaturas elevadas, pela vegetação extremamente seca e por rajadas de vento que deverão continuar a alimentar as chamas durante...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=381&W=678&crop=center&delay_optim=1&epic=V2%3At6xlSRnSzwP158A%2BFvp4tYscKNvATYxMLQIsihnrRncV6ubNUGHaRfDWRsU5dEDM6YA2NkEtqYMmVaCQByyytt7TLpLRZ2wp3s9WqsFFnvgQEPHo%2FfrWgyyEKCtVkTeC"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "A nova arma de Espanha contra os incêndios: um líquido ecológico que promete revolucionar o combate às chamas",
-      "link": "https://executivedigest.sapo.pt/a-nova-arma-de-espanha-contra-os-incendios-um-liquido-ecologico-que-promete-revolucionar-o-combate-as-chamas/",
-      "pubDate": "Fri, 24 Jul 2026 17:53:04 +0000",
-      "description": "Produto chama-se Ecofire e, segundo descreve o 'El Economista', trata-se de um fluido à base de água, composto por substâncias orgânicas, concebido para aumentar a eficácia no combate aos incêndios florestais e reduzir o consumo de água",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=576&W=1024&crop=center&delay_optim=1&epic=V2%3AKZIbirJ8zskWNwi%2F%2FEPIcw3UOBhi44nVcGQjcmEs25uWAbjT6UPrDZ%2BJOa6lSHEYyGI6XweYi5ZfrQ7a64Ki6e4EtNOUSol7LNMWH%2FQJ0KlddkNkBOzga4TxFBZfDTgY"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Procurador-geral do TPI destituído em votação dos Estados-membros",
       "link": "https://eco.sapo.pt/2026/07/24/procurador-geral-do-tpi-destituido-em-votacao-dos-estados-membros/",
       "pubDate": "Fri, 24 Jul 2026 19:47:54 +0000",
@@ -202,54 +192,84 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AUNSzPQTJE%2BU%2B%2FUWPspbrtS5IVVa7ERfbalF8LNzY0F%2BliuChpJEWGN%2BoAr0maqecmFl37994f6bMCIZKFkMawwmaiYYjIdZsT2pW%2FriUl9YFEGY%2F3a376RK8DuibO1GK"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Incêndio em Madrid \"no auge\" e \"impossível de extinguir\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3027150/incendio-em-madrid-no-auge-e-impossivel-de-extinguir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 21:12:55",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47514150.webp"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "“Nenhuma democracia é mais forte quando o presidente do seu parlamento está privado da liberdade”, diz Aguiar Branco",
+      "link": "https://jornaleconomico.sapo.pt/noticias/guine-bissau-nenhuma-democracia-e-mais-forte-quando-o-presidente-do-seu-parlamento-esta-privado-da-liberdade-diz-aguiar-branco/",
+      "pubDate": "Fri, 24 Jul 2026 20:08:49 +0000",
+      "description": "“Espero e faço votos que esta libertação seja plena, definitiva e que se possa fazer o regresso à normalidade democrática na Guiné-Bissau, que é isso que todos desejamos”, referiu o presidente do parlamento português.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AXnv0oZFUeh2agHCMZM%2B%2Fm5N7RE4upanR%2FXc9eMu%2Byc3MnZXt%2Bb4BuQxX2nU2ufXlOtLz9uq9cXVuISGKbfxvwNyldkiACNnjJ9IGVmgY5xqRlorxnoeCA5EriW9ijKEq"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Coleciona filmes, música e jogos? Temos 8 dicas para o ajudar a preservar",
-      "link": "https://www.noticiasaominuto.com/tech/3026944/coleciona-filmes-musica-e-jogos-temos-8-dicas-para-o-ajudar-a-preservar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 21:03:06",
+      "title": "Batalha de milhões. Mourinho entra na luta por Yan Diomande e faz oferta",
+      "link": "https://www.noticiasaominuto.com/desporto/3027170/batalha-de-milhoes-mourinho-entra-na-luta-por-yan-diomande-e-faz-oferta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 22:22:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a636a3e80154.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63d43dc74e1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU3LCJjcm9wSGVpZ2h0IjoxNzAxLCJjcm9wWCI6NzMyLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Aguiar-Branco espera libertação \"plena e definitiva\" de opositor",
-      "link": "https://www.noticiasaominuto.com/pais/3027148/aguiar-branco-espera-libertacao-plena-e-definitiva-de-opositor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 20:58:55",
+      "title": "Eclipse de agosto muda tudo! O sol vai brilhar na carteira destes signos",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3027094/eclipse-de-agosto-muda-tudo-o-sol-vai-brilhar-na-carteira-destes-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 22:08:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47507342.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63a3808a4e5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndios no sudoeste de França obrigam a retirar 110 mil pessoas",
-      "link": "https://www.noticiasaominuto.com/mundo/3027146/incendios-no-sudoeste-de-franca-obrigam-a-retirar-110-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 20:48:39",
+      "title": "Diddy envolve-se em briga na prisão e vai parar à solitária",
+      "link": "https://www.noticiasaominuto.com/fama/3027159/diddy-envolve-se-em-briga-na-prisao-e-vai-parar-a-solitaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 22:03:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47515238.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66570b158e80a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU2LCJjcm9wSGVpZ2h0IjoxNDM4LCJjcm9wWCI6LTEsImNyb3BZIjo2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTcwLCJjcm9wSGVpZ2h0IjoxNzI0LCJjcm9wWCI6ODQxLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Foi despedido por trabalhar 4 minutos a mais: Justiça reverte decisão",
-      "link": "https://www.noticiasaominuto.com/mundo/3027143/foi-despedido-por-trabalhar-4-minutos-a-mais-justica-reverte-decisao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 20:42:22",
+      "title": "Movimento teme que situação dos exames \"se complique ainda mais\"",
+      "link": "https://www.noticiasaominuto.com/pais/3027160/movimento-teme-que-situacao-dos-exames-se-complique-ainda-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 22:01:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_670652c02e72f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47515072.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIzMX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Oficial: Summerville reforça Al Hilal e dá prenda milionária a NES",
+      "link": "https://www.noticiasaominuto.com/desporto/3027163/oficial-summerville-reforca-al-hilal-e-da-prenda-milionaria-a-nes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-24 21:58:36",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63d02960236.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzMwLCJjcm9wSGVpZ2h0Ijo5NzMsImNyb3BYIjowLCJjcm9wWSI6OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTYzLCJjcm9wSGVpZ2h0IjoxMDAxLCJjcm9wWCI6Njc2LCJjcm9wWSI6M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Vídeo-selfie: a nova forma de recuperar contas pode tornar-se um risco para a sua privacidade",
+      "link": "https://pplware.sapo.pt/internet/seguranca/video-selfie-a-nova-forma-de-recuperar-contas-pode-tornar-se-um-risco-para-a-sua-privacidade/",
+      "pubDate": "Fri, 24 Jul 2026 21:00:45 +0000",
+      "description": "A biometria facial está a ganhar cada vez mais importância na segurança digital. Depois das palavras-passe, dos códigos SMS e das chaves de acesso (passkeys), começa agora a surgir uma nova tendência: utilizar um&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Vídeo-selfie-00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O portátil novo veio sem Office? A solução custa 15,5€",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-pc-novo-goodoffer24/",
+      "pubDate": "Fri, 24 Jul 2026 21:00:35 +0000",
+      "description": "Quem comprou um portátil nas promoções de verão já percebeu, muito provavelmente, um pormenor irritante: o equipamento chega com o Windows instalado, mas sem qualquer suite de produtividade. Na prática, o Word, o Excel&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/24th.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Fri, 24 Jul 2026 18:30:02 +0000",
       "description": "A Geração Z está a alterar as regras do mercado de trabalho, com uma permanência cada vez mais curta nas empresas. No entanto, ao contrário do que muitos pensam, a principal motivação para mudar&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/jovens_empresa.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dark Rail: estratégia, gestão e horror unem-se num promissor roguelike",
-      "link": "https://pplware.sapo.pt/jogos/dark-rail-estrategia-gestao-e-horror-unem-se-num-promissor-roguelike/",
-      "pubDate": "Fri, 24 Jul 2026 18:00:33 +0000",
-      "description": "A JanduSoft anunciou uma parceria com o estúdio independente espanhol Steam Veil Games para publicar Dark Rail, um novo roguelike que combina estratégia por turnos, gestão de recursos e horror. Apesar de ainda faltar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/DarkRail_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "CrashAtlas: este site reúne milhares de acidentes aéreos e permite explorá-los",
-      "link": "https://pplware.sapo.pt/internet/crashatlas-este-site-reune-milhares-de-acidentes-aereos-e-permite-explora-los/",
-      "pubDate": "Fri, 24 Jul 2026 17:00:17 +0000",
-      "description": "A aviação é atualmente um dos meios de transporte mais seguros do mundo, mas a sua história está repleta de acidentes que ajudaram a melhorar procedimentos, tecnologias e regulamentos. Hoje exploramos uma plataforma que&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/crashatlas00.webp"
     },
     {
       "sourceId": "autosport",
@@ -335,20 +335,20 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP Hungria F1: Aston Martin estreia evolução profunda para inverter crise",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-aston-martin-estreia-evolucao-profunda-para-inverter-crise/",
-      "pubDate": "Fri, 24 Jul 2026 13:47:00 +0000",
-      "description": "A Aston Martin apresenta este fim de semana no Grande Prémio da Hungria uma versão profundamente reformulada do seu monolugar, considerada na prática uma especificação B. Após um início de temporada difícil e fustigado pelo excesso de peso do carro, a equipa britânica optou por adiar as evoluções pa",
+      "title": "Chineses: quota recorde de 10,9% na Europa",
+      "link": "https://www.autosport.pt/automais/chineses-quota-recorde-de-109-na-europa/",
+      "pubDate": "Fri, 24 Jul 2026 14:23:00 +0000",
+      "description": "As marcas automóveis chinesas, em junho,conseguiram uma quota recorde de 10,9% nos registos de automóveis novos no mercado europeu, com as vendas a dispararem 118%, comparativamente ao mesmo mês do ano passado, para 150.272 unidades – o crescimento na região foi de 13%, para 1,38 milhões. Este resul",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP Hungria F1: Alex Albon cumpre 100 corridas pela Williams",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-alex-albon-cumpre-100-corridas-pela-williams/",
-      "pubDate": "Fri, 24 Jul 2026 13:25:00 +0000",
-      "description": "Alex Albon atinge este fim de semana o marco histórico de 100 Grandes Prémios ao serviço da Williams. O piloto tailandês, que se estreou pela equipa britânica no Grande Prémio do Bahrein em 2022, consolidou a sua recuperação no topo do automobilismo mundial após ter sido despromovido a piloto de res",
+      "title": "GP Hungria F1: Aston Martin estreia evolução profunda para inverter crise",
+      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-aston-martin-estreia-evolucao-profunda-para-inverter-crise/",
+      "pubDate": "Fri, 24 Jul 2026 13:47:00 +0000",
+      "description": "A Aston Martin apresenta este fim de semana no Grande Prémio da Hungria uma versão profundamente reformulada do seu monolugar, considerada na prática uma especificação B. Após um início de temporada difícil e fustigado pelo excesso de peso do carro, a equipa britânica optou por adiar as evoluções pa",
       "thumbnail": ""
     }
   ]
