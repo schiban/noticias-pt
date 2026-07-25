@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-25T21:51:39.283771+00:00",
+  "updated": "2026-07-25T22:51:30.139017+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 23h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2137/",
+      "pubDate": "Sat, 25 Jul 2026 23:16:30 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Baldé com recorde mundial dos 100 metros em cadeira de rodas",
+      "link": "https://observador.pt/2026/07/25/portugues-mamudo-balde-quebra-recorde-mundial-dos-100-metros-em-cadeira-de-rodas/",
+      "pubDate": "Sat, 25 Jul 2026 23:08:57 +0100",
+      "description": "Mamudo Baldé retirou cinco segundos à anterior melhor marca mundial, que tinha sido alcançada por Athiwat Paeng-Nuea em maio.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/03144515/43504709.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,33 +52,43 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23173808/gettyimages-1234302635-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Uns saíram, outros ainda estão. Insubstituível só o clube\"",
-      "link": "https://observador.pt/2026/07/25/uns-sairam-outros-ainda-estao-insubstituivel-so-o-clube-varandas-recusa-nova-era-e-diz-que-vendas-maiores-so-na-premier/",
-      "pubDate": "Sat, 25 Jul 2026 22:15:07 +0100",
-      "description": "Depois de ter falado antes da Assembleia Geral sobre o mercado de transferências, presidente do Sporting voltou a recordar no discurso aos sócios que, 120 anos depois, ninguém está acima do clube.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:121/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/15002833/eleicoes-presidenciais-sporting-2649-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Berlim. Um morto após atropelamento durante marcha Pride",
-      "link": "https://observador.pt/2026/07/25/varios-feridos-apos-atropelamento-durante-marcha-pride-em-berlim/",
-      "pubDate": "Sat, 25 Jul 2026 22:07:06 +0100",
-      "description": "Uma testemunha relatou à imprensa alemã ter visto uma carrinha branca a circular a uma grande velocidade contra uma multidão no parque de Tiergarten, em Berlim.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/11/17152532/41221986.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23 - IRS jovem vai continuar no próximo ano",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23-irs-jovem-vai-continuar-no-proximo-ano_a1_1755908",
+      "pubDate": "Sun, 26 Jul 2026 00:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Automóvel atropela várias pessoas em Berlim e provoca um morto e vários feridos. As vítimas participavam numa Marcha do Orgulho LGBTI+",
-      "link": "https://www.rtp.pt/noticias/mundo/incidente-com-automovel-faz-varios-feridos-durante-marcha-do-orgulho-lgbti-em-berlim_n1755902",
+      "title": "Portugal sagra-se tricampeão europeu masculino de hóquei em patins de sub-17",
+      "link": "https://www.rtp.pt/noticias/hoquei/portugal-sagra-se-tricampeao-europeu-masculino-de-hoquei-em-patins-de-sub-17_d1755906",
+      "pubDate": "Sun, 26 Jul 2026 00:06:59 +0100",
+      "description": "A seleção portuguesa masculina de hóquei em patins de sub-17 sagrou-se hoje tricampeã europeia da categoria, ao vencer a Espanha (3-2), recordista de títulos, na final disputada em Braga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2f8ab2804c598ea02ca9cc4143b9692?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Alexander Blockx vence Luciano Darderi e está na final",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/alexander-blockx-vence-luciano-darderi-e-esta-na-final_d1755904",
+      "pubDate": "Sun, 26 Jul 2026 00:01:42 +0100",
+      "description": "O tenista belga Alexander Blockx, quarto cabeça de série, qualificou-se hoje para a final do Estoril Open, depois de vencer o italiano Luciano Darderi, segundo pré-designado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fa/facead41bd27260a58463ccf04d1f965?w=350&amp;q=50&amp;rect=0,9,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Um morto e vários feridos em atropelamento numa Marcha do Orgulho LGBTI+ em Berlim",
+      "link": "https://www.rtp.pt/noticias/mundo/um-morto-e-varios-feridos-em-atropelamento-numa-marcha-do-orgulho-lgbti-em-berlim_n1755902",
       "pubDate": "Sat, 25 Jul 2026 23:34:34 +0100",
-      "description": "Um morto e 15 feridos é o resultado de um incidente com um veículo no parque Tiergarten, em Berlim, onde terminava hoje à noite a Marcha do Orgulho LGBTI+. A polícia local está a mencionar um possível atropelamento.",
+      "description": "Um morto e 15 feridos é para já o resultado de um incidente com um veículo no parque Tiergarten, em Berlim, onde terminava hoje à noite a Marcha do Orgulho LGBTI+. A polícia local está a mencionar um possível atropelamento.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/208939c09a214d9fcb6c1485a2b48855?w=350&amp;q=50&amp;rect=0,210,5500,3015&amp;auto=format"
     },
     {
@@ -72,84 +102,64 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/79922a12ec7192fa598bbd88de91c78c?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Hat-trick’ de Francisco Silva na goleada do Benfica B aos espanhóis do Mérida",
-      "link": "https://www.rtp.pt/noticias/benfica/hat-trick-de-francisco-silva-na-goleada-do-benfica-b-aos-espanhois-do-merida_d1755899",
-      "pubDate": "Sat, 25 Jul 2026 23:12:58 +0100",
-      "description": "O Benfica B, da II Liga portuguesa de futebol, goleou hoje por 4-0 o Mérida, do terceiro escalão de Espanha, em jogo de preparação para a época 2026/27, disputado no Benfica Campus, no Seixal.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "FC Porto vence Aston Villa no jogo de apresentação aos sócios",
-      "link": "https://www.rtp.pt/noticias/fc-porto/fc-porto-vence-aston-villa-no-jogo-de-apresentacao-aos-socios_d1755898",
-      "pubDate": "Sat, 25 Jul 2026 23:12:19 +0100",
-      "description": "O FC Porto venceu hoje os ingleses do Aston Villa, por 2-1, em jogo de preparação que serviu de apresentação do plantel de futebol dos campeões nacionais para a temporada 2026/27, no Estádio do Dragão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/da/dafc23968f5b6ed2e507c26bb7eb51d9?w=350&amp;q=50&amp;rect=0,229,5315,2914&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Marítimo empata sem golos com AD Machico em encontro particular",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/maritimo-empata-sem-golos-com-ad-machico-em-encontro-particular_d1755895",
-      "pubDate": "Sat, 25 Jul 2026 22:54:40 +0100",
-      "description": "O Marítimo empatou hoje 0-0 com a AD Machico, do Campeonato de Portugal, em jogo de preparação disputado à porta fechada, no recinto do emblema campeão da II Liga e recém-promovido ao primeiro escalão.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Roménia: Nuno Campos goleia Filipe Coelho em duelo de treinadores lusos",
+      "link": "https://maisfutebol.iol.pt/made-in/nuno-campos/romenia-nuno-campos-goleia-filipe-coelho-em-duelo-de-treinadores-lusos",
+      "pubDate": "Sat, 25 Jul 2026 23:45:00 +0100",
+      "description": "Na segunda jornada da Liga romena, o Dinamo Bucuresti venceu o Universitatea Craiova por 5-1",
+      "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Farioli: «O que foi feito no passado já é parte da história»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-o-que-foi-feito-no-passado-ja-e-parte-da-historia",
-      "pubDate": "Sat, 25 Jul 2026 22:47:36 +0100",
-      "description": "Técnico do FC Porto considerou a vitória frente ao Aston Villa um bom «boost» para a temporada e falou do mercado",
-      "thumbnail": "https://img.iol.pt/image/id/6a651ebdd34e511da0b2fc66/250"
+      "title": "Atletismo: regressado Nélson Evora domina campeonato de triplo salto",
+      "link": "https://maisfutebol.iol.pt/atletismo/nelson-evora/atletismo-regressado-nelson-evora-domina-triplo-salto",
+      "pubDate": "Sat, 25 Jul 2026 23:32:00 +0100",
+      "description": "Aumentou para 16 as conquistas em Campeonatos de Portugal",
+      "thumbnail": "https://img.iol.pt/image/id/5b7091f90cf282952f0399c1/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Pepê deixa garantia: «Esta época vai ser muito melhor»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/pepe/pepe-deixa-garantia-esta-epoca-vai-ser-muito-melhor",
-      "pubDate": "Sat, 25 Jul 2026 22:27:50 +0100",
-      "description": "Avançado do FC Porto admitiu que cometeu «muitos erros» na temporada passada",
-      "thumbnail": "https://img.iol.pt/image/id/6a651ebdd34ef04b4f3f8f63/250"
+      "title": "Benfica B goleia espanhóis do Mérida",
+      "link": "https://maisfutebol.iol.pt/benfica-b/merida/benfica-b-goleia-espanhois-do-merida",
+      "pubDate": "Sat, 25 Jul 2026 23:20:10 +0100",
+      "description": "Francisco Silva foi figura com ha-trick pelos encarnados",
+      "thumbnail": "https://img.iol.pt/image/id/6a65354bd34e511da0b2fca7/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "FC Porto-Aston Villa, 2-1 (destaques)",
-      "link": "https://maisfutebol.iol.pt/geral/25-07-2026/fc-porto-aston-villa-2-1-destaques",
-      "pubDate": "Sat, 25 Jul 2026 22:24:00 +0100",
-      "description": "Numa noite de pouco brilho, só Froholdt fez faísca. E isso bastou-lhe para se destacar dos demais",
-      "thumbnail": "https://img.iol.pt/image/id/6a652866d34e511da0b2fc94/250"
+      "title": "Marítimo e AD Machico anulam-se em jogo de preparação",
+      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-e-ad-machico-anulam-se-em-jogo-de-preparacao",
+      "pubDate": "Sat, 25 Jul 2026 23:11:24 +0100",
+      "description": "Equipa recém promovida à Liga não foi além de um empate sem golos com a equipa do Camp. Portugal",
+      "thumbnail": "https://img.iol.pt/image/id/6a60ce83d34e511da0b2f13a/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Eric Dier: «Voltar ao Sporting? Espero que sim»",
-      "link": "https://maisfutebol.iol.pt/sporting/eric-dier/eric-dier-voltar-ao-sporting-espero-que-sim",
-      "pubDate": "Sat, 25 Jul 2026 22:07:17 +0100",
-      "description": "Defesa formado no Sporting elogiou o trabalho recente dos leões",
-      "thumbnail": "https://img.iol.pt/image/id/6a6522d9d34ef04b4f3f8f6b/250"
+      "title": "Estoril Open: surpreendente Blockx vence Luciano Darderi e está na final",
+      "link": "https://maisfutebol.iol.pt/modalidades/alexander-blockx/estoril-open-alexander-blockx-vence-luciano-darderi-e-esta-na-final",
+      "pubDate": "Sat, 25 Jul 2026 23:05:00 +0100",
+      "description": "Carrasco de Jaime Faria continua com hipóteses de vencer o torneio",
+      "thumbnail": "https://img.iol.pt/image/id/6a63bb07d34ef04b4f3f8cde/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto-Aston Villa, 2-1 (crónica)",
-      "link": "https://maisfutebol.iol.pt/futebol/fc-porto/fc-porto-aston-villa-2-1-cronica",
-      "pubDate": "Sat, 25 Jul 2026 21:57:00 +0100",
-      "description": "A alma está lá, mas a festa pedia outra magia",
-      "thumbnail": "https://img.iol.pt/image/id/6a651ebdd34ef04b4f3f8f63/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Veículo avança sobre multidão em marcha LGBT em Berlim, pelo menos uma pessoa morreu",
+      "link": "https://sapo.pt/artigo/veiculo-avanca-sobre-multidao-em-desfile-lgbt-em-berlim-ha-varios-feridos-6a6528e99c9f29b5ce9389e8",
+      "pubDate": "Sat, 25 Jul 2026 22:01:23 +0000",
+      "description": "Um veículo avançou esta noite sobre uma multidão que participava num desfile LGBT em Berlim. Testemunhas relatam uma carrinha branca que circulava a alta velocidade.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ANZsdloNqhq2oI6obfzPidKW0%2B8V%2BpNHs34zomgbIdBg9GXuR0jqZ5UmrQdtb64UCzBTvbY2CVL4SokLULHnb%2FkhDDmTubH4JMLfY1AUalgeVSIygpbISoNHUcZdqoWDj"
     },
     {
       "sourceId": "sapo",
@@ -160,16 +170,6 @@
       "pubDate": "Sat, 25 Jul 2026 20:33:16 +0000",
       "description": "Perto de 300 mil pessoas foram afetadas pelos incêndios ativos em Espanha e França. O vento e as altas temperaturas estão a dificultar o combate às chamas.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Ac424huXLrTNEvtGYGSRWKuJ9ZNJtQFZYy1dCUmJ9BjfWxmp1x7RFKvc9xlOz%2BCQsEKlN8Lz7utH3TnMPoMdkzLOup625pa8pK3GSdkbVa9c5LBHDsdqNiRVKBuKsO4PO"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "\"Vários feridos\" após atropelamento durante marcha Pride",
-      "link": "https://sapo.pt/artigo/varios-feridos-apos-atropelamento-durante-marcha-pride-6a6527bb39564b23daac0464",
-      "pubDate": "Sat, 25 Jul 2026 21:18:24 +0000",
-      "description": "Uma testemunha relatou à imprensa alemã ter visto uma carrinha branca a circular a uma grande velocidade contra uma multidão no parque de Tiergarten.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AICg8Tqcs3Ah2OFOxo9cqoYqULvKzQ04ppQ20j9UToZNvnHHTg9VkBo8OfWCTXF2F7eG7BlNNUgpc%2FsqwkwLVhsI883AYWDzKj8ObRonWW%2FHYMvFRk1PL646GYPl7dqir"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,61 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "FC Porto bate Aston Villa na apresentação aos adeptos com golos de William Gomes e Pepê",
-      "link": "https://sapo.pt/artigo/fc-porto-bate-aston-villa-na-apresentacao-aos-adeptos-com-golos-de-william-gomes-e-pepe-6a6525451c5549f5db96b134",
-      "pubDate": "Sat, 25 Jul 2026 21:08:39 +0000",
-      "description": "Comandado por Francesco Farioli, o FC Porto venceu o Aston Villa, por 2-1, na apresentação aos adeptos no Estádio do Dragão",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AlVgWjaV98n1a7J%2BTRaGt07uQcaQiJ3FO58tmvofEkLBNFHsoQzHmrBfO8qnafSxGT4IrcaPJMxRE8ny%2FbaEvrAoecQu6Xlz9BrrrNLiBqYIJf0L0MOH6BVCiothPMk02"
+      "title": "Baldé com recorde mundial dos 100 metros em cadeira de rodas",
+      "link": "https://sapo.pt/artigo/balde-com-recorde-mundial-dos-100-metros-em-cadeira-de-rodas-6a65360186e5f86c55693820",
+      "pubDate": "Sat, 25 Jul 2026 22:23:41 +0000",
+      "description": "Mamudo Baldé retirou cinco segundos à anterior melhor marca mundial, que tinha sido alcançada por Athiwat Paeng-Nuea em maio.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AAzB5my%2Fr1WihgE6AmzFd5fZHmqiW%2BcvyMKs0xL56WQOlJkwcFCmH9UvxUwLIBPWKo1e1ZeYrufZujdwoiNnq4EB2Ti5Pyve%2Fi2%2BGGkHmBprhO8cqJY1VRwPi3We98cyh"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mamudo Baldé quebra recorde mundial dos 100 metros em cadeira de rodas",
-      "link": "https://www.noticiasaominuto.com/desporto/3027472/mamudo-balde-quebra-recorde-mundial-dos-100-metros-em-cadeira-de-rodas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 22:39:55",
+      "title": "Ucrânia acusa Rússia de dar imagens de satélite a Irão para atacar EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3027485/ucrania-acusa-russia-de-dar-imagens-de-satelite-a-irao-para-atacar-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:43:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43504709.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67e563c355e54.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Farioli elogia exibição e aborda mercado: \"Não controlamos...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3027474/farioli-elogia-exibicao-e-aborda-mercado-nao-controlamos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 22:38:11",
+      "title": "Orçamento do Sporting para a época 2025/26 foi aprovado pelos sócios",
+      "link": "https://www.noticiasaominuto.com/desporto/3027484/orcamento-do-sporting-para-a-epoca-202526-foi-aprovado-pelos-socios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:39:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a652637400e8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTEsImNyb3BZIjo1NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM1LCJjcm9wSGVpZ2h0IjoxNDg0LCJjcm9wWCI6Nzk1LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_696fcb37beea5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogos continuam por controlar em Espanha após \"dia que não foi positivo\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3027467/fogos-continuam-por-controlar-em-espanha-apos-dia-que-nao-foi-positivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 22:35:10",
+      "title": "Despedida à vista? Pedro Gonçalves saiu ovacionado após jogar 30 minutos",
+      "link": "https://www.noticiasaominuto.com/desporto/3027486/despedida-a-vista-pedro-goncalves-jogou-30-minutos-e-saiu-ovacionado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:30:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47519038.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY2LCJjcm9wWCI6NDM2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65393986c93.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pepê mira ao Torreense: \"Continuar no foco porque temos uma final\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3027470/pepe-mira-ao-torreense-continuar-no-foco-porque-temos-uma-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 22:28:02",
+      "title": "Irão denuncia ataque ucraniano no Mar Cáspio que matou um marinheiro",
+      "link": "https://www.noticiasaominuto.com/mundo/3027482/irao-denuncia-ataque-ucraniano-no-mar-caspio-que-matou-um-marinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:27:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6525ddaf5e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6OTgyLCJjcm9wWSI6MTIwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a7373076fef.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eric Dier não esquece Sporting: \"Espero que um dia dê para voltar\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3027468/eric-dier-nao-esquece-sporting-espero-que-um-dia-de-para-voltar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 22:19:13",
+      "title": "Atropelamento em marcha LGBTI+ em Berlim: As primeiras imagens",
+      "link": "https://www.noticiasaominuto.com/mundo/3027483/atropelamento-em-marcha-pride-em-berlim-as-primeiras-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:14:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6527d8800c1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoyMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6535892dd59.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY1MCwiY3JvcEhlaWdodCI6MTE1NSwiY3JvcFgiOjc1MiwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjAxLCJjcm9wSGVpZ2h0Ijo5MDEsImNyb3BYIjowLCJjcm9wWSI6MjU0fX0="
     },
     {
       "sourceId": "pplware",
