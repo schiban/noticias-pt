@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-25T17:28:41.446774+00:00",
+  "updated": "2026-07-25T18:28:07.696322+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "ONU procura novo líder, mas arrisca \"tornar-se numa sombra\"",
+      "link": "https://observador.pt/especiais/falta-de-fundos-mundo-em-crise-e-pressao-de-trump-onu-procura-novo-secretario-geral-mas-arrisca-tornar-se-uma-sombra/",
+      "pubDate": "Sat, 25 Jul 2026 19:20:23 +0100",
+      "description": "Com o processo a decorrer, corrida continua morna e nenhum dos seis candidatos reúne apoio dos membros permanentes do Conselho de Segurança. Trump pode agitar corrida, mas ONU tem problemas maiores.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/25173913/45713089.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2131/",
+      "pubDate": "Sat, 25 Jul 2026 19:15:46 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "António Carlos Cortez com Prémio Ensaio Jacinto Prado Coelho",
+      "link": "https://observador.pt/2026/07/25/antonio-carlos-cortez-venceu-o-premio-de-ensaio-jacinto-prado-coelho-2026/",
+      "pubDate": "Sat, 25 Jul 2026 19:03:21 +0100",
+      "description": "O Prémio, com o valor de 4.000 euros, é atribuído pela Associação Portuguesa dos Críticos Literários (APCL), e foi uma escolha por unanimidade do júri.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:325/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/12131407/antonio-carlos-cortez.jpeg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dinis e Anna Schaffgotsch juntos em boda em Viena",
+      "link": "https://observador.pt/2026/07/25/dinis-de-braganca-e-anna-schaffgotsch-em-viena-para-casamento-da-arquiduquesa-isabel-de-habsburgo/",
+      "pubDate": "Sat, 25 Jul 2026 18:42:21 +0100",
+      "description": "Na primeira aparição pública após o anúncio do noivado, Dinis de Bragança e Anna Schaffgotsch assistiram em Viena ao casamento da arquiduquesa Isabel de Habsburgo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/25180042/gettyimages-2287580010-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,62 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/13203532/47334138.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 18h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2103/",
-      "pubDate": "Sat, 25 Jul 2026 18:11:59 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PSP detém suspeito de uso de documentos falsos no aeroporto",
-      "link": "https://observador.pt/2026/07/25/psp-detem-suspeito-de-uso-de-documentos-falsos-no-aeroporto-do-porto/",
-      "pubDate": "Sat, 25 Jul 2026 18:00:13 +0100",
-      "description": "Segundo a PSP, após a \"análise da documentação e confirmação dos indícios de fraude\", o suspeito foi detido e presente a um juiz para aplicação das medidas de coação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/29180258/ilacerda-aeroporto-controlo-fronteiras245-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Neves foi diretor da PJ e tem especiais responsabilidades\"",
-      "link": "https://observador.pt/2026/07/25/carneiro-avisa-que-silencio-e-inimigo-da-transparencia-mas-pede-tempo-luis-neves-foi-diretor-da-pj-e-tem-especiais-responsabilidades/",
-      "pubDate": "Sat, 25 Jul 2026 17:58:43 +0100",
-      "description": "O líder do PS espera que esclarecimentos prometidos por Neves cheguem na próxima semana, entende que seja preciso tempo para recolher factos, mas avisa que PM que é preciso salvaguardar instituições.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/02124815/47205895.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "F1. Norris conquista primeira \"pole\" da temporada",
-      "link": "https://observador.pt/2026/07/25/norris-surpreende-mercedes-e-conquista-primeira-pole-da-temporada-na-formula-1/",
-      "pubDate": "Sat, 25 Jul 2026 17:49:33 +0100",
-      "description": "O italiano Kimi Antonelli (Mercedes), atual líder do Campeonato do Mundo, foi quarto. Hamilton e Leclerc ficaram em segundo e terceiro, respetivamente.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/25174525/47517671.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Oficializada candidatura de Flávio Bolsonaro para as eleições presidenciais no Brasil",
-      "link": "https://www.rtp.pt/noticias/mundo/oficializada-candidatura-de-flavio-bolsonaro-para-as-eleicoes-presidenciais-no-brasil_n1755851",
-      "pubDate": "Sat, 25 Jul 2026 19:24:27 +0100",
-      "description": "O Partido Liberal do Brasil (PL), do ex-Presidente Jair Bolsonaro, oficializou hoje a candidatura do seu filho mais velho, o senador Flávio Bolsonaro, às eleições presidenciais de outubro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aae1b3de6fc7c82cf5fdb841037f589e?w=350&amp;q=50&amp;rect=0,27,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h - Incêndio em Pombal a ceder aos meios no terreno",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-incendio-em-pombal-a-ceder-aos-meios-no-terreno_a1_1755852",
-      "pubDate": "Sat, 25 Jul 2026 19:24:02 +0100",
+      "title": "19h - Um homem morreu no incêndio de Espanha na cidade de Valência",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-um-homem-morreu-no-incendio-de-espanha-na-cidade-de-valencia_a1_1755860",
+      "pubDate": "Sat, 25 Jul 2026 20:23:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,81 +65,91 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Quase 260.000 pessoas retiradas de casa devido aos incêndios em Espanha e França",
-      "link": "https://www.rtp.pt/noticias/mundo/quase-260000-pessoas-retiradas-de-casa-devido-aos-incendios-em-espanha-e-franca_n1755847",
-      "pubDate": "Sat, 25 Jul 2026 18:51:00 +0100",
-      "description": "O avanço das chamas obrigou já à retirada de pelo menos 167.000 pessoas em Girona, França, com 32.700 hectares destruídos até agora. Em Landes, mais a sul, foram retiradas mais 31.000 pessoas, tendo ardido 3.500 hectares. Em Espanha, os incêndios de Madrid e de Ávila levaram as autoridades a retirar",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d843c73c70fb09d34c0d998c2ddb1d9b?w=350&amp;q=50&amp;rect=0,81,1500,822&amp;auto=format"
+      "title": "Tatjana Pinto melhora recorde nacional dos 100 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/tatjana-pinto-melhora-recorde-nacional-dos-100-metros_d1755859",
+      "pubDate": "Sat, 25 Jul 2026 20:15:15 +0100",
+      "description": "A atleta Tatjana Pinto melhorou hoje o recorde nacional dos 100 metros, com 11,02 segundos, e conquistou um inédito título nos Campeonatos de Portugal ao ar livre, em Lisboa, sucedendo a Lorène Bazolo, que vinha de 10 triunfos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f20d890e3d7166e4b38e8a6b813318ee?w=350&amp;q=50&amp;rect=0,5,739,405&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "17h Incêndios em França e Espanha não dão tréguas. Há dezenas de milhar de pessoas deslocadas ou confinandas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-incendios-em-franca-e-espanha-nao-dao-treguas-ha-dezenas-de-milhar-de-pessoas-deslocadas-ou-confinandas_a1_1755848",
-      "pubDate": "Sat, 25 Jul 2026 18:26:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Toque afasta Félix da Costa da luta pela vitória na Fórmula E em Tóquio",
+      "link": "https://www.rtp.pt/noticias/motores/toque-afasta-felix-da-costa-da-luta-pela-vitoria-na-formula-e-em-toquio_d1755858",
+      "pubDate": "Sat, 25 Jul 2026 20:12:03 +0100",
+      "description": "O piloto português António Félix da Costa (Jaguar) viu-se hoje afastado da luta pela vitória na 14.ª ronda do Mundial de Fórmula E, em Tóquio, depois de um toque com o alemão Pascal Wehrlein (Porsche).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/62d7f04bc0422a91b8ab29f4226794ad?w=350&amp;q=50&amp;rect=0,348,5700,3125&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ex-Alverca Felipe Lima reforça ataque do Benfica B",
-      "link": "https://www.rtp.pt/noticias/benfica/ex-alverca-felipe-lima-reforca-ataque-do-benfica-b_d1755845",
-      "pubDate": "Sat, 25 Jul 2026 17:57:54 +0100",
-      "description": "O Benfica B, da II Liga portuguesa de futebol, oficializou hoje a contratação do avançado Felipe Lima ao Alverca, por empréstimo válido até ao final da época 2026/27, tendo as ‘águias’ garantido uma opção de compra.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Vizela perde com Sporting de Braga B por 3-2 em jogo particular",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/vizela-perde-com-sporting-de-braga-b-por-3-2-em-jogo-particular_d1755856",
+      "pubDate": "Sat, 25 Jul 2026 20:10:28 +0100",
+      "description": "O Vizela perdeu hoje com o Sporting de Braga B, por 3-2, num jogo particular de futebol disputado à porta fechada, no Estádio do Vizela, com 120 minutos divididos em quatro partes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/de/de9ffcf53e24f283746044a6ac13b6ec?w=350&amp;q=50&amp;rect=0,9,1488,816&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Norris surpreende Mercedes e conquista primeira ‘pole’ da temporada na Fórmula 1",
+      "link": "https://www.rtp.pt/noticias/motores/norris-surpreende-mercedes-e-conquista-primeira-pole-da-temporada-na-formula-1_d1755854",
+      "pubDate": "Sat, 25 Jul 2026 20:05:56 +0100",
+      "description": "O britânico Lando Norris (McLaren) conquistou hoje a ‘pole position’ para o Grande Prémio da Hungria de Fórmula 1, a primeira da temporada, numa sessão de qualificação decidida nos instantes finais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c35811f66a00ff7976d10ec0ef207bf4?w=350&amp;q=50&amp;rect=0,506,4677,2564&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Afonso Moreira volta a marcar pelo Leverkusen",
-      "link": "https://maisfutebol.iol.pt/internacional/alemanha/video-afonso-moreira-volta-a-marcar-pelo-leverkusen",
-      "pubDate": "Sat, 25 Jul 2026 18:08:03 +0100",
-      "description": "Emblema alemão venceu o Offenbach, da quarta divisão, por 3-1",
-      "thumbnail": "https://img.iol.pt/image/id/6a64e8a0d34ef04b4f3f8eb4/250"
+      "title": "Tatjana Pinto bate recorde nacional de 100 metros",
+      "link": "https://maisfutebol.iol.pt/atletismo/modalidades/tatjana-pinto-bate-recorde-nacional-de-100-metros",
+      "pubDate": "Sat, 25 Jul 2026 19:16:18 +0100",
+      "description": "Atleta do Sporting retirou sete centésimos ao melhor tempo português, terminando com 11,02 segundos",
+      "thumbnail": "https://img.iol.pt/image/id/6a64fcc0d34ef04b4f3f8eef/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Liga: calendário e todos os resultados da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Sat, 25 Jul 2026 18:07:00 +0100",
-      "description": "Clubes já estão a preparar a época 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
+      "title": "FC Porto: Diogo Costa mantém o 99, Hwang In-beom herda camisola de goleador",
+      "link": "https://maisfutebol.iol.pt/futebol/fc-porto/fc-porto-diogo-costa-mantem-o-99-hwang-in-beom-herda-camisola-de-goleador",
+      "pubDate": "Sat, 25 Jul 2026 19:10:00 +0100",
+      "description": "Foram chamados 31 jogadores ao centro do relvado do Estádio Dragão, entre eles Vasco Sousa e os jovens Tiago Silva, Luís Gomes e Bernardo Lima, ao contrário do reforço Eirik Granaas, de apenas 16 anos",
+      "thumbnail": "https://img.iol.pt/image/id/6a64faffd34e511da0b2fc00/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Académico perde com Lusitânia Lourosa em jogo de preparação",
-      "link": "https://maisfutebol.iol.pt/liga/academico-viseu/academico-viseu-perde-com-lusitania-lourosa-em-jogo-de-preparacao",
-      "pubDate": "Sat, 25 Jul 2026 18:07:00 +0100",
-      "description": "Formação da Liga sofreu a primeira derrota da pré-temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a64eab8d34e511da0b2fbce/250"
+      "title": "Sporting apresenta 30 jogadores, mas esquece-se de Felicíssimo",
+      "link": "https://maisfutebol.iol.pt/sporting/liga/sporting-apresenta-30-jogadores-mas-esquece-se-de-felicissimo",
+      "pubDate": "Sat, 25 Jul 2026 18:59:00 +0100",
+      "description": "Pedro Gonçalves e Ousmane Diomande, para já, também têm número",
+      "thumbnail": "https://img.iol.pt/image/id/6952db5cd34e2bd5c6d59f35/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: queda deixa ciclista à beira do abismo na Volta a França",
-      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-franca/video-queda-deixa-ciclista-a-beira-do-abismo-na-volta-a-franca",
-      "pubDate": "Sat, 25 Jul 2026 17:48:51 +0100",
-      "description": "Sepp Kuss perdeu o controlo da bicicleta e embateu num muro que separa a estrada de uma enorme ravina",
-      "thumbnail": "https://img.iol.pt/image/id/6a64e84cd34ef04b4f3f8eb3/250"
+      "title": "Cinco Violinos: três reforços e cinco da formação no onze inicial",
+      "link": "https://maisfutebol.iol.pt/sporting/liga/cinco-violinos-tres-reforcos-e-cinco-da-formacao-no-onze-inicial",
+      "pubDate": "Sat, 25 Jul 2026 18:45:00 +0100",
+      "description": "Sergi Altimira, Rodrigo Zalazar e Issa Doumbia são as cras novas do novo leão",
+      "thumbnail": "https://img.iol.pt/image/id/68de931cd34ee0c2fed0ceb8/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Palhinha salta do banco na derrota do Bayern com equipa do terceiro escalão",
-      "link": "https://maisfutebol.iol.pt/alemanha/joao-palhinha/palhinha-salta-do-banco-na-derrota-do-bayern-com-equipa-do-terceiro-escalao",
-      "pubDate": "Sat, 25 Jul 2026 17:40:00 +0100",
-      "description": "Internacional português, associado ao Benfica, voltou a jogar pela formação alemã",
-      "thumbnail": "https://img.iol.pt/image/id/67616ab8d34e94b82908c069/250"
+      "title": "OFICIAL: Selvi Clua reforça o meio-campo do Casa Pia",
+      "link": "https://maisfutebol.iol.pt/casa-pia/selvi-clua/oficial-selvi-clua-reforca-o-meio-campo-do-casa-pia",
+      "pubDate": "Sat, 25 Jul 2026 18:37:34 +0100",
+      "description": "Médio espanhol chega por empréstimo do Almería",
+      "thumbnail": "https://img.iol.pt/image/id/6a64f154d34ef04b4f3f8ec6/250"
     },
     {
       "sourceId": "sapo",
@@ -165,6 +165,26 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Rússia prorroga proibição de exportação de gasolina até ao final do ano",
+      "link": "https://sapo.pt/artigo/russia-prorroga-proibicao-de-exportacao-de-gasolina-ate-ao-final-do-ano-6a64f70886e5f86c55622aaa",
+      "pubDate": "Sat, 25 Jul 2026 18:05:41 +0000",
+      "description": "A Ucrânia tem atacado regularmente infraestruturas petrolíferas russas com drones. A crise de combustível afeta aproximadamente um terço dos 145 milhões de habitantes russos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AVwEy5oqKlRU4%2B7RVEqSC8Yv90XPDD9ub6eYZ4NGKQMDGNZECPStpxCWuJXBedaASv9dsGO9xAnNKMV3ut2WoxbSxknNSSoAFQqc1HH4x9EtCbaib0iuu4BC2L4bUdoYQ"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Flávio Bolsonaro oficializa candidatura às eleições presidenciais no Brasil",
+      "link": "https://eco.sapo.pt/2026/07/25/flavio-bolsonaro-oficializa-candidatura-as-eleicoes-presidenciais-no-brasil/",
+      "pubDate": "Sat, 25 Jul 2026 17:30:16 +0000",
+      "description": "O Partido Liberal do Brasil, do ex-Presidente Jair Bolsonaro, oficializou hoje a candidatura do seu filho mais velho, o senador Flávio Bolsonaro, às eleições presidenciais de outubro.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A35M4dO7M%2FNGIm250MURSrQlWYfn93WJM14YQXA6iJHxrB3ybhQAH7SiwkoRyET8ecCuEKk%2BApDk4OrifIt1HZupusSkJnPSWB1vdG4BhNaTB%2Bb6ysh7OnqYg7YCDYOiP"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Mais de 100 operacionais combatem incêndio em Pombal",
       "link": "https://sapo.pt/artigo/mais-de-100-operacionais-combatem-incendio-em-pombal-6a64e8b29c9f29b5ce8ab95a",
       "pubDate": "Sat, 25 Jul 2026 17:07:08 +0000",
@@ -175,81 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Jantar com jornalistas: insultos, piadas e boné \"Trump 2028\"",
-      "link": "https://sapo.pt/artigo/jantar-com-jornalistas-insultos-piadas-e-bone-trump-2028-6a64e29a503f077bd173b249",
-      "pubDate": "Sat, 25 Jul 2026 16:41:25 +0000",
-      "description": "Donald Trump fez piadas durante o discurso, mas também insultou jornalistas e inimigos políticos. Usou jantar para estrear boné a dizer \"Trump 2028\", mas não se pode recandidatar à Casa Branca.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=576&W=1024&crop=center&delay_optim=1&epic=V2%3AjRh6vwSq2YgiQMFaE5uitTY1AaF5E3bBB7KbhIuaTvQu1Vc%2Flk%2FJqAWEuNniGFRw%2Fr9u2OomRhnWphKmPCayyWUXAOZPDqFglMBZHOLf5hRHdUGZOA6g437yLWZDNMaG"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Luís Neves está \"a gerir processo da melhor forma que sabe\", diz ministra da Justiça",
-      "link": "https://sapo.pt/artigo/luis-neves-esta-a-gerir-processo-da-melhor-forma-que-sabe-diz-ministra-da-justica-6a64d5b039564b23daa2a026",
-      "pubDate": "Sat, 25 Jul 2026 16:11:55 +0000",
-      "description": "A ministra da Justiça defendeu que o caso envolvendo Luís Neves não afeta a confiança na Polícia Judiciária. Rita Alarcão Júdice considera que Luís Neves gere processo da melhor forma possível.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AKv0h6NoakGllhH8Mw9uNjL0EwE1NqR72ZyEMO87rOHMAkc%2FpMAodBbFGARfQPP2U9bfdBgL3MbYb236HrUsPbvOnnqMB%2BNHDYvDjA%2BNC3fmTGMmXqqsb%2Fl3TWpHSujoT"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Detida nos Açores mulher procurada para cumprir pena por tortura e rapto no Brasil",
-      "link": "https://sapo.pt/artigo/detida-nos-acores-mulher-procurada-para-cumprir-pena-por-tortura-e-rapto-no-brasil-6a64df2a9c9f29b5ce897702",
-      "pubDate": "Sat, 25 Jul 2026 16:11:55 +0000",
-      "description": "Crimes ocorreram entre março de 2012 e agosto de 2014 num centro de tratamento de dependências em Santa Catarina, no Brasil.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AwwYTkOSbq74bf%2Fd7oe0UyFREc8rY5qUtHrzLjVQ8Tp2Jqih9SMZFyOk06uYfDkThOQoMMv0lcF0jXx%2BkbrWUlDbfbW29rfydDtNcr3T4wBe%2F15gvm56PDpzGbNRB7C%2Fw"
+      "title": "Rainha Máxima da Holanda faz história ao abrir WorldPride em Amesterdão e apoiar direitos LGBTQIA+",
+      "link": "https://sapo.pt/artigo/rainha-maxima-da-holanda-faz-historia-ao-abrir-worldpride-em-amesterdao-e-apoiar-direitos-lgbtqia-6a64f94c503f077bd175f91c",
+      "pubDate": "Sat, 25 Jul 2026 18:05:41 +0000",
+      "description": "A rainha Máxima dos Países Baixos marcou este sábado um momento histórico ao participar na abertura do WorldPride 2026, em Amesterdão. A mulher do rei Guilherme Alexandre tornou-se a primeira integrante de uma monarquia reinante a desfilar num...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AMSDMYLB3IitK12fyKyd4zqVKEdEToYq7jXoCUxHOPeCXTmKTggbZEqZYIWAvFyvDtF7LVOghoek1DrkQFeJHS93D49dxZFou1OU%2BgxeCOKGGjVHFaiy0Ko59JonPyZQZ"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Presidenciais no Brasil: Oficializada candidatura de Flávio Bolsonaro",
-      "link": "https://www.noticiasaominuto.com/mundo/3027409/presidenciais-no-brasil-oficializada-candidatura-de-flavio-bolsonaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 18:10:19",
+      "title": "Desta vez não houve surpresa. Os apresentados e os regressos do FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3027424/desta-vez-nao-houve-surpresa-os-apresentados-e-os-regressos-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 19:21:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47334138.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64f8e15576e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM0OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjYxOCwiY3JvcFkiOjQxNn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vizela perde com Sp. Braga B por 3-2 em jogo particular",
-      "link": "https://www.noticiasaominuto.com/desporto/3027404/vizela-perde-com-sp-braga-b-por-3-2-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 18:00:19",
+      "title": "Grande surpresa na apresentação. O onze de Farioli no FC Porto-Villa",
+      "link": "https://www.noticiasaominuto.com/desporto/3027367/apresentar-na-forca-maxima-o-onze-de-farioli-para-o-fc-porto-aston-villa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 19:17:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64eb6b40d35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzM4LCJjcm9wSGVpZ2h0IjoxMzE1LCJjcm9wWCI6LTEsImNyb3BZIjo3NTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64c591284f7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTE5LCJjcm9wSGVpZ2h0IjoxMDc5LCJjcm9wWCI6MCwiY3JvcFkiOjEyNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzA2LCJjcm9wSGVpZ2h0IjoxMjU0LCJjcm9wWCI6NTc1LCJjcm9wWSI6LTF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Galaxy Ring, o anel da Samsung, vai detetar apneia do sono",
-      "link": "https://www.noticiasaominuto.com/tech/3027035/galaxy-ring-o-anel-da-samsung-vai-detetar-apneia-do-sono#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 18:00:00",
+      "title": "Detido agente russo que ativou mais de mil terminais Starlink na Ucrânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3027423/detido-agente-russo-que-ativou-mais-de-mil-terminais-starlink-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 19:15:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65dcab5b4fac2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NTIsImNyb3BIZWlnaHQiOjUzNiwiY3JvcFgiOjMsImNyb3BZIjo5Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzYzLCJjcm9wSGVpZ2h0Ijo2NDUsImNyb3BYIjozMDgsImNyb3BZIjo3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_695ba77113dbd.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lando Norris surpreende e garante a 'pole position' no GP da Hungria",
-      "link": "https://www.noticiasaominuto.com/desporto/3027405/lando-norris-surpreende-e-garante-a-pole-position-no-gp-da-hungria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 17:56:48",
+      "title": "Luís Neves: \"Estou absolutamente tranquilo. Explicarei no tempo próprio\"",
+      "link": "https://www.noticiasaominuto.com/pais/3027422/luis-neves-estou-absolutamente-tranquilo-explicarei-no-tempo-proprio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 19:04:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47517671.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a57b3256c6e6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tufão Noul aproxima-se e coloca Hong Kong, Macau e sul da China em alerta",
-      "link": "https://www.noticiasaominuto.com/mundo/3027403/tufao-noul-aproxima-se-e-coloca-hong-kong-macau-e-sul-da-china-em-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 17:54:43",
+      "title": "Lontra regressa à Serra de Sintra após \"várias décadas de ausência\": Veja",
+      "link": "https://www.noticiasaominuto.com/pais/3027413/lontra-regressa-a-serra-de-sintra-apos-varias-decadas-de-ausencia-veja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 19:01:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64ea557a84d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64f4464b9bf.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUwNiwiY3JvcEhlaWdodCI6OTAwLCJjcm9wWCI6NTUzLCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjEyNTQsImNyb3BIZWlnaHQiOjcwNSwiY3JvcFgiOjE1NywiY3JvcFkiOjk3fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Brigador Killers promete revolucionar a saga com combate a pé, veículos e guerra de insurgência.",
+      "link": "https://pplware.sapo.pt/jogos/brigador-killers-promete-revolucionar-a-saga-com-combate-a-pe-veiculos-e-guerra-de-insurgencia/",
+      "pubDate": "Sat, 25 Jul 2026 18:00:40 +0000",
+      "description": "A Stellar Jockeys anunciou que Brigador Killers, continuação da popular saga de ação tática isométrica, está prestes a chegar, em Acesso Antecipado, quer ao Steam como ao GOG. Ambientado no mundo de Mar Nosso,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/BrigadorKillers_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,44 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tesla_q2.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Remover a Huawei de países europeus pode custar 40 mil milhões de euros",
-      "link": "https://pplware.sapo.pt/informacao/remover-a-huawei-de-paises-europeus-pode-custar-40-mil-milhoes-de-euros/",
-      "pubDate": "Sat, 25 Jul 2026 13:00:35 +0000",
-      "description": "A decisão de vários países europeus de reduzir ou eliminar a presença da Huawei nas redes de telecomunicações poderá ter um impacto financeiro muito superior ao esperado. Um novo estudo estima que a substituição&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/huawei-1024x576-1.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F3, Hungria: Théophile Nael vence corrida Sprint",
+      "link": "https://www.autosport.pt/velocidade/f3-hungria-theophile-nael-vence-corrida-sprint/",
+      "pubDate": "Sat, 25 Jul 2026 18:07:50 +0000",
+      "description": "Théophile Nael venceu a Sprint de Budapeste, partindo de sexto na grelha para conquistar o seu segundo triunfo da temporada. A corrida teve impacto direto na luta pelo campeonato, com Freddie Slater a igualar Ugo Ugochukwu no topo da classificação. A prova começou com Gerrard Xie a sair muito bem de",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Hungria F1: Kimi Antonelli recebe penalização de três lugares",
+      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-kimi-antonelli-recebe-penalizacao-de-tres-lugares/",
+      "pubDate": "Sat, 25 Jul 2026 17:51:14 +0000",
+      "description": "Tal como Lewis Hamilton, Kimi Antonelli foi castigado com uma penalização de três lugares na grelha para o Grande Prémio da Hungria, neste caso na sequência de uma investigação após a qualificação. O líder do campeonato terminou a sessão em quarto lugar, mas o resultado fica agora comprometido pela ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Hungria F1: Lewis Hamilton recebe penalização de três lugares",
+      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-lewis-hamilton-recebe-penalizacao-de-tres-lugares/",
+      "pubDate": "Sat, 25 Jul 2026 17:40:16 +0000",
+      "description": "Lewis Hamilton recebeu uma penalização de três lugares na grelha após um incidente durante a qualificação do Grande Prémio da Hungria de Fórmula 1, em que terá impedido Oscar Piastri. O britânico vai agora arrancar de quinto, depois de ter conquistado o segundo lugar na qualificação, atrás de Lando ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Hungria F1: George Russell troca motor de combustão interna",
+      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-george-russell-troca-motor-de-combustao-interna/",
+      "pubDate": "Sat, 25 Jul 2026 17:33:37 +0000",
+      "description": "George Russell ficou parado em pista no fim da qualificação do Grande Prémio da Hungria após uma fuga de água no carro da Mercedes. A equipa decidiu agora trocar o motor de combustão interna, mas o britânico não será penalizado. No final da Q3, Russell parou na curva 1 depois de completar a sua últi",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-max-verstappen-nao-temos-degradacao-de-pneus-temos-degradacao-do-carro/",
       "pubDate": "Sat, 25 Jul 2026 17:24:24 +0000",
       "description": "Max Verstappen disse que a Red Bull está a sofrer de “degradação do carro” depois de ter perdido o controlo na última curva da qualificação, em Budapeste. O tetracampeão do mundo terminou a sessão em sexto lugar na grelha, após uma exibição marcada por problemas que se acentuaram ao longo da volta. ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Hungria F1: Kimi Antonelli pode ser penalizado",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-kimi-antonelli-pode-ser-penalizado/",
-      "pubDate": "Sat, 25 Jul 2026 16:19:54 +0000",
-      "description": "Kimi Antonelli, da Mercedes, vai ser investigado pelos comissários da FIA por alegada infração por desrespeito a bandeiras amarelas na qualificação do Grande Prémio da Hungria de Fórmula 1, no Hungaroring. O italiano ficou em quarto na grelha, mas o resultado pode ser alterado após a análise do inci",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP da Hungria F1: Oscar Piastri irritado com Lewis Hamilton",
-      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-oscar-piastri-irritado-com-lewis-hamilton/",
-      "pubDate": "Sat, 25 Jul 2026 16:10:21 +0000",
-      "description": "Oscar Piastri acusou Lewis Hamilton de não olhar para os espelhos e de o ter bloqueado durante a qualificação do Grande Prémio da Hungria de Fórmula 1, em Budapeste. O heptacampeão está sob investigação por alegadamente ter bloqueado o piloto da McLaren na curva 1, pouco depois de terminar a sua últ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Félix da Costa: “Perdi uma oportunidade incrível”",
-      "link": "https://www.autosport.pt/velocidade/formula-e-felix-da-costa-perdi-uma-oportunidade-incrivel/",
-      "pubDate": "Sat, 25 Jul 2026 15:31:52 +0000",
-      "description": "António Féliz da Costa, depois do ePrix de Tóquio, apresentou-se-nos frustrado com o resultado de corrida em que ambicionava mais. O incidente com Wehrlein, contou o piloto português, custou-lhe, provavelmente, uma posição no pódio e, mais importante, pontos para um campeonato que ainda ambiciona ga",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Hungria F1: Charles Leclerc assegura o 3º lugar da grelha em Hungaroring: “maximizei o resultado”",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-charles-leclerc-assegura-o-3o-lugar-da-grelha-em-hungaroring-maximizei-o-resultado/",
-      "pubDate": "Sat, 25 Jul 2026 15:29:13 +0000",
-      "description": "Charles Leclerc garantiu a terceira posição na qualificação para o Grande Prémio da Hungria, terminando a 0,238 segundos do autor da pole position. O piloto da Ferrari não conseguiu melhorar o seu tempo na segunda tentativa do Q3, mas a marca inicial revelou-se suficiente para fechar a segunda linha",
       "thumbnail": ""
     }
   ]
