@@ -1,14 +1,44 @@
 {
-  "updated": "2026-07-25T22:51:30.139017+00:00",
+  "updated": "2026-07-25T23:57:03.037395+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 23h",
+      "title": "00h. Berlim. Um morto em atropelamento durante marcha LGBT",
+      "link": "https://observador.pt/programas/noticiario/00h-berlim-um-morto-em-atropelamento-durante-marcha-lgbt/",
+      "pubDate": "Sun, 26 Jul 2026 00:20:42 +0100",
+      "description": "Testemunha relata à imprensa alemã ter visto uma carrinha branca a circular a grande velocidade contra uma multidão no parque de Tiergarten. Ainda, Sporting CP conquista troféu Cinco Violinos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Que mercado europeu vendeu mais EV? E quem mais os atacou?",
+      "link": "https://observador.pt/2026/07/26/que-mercado-europeu-vendeu-mais-electricos-e-quem-mais-os-atacou/",
+      "pubDate": "Sun, 26 Jul 2026 00:06:37 +0100",
+      "description": "Durante 2,5 anos, a Alemanha suspendeu incentivos à compra de eléctricos, ao que tudo indica por pressão dos construtores locais. Agora que as ajudas regressaram, as vendas lideraram na Europa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:802:454:nowe:198:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/25233924/tesla-model-y-standard-2026-black-1220x686-1-1.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Índia. Ministro da Educação demite-se após dias de protestos",
+      "link": "https://observador.pt/2026/07/25/india-ministro-da-educacao-demite-se-apos-semanas-de-protestos/",
+      "pubDate": "Sat, 25 Jul 2026 23:54:07 +0100",
+      "description": "Um problema nos exames nacionais para acesso ao curso de medicina levou os jovens à rua. O ministro da Educação da Índia acabou a demitir-se.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/21130048/47494523.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "23h. Incêndio de Pombal entra em fase de resolução",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2137/",
       "pubDate": "Sat, 25 Jul 2026 23:16:30 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Chegaram a estar no terreno mais de 140 operacionais para combater as chamas do incêndio que não chegou a colocar habitações em risco. Ainda, Luís Neves promete esclarecimentos em \"tempo próprio\".",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/03144515/43504709.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Sporting está a reforçar boas indicações de pré-época\"",
-      "link": "https://observador.pt/programas/relat-rio-de-jogo/sporting-esta-a-reforcar-boas-indicacoes-de-pre-epoca/",
-      "pubDate": "Sat, 25 Jul 2026 22:42:17 +0100",
-      "description": "Filipe Coelho diz que Sporting voltou a dominar um adversário na pré-época. Assume que a vitória por 2-0 sobre Mónaco é escassa para os \"leões\" e sublinha o meio-campo reforçado com um novo líder.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Pressão portista deu pouca margem ao Aston Villa\"",
-      "link": "https://observador.pt/programas/relat-rio-de-jogo/pressao-portista-deu-pouca-margem-ao-aston-villa/",
-      "pubDate": "Sat, 25 Jul 2026 22:28:43 +0100",
-      "description": "Filipe Coelho diz que o FC Porto foi capaz de encostar adversário à baliza com uma pressão alta. Ainda assim, fala num jogo que foi claramente de pré-época.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os negócios de milhões dos donos da beleza em Portugal",
-      "link": "https://observador.pt/especiais/centenas-de-lojas-consumo-em-alta-e-o-perfume-dos-milhoes-os-negocios-dos-donos-da-beleza-em-portugal/",
-      "pubDate": "Sat, 25 Jul 2026 22:22:53 +0100",
-      "description": "A dona da Perfumes & Companhia comprou a operação da Primor em Portugal. Para a Sonae, o segmento da beleza é das principais apostas. Um setor que acordou com a pandemia e explodiu graças às redes.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23173808/gettyimages-1234302635-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00 - IRS jovem vai continuar no próximo ano",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00-irs-jovem-vai-continuar-no-proximo-ano_a1_1755910",
+      "pubDate": "Sun, 26 Jul 2026 01:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/208939c09a214d9fcb6c1485a2b48855?w=350&amp;q=50&amp;rect=0,210,5500,3015&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Regressado Nelson Évora domina triplo",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/regressado-nelson-evora-domina-triplo_d1755900",
-      "pubDate": "Sat, 25 Jul 2026 23:17:53 +0100",
-      "description": "Pouco mais de um mês depois de ter regressado à competição, findando três épocas de ausência, Nelson Évora (Juventude Ilha Verde), de 42 anos, dominou o triplo salto, ao rubricar 16,03 metros no terceiro ensaio, e deixou Tiago Luís Pereira, heptacampeão em título, no segundo lugar, com 15,93.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/79922a12ec7192fa598bbd88de91c78c?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hwang: «Estou um pouco desapontado porque podia ter feito melhor num lance»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/hwang-in-beom/estou-feliz-mas-um-pouco-desapontado-porque-podia-ter-feito-melhor-num-lance",
+      "pubDate": "Sun, 26 Jul 2026 00:15:00 +0100",
+      "description": "Sul-coreano Hwang In-beom estreou-se no Estádio Dragão com a camisola do FC Porto",
+      "thumbnail": "https://img.iol.pt/image/id/6a65422bd34e511da0b2fcb2/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Wolves: Rodrigo Gomes marca, mas não evita primeira derrota de Peixoto",
+      "link": "https://maisfutebol.iol.pt/made-in/inglaterrra/wolves-rodrigo-gomes-marca-mas-nao-evita-primeira-derrota-de-peixoto",
+      "pubDate": "Sun, 26 Jul 2026 00:02:11 +0100",
+      "description": "Equipa inglesa esteve a vencer, mas permitiu reviravolta da Real Sociedad (1-2)",
+      "thumbnail": "https://img.iol.pt/image/id/6a653d4fd34e511da0b2fcb1/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Otamendi estreia-se pelo River Plate... e como capitão",
+      "link": "https://maisfutebol.iol.pt/argentina/nicolas-otamendi/video-otamendi-estreia-se-pelo-river-plate-e-como-capitao",
+      "pubDate": "Sun, 26 Jul 2026 00:02:01 +0100",
+      "description": "Ex-Benfica fez este sábado o primeiro jogo pela equipa argentina",
+      "thumbnail": "https://img.iol.pt/image/id/6a653e9cd34ef04b4f3f8faf/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jesse Derry: «Não podia ter tido uma estreia melhor»",
+      "link": "https://maisfutebol.iol.pt/sporting/monaco/jesse-derry-nao-podia-ter-tido-uma-estreia-melhor",
+      "pubDate": "Sat, 25 Jul 2026 23:54:05 +0100",
+      "description": "Internacional jovem inglês, cedido pelo Chelsea, marcou no triunfo do Sporting frente ao Mónaco",
+      "thumbnail": "https://img.iol.pt/image/id/6a651ac2d34e511da0b2fc56/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -108,48 +148,8 @@
       "title": "Roménia: Nuno Campos goleia Filipe Coelho em duelo de treinadores lusos",
       "link": "https://maisfutebol.iol.pt/made-in/nuno-campos/romenia-nuno-campos-goleia-filipe-coelho-em-duelo-de-treinadores-lusos",
       "pubDate": "Sat, 25 Jul 2026 23:45:00 +0100",
-      "description": "Na segunda jornada da Liga romena, o Dinamo Bucuresti venceu o Universitatea Craiova por 5-1",
+      "description": "Na segunda jornada da Liga romena, o Dinamo Bucureste venceu o Universitatea Craiova por 5-1",
       "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atletismo: regressado Nélson Evora domina campeonato de triplo salto",
-      "link": "https://maisfutebol.iol.pt/atletismo/nelson-evora/atletismo-regressado-nelson-evora-domina-triplo-salto",
-      "pubDate": "Sat, 25 Jul 2026 23:32:00 +0100",
-      "description": "Aumentou para 16 as conquistas em Campeonatos de Portugal",
-      "thumbnail": "https://img.iol.pt/image/id/5b7091f90cf282952f0399c1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica B goleia espanhóis do Mérida",
-      "link": "https://maisfutebol.iol.pt/benfica-b/merida/benfica-b-goleia-espanhois-do-merida",
-      "pubDate": "Sat, 25 Jul 2026 23:20:10 +0100",
-      "description": "Francisco Silva foi figura com ha-trick pelos encarnados",
-      "thumbnail": "https://img.iol.pt/image/id/6a65354bd34e511da0b2fca7/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marítimo e AD Machico anulam-se em jogo de preparação",
-      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-e-ad-machico-anulam-se-em-jogo-de-preparacao",
-      "pubDate": "Sat, 25 Jul 2026 23:11:24 +0100",
-      "description": "Equipa recém promovida à Liga não foi além de um empate sem golos com a equipa do Camp. Portugal",
-      "thumbnail": "https://img.iol.pt/image/id/6a60ce83d34e511da0b2f13a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Estoril Open: surpreendente Blockx vence Luciano Darderi e está na final",
-      "link": "https://maisfutebol.iol.pt/modalidades/alexander-blockx/estoril-open-alexander-blockx-vence-luciano-darderi-e-esta-na-final",
-      "pubDate": "Sat, 25 Jul 2026 23:05:00 +0100",
-      "description": "Carrasco de Jaime Faria continua com hipóteses de vencer o torneio",
-      "thumbnail": "https://img.iol.pt/image/id/6a63bb07d34ef04b4f3f8cde/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,26 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Panteão e Coliseu de Roma vão ter horários noturnos em agosto",
+      "link": "https://www.noticiasaominuto.com/cultura/3027490/panteao-e-coliseu-de-roma-vao-ter-horarios-noturnos-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:59:01",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6541a8328ca.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3027233/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 23:50:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64502036c37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY5MX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Ucrânia acusa Rússia de dar imagens de satélite a Irão para atacar EUA",
       "link": "https://www.noticiasaominuto.com/mundo/3027485/ucrania-acusa-russia-de-dar-imagens-de-satelite-a-irao-para-atacar-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-07-25 23:43:45",
@@ -230,26 +250,6 @@
       "pubDate": "2026-07-25 23:30:00",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65393986c93.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Irão denuncia ataque ucraniano no Mar Cáspio que matou um marinheiro",
-      "link": "https://www.noticiasaominuto.com/mundo/3027482/irao-denuncia-ataque-ucraniano-no-mar-caspio-que-matou-um-marinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 23:27:25",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a7373076fef.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Atropelamento em marcha LGBTI+ em Berlim: As primeiras imagens",
-      "link": "https://www.noticiasaominuto.com/mundo/3027483/atropelamento-em-marcha-pride-em-berlim-as-primeiras-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 23:14:04",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6535892dd59.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY1MCwiY3JvcEhlaWdodCI6MTE1NSwiY3JvcFgiOjc1MiwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjAxLCJjcm9wSGVpZ2h0Ijo5MDEsImNyb3BYIjowLCJjcm9wWSI6MjU0fX0="
     },
     {
       "sourceId": "pplware",
