@@ -1,63 +1,93 @@
 {
-  "updated": "2026-07-25T06:13:35.830791+00:00",
+  "updated": "2026-07-25T08:28:59.151452+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "6h. Trump afirma que guerra está a correr extremamente bem",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2444/",
-      "pubDate": "Sat, 25 Jul 2026 06:14:21 +0100",
-      "description": "Depois do discurso mais leve no jantar dos Correspondentes da Casa Branca, Trump abordou a guerra no Irão e possível acordo. Ainda, Pedro Sánchez visita hoje a zona afetada pelos incêndios de Madrid.",
+      "title": "Incêndios seguem ativos e afetam mais de 60 mil",
+      "link": "https://observador.pt/2026/07/25/espanha-incendios-seguem-ativos-e-obrigam-a-retirar-e-isolar-mais-de-60-mil-pessoas/",
+      "pubDate": "Sat, 25 Jul 2026 09:16:01 +0100",
+      "description": "O enorme incêndio em Ávila e os outros três que confluem em Madrid consumiram já 15.000 hectares, afetando 15 municípios. Condições do vento ameaçam trabalhos este sábado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24123927/gettyimages-2287348508-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2420/",
+      "pubDate": "Sat, 25 Jul 2026 09:14:37 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Cibertaque levado a cabo pela IA deve assustar-nos?",
-      "link": "https://observador.pt/programas/m-quinas-que-pensam/cibertaque-levado-a-cabo-pela-ia-deve-assustar-nos/",
-      "pubDate": "Sat, 25 Jul 2026 06:06:17 +0100",
-      "description": "Agente autónomo de IA da OpenAI quebrou “confinamento” e invadiu um sistema alheio. Desobediência tornou-se no 1.º ciberataque feito por IA. A empresa mãe assegura que este não vai ser \"caso único\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
+      "title": "Uma centena de operacionais combatem fogo em Monchique",
+      "link": "https://observador.pt/2026/07/25/perto-de-uma-centena-de-operacionais-combatem-fogo-em-monchique/",
+      "pubDate": "Sat, 25 Jul 2026 08:47:57 +0100",
+      "description": "O alerta para o fogo no local de Vale de Água, freguesia de Marmelete, foi dado às 04h58, estando as chamas a lavrar numa zona de mato e eucaliptos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18160639/45692151.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Canções para uma Odisseia",
-      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-uma-odisseia/",
-      "pubDate": "Sat, 25 Jul 2026 06:03:48 +0100",
-      "description": "A propósito de \"Odisseia\", de Christopher Logan, embarcamos numa viagem sonora sem regresso. Do funk de Prince ao rock dos GNR, Linda Martini e Harold Melvin, eis as canções para a grande travessia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Exames Nacionais. Esquerda defende comissão de inquérito",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2352/",
-      "pubDate": "Sat, 25 Jul 2026 04:15:50 +0100",
-      "description": "Livre, Bloco de Esquerda e Partido Comunista pressionam o Partido Socialista a chamar Fernando Alexandre ao Parlamento. Ainda, incêndios em Espanha e em França já obrigaram 180 mil pessoas a fugir.",
+      "title": "8h. Trump rejeita para já um acordo de paz com o Irão",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2467/",
+      "pubDate": "Sat, 25 Jul 2026 08:12:18 +0100",
+      "description": "O presidente dos Estados Unidos da América diz que a capacidade militar do Irão está em níveis mínimos. Ainda, os fogos em França e Espanha continuam a preocupar as autoridades.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Incêndios na Europa já obrigaram 180 mil pessoas a fugir",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2386/",
-      "pubDate": "Sat, 25 Jul 2026 03:17:05 +0100",
-      "description": "Incêndio descrito como pior da história de Madrid, está \"no auge\", e nesta fase é \"impossível\" de extinguir. Ainda, esquerda pressiona PS para seguir com comissão de inquérito a Fernando Alexandre.",
+      "title": "7h. Pedro Sanchez visita as zonas mais afetadas de Madrid",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2454/",
+      "pubDate": "Sat, 25 Jul 2026 07:14:07 +0100",
+      "description": "Mais de 200 mil pessoas já foram obrigadas a fugir ou a isolar-se por causa dos incêndios que assolam neste momento França e Espanha. Ainda, Rui Costa está na lista negra do Banco de Portugal.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "6h Fogo em Madrid. Chegam hoje a meios aéreos de Itália e Grécia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogo-em-madrid-chegam-hoje-a-meios-aereos-de-italia-e-grecia_a1_1755761",
-      "pubDate": "Sat, 25 Jul 2026 07:24:02 +0100",
+      "title": "\"Operação Buongiorno\". Força Aérea desmantela rede que introduza droga na Europa por mar",
+      "link": "https://www.rtp.pt/noticias/pais/operacao-buongiorno-forca-aerea-desmantela-rede-que-introduza-droga-na-europa-por-mar_n1755773",
+      "pubDate": "Sat, 25 Jul 2026 10:15:01 +0100",
+      "description": "A operação foi realizada em articulação e cooperação com a Marinha Portuguesa e Autoridade Marítima Nacional.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cfe51df6639f5c2dcd52e46eb36dfb81?w=350&amp;q=50&amp;rect=0,294,4966,2723&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "\"A mudança é o que vai salvar a humanidade\"",
+      "link": "https://www.rtp.pt/noticias/economia/a-mudanca-e-o-que-vai-salvar-a-humanidade_n1755771",
+      "pubDate": "Sat, 25 Jul 2026 10:04:29 +0100",
+      "description": "A economista Clara Mattei, numa conversa sobre capitalismo e austeridade.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a8ba98a39a84afdbfd8939b94264178d?w=350&amp;q=50&amp;rect=0,0,3449,1891&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Número de afogamentos aumenta com 75 mortes registadas no primeiro semestre",
+      "link": "https://www.rtp.pt/noticias/pais/numero-de-afogamentos-aumenta-com-75-mortes-registadas-no-primeiro-semestre_n1755769",
+      "pubDate": "Sat, 25 Jul 2026 09:58:53 +0100",
+      "description": "A Federação Portuguesa de Nadadores-Salvadores (FEPONS) apela à criação de uma Estratégia Nacional de Prevenção do Afogamento.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/64/6448a6dd06a657ad93d312eb742eea83?w=350&amp;q=50&amp;rect=83,14,1837,1007&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "8h Em 2025 houve 142 afogamentos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/8h-em-2025-houve-142-afogamentos_a1_1755766",
+      "pubDate": "Sat, 25 Jul 2026 09:39:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,31 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Trump e Netanyahu reúnem-se na próxima semana",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-trump-e-netanyahu-reunem-se-na-proxima-semana_a1_1755760",
-      "pubDate": "Sat, 25 Jul 2026 07:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Decisão de Montenegro sobre férias é resposta a crise e sinal de controlo, dizem especialistas",
+      "link": "https://www.rtp.pt/noticias/politica/decisao-de-montenegro-sobre-ferias-e-resposta-a-crise-e-sinal-de-controlo-dizem-especialistas_n1755765",
+      "pubDate": "Sat, 25 Jul 2026 09:30:28 +0100",
+      "description": "A decisão do primeiro-ministro de não gozar férias no verão é vista por especialistas como uma resposta às críticas e um sinal de controlo de uma eventual crise, embora a presença permanente não altere a ação do Governo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ba/bab4e38dad1a2710548b19c1c89f78c7?w=350&amp;q=50&amp;rect=2,0,7402,4058&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h BCE convida público a votar nas novas notas do euro",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-bce-convida-publico-a-votar-nas-novas-notas-do-euro_a1_1755759",
-      "pubDate": "Sat, 25 Jul 2026 07:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Queremos o António Silva e ele quer juntar-se a nós»",
+      "link": "https://maisfutebol.iol.pt/benfica/mercado/queremos-o-antonio-silva-e-ele-quer-juntar-se-a-nos",
+      "pubDate": "Sat, 25 Jul 2026 09:20:00 +0100",
+      "description": "Treinador do Bournemouth, Marco Rose, diz que não é «segredo» e que os clubes «estão a conversar»",
+      "thumbnail": "https://img.iol.pt/image/id/685e7fcdd34ef72ee447abf5/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Estoril Open. Hoje é dia de meias-finais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-estoril-open-hoje-e-dia-de-meias-finais_a1_1755757",
-      "pubDate": "Sat, 25 Jul 2026 06:56:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Fogo em Espanha. Espera-se madrugada mais calma",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-fogo-em-espanha-espera-se-madrugada-mais-calma_a1_1755756",
-      "pubDate": "Sat, 25 Jul 2026 06:55:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/agenda/hoje-vai-ser-noticia-178496640",
+      "pubDate": "Sat, 25 Jul 2026 09:00:00 +0100",
+      "description": "FC Porto e Sporting apresentam-se aos adeptos este sábado",
+      "thumbnail": "https://img.iol.pt/image/id/69e940e4d34e28842c8338ef/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,124 +152,124 @@
       "thumbnail": "https://img.iol.pt/image/id/6a0f7d95d34e28842c8454e4/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "André Silva e o regresso à Seleção: «Continua a ser um sonho...»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/andre-silva/andre-silva-e-o-regresso-a-selecao-continua-a-ser-um-sonho",
-      "pubDate": "Fri, 24 Jul 2026 23:23:00 +0100",
-      "description": "Internacional português destaca nunca ter trabalhado com Jorge Jesus na carreira e garante que, se for necessário, vai ao aeroporto para impedir a saída de Diogo Costa neste mercado",
-      "thumbnail": "https://img.iol.pt/image/id/6a2bf759d34edcee7c653263/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Barcelona: trabalhador morre nas obras de remodelação do Camp Nou",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/barcelona-trabalhador-morre-nas-obras-de-remodelacao-do-camp-nou",
-      "pubDate": "Fri, 24 Jul 2026 23:20:00 +0100",
-      "description": "Estádio do Barcelona é alvo de intervenções desde junho de 2023",
-      "thumbnail": "https://img.iol.pt/image/id/6a29c567d34edcee7c65236a/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Portugal tropeçou na correção digital dos exames. O que fizeram os outros países?",
+      "link": "https://eco.sapo.pt/2026/07/25/portugal-tropecou-na-correcao-digital-dos-exames-o-que-fizeram-os-outros-paises/",
+      "pubDate": "Sat, 25 Jul 2026 08:07:41 +0000",
+      "description": "Portugal estreou este ano a correção digital dos exames nacionais, com vários problemas técnicos. Lá fora, os países seguiram caminhos diferentes: da transição total da Finlândia ao recuo da Suécia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A%2F94NBxutoAdhYXyNOYF21ysUgAMuYrCS6G9avrXywTpparkVV0clvzYdnYS8IWlzGmdcdpYkvGUXmjXNPWk5x3SBxP8VJxXtp2FHte8SwsGIoHoZ56trf3tHK9Psyf%2BA"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndio em Madrid \"impossível de extinguir\"",
-      "link": "https://sapo.pt/artigo/incendio-em-madrid-impossivel-de-extinguir-6a63cedd39564b23da83f241",
-      "pubDate": "Fri, 24 Jul 2026 21:04:10 +0000",
-      "description": "O incêndio está a alastrar mais \"para norte do que o previsto\", aumentando as esperanças de que não se una ao incêndio que assola Ávila, região vizinha de Madrid.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ApIMmKVG56WUZuoYnZkNY%2FakNkOaBaWv0VXvh%2BSssR44vb2TCkdnGQ4oAzrbQn6UB28o4h%2Fmd9G5lND70m4WTwV3l1%2FICxBwZrhmtIqmtaXcdx6KArbn2fZvZTy0rFHja"
+      "title": "Incêndios em Espanha e França levam à retirada de mais de 160.000 pessoas das suas casas",
+      "link": "https://executivedigest.sapo.pt/incendios-em-espanha-e-franca-levam-a-retirada-de-mais-de-160-000-pessoas-das-suas-casas/",
+      "pubDate": "Sat, 25 Jul 2026 07:36:02 +0000",
+      "description": "Mais de 160.000 pessoas foram retiradas de suas casas desde quarta-feira em França e Espanha, onde incêndio perto de Madrid atingiu o \"ponto mais intenso» e se revelou \"impossível de extinguir\" esta sexta-feira.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AVwbU%2Fu8uHkzT7ABJ85nTIPscITXyUvz6inMxFl15UcvZQ9KpN%2B%2BFGYSjOdeo6Q4xgrcpFYUbibW1XwTECfPB56w9LjjM%2BzBpf7RhhZSIIk54TVeXrsS%2FVWr5hTmYypHR"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Trump ameaça UE com “tarifa substancial” se não recuar na multa à Google e outras tecnológicas",
-      "link": "https://eco.sapo.pt/2026/07/24/trump-ameaca-ue-com-tarifa-substancial-se-nao-recuar-na-multa-a-google-e-outras-tecnologicas/",
-      "pubDate": "Fri, 24 Jul 2026 17:53:04 +0000",
-      "description": "A Comissão Europeia aplicou na quinta-feira uma multa de 890 milhões de euros à Google por autofavorecimento e limites à concorrência.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A8N84xVfgCtpqcPjeF2Z4yGB7kfQvJsqyawdf3UZgv9EKBH0FwY53FjaBbn8okyFb9kZ8DCspOhpHb3XEUpAlx2UzNYze5Y4OG%2Fm34DpOYNWybDlsxZbqCK3pwqQZnGkG"
+      "title": "Novo aeroporto de Lisboa só está pronto daqui a 11 anos (na melhor das hipóteses)",
+      "link": "https://jornaleconomico.sapo.pt/noticias/novo-aeroporto-de-lisboa-so-esta-pronto-daqui-a-11-anos-na-melhor-das-hipoteses/",
+      "pubDate": "Sat, 25 Jul 2026 08:07:41 +0000",
+      "description": "Tem um custo estimado entre os 7,9 mil milhões e os 8,9 mil milhões de euros, mas tensões geopolíticas podem provocar subida dos custos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3ApMXNzRTEb0vBOLm2%2BnrDfHggaMNafUODxZGfcQLzQ1gLhNuDDFT9%2BHCWw65hVtZIHmdYTqZR9w3MbBo%2BbP%2BA4W%2FwP46YpsmvvGPOv%2BQZgeU%2F9qfTPR%2BaVVUF9nDgz4n5"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Democratas dos EUA escolhem Carolina do Sul para abrir primárias presidenciais",
-      "link": "https://jornaleconomico.sapo.pt/noticias/democratas-dos-eua-escolhem-carolina-do-sul-para-abrir-primarias-presidenciais/",
-      "pubDate": "Fri, 24 Jul 2026 19:22:43 +0000",
-      "description": "A decisão foi aprovada pela Comissão de Regras e Estatutos do Comité Nacional Democrata (DNC), mas ainda terá de ser ratificada pela organização na reunião prevista para agosto.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A8hurx0W1oxSysw29dwqvX6b5UMn4Vd3%2BQqc6NrOcisRP2G%2BEZRWU1oGcb36OiV6QFWXZdf5N88z6qlxqYktWiUBdiUAsk7EonyqgXNDSWgALDd6o9Zr%2FRXg%2BfMUwlNN2"
+      "title": "Perto de uma centena de operacionais combatem fogo em Monchique",
+      "link": "https://sapo.pt/artigo/perto-de-uma-centena-de-operacionais-combatem-fogo-em-monchique-6a64634e39564b23da9244ec",
+      "pubDate": "Sat, 25 Jul 2026 07:36:02 +0000",
+      "description": "Incêndio deflagrou na madrugada e o combate está ser dificultado pelo vento",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A2u5r5fqbqu5ZiLSctBrigdKcAoBf2ukmiWy6BbqWtzv14wHkB3uBUXAd%2BNxfU9OKiK0oacMIho3TAteoGDNvaW9H7ojARojZCtbLPHR%2BXtOcmkzvN9zPbNiXqnx3uDNA"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Procurador-geral do TPI destituído em votação dos Estados-membros",
-      "link": "https://eco.sapo.pt/2026/07/24/procurador-geral-do-tpi-destituido-em-votacao-dos-estados-membros/",
-      "pubDate": "Fri, 24 Jul 2026 19:47:54 +0000",
-      "description": "Karim Khan estava no cargo desde 2021 e foi notícia em 2024 ao obter mandados de detenção contra o primeiro-ministro israelita, Benjamin Netanyahu, e o ex-ministro da Defesa israelita Yoav Gallant.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AUNSzPQTJE%2BU%2B%2FUWPspbrtS5IVVa7ERfbalF8LNzY0F%2BliuChpJEWGN%2BoAr0maqecmFl37994f6bMCIZKFkMawwmaiYYjIdZsT2pW%2FriUl9YFEGY%2F3a376RK8DuibO1GK"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Rui Costa integra a lista negra do Banco de Portugal",
-      "link": "https://sapo.pt/artigo/rui-costa-integra-a-lista-negra-do-banco-de-portugal-6a63efaf9c9f29b5ce6a8134",
-      "pubDate": "Fri, 24 Jul 2026 23:10:29 +0000",
-      "description": "Incumprimento no pagamento de crédito vencido na origem da decisão, avança o Observador",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=561&W=999&crop=center&delay_optim=1&epic=V2%3AdnhMF1BHsDI2rf94D9W4w%2FzX4Ge15r8Tc5q4c646c9jSocVScYaOd5qEMeBzA9AJOXlFBuBdJR91XwPFtfpsAyQ8AIgPIu3uc%2Bj%2B1fjG49VnwRWQBCkJwyCedqdnBIeU"
+      "title": "Tufão Noul coloca Hong Kong, Macau e sul da China em alerta máximo",
+      "link": "https://executivedigest.sapo.pt/tufao-noul-coloca-hong-kong-macau-e-sul-da-china-em-alerta-maximo/",
+      "pubDate": "Sat, 25 Jul 2026 07:36:02 +0000",
+      "description": "O tufão Noul deverá trazer ventos fortes e chuvas intensas ao sul da China, incluindo Hong Kong e Macau, durante o fim de semana, colocando a região em alerta máximo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A8T4fU0C9K%2B1Gibnxb5t39%2Frr%2F2nh0%2BCoZNVTNsF29R6U3x6mCeHDkFYatKpVgCQkkGTSkqaqs4NICMKzH8yJFEXrKQBa%2BPzU5ITfAmSLBxvieDf7f9WQzJZ%2F37HwvCoY"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU prolonga mandato de Türk nos direitos humanos (contra EUA e Rússia)",
-      "link": "https://www.noticiasaominuto.com/mundo/3027201/onu-prolonga-mandato-de-turk-nos-direitos-humanos-contra-eua-e-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 07:09:14",
+      "title": "Condomínios reclamam mudanças na lei seis meses após tempestades",
+      "link": "https://www.noticiasaominuto.com/economia/3027257/condominios-reclamam-mudancas-na-lei-seis-meses-apos-tempestades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 09:15:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a04b441dbf85.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46443085.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Por cá: Benfica toma \"pastilha\" e Diogo Costa decide no FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3027234/por-ca-benfica-toma-pastilha-e-diogo-costa-decide-no-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 07:07:07",
+      "title": "Quatro cidades francesas evacuadas devido aos fogos. Em Madrid melhorou",
+      "link": "https://www.noticiasaominuto.com/mundo/3027254/quatro-cidades-francesas-evacuadas-devido-aos-fogos-em-madrid-melhorou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 09:10:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a645129dd8bb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a646e096cf7a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjIxOSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Restaurado fresco em Pompeia que retrata casamento de Dioniso e Ariadne",
-      "link": "https://www.noticiasaominuto.com/mundo/3027205/restaurado-fresco-em-pompeia-que-retrata-casamento-de-dioniso-e-ariadne#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 07:00:05",
+      "title": "\"Cresci com os Trovante. Voz do Luís ecoava nas escolas, ruas, no país\"",
+      "link": "https://www.noticiasaominuto.com/fama/3027241/cresci-com-os-trovante-voz-do-luis-ecoava-nas-escolas-ruas-no-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 09:05:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64505c1e4ba.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a645f46e498b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk2LCJjcm9wSGVpZ2h0IjoxNDA0LCJjcm9wWCI6MjEsImNyb3BZIjoyODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExNTIsImNyb3BIZWlnaHQiOjIwNDgsImNyb3BYIjo2MSwiY3JvcFkiOjEzMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3027233/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 06:57:43",
+      "title": "De cabeça. Lesão arrepiante deixa Jogos da Commonwealth em suspenso",
+      "link": "https://www.noticiasaominuto.com/desporto/3027250/de-cabeca-lesao-arrepiante-deixa-jogos-da-commonwealth-em-suspenso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 08:58:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64502036c37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY5MX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64664ecf486.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "LeBron James abala NBA e é arrasado por Trump: \"Talvez seja racista\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3027231/lebron-james-abala-nba-e-e-arrasado-por-trump-talvez-seja-racista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-25 06:55:10",
+      "title": "PJ desmantela rede criminosa que introduzia cocaína por mar na Europa",
+      "link": "https://www.noticiasaominuto.com/pais/3027252/pj-desmantela-rede-criminosa-que-introduzia-por-mar-cocaina-na-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 08:57:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a644f942e464.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTE4LCJjcm9wSGVpZ2h0IjoxNjMxLCJjcm9wWCI6MTEyNCwiY3JvcFkiOjEwNH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a646ed57aa27.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Fim de uma era: Google deixa de suportar o velhinho Android 6.0 Marshmallow",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/fim-de-uma-era-google-deixa-de-suportar-o-velhinho-android-6-0-marshmallow/",
+      "pubDate": "Sat, 25 Jul 2026 08:00:36 +0000",
+      "description": "A Google encerrou oficialmente o suporte dos serviços Google Play para os dispositivos equipados com o Android 6.0 Marshmallow. A alteração, feita de forma discreta pela gigante das pesquisas, passa a exigir no mínimo&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/pplware_android_6_0_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Golpe contra a Tesla! França proíbe o FSD e a condução autónoma",
+      "link": "https://pplware.sapo.pt/motores/golpe-contra-a-tesla-franca-proibe-a-conducao-autonoma/",
+      "pubDate": "Sat, 25 Jul 2026 07:00:11 +0000",
+      "description": "Enquanto a tecnologia de condução autónoma da Tesla está a ser implementada progressivamente na Europa, um país colocou esse movimento em pausa. França escolheu o seu lado e vai ficar sem o FSD (Free-Speed&#46;&#46;&#46;",
+      "thumbnail": "https://pub-6c821c1c547c4e3eaa97abd4b0ab8180.r2.dev/Nouvelle_Video_Tabarot_Highest_686874fa8d.mp4"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,44 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/24th.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Facebook parece estar a desistir e a tornar-se uma cópia do TikTok",
-      "link": "https://pplware.sapo.pt/redes_sociais/facebook-parece-estar-a-desistir-e-a-tornar-se-uma-copia-do-tiktok/",
-      "pubDate": "Fri, 24 Jul 2026 20:00:48 +0000",
-      "description": "O Facebook está a preparar uma das maiores alterações dos últimos anos, numa tentativa de responder ao crescimento do TikTok e de outras plataformas centradas em vídeo. A Meta acredita que esta estratégia poderá&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2021/12/facebook_apple_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Hungria F1: Ferrari lidera na Hungria e domina nos pneus macios e médios",
+      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-ferrari-lidera-na-hungria-e-domina-nos-pneus-macios-e-medios/",
+      "pubDate": "Sat, 25 Jul 2026 06:45:04 +0000",
+      "description": "A Ferrari dominou as duas primeiras sessões de treinos livres do Grande Prémio da Hungria, no Hungaroring. Charles Leclerc fixou o melhor tempo no TL1 com 1:19.075, enquanto Lewis Hamilton garantiu a volta mais rápida da sexta-feira no TL2, registando 1:18.729 no composto macio (C5). A equipa foi ta",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Vai de férias? Bombeiros aconselham a desligar um equipamento da tomada",
-      "link": "https://pplware.sapo.pt/informacao/vai-de-ferias-bombeiros-aconselham-a-desligar-um-equipamento-da-tomada/",
-      "pubDate": "Fri, 24 Jul 2026 18:56:03 +0000",
-      "description": "Com a chegada das férias de verão, muitas famílias preparam-se para deixar a casa vazia durante vários dias. Todo o cuidado é pouco e há um eletrodoméstico que tem em casa que deve desligar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/sapadores-lisboa-bombeiros-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E em Tóquio: Mortara domina treino livre 2, Félix da Costa 9.º",
+      "link": "https://www.autosport.pt/velocidade/formula-e-em-toquio-mortara-domina-treino-livre-2-felix-da-costa-9-o/",
+      "pubDate": "Sat, 25 Jul 2026 06:11:00 +0000",
+      "description": "Edoardo Mortara, no M12 Electro da Mahindra, protagonizou a volta mais rápida da segunda sessão de treinos livres para o ePrix de Tóquio, com 1.12,481 m nos 2,575 km do circuito montado no Tokyo Big Sight, no distrito de Ariake, na baía da capital do Japão. O piloto suíço de 39 anos, na Época 12 [&#",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fan zone de Vale de Cambra enche no arranque do Rally Series Stars",
+      "link": "https://www.autosport.pt/ralis/fan-zone-de-vale-de-cambra-enche-no-arranque-do-rally-series-stars/",
+      "pubDate": "Fri, 24 Jul 2026 22:35:00 +0000",
+      "description": "A Praça Álvaro Pinho C. Leite acolheu uma multidão no primeiro dia do APCAR Rally Series Stars, em Vale de Cambra. O arranque do evento contou com uma exposição de viaturas de competição, animação musical e a realização da edição inaugural do Rally Series Summit. Inovação e parceria estratégica em d",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula 3: Tuukka Taponen garante a primeira pole position na Hungria",
+      "link": "https://www.autosport.pt/velocidade/formula-3-tuukka-taponen-garante-a-primeira-pole-position-na-hungria/",
+      "pubDate": "Fri, 24 Jul 2026 19:56:00 +0000",
+      "description": "O piloto finlandês Tuukka Taponen, da MP Motorsport, alcançou a sua primeira pole position na Fórmula 3 ao fixar o melhor tempo da sessão de qualificação no Hungaroring com a marca de 1:33.411. Numa sessão disputada ao milésimo de segundo, o jovem piloto ultrapassou o britânico Freddie Slater por es",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-2-kush-maini-garante-pole-position-para-a-art-grand-prix-no-hungaroring/",
       "pubDate": "Fri, 24 Jul 2026 16:28:10 +0000",
       "description": "Kush Maini alcançou a sua segunda pole position na temporada de 2026 da Fórmula 2 da FIA, ao fixar o tempo de 1:28.896 na sessão de qualificação em Budapeste. O piloto da ART Grand Prix superou o candidato ao título Rafael Câmara, da Invicta Racing, por mais de um décimo de segundo. Noel León, da [&",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Hungria F1: Lewis Hamilton domina TL2 em Budapeste e confirma Ferrari como referência",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-lewis-hamilton-domina-tl2-em-budapeste-e-confirma-ferrari-como-referencia/",
-      "pubDate": "Fri, 24 Jul 2026 16:17:10 +0000",
-      "description": "A Ferrari confirmou o estatuto de equipa a bater no Hungaroring ao liderar as duas primeiras sessões de treinos livres, com Charles Leclerc no topo da TL1 e Lewis Hamilton a responder no TL2, enquanto Red Bull se manteve logo atrás com Verstappen e Hadjar sempre no top 6, McLaren mostrou serviço sob",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Hungria F1: Carlos Sainz avalia futuro na Williams durante a pausa de verão",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-carlos-sainz-avalia-futuro-na-williams-durante-a-pausa-de-verao/",
-      "pubDate": "Fri, 24 Jul 2026 14:30:00 +0000",
-      "description": "Carlos Sainz vai aproveitar a pausa de verão do campeonato para refletir sobre o seu futuro na Williams e tomar uma decisão sobre a continuidade na equipa britânica. O piloto espanhol assinou um contrato plurianual com a estrutura de Grove com início em 2025, mas o fraco rendimento do monolugar na a",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Chineses: quota recorde de 10,9% na Europa",
-      "link": "https://www.autosport.pt/automais/chineses-quota-recorde-de-109-na-europa/",
-      "pubDate": "Fri, 24 Jul 2026 14:23:00 +0000",
-      "description": "As marcas automóveis chinesas, em junho,conseguiram uma quota recorde de 10,9% nos registos de automóveis novos no mercado europeu, com as vendas a dispararem 118%, comparativamente ao mesmo mês do ano passado, para 150.272 unidades – o crescimento na região foi de 13%, para 1,38 milhões. Este resul",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Hungria F1: Aston Martin estreia evolução profunda para inverter crise",
-      "link": "https://www.autosport.pt/formula1/gp-hungria-f1-aston-martin-estreia-evolucao-profunda-para-inverter-crise/",
-      "pubDate": "Fri, 24 Jul 2026 13:47:00 +0000",
-      "description": "A Aston Martin apresenta este fim de semana no Grande Prémio da Hungria uma versão profundamente reformulada do seu monolugar, considerada na prática uma especificação B. Após um início de temporada difícil e fustigado pelo excesso de peso do carro, a equipa britânica optou por adiar as evoluções pa",
       "thumbnail": ""
     }
   ]
