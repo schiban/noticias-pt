@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-25T03:46:57.100893+00:00",
+  "updated": "2026-07-25T06:13:35.830791+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Trump afirma que guerra está a correr extremamente bem",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2444/",
+      "pubDate": "Sat, 25 Jul 2026 06:14:21 +0100",
+      "description": "Depois do discurso mais leve no jantar dos Correspondentes da Casa Branca, Trump abordou a guerra no Irão e possível acordo. Ainda, Pedro Sánchez visita hoje a zona afetada pelos incêndios de Madrid.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Cibertaque levado a cabo pela IA deve assustar-nos?",
+      "link": "https://observador.pt/programas/m-quinas-que-pensam/cibertaque-levado-a-cabo-pela-ia-deve-assustar-nos/",
+      "pubDate": "Sat, 25 Jul 2026 06:06:17 +0100",
+      "description": "Agente autónomo de IA da OpenAI quebrou “confinamento” e invadiu um sistema alheio. Desobediência tornou-se no 1.º ciberataque feito por IA. A empresa mãe assegura que este não vai ser \"caso único\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Canções para uma Odisseia",
+      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-uma-odisseia/",
+      "pubDate": "Sat, 25 Jul 2026 06:03:48 +0100",
+      "description": "A propósito de \"Odisseia\", de Christopher Logan, embarcamos numa viagem sonora sem regresso. Do funk de Prince ao rock dos GNR, Linda Martini e Harold Melvin, eis as canções para a grande travessia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,42 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Incêndio em Madrid nesta fase é impossível de extinguir",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2359/",
-      "pubDate": "Sat, 25 Jul 2026 02:13:51 +0100",
-      "description": "Segundo conselheiro para Ambiente, Agricultura e Interior, incêndio está no \"auge\" e a alastrar mais \"para norte do que o previsto\". Ainda, Rui Costa deve mais de 20 milhões de euros a Banco Montepio.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O dia em que teria preferido não trabalhar no Observador",
-      "link": "https://observador.pt/newsletters/observadores-premium/a-inveja-de-um-assinante-e-o-dia-em-que-teria-preferido-nao-trabalhar-no-observador/",
-      "pubDate": "Sat, 25 Jul 2026 01:45:00 +0100",
-      "description": "Tenho sido muito feliz nestes mais de 9 de anos que levo de Observador. Mas haveria de chegar este momento em que, por uma vez, isso haveria de virar-se contra mim. E sim, a inveja é coisa feia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Portugal condena ataques houthis contra navios sauditas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2333/",
-      "pubDate": "Sat, 25 Jul 2026 01:14:32 +0100",
-      "description": "Ministro dos Negócios Estrangeiros condena ataques e considera inaceitável ameaça de bloqueio marítimo à Arábia Saudita. Ainda, Zelensky afirma que pode haver ataque massivo nas próximas 48 horas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Exames 2ªfase: professores já começaram a receber convocatórias para classificação",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-exames-2afase-professores-ja-comecaram-a-receber-convocatorias-para-classificacao_a1_1755752",
-      "pubDate": "Sat, 25 Jul 2026 03:02:01 +0100",
+      "title": "6h Fogo em Madrid. Chegam hoje a meios aéreos de Itália e Grécia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogo-em-madrid-chegam-hoje-a-meios-aereos-de-italia-e-grecia_a1_1755761",
+      "pubDate": "Sat, 25 Jul 2026 07:24:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,9 +65,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "0h Tenista português Jaime Faria foi eliminado, nos quartos de final do Open do Estoril",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-tenista-portugues-jaime-faria-foi-eliminado-nos-quartos-de-final-do-open-do-estoril_a1_1755750",
-      "pubDate": "Sat, 25 Jul 2026 01:31:02 +0100",
+      "title": "5h Trump e Netanyahu reúnem-se na próxima semana",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-trump-e-netanyahu-reunem-se-na-proxima-semana_a1_1755760",
+      "pubDate": "Sat, 25 Jul 2026 07:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,19 +75,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Projeto de Odete Ferreira vence Carta em Branco da RTP de apoio à criação teatral",
-      "link": "https://www.rtp.pt/noticias/pais/projeto-de-odete-ferreira-vence-carta-em-branco-da-rtp-de-apoio-a-criacao-teatral_n1755749",
-      "pubDate": "Sat, 25 Jul 2026 01:06:45 +0100",
-      "description": "O projeto &quot;A Confissão&quot;, de Odete Ferreira, é o vencedor da Carta em Branco, iniciativa de apoio à criação teatral da RTP, para promoção de novos criadores e novas linguagens do teatro contemporâneo, anunciou hoje a televisão pública.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Terminou hoje a 2ª fase dos exames nacionais do secundár",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-terminou-hoje-a-2a-fase-dos-exames-nacionais-do-secundar_a1_1755748",
-      "pubDate": "Sat, 25 Jul 2026 00:47:02 +0100",
+      "title": "4h BCE convida público a votar nas novas notas do euro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-bce-convida-publico-a-votar-nas-novas-notas-do-euro_a1_1755759",
+      "pubDate": "Sat, 25 Jul 2026 07:15:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,9 +85,19 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "22h Incêndio Bordéus: o governo francês convocou o exército para o terreno",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-incendio-bordeus-o-governo-frances-convocou-o-exercito-para-o-terreno_a1_1755747",
-      "pubDate": "Fri, 24 Jul 2026 23:55:03 +0100",
+      "title": "3h Estoril Open. Hoje é dia de meias-finais",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-estoril-open-hoje-e-dia-de-meias-finais_a1_1755757",
+      "pubDate": "Sat, 25 Jul 2026 06:56:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Fogo em Espanha. Espera-se madrugada mais calma",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-fogo-em-espanha-espera-se-madrugada-mais-calma_a1_1755756",
+      "pubDate": "Sat, 25 Jul 2026 06:55:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rússia prepara mobilização de soldados \"substancial\", diz Zelensky",
-      "link": "https://www.noticiasaominuto.com/mundo/3027186/russia-prepara-mobilizacao-de-soldados-substancial-diz-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 23:48:18",
+      "title": "ONU prolonga mandato de Türk nos direitos humanos (contra EUA e Rússia)",
+      "link": "https://www.noticiasaominuto.com/mundo/3027201/onu-prolonga-mandato-de-turk-nos-direitos-humanos-contra-eua-e-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 07:09:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a332474777a6.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a04b441dbf85.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alunos dizem que há \"falta de respeito\" do Governo pelo seu esforço",
-      "link": "https://www.noticiasaominuto.com/pais/3027187/alunos-dizem-que-ha-falta-de-respeito-do-governo-pelo-seu-esforco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 23:47:17",
+      "title": "Por cá: Benfica toma \"pastilha\" e Diogo Costa decide no FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3027234/por-ca-benfica-toma-pastilha-e-diogo-costa-decide-no-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 07:07:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63eb7cc4652.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a645129dd8bb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alana Martina (en)canta. Filha de Gio e CR7 mostra talento para a música",
-      "link": "https://www.noticiasaominuto.com/fama/3027182/alana-martina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 23:46:47",
+      "title": "Restaurado fresco em Pompeia que retrata casamento de Dioniso e Ariadne",
+      "link": "https://www.noticiasaominuto.com/mundo/3027205/restaurado-fresco-em-pompeia-que-retrata-casamento-de-dioniso-e-ariadne#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 07:00:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_662f35f0aedb7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MTEsImNyb3BIZWlnaHQiOjI4OCwiY3JvcFgiOjMsImNyb3BZIjozNjd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ3NiwiY3JvcEhlaWdodCI6ODQ3LCJjcm9wWCI6OCwiY3JvcFkiOjY0fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64505c1e4ba.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Real Madrid mostra bastidores da primeira vitória do regresso de Mourinho",
-      "link": "https://www.noticiasaominuto.com/desporto/3027183/real-madrid-mostra-bastidores-da-primeira-vitoria-do-regresso-de-mourinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 23:22:45",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3027233/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 06:57:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63e3067585a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzkwLCJjcm9wSGVpZ2h0IjoxMDA3LCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU1OCwiY3JvcEhlaWdodCI6OTkyLCJjcm9wWCI6NDYwLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a64502036c37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY5MX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alemão resgatado de navio turístico ao largo de Portimão",
-      "link": "https://www.noticiasaominuto.com/mundo/3027179/alemao-resgatado-de-navio-turistico-ao-largo-de-portimao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-24 22:54:59",
+      "title": "LeBron James abala NBA e é arrasado por Trump: \"Talvez seja racista\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3027231/lebron-james-abala-nba-e-e-arrasado-por-trump-talvez-seja-racista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-25 06:55:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a63dd8465166.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a644f942e464.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTE4LCJjcm9wSGVpZ2h0IjoxNjMxLCJjcm9wWCI6MTEyNCwiY3JvcFkiOjEwNH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Trump promete retaliar contra a União Europeia devido a multas gigantescas à Apple e Google",
+      "link": "https://pplware.sapo.pt/informacao/trump-promete-retaliar-contra-a-uniao-europeia-devido-a-multas-gigantescas-a-apple-e-google/",
+      "pubDate": "Sat, 25 Jul 2026 06:00:36 +0000",
+      "description": "O presidente norte-americano Donald Trump ameaçou aplicar tarifas pesadas à União Europeia em resposta às sanções financeiras aplicadas a grandes tecnológicas dos Estados Unidos. O governante considera que estas penalizações são injustas e prometeu&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/05/tarifas_trump_fim_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 24 Jul 2026 18:56:03 +0000",
       "description": "Com a chegada das férias de verão, muitas famílias preparam-se para deixar a casa vazia durante vários dias. Todo o cuidado é pouco e há um eletrodoméstico que tem em casa que deve desligar&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/sapadores-lisboa-bombeiros-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Geração Z muda de emprego ao fim de um ano e a razão vai muito além do salário",
-      "link": "https://pplware.sapo.pt/informacao/geracao-z-muda-de-emprego-ao-fim-de-um-ano-e-a-razao-vai-muito-alem-do-salario/",
-      "pubDate": "Fri, 24 Jul 2026 18:30:02 +0000",
-      "description": "A Geração Z está a alterar as regras do mercado de trabalho, com uma permanência cada vez mais curta nas empresas. No entanto, ao contrário do que muitos pensam, a principal motivação para mudar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/jovens_empresa.webp"
     },
     {
       "sourceId": "autosport",
