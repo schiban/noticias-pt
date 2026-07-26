@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-26T18:31:12.368099+00:00",
+  "updated": "2026-07-26T20:06:38.345171+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Banhos desaconselhados na praia de Angeiras Sul, Matosinhos",
+      "link": "https://observador.pt/2026/07/26/banhos-desaconselhados-na-praia-de-angeiras-sul-em-matosinhos/",
+      "pubDate": "Sun, 26 Jul 2026 20:42:52 +0100",
+      "description": "A APA refere que a medida restritiva deve-se à existência de \"contaminação microbiológica\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:763:430:nowe:33:903/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/07/03091019/40713696.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A dance derrotou o break: Van Assche vence Estoril Open",
+      "link": "https://observador.pt/2026/07/26/na-final-do-break-ganhou-quem-soube-juntar-a-parte-da-dance-luca-van-assche-vence-estoril-open/",
+      "pubDate": "Sun, 26 Jul 2026 20:15:04 +0100",
+      "description": "O francês de 22 anos eliminou Carreño Busta e Rublev e venceu o belga Alexander Blockx numa final a três sets para conquistar o Estoril Open, o primeiro título ATP da carreira (6-4, 4-6, 7-5).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26192921/gettyimages-2286804090-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 20h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2012/",
+      "pubDate": "Sun, 26 Jul 2026 20:13:38 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,91 +45,81 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 19h",
+      "title": "19h. Papa pede retoma urgente do diálogo no Médio Oriente",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2132/",
       "pubDate": "Sun, 26 Jul 2026 19:10:54 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "França já era de Pogacar, Paris ajoelhou-se com Van der Poel",
-      "link": "https://observador.pt/2026/07/26/um-ultimo-sprint-de-quem-ja-nem-precisava-de-sprintar-franca-ja-era-de-pogacar-paris-ajoelhou-se-perante-van-der-poel/",
-      "pubDate": "Sun, 26 Jul 2026 19:07:38 +0100",
-      "description": "No dia de coroação de Tadej Pogacar, que confirmou uma histórica quinta conquista do Tour, Mathieu van der Poel acelerou em Montmartre para ganhar nos Campos Elísios e fechar Volta da melhor maneira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:126/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26190247/gettyimages-2287115366.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Berlim. Suspeito de ataque morto pelas autoridades",
-      "link": "https://observador.pt/2026/07/26/suspeito-de-atropelamento-em-marcha-pride-de-berlim-abatido-pelas-autoridades/",
-      "pubDate": "Sun, 26 Jul 2026 18:23:10 +0100",
-      "description": "A imprensa alemã diz o homem de 21 anos foi cercado pelas autoridades numa horta comunitária no bairro de Spandau, nos subúrbios de Berlim. Terá avançado sobre os agentes com uma arma branca.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26034522/47520089.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "18h.INEM recusa desmantelamento do dispositivo de emergência",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2104/",
-      "pubDate": "Sun, 26 Jul 2026 18:12:42 +0100",
-      "description": "O INEM recusa qualquer desmantelamento do dispositivo de emergência médica e inclui a retirada de 100 ambulâncias de serviço. Ainda, Carneiro acusa o Governo de lucrar com a subida dos combustíveis.",
+      "description": "No Vaticano, o Papa apelou ao fim da guerra e à diplomacia. Leão XIV alerta para o risco de vida dos civis e para a grave falta de água e eletricidade na região.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "19h Policia Alemã abateu o suspeito do atentado terrorista na Parada do Orgulho LGBT em Berlim",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-policia-alema-abateu-o-suspeito-do-atentado-terrorista-na-parada-do-orgulho-lgbt-em-berlim_a1_1756014",
-      "pubDate": "Sun, 26 Jul 2026 20:21:02 +0100",
+      "title": "Guterres apela por apoios para transição e reconstrução da Síria",
+      "link": "https://www.rtp.pt/noticias/mundo/guterres-apela-por-apoios-para-transicao-e-reconstrucao-da-siria_v1756028",
+      "pubDate": "Sun, 26 Jul 2026 21:59:48 +0100",
+      "description": "A ONU quer reforçar o apoio à Síria para a transição política e para a reconstrução.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/89/89296af46c3dc16419fc0e7da3ddf322_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Teerão ameaça Ucrânia por ter atingido navio iraniano",
+      "link": "https://www.rtp.pt/noticias/mundo/teerao-ameaca-ucrania-por-ter-atingido-navio-iraniano_v1756027",
+      "pubDate": "Sun, 26 Jul 2026 21:57:47 +0100",
+      "description": "O Irão vai suspender os ataques no Médio Oriente enquanto os Estados Unidos mantiverem a pausa nos bombardeamentos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/46/466162d005564a709da55014a9a64dbd_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Missão difícil da força conjunta portuguesa em Espanha",
+      "link": "https://www.rtp.pt/noticias/mundo/missao-dificil-da-forca-conjunta-portuguesa-em-espanha_v1756018",
+      "pubDate": "Sun, 26 Jul 2026 21:50:58 +0100",
+      "description": "O primeiro dia de missão, da força conjunta portuguesa de combate aos incêndios em Ávila, ficou concluída com sucesso.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Portugueses cortam nas despesas para poder rumar ao Algarve",
+      "link": "https://www.rtp.pt/noticias/pais/portugueses-cortam-nas-despesas-para-poder-rumar-ao-algarve_v1756024",
+      "pubDate": "Sun, 26 Jul 2026 21:42:47 +0100",
+      "description": "Muitos portugueses estão a poupar e a cortar nas despesas para continuarem a ir ao Algarve passar férias.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/91/91a40d17185371c740ca9332987a081c_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "20h - França: coluna de fumo dificulta o combate às chamas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-franca-coluna-de-fumo-dificulta-o-combate-as-chamas_a1_1756023",
+      "pubDate": "Sun, 26 Jul 2026 21:42:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tour. Oliveira vê recorde como reconhecimento e etapa da Vuelta2015 como `a` memória",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/tour-oliveira-ve-recorde-como-reconhecimento-e-etapa-da-vuelta2015-como-a-memoria_d1756012",
-      "pubDate": "Sun, 26 Jul 2026 20:10:48 +0100",
-      "description": "Nelson Oliveira tornou-se hoje no primeiro ciclista a cumprir 24 grandes Voltas sem desistências, com o português a resumir o feito a “um reconhecimento” pelo seu trabalho e a apontar a vitória na Vuelta2015 como a melhor memória.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/28ad3fbd5004551c7018232bc50d489f?w=350&amp;q=50&amp;rect=0,2,1024,561&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Estoril Open: Van Assche vence Blockx e conquista primeiro título ATP",
+      "link": "https://maisfutebol.iol.pt/estoril-open/modalidades/estoril-open-van-assche-vence-blocxk-e-conquista-primeiro-titulo-atp",
+      "pubDate": "Sun, 26 Jul 2026 20:18:00 +0100",
+      "description": "Final disputada até à última gota de suor, com três «sets» ao longo de quase duas horas e meia",
+      "thumbnail": "https://img.iol.pt/image/id/6a66582bd34ef04b4f3f9105/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pogacar junta-se aos pentacampeões e também Oliveira bate mais um recorde",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/pogacar-junta-se-aos-pentacampeoes-e-tambem-oliveira-bate-mais-um-recorde_d1756011",
-      "pubDate": "Sun, 26 Jul 2026 20:05:37 +0100",
-      "description": "O esloveno Tadej Pogacar igualou hoje o recorde de cinco vitórias na Volta a França, ao ganhar a 113.ª edição, na qual o português Nelson Oliveira se tornou no ciclista com mais presenças em grandes Voltas sem desistências.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/54/545f39e9756f036d0b37df618047de13?w=350&amp;q=50&amp;rect=0,173,5496,3013&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "INEM recusa desmantelamento do dispositivo de emergência e retirada de 100 ambulâncias",
-      "link": "https://www.rtp.pt/noticias/pais/inem-recusa-desmantelamento-do-dispositivo-de-emergencia-e-retirada-de-100-ambulancias_n1756000",
-      "pubDate": "Sun, 26 Jul 2026 20:01:27 +0100",
-      "description": "O INEM recusou hoje qualquer desmantelamento do dispositivo de emergência médica, inclusive a retirada de 100 ambulâncias, situação que, segundo denúncia feita pela Comissão de Trabalhadores do INEM, iria afetar 71 municípios portugueses, incluindo Lisboa e Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/80119acdb9b80b856afce76747a829ea?w=350&amp;q=50&amp;rect=0,203,2016,1105&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jackson Martínez e Nuno André Coelho confiantes de que FC Porto será bicampeão",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/jackson-martinez-e-nuno-andre-coelho-confiantes-de-que-fc-porto-sera-bicampeao_d1756010",
-      "pubDate": "Sun, 26 Jul 2026 19:58:17 +0100",
-      "description": "O antigo avançado colombiano Jackson Martínez e o defesa Nuno André Coelho mostraram-se hoje confiantes de que o FC Porto irá revalidar o título de campeão nacional de futebol, deixando alertas para novas dificuldades na próxima época.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Ciclismo: Nelson Oliveira bate marca incrível ao concluir a Volta a França",
+      "link": "https://maisfutebol.iol.pt/modalidades/ciclismo/ciclismo-nelson-oliveira-bate-marca-incrivel-ao-concluir-a-volta-a-franca",
+      "pubDate": "Sun, 26 Jul 2026 19:35:00 +0100",
+      "description": "Atleta de Anadia é o primeiro a completar 24 grandes voltas em bicicleta consecutivas sem abandonos",
+      "thumbnail": "https://img.iol.pt/image/id/6a665373d34ef04b4f3f90f1/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +127,7 @@
       "color": "#4fc48a",
       "title": "Neymar falta ao respeito a jovens do Santos e deixa o balneário em polvorosa",
       "link": "https://maisfutebol.iol.pt/brasil/internacional/neymar-falta-ao-respeito-a-jovens-do-santos-e-deixa-o-balneario-em-polvorosa",
-      "pubDate": "Sun, 26 Jul 2026 19:07:03 +0100",
+      "pubDate": "Sun, 26 Jul 2026 19:07:00 +0100",
       "description": "Segundo revela o Globo, avançado terá tratado jovem companheiro de equipa como «bosta»",
       "thumbnail": "https://img.iol.pt/image/id/67fcc7d5d34e3f0bae9ce28d/250"
     },
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a6639fcd34e511da0b2fdc3/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "China: Henan de Daniel Ramos vence em casa do Shandong",
-      "link": "https://maisfutebol.iol.pt/china/internacional/china-henan-de-daniel-ramos-vence-em-casa-do-shandong-por-2-1",
-      "pubDate": "Sun, 26 Jul 2026 18:24:00 +0100",
-      "description": "Jogo da 20.ª jornada da liga chinesa",
-      "thumbnail": "https://img.iol.pt/image/id/68a4abedd34ef72ee4499917/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Casa Pia bate FC Porto e sagra-se campeão do Liga Portugal Legends",
-      "link": "https://maisfutebol.iol.pt/liga-portugal-legends/casa-pia/video-casa-pia-bate-fc-porto-e-sagra-se-campeao-da-portugal-legends",
-      "pubDate": "Sun, 26 Jul 2026 18:23:00 +0100",
-      "description": "Gansos levaram a melhor no desempate por grandes penalidades",
-      "thumbnail": "https://img.iol.pt/image/id/6a66402dd34e511da0b2fdcd/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,11 +165,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios em Espanha: Força portuguesa a trabalhar 'non-stop', mas condições \"não são animadoras\"",
-      "link": "https://sapo.pt/artigo/incendios-em-espanha-forca-portuguesa-a-trabalhar-non-stop-mas-condicoes-nao-sao-animadoras-6a6641f386e5f86c55849214",
-      "pubDate": "Sun, 26 Jul 2026 17:30:55 +0000",
-      "description": "Uma força conjunta de 134 operacionais portugueses, chefiada pelo comandante David Lobato, está a combater incêndios em Ávila, Espanha. Os meios disponíveis não conseguem extinguir os fogos, apenas geri-los, refere o comandante português.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3APNdgIhqO%2FvUmqfKBfO12iglcr%2BErMI7Wem5QbE%2BiNP%2FXe8rSX9cPwOCEoVSlqJxXuZLTOvu0UwEIupaam2LI63wNwgXIgGvHtBCrcNZiznf9XVupL7gtEsuV629aqJyN"
+      "title": "INEM nega retirada de 100 ambulâncias e garante reforço do dispositivo",
+      "link": "https://sapo.pt/artigo/inem-nega-retirada-de-100-ambulancias-e-garante-reforco-do-dispositivo-6a6658ef503f077bd19c474f",
+      "pubDate": "Sun, 26 Jul 2026 19:23:21 +0000",
+      "description": "O Instituto Nacional de Emergência Médica (INEM) negou a retirada de 100 ambulâncias e o desmantelamento do dispositivo de emergência médica. A reação surgiu depois de, este domingo, a Comissão de Trabalhadores ter denunciado um desmantelamento...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AxYp26g2%2BI1ir1EJDMKlyUxL1jKobuSwIq9u%2BDs3KOH9dp%2BYs9gatye933JLOXMZbbkEA1OP6A%2BURVbKBGcId1DAur8bd5pbPlSZFlOq52vmp98c%2BuIB%2F9nyFqi1Ga2i6"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Mais de 200 operacionais e 12 meios aéreos combatem incêndio em Soure",
+      "link": "https://sapo.pt/artigo/mais-de-200-operacionais-e-12-meios-aereos-combatem-incendio-em-soure-6a664db19c9f29b5ceb94d5b",
+      "pubDate": "Sun, 26 Jul 2026 18:14:19 +0000",
+      "description": "Segundo fonte da Proteção Civil, não há habitações em risco.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AbUlWFk3vI8fiZbri4CpLVYpef1UAQYcKuBAGvlymj%2BLJCjiys4XPxZXcYikoFc9HxxSHe2So6hNHEwlNitJRMJ5k4Tiu5nd%2F%2BuG6CIpeUroSVf5uxYCuD1%2B6l5usW7Mk"
     },
     {
       "sourceId": "sapo",
@@ -185,71 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Carneiro critica Governo por estar a lucrar com combustíveis",
-      "link": "https://sapo.pt/artigo/carneiro-critica-governo-por-estar-a-lucrar-com-combustiveis-6a66326839564b23dac9df99",
-      "pubDate": "Sun, 26 Jul 2026 16:20:33 +0000",
-      "description": "Para o secretário-geral do PS, o Governo tem de tomar medidas temporárias e adequadas às necessidades da economia das famílias e das empresas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AHLTGL3iBbu6rhhyhRWnLfHpL%2B9KIMv5X5x4IrysysxyDiyDze4OrYFawp5ORegsg2LLU85Dk%2F%2BJcZ3OoS%2BfnWGDGUIEyMfBUoOSLcF1bXxZ%2FDVt%2FzXhYLTCLpw9pFUuV"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Autoestrada em Marrocos terá nome de Donald Trump",
-      "link": "https://sapo.pt/artigo/autoestrada-em-marrocos-tera-nome-de-donald-trump-6a66325e86e5f86c5582bd86",
-      "pubDate": "Sun, 26 Jul 2026 16:20:33 +0000",
-      "description": "Projeto vai custar cerca de 879 milhões de euros e terá uma extensão de mais de mil quilómetros entre a cidade marroquina de Tiznit e a península de Dakhla, no território ocupado desde 1975.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AVT1dJY28f7h5UHwMmxb9EVbYK7yqnHVT2scyyRX%2BboF6AHSMdFou8S%2FE0F8eqEq9pzvfBRm%2FdkCs2e7OE9eUr1HNGNotj2Ax8c0GytnRx0NS752Dlq2sXLoy0KCrvZs6"
+      "title": "O sistema Volta está a ganhar adesão: sabe como funciona?",
+      "link": "https://sapo.pt/artigo/o-sistema-volta-esta-a-ganhar-adesao-sabe-como-funciona-6a665c001c5549f5dbbc2480",
+      "pubDate": "Sun, 26 Jul 2026 19:21:34 +0000",
+      "description": "Reciclar garrafas de plástico e latas passou a ter um incentivo financeiro em Portugal. Três meses depois da entrada em vigor do sistema Volta, a adesão dos consumidores continua a aumentar, mas persistem dúvidas sobre algumas das regras,...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AM3%2FH0thxvq8gUh50%2Bjzx7XeGG0FmtQStrJahWryeyDzaGcLEj5TAdn1ZfCx%2FFr4Dt2exuWxBebTiR8SbR%2FaZbc6aC0QuCb9NmkFs3mv5BUtPAGBQEpgkKcjmA5sURaYW"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Moçambique denuncia uso fraudulento da bandeira em navio atacado no Irão",
-      "link": "https://www.noticiasaominuto.com/mundo/3027673/mocambique-denuncia-uso-fraudulento-da-bandeira-em-navio-atacado-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 19:28:00",
+      "title": "Atenção, Benfica. St. Gallen vence na Liga suíça antes da ida à Luz",
+      "link": "https://www.noticiasaominuto.com/desporto/3027684/atencao-benfica-st-gallen-vence-na-liga-suica-antes-da-ida-a-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 21:02:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53cf99e714e81.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6667c98bd64.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Haaland reviu os seus memes no Mundial2026 e reagiu desta forma",
-      "link": "https://www.noticiasaominuto.com/desporto/3027671/haaland-reviu-os-seus-memes-no-mundial2026-e-reagiu-desta-forma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 19:25:32",
+      "title": "Benfica atento a jovem extremo, mas tem forte concorrência",
+      "link": "https://www.noticiasaominuto.com/desporto/3027685/benfica-atento-a-jovem-extremo-mas-tem-forte-concorrencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 20:49:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a665123cf0d9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a666472e70d5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Israel aprova programa-piloto para entrada da Comissão de Paz em Gaza",
-      "link": "https://www.noticiasaominuto.com/mundo/3027665/israel-aprova-programa-piloto-para-entrada-da-comissao-de-paz-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 19:13:45",
+      "title": "Fogo em área florestal de Soure combatido por 12 meios aéreos",
+      "link": "https://www.noticiasaominuto.com/pais/3027683/fogo-em-area-florestal-de-soure-combatido-por-12-meios-aereos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 20:34:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e91a4ac9e1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689fb8adc88d2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pogacar junta-se aos pentacampeões e também Oliveira bate mais um recorde",
-      "link": "https://www.noticiasaominuto.com/desporto/3027669/pogacar-junta-se-aos-pentacampeoes-e-tambem-oliveira-bate-mais-um-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 19:11:59",
+      "title": "Luca Van Assche conquista Estoril Open e primeiro título ATP da carreira",
+      "link": "https://www.noticiasaominuto.com/desporto/3027682/luca-van-assche-conquista-estoril-open-e-primeiro-titulo-atp-da-carreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 20:28:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47522819.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47519380.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM3LCJjcm9wSGVpZ2h0IjoxNDI3LCJjcm9wWCI6MTEsImNyb3BZIjozfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Roupa ou lençóis amarelados após muito tempo no armário? Como evitar",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3024149/roupa-ou-lencois-amarelados-apos-muito-tempo-no-armario-como-evitar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 19:07:20",
+      "title": "Banhos desaconselhados na praia de Angeiras Sul, em Matosinhos",
+      "link": "https://www.noticiasaominuto.com/pais/3027680/banhos-desaconselhados-na-praia-de-angeiras-sul-em-matosinhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 20:05:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5df33ad0d7c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyMjYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_553e4787356fc.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "É seguro continuar a utilizar um telemóvel que já não recebe atualizações?",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/e-seguro-continuar-a-utilizar-um-telemovel-que-ja-nao-recebe-atualizacoes/",
+      "pubDate": "Sun, 26 Jul 2026 19:30:31 +0000",
+      "description": "Manter um telemóvel antigo ativo pode parecer uma excelente forma de poupar dinheiro, mas a ausência de suporte de software esconde perigos graves. Compreender os riscos associados à falta de patches de segurança é&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/08/smartphones_android_2024.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,23 +302,23 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/fishmonger-sprysocks-malware-eset-research.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Qualcomm prepara aumento de preços! Vários smartphones podem ficar mais caros…",
-      "link": "https://pplware.sapo.pt/gadgets/hardware/qualcomm-prepara-aumento-de-precos-varios-smartphones-podem-ficar-mais-caros/",
-      "pubDate": "Sun, 26 Jul 2026 15:00:36 +0000",
-      "description": "A Qualcomm anunciou aos seus clientes que vai avançar com um aumento dos preços dos seus produtos já a partir de setembro. A decisão poderá refletir-se no custo final de smartphones, computadores e outros&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/05/qualcomm.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP da Hungria F1: Carlos Sainz afasta responsabilidade no toque com Piastri",
+      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-carlos-sainz-afasta-responsabilidade-no-toque-com-piastri/",
+      "pubDate": "Sun, 26 Jul 2026 17:32:06 +0000",
+      "description": "Carlos Sainz afirmou que era &#8220;impossível de evitar&#8221; o toque com Oscar Piastri durante o Grande Prémio da Hungria de Fórmula 1, alegando não fazer ideia de que estava prestes a ser ultrapassado. Após a sua paragem nas boxes, numa altura em que estava na luta pelo primeiro lugar, Piastri t",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "GP da Hungria F1: Carlos Sainz afasta responsabilidade no toque com Piastri",
-      "link": "https://www.autosport.pt/sem-categoria/gp-da-hungria-f1-carlos-sainz-afasta-responsabilidade-no-toque-com-piastri/",
-      "pubDate": "Sun, 26 Jul 2026 17:32:06 +0000",
-      "description": "Carlos Sainz afirmou que era &#8220;impossível de evitar&#8221; o toque com Oscar Piastri durante o Grande Prémio da Hungria de Fórmula 1, alegando não fazer ideia de que estava prestes a ser ultrapassado. Após a sua paragem nas boxes, numa altura em que estava na luta pelo primeiro lugar, Piastri t",
+      "title": "Teemu Suninen vence Rali da Polónia e reforça liderança no ERC com triunfo pela The Racing Factory",
+      "link": "https://www.autosport.pt/ralis/teemu-suninen-vence-rali-da-polonia-e-reforca-lideranca-no-erc-com-triunfo-pela-the-racing-factory/",
+      "pubDate": "Sun, 26 Jul 2026 17:09:00 +0000",
+      "description": "Teemu Suninen conquistou a sua primeira vitória no Campeonato Europeu de Ralis (ERC) ao triunfar no 82º Rali da Polónia, reforçando simultaneamente a liderança da classificação geral. O piloto finlandês, navegado por Antti Haapala, garantiu o triunfo por 9,7 segundos sobre o polaco Jakub Matulka, co",
       "thumbnail": ""
     },
     {
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-andrea-stella-enaltece-ritmo-de-norris-e-lamenta-azar-de-piastri/",
       "pubDate": "Sun, 26 Jul 2026 16:29:46 +0000",
       "description": "Andrea Stella estava satisfeito com a corrida da McLaren. Apesar de terminar apenas com um carro, viu Lando Norris festejar a primeira vitória do ano, primeira desde que se tornou campeão do mundo. A festa poderia ter sido bem maior se a dobradinha que esteve no horizonte se concretizasse. Oscar Pia",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Lewis Hamilton aponta o dedo a paragem desnecessária e penalização no GP da Hungria de F1",
-      "link": "https://www.autosport.pt/formula1/f1-lewis-hamilton-aponta-o-dedo-a-paragem-desnecessaria-e-penalizacao-no-gp-da-hungria-de-f1/",
-      "pubDate": "Sun, 26 Jul 2026 16:14:22 +0000",
-      "description": "Erro estratégico custa posição a Lewis Hamilton em Budapeste Lewis Hamilton terminou o Grande Prémio da Hungria na quinta posição, após ter sido penalizado por excesso de velocidade nas boxes durante uma paragem efetuada sob o regime de Virtual Safety Car (VSC). O piloto britânico ocupava o quarto l",
       "thumbnail": ""
     }
   ]
