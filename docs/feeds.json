@@ -1,63 +1,83 @@
 {
-  "updated": "2026-07-26T08:30:09.813671+00:00",
+  "updated": "2026-07-26T10:19:19.392865+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "9h. Ataque em Berlim: Polícia emite mandado de captura",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2421/",
-      "pubDate": "Sun, 26 Jul 2026 09:12:20 +0100",
-      "description": "O atropelamento num evento LGBT fez um morto e 16 feridos. O homem armado é perigoso e continua em fuga. Ainda, FC Porto e Sporting venceram este sábado, nos jogos de apresentação aos sócios.",
+      "title": "Metro Mondego. Dados podem ter sido copiados durante ataque",
+      "link": "https://observador.pt/2026/07/26/dados-pessoais-poderao-ter-sido-copiados-durante-ataque-informatico-a-metro-mondego/",
+      "pubDate": "Sun, 26 Jul 2026 11:14:33 +0100",
+      "description": "A empresa reiterou que \"os dados de pagamento com cartão bancário não foram afetados\", uma vez que \"os pagamentos são processados em terminais autónomos, isolados dos sistemas atingidos\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:118/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26102105/45558304.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Luís Neves: a \"estrela\" do Governo está prestes a apagar?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/luis-neves-a-estrela-do-governo-esta-prestes-a-apagar/",
+      "pubDate": "Sun, 26 Jul 2026 11:12:25 +0100",
+      "description": "Luís Neves foge às explicações, Montenegro faz de conta que não vê e inventa amuletos. Fernando Alexandre deixa exames perdidos. É um governo em fogo brando a apostar todas as fichas na sorte.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 11h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1305/",
+      "pubDate": "Sun, 26 Jul 2026 11:11:26 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Marcolino conserva a arte de fazer cestos de vime há 50 anos",
-      "link": "https://observador.pt/2026/07/26/cesteiro-da-terra-de-miranda-conserva-arte-de-fazer-cestos-de-vime-ha-50-anos/",
-      "pubDate": "Sun, 26 Jul 2026 08:54:05 +0100",
-      "description": "Aos 83 anos, apresenta-se como \"o último cesteiro mirandês\". Único nas técnicas e materiais, o seu trabalho mostra-se na exposição etnográfica que está patente na Casa da Cultura Mirandesa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26080148/47490245.jpg"
+      "title": "Presidente STEPH alerta para riscos de horas extras no INEM",
+      "link": "https://observador.pt/programas/resposta-pronta/ent-rui-lazaro-d26-horas-extra/",
+      "pubDate": "Sun, 26 Jul 2026 11:04:54 +0100",
+      "description": "Rui Lázaro reage às mais de 360 mil horas extra feitas em 2025 e alerta que défice de centenas de profissionais traz riscos para cidadãos e para  profissionais de equipas de emergência pré-hospitalar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1111:625:nowe:166:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/21172614/43951148.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Cinco feridos, um dos quais grave, em despiste na Sertã",
-      "link": "https://observador.pt/2026/07/26/cinco-feridos-um-dos-quais-grave-em-despiste-de-automovel-na-serta/",
-      "pubDate": "Sun, 26 Jul 2026 08:53:46 +0100",
-      "description": "O despiste ocorreu pelas 06h30 da manhã deste domingo na estrada municipal 533, no lugar da Ponte do Robalo, tendo sido mobilizados para o local 35 operacionais.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/28092302/44097714.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "8h. Incêndios em Espanha: 115 mil retirados ou confinados",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2468/",
-      "pubDate": "Sun, 26 Jul 2026 08:11:32 +0100",
-      "description": "Há vários fogos ativos no país, ministro da Administração Interna espanhol avisa que o tempo continua a dificultar o combate. Ainda, governo português cria apoio para rádios afetadas pelo mau tempo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Nenny: O medo não vence a minha arte",
-      "link": "https://observador.pt/programas/amiga-faz-parte/nenny-o-medo-nao-vence-a-minha-arte/",
-      "pubDate": "Sun, 26 Jul 2026 08:05:31 +0100",
-      "description": "A Marlene sempre sonhou ser a Nenny. Mas quem é uma sem a outra? Tinha 16 anos, um hit e muito medo. Hoje tem 23, um álbum e ainda mais coragem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/16185608/770-podcast-amiga-faz-parte.jpg"
+      "title": "O lar lisboeta de Julien Leroy, o \"Papa Lisboa\"",
+      "link": "https://observador.pt/especiais/sexy-kinky-e-maximal-o-lar-lisboeta-de-julien-leroy-o-papa-lisboa-que-trouxe-o-mama-shelter-para-portugal/",
+      "pubDate": "Sun, 26 Jul 2026 10:58:41 +0100",
+      "description": "Entre matraquilhos com padrão de tigre, \"toilet selfies\" com o amigo Carlos Moedas, e as obras e Bordallo Pinheiro e Vihls, o dono do Mama Shelter encontra equilíbrio neste refúgio no Chiado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16213128/ilacerda-mama-shelter-julien-leroy-103-scaled.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "9h IRS Jovem mantém-se em 2027",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-irs-jovem-mantem-se-em-2027_a1_1755933",
-      "pubDate": "Sun, 26 Jul 2026 10:25:02 +0100",
+      "title": "Novo primeiro-ministro britânico Andy Burnham descarta eleições antecipadas",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-primeiro-ministro-britanico-andy-burnham-descarta-eleicoes-antecipadas_n1755940",
+      "pubDate": "Sun, 26 Jul 2026 12:00:31 +0100",
+      "description": "O primeiro-ministro britânico, o trabalhista Andy Burnham, que assumiu o poder a 20 de julho sem passar pelas urnas, descartou a convocação de eleições antecipadas no Reino Unido, por considerar que o eleitorado não o deseja.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c10bbee6d16e043456ecada95b6a89e?w=350&amp;q=50&amp;rect=1,0,2999,1644&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Praias do Desembarque na Normandia inscritas no Património Mundial da UNESCO",
+      "link": "https://www.rtp.pt/noticias/cultura/praias-do-desembarque-na-normandia-inscritas-no-patrimonio-mundial-da-unesco_n1755934",
+      "pubDate": "Sun, 26 Jul 2026 11:58:45 +0100",
+      "description": "A UNESCO declarou hoje como Património Mundial as praias do Desembarque na Normandia, no noroeste de França, e o icónico Monte Olimpo, na Grécia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/718faea183ad49e1100cb16ebecab220?w=350&amp;q=50&amp;rect=1,0,3498,1918&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h IRS Jovem é para manter",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-irs-jovem-e-para-manter_a1_1755939",
+      "pubDate": "Sun, 26 Jul 2026 11:29:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,91 +85,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sudeste da China em alerta máximo devido à chegada do tufão Noul",
-      "link": "https://www.rtp.pt/noticias/mundo/sudeste-da-china-em-alerta-maximo-devido-a-chegada-do-tufao-noul_n1755914",
-      "pubDate": "Sun, 26 Jul 2026 10:01:44 +0100",
-      "description": "As autoridades chinesas emitiram este fim de semana um alerta vermelho, o de maior gravidade, perante a chegada do tufão Noul, que atingiu terra esta madrugada na província de Cantão, com ventos superiores a 160 quilómetros por hora.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f52abfe9bf077b676b543ee31ce572e3?w=350&amp;q=50&amp;rect=2,0,5549,3042&amp;auto=format"
+      "title": "Pressão pelos \"corpos de verão\". Insatisfação corporal aumenta nesta altura do ano",
+      "link": "https://www.rtp.pt/noticias/pais/pressao-pelos-corpos-de-verao-insatisfacao-corporal-aumenta-nesta-altura-do-ano_n1755937",
+      "pubDate": "Sun, 26 Jul 2026 11:22:38 +0100",
+      "description": "Todos os anos, com o regresso do calor, chega também a pressão em torno dos chamados &quot;corpos de verão&quot;. Mas o que é um corpo perfeito e de que forma é que esta ideia pode representar um fator de sofrimento psicológico?",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a1f4fd9e9260ec7b7880e97409e0bdf4?w=350&amp;q=50&amp;rect=1,0,3267,1791&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ugandês Olara Otunnu junta-se à lista de candidatos a secretário-geral das Nações Unidas",
-      "link": "https://www.rtp.pt/noticias/mundo/ugandes-olara-otunnu-junta-se-a-lista-de-candidatos-a-secretario-geral-das-nacoes-unidas_n1755913",
-      "pubDate": "Sun, 26 Jul 2026 09:58:57 +0100",
-      "description": "A corrida ao cargo de secretário-geral das Nações Unidas conta, desde sábado, com um sétimo candidato: o ugandês Olara Otunnu, um antigo alto responsável da organização que também foi candidato presidencial da oposição no seu país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/91/9157c3c680469b3860841ae613eceb38?w=350&amp;q=50&amp;rect=2,0,7004,3840&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "UNESCO reconhece seis roças de São Tomé como Património Mundial",
-      "link": "https://www.rtp.pt/noticias/cultura/unesco-reconhece-seis-rocas-de-sao-tome-como-patrimonio-mundial_n1755922",
-      "pubDate": "Sun, 26 Jul 2026 09:55:28 +0100",
-      "description": "A Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) declarou hoje as plantações agrícolas coloniais portuguesas nas ilhas de São Tomé e Príncipe como Património Mundial.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c725e49d8e8f6045d2607ce59089c34?w=350&amp;q=50&amp;rect=1,0,5295,2903&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pausa nos bombardeamentos norte-americanos mantém-se por segunda noite consecutiva",
-      "link": "https://www.rtp.pt/noticias/mundo/pausa-nos-bombardeamentos-norte-americanos-mantem-se-por-segunda-noite-consecutiva_n1755926",
-      "pubDate": "Sun, 26 Jul 2026 09:30:29 +0100",
-      "description": "Nenhum bombardeamento norte-americano foi registado no Irão entre sábado e domingo, assinalando a segunda noite consecutiva de pausa nas hostilidades, com meios de comunicação dos Estados Unidos a apontar para eventuais faltas de munições como motivo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/05/05ff5a0e0019afc64af5077b890a21ef?w=350&amp;q=50&amp;rect=2,0,5850,3207&amp;auto=format"
+      "title": "China resgata 39 marinheiros de navio vietnamita e prossegue busca por desaparecidos",
+      "link": "https://www.rtp.pt/noticias/mundo/china-resgata-39-marinheiros-de-navio-vietnamita-e-prossegue-busca-por-desaparecidos_n1755921",
+      "pubDate": "Sun, 26 Jul 2026 10:43:26 +0100",
+      "description": "Um navio vietnamita naufragou na noite de sexta-feira no Mar da China Meridional com 62 marinheiros a bordo, dos quais 39 foram resgatados, enquanto prosseguem operações de busca por 23 desaparecidos, informou hoje a imprensa oficial chinesa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7f63a2a40d524e9ee27c8b070d0d09b?w=350&amp;q=50&amp;rect=1,0,5950,3262&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Benfica: Gabriel Índio completa 18 anos e já pode ser oficializado",
-      "link": "https://maisfutebol.iol.pt/benfica/transferencias/benfica-gabriel-indio-completa-18-anos-e-ja-pode-ser-oficializado",
-      "pubDate": "Sun, 26 Jul 2026 09:17:00 +0100",
-      "description": "Porém, ainda não poderá jogar o próximo duelo oficial",
-      "thumbnail": "https://img.iol.pt/image/id/6a3d6907d34e28842c8596b8/250"
+      "title": "Geovany Quenda lesiona-se na pré-temporada do Chelsea",
+      "link": "https://maisfutebol.iol.pt/internacional/chelsea/geovany-quenda-lesiona-se-na-pre-temporada-do-chelsea",
+      "pubDate": "Sun, 26 Jul 2026 11:13:00 +0100",
+      "description": "Lesão ocorreu durante um jogo de preparação diante do Bromley",
+      "thumbnail": "https://img.iol.pt/image/id/6a4e8b45d34e511da0b2bfca/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/agenda/modalidades/hoje-vai-ser-noticia-178505280",
-      "pubDate": "Sun, 26 Jul 2026 09:00:00 +0100",
-      "description": "Hoje chega ao fim o Tour e o Estoril Open",
-      "thumbnail": "https://img.iol.pt/image/id/6a56577bd34ef04b4f3f67d7/250"
+      "title": "OFICIAL: Lukasz Fabianski termina carreira aos 41 anos",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/oficial-fabianski-termina-carreira-aos-41-anos",
+      "pubDate": "Sun, 26 Jul 2026 10:41:00 +0100",
+      "description": "Guarda-redes polaco esteve ao serviço do West Ham de Nuno Espírito Santo na época passada",
+      "thumbnail": "https://img.iol.pt/image/id/6162ca550cf241cadce249c4/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hwang: «Estou um pouco desapontado porque podia ter feito melhor num lance»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/hwang-in-beom/estou-feliz-mas-um-pouco-desapontado-porque-podia-ter-feito-melhor-num-lance",
-      "pubDate": "Sun, 26 Jul 2026 00:15:00 +0100",
-      "description": "Sul-coreano Hwang In-beom estreou-se no Estádio Dragão com a camisola do FC Porto",
-      "thumbnail": "https://img.iol.pt/image/id/6a65422bd34e511da0b2fcb2/250"
+      "title": "Rafael Leão recebe presente de Neymar: «É o meu ídolo de infância»",
+      "link": "https://maisfutebol.iol.pt/rafael-leao/santos/rafael-leao-recebe-presente-de-neymar-e-o-meu-idolo-de-infancia",
+      "pubDate": "Sun, 26 Jul 2026 10:39:00 +0100",
+      "description": "Internacional português está de férias no Brasil e aproveitou para o ver o Santos-Chapecoense (2-2), da 20.ª jornada do Brasileirão",
+      "thumbnail": "https://img.iol.pt/image/id/6a65d2e5d34ef04b4f3f9005/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Wolves: Rodrigo Gomes marca, mas não evita primeira derrota de Peixoto",
-      "link": "https://maisfutebol.iol.pt/made-in/inglaterrra/wolves-rodrigo-gomes-marca-mas-nao-evita-primeira-derrota-de-peixoto",
-      "pubDate": "Sun, 26 Jul 2026 00:02:11 +0100",
-      "description": "Equipa inglesa esteve a vencer, mas permitiu reviravolta da Real Sociedad (1-2)",
-      "thumbnail": "https://img.iol.pt/image/id/6a653d4fd34e511da0b2fcb1/250"
+      "title": "Brasil: Vasco da Gama de Pedro Emanuel e Nuno Moreira empata",
+      "link": "https://maisfutebol.iol.pt/made-in/brasil/brasil-vasco-da-gama-de-pedro-emanuel-e-nuno-moreira-empata",
+      "pubDate": "Sun, 26 Jul 2026 10:09:00 +0100",
+      "description": "Equipa carioca continua na zona de despromoção",
+      "thumbnail": "https://img.iol.pt/image/id/6a5541fad34e511da0b2d182/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Otamendi estreia-se pelo River Plate... e como capitão",
-      "link": "https://maisfutebol.iol.pt/argentina/nicolas-otamendi/video-otamendi-estreia-se-pelo-river-plate-e-como-capitao",
-      "pubDate": "Sun, 26 Jul 2026 00:02:01 +0100",
-      "description": "Ex-Benfica fez este sábado o primeiro jogo pela equipa argentina",
-      "thumbnail": "https://img.iol.pt/image/id/6a653e9cd34ef04b4f3f8faf/250"
+      "title": "River Plate derrotado na estreia de Nicolás Otamendi e Ángel Correa",
+      "link": "https://maisfutebol.iol.pt/river-plate/otamendi/river-plate-derrotado-na-estreia-de-nicolas-otamendi-e-angel-correa",
+      "pubDate": "Sun, 26 Jul 2026 09:47:00 +0100",
+      "description": "Milionários perderam por 1-0 diante do Barracas Central, na 1.ª jornada do Torneio Clausura",
+      "thumbnail": "https://img.iol.pt/image/id/6a65c844d34e511da0b2fceb/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Incêndios: França em situação \"muito desfavorável\", Espanha mais controlada apesar de fogos ativos",
+      "link": "https://sapo.pt/artigo/incendios-franca-em-situacao-muito-desfavoravel-espanha-mais-controlada-apesar-de-fogos-ativos-6a65d66286e5f86c55770c37",
+      "pubDate": "Sun, 26 Jul 2026 09:53:54 +0000",
+      "description": "Em França, o ministro do Interior informou que a situação dos incêndios ainda continua \"muito desfavorável\", com 220 mil pessoas a abandonarem a cidade francesa de Bordéus.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AO9rzU8bzHxqbrOO0Hcmn0gTGuMgUOxv9tohXn9Z%2B8q9US07F5lMppOoQcQ9AWVTEsgfay6ZUEIU79wB5UVafNPTDFs37YHlnrtrW%2FhGPWdJKFzvfS6o%2F6RtsFRtp9OqT"
     },
     {
       "sourceId": "sapo",
@@ -175,11 +185,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios em Espanha levam ao desalojamento de 115.000 pessoas em Madrid, Ávila e Castellón",
-      "link": "https://executivedigest.sapo.pt/incendios-em-espanha-levam-ao-desalojamento-de-115-000-pessoas-em-madrid-avila-e-castellon/",
-      "pubDate": "Sun, 26 Jul 2026 07:40:14 +0000",
-      "description": "Mais de 115.000 pessoas foram retiradas das suas casas e confinadas até ao momento devido aos incêndios florestais que consumiram mais de 45.000 hectares na Comunidade de Madrid e em Ávila em Espanha.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Ajw2MVvhcQJ6fholZi0%2B2RNF%2FFJgnXkzE6jVcdG6ozJTFsmp%2FuahbQqVUGc8hKCvUTv8qqdG4CeF%2F6xVDexwsZTKZ4tc0B4ZlOf1tRU31JxW87I%2FOn9wHh%2BcF9WBf3MOP"
+      "title": "Pausa nos bombardeamentos norte-americanos ao Irão mantém-se pela segunda noite consecutiva",
+      "link": "https://sapo.pt/artigo/pausa-nos-bombardeamentos-norte-americanos-ao-irao-mantem-se-pela-segunda-noite-consecutiva-6a65d6a49c9f29b5cea35a29",
+      "pubDate": "Sun, 26 Jul 2026 09:53:54 +0000",
+      "description": "Segundo o jornal New York Times, o governo norte-americano está preocupado com a escassez do 'stock' de sistemas de interceção de mísseis \"Patriot\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AjTl0HsvgjIaqLwAxAOf9xeqvMYR6tJSdKjD5xq5Swf3QbnRG0x3GeM3LGqXbAAQjkcezCNLN2gfiq%2F0H5rdplO%2BZJ%2B33dyzSP0bq7pYvaXLat8C77ohZPK3F39SCENvI"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,74 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AHlwaKxWSQ%2Fp5e5vRFs3Tg76j4dcByE3qWtvmFbpIX9byuU5XqvhcGh3sRRdkOazptYdW93OJ7chP9f3GyK6l9n8yx2%2BnOdzHgreG7wRmjXxngBu7xy%2F5g%2FagyO9%2FQATB"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Domingo de verão a convidar ao descanso: temperaturas sobem hoje e podem chegar aos 35 graus no Interior",
-      "link": "https://executivedigest.sapo.pt/domingo-de-verao-a-convidar-ao-descanso-temperaturas-sobem-hoje-e-podem-chegar-aos-35-graus-no-interior/",
-      "pubDate": "Sun, 26 Jul 2026 07:39:56 +0000",
-      "description": "O estado do tempo deverá apresentar uma melhoria significativa em Portugal continental neste domingo, com o regresso de condições mais estáveis, secas e predominantemente soalheiras, depois de vários dias marcados por ambiente fresco e...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=506&W=900&crop=center&delay_optim=1&epic=V2%3A3eIp6JsR%2BlCQwLI%2BNYlnEw9BZKutPprm8SjQ%2Bg97UaUJIvpaZKJiDY0uBaaj0kSd36byJx1hBiOisdb0Z2tlpTreUtGkAUsXuw7IjW8BFS3izyZ3IfxGEc9PwKTn5IVj"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Tradidanças anima Carvalhais a partir de quarta-feira com música de raiz",
+      "link": "https://www.noticiasaominuto.com/cultura/3027569/tradidancas-anima-carvalhais-a-partir-de-quarta-feira-com-musica-de-raiz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 11:16:22",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_575553ec92cf0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Descarado\". Carta de Infantino à Argentina após o Mundial dá que falar",
-      "link": "https://www.noticiasaominuto.com/desporto/3027545/descarado-carta-de-infantino-a-argentina-apos-o-mundial-da-que-falar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 09:23:54",
+      "title": "Deu ghost? São estes os signos que têm fama de \"desaparecer do nada\"",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3026932/deu-ghost-sao-estes-os-signos-que-tem-fama-de-desaparecer-do-nada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 11:04:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65c21256766.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MjY1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxNzcxLCJjcm9wWSI6MjczfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6368d60433e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ4LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MTIsImNyb3BZIjoxNzh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais 55 mil pessoas retiradas no sudoeste de França devidos aos incêndios",
-      "link": "https://www.noticiasaominuto.com/mundo/3027544/mais-55-mil-pessoas-retiradas-no-sudoeste-de-franca-devidos-aos-incendios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 09:11:24",
+      "title": "San Diego Comic-Con. Ryan Reynolds, és tu? Ator surpreendeu tudo e todos",
+      "link": "https://www.noticiasaominuto.com/fama/3027567/san-diego-comic-con-ryan-reynolds-es-tu-ator-surpreendeu-tudo-e-todos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 11:03:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65c12665185.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65d4cb255d7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Comemoração da Convenção dos Refugiados terá nova estratégia",
-      "link": "https://www.noticiasaominuto.com/mundo/3027532/comemoracao-da-convencao-dos-refugiados-tera-nova-estrategia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 09:07:52",
+      "title": "PSP identifica 11 habitações precárias e idosa vulnerável em Vila Franca",
+      "link": "https://www.noticiasaominuto.com/pais/3027565/psp-identifica-11-habitacoes-precarias-e-idosa-vulneravel-em-vila-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 11:00:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_679395ec3d783.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fe9d6835d98.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Uma das atuais sequelas dos AVC é ficar sem bateria depressa demais\"",
-      "link": "https://www.noticiasaominuto.com/fama/3027543/uma-das-atuais-sequelas-dos-avc-e-ficar-sem-bateria-depressa-demais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 09:04:02",
+      "title": "Ucrânia reporta ataque aéreo russo com oito mísseis e 136 drones",
+      "link": "https://www.noticiasaominuto.com/mundo/3027563/ucrania-reporta-ataque-aereo-russo-com-oito-misseis-e-136-drones#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 10:52:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65bebc510d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDU2LCJjcm9wSGVpZ2h0Ijo1OTQsImNyb3BYIjoxNCwiY3JvcFkiOjEzOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzQ0LCJjcm9wWSI6Njh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64d6bad28bfe3.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Metsola solidária com vítimas de atropelamento em Berlim",
-      "link": "https://www.noticiasaominuto.com/mundo/3027542/metsola-solidaria-com-vitimas-de-atropelamento-em-berlim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 08:57:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65bd594d670.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Questão: concorda com a renovação das notas de euro?",
+      "link": "https://pplware.sapo.pt/informacao/questao-concorda-com-a-renovacao-das-notas-de-euro/",
+      "pubDate": "Sun, 26 Jul 2026 10:00:42 +0000",
+      "description": "O euro prepara-se para ganhar uma nova imagem. O Banco Central Europeu (BCE) revelou as propostas finalistas para o próximo desenho das notas de euro e, pela primeira vez, está a convidar os cidadãos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/notas-euro-1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Confirmado: ciberataque à Metro Mondego roubou dados pessoais",
+      "link": "https://pplware.sapo.pt/internet/confirmado-ciberataque-a-metro-mondego-roubou-dados-pessoais/",
+      "pubDate": "Sun, 26 Jul 2026 09:00:30 +0000",
+      "description": "A Metro Mondego revelou que foi alvo de um ataque informático do tipo ransomware, incidente que poderá ter resultado no acesso não autorizado a dados pessoais de passageiros, colaboradores e outras entidades. Apesar do&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/metro_x01.jpeg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/12/pplware_Spotify_Wrapped_2024_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "ChatGPT ajudou a travar alegado plano para matar uma criança",
-      "link": "https://pplware.sapo.pt/informacao/chatgpt-ajudou-a-travar-alegado-plano-para-matar-uma-crianca/",
-      "pubDate": "Sat, 25 Jul 2026 21:34:24 +0000",
-      "description": "Um caso ocorrido no Brasil voltou a colocar a inteligência artificial no centro do debate sobre privacidade, segurança e prevenção criminal. Um homem de 36 anos foi detido no estado do Espírito Santo depois&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/fbi_chatgpt_brasil00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Como colocar qualquer ficheiro MP3 como toque de chamada no iPhone",
-      "link": "https://pplware.sapo.pt/apple/como-colocar-qualquer-ficheiro-mp3-como-toque-de-chamada-no-iphone/",
-      "pubDate": "Sat, 25 Jul 2026 20:30:36 +0000",
-      "description": "Sim, é uma dica &#8220;old fashion&#8221;&#8230; ou à moda antiga, como se costuma dizer. Mas, grande parte dos utilizadores não sabe que é assim tão fácil fazer. Tem aí aquele MP3 com o som&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/toques_iphone00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Tóquio: Mortara vence Félix da Costa na final da qualificação",
+      "link": "https://www.autosport.pt/velocidade/formula-e-toquio-mortara-vence-felix-da-costa-na-final-da-qualificacao/",
+      "pubDate": "Sun, 26 Jul 2026 08:49:03 +0000",
+      "description": "O português António Félix da Costa, no I-Type 7 da Jaguar TCS Racing, assegurou a segunda posição na grelha de partida para a ronda 15 do Mundial de Fórmula E e a segunda corrida do fim de semana do campeonato em Tóquio, no Japão. A corrida com 33 voltas ao circuito citadino com 2,575 km [&#8230;]\nT",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-hungria-f1-kimi-antonelli-recebe-penalizacao-de-tres-lugares/",
       "pubDate": "Sat, 25 Jul 2026 17:51:14 +0000",
       "description": "Tal como Lewis Hamilton, Kimi Antonelli foi castigado com uma penalização de três lugares na grelha para o Grande Prémio da Hungria, neste caso na sequência de uma investigação após a qualificação. O líder do campeonato terminou a sessão em quarto lugar, mas o resultado fica agora comprometido pela ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP da Hungria F1: Lewis Hamilton recebe penalização de três lugares",
-      "link": "https://www.autosport.pt/formula1/gp-da-hungria-f1-lewis-hamilton-recebe-penalizacao-de-tres-lugares/",
-      "pubDate": "Sat, 25 Jul 2026 17:40:16 +0000",
-      "description": "Lewis Hamilton recebeu uma penalização de três lugares na grelha após um incidente durante a qualificação do Grande Prémio da Hungria de Fórmula 1, em que terá impedido Oscar Piastri. O britânico vai agora arrancar de quinto, depois de ter conquistado o segundo lugar na qualificação, atrás de Lando ",
       "thumbnail": ""
     }
   ]
