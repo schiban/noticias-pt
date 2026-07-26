@@ -1,55 +1,65 @@
 {
-  "updated": "2026-07-26T22:29:05.866324+00:00",
+  "updated": "2026-07-26T23:31:15.455612+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 23h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2138/",
-      "pubDate": "Sun, 26 Jul 2026 23:14:03 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Morreu o meu Maxi, um cão como nós (ou como eu)",
+      "link": "https://observador.pt/opiniao/morreu-o-meu-maxi-um-cao-como-nos-ou-como-eu/",
+      "pubDate": "Mon, 27 Jul 2026 00:30:30 +0100",
+      "description": "Este texto não é sobre os exames ou sobre Luís Neves – é sobre a morte de um cão, sobre como estabelecemos laços com os animais e sobre os excessos de um animalismo que faz equivaler humanos e animais",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Nelson Oliveira completou todas as 24 Grandes Voltas",
-      "link": "https://observador.pt/2026/07/26/o-homem-que-adora-o-relogio-transformou-se-num-super-capitao-para-fazer-historia-nelson-oliveira-completa-24-a-grande-volta-e-bate-recorde/",
-      "pubDate": "Sun, 26 Jul 2026 22:32:13 +0100",
-      "description": "Está feita história: Nelson terminou uma Grande Volta pela 24.ª ocasião de forma consecutiva, naquele que é o maior registo de sempre. Paris chegou com número redondo: foi a sua 500.ª etapa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23191612/gettyimages-2283833549-scaled.jpg"
+      "title": "\"Em setembro haverá provavelmente o mesmo elenco de governo\"",
+      "link": "https://observador.pt/2026/07/27/hugo-soares-quando-chegarmos-a-setembro-teremos-provavelmente-o-mesmo-elenco-governativo/",
+      "pubDate": "Mon, 27 Jul 2026 00:29:58 +0100",
+      "description": "O líder parlamentar do PSD diz esperar que em setembro os governantes sejam os mesmos, para garantir estabilidade. Assume que o caso dos exames correu mal, mas o ministro tem mostrado trabalho.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2349:1320:nowe:0:123/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20170307/jporfirio-congresso-psd-anadia-dia1-20-06-12-3.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 22h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1835/",
-      "pubDate": "Sun, 26 Jul 2026 22:13:46 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Cataclismo Atlântico",
+      "link": "https://observador.pt/opiniao/cataclismo-atlantico/",
+      "pubDate": "Mon, 27 Jul 2026 00:23:52 +0100",
+      "description": "Foram os reinos ibéricos, e Portugal em primeiro lugar, que mais e mais longamente exploraram o sistema escravista e, no entanto, não foram eles que nos séculos XVIII e XIX mais se desenvolveram.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Três dias no cemitério dos heróis ucranianos",
-      "link": "https://observador.pt/especiais/os-herois-de-marte/",
-      "pubDate": "Sun, 26 Jul 2026 22:09:46 +0100",
-      "description": "O Observador esteve três dias no Campo de Marte, um cemitério-memorial onde os sobreviventes choram heróis mortos em combate. Do chão de Lviv saem histórias que tentam rescrever o futuro da Ucrânia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24192347/770-os-herois-de-marte.jpg"
+      "title": "Um bocadinho mais que pouco",
+      "link": "https://observador.pt/opiniao/um-bocadinho-mais-que-pouco/",
+      "pubDate": "Mon, 27 Jul 2026 00:22:06 +0100",
+      "description": "Apesar de todos os enganos e da forma como foi com eles que aprendemos a ser melhores, parece ter ficado por esclarecer que, primeiro, se reconhece e agradece. A seguir se dá. Só depois se exige.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "INEM recusa desmantelamento do dispositivo de emergência",
-      "link": "https://observador.pt/2026/07/26/inem-recusa-desmantelamento-do-dispositivo-de-emergencia-e-retirada-de-100-ambulancias/",
-      "pubDate": "Sun, 26 Jul 2026 22:00:04 +0100",
-      "description": "O INEM afirma que a eventual transferência da gestão das ambulâncias de emergência médica para as ULS \"não implica a eliminação desses meios, que continuarão ao serviço das populações\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/03150741/46481943.jpg"
+      "title": "Cisma e Igreja Alemã: pode Deus ser melhorado?",
+      "link": "https://observador.pt/opiniao/cisma-e-igreja-alema-pode-deus-ser-melhorado/",
+      "pubDate": "Mon, 27 Jul 2026 00:21:10 +0100",
+      "description": "O Caminho Sinodal e a Fraternidade São Pio X",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00h-Ensino Superior Artístico - Ministro vai receber hoje uma carta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ensino-superior-artistico-ministro-vai-receber-hoje-uma-carta_a1_1756040",
+      "pubDate": "Mon, 27 Jul 2026 01:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -88,16 +98,6 @@
       "title": "22h - na região de Bordéus mais de 220 mil pessoas estão deslocadas",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-na-regiao-de-bordeus-mais-de-220-mil-pessoas-estao-deslocadas_a1_1756035",
       "pubDate": "Sun, 26 Jul 2026 23:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "21h -  Bordéus: incêndios obrigam milhares de pessoas a saír de casa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-bordeus-incendios-obrigam-milhares-de-pessoas-a-sair-de-casa_a1_1756034",
-      "pubDate": "Sun, 26 Jul 2026 23:00:04 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -165,6 +165,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Incêndios em Espanha: Rei apela à \"união\" perante \"maior incêndio da história recente\", Sanchéz fala em \"efeitos da crise climática\"",
+      "link": "https://sapo.pt/artigo/incendios-em-espanha-rei-apela-a-uniao-perante-maior-incendio-da-historia-recente-sanchez-fala-em-efeitos-da-crise-climatica-6a66892586e5f86c558be722",
+      "pubDate": "Sun, 26 Jul 2026 22:26:42 +0000",
+      "description": "Situação em Madrid e Ávila continua a evoluir de forma positiva, mas área ardida já ultrapassa 77 mil hectares. Vall d'Uixó é novo foco de preocupação e já obrigou a retirada de 16 mil pessoas. Felipe VI apela a governantes para garantir \"todos...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AwQf45kNxtqlPia0E8ugEykAXmeysiF1A0cPQGb8Cdg9Oa6nCoHseSF%2BVWllltXumc5y1%2BHONJCRcQWDp5xGvlGiH6oolLxiiGqeb3PCC%2BS0JgXKgqMBIPkaKoaHhF4wB"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Chile. Preso ex-militar condenado por assassinar Víctor Jara",
       "link": "https://sapo.pt/artigo/chile-preso-ex-militar-condenado-por-assassinar-victor-jara-6a66704d39564b23dad05c4c",
       "pubDate": "Sun, 26 Jul 2026 21:31:57 +0000",
@@ -185,16 +195,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "INEM nega retirada de 100 ambulâncias e garante reforço do dispositivo",
-      "link": "https://sapo.pt/artigo/inem-nega-retirada-de-100-ambulancias-e-garante-reforco-do-dispositivo-6a6658ef503f077bd19c474f",
-      "pubDate": "Sun, 26 Jul 2026 19:23:21 +0000",
-      "description": "O Instituto Nacional de Emergência Médica (INEM) negou a retirada de 100 ambulâncias e o desmantelamento do dispositivo de emergência médica. A reação surgiu depois de, este domingo, a Comissão de Trabalhadores ter denunciado um desmantelamento...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AxYp26g2%2BI1ir1EJDMKlyUxL1jKobuSwIq9u%2BDs3KOH9dp%2BYs9gatye933JLOXMZbbkEA1OP6A%2BURVbKBGcId1DAur8bd5pbPlSZFlOq52vmp98c%2BuIB%2F9nyFqi1Ga2i6"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Aeroporto de Gatwick esteve cerca de oito horas sem água",
       "link": "https://sapo.pt/artigo/aeroporto-de-gatwick-esteve-cerca-de-oito-horas-sem-agua-6a66704c1c5549f5dbbe61a5",
       "pubDate": "Sun, 26 Jul 2026 22:00:24 +0000",
@@ -205,41 +205,41 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump \"tem todas as opções em cima da mesa\" sobre futuro do conflito",
-      "link": "https://www.noticiasaominuto.com/mundo/3027706/trump-tem-todas-as-opcoes-em-cima-da-mesa-sobre-futuro-do-conflito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:24:59",
+      "title": "Preço do petróleo desce mais de 5% com perspetiva de acordo EUA-Irão",
+      "link": "https://www.noticiasaominuto.com/economia/3027711/preco-do-petroleo-desce-mais-de-5-com-perspetiva-de-acordo-eua-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 00:00:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6791537923f67.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDEyLCJjcm9wSGVpZ2h0IjoxMzU2LCJjcm9wWCI6NDIsImNyb3BZIjoyMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjczNCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b2c90438fd2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDMwLCJjcm9wSGVpZ2h0IjoxMzY3LCJjcm9wWCI6NTksImNyb3BZIjoyNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjIxNCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Raúl Castro ausente do comício que assinalou Dia Nacional da Rebelião",
-      "link": "https://www.noticiasaominuto.com/mundo/3027696/raul-castro-ausente-do-comicio-que-assinalou-dia-nacional-da-rebeliao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:09:03",
+      "title": "Incêndio em Soure dado como dominado às 22h49",
+      "link": "https://www.noticiasaominuto.com/pais/3027710/incendio-em-soure-dado-como-dominado-as-22h49#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 23:56:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a0ddd4cdf67a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_596d01a8de445.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE5NDQsImNyb3BIZWlnaHQiOjM0NTYsImNyb3BYIjoxODcwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump emite ordem para eliminar vestígios de \"ideologia marxista\" do Smithsonian",
-      "link": "https://www.noticiasaominuto.com/mundo/3027699/trump-emite-ordem-para-eliminar-vestigios-de-ideologia-marxista-do-smithsonian#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:05:36",
+      "title": "Burnham receberá Zelensky na segunda-feira: \"Apoio continua inabalável\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3027707/burnham-recebera-zelensky-na-segunda-feira-apoio-continua-inabalavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 23:55:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6448b7c9c27.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjkxOCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e6d8765f30.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcyOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cunhado de Heidi Khlum \"transforma-se\" na modelo. \"Irmão gémeo\"",
-      "link": "https://www.noticiasaominuto.com/fama/3027616/cunhado-de-heidi-khlum-transforma-se-na-modelo-irmao-gemeo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:01:33",
+      "title": "Inesperado: Juan Sebastián Verón pode regressar aos relvados aos 51 anos",
+      "link": "https://www.noticiasaominuto.com/desporto/3027709/inesperado-juan-sebastian-veron-pode-regressar-aos-relvados-aos-51-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-26 23:55:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6616b2b1a16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYxLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6NjcsImNyb3BZIjozNTh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64fc90ee3144b.webp"
     },
     {
       "sourceId": "nam",
@@ -247,7 +247,7 @@
       "color": "#e07a5f",
       "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
       "link": "https://www.noticiasaominuto.com/desporto/3027515/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 22:59:54",
+      "pubDate": "2026-07-26 23:48:25",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a659f38d3443.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMyfX0="
     },
