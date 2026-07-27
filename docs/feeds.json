@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-26T23:31:15.455612+00:00",
+  "updated": "2026-07-27T02:34:07.327253+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2387/",
+      "pubDate": "Mon, 27 Jul 2026 03:15:03 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Petróleo cai 5% após pausa nos ataques contra o Irão",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2361/",
+      "pubDate": "Mon, 27 Jul 2026 02:13:42 +0100",
+      "description": "Mercados reagem com otimismo à pausa nos bombardeamentos, após duas semanas de bombardeamentos. Ainda, Portugal continental sob aviso amarelo por causa do calor até terça-feira, exceto Faro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. 84 bombeiros feridos desde início do incêndio de Gironde",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2334/",
+      "pubDate": "Mon, 27 Jul 2026 01:13:28 +0100",
+      "description": "Não há civis feridos. Os incêndios em França já queimaram 115 mil hectares. Ainda neste jornal, Donald Trump nega que os Estados Unidos estejam a ficar sem munições na guerra contra o Irão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Incêndios. 325 mil pessoas retiradas em França e Espanha",
+      "link": "https://observador.pt/2026/07/27/incendios-mais-de-325-mil-pessoas-retiradas-em-franca-e-espanha/",
+      "pubDate": "Mon, 27 Jul 2026 00:33:32 +0100",
+      "description": "As previsões meteorológicas alertam para uma onda de calor no sudoeste francês, a partir de terça-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26235253/47523507.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Em setembro haverá provavelmente o mesmo elenco de governo\"",
-      "link": "https://observador.pt/2026/07/27/hugo-soares-quando-chegarmos-a-setembro-teremos-provavelmente-o-mesmo-elenco-governativo/",
-      "pubDate": "Mon, 27 Jul 2026 00:29:58 +0100",
-      "description": "O líder parlamentar do PSD diz esperar que em setembro os governantes sejam os mesmos, para garantir estabilidade. Assume que o caso dos exames correu mal, mas o ministro tem mostrado trabalho.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2349:1320:nowe:0:123/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20170307/jporfirio-congresso-psd-anadia-dia1-20-06-12-3.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Bombeiros portugueses mobilizados nos fogos de Ávila e Madrid",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-bombeiros-portugueses-mobilizados-nos-fogos-de-avila-e-madrid_a1_1756047",
+      "pubDate": "Mon, 27 Jul 2026 04:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Cataclismo Atlântico",
-      "link": "https://observador.pt/opiniao/cataclismo-atlantico/",
-      "pubDate": "Mon, 27 Jul 2026 00:23:52 +0100",
-      "description": "Foram os reinos ibéricos, e Portugal em primeiro lugar, que mais e mais longamente exploraram o sistema escravista e, no entanto, não foram eles que nos séculos XVIII e XIX mais se desenvolveram.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Petróleo cai mais de 5% após pausa nos ataques entre EUA e Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-petroleo-cai-mais-de-5-apos-pausa-nos-ataques-entre-eua-e-irao_a1_1756043",
+      "pubDate": "Mon, 27 Jul 2026 03:14:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Um bocadinho mais que pouco",
-      "link": "https://observador.pt/opiniao/um-bocadinho-mais-que-pouco/",
-      "pubDate": "Mon, 27 Jul 2026 00:22:06 +0100",
-      "description": "Apesar de todos os enganos e da forma como foi com eles que aprendemos a ser melhores, parece ter ficado por esclarecer que, primeiro, se reconhece e agradece. A seguir se dá. Só depois se exige.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Cisma e Igreja Alemã: pode Deus ser melhorado?",
-      "link": "https://observador.pt/opiniao/cisma-e-igreja-alema-pode-deus-ser-melhorado/",
-      "pubDate": "Mon, 27 Jul 2026 00:21:10 +0100",
-      "description": "O Caminho Sinodal e a Fraternidade São Pio X",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h - 8 pessoas feridas numa manifestação em Palma de Maiorca",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-8-pessoas-feridas-numa-manifestacao-em-palma-de-maiorca_a1_1756041",
+      "pubDate": "Mon, 27 Jul 2026 02:27:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jéssica Inchude vence peso, Isaac Nader e Salomé Afonso triunfam nos 800 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/jessica-inchude-vence-peso-isaac-nader-e-salome-afonso-triunfam-nos-800-metros_d1756037",
-      "pubDate": "Sun, 26 Jul 2026 23:34:40 +0100",
-      "description": "A atleta Jéssica Inchude impôs-se hoje no lançamento do peso com um novo recorde pessoal e dos Campeonatos de Portugal ao ar livre, em Lisboa, enquanto os também olímpicos Isaac Nader e Salomé Afonso dominaram nos 800 metros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0a73c97cfe6441aa82747843738bd39b?w=350&amp;q=50&amp;rect=0,78,1920,1053&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Mon, 27 Jul 2026 00:50:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "‘Aprendiz’ Franclim Carvalho vence duelo com ‘mestre’ Artur Jorge no Brasil",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/aprendiz-franclim-carvalho-vence-duelo-com-mestre-artur-jorge-no-brasil_d1756036",
-      "pubDate": "Sun, 26 Jul 2026 23:31:35 +0100",
-      "description": "O Botafogo, do português Franclim Carvalho, venceu hoje por 1-0 em casa do Cruzeiro, de Artur Jorge, em jogo da 20.ª jornada do campeonato brasileiro de futebol que colocou frente a frente dois treinadores com forte ligação.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Mon, 27 Jul 2026 00:45:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h - na região de Bordéus mais de 220 mil pessoas estão deslocadas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-na-regiao-de-bordeus-mais-de-220-mil-pessoas-estao-deslocadas_a1_1756035",
-      "pubDate": "Sun, 26 Jul 2026 23:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Leonardo Jardim empata, Jovane salva Luís Castro na estreia",
+      "link": "https://maisfutebol.iol.pt/brasil/leonardo-jardim/video-leonardo-jardim-empata-com-sao-paulo-jovane-salva-luis-castro-na-estreia",
+      "pubDate": "Mon, 27 Jul 2026 00:38:00 +0100",
+      "description": "Flamengo escorregou frente ao São Paulo, ex-Sporting saltou do banco para evitar a derrota",
+      "thumbnail": "https://img.iol.pt/image/id/6a669872d34ef04b4f3f9196/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 26 Jul 2026 22:58:14 +0100",
       "description": "Atletas olímpicos imposeram-se nas respetivas categorias",
       "thumbnail": "https://img.iol.pt/image/id/68cbd619d34ee0c2fed03bfb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Van Assche: «Adoro jogar em Portugal e vou continuar a vir»",
-      "link": "https://maisfutebol.iol.pt/estoril-open/modalidades/van-assche-adoro-jogar-em-portugal-e-vou-continuar-a-vir",
-      "pubDate": "Sun, 26 Jul 2026 22:55:27 +0100",
-      "description": "Tenista francês confessa que «não esperava ganhar» o Estoril Open, mas também está «orgulhoso» com o primeiro título ATP",
-      "thumbnail": "https://img.iol.pt/image/id/6a667042d34e511da0b2fe42/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Neymar nega ataque a jovens do Santos: «Não vou aceitar essas mentiras»",
-      "link": "https://maisfutebol.iol.pt/brasil/internacional/neymar-nega-ataque-a-jovens-do-santos-nao-vou-aceitar-essas-mentiras",
-      "pubDate": "Sun, 26 Jul 2026 22:31:05 +0100",
-      "description": "Globo diz que reportagem foi feita com testemunhos credíveis e mantém a história que tinha publicado",
-      "thumbnail": "https://img.iol.pt/image/id/67c5644ad34e3f0bae9b2556/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Franclim Carvalho bate Artur Jorge em duelo de portugueses",
-      "link": "https://maisfutebol.iol.pt/made-in/franclim-carvalho/video-franclim-carvalho-bate-artur-jorge-em-duelo-de-portugueses",
-      "pubDate": "Sun, 26 Jul 2026 22:31:00 +0100",
-      "description": "Golo solitário de Gabriel Justino valeu o triunfo ao conjunto carioca no Brasileirão",
-      "thumbnail": "https://img.iol.pt/image/id/6a66790ad34ef04b4f3f914f/250"
     },
     {
       "sourceId": "sapo",
