@@ -1,13 +1,33 @@
 {
-  "updated": "2026-07-27T02:34:07.327253+00:00",
+  "updated": "2026-07-27T06:25:46.307559+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2387/",
-      "pubDate": "Mon, 27 Jul 2026 03:15:03 +0100",
+      "title": "Escritora Lídia Jorge recebe prémio estatal austríaco",
+      "link": "https://observador.pt/2026/07/27/escritora-lidia-jorge-vai-receber-premio-estatal-austriaco-de-literatura-europeia/",
+      "pubDate": "Mon, 27 Jul 2026 07:21:26 +0100",
+      "description": "Atribuição do prémio a Lídia Jorge foi anunciada no passado mês de junho, pelo Governo austríaco, e a entrega vai realizar-se esta segunda-feira, numa cerimónia no âmbito do Festival de Salzburgo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29205040/47374120.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Irão diz ter intercetado seis navios no Estreito de Ormuz",
+      "link": "https://observador.pt/liveblogs/irao-diz-ter-intercetado-seis-navios-no-estreito-de-ormuz/",
+      "pubDate": "Mon, 27 Jul 2026 07:18:42 +0100",
+      "description": "Embarcações intercetadas na madrugada desta segunda-feira estariam a tentar passar por uma rota \"ilegal e insegura\" com os sistemas de navegação desligados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3701:2077:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/19184638/gettyimages-2269816920.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2456/",
+      "pubDate": "Mon, 27 Jul 2026 07:14:34 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,91 +35,71 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Petróleo cai 5% após pausa nos ataques contra o Irão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2361/",
-      "pubDate": "Mon, 27 Jul 2026 02:13:42 +0100",
-      "description": "Mercados reagem com otimismo à pausa nos bombardeamentos, após duas semanas de bombardeamentos. Ainda, Portugal continental sob aviso amarelo por causa do calor até terça-feira, exceto Faro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Sondagem DN: Maioria não confia no Ministro da Educação",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/sondagem-dn-maioria-nao-confia-no-ministro-da-educacao/",
+      "pubDate": "Mon, 27 Jul 2026 07:09:04 +0100",
+      "description": "DN: Mais de 70% dos inquiridos responsabilizam o ministro pelos problemas nos exames. Público: Suspeitas de corrupção na nomeação dos árbitros de futebol. JN: Empresas dependem do ensino profissional.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. 84 bombeiros feridos desde início do incêndio de Gironde",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2334/",
-      "pubDate": "Mon, 27 Jul 2026 01:13:28 +0100",
-      "description": "Não há civis feridos. Os incêndios em França já queimaram 115 mil hectares. Ainda neste jornal, Donald Trump nega que os Estados Unidos estejam a ficar sem munições na guerra contra o Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Incêndios. 325 mil pessoas retiradas em França e Espanha",
-      "link": "https://observador.pt/2026/07/27/incendios-mais-de-325-mil-pessoas-retiradas-em-franca-e-espanha/",
-      "pubDate": "Mon, 27 Jul 2026 00:33:32 +0100",
-      "description": "As previsões meteorológicas alertam para uma onda de calor no sudoeste francês, a partir de terça-feira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26235253/47523507.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Morreu o meu Maxi, um cão como nós (ou como eu)",
-      "link": "https://observador.pt/opiniao/morreu-o-meu-maxi-um-cao-como-nos-ou-como-eu/",
-      "pubDate": "Mon, 27 Jul 2026 00:30:30 +0100",
-      "description": "Este texto não é sobre os exames ou sobre Luís Neves – é sobre a morte de um cão, sobre como estabelecemos laços com os animais e sobre os excessos de um animalismo que faz equivaler humanos e animais",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
+      "title": "Gironda. Incêndio \"geralmente estável\" durante a noite",
+      "link": "https://observador.pt/liveblogs/incendio-em-gironda-permaneceu-geralmente-estavel-durante-a-noite-macron-reune-se-com-ministros-as-11h00/",
+      "pubDate": "Mon, 27 Jul 2026 07:00:37 +0100",
+      "description": "Presidente francês reune gabinete de crise durante a manhã de segunda-feira para continuar a planear resposta à crise. Sánchez vai visitar área afetada pelo incêndio de Vall d'Uixó (Castellón).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:336/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26142904/47520912.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Bombeiros portugueses mobilizados nos fogos de Ávila e Madrid",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-bombeiros-portugueses-mobilizados-nos-fogos-de-avila-e-madrid_a1_1756047",
-      "pubDate": "Mon, 27 Jul 2026 04:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Lucro da Galp dispara 44% para 812 milhões de euros no 1.º semestre",
+      "link": "https://www.rtp.pt/noticias/economia/lucro-da-galp-dispara-44-para-812-milhoes-de-euros-no-1o-semestre_n1756067",
+      "pubDate": "Mon, 27 Jul 2026 08:16:07 +0100",
+      "description": "O lucro da Galp aumentou 44%, para 812 milhões de euros, no primeiro semestre face ao período homólogo, impulsionado pelo aumento da produção de petróleo no Brasil e da cotação do Brent, comunicou hoje a petrolífera.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2eecfe50b3e48d1e15717455ad98b646?w=350&amp;q=50&amp;rect=0,267,4032,2211&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Petróleo cai mais de 5% após pausa nos ataques entre EUA e Irão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-petroleo-cai-mais-de-5-apos-pausa-nos-ataques-entre-eua-e-irao_a1_1756043",
-      "pubDate": "Mon, 27 Jul 2026 03:14:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Teerão diz ter interceptado seis navios em rota \"insegura\" no Estreito de Ormuz",
+      "link": "https://www.rtp.pt/noticias/economia/teerao-diz-ter-interceptado-seis-navios-em-rota-insegura-no-estreito-de-ormuz_n1756065",
+      "pubDate": "Mon, 27 Jul 2026 08:12:14 +0100",
+      "description": "As autoridades do Irão interceptaram hoje seis navios que pretendiam atravessar uma rota &quot;insegura&quot; do Estreito de Ormuz, segundo meios de comunicação oficiais, num contexto de impasse com os Estados Unidos sobre uma solução para esta via marítima estratégica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/69d292272fc747b94b5c1cc15d4809a0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h - 8 pessoas feridas numa manifestação em Palma de Maiorca",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-8-pessoas-feridas-numa-manifestacao-em-palma-de-maiorca_a1_1756041",
-      "pubDate": "Mon, 27 Jul 2026 02:27:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Primeiro-ministro britânico quer restringir acesso a prestações sociais",
+      "link": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-britanico-quer-restringir-acesso-a-prestacoes-sociais_n1756063",
+      "pubDate": "Mon, 27 Jul 2026 07:54:29 +0100",
+      "description": "O primeiro-ministro britânico, Andy Burnham, anunciou hoje uma reforma do sistema de apoio social, incluindo cuidados a pessoas dependentes e com deficiência, e admitiu endurecer as condições de acesso a prestações para conter o aumento da despesa pública.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/00/00cf875823d103f6c5dbe3fdbd7b67e9?w=350&amp;q=50&amp;rect=0,19,924,507&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "00h-Ensino Superior Artístico - Ministro vai receber hoje uma carta",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ensino-superior-artistico-ministro-vai-receber-hoje-uma-carta_a1_1756040",
-      "pubDate": "Mon, 27 Jul 2026 01:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Calor de volta. Portugal continental em perigo máximo ou muito elevado de incêndio",
+      "link": "https://www.rtp.pt/noticias/pais/calor-de-volta-portugal-continental-em-perigo-maximo-ou-muito-elevado-de-incendio_n1756062",
+      "pubDate": "Mon, 27 Jul 2026 07:51:42 +0100",
+      "description": "Vem aí outra vez muito calor. Hoje todos os distritos estão com aviso amarelo à exceção de Faro. O aviso entra em vigor às 9h da manhã e só deverá terminar amanhã às 18h00. Todos os distritos do norte e centro de Portugal continental e Faro apresentam esta segunda feira um risco máximo de incêndio, ",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cc2101b35c936b9bea5211a8071b40d?w=350&amp;q=50&amp;rect=0,137,1233,676&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "23h-França: situação dos incêndios continua muito desfavorável",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-franca-situacao-dos-incendios-continua-muito-desfavoravel_a1_1756038",
-      "pubDate": "Mon, 27 Jul 2026 00:27:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Teatros de ópera da Amazónia brasileira declarados Património Mundial pela UNESCO",
+      "link": "https://www.rtp.pt/noticias/cultura/teatros-de-opera-da-amazonia-brasileira-declarados-patrimonio-mundial-pela-unesco_n1756058",
+      "pubDate": "Mon, 27 Jul 2026 07:48:18 +0100",
+      "description": "A UNESCO declarou hoje Património Mundial os dois teatros luxuosos de ópera construídos no coração da Amazónia brasileira, com estilos arquitetónicos e materiais europeus, que simbolizam a riqueza da chamada Belle Époque na maior floresta tropical do mundo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2b8b395a6d16f975dc7979d650f6329f?w=350&amp;q=50&amp;rect=0,72,960,526&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preço do petróleo desce mais de 5% com perspetiva de acordo EUA-Irão",
-      "link": "https://www.noticiasaominuto.com/economia/3027711/preco-do-petroleo-desce-mais-de-5-com-perspetiva-de-acordo-eua-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-27 00:00:15",
+      "title": "Cláudio Ramos reage a polémica: \"A obesidade é uma doença\"",
+      "link": "https://www.noticiasaominuto.com/fama/3027761/claudio-ramos-reage-a-polemica-a-obesidade-e-uma-doenca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 07:20:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b2c90438fd2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDMwLCJjcm9wSGVpZ2h0IjoxMzY3LCJjcm9wWCI6NTksImNyb3BZIjoyNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjIxNCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a66f4ef71490.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjI2OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio em Soure dado como dominado às 22h49",
-      "link": "https://www.noticiasaominuto.com/pais/3027710/incendio-em-soure-dado-como-dominado-as-22h49#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:56:57",
+      "title": "Rafael Leão arrasado: \"Será mais cantor do que futebolista\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3027756/rafael-leao-que-va-para-o-fenerbahce-ninguem-sentira-a-falta-dele#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 07:15:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_596d01a8de445.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE5NDQsImNyb3BIZWlnaHQiOjM0NTYsImNyb3BYIjoxODcwLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a66ef98a2baf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjAsImNyb3BZIjoyMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Burnham receberá Zelensky na segunda-feira: \"Apoio continua inabalável\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3027707/burnham-recebera-zelensky-na-segunda-feira-apoio-continua-inabalavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:55:03",
+      "title": "Lucro da Galp dispara 44% para 812 milhões no 1.º semestre",
+      "link": "https://www.noticiasaominuto.com/economia/3027762/lucro-da-galp-dispara-44-para-812-milhoes-no-1-semestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 07:10:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5e6d8765f30.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcyOCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69faf2f114912.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo1MX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Inesperado: Juan Sebastián Verón pode regressar aos relvados aos 51 anos",
-      "link": "https://www.noticiasaominuto.com/desporto/3027709/inesperado-juan-sebastian-veron-pode-regressar-aos-relvados-aos-51-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:55:00",
+      "title": "País está em risco máximo ou muito elevado de incêndio. Máximas nos 40ºC",
+      "link": "https://www.noticiasaominuto.com/pais/3027753/pais-esta-em-risco-maximo-ou-muito-elevado-de-incendio-maximas-nos-40c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 07:07:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64fc90ee3144b.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688b15052a536.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTksImNyb3BIZWlnaHQiOjE3MDUsImNyb3BYIjoxMTE2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3027515/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-26 23:48:25",
+      "title": "Nova semana, outro agravamento: Onde é que os combustíveis custam menos?",
+      "link": "https://www.noticiasaominuto.com/economia/3026742/nova-semana-outro-agravamento-onde-e-que-os-combustiveis-custam-menos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-27 07:07:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a659f38d3443.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMyfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6325c91d26a.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google Maps traz muitas novidades. Navegação imersiva e velocímetro no Android Auto",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-maps-traz-muitas-novidades-navegacao-imersiva-e-velocimetro-no-android-auto/",
+      "pubDate": "Mon, 27 Jul 2026 06:00:29 +0000",
+      "description": "O Google Maps começou a expandir de forma mais abrangente a sua maior atualização do ano. O novo pacote de novidades inclui a navegação imersiva e a chegada do velocímetro em tempo real ao&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/02/google_maps_carros_personalizacao_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 26 Jul 2026 18:30:58 +0000",
       "description": "Apesar de ser uma empresa focada no lucro, a Tesla tem uma posição única face à partilha de conhecimento e de todas as soluções que cria. A reforçar este seu plano está uma novidade&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/tesla_model_x_model_s.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "SOKO 1977: investigação, política e terrorismo num só jogo",
-      "link": "https://pplware.sapo.pt/jogos/paintbucket-games-apresenta-soko-1977-anti-terror-task-force-um-jogo-de-investigacao-e-tensao-politica/",
-      "pubDate": "Sun, 26 Jul 2026 18:00:17 +0000",
-      "description": "A produtora de videojogos Paintbucket Games, sediada em Berlim, em parceria com a Agência Federal para a Educação Cívica da Alemanha, divulgou o primeiro trailer de SOKO 1977: Anti-Terror Task Force, o seu mais&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/SOKO1977_1.png"
     },
     {
       "sourceId": "autosport",
