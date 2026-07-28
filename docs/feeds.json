@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-27T23:33:01.547145+00:00",
+  "updated": "2026-07-28T02:08:47.097850+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Alentejo. Incêndio de Mourão em fase de resolução",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2362/",
+      "pubDate": "Tue, 28 Jul 2026 02:12:15 +0100",
+      "description": "Chamas consumiam zona de pinhal junto à barragem do Alqueva. Ainda, Missão Escola Pública denuncia que há escolas onde ainda não foi possível convocar professores para avaliar exames da 2.ª fase.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Chega pode chamar Costa e Montenegro à CPI a Luís Neves",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2335/",
+      "pubDate": "Tue, 28 Jul 2026 01:13:23 +0100",
+      "description": "André Ventura diz que a lista de audições ainda não está fechada e garante que serão chamados todos os que considerar envolvidos. Ainda, PSD e CDS travam audição de Luís Neves na Comissão Permanente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Episódio 6. Não se cumprimenta um traidor",
-      "link": "https://observador.pt/programas/a-vida-dupla-do-espio-traidor/episodio-6-nao-se-cumprimenta-um-traidor/",
-      "pubDate": "Tue, 28 Jul 2026 00:22:44 +0100",
-      "description": "Em tribunal, o espião defronta os antigos colegas do SIS. Para se defender, Carvalhão Gil ataca o sistema. Nunca vai admitir o crime de espionagem. O que não significa que não seja condenado por ele.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20154236/770-a-vida-dupla-do-espiao-traidor.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h 6 meses depois da tempestade Kristin falta mão de obra para a reconstrução",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-6-meses-depois-da-tempestade-kristin-falta-mao-de-obra-para-a-reconstrucao_a1_1756232",
+      "pubDate": "Tue, 28 Jul 2026 03:11:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os inimigos de Luís Neves",
-      "link": "https://observador.pt/opiniao/os-inimigos-de-luis-neves/",
-      "pubDate": "Tue, 28 Jul 2026 00:22:07 +0100",
-      "description": "O PS anda tão obcecado com a origem das notícias sobre Luís Neves que perdeu a noção do óbvio: está ao alcance do ministro esvaziar o caso. Só não o fez porque não quis. Ou porque não pode.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2049%3A2048%3Anowe%3A276%3A449%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170554%2Fmiguel-santos-carrapatoso.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Ministro da Educação já assinou o despacho para pagamento aos professores classificadores",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ministro-da-educacao-ja-assinou-o-despacho-para-pagamento-aos-professores-classificadores_a1_1756230",
+      "pubDate": "Tue, 28 Jul 2026 01:42:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Tue, 28 Jul 2026 00:21:47 +0100",
       "description": "Utentes com doenças graves do coração esperam, há mais de um ano, para colocar válvulas percutâneas, mais conhecidas como TAVI. São pessoas sem critério para cirurgia, mas que não têm outra opção de sobrevivência. Muitos nem sequer entram em lista de espera, também pela demora na realização de exame",
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/42/4250aa01936d2cbf6660ab26d6b969a1_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Israel libertou e enviou para Gaza 60 prisioneiros palestinianos",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-libertou-e-enviou-para-gaza-60-prisioneiros-palestinianos_n1756221",
-      "pubDate": "Tue, 28 Jul 2026 00:02:10 +0100",
-      "description": "As autoridades israelitas libertaram hoje 60 palestinianos detidos na Faixa de Gaza, o maior grupo de habitantes do enclave libertado desde o acordo de troca de reféns em outubro passado, informou o Comité Internacional da Cruz Vermelha (CICV).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump avisa Israel que ninguém lhe dita venda de caças F-35 à Turquia",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-avisa-israel-que-ninguem-lhe-dita-venda-de-cacas-f-35-a-turquia_n1756192",
-      "pubDate": "Tue, 28 Jul 2026 00:01:42 +0100",
-      "description": "O Presidente norte-americano avisou hoje que ninguém lhe dita as armas que os Estados Unidos vendem a outros países, sobre a oposição de Israel a uma transferência de caças F-35 para a Turquia.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
