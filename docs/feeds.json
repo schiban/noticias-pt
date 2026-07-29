@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-28T23:55:19.829854+00:00",
+  "updated": "2026-07-29T02:12:10.445074+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Incêndio na Guarda em fase de resolução",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2363/",
+      "pubDate": "Wed, 29 Jul 2026 02:20:26 +0100",
+      "description": "O fogo chegou a obrigar ao corte da A25 e da EN16. Ainda nesta edição, foi o diretor financeiro da PJ o responsável pela entrega do atrelado de droga à empresa do empreiteiro e amigo do Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Irão lança ataque contra base dos EUA na Jordânia",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2336/",
+      "pubDate": "Wed, 29 Jul 2026 01:16:00 +0100",
+      "description": "São os primeiros ataques iranianos desde a pausa anunciada por Trump. Pentágono diz ter interceptado todos os mísseis. Ainda neste jornal, Incêndio na Guarda praticamente dominado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,14 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2015%2F10%2Ffoto_hpsantos.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Christine, o Carro Assassino — Ligação Berlim",
-      "link": "https://observador.pt/opiniao/christine-o-carro-assassino-ligacao-berlim/",
-      "pubDate": "Wed, 29 Jul 2026 00:20:14 +0100",
-      "description": "É já dos anos 80 a história de Stephen King sobre um carro com personalidade demoníaca, mas o filme continua em exibição nas cidades europeias, como sucedeu no passado sábado na capital da Alemanha.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. Incêndio na Guarda \"praticamente dominado\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2375/",
-      "pubDate": "Wed, 29 Jul 2026 00:18:25 +0100",
-      "description": "Na sequência dos progressos no combate ao incêndio na Guarda, a autoestrada A25 foi reaberta e a Estrada Nacional 26 está prestes a reabrir. Ainda, IL pediu audiência ao Presidente da República.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Valpaços, a situação evolui de forma positiva, o incêndio passou de 5 para 4 frentes",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-valpacos-a-situacao-evolui-de-forma-positiva-o-incendio-passou-de-5-para-4-frentes_a1_1756431",
+      "pubDate": "Wed, 29 Jul 2026 03:08:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Tue, 28 Jul 2026 23:24:20 +0100",
       "description": "A Associação Portuguesa de Árbitros de Futebol apela ao esclarecimento claro &quot;do contexto, conteúdo e o motivo das declarações” do presidente da FPF, Pedro Proença, sobre a arbitragem, divulgadas em áudio.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f56739af591e4fa74e9a8141c37aab8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ventura queixa-se de ataque ao seu gabinete no Parlamento",
-      "link": "https://www.rtp.pt/noticias/opiniao/rita-rato-e-bernardo-blanco/ventura-queixa-se-de-ataque-ao-seu-gabinete-no-parlamento_1756415",
-      "pubDate": "Tue, 28 Jul 2026 23:18:12 +0100",
-      "description": "O vídeo foi publicado esta manhã pelo líder do Chega. Imagens de um gabinete com papéis espalhados pelo chão.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
