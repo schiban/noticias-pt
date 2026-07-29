@@ -1,13 +1,43 @@
 {
-  "updated": "2026-07-29T08:33:35.353793+00:00",
+  "updated": "2026-07-29T11:22:17.753666+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 9h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2424/",
-      "pubDate": "Wed, 29 Jul 2026 09:12:03 +0100",
+      "title": "Trompetista franco-libanês Ibrahim Maalouf atua em Lisboa",
+      "link": "https://observador.pt/2026/07/29/trompetista-franco-libanes-ibrahim-maalouf-atua-em-lisboa-em-junho-do-proximo-ano/",
+      "pubDate": "Wed, 29 Jul 2026 12:15:57 +0100",
+      "description": "Ibrahim Maalouf vai atuar no palco do Campo Pequeno a 4 de junho de 2027. Foi o primeiro músico libanês a ser nomeado para um Grammy e compôs mais de 15 obras para diferentes formações.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:127/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/04/30103204/12742521.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Apreendidos 61 quilos de cocaína no aeroporto de Lisboa",
+      "link": "https://observador.pt/2026/07/29/pj-apreende-61-quilos-de-cocaina-e-detem-duas-pessoas-no-aeroporto-de-lisboa/",
+      "pubDate": "Wed, 29 Jul 2026 12:15:47 +0100",
+      "description": "A cocaína era proveniente de um país da América Central. Caso chegasse aos circuitos ilícitos de distribuição, seria suficiente para a composição de pelo menos 610 mil doses individuais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:122/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/01142633/34719401.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "GNR detém três jovens por tráfico de droga no Algarve",
+      "link": "https://observador.pt/2026/07/29/gnr-detem-tres-jovens-por-trafico-de-droga-em-operacao-no-algarve/",
+      "pubDate": "Wed, 29 Jul 2026 12:15:33 +0100",
+      "description": "A operação teve lugar em Quarteira, Vilamoura e Ferreiras, na sequência de nove mandados de busca domiciliária e um de detenção fora de flagrante delito. Os jovens têm entre 17 anos e 19 anos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/11/08075257/GettyImages-1013441014.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 12h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2400/",
+      "pubDate": "Wed, 29 Jul 2026 12:13:55 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,141 +45,111 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Braga. Risco para ciclistas de rede ciclável em 42,9%",
-      "link": "https://observador.pt/2026/07/29/risco-elevado-ou-extremo-para-ciclistas-em-429-da-rede-ciclavel-de-braga/",
-      "pubDate": "Wed, 29 Jul 2026 09:11:20 +0100",
-      "description": "As colisões entre veículos e bicicletas são uma das principais preocupações. Cerca de 38% da rede tem níveis de risco elevado ou extremo neste tipo de conflito.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25104519/45481817.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O Chega está a ser vítima de si próprio ou do \"sistema\"?",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/o-chega-esta-a-ser-vitima-de-si-proprio-ou-do-sistema/",
-      "pubDate": "Wed, 29 Jul 2026 09:06:32 +0100",
-      "description": "O alegado assalto ao gabinete do Ventura só trouxe mais provas de que a política se tornou num \"vale tudo\". Já o governo está mais focado em segurar Luís Neves com todas as forças.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Tensão política no governo: aquece, arrefece ou... apodrece?",
-      "link": "https://observador.pt/programas/contra-corrente/tensao-politica-no-governo-aquece-arrefece-ou-apodrece/",
-      "pubDate": "Wed, 29 Jul 2026 08:32:25 +0100",
-      "description": "As explicações de Luís Neves ainda não chegaram, os problemas nos exames estão de partida, mas quando o país político e mediático fica preso nesta teia que tempo sobra para Montenegro... “trabalhar”?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O bullying político em Loures e o safari na televisão",
-      "link": "https://observador.pt/programas/momentos-de-glria/o-bullying-politico-em-loures-e-o-safari-na-televisao/",
-      "pubDate": "Wed, 29 Jul 2026 08:30:59 +0100",
-      "description": "Em Loures o bullying é rei e as rulotes são o novo hotel. Se a coisa arde, os jovens salvam o dia, e se quer ver bloquistas, o Rui Rocha leva-o num safari pela televisão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
+      "title": "Parpública. Estado vai alienar 17 empresas",
+      "link": "https://observador.pt/2026/07/29/miranda-sarmento-diz-que-saida-do-estado-de-17-empresas-clarifica-papel-da-parpublica/",
+      "pubDate": "Wed, 29 Jul 2026 12:06:11 +0100",
+      "description": "O Ministro das Finanças considera que o a alienação de 17 empresas vai clarificar o \"papel da Parpública\", numa reforma do Setor Empresarial do Estado que \"não se esgota na venda de participações\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29111218/47534877.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndio em Valpaços continua ativo e mobiliza centenas de operacionais",
-      "link": "https://www.rtp.pt/noticias/pais/incendio-em-valpacos-continua-ativo-e-mobiliza-centenas-de-operacionais_n1756474",
-      "pubDate": "Wed, 29 Jul 2026 10:24:39 +0100",
-      "description": "Em Valpaços, distrito de Vila Real, as chamas continuam a preocupar as autoridades. Um outro incêndio na Guarda foi já dominado, mas mais de 500 operacionais estão ainda no terreno para impedir que haja reacendimentos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d0/d0d7a4a260bb5de43d4b050560e52bb1?w=350&amp;q=50&amp;rect=0,26,2048,1123&amp;auto=format"
+      "title": "Taxa de desemprego mantém-se nos 5,6% em junho",
+      "link": "https://www.rtp.pt/noticias/economia/taxa-de-desemprego-mantem-se-nos-56-em-junho_n1756490",
+      "pubDate": "Wed, 29 Jul 2026 12:46:16 +0100",
+      "description": "A taxa de desemprego fixou-se em 5,6% em junho, igual ao valor registado em maio, mas inferior em 0,4 pontos percentuais (p.p.) em relação ao mesmo mês do ano passado, segundo dados provisórios hoje divulgados pelo INE.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cba0dcccb070ba82d2ce776287ac1970?w=350&amp;q=50&amp;rect=0,415,4898,2685&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Irão rejeita proposta do Omã de uma gestão regional do Estreito de Ormuz",
-      "link": "https://www.rtp.pt/noticias/mundo/irao-rejeita-proposta-do-oma-de-uma-gestao-regional-do-estreito-de-ormuz_n1756473",
-      "pubDate": "Wed, 29 Jul 2026 10:20:45 +0100",
-      "description": "O Irão descartou uma proposta de Omã para uma gestão conjunta regional do Estreito de Ormuz, deitando por terra a esperança de um rápido avanço diplomático no conflito.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0bc67997d1b1a8dd049ec17ed0d6d1ba?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Generalização de cuidados de longa duração poderá poupar 3,6 milhões de euros ao SNS",
+      "link": "https://www.rtp.pt/noticias/pais/generalizacao-de-cuidados-de-longa-duracao-podera-poupar-36-milhoes-de-euros-ao-sns_n1756488",
+      "pubDate": "Wed, 29 Jul 2026 12:37:29 +0100",
+      "description": "A generalização dos cuidados de longa duração em Portugal pode permitir uma poupança anual de 36 milhões de euros para o Serviço Nacional de Saúde.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/16/162573ebf3fcccc2fb70a42dfa96eb78?w=350&amp;q=50&amp;rect=0,0,1999,1096&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Linha SNS24. Disparou o número de chamadas que demoram mais de 30 minutos a ser atendidas",
-      "link": "https://www.rtp.pt/noticias/pais/linha-sns24-disparou-o-numero-de-chamadas-que-demoram-mais-de-30-minutos-a-ser-atendidas_n1756472",
-      "pubDate": "Wed, 29 Jul 2026 10:15:40 +0100",
-      "description": "Em 2025, mais de 466 mil chamadas para a Linha SNS24 tiveram de esperar mais de 30 minutos para serem atendidas. No ano anterior, o número tinha sido de 58 mil chamadas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/cab9f52da8bee529f098e27a9b7d833a?w=350&amp;q=50&amp;rect=0,0,4032,2211&amp;auto=format"
+      "title": "EUA e Arábia Saudita atacam grupos pró-iranianos no Iraque",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-e-arabia-saudita-atacam-grupos-pro-iranianos-no-iraque_n1756483",
+      "pubDate": "Wed, 29 Jul 2026 11:48:21 +0100",
+      "description": "Os EUA e a Arábia Saudita lançaram ataques conjuntos contra grupos apoiados pelo Irão no Iraque esta quarta-feira, em resposta a ataques contra alvos norte-americanos e instalações petrolíferas sauditas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3b5af5a7b785ed55e118513d2ca405c0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "08h Linha vermelha do metro de Lisboa continua interrompida",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-linha-vermelha-do-metro-de-lisboa-continua-interrompida_a1_1756467",
-      "pubDate": "Wed, 29 Jul 2026 09:40:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "BMW prevê eliminação de 8.000 postos de trabalho até ao final de 2027",
+      "link": "https://www.rtp.pt/noticias/economia/bmw-preve-eliminacao-de-8000-postos-de-trabalho-ate-ao-final-de-2027_n1756481",
+      "pubDate": "Wed, 29 Jul 2026 11:37:47 +0100",
+      "description": "A saída destes milhares de trabalhadores vai permitir à BMW uma redução significativa dos custos a partir de 2028. A gigante da indústria automóvel tem 150.000 funcionários por todo o mundo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/36/3694ac6cd99b32837e004f972a0a0fa8?w=350&amp;q=50&amp;rect=2,0,8188,4489&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Emigrantes portugueses afetados pelos fogos em França",
-      "link": "https://www.rtp.pt/noticias/mundo/emigrantes-portugueses-afetados-pelos-fogos-em-franca_v1756455",
-      "pubDate": "Wed, 29 Jul 2026 09:15:32 +0100",
-      "description": "Para muitos emigrantes portugueses, este está a ser um verão para mais tarde recordar, pelas piores razões.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/36/36284dee0319078dfdf3165f1b1d7f8e_N.jpg?"
+      "title": "Reservas de sangue em baixo. Federação aponta culpas ao Ministério da Saúde",
+      "link": "https://www.rtp.pt/noticias/pais/reservas-de-sangue-em-baixo-federacao-aponta-culpas-ao-ministerio-da-saude_n1756478",
+      "pubDate": "Wed, 29 Jul 2026 11:23:45 +0100",
+      "description": "A Federação Portuguesa de Dadores Benévolos de Sangue está preocupada com a queda do número de pessoas que vão dar sangue, sobretudo durante o verão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5c2fddc0fed2e28f43798eba8895702?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: ex-Benfica marca e Neymar salta do banco na vitória do Santos",
-      "link": "https://maisfutebol.iol.pt/sul-americana/santos/video-ex-benfica-marca-e-neymar-salta-do-banco-na-vitoria-do-santos",
-      "pubDate": "Wed, 29 Jul 2026 08:45:38 +0100",
-      "description": "Formação brasileira garantiu a passagem aos «oitavos» da Sul-Americana",
-      "thumbnail": "https://img.iol.pt/image/id/6a69a8b0d34e511da0b30535/250"
+      "title": "A gravidade (e a responsabilidade) dos áudios vazados",
+      "link": "https://maisfutebol.iol.pt/opiniao/falar-de-bola/a-gravidade-e-a-responsabilidade-dos-audios-vazados",
+      "pubDate": "Wed, 29 Jul 2026 11:54:00 +0100",
+      "description": "«DRIBLE DA VACA» - Opinião de Bruno Andrade",
+      "thumbnail": "https://img.iol.pt/image/id/6a4e0ca8d34e511da0b2bd45/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/desporto-hoje/hoje-vai-ser-noticia-178530840",
-      "pubDate": "Wed, 29 Jul 2026 08:00:00 +0100",
-      "description": "Decisões na Liga dos Campeões e Liga Conferência e ainda antevisões de Benfica e Sp. Braga",
-      "thumbnail": "https://img.iol.pt/image/id/6345e9eb0cf2ea4f0a60cfa8/250"
+      "title": "Leandro Barreiro de regresso aos treinos antes da receção ao St. Gallen",
+      "link": "https://maisfutebol.iol.pt/benfica/liga-europa/leandro-barreiro-de-regresso-aos-treinos-antes-da-rececao-ao-st-gallen",
+      "pubDate": "Wed, 29 Jul 2026 11:54:00 +0100",
+      "description": "Médio recuperou de uma infeção respiratória e entra no lote de disponíveis de Marco Silva, que contou também com o regresso dos «mundialistas»",
+      "thumbnail": "https://img.iol.pt/image/id/693e9dd5d34e2bd5c6d51512/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Wed, 29 Jul 2026 00:17:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "title": "Benfica: Jaden Umeh operado com sucesso à coxa direita",
+      "link": "https://maisfutebol.iol.pt/benfica/jaden-umeh/benfica-jaden-umeh-operado-com-sucesso-a-coxa-direita",
+      "pubDate": "Wed, 29 Jul 2026 11:43:00 +0100",
+      "description": "Extremo sofreu uma lesão muscular no encontro entre as águias e o Flamengo",
+      "thumbnail": "https://img.iol.pt/image/id/6a53e44ed34ef04b4f3f6087/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«As coisas nunca foram fáceis para o Gonçalo Ramos, nem sempre foi o ‘número um’ na posição dele»",
-      "link": "https://maisfutebol.iol.pt/entrevista/alexandre-penetra/as-coisas-nunca-foram-faceis-para-o-goncalo-ramos-nem-sempre-foi-o-numero-um-na-posicao-dele",
-      "pubDate": "Wed, 29 Jul 2026 00:15:00 +0100",
-      "description": "Na parte mais intimista da entrevista ao Maisfutebol, Alexandre Penetra elege os companheiros de equipa que mais o impressionaram e recorda o papel desempenhado pelo pai de João Félix no início da sua aventura no futebol - PARTE III",
-      "thumbnail": "https://img.iol.pt/image/id/6a67a183d34ed0733ba7ca5a/250"
+      "title": "Andebol: Marina Teixeira assume comando da equipa feminina do Benfica",
+      "link": "https://maisfutebol.iol.pt/andebol/benfica/andebol-marina-teixeira-assume-comando-da-equipa-feminina-do-benfica",
+      "pubDate": "Wed, 29 Jul 2026 11:42:00 +0100",
+      "description": "Ex-adjunta e team manager sucede Luís Monteiro",
+      "thumbnail": "https://img.iol.pt/image/id/6a69cd5ad34e511da0b305fb/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Penetra: «Não me surpreendeu o que Farioli conseguiu fazer no FC Porto»",
-      "link": "https://maisfutebol.iol.pt/entrevista/alexandre-penetra/penetra-nao-me-surpreendeu-o-que-farioli-conseguiu-fazer-no-fc-porto",
-      "pubDate": "Wed, 29 Jul 2026 00:12:00 +0100",
-      "description": "A época que o atual treinador dos dragões passou no Ajax bastou para o defesa do AZ ficar convencido da qualidade do italiano, comprovada com a conquista da Liga portuguesa na temporada passada - PARTE II",
-      "thumbnail": "https://img.iol.pt/image/id/6a679e08d34e511da0b3013a/250"
+      "title": "Futsal: FC Porto contrata Rafael Lara ao Modicus",
+      "link": "https://maisfutebol.iol.pt/transferencias/rafael-lara/futsal-fc-porto-contrata-rafael-lara-ao-modicus",
+      "pubDate": "Wed, 29 Jul 2026 11:20:00 +0100",
+      "description": "Ala brasileiro de 27 anos conta com vasta experiência em Portugal",
+      "thumbnail": "https://img.iol.pt/image/id/6a69d015d34e511da0b30610/250"
     },
     {
       "sourceId": "sapo",
@@ -165,6 +165,26 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Ministério da Educação assinou contratos de 2,65 milhões com consultora antes e durante o caos nos exames",
+      "link": "https://executivedigest.sapo.pt/ministerio-da-educacao-assinou-contratos-de-265-milhoes-com-consultora-antes-e-durante-o-caos-nos-exames/",
+      "pubDate": "Wed, 29 Jul 2026 10:25:26 +0000",
+      "description": "O Ministério da Educação celebrou, ao longo de 2026, quatro contratos públicos com a consultora Deloitte Technology, num valor global de 2,65 milhões de euros.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=471&W=840&crop=center&delay_optim=1&epic=V2%3Aok9rqr9xUcKhhrbXs8awUpKXQq10SapmHbojStzJiQqTzQ0hNK2gg1SUPfD40pZ7OSVPKCeE4O6nxu5j8%2FNiFDCgCh6dZoR9giVT7lAeCK%2Fc5RaH3O5hyCoKIZoQH2eX"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Linha SNS 24 demorou mais de 30 minutos a atender mais de 466 mil chamadas",
+      "link": "https://sapo.pt/artigo/linha-sns-24-demorou-mais-de-30-minutos-a-atender-mais-de-466-mil-chamadas-6a69aff9f7d5ac96a6e1349c",
+      "pubDate": "Wed, 29 Jul 2026 10:14:37 +0000",
+      "description": "O número de pessoas que chegou às urgências referenciadas pela linha SNS24 subiu entre 2024 e o ano passado, com o alargamento do projeto \"Ligue Antes, Salve Vidas\". Mas a capacidade de resposta não acompanhou este aumento.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A5BzGx8u0tiIWlbnkIMdpQwEuxmbpa0KWhp4F1K7TkQj%2FbXBEwwNIAP%2FxDU64kb86erBjwgV75XwbWO6PbkHvt%2FJ2Hgqxa384P4ZAWsVqd41L9F%2BePhUZEmfk1qI8b7EU"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Utentes exigem travão à linha circular do Metro de Lisboa: petição chega hoje à Câmara de Lisboa com mais de 1.300 assinaturas",
       "link": "https://executivedigest.sapo.pt/utentes-exigem-travao-a-linha-circular-do-metro-de-lisboa-peticao-chega-hoje-a-camara-de-lisboa-com-mais-de-1-300-assinaturas/",
       "pubDate": "Wed, 29 Jul 2026 06:35:05 +0000",
@@ -175,131 +195,151 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Governo prepara OE2027 desde fevereiro e mantém estratégia de excluir “cavaleiros orçamentais” para facilitar aprovação",
-      "link": "https://eco.sapo.pt/2026/07/29/governo-prepara-oe2027-desde-fevereiro-e-mantem-estrategia-de-excluir-cavaleiros-orcamentais-para-facilitar-aprovacao/",
-      "pubDate": "Wed, 29 Jul 2026 06:29:27 +0000",
-      "description": "O Governo começou a preparar o OE2027 em fevereiro e vai voltar a apresentar um documento sem \"cavaleiros orçamentais\", para facilitar a viabilização no Parlamento.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AbPmQdPCWeZo%2FL1Ehx6nk8FpWmTzcjra4RT0CjicF%2B5xVrZB3pz7AYJzcaQxRWJ%2FJZq28NxVFENR%2BRDQFnS7SbMGKrzFiUavrQoJRm8phyxvx6kW2tVlMnwXTji0mvX4I"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Dominado incêndio na Guarda",
-      "link": "https://sapo.pt/artigo/dominado-incendio-na-guarda-6a699163f7d5ac96a6de267b",
-      "pubDate": "Wed, 29 Jul 2026 06:29:27 +0000",
-      "description": "A A25 e a EN16 já foram reabertas, após os cortes devido ao incêndio. Durante a madrugada estiveram no terreno mais de 600 operacionais auxiliados por 188 viaturas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ANnzrHiVrOEvUtmpAMpibUGTfpaLkhNFRJCYvcBG9Sf6zPnyam2q7JZCLlx7K%2F0ePs0N5eHY8XkQIxV%2B4YI%2FXIqZaPd7IBNqNZhzikn7OeiqHS1QVjBgxYKy6gb1Eqd3R"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Há uma rede subterrânea com 90km que leva frio e calor aos animais do Oceanário",
-      "link": "https://jornaleconomico.sapo.pt/noticias/ha-uma-rede-subterranea-com-mais-de-80km-que-leva-o-frio-e-calor-aos-animais-do-oceanario/",
-      "pubDate": "Wed, 29 Jul 2026 06:29:27 +0000",
-      "description": "Rede de frio e calor do Parque das Nações continua a ser a única deste género no país e serve 2.000 clientes, incluindo o hospital da CUF, a FIL ou o centro comercial Vasco da Gama. Empresa gestora vai investir 18 milhões na renovação e...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3At2d%2BGS7TQvge99ZQKk1MFPtmc9EFJv%2BABCXwE0dMp9IeaZVQD8Q%2FNQVtOPceVIrzwbGYVI2%2FwYs5W4ieEv9VjFY34dqzFPzVXRbrKb0BAD%2Bjb7xOVYvnIJWq%2FY6cAx76"
+      "title": "CPI: Chega quer questionar Luís Neves sobre obras, desvio de bens apreendidos e conflito de interesses na PJ",
+      "link": "https://sapo.pt/artigo/cpi-chega-quer-questionar-luis-neves-sobre-obras-desvio-de-bens-apreendidos-e-conflito-de-interesses-na-pj-6a69cbe7f7d5ac96a6e5bf1a",
+      "pubDate": "Wed, 29 Jul 2026 10:14:37 +0000",
+      "description": "A Comissão Parlamentar de Inquérito (CPI) a Luís Neves deverá incidir sobretudo nas suspeitas relacionadas com a relação entre a empresa ConstruBarcelos e o então diretor da Polícia Judiciária.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AFf6SYT%2FAWVb1hu%2FucggsFtVW4yPdeZtNekmPX6Kr8QiP05%2BlVbK5kM0Bbv4jydTQKj8z%2B%2F%2B7L%2FUbmBb50TyUgX1rTFBsQnfk50%2F2Lndj0SRnpwDo3PT0BdmMRFyarZjo"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dinheiro físico a circular em Moçambique dispara em maio",
-      "link": "https://www.noticiasaominuto.com/economia/3028944/dinheiro-fisico-a-circular-em-mocambique-dispara-em-maio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-29 09:27:20",
+      "title": "Zonas de Manteigas sem água de noite para recuperar nível de reservatório",
+      "link": "https://www.noticiasaominuto.com/pais/3029060/zonas-de-manteigas-sem-agua-de-noite-para-recuperar-nivel-de-reservatorio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-29 12:15:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/23939092.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a502795aa1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ataques causam pelo menos 20 mortos em bases pró-Irão no Iraque",
-      "link": "https://www.noticiasaominuto.com/mundo/3028933/ataques-causam-pelo-menos-20-mortos-em-bases-pro-irao-no-iraque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-29 09:16:23",
+      "title": "\"Homem leva carro à revisão\"? Susana Dias Ramos reage e lamenta mentiras",
+      "link": "https://www.noticiasaominuto.com/fama/3029034/homem-leva-carro-a-revisao-susana-dias-ramos-reage-e-lamenta-mentiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-29 12:13:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5e1519b30ab68.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE3LCJjcm9wSGVpZ2h0IjoxNDE2LCJjcm9wWCI6MTgsImNyb3BZIjo1OH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69dc4a981d4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTY3LCJjcm9wSGVpZ2h0Ijo2NTcsImNyb3BYIjoxOCwiY3JvcFkiOjU0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM1LCJjcm9wSGVpZ2h0IjoxNDg1LCJjcm9wWCI6MjAwLCJjcm9wWSI6MjAxfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O perigo que muitos desconhecem ao entrar no carro durante o verão",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3028939/o-perigo-que-muitos-desconhecem-ao-entrar-no-carro-durante-o-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-29 09:15:45",
+      "title": "Dona da Perfumes e Companhia já notificou AdC da compra da Primor",
+      "link": "https://www.noticiasaominuto.com/economia/3028073/dona-da-perfumes-e-companhia-ja-notificou-adc-da-compra-da-primor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-29 12:12:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69b45cd6764.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTg1LCJjcm9wSGVpZ2h0IjoxMjI5LCJjcm9wWCI6Mzc1LCJjcm9wWSI6MjUxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MTEsImNyb3BIZWlnaHQiOjE2MjAsImNyb3BYIjoxMDk3LCJjcm9wWSI6ODF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_670d56c6a963b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atenção, Benfica. Riscado de Mourinho estabelece preferência no mercado",
-      "link": "https://www.noticiasaominuto.com/desporto/3028931/atencao-benfica-riscado-de-mourinho-estabelece-preferencia-no-mercado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-29 09:11:32",
+      "title": "Brasil. Tornado avistado no Rio Grande do Sul: \"Parecia coisa de filme\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3029059/brasil-tornado-avistado-no-rio-grande-do-sul-parecia-coisa-de-filme#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-29 12:12:06",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69afa7502d5.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69df8a050da.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Embalagens Volta: Depósito de 10 cêntimos é um \"imposto disfarçado\"?",
-      "link": "https://www.noticiasaominuto.com/economia/3028941/embalagens-volta-deposito-de-10-centimos-e-um-imposto-disfarcado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-29 09:10:00",
+      "title": "FIFA responde à IFAB após polémica com João Pinheiro",
+      "link": "https://www.noticiasaominuto.com/desporto/3029051/fifa-responde-a-ifab-apos-polemica-com-joao-pinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-07-29 12:07:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d3b6d283913.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a532cded3c2e.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Tal como a Starlink, a Amazon também quer ligar smartphones a partir do espaço",
-      "link": "https://pplware.sapo.pt/internet/tal-como-a-starlink-a-amazon-tambem-quer-ligar-smartphones-a-partir-do-espaco/",
-      "pubDate": "Wed, 29 Jul 2026 08:30:40 +0000",
-      "description": "A Amazon pretende ligar dispositivos móveis a partir do espaço, graças a uma nova constelação de 5.105 satélites. O objetivo da gigante do comércio eletrónico: possibilitar a conectividade mesmo em áreas remotas. Segue assim&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/amazon_leo_1.jpg"
+      "title": "Bandeira roxa na praia? A tecnologia e os sistemas de vigilância explicam este alerta",
+      "link": "https://pplware.sapo.pt/informacao/bandeira-roxa-na-praia-a-tecnologia-e-os-sistemas-de-vigilancia-explicam-este-alerta/",
+      "pubDate": "Wed, 29 Jul 2026 10:57:22 +0000",
+      "description": "A época balnear está repleta de sinais que ajudam a proteger os banhistas no seu tempo de praia. Entre as conhecidas bandeiras verde, amarela e vermelha, existe uma menos frequente, mas igualmente importante: a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/bandeira_roxa00.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Microsoft põe anúncios no Office que não se podem tirar, mesmo pagando",
-      "link": "https://pplware.sapo.pt/microsoft/microsoft-poe-anuncios-no-office-que-nao-se-podem-tirar-mesmo-pagando/",
-      "pubDate": "Wed, 29 Jul 2026 07:47:51 +0000",
-      "description": "A Microsoft volta a estar no centro da polémica devido à exibição de anúncios no Microsoft 365. Utilizadores do Word, Excel e PowerPoint relatam publicidade a promover a atualização para planos superiores. A situação&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/11/microsoft_office_1.jpg"
+      "title": "Se existe Bluetooth, porque é que os comandos continuam a precisar de infravermelhos?",
+      "link": "https://pplware.sapo.pt/gadgets/se-existe-bluetooth-porque-e-que-os-comandos-continuam-a-precisar-de-infravermelhos/",
+      "pubDate": "Wed, 29 Jul 2026 10:30:16 +0000",
+      "description": "Apesar do avanço tecnológico e da massificação do Bluetooth, a tecnologia de infravermelhos continua a ser a base dos comandos de televisão modernos. Mas por que razão é que esta solução com décadas de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/hisense_32s5q_13.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Carros elétricos ultrapassaram vendas de veículos a gasolina e a gasóleo na Europa",
-      "link": "https://pplware.sapo.pt/motores/carros-eletricos-ultrapassaram-vendas-de-veiculos-a-gasolina-e-a-gasoleo-na-europa/",
-      "pubDate": "Wed, 29 Jul 2026 07:00:39 +0000",
-      "description": "Com o mercado dos elétrico sem crescimento, há surpresas que são quase óbvias. Ainda assim, um feito histórico ocorreu no mercado automóvel europeu. Os veículos elétricos e híbridos ultrapassaram os modelos a gasolina e&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/carro_eletrico_eu01.jpg"
+      "title": "UE obriga a carregadores elétricos a cada 60 km: o que mais muda nas estradas?",
+      "link": "https://pplware.sapo.pt/motores/ue-obriga-a-carregadores-eletricos-a-cada-60-km-o-que-mais-muda-nas-estradas-europeias/",
+      "pubDate": "Wed, 29 Jul 2026 10:00:59 +0000",
+      "description": "O Parlamento Europeu recordou as novas regras que definem onde devem ser instalados pontos de carregamento elétrico e abastecimento de hidrogénio nas principais vias da União Europeia (UE). O que muda nas estradas europeias?&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/carregar_rapido00.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "WhatsApp Web: já pode fazer chamadas de voz e vídeo diretamente no browser",
-      "link": "https://pplware.sapo.pt/browsers/whatsapp-web-ja-pode-fazer-chamadas-de-voz-e-video-diretamente-no-browser/",
-      "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
-      "description": "A conhecida plataforma de comunicação WhatsApp introduziu um conjunto de atualizações focadas em expandir as chamadas de áudio e vídeo nos PCs. A novidade maior é a integração nativa das chamadas na versão Web,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/whatsapp_browser.jpg"
+      "title": "Claude da Anthropic expôs conversas privadas no Google, incluindo chaves de criptomoeda",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/claude-da-anthropic-expos-conversas-privadas-no-google-incluindo-chaves-de-criptomoeda/",
+      "pubDate": "Wed, 29 Jul 2026 09:30:22 +0000",
+      "description": "Centenas de conversas que utilizadores pensavam ser privadas com o chatbot Claude, da Anthropic, foram encontradas indexadas no Google durante este fim de semana. Entre o conteúdo exposto estavam desde chaves de carteiras de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/claude-google-chatbot-conversas-privadas03.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Cientistas desenvolvem “quimioterapia programável” para destruir ADN do tumor",
-      "link": "https://pplware.sapo.pt/ciencia/cientistas-desenvolvem-quimioterapia-programavel-que-so-e-ativada-junto-ao-tumor/",
-      "pubDate": "Tue, 28 Jul 2026 21:30:01 +0000",
-      "description": "A nanotecnologia baseada em ADN poderá tornar os tratamentos contra o cancro mais precisos e com menos efeitos secundários. Está a chegar a era da quimioterapia programável. A quimioterapia continua a ser uma das&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/quimioterapia_programavel01.webp"
+      "title": "Há um novo tipo de ar condicionado a caminho da Europa",
+      "link": "https://pplware.sapo.pt/high-tech/ha-um-novo-tipo-de-ar-condicionado-a-caminho-da-europa/",
+      "pubDate": "Wed, 29 Jul 2026 09:00:45 +0000",
+      "description": "Startups europeias estão a testar sistemas de arrefecimento que dispensam por completo os gases refrigerantes tradicionais, apostando em ligas metálicas, campos magnéticos e pressão para retirar calor do ar. A tecnologia ainda está a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/08/ar_condicionado-1.jpg"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Ralf Schumacher queria uma penalização mais dura para Carlos Sainz",
+      "link": "https://www.autosport.pt/formula1/f1-ralf-schumacher-queria-uma-penalizacao-mais-dura-para-carlos-sainz/",
+      "pubDate": "Wed, 29 Jul 2026 10:27:10 +0000",
+      "description": "Ralf Schumacher criticou veementemente Carlos Sainz após o Grande Prémio da Hungria, defendendo que a colisão do piloto da Williams com Oscar Piastri foi suficientemente grave para justificar uma punição adicional na próxima corrida, em Zandvoort. O antigo piloto de Fórmula 1 considera insuficiente ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPR, Rali da Madeira: José Pedro Fontes quer bom resultado na competição nacional",
+      "link": "https://www.autosport.pt/ralis/cpr-rali-da-madeira-jose-pedro-fontes-quer-bom-resultado-na-competicao-nacional/",
+      "pubDate": "Wed, 29 Jul 2026 09:32:00 +0000",
+      "description": "José Pedro Fontes e Inês Ponte disputam o Rali da Madeira, quinta ronda do Campeonato de Portugal de Ralis 2026. A dupla ocupa atualmente o terceiro lugar do campeonato, ao volante de um Lancia Ypsilon Rally2 HF Integrale, após um início de temporada de evolução constante e competitividade crescente",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WEC: Ferrari e Peugeot testaram as suas novas máquinas",
+      "link": "https://www.autosport.pt/velocidade/wec-ferrari-e-peugeot-testaram-as-suas-novas-maquinas/",
+      "pubDate": "Wed, 29 Jul 2026 09:00:00 +0000",
+      "description": "Ainda vamos a meio da temporada 2026 e já vimos alguns vislumbres de 2027, graças à Ferrari e à Peugeot. Quatro pilotos da Ferrari realizaram testes iniciais em Monza a atualizações que poderão constituir a base de uma versão Evo do 499P para a próxima temporada do FIA World Endurance Championship, ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Laurent Mekies abriu porta à continuidade de Isack Hadjar",
+      "link": "https://www.autosport.pt/formula1/f1-laurent-mekies-abriu-porta-a-continuidade-de-isack-hadjar/",
+      "pubDate": "Wed, 29 Jul 2026 08:25:00 +0000",
+      "description": "A Red Bull poderá anunciar em breve a continuidade de Isack Hadjar na equipa. Apesar das dificuldades que a equipa tem encontrado ao longo da temporada, Hadjar tem conseguido dar resposta positiva e tem feito o suficiente para convencer os responsáveis da equipa. O segundo lugar na equipa tem sido a",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/automais/nissan-leaf-nismo-mais-desportivo-na-forma/",
       "pubDate": "Tue, 28 Jul 2026 17:15:00 +0000",
       "description": "A Nissan reforçou a gama do Leaf com a introdução de uma versão de inspiração desportiva assinada pela Nismo, a divisão de competição da marca nipónica. O modelo apresentado no Japão, apesar do desenho mais “agressivo” e das melhorias no chassis, mantém as potências das demais unidades da terceira g",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Martin Brundle considera a penalização de Lewis Hamilton dura e dolorosa",
-      "link": "https://www.autosport.pt/formula1/f1-martin-brundle-considera-a-penalizacao-de-lewis-hamilton-dura-e-dolorosa/",
-      "pubDate": "Tue, 28 Jul 2026 16:30:39 +0000",
-      "description": "Martin Brundle classificou como &#8220;dura&#8221; a penalização aplicada a Lewis Hamilton no Grande Prémio da Hungria, apesar de reconhecer que as regras foram corretamente aplicadas. Hamilton recebeu uma penalização de cinco segundos perto do final da corrida, por excesso de velocidade na pit lane",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Pirelli já escolheu pneus para Países Baixos, Espanha e Itália",
-      "link": "https://www.autosport.pt/formula1/f1-pirelli-ja-escolheu-pneus-para-paises-baixos-espanha-e-italia/",
-      "pubDate": "Tue, 28 Jul 2026 15:45:00 +0000",
-      "description": "A Pirelli informou hoje as equipas sobre a seleção de compostos de pneus para as próximas três rondas do campeonato de Fórmula 1. A gama média, composta pelos C2, C3 e C4, será utilizada nos Grandes Prémios dos Países Baixos e de Espanha, enquanto o Grande Prémio de Itália contará com o trio mais ma",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Aston Martin Vanquish 25: só 50 unidades!",
-      "link": "https://www.autosport.pt/automais/aston-martin-vanquish-25-so-50-unidades/",
-      "pubDate": "Tue, 28 Jul 2026 15:00:00 +0000",
-      "description": "Por Pedro Junceiro A Aston Martin anunciou a produção de versão ainda mais exclusiva do Vanquish, denominada 25, que é limitada a apenas 50 unidades e comemora os 25 anos do superdesportivo e a história dos motores V12 da marca britânica. Esta edição especial afirma-se como a expressão máxima do mod",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Receita da corrida de Speang reverterá para o Bahrein",
-      "link": "https://www.autosport.pt/formula1/f1-receita-da-corrida-de-speang-revertera-para-o-bahrein/",
-      "pubDate": "Tue, 28 Jul 2026 14:45:00 +0000",
-      "description": "O Circuito Internacional de Sepang confirmou que toda a receita das vendas de bilhetes reverterá para o Bahrein, no âmbito do regresso do traçado ao calendário de Fórmula 1 em outubro. A FIA anunciou no fim de semana anterior que o cancelado Grande Prémio do Bahrein será remarcado para o fim de sema",
       "thumbnail": ""
     }
   ]
