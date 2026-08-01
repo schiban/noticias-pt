@@ -1,63 +1,83 @@
 {
-  "updated": "2026-08-01T06:36:07.352425+00:00",
+  "updated": "2026-08-01T09:02:29.804275+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "7h. Ataque russo a Kiev. Sobe para 9 o número de mortos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2461/",
-      "pubDate": "Sat, 01 Aug 2026 07:14:17 +0100",
-      "description": "Este é já o segundo ataque de Moscovo à capital ucraniana em apenas 48 horas. Ainda, está dominado o incêndio em Valpaços. E UE convoca reunião de emergência sobre crise migratória em Ceuta.",
+      "title": "Maia desinfesta habitação que originou praga de pulgas",
+      "link": "https://observador.pt/2026/08/01/camara-da-maia-faz-desinfestacao-da-habitacao-que-esteve-na-origem-de-praga-de-pulgas/",
+      "pubDate": "Sat, 01 Aug 2026 10:02:02 +0100",
+      "description": "A limpeza, higienização e desinfestação da habitação em Águas Santas, na Maia, que esteve na origem de uma praga de pulgas vai ser realizada este sábado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011818/arquivo-diogofariareis-9052-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9 mortos em Kiev após ataque russo com mísseis balísticos",
+      "link": "https://observador.pt/liveblogs/nove-mortos-em-kiev-devido-a-ataque-russo-com-misseis-balisticos/",
+      "pubDate": "Sat, 01 Aug 2026 09:35:00 +0100",
+      "description": "9 mortos, 23 feridos e um incêndio num edifício de seis andares na capital ucraniana, em cenário de escassez de mísseis Patriot americanos. Kuwait responde a ataques \"hostis\" com drones iranianos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/01060743/42079095.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. Antevisão Supertaça. Francesco Farioli elogia Torreense",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2428/",
+      "pubDate": "Sat, 01 Aug 2026 09:12:55 +0100",
+      "description": "Treinador do Porto garante que a equipa está focada em vencer, no jogo que marca o arranque oficial da temporada 2026/2027. Ainda, crise migratória em Ceuta obriga UE a convocar reunião de emergência.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "6h. Incêndio em Valpaços entra em fase de resolução",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2451/",
-      "pubDate": "Sat, 01 Aug 2026 06:16:33 +0100",
-      "description": "Ainda assim no terreno estão mais de 800 operacionais. Ainda neste jornal, O FC Porto e o Torreense jogam hoje a taça Cândido de Oliveira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Controlo da fronteira marítima reforçado no Algarve",
+      "link": "https://observador.pt/liveblogs/policia-maritima-e-marinha-reforcam-controlo-da-fronteira-no-algarve/",
+      "pubDate": "Sat, 01 Aug 2026 09:07:12 +0100",
+      "description": "A Polícia Marítima e a Marinha estão a reforçar o controlo da fronteira marítima ao longo da orla costeira do Algarve, após a entrada de migrantes marroquinos em Ceuta. 67 morreram no percurso.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:318/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31225734/jporfirio-reportagem-ceuta-migrantes-31-07-2026-dia-01-04-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Europa \"aperta a malha\" à segurança da IA",
-      "link": "https://observador.pt/programas/m-quinas-que-pensam/europa-aperta-a-malha-a-seguranca-da-ia/",
-      "pubDate": "Sat, 01 Aug 2026 06:06:33 +0100",
-      "description": "Nova legislação de segurança de IA entra em vigor este mês. A Europa quer mais atenção e segurança em tudo o que envolva inteligência Artificial. O que muda com este novo AI Act que mexe com Portugal?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Canções que descobrimos em julho",
-      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-julho-3/",
-      "pubDate": "Sat, 01 Aug 2026 06:04:03 +0100",
-      "description": "Julho despede-se com novas obsessões. Juntamos as novidades de Panda Bear, Leon Bridges e Glen Hansard aos sons de Sarah Negra e Rislene num guia essencial das canções editadas no último mês.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Ceuta: Conselho da UE convoca reunião hoje",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2358/",
-      "pubDate": "Sat, 01 Aug 2026 04:15:59 +0100",
-      "description": "O objetivo é debater e gerir esta crise migratória no enclave espanhol. Ainda neste jornal, quatro mortos e mais de dez feridos na sequência de um ataque russo em Kiev.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Incêndio de Valpaços dado como dominado pela Proteção Civil",
+      "link": "https://observador.pt/liveblogs/incendio-de-valpacos-dado-como-dominado-pela-protecao-civil/",
+      "pubDate": "Sat, 01 Aug 2026 08:54:29 +0100",
+      "description": "O fogo que deflagrou em Valpaços na terça-feira e atingiu Mirandela, Vinhais e Macedo de Cavaleiros foi dado como dominado. Faro com aviso amarelo devido às temperaturas elevadas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1136:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100037/gco-incendio-vouzela-4-julho-2026-010.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "7h Incêndio de Valpaços dominado. Meios aéreos voltam a atuar esta manhã",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-de-valpacos-dominado-meios-aereos-voltam-a-atuar-esta-manha_a1_1757147",
-      "pubDate": "Sat, 01 Aug 2026 08:28:02 +0100",
+      "title": "Projetil \"não identificado\" atinge mais um petroleiro ao largo de Omã",
+      "link": "https://www.rtp.pt/noticias/mundo/projetil-nao-identificado-atinge-mais-um-petroleiro-ao-largo-de-oma_n1757141",
+      "pubDate": "Sat, 01 Aug 2026 11:00:24 +0100",
+      "description": "Um petroleiro foi atingido hoje por um &quot;projétil não identificado&quot; ao largo da cidade costeira de Limah, em Omã, na entrada do Estreito de Ormuz, anunciou a agência britânica de segurança marítima UKMTO.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Câmara de Cascais pede reforço de agentes para a Divisão da PSP",
+      "link": "https://www.rtp.pt/noticias/pais/camara-de-cascais-pede-reforco-de-agentes-para-a-divisao-da-psp_n1757145",
+      "pubDate": "Sat, 01 Aug 2026 10:57:33 +0100",
+      "description": "O presidente da Câmara de Cascais pediu ao Comando Metropolitano de Lisboa (Cometlis) da PSP o reforço do efetivo no concelho, que recebe &quot;milhares de banhistas&quot; durante o Verão e tem falta de agentes.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h Em Ceuta prossegue o regresso voluntário de migrantes a Marrocos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-em-ceuta-prossegue-o-regresso-voluntario-de-migrantes-a-marrocos_a1_1757156",
+      "pubDate": "Sat, 01 Aug 2026 10:47:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,61 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "6h Manhã de vigilância já com o incêndio de Valpaços dominado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-manha-de-vigilancia-ja-com-o-incendio-de-valpacos-dominado_a1_1757143",
-      "pubDate": "Sat, 01 Aug 2026 07:32:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Polícia Marítima e Marinha reforçam controlo da fronteira no Algarve",
+      "link": "https://www.rtp.pt/noticias/pais/policia-maritima-e-marinha-reforcam-controlo-da-fronteira-no-algarve_n1757152",
+      "pubDate": "Sat, 01 Aug 2026 10:45:36 +0100",
+      "description": "A Polícia Marítima e a Marinha estão a reforçar o controlo da fronteira marítima, através de patrulhas diárias, por mar e terra, ao longo da orla costeira do Algarve, após a entrada de migrantes, vindos de Marrocos, em Ceuta.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9c028b9e620b3d071e933cb2198a319?w=350&amp;q=50&amp;rect=0,0,1999,1096&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Incêndio de Valpaços em resolução",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-incendio-de-valpacos-em-resolucao_a1_1757140",
-      "pubDate": "Sat, 01 Aug 2026 06:26:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Rapper cabo-verdiano Mark Delman prepara novo álbum e estreia no Coliseu",
+      "link": "https://www.rtp.pt/noticias/cultura/rapper-cabo-verdiano-mark-delman-prepara-novo-album-e-estreia-no-coliseu_n1757148",
+      "pubDate": "Sat, 01 Aug 2026 10:44:41 +0100",
+      "description": "O rapper cabo-verdiano Mark Delman, que atua em novembro pela primeira vez no Coliseu dos Recreios, na capital portuguesa, prepara um novo álbum para o próximo ano, e fala de um &quot;passo enorme&quot; na carreira.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h Arbitragem garantida para a Supertaça",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-arbitragem-garantida-para-a-supertaca_a1_1757137",
-      "pubDate": "Sat, 01 Aug 2026 05:41:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Doumbia: «Estamos prontos, não vemos a hora do campeonato começar»",
+      "link": "https://maisfutebol.iol.pt/sporting/liga/doumbia-estamos-prontos-nao-vemos-a-hora-do-campeonato-comecar",
+      "pubDate": "Sat, 1 Aug 2026 09:46:41 +0100",
+      "description": "Médio italiano marcou e fez assistência no último «teste» da pré-temporada dos leões",
+      "thumbnail": "https://img.iol.pt/image/id/6a6d2243d34e511da0b30fdc/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Há supertaça. Pedro Proença entende-se com árbitros",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ha-supertaca-pedro-proenca-entende-se-com-arbitros_a1_1757133",
-      "pubDate": "Sat, 01 Aug 2026 04:24:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: introdução do VAR «roubou» dois minutos a cada jogo",
+      "link": "https://maisfutebol.iol.pt/liga/videoarbitro/liga-introducao-do-var-roubou-dois-minutos-a-cada-jogo",
+      "pubDate": "Sat, 1 Aug 2026 09:26:52 +0100",
+      "description": "Estudo liderado pela NOVA IMS revela os efeitos do vídeoárbitro no tempo útil de jogo",
+      "thumbnail": "https://img.iol.pt/image/id/678189b0d34e94b829099111/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Um clube fora da Liga na Supertaça? Torreense não é caso único (mas quase)",
+      "link": "https://maisfutebol.iol.pt/futebol/supertaca/um-clube-fora-da-liga-na-supertaca-torreense-nao-e-caso-unico-mas-quase",
+      "pubDate": "Sat, 1 Aug 2026 09:05:00 +0100",
+      "description": "Emblema de Torres Vedras será o quarto de um escalão secundário a disputar a prova. Pela frente terá o recordista de títulos FC Porto",
+      "thumbnail": "https://img.iol.pt/image/id/6a132c72d34edcee7c648535/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/hoje-e-noticia/hoje-vai-ser-noticia-178557120",
+      "pubDate": "Sat, 1 Aug 2026 09:00:00 +0100",
+      "description": "FC Porto e Torreense entram em campo pelo primeiro título da temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a651ebdd34ef04b4f3f8f63/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -112,144 +152,134 @@
       "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Sat, 1 Aug 2026 00:15:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FIFA: plano milionário de Infantino para o Mundial colapsa",
-      "link": "https://maisfutebol.iol.pt/conmebol/fifa/fifa-plano-milionario-de-infantino-para-o-mundial-cai-por-terra",
-      "pubDate": "Sat, 1 Aug 2026 00:13:00 +0100",
-      "description": "CONMEBOL apelou à prudência e união, mas a oposição da maioria derrotou a operação que rondaria os 20 mil milhões de dólares",
-      "thumbnail": "https://img.iol.pt/image/id/6a5904f2d34e511da0b2dd6e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Gião garante mudanças no Nacional: «Todos os setores podem sofrer retoques»",
-      "link": "https://maisfutebol.iol.pt/nacional/joao-giao/joao-giao-garante-mudancas-na-equipa-todos-os-setores-poderao-sofrer-um-retoque",
-      "pubDate": "Fri, 31 Jul 2026 23:52:00 +0100",
-      "description": "Treinador abordou ainda o jogo de preparação frente ao Santa Clara",
-      "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Bellingham regressa a casa e vê Birmingham bater o Barcelona nos penáltis",
-      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/bellingham-regressa-a-casa-e-ve-birmingham-bater-o-barcelona-nos-penaltis",
-      "pubDate": "Fri, 31 Jul 2026 23:42:29 +0100",
-      "description": "Internacional inglês foi homenageado pelos adeptos no Estádio de St. Andrew's, onde a formação britânica venceu os campeões espanhóis nos penáltis após um empate a dois golos",
-      "thumbnail": "https://img.iol.pt/image/id/6a6d24b5d34ed0733ba7d8c0/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Agosto chega com novas regras para obter crédito à habitação. Saiba tudo o que muda",
+      "link": "https://executivedigest.sapo.pt/agosto-chega-com-novas-regras-para-obter-credito-a-habitacao-saiba-tudo-o-que-muda/",
+      "pubDate": "Sat, 01 Aug 2026 08:01:49 +0000",
+      "description": "As novas orientações resultam de uma recomendação macroprudencial do Banco de Portugal (BdP) que substitui uma anterior, de 01 de julho de 2018.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AAMiwsJxyzVhnEQl%2BFgFoBvxR%2BdpA6bCQP3Ys09iVjtzareaIRppdnUwnNr%2BGahyXPJQqXstZiNer5r68RYU%2Fx%2F5Pt1F55kBIE9LBq8q6YGYxfxeXegCadyy3NtBNaRwR"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Luís Montenegro anuncia reforço do controlo nas fronteiras e afasta suspensão de Schengen",
-      "link": "https://sapo.pt/artigo/luis-montenegro-anuncia-reforco-do-controlo-nas-fronteiras-e-afasta-suspensao-de-schengen-6a6ce15bab90d67694eccc50",
-      "pubDate": "Fri, 31 Jul 2026 17:56:19 +0000",
-      "description": "Primeiro-ministro garante aumento da vigilância terrestre e marítima no sul do país devido à crise migratória em Ceuta, mas considera que não existem razões para suspender o Espaço Schengen.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6nj797Zzn2davmPhCt382ItMZU%2FlLIH7jscE2%2FLtW%2B0MjZEs3CY%2B6L4sMgR7OoXCJZyOUzlmrdT2qgpSs8TGsri5AVF3ooegaGlbhFOVcM%2FXXzQPsoROD5kDwUi8doZQ"
+      "title": "Polícia Marítima e Marinha reforçam controlo da fronteira no Algarve após entrada de migrantes em Ceuta",
+      "link": "https://sapo.pt/artigo/policia-maritima-e-marinha-reforcam-controlo-da-fronteira-no-algarve-apos-entrada-de-migrantes-em-ceuta-6a6daa23ab90d676940acf5d",
+      "pubDate": "Sat, 01 Aug 2026 08:42:50 +0000",
+      "description": "Estas ações têm em vista detetar embarcações que possam estar ligadas a fenómenos de migração irregular ou outras atividades ilícitas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AXi2ut%2FfCxb4S0FfnGvAnWbZu25sbIUHq37WSGtN65tQPYulCsmbJaoOIjCFHFWI9M0D58YhAnHSDQmSq66c8irjxtDB2T9sxmvJ2r9wbJtJzqE4xC3Gpq3%2F8cFsVV8c4"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "PS solidário com Espanha defende resposta firme e respeito pelos direitos humanos",
-      "link": "https://jornaleconomico.sapo.pt/noticias/ps-solidario-com-espanha-defende-resposta-firme-e-respeito-pelos-direitos-humanos/",
-      "pubDate": "Fri, 31 Jul 2026 19:35:31 +0000",
-      "description": "“O Partido Socialista manifesta solidariedade com Espanha perante os recentes acontecimentos em Ceuta, que voltam a expor a enorme pressão humana, social e política que se vive nas fronteiras externas da União Europeia”, escrevem os socialistas...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3ADVm7USqZTkAnPiCs6RQglUYYYN9C6bH3X%2FPVDlQGUKUyH4RwwKl8414omZT8PvTmOe3RrY9R%2BFJ1FN9ukc7x70qWsFd1NkzNNV6Bx67pYry%2F4izJYbhAX5sPiFZr4xL5"
+      "title": "Cancro do pulmão. \"Há culpa. O doente é obrigado a lidar com julgamento\"",
+      "link": "https://sapo.pt/artigo/cancro-do-pulmao-ha-culpa-o-doente-e-obrigado-a-lidar-com-julgamento-6a6d9ddcab90d67694096ec9",
+      "pubDate": "Sat, 01 Aug 2026 08:01:49 +0000",
+      "description": "Hoje, dia 1 de agosto, assinala-se do Dia Mundial do Cancro do Pulmão. A propósito da data, o Lifestyle ao Minuto entrevistou Marcos Pantarotto, oncologista do Grupo de Tumores Torácicos da Fundação Champalimaud, para falar sobre o estigma social...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3An3jfgzZ7W51DmQuDFz%2FNJcTv3p2qKFbkiQrpQJ2Nt2Sh77Wzh%2BuzVuaWUKUsyA0IjZGwdRtbcyTez6ZlI9yXEsRff5hu5tUeb%2BCen53AMvAj%2BAbBmfzk08%2FgRuSZcAzN"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Lei do pacto migratório chega a Belém no dia em que Ceuta explode. Seguro decide em agosto",
-      "link": "https://eco.sapo.pt/2026/07/31/lei-do-pacto-migratorio-chega-a-belem-no-dia-em-que-ceuta-explode-seguro-decide-em-agosto/",
-      "pubDate": "Fri, 31 Jul 2026 17:01:12 +0000",
-      "description": "António José Seguro já recebeu a lei do pacto migratório europeu, e tem agora oito dias para requerer a constitucionalidade e 20 para vetar ou promulgar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2Fpn2kDQ02mtsgDGIYOfeLFjipvdWlas5k1XNyqeMWH3UOdXRcRB%2FNiaSgcWC81Lk7XuIHfNBcNgXl44uff7pBVJytYXDPebypY6s61Xx3pA1cbhsyXklb50mqAf6bkFN"
+      "title": "Israel manifesta ceticismo sobre desarmamento do Hamas mas compromete-se com acordo de Trump",
+      "link": "https://sapo.pt/artigo/israel-manifesta-ceticismo-sobre-desarmamento-do-hamas-mas-compromete-se-com-acordo-de-trump-6a6d317a3f3011d88f9e984b",
+      "pubDate": "Sat, 01 Aug 2026 08:42:50 +0000",
+      "description": "Apesar das dúvidas, Israel mantém o compromisso com o acordo anunciado por Donald Trump, que prevê o desarmamento total do grupo palestiniano na segunda fase do plano de paz.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3An0j%2FnF88HmJdEI8Bapt1iG775zEpZhu6tF2yRSkgaZvTl%2F4cw31JhsN1kdaJHMB5yEXfbGFdhR1XimSy36Rl4%2BkAyvm%2BSOTpD%2F9P4riDO7xMhIUM6FP9BShQWWyISIvM"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "França e Itália reforçam controlo de fronteiras após entrada de milhares de migrantes em Ceuta",
-      "link": "https://sapo.pt/artigo/franca-e-italia-reforcam-controlo-de-fronteiras-apos-entrada-de-milhares-de-migrantes-em-ceuta-6a6d1c6dab90d67694f66f5a",
-      "pubDate": "Fri, 31 Jul 2026 22:14:37 +0000",
-      "description": "O ministro do Interior italiano, Matteo Piantedosi, anunciou a decisão de repor controlos com Espanha nos portos e aeroportos após uma reunião do Comité de Análise da Imigração e Segurança das Fronteiras.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ApwE5SrgT3oxG7A6NjJC5pWNNADG35H8aDmWlqHiJzMCB%2B4S5C1qXJ7lzmf5HNAUxPQZ89oiRJcWy6%2B12Xeg5eASr%2BeKEmdqOVurosYvoTMgbxWjdvE87WvNigR%2B1v4kq"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "FIFA abandona plano de venda do Mundial após indignação global",
-      "link": "https://sapo.pt/artigo/fifa-abandona-plano-de-venda-do-mundial-apos-indignacao-global-6a6d1cb1d4fdaf18ce74b49e",
-      "pubDate": "Fri, 31 Jul 2026 22:14:37 +0000",
-      "description": "UEFA ameaçou boicote de todas as competições do organismo que rege o futebol mundial, pelo que Infantino e companhia viram-se obrigados a desistir da ideia lucrativa de 17,3 mil milhões de euros",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A1%2BS13jubhgeIrCDXC0%2FgdRHRnnVm0eMXUDRErwX%2BwIB8TxFFBWh7WyqtoNbclPaA%2FLQYX5NFsX7WthAjDcCTJ9div1QYqkSK54NEvCHjJ7oa59DikvbVQ9oyXFMro%2BLO"
+      "title": "FC Porto-Torreense: Coimbra recebe 22 anos depois a Supertaça Cândido de Oliveira",
+      "link": "https://sapo.pt/artigo/fc-porto-torreense-coimbra-recebe-22-anos-depois-a-supertaca-candido-de-oliveira-6a6d90abd4fdaf18ce85f7a1",
+      "pubDate": "Sat, 01 Aug 2026 08:42:50 +0000",
+      "description": "O Estádio Cidade de Coimbra recebe a primeira decisão de 2026/27, na qual o campeão nacional FC Porto mede forças com o estreante Torreense, que pertence à II Liga.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ASX6VFbVe976cS9QxuoGUWyWClr%2ByEA4p7pz1TjPsY4Wv6WTP6heI6gwnjja2sepEsbSlA%2FyGHGmlz0zyxgw%2BM%2BEd5%2F9k9S0BeYHpnn%2FA2wKKXmjSF5nic7LhmEAGVYnT"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Remodelação fragiliza Merz antes de eleições regionais alemãs",
-      "link": "https://www.noticiasaominuto.com/mundo/3030765/remodelacao-fragiliza-merz-antes-de-eleicoes-regionais-alemas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 07:29:44",
+      "title": "Costa sul e regiões montanhosas da Madeira estão sob aviso amarelo",
+      "link": "https://www.noticiasaominuto.com/pais/3030795/costa-sul-e-regioes-montanhosas-da-madeira-estao-sob-aviso-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 10:00:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d925a3c310.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a459244b2a4f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjQxMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atentado em Berlim pode favorecer extrema-direita, alertam analistas",
-      "link": "https://www.noticiasaominuto.com/mundo/3030766/atentado-em-berlim-pode-favorecer-extrema-direita-alertam-analistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 07:27:39",
+      "title": "Câmara da Maia faz desinfestação da casa na origem de praga de pulgas",
+      "link": "https://www.noticiasaominuto.com/pais/3030805/camara-da-maia-faz-desinfestacao-da-casa-na-origem-de-praga-de-pulgas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 09:56:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d91a271e2c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5991998b5b76d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FC Porto-Torreense: Após o choque do Jamor, Coimbra recebe a Supertaça",
-      "link": "https://www.noticiasaominuto.com/desporto/3030181/fc-porto-torreense-apos-o-choque-do-jamor-coimbra-recebe-a-supertaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 07:25:58",
+      "title": "Real Madrid faz ultimato: Vini Jr. aceita renovação ou sai este verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3030807/real-madrid-faz-ultimato-vini-jr-aceita-renovacao-ou-sai-este-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 09:50:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c52ef1e70b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE3OX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69bb239d7a622.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Câmara de Cascais pede reforço de agentes para a Divisão da PSP",
-      "link": "https://www.noticiasaominuto.com/pais/3030768/camara-de-cascais-pede-reforco-de-agentes-para-a-divisao-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 07:23:18",
+      "title": "Receitas dos casinos em Macau voltam a registar variação negativa de 8,4%",
+      "link": "https://www.noticiasaominuto.com/economia/3030798/receitas-dos-casinos-em-macau-voltam-a-registar-variacao-negativa-de-8-4#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 09:48:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/28160464.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Aeroporto de Caracas reabre no dia 5 para operações de carga",
-      "link": "https://www.noticiasaominuto.com/mundo/3030744/aeroporto-de-caracas-reabre-no-dia-5-para-operacoes-de-carga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 07:21:45",
+      "title": "Detido após matar colega de casa por \"partilhas das despesas\" em Lisboa",
+      "link": "https://www.noticiasaominuto.com/pais/3030804/detido-apos-matar-colega-de-casa-por-partilhas-das-despesas-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 09:46:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d904ea68d9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688e93021654d.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Há utilizadores a fugir dos portáteis para… máquinas de escrever digitais. Já as conhece?",
+      "link": "https://pplware.sapo.pt/gadgets/ha-utilizadores-a-fugir-dos-portateis-para-maquinas-de-escrever-digitais-ja-as-conhece/",
+      "pubDate": "Sat, 01 Aug 2026 09:00:13 +0000",
+      "description": "Numa era em que o computador consegue fazer praticamente tudo, há quem defenda que a melhor forma de escrever é usar um dispositivo que não faz quase nada. Chamam-lhes &#8220;teclados sem distrações&#8221; e a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/freewrite-traveler-teclado-burro02.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Siri AI será um serviço pago? Apple vai cobrar a quem utilizar bastante a IA",
+      "link": "https://pplware.sapo.pt/apple/siri-ai-sera-um-servico-pago-apple-vai-cobrar-a-quem-utilizar-bastante-a-ia/",
+      "pubDate": "Sat, 01 Aug 2026 08:00:06 +0000",
+      "description": "A Apple desenvolveu uma versão melhorada da sua assistente de voz, com inteligência artificial generativa. Infelizmente, a Siri AI não será totalmente gratuita. Tim Cook alertou agora que os utilizadores que queiram usá-la com&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/siri_ai_paga_2.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Tesla atingiu uma marca única e Elon Musk é quem mais ganha com isso",
+      "link": "https://pplware.sapo.pt/motores/tesla-atingiu-uma-marca-unica-e-elon-musk-e-quem-mais-ganha-com-isso/",
+      "pubDate": "Sat, 01 Aug 2026 07:00:25 +0000",
+      "description": "A Tesla fabricou o seu carro elétrico número 10 milhões. Este marco foi anunciado com uma publicação da empresa nas redes sociais na manhã da última quinta-feira. A marca histórica surge seis anos após&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/tesla_recall_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,83 +302,53 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/apple_watch_encontrar00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cibersegurança automóvel: como a XPENG protege os seus  veículos contra ataques digitais",
-      "link": "https://pplware.sapo.pt/informacao/ciberseguranca-automovel-como-a-xpeng-protege-os-seus-veiculos-contra-ataques-digitais/",
-      "pubDate": "Fri, 31 Jul 2026 20:30:16 +0000",
-      "description": "Durante décadas, a segurança automóvel esteve associada a airbags, cintos de segurança, travões ABS ou sistemas de assistência à condução. Hoje, como sabemos, existe uma nova frente de batalha que poucos condutores veem, mas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/xpeng_seguranca00.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Tim Cook confirma negociações com a UE para levar a nova Siri AI à Europa",
-      "link": "https://pplware.sapo.pt/apple/tim-cook-confirma-negociacoes-com-a-ue-para-levar-a-nova-siri-ai-a-europa/",
-      "pubDate": "Fri, 31 Jul 2026 19:30:02 +0000",
-      "description": "Para prejuízos dos utilizadores, a Apple continua sem conseguir lançar a nova Siri AI na União Europeia. Contudo, Tim Cook garantiu que a empresa está a trabalhar diretamente com Bruxelas para ultrapassar os obstáculos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/siri_ai_ue00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Se é amante de corrida, o Spotify tem uma surpresa para si que vai adorar",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/se-e-amante-de-corrida-o-spotify-tem-uma-surpresa-para-si-que-vai-adorar/",
-      "pubDate": "Fri, 31 Jul 2026 18:30:21 +0000",
-      "description": "O Spotify introduziu um novo modo de corrida na sua aplicação móvel. É dedicado aos utilizadores que preferem ouvir música enquanto correm. Esta nova funcionalidade quer tornar os treinos mais eficientes. O sistema gera&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/spotify_correr_1.jpg"
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "WRC, Rali da Finlândia/PEC11: Evans “morde calcanhares” a Ogier: “gosto que ele dê luta”",
-      "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-pec11-evans-morde-calcanhares-a-ogier-gosto-que-ele-de-luta/",
-      "pubDate": "Sat, 01 Aug 2026 06:02:00 +0000",
-      "description": "A especial Parkola abriu as hostilidades num cenário seco e nublado após o caos do dia de ontem, consagrando Elfyn Evans (Toyota GR Yaris Rally1) como vencedor do troço, encurtando dessa forma a liderança de Sébastien Ogier (Toyota GR Yaris Rally1) na geral, numa manhã marcada pelo capotamento de Pa",
+      "title": "Maserati GT2 Stradale “Tribute to MC12”",
+      "link": "https://www.autosport.pt/sem-categoria/maserati-gt2-stradale-tribute-to-mc12/",
+      "pubDate": "Sat, 01 Aug 2026 08:45:26 +0000",
+      "description": "Por Pedro Junceiro A Maserati desenvolveu uma unidade exclusiva do GT2 Stradale inspirada no icónico MC12, que reforça a ligação da marca italiana ao desporto automóvel de resistência. Denominado GT2 Stradale “Tribute to MC12”, este exemplar único foi criado para colecionador de Taiwan ao abrigo do ",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Robert Virves e Gil Membrado assumem comandos no WRC2 e nas categorias de formação na Finlândia",
-      "link": "https://www.autosport.pt/ralis/robert-virves-e-gil-membrado-assumem-comandos-no-wrc2-e-nas-categorias-de-formacao-na-finlandia/",
-      "pubDate": "Fri, 31 Jul 2026 23:05:00 +0000",
-      "description": "Virves lidera no WRC2 após reviravoltas na chuva O estoniano Robert Virves manteve a rota rumo à sua quarta vitória consecutiva na época no WRC2, terminando esta sexta-feira na liderança do agrupamento no Rali da Finlândia. Numa jornada marcada por condições meteorológicas drásticas e chuvas esporád",
+      "title": "Ricardo Filipe, falha mecânica dita adeus: “Os fãs da Madeira são únicos”",
+      "link": "https://www.autosport.pt/ralis/ricardo-filipe-falha-mecanica-dita-adeus-os-fas-da-madeira-sao-unicos/",
+      "pubDate": "Sat, 01 Aug 2026 08:15:19 +0000",
+      "description": "A participação da dupla Ricardo Filipe e Rui Rodrigues (Skoda Fabia R5) no Rali da Madeira terminou mais cedo, na PEC 7 (Ribeiro Frio), devido a uma falha na transmissão. Na altura do abandono, a equipa fixava-se no Top 20 absoluto e lutava pelo top 10 do CPR. Apesar do desfecho, o saldo desportivo ",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "WRC: Sébastien Ogier lidera Rali da Finlândia após 6ª feira marcada pelo caos meteorológico",
-      "link": "https://www.autosport.pt/ralis/wrc-sebastien-ogier-lidera-rali-da-finlandia-apos-6a-feira-marcada-pelo-caos-meteorologico/",
-      "pubDate": "Fri, 31 Jul 2026 23:01:00 +0000",
-      "description": "Sébastien Ogier encerrou esta sexta-feira na liderança do Rali da Finlândia, nona ronda do Campeonato do Mundo de Ralis, desfrutando de uma vantagem de 16,3 segundos sobre o líder do campeonato, o britânico Elfyn Evans. Navegado por Julien Ingrassia, o piloto francês exibiu uma prestação de alto nív",
+      "title": "Venda do Promotor do WRC a fundo de investimento e empresa automóvel divide opiniões entre os adeptos",
+      "link": "https://www.autosport.pt/ralis/venda-do-promotor-do-wrc-a-fundo-de-investimento-e-empresa-automovel-divide-opinioes-entre-os-adeptos/",
+      "pubDate": "Sat, 01 Aug 2026 07:55:30 +0000",
+      "description": "Comunidade de adeptos reage com ceticismo à nova estrutura acionista A recente aquisição do WRC Promoter GmbH pela plataforma tecnológica automóvel francesa Cosmobilis e pela entidade de investimento em crédito privado Park Square Capital gerou uma vaga de forte ceticismo e debate aceso entre a comu",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Penalizações anuladas, Ctrl+Z no Rali da Madeira: depois de 19 horas… afinal não se passou nada",
-      "link": "https://www.autosport.pt/ralis/penalizacoes-anuladas-ctrlz-no-rali-da-madeira-depois-de-19-horas-afinal-nao-se-passou-nada/",
-      "pubDate": "Fri, 31 Jul 2026 21:44:48 +0000",
-      "description": "Da penalização à absolvição: 19 horas depois, tudo como dantes. A classificação faz marcha-atrás e volta à primeira forma pois 19 horas depois, alguém carregou no “anular”… Na tropa, usava-se a expressão “voltar à primeira forma”. No Rali da Madeira, pelos vistos, também. Depois de um dia inteiro a ",
+      "title": "WRC, Rali da Finlândia/PEC12: Sébastien Ogier consolida liderança em manhã de voos longos",
+      "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-pec12-sebastien-ogier-consolida-lideranca-em-manha-de-voos-longos/",
+      "pubDate": "Sat, 01 Aug 2026 07:29:13 +0000",
+      "description": "Sébastien Ogier (Toyota GR Yaris Rally1) consolidou o comando do Rali da Finlândia ao terminar a especial de Päijälä com o segundo melhor tempo, distanciando-se ligeiramente do rival mais direto, Elfyn Evans (Toyota GR Yaris Rally1). O piloto francês, navegado por Julien Ingrassia, registou 4:55.3 n",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "João Silva perde terreno após problemas com travões no Rali da Madeira",
-      "link": "https://www.autosport.pt/ralis/joao-silva-perde-terreno-apos-problemas-com-travoes-no-rali-da-madeira/",
-      "pubDate": "Fri, 31 Jul 2026 21:31:07 +0000",
-      "description": "João Silva perdeu tempo significativo na segunda metade do dia do Rali da Madeira, após enfrentar problemas com o sistema de travagem que condicionaram o seu desempenho nas classificativas finais. O piloto explicou que as dificuldades surgiram na sequência de um troço particularmente exigente: “Foi ",
+      "title": "A saudosa última viagem do Táxi mais rápido da Madeira: Quando o 190E 2.3-16 pendurou o Taxímetro",
+      "link": "https://www.autosport.pt/ralis/a-saudosa-ultima-viagem-do-taxi-mais-rapido-da-madeira-quando-o-190e-2-3-16-pendurou-o-taximetro/",
+      "pubDate": "Sat, 01 Aug 2026 07:07:26 +0000",
+      "description": "Haverá, por certo, quem defenda que o transporte público de passageiros deve pautar-se pela prudência, pela suavidade na travagem e pelo estrito cumprimento dos limites de velocidade. Mas essa gente manifestamente nunca cruzou a ilha da Madeira a bordo do Mercedes 190 E 2.3-16 de António Freitas. Du",
       "thumbnail": ""
     }
   ]
