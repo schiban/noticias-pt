@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-01T03:59:35.545843+00:00",
+  "updated": "2026-08-01T06:36:07.352425+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. Ataque russo a Kiev. Sobe para 9 o número de mortos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2461/",
+      "pubDate": "Sat, 01 Aug 2026 07:14:17 +0100",
+      "description": "Este é já o segundo ataque de Moscovo à capital ucraniana em apenas 48 horas. Ainda, está dominado o incêndio em Valpaços. E UE convoca reunião de emergência sobre crise migratória em Ceuta.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Incêndio em Valpaços entra em fase de resolução",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2451/",
+      "pubDate": "Sat, 01 Aug 2026 06:16:33 +0100",
+      "description": "Ainda assim no terreno estão mais de 800 operacionais. Ainda neste jornal, O FC Porto e o Torreense jogam hoje a taça Cândido de Oliveira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Europa \"aperta a malha\" à segurança da IA",
+      "link": "https://observador.pt/programas/m-quinas-que-pensam/europa-aperta-a-malha-a-seguranca-da-ia/",
+      "pubDate": "Sat, 01 Aug 2026 06:06:33 +0100",
+      "description": "Nova legislação de segurança de IA entra em vigor este mês. A Europa quer mais atenção e segurança em tudo o que envolva inteligência Artificial. O que muda com este novo AI Act que mexe com Portugal?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Canções que descobrimos em julho",
+      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-julho-3/",
+      "pubDate": "Sat, 01 Aug 2026 06:04:03 +0100",
+      "description": "Julho despede-se com novas obsessões. Juntamos as novidades de Panda Bear, Leon Bridges e Glen Hansard aos sons de Sarah Negra e Rislene num guia essencial das canções editadas no último mês.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Ceuta: quase todos os migrantes já voltaram a Marrocos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2392/",
-      "pubDate": "Sat, 01 Aug 2026 03:17:41 +0100",
-      "description": "O governo espanhol já garantiu que a integridade do espaço Schengen continua absolutamente garantida. Ainda, Seguro pede conclusões rápidas sobre os casos que envolvem Luís Neves.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "7h Incêndio de Valpaços dominado. Meios aéreos voltam a atuar esta manhã",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-de-valpacos-dominado-meios-aereos-voltam-a-atuar-esta-manha_a1_1757147",
+      "pubDate": "Sat, 01 Aug 2026 08:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Combate ao incêndio em Valpaços decorre favoravelmente",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2366/",
-      "pubDate": "Sat, 01 Aug 2026 02:15:25 +0100",
-      "description": "A esta hora, estão perto de 800 operacionais no terreno. Ainda neste jornal, os EUA e Israel estão a preparar novos ataques ao Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h Manhã de vigilância já com o incêndio de Valpaços dominado",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-manha-de-vigilancia-ja-com-o-incendio-de-valpacos-dominado_a1_1757143",
+      "pubDate": "Sat, 01 Aug 2026 07:32:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. EUA e Israel preparam ataques ao Irão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2339/",
-      "pubDate": "Sat, 01 Aug 2026 01:16:07 +0100",
-      "description": "Ataques que podem vir a acontecer já este fim de semana. Ainda neste jornal, o FCP e o Torreense jogam amanhã a Supertaça Cândido de Oliveira em Coimbra.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "F de fraude, F de Fauci",
-      "link": "https://observador.pt/opiniao/f-de-fraude-f-de-fauci/",
-      "pubDate": "Sat, 01 Aug 2026 00:25:37 +0100",
-      "description": "Durante dois anos, as nossas vidas, as vidas de centenas de milhões de pessoas, estiveram penduradas na empáfia e no orgulho de um homenzinho deslumbrado e, quase que por definição, sinistro",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Incêndio de Valpaços em resolução",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-incendio-de-valpacos-em-resolucao_a1_1757140",
+      "pubDate": "Sat, 01 Aug 2026 06:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Sat, 01 Aug 2026 04:24:01 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Terminou reunião entre líder da FPF e árbitros em Tomar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-terminou-reuniao-entre-lider-da-fpf-e-arbitros-em-tomar_a1_1757131",
-      "pubDate": "Sat, 01 Aug 2026 04:18:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PS acusa Governo de demitir dirigentes no IEFP com \"motivações partidárias\"",
-      "link": "https://www.rtp.pt/noticias/economia/ps-acusa-governo-de-demitir-dirigentes-no-iefp-com-motivacoes-partidarias_n1757123",
-      "pubDate": "Sat, 01 Aug 2026 01:29:17 +0100",
-      "description": "O Partido Socialista (PS) acusou hoje o Governo de substituir todos os diretores dos centros de emprego e formação profissional do Alentejo, Algarve e Centro por pessoas ligadas ao PSD e exigiu explicações à ministra do Trabalho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a57a75f602f7cc15a45a3c5f9e342ecd?w=350&amp;q=50&amp;rect=0,390,4898,2685&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Israel \"comprometido\" com plano para Gaza apesar de duvidar de desarmamento do Hamas",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-comprometido-com-plano-para-gaza-apesar-de-duvidar-de-desarmamento-do-hamas_n1757121",
-      "pubDate": "Sat, 01 Aug 2026 01:27:27 +0100",
-      "description": "O embaixador de Israel na ONU, Danny Danon, manifestou hoje ceticismo sobre o desarmamento do movimento islamita palestiniano Hamas em Gaza, mas assegurou o &quot;compromisso&quot; do seu país com o acordo anunciado pelo Presidente norte-americano, Donald Trump.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/be/bec9c58666678d9a7b189ffa06208b00?w=350&amp;q=50&amp;rect=0,149,5500,3015&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Zelensky pede ajuda a Trump para obter acesso aos satélites Starlink",
-      "link": "https://www.noticiasaominuto.com/mundo/3030721/zelensky-pede-ajuda-a-trump-para-obter-acesso-aos-satelites-starlink#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 00:01:21",
+      "title": "Remodelação fragiliza Merz antes de eleições regionais alemãs",
+      "link": "https://www.noticiasaominuto.com/mundo/3030765/remodelacao-fragiliza-merz-antes-de-eleicoes-regionais-alemas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 07:29:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5513758fa92.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d925a3c310.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3030157/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-31 23:52:14",
+      "title": "Atentado em Berlim pode favorecer extrema-direita, alertam analistas",
+      "link": "https://www.noticiasaominuto.com/mundo/3030766/atentado-em-berlim-pode-favorecer-extrema-direita-alertam-analistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 07:27:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c3967ab816.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjQ2NSwiY3JvcFkiOjI5OX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d91a271e2c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "CONMEBOL reage a proposta da FIFA: \"Futebol sempre acima de interesses\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3030720/conmebol-reage-a-proposta-da-fifa-futebol-sempre-acima-de-interesses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-31 23:49:26",
+      "title": "FC Porto-Torreense: Após o choque do Jamor, Coimbra recebe a Supertaça",
+      "link": "https://www.noticiasaominuto.com/desporto/3030181/fc-porto-torreense-apos-o-choque-do-jamor-coimbra-recebe-a-supertaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 07:25:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d24debe984.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQxNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTcyOCwiY3JvcEhlaWdodCI6MzA3MiwiY3JvcFgiOjQxNiwiY3JvcFkiOjM4NH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c52ef1e70b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE3OX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "IEFP: PS acusa Governo de demitir dirigentes com \"motivações partidárias\"",
-      "link": "https://www.noticiasaominuto.com/politica/3030719/iefp-ps-acusa-governo-de-demitir-dirigentes-com-motivacoes-partidarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-31 23:41:00",
+      "title": "Câmara de Cascais pede reforço de agentes para a Divisão da PSP",
+      "link": "https://www.noticiasaominuto.com/pais/3030768/camara-de-cascais-pede-reforco-de-agentes-para-a-divisao-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 07:23:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_659c1a0538d58.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turco detido no Reino Unido por acusações dos EUA de ajudar o Hamas",
-      "link": "https://www.noticiasaominuto.com/mundo/3030710/turco-detido-no-reino-unido-por-acusacoes-dos-eua-de-ajudar-o-hamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-07-31 23:27:51",
+      "title": "Aeroporto de Caracas reabre no dia 5 para operações de carga",
+      "link": "https://www.noticiasaominuto.com/mundo/3030744/aeroporto-de-caracas-reabre-no-dia-5-para-operacoes-de-carga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 07:21:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6808fa1b374b6.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6d904ea68d9.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O OPPO Find X9 Ultra chegou ao topo da DxOMark na fotografia",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-oppo-find-x9-ultra-chegou-ao-topo-da-dxomark-na-fotografia/",
+      "pubDate": "Sat, 01 Aug 2026 06:00:47 +0000",
+      "description": "Numa altura em que o mercado da tecnologia móvel se desenvolve rapidamente, a concorrência entre os smartphones com câmaras de topo intensifica-se. Os especialistas do prestigiado laboratório DxOMark testaram a câmara do OPPO Find&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/Pplware_OPPO_X9_Ultra_028.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/spotify_correr_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "GUNDAM ROGUE ORBIT promete reinventar a saga Gundam",
-      "link": "https://pplware.sapo.pt/jogos/gundam-rogue-orbit-promete-reinventar-a-saga-gundam/",
-      "pubDate": "Fri, 31 Jul 2026 18:00:12 +0000",
-      "description": "A Bandai Namco revelou novos detalhes sobre GUNDAM ROGUE ORBIT, o próximo videojogo de ação de alta mobilidade inspirado no universo Gundam, e tudo indica que este será um dos projetos mais ambiciosos de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/GRO_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC, Rali da Finlândia/PEC11: Evans “morde calcanhares” a Ogier: “gosto que ele dê luta”",
+      "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-pec11-evans-morde-calcanhares-a-ogier-gosto-que-ele-de-luta/",
+      "pubDate": "Sat, 01 Aug 2026 06:02:00 +0000",
+      "description": "A especial Parkola abriu as hostilidades num cenário seco e nublado após o caos do dia de ontem, consagrando Elfyn Evans (Toyota GR Yaris Rally1) como vencedor do troço, encurtando dessa forma a liderança de Sébastien Ogier (Toyota GR Yaris Rally1) na geral, numa manhã marcada pelo capotamento de Pa",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Robert Virves e Gil Membrado assumem comandos no WRC2 e nas categorias de formação na Finlândia",
+      "link": "https://www.autosport.pt/ralis/robert-virves-e-gil-membrado-assumem-comandos-no-wrc2-e-nas-categorias-de-formacao-na-finlandia/",
+      "pubDate": "Fri, 31 Jul 2026 23:05:00 +0000",
+      "description": "Virves lidera no WRC2 após reviravoltas na chuva O estoniano Robert Virves manteve a rota rumo à sua quarta vitória consecutiva na época no WRC2, terminando esta sexta-feira na liderança do agrupamento no Rali da Finlândia. Numa jornada marcada por condições meteorológicas drásticas e chuvas esporád",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC: Sébastien Ogier lidera Rali da Finlândia após 6ª feira marcada pelo caos meteorológico",
+      "link": "https://www.autosport.pt/ralis/wrc-sebastien-ogier-lidera-rali-da-finlandia-apos-6a-feira-marcada-pelo-caos-meteorologico/",
+      "pubDate": "Fri, 31 Jul 2026 23:01:00 +0000",
+      "description": "Sébastien Ogier encerrou esta sexta-feira na liderança do Rali da Finlândia, nona ronda do Campeonato do Mundo de Ralis, desfrutando de uma vantagem de 16,3 segundos sobre o líder do campeonato, o britânico Elfyn Evans. Navegado por Julien Ingrassia, o piloto francês exibiu uma prestação de alto nív",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/ralis/joao-silva-perde-terreno-apos-problemas-com-travoes-no-rali-da-madeira/",
       "pubDate": "Fri, 31 Jul 2026 21:31:07 +0000",
       "description": "João Silva perdeu tempo significativo na segunda metade do dia do Rali da Madeira, após enfrentar problemas com o sistema de travagem que condicionaram o seu desempenho nas classificativas finais. O piloto explicou que as dificuldades surgiram na sequência de um troço particularmente exigente: “Foi ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Miguel Nunes comanda o Rali da Madeira: “conseguimos imprimir um ritmo forte”",
-      "link": "https://www.autosport.pt/ralis/miguel-nunes-comanda-o-rali-da-madeira-conseguimos-imprimir-um-ritmo-forte/",
-      "pubDate": "Fri, 31 Jul 2026 21:26:17 +0000",
-      "description": "Miguel Nunes assumiu o comando do Rali da Madeira no termo do primeiro dia de prova, manifestando profunda satisfação com o desempenho competitivo alcançado ao longo das etapas.A beneficiar de um excelente nível de afinação no seu Skoda, herdado desde o Rali da Calheta, o madeirense destacou a consi",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Armindo Araújo brilha no Rali da Madeira: liderança no CPR e balanço positivo do 1º dia",
-      "link": "https://www.autosport.pt/ralis/armindo-araujo-brilha-no-rali-da-madeira-lideranca-no-cpr-e-balanco-positivo-do-1o-dia/",
-      "pubDate": "Fri, 31 Jul 2026 21:21:02 +0000",
-      "description": "Armindo Araújo termina o penúltimo dia do Rali da Madeira na segunda posição da geral e na liderança do Campeonato de Portugal de Ralis (CPR), mantendo uma abordagem ofensiva para as classificativas decisivas. “Bom, está a correr bem, mas nada está feito, né? Ainda falta o dia de amanhã, mas as cois",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali da Madeira, Rúben Rodrigues: problema técnico limita competitividade",
-      "link": "https://www.autosport.pt/ralis/rali-da-madeira-ruben-rodrigues-problema-tecnico-limita-competitividade/",
-      "pubDate": "Fri, 31 Jul 2026 21:14:37 +0000",
-      "description": "Rúben Rodrigues enfrentou um dia marcado por algumas dificuldades técnicas no Rali da Madeira, com a válvula pop-off do seu Toyota GR Yaris Rally2 a comprometer de forma significativa o desempenho ao longo das classificativas. O piloto açoriano revelou que o problema tem sido persistente e difícil d",
       "thumbnail": ""
     }
   ]
