@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-01T17:57:19.084578+00:00",
+  "updated": "2026-08-01T19:10:03.576641+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Conhecidos os onzes iniciais do FC Porto-Torreense",
+      "link": "https://observador.pt/liveblogs/supertaca-conhecidos-os-onzes-iniciais-do-fc-porto-torreense-andre-silva-joga-de-inicio/",
+      "pubDate": "Sat, 01 Aug 2026 19:15:52 +0100",
+      "description": "FC Porto e Torreense disputam o primeiro troféu da época. Dragões chegam a este jogo pelo estatuto de campeões nacionais, equipa de Torres Vedras tenta repetir surpresa da Taça. Siga aqui em direto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/07/18067741.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2137/",
+      "pubDate": "Sat, 01 Aug 2026 19:14:25 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O espião português que se vendeu à Rússia de Putin",
+      "link": "https://observador.pt/especiais/dinheiro-mulheres-do-leste-e-um-encontro-fatal-em-roma-a-historia-do-espiao-do-sis-apanhado-a-vender-segredos-a-russia-de-putin/",
+      "pubDate": "Sat, 01 Aug 2026 19:10:15 +0100",
+      "description": "Frederico Carvalhão Gil era um veterano dos serviços secretos. Por dinheiro ou convicção ideológica, aceitou vender informações aos russos. Esta é a história do novo Podcast Plus do Observador.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31145613/770especial-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ceuta. Ministros europeus vão reunir a 4 de agosto",
+      "link": "https://observador.pt/2026/08/01/ministros-do-interior-da-uniao-europeia-vao-discutir-crise-migratoria-de-ceuta-a-4-de-agosto/",
+      "pubDate": "Sat, 01 Aug 2026 19:09:16 +0100",
+      "description": "Pelo menos 67 pessoas morreram na travessia até ao enclave espanhol no continente africano. Rei de Espanha diz que eventos não se podem repetir.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31225424/jporfirio-reportagem-ceuta-migrantes-31-07-2026-dia-01-04-14-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,144 +52,104 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1130:635:nowe:0:146/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31184347/istock-1142758656.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 18h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2109/",
-      "pubDate": "Sat, 01 Aug 2026 18:15:09 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sismo na Venezuela matou 136 portugueses e lusodescendentes",
-      "link": "https://observador.pt/2026/08/01/sobe-para-136-o-numero-de-portugueses-e-lusodescendentes-mortos-no-sismo-na-venezuela/",
-      "pubDate": "Sat, 01 Aug 2026 17:57:14 +0100",
-      "description": "Entre as vítimas mortais, encontram-se 28 menores. Número de desaparecidos baixou de dez para cinco. Mais de 5 mil pessoas morreram após duplo sismo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/01174644/47533663.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Arábia Saudita quer mostrar ao Irão que não é \"presa fácil\"",
-      "link": "https://observador.pt/especiais/arabia-saudita-quer-mostrar-ao-irao-que-nao-e-presa-facil-mas-prioridades-internas-explicam-desinteresse-numa-escalada-militar/",
-      "pubDate": "Sat, 01 Aug 2026 17:25:56 +0100",
-      "description": "A pressão contra a Arábia Saudita acumulava-se desde março, e Riade respondeu. Mas sauditas têm muito a perder em ver a guerra aberta regressar ao Iémen e ao mar Vermelho, um ponto frágil.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30193119/47480105.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PJ detém suspeito de pornografia de menores",
-      "link": "https://observador.pt/2026/08/01/pj-detem-estrangeiro-de-21-anos-por-fortes-indicios-do-crime-de-pornografia-de-menores/",
-      "pubDate": "Sat, 01 Aug 2026 17:18:38 +0100",
-      "description": "Foi apreendido ao suspeito um telemóvel que continha \"mais de quinhentos ficheiros de vídeo e imagem\" de pornografia infantil. Terá que se apresentar semanalmente às autoridades.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1968:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16165120/gettyimages-2227549546.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Pelo menos três mortos e 15 feridos após explosão em café de Moscovo",
+      "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-tres-mortos-e-15-feridos-apos-explosao-em-cafe-de-moscovo_n1757224",
+      "pubDate": "Sat, 01 Aug 2026 21:03:01 +0100",
+      "description": "Pelo menos três pessoas morreram e 15 ficaram feridas este sábado numa explosão num café em Moscovo. A polícia da capital russa não especificou de imediato a causa do incidente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1c8ff58fe2995d11b1f7bb620f607fc?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Rio Ave apresenta plantel aos sócios",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/rio-ave-apresenta-plantel-aos-socios_d1757214",
-      "pubDate": "Sat, 01 Aug 2026 19:32:12 +0100",
-      "description": "O Rio Ave, da I Liga, apresentou aos sócios o plantel provisório para a época 2026/27, formado por 27 jogadores, três deles reforços.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c92619c4484b6f995d8f73b7071ea772?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "FC Porto - Torreense",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/fc-porto-torreense_d1757211",
+      "pubDate": "Sat, 01 Aug 2026 20:46:54 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/12/12daecc0b440a285698ad276b81333ec?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "18h Ministros do Interior da UE reunem-se de emergência dia 4",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-ministros-do-interior-da-ue-reunem-se-de-emergencia-dia-4_a1_1757213",
-      "pubDate": "Sat, 01 Aug 2026 19:20:02 +0100",
+      "title": "Santa Clara apresenta plantel para a nova temporada",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/santa-clara-apresenta-plantel-para-a-nova-temporada_d1757222",
+      "pubDate": "Sat, 01 Aug 2026 20:43:50 +0100",
+      "description": "O Santa Clara apresentou-se hoje aos sócios e adeptos com um plantel de 23 jogadores para atacar a edição 2026/27 da I Liga, em que se incluem 11 reforços.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/312f0f7b5b571980552206196813cd16?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Estrela da Amadora apresenta-se aos sócios",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/estrela-da-amadora-apresenta-se-aos-socios_d1757220",
+      "pubDate": "Sat, 01 Aug 2026 20:33:40 +0100",
+      "description": "O Estrela da Amadora, da I Liga, apresentou aos sócios o plantel provisório para a época 2026/27, formado por 28 jogadores, cinco deles reforços.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c8/c85dfdc79d6cacd5cc02afbbb81a2f5e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "19h Ministros do Interior da UE reunem-se de emergência dia 4",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-ministros-do-interior-da-ue-reunem-se-de-emergencia-dia-4_a1_1757217",
+      "pubDate": "Sat, 01 Aug 2026 20:22:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Venezuela. Sobe para 136 o número de portugueses e lusodescendentes mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/venezuela-sobe-para-136-o-numero-de-portugueses-e-lusodescendentes-mortos_n1757210",
-      "pubDate": "Sat, 01 Aug 2026 19:08:56 +0100",
-      "description": "O número de portugueses e lusodescendentes mortos no duplo sismo que atingiu a Venezuela a 24 de junho subiu para 136, indicou hoje o mais recente balanço do Ministério dos Negócios Estrangeiros (MNE) português.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Migração não se resolve com muros, diz eurodeputada Marta Temido",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-migracao-nao-se-resolve-com-muros-diz-eurodeputada-marta-temido_a1_1757209",
-      "pubDate": "Sat, 01 Aug 2026 18:43:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Crise migratória em Ceuta. Ministros do Interior da UE reúnem-se na terça-feira",
-      "link": "https://www.rtp.pt/noticias/mundo/crise-migratoria-em-ceuta-ministros-do-interior-da-ue-reunem-se-na-terca-feira_n1757205",
-      "pubDate": "Sat, 01 Aug 2026 17:49:04 +0100",
-      "description": "A União Europeia convocou uma reunião por videoconferência na próxima terça-feira para a discussão dos &quot;desenvolvimentos em Ceuta&quot;. O anúncio foi feito este sábado pela Irlanda, que tem nesta altura a presidência rotativa do Conselho da União Europeia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/97/979c857e010eb1629e0a131c6278af49?w=350&amp;q=50&amp;rect=0,301,5500,3015&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Marcus assina golaço frente ao Al-Nassr",
+      "link": "https://maisfutebol.iol.pt/estrela-amadora/al-nassr/video-marcus-assina-golaco-frente-ao-al-nassr",
+      "pubDate": "Sat, 1 Aug 2026 20:08:00 +0100",
+      "description": "Extremo do Estrela apontou golo fora da grande área",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e4252d34ed0733ba7da24/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Brentford concretiza transferência recorde",
-      "link": "https://maisfutebol.iol.pt/premier-league/brentford/oficial-brentford-concretiza-transferencia-recorde",
-      "pubDate": "Sat, 1 Aug 2026 18:11:00 +0100",
-      "description": "Mamadou Sangaré reforça os ingleses, num negócio avaliado em 50 milhões de euros",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e2608d34ed0733ba7d9de/250"
+      "title": "É muito bonita, sim senhor: já viu a nova camisola do Nacional?",
+      "link": "https://maisfutebol.iol.pt/nacional/nacional-da-madeira/e-muito-bonita-sim-senhor-ja-viu-a-nova-camisola-do-nacional",
+      "pubDate": "Sat, 1 Aug 2026 20:07:00 +0100",
+      "description": "Equipamento mantém o padrão tradicional e apresenta detalhes em amarelo",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e3e64d34ed0733ba7da1a/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: enquanto não decide o futuro, Diomande aproveita folga em Sevilha",
-      "link": "https://maisfutebol.iol.pt/sporting/ousmane-diomande/video-enquanto-nao-decide-o-futuro-diomande-aproveita-folga-em-sevilha",
-      "pubDate": "Sat, 1 Aug 2026 17:56:36 +0100",
-      "description": "Defesa-central ainda não disputou nenhum jogo nesta pré-temporada ao serviço do Sporting e estará de malas feitas para Nottingham",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e0887d34ed0733ba7d9a9/250"
+      "title": "Liga: calendário e todos os resultados da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
+      "pubDate": "Sat, 1 Aug 2026 19:48:00 +0100",
+      "description": "Clubes finalizam preparativos a época 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rio Ave bate Tondela em jogo de preparação",
-      "link": "https://maisfutebol.iol.pt/liga/rio-ave/rio-ave-bate-tondela-em-jogo-de-preparacao",
-      "pubDate": "Sat, 1 Aug 2026 17:51:02 +0100",
-      "description": "Triunfo por 3-1 em Vila do Conde na estreia dos equipamentos oficiais",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e21abd34e511da0b310f4/250"
+      "title": "FC Porto-Torreense (onzes): Farioli aposta num reforço para a Supertaça",
+      "link": "https://maisfutebol.iol.pt/supertaca/fc-porto/fc-porto-torreense-onzes-farioli-aposta-num-reforco-para-a-supertaca",
+      "pubDate": "Sat, 1 Aug 2026 19:46:00 +0100",
+      "description": "André Silva volta à titularidade, mais de nove anos depois. No Torreense, Tralhão aposta nos reforços Adriel Ramos e Jatta",
+      "thumbnail": "https://img.iol.pt/image/id/6a2bf759d34edcee7c653263/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Danny Welbeck deixa o Brighton e assina com o Chelsea",
-      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/oficial-danny-welbeck-deixa-o-brighton-e-assina-com-o-chelsea",
-      "pubDate": "Sat, 1 Aug 2026 17:42:00 +0100",
-      "description": "Avançado tinha renovado contrato no início do ano",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e1f4ad34ed0733ba7d9d0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting: Souleymane Faye em França para assinar com o Lorient",
-      "link": "https://maisfutebol.iol.pt/sporting/souleymane-faye/sporting-souleymane-faye-em-franca-para-assinar-com-o-lorient",
-      "pubDate": "Sat, 1 Aug 2026 17:30:11 +0100",
-      "description": "Senegalês sai por empréstimo com opção de compra de 6,5 milhões de euros",
-      "thumbnail": "https://img.iol.pt/image/id/6a47daa8d34e28842c85e889/250"
+      "title": "Wolves de César Peixoto vence o Racing Santander no último teste da pré-época",
+      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/wolves-de-cesar-peixoto-vence-o-racing-santander-no-ultimo-teste-da-pre-epoca",
+      "pubDate": "Sat, 1 Aug 2026 19:45:00 +0100",
+      "description": "Toti e Rodrigo Gomes foram titulares",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e3960d34ed0733ba7da12/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rio Ave vence Tondela com 'reviravolta' no teste final antes da I Liga",
-      "link": "https://www.noticiasaominuto.com/desporto/3030931/rio-ave-vence-tondela-com-reviravolta-no-teste-final-antes-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 18:21:46",
+      "title": "Rei de Espanha \"indignado\" com \"graves\" acontecimentos em Ceuta",
+      "link": "https://www.noticiasaominuto.com/fama/3030944/rei-de-espanha-indignado-com-graves-acontecimentos-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 20:04:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2affe13f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTc2OCwiY3JvcEhlaWdodCI6MzE0MywiY3JvcFgiOjM4NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e34c498c63.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjEyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6Njg1LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Silaidopoulos promete Rio Ave \"ambicioso\" e ainda quer dois reforços",
-      "link": "https://www.noticiasaominuto.com/desporto/3030932/silaidopoulos-promete-rio-ave-ambicioso-e-ainda-quer-dois-reforcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 18:18:33",
+      "title": "Incêndio em Gaia combatido por mais de 100 bombeiros em conclusão",
+      "link": "https://www.noticiasaominuto.com/pais/3030952/incendio-em-gaia-combatido-por-mais-de-100-bombeiros-em-conclusao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 19:49:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e2b7194107e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxMywiY3JvcEhlaWdodCI6MTgwMSwiY3JvcFgiOjc4MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689fb8adc88d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkyNiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Como contrata Morata, mas Fàbregas não dá tréguas: \"Tem de se mostrar...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3030933/como-contrata-morata-mas-fabregas-nao-da-treguas-tem-de-se-mostrar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 18:15:31",
+      "title": "Oficial: Hope Linus e Samuel Ntanda reforçam União de Leiria",
+      "link": "https://www.noticiasaominuto.com/desporto/3030934/oficial-hope-linus-e-samuel-ntanda-reforcam-uniao-de-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 19:31:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2334ed72e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo3NjMsImNyb3BZIjotMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e3b1acd03b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY3LCJjcm9wSGVpZ2h0IjoxMzg4LCJjcm9wWCI6MCwiY3JvcFkiOjQ1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjEsImNyb3BIZWlnaHQiOjE2MzgsImNyb3BYIjo4NjMsImNyb3BZIjo0fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Morreu Nirmal Purja, recordista desaparecido após avalanche no Paquistão",
-      "link": "https://www.noticiasaominuto.com/mundo/3030926/morreu-nirmal-purja-recordista-desaparecido-apos-avalanche-no-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 18:13:37",
+      "title": "Pelo menos três mortos e 15 feridos em explosão perto de café em Moscovo",
+      "link": "https://www.noticiasaominuto.com/mundo/3030949/pelo-menos-tres-mortos-e-15-feridos-em-explosao-perto-de-cafe-em-moscovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 19:30:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2081d1bda.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUyLCJjcm9wSGVpZ2h0IjoxNDM2LCJjcm9wWCI6LTEsImNyb3BZIjoyMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgyMCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47424684.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxNDV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjIwMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O novo documentário da Netflix que já mereceu acusação de difamação",
-      "link": "https://www.noticiasaominuto.com/tech/3030024/o-novo-documentario-da-netflix-que-ja-mereceu-acusacao-de-difamacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 18:00:35",
+      "title": "União de Leiria e FC Porto B empatam em jogo de preparação",
+      "link": "https://www.noticiasaominuto.com/desporto/3030946/uniao-de-leiria-e-fc-porto-b-empatam-em-jogo-de-preparacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 19:28:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b9f2e680f8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTA0LCJjcm9wSGVpZ2h0IjoxMTgzLCJjcm9wWCI6MTAzLCJjcm9wWSI6MTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY1MCwiY3JvcEhlaWdodCI6MTE1NiwiY3JvcFgiOjI5MSwiY3JvcFkiOjEwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_61f58c43ca6ab.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ4LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MCwiY3JvcFkiOjk0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoyNTYsImNyb3BZIjoyODh9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "A TAP mudou a tinta dos aviões. A razão vai muito além da estética",
+      "link": "https://pplware.sapo.pt/informacao/a-tap-mudou-a-tinta-dos-avioes-a-razao-vai-muito-alem-da-estetica/",
+      "pubDate": "Sat, 01 Aug 2026 18:32:52 +0000",
+      "description": "À primeira vista, ninguém conseguirá distinguir a diferença. Os aviões da TAP Air Portugal continuam a exibir a mesma imagem, as mesmas cores e o mesmo logótipo. Contudo, a companhia aérea introduziu uma nova&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/pintura_tap00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Frio: o maior dos nossos problemas em Permafrost",
+      "link": "https://pplware.sapo.pt/jogos/frio-o-maior-dos-nossos-problemas-em-permafrost/",
+      "pubDate": "Sat, 01 Aug 2026 18:00:42 +0000",
+      "description": "Os estúdios SpaceRocket Games, revelaram um novo vídeo de Permafrost que mostra como o frio glacial é, o maior e o mais mortífero perigo deste survival pós-apocalíptico. Se sobreviver a um inverno rigoroso já&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/Permafrost_3.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,31 +302,21 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/04/Facebook-Mark-Zuckerberg.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novidades no Prime Video para agosto de 2026",
-      "link": "https://pplware.sapo.pt/multimedia-2/cinema/novidades-no-prime-video-para-agosto-de-2026/",
-      "pubDate": "Sat, 01 Aug 2026 14:00:12 +0000",
-      "description": "Mais um mês de novidades e, em agosto, muitos são os que poderão aproveitar o conforto do sofá para escapar ao calor que se faz sentir lá fora. Se os planos passarem por fugir&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/04/cinema-casa01-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "China constrói o maior íman de fusão nuclear do mundo. Mas para que serve?",
-      "link": "https://pplware.sapo.pt/high-tech/china-constroi-o-maior-iman-de-fusao-nuclear-do-mundo-mas-para-que-serve/",
-      "pubDate": "Sat, 01 Aug 2026 13:00:38 +0000",
-      "description": "A China acaba de dar um passo de gigante na corrida pela energia limpa ao testar com sucesso o maior íman supercondutor do mundo para reatores de fusão nuclear. Íman da China tem especificações&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/iman_china-2.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Miguel Nunes vence Rali da Madeira pela segunda vez",
+      "link": "https://www.autosport.pt/ralis/miguel-nunes-vence-rali-da-madeira-pela-segunda-vez/",
+      "pubDate": "Sat, 01 Aug 2026 17:36:24 +0000",
+      "description": "Miguel Nunes (Skoda Fabia Rally2 Evo) venceu o Rali da Madeira pela segunda vez na sua carreira, num triunfo totalmente merecido, construindo a sua vantagem ao longo da prova, aproveitando também os atrasos de Kris Meeke, Diego Ruiloba e Giandomenico Basso, por motivos distintos. Apesar de ter estad",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
       "title": "WRC, Rali da Finlândia/PEC18: Sami Pajari líder, com apenas duas especiais para o fim",
-      "link": "https://www.autosport.pt/sem-categoria/wrc-rali-da-finlandia-pec18-sami-pajari-lider-com-apenas-duas-especiais-para-o-fim/",
+      "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-pec18-sami-pajari-lider-com-apenas-duas-especiais-para-o-fim/",
       "pubDate": "Sat, 01 Aug 2026 17:22:00 +0000",
       "description": "Sami Pajari / Marko Salminen (Toyota GR Yaris Rally1) terminaram este terceiro dia do Rali da Finlândia na liderança do rali. A jogar em casa, a dupla da Toyota herdou o primeiro lugar após o acidente de Sébastien Ogier / Julien Ingrassia (Toyota GR Yaris Rally1), que lideravam o rali antes da viole",
       "thumbnail": ""
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-sebastien-ogier-transportado-de-helicoptero-para-o-hospital/",
       "pubDate": "Sat, 01 Aug 2026 16:08:27 +0000",
       "description": "Durante a décima sétima prova especial do Rali da Finlândia, a tripulação do carro número um, composta por Sébastien Ogier e Julien Ingrassia, esteve envolvida num violento acidente na classificativa de Västilä. Ambos os elementos conseguiram abandonar a viatura pelos seus próprios meios, mantendo-s",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali da Madeira/PEC13: Pedro Meireles passa Hugo Lopes",
-      "link": "https://www.autosport.pt/ralis/rali-da-madeira-pec13-pedro-meireles-passa-hugo-lopes/",
-      "pubDate": "Sat, 01 Aug 2026 15:54:46 +0000",
-      "description": "Kris Meeke (Toyota Gr Yaris Rally2) venceu mais um troço, bateu João Silva (Toyota Gr Yaris Rally2) por 0.4s, com Armindo Araújo (Skoda Fabia Rs Rally2) em terceiro a 2.3s.Miguel Nunes (Skoda Fabia Rally2 Evo) foi quinto, e vai para os últimos dois troços com 32.7s de avanço para João Silva. Armindo",
       "thumbnail": ""
     }
   ]
