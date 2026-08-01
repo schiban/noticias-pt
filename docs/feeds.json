@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-01T16:55:23.942015+00:00",
+  "updated": "2026-08-01T17:57:19.084578+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dores nas articulações. O que é a artrose?",
+      "link": "https://observador.pt/especiais/o-que-e-a-artrose-oito-perguntas-sobre-a-doenca-das-articulacoes-que-nao-esta-so-ligada-ao-envelhecimento/",
+      "pubDate": "Sat, 01 Aug 2026 18:17:48 +0100",
+      "description": "É uma doença frequente e pode provocar dores fortes nas articulações, mas, com o tratamento certo, é possível continuar a trabalhar, a praticar exercício e a ter qualidade de vida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1130:635:nowe:0:146/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31184347/istock-1142758656.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 18h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2109/",
+      "pubDate": "Sat, 01 Aug 2026 18:15:09 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sismo na Venezuela matou 136 portugueses e lusodescendentes",
+      "link": "https://observador.pt/2026/08/01/sobe-para-136-o-numero-de-portugueses-e-lusodescendentes-mortos-no-sismo-na-venezuela/",
+      "pubDate": "Sat, 01 Aug 2026 17:57:14 +0100",
+      "description": "Entre as vítimas mortais, encontram-se 28 menores. Número de desaparecidos baixou de dez para cinco. Mais de 5 mil pessoas morreram após duplo sismo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/01174644/47533663.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1968:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16165120/gettyimages-2227549546.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "17h. Ceuta. União Europeia realiza reunião de emergência",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2257/",
-      "pubDate": "Sat, 01 Aug 2026 17:14:24 +0100",
-      "description": "A reunião vai ser na próxima terça feira e vai realizar-se entre os Ministros da Administração Interna dos estados-membros. Ainda, Presidente da FPF esteve reunido com os árbitros em Tomar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Rio Ave apresenta plantel aos sócios",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/rio-ave-apresenta-plantel-aos-socios_d1757214",
+      "pubDate": "Sat, 01 Aug 2026 19:32:12 +0100",
+      "description": "O Rio Ave, da I Liga, apresentou aos sócios o plantel provisório para a época 2026/27, formado por 27 jogadores, três deles reforços.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c92619c4484b6f995d8f73b7071ea772?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "BE quer acesso a relatório sobre reforma da Segurança Social",
-      "link": "https://observador.pt/2026/08/01/be-requer-acesso-ao-relatorio-final-sobre-a-reforma-da-seguranca-social/",
-      "pubDate": "Sat, 01 Aug 2026 16:36:05 +0100",
-      "description": "Ministra do Trabalho anunciou ter recebido esta semana a versão final do relatório do Grupo de Trabalho para a Reforma da Segurança Social. Apresentação pública será nas próximas semanas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30171247/47497338.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Ministros do Interior da UE reunem-se de emergência dia 4",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-ministros-do-interior-da-ue-reunem-se-de-emergencia-dia-4_a1_1757213",
+      "pubDate": "Sat, 01 Aug 2026 19:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Com o \"vice-rei\" Rubio, vai a Venezuela democratizar-se?",
-      "link": "https://observador.pt/especiais/sob-ordens-do-vice-rei-rubio-chavistas-e-oposicao-comecam-a-dialogar-sem-corina-machado-vai-a-venezuela-democratizar-se/",
-      "pubDate": "Sat, 01 Aug 2026 16:19:18 +0100",
-      "description": "A controlarem a Venezuela, EUA escolheram a médica Dinorah Figuera para iniciar as negociações para democratizar a Venezuela. Corina recusou participar. Reuniões começam este sábado, mas vão resultar?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2400:1347:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30185953/gettyimages-2283812934.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Venezuela. Sobe para 136 o número de portugueses e lusodescendentes mortos",
+      "link": "https://www.rtp.pt/noticias/mundo/venezuela-sobe-para-136-o-numero-de-portugueses-e-lusodescendentes-mortos_n1757210",
+      "pubDate": "Sat, 01 Aug 2026 19:08:56 +0100",
+      "description": "O número de portugueses e lusodescendentes mortos no duplo sismo que atingiu a Venezuela a 24 de junho subiu para 136, indicou hoje o mais recente balanço do Ministério dos Negócios Estrangeiros (MNE) português.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/97/979c857e010eb1629e0a131c6278af49?w=350&amp;q=50&amp;rect=0,301,5500,3015&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Embaixadas dos EUA aconselham cidadãos a \"ponderar\" saída do Médio Oriente",
-      "link": "https://www.rtp.pt/noticias/mundo/embaixadas-dos-eua-aconselham-cidadaos-a-ponderar-saida-do-medio-oriente_n1757202",
-      "pubDate": "Sat, 01 Aug 2026 17:28:54 +0100",
-      "description": "As Embaixadas dos EUA em vários países do Médio Oriente alertaram este sábado os cidadãos norte-americanos para uma possível &quot;escalada&quot; do conflito regional e aconselharam a que se preparassem para abandonar a região.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2c08c1b3dbec80d80dd4c79d1ace135b?w=350&amp;q=50&amp;rect=0,310,6000,3289&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Brentford concretiza transferência recorde",
+      "link": "https://maisfutebol.iol.pt/premier-league/brentford/oficial-brentford-concretiza-transferencia-recorde",
+      "pubDate": "Sat, 1 Aug 2026 18:11:00 +0100",
+      "description": "Mamadou Sangaré reforça os ingleses, num negócio avaliado em 50 milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e2608d34ed0733ba7d9de/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "16h Marroquinos deambulam por Ceuta",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-marroquinos-deambulam-por-ceuta_a1_1757203",
-      "pubDate": "Sat, 01 Aug 2026 17:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "João Almeida regressa à competição na Volta à Polónia",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/joao-almeida-regressa-a-competicao-na-volta-a-polonia_d1757199",
-      "pubDate": "Sat, 01 Aug 2026 16:20:07 +0100",
-      "description": "O português João Almeida vai regressar à competição na segunda-feira, na Volta à Polónia, anunciou hoje a equipa UAE Emirates, que divulgou os atletas escolhidos para a competição que termina no dia 9 de agosto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63d9ad95662a87805c23b84b5c125989?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: enquanto não decide o futuro, Diomande aproveita folga em Sevilha",
+      "link": "https://maisfutebol.iol.pt/sporting/ousmane-diomande/video-enquanto-nao-decide-o-futuro-diomande-aproveita-folga-em-sevilha",
+      "pubDate": "Sat, 1 Aug 2026 17:56:36 +0100",
+      "description": "Defesa-central ainda não disputou nenhum jogo nesta pré-temporada ao serviço do Sporting e estará de malas feitas para Nottingham",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e0887d34ed0733ba7d9a9/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a47daa8d34e28842c85e889/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Fábio Silva marca na vitória do Dortmund",
-      "link": "https://maisfutebol.iol.pt/made-in/internacional/video-fabio-silva-marca-na-vitoria-do-dortmund",
-      "pubDate": "Sat, 1 Aug 2026 17:22:36 +0100",
-      "description": "Formação alemã bateu os japoneses do Tokyo FC por 1-0",
-      "thumbnail": "https://img.iol.pt/image/id/69ee5355d34e28842c835abb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Estreia de Zidane ao comando da seleção Francesa já tem bilhetes esgotados",
-      "link": "https://maisfutebol.iol.pt/franca/internacional/estreia-de-zidane-ao-comando-da-selecao-francesa-ja-tem-bilhetes-esgotados",
-      "pubDate": "Sat, 1 Aug 2026 17:18:00 +0100",
-      "description": "Franceses jogam com a Itália dia 2 de outubro em jogo para a Liga das Nações",
-      "thumbnail": "https://img.iol.pt/image/id/6a688165d34ed0733ba7cbcc/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sat, 01 Aug 2026 15:26:08 +0000",
       "description": "O prazo de entrega de candidaturas para fornecer 12 comboios de alta velocidade à CP termina este sábado. Saiba quem são os fabricantes que podem entrar na corrida.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AZceG2vrPWFGAxD6MKPUMYvSFIQvO39yU1j6XUe8M%2BXsU1izvL%2FH4kmkNc1WmLKYkHIiMhEXHks9r7ami9YnqcimlTmwDfPCa4p1vLbGpxwMFn8b6pCPMEzOgLwfYGg9V"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Sobe para 136 número de portugueses e lusodescendentes mortos nos sismos da Venezuela",
+      "link": "https://sapo.pt/artigo/sobe-para-136-numero-de-portugueses-e-lusodescendentes-mortos-nos-sismos-da-venezuela-6a6e247d3f3011d88fbfb4b9",
+      "pubDate": "Sat, 01 Aug 2026 17:07:47 +0000",
+      "description": "O Ministérios dos Negócios Estrangeiros português adianta ainda que há cinco cidadãos desaparecidos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AhmOBO5u0Eb8Gsl8geqd9R9YRXdEkntit4GA2G6f3RnxDHiBI8okv4rUX7SVJz%2BnHQcsjmVUwj00chi3syUY7as2dR%2BOXE01fyZnsZXx8w7bQ5PQkVlv7SRMEuRv7re86"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AZ3vDLJCD7vxDvIkh59KPqJyezbNeBLjfWceDipYgkmKCl7nofBpIki88lEmmYLtLnoekIdCex%2BuyzNPP6FZBzKHlZgUbWVgU%2FlqCUzDJoQS4DjQm8X2UM5kHcsp0k8Kb"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "ANA entrega Estudo de Impacte Ambiental do novo aeroporto Luís de Camões à APA",
-      "link": "https://sapo.pt/artigo/ana-entrega-estudo-de-impacte-ambiental-do-novo-aeroporto-luis-de-camoes-a-apa-6a6dd780d4fdaf18ce919a57",
-      "pubDate": "Sat, 01 Aug 2026 11:33:32 +0000",
-      "description": "O estudo tem cerca de 5.000 páginas e foi desenvolvido ao longo de um ano e meio por mais de 60 técnicos, incidindo em temáticas como recursos hídricos, ruído, sistemas ecológicos e qualidade do ar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AuJ1Bm2CovEb4YmKHuEkDN8IdZdX5A7vmYularCqDeR2GRdiJBrLr08%2F2Zs2Sa7clP8elta4v%2FrBi7mIFYDxbZaR0ZwIWGgY6FAXTZazZjzqo4Rz02ukQMIu5KLEOFvQb"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Rio Ave vence Tondela com 'reviravolta' no teste final antes da I Liga",
+      "link": "https://www.noticiasaominuto.com/desporto/3030931/rio-ave-vence-tondela-com-reviravolta-no-teste-final-antes-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 18:21:46",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2affe13f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTc2OCwiY3JvcEhlaWdodCI6MzE0MywiY3JvcFgiOjM4NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rio Ave apresenta-se aos sócios com 27 jogadores e três reforços",
-      "link": "https://www.noticiasaominuto.com/desporto/3030925/rio-ave-apresenta-se-aos-socios-com-27-jogadores-e-tres-reforcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 17:34:54",
+      "title": "Silaidopoulos promete Rio Ave \"ambicioso\" e ainda quer dois reforços",
+      "link": "https://www.noticiasaominuto.com/desporto/3030932/silaidopoulos-promete-rio-ave-ambicioso-e-ainda-quer-dois-reforcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 18:18:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d439fe5cbb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NjMsImNyb3BIZWlnaHQiOjI2MCwiY3JvcFgiOjMsImNyb3BZIjo4OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzI3LCJjcm9wSGVpZ2h0Ijo1ODEsImNyb3BYIjoxMjQsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e2b7194107e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxMywiY3JvcEhlaWdodCI6MTgwMSwiY3JvcFgiOjc4MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 100 operacionais combatem incêndio em Vila Nova de Gaia",
-      "link": "https://www.noticiasaominuto.com/pais/3030924/mais-de-100-operacionais-combatem-incendio-em-vila-nova-de-gaia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 17:20:57",
+      "title": "Como contrata Morata, mas Fàbregas não dá tréguas: \"Tem de se mostrar...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3030933/como-contrata-morata-mas-fabregas-nao-da-treguas-tem-de-se-mostrar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 18:15:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e773690.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2334ed72e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo3NjMsImNyb3BZIjotMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Acusado de assassinar quatro estudantes em Idaho quer anular confissão",
-      "link": "https://www.noticiasaominuto.com/mundo/3030909/acusado-de-assassinar-quatro-estudantes-em-idaho-quer-anular-confissao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 17:18:45",
+      "title": "Morreu Nirmal Purja, recordista desaparecido após avalanche no Paquistão",
+      "link": "https://www.noticiasaominuto.com/mundo/3030926/morreu-nirmal-purja-recordista-desaparecido-apos-avalanche-no-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 18:13:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68811f419cbbe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjM4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDYsImNyb3BYIjo3NTYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e2081d1bda.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUyLCJjcm9wSGVpZ2h0IjoxNDM2LCJjcm9wWCI6LTEsImNyb3BZIjoyMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgyMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo no concelho de Mesão Frio combatido por 120 homens e 8 meios aéreos",
-      "link": "https://www.noticiasaominuto.com/pais/3030921/fogo-no-concelho-de-mesao-frio-combatido-por-120-homens-e-8-meios-aereos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 17:10:37",
+      "title": "O novo documentário da Netflix que já mereceu acusação de difamação",
+      "link": "https://www.noticiasaominuto.com/tech/3030024/o-novo-documentario-da-netflix-que-ja-mereceu-acusacao-de-difamacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-01 18:00:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689b86e40d848.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Felgueiras perde com Vitória SC B em encontro particular",
-      "link": "https://www.noticiasaominuto.com/desporto/3030919/felgueiras-perde-com-vitoria-sc-b-em-encontro-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-01 17:08:20",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e8cf0a5f69f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjI5LCJjcm9wSGVpZ2h0Ijo2OTEsImNyb3BYIjoxNDcsImNyb3BZIjoxMTE2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjIsImNyb3BIZWlnaHQiOjE2MzgsImNyb3BYIjoyOTgsImNyb3BZIjozNjR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b9f2e680f8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTA0LCJjcm9wSGVpZ2h0IjoxMTgzLCJjcm9wWCI6MTAzLCJjcm9wWSI6MTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY1MCwiY3JvcEhlaWdodCI6MTE1NiwiY3JvcFgiOjI5MSwiY3JvcFkiOjEwfX0="
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,26 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "WRC, Rali da Finlândia/PEC18: Sami Pajari líder, com apenas duas especiais para o fim",
+      "link": "https://www.autosport.pt/sem-categoria/wrc-rali-da-finlandia-pec18-sami-pajari-lider-com-apenas-duas-especiais-para-o-fim/",
+      "pubDate": "Sat, 01 Aug 2026 17:22:00 +0000",
+      "description": "Sami Pajari / Marko Salminen (Toyota GR Yaris Rally1) terminaram este terceiro dia do Rali da Finlândia na liderança do rali. A jogar em casa, a dupla da Toyota herdou o primeiro lugar após o acidente de Sébastien Ogier / Julien Ingrassia (Toyota GR Yaris Rally1), que lideravam o rali antes da viole",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rali da Madeira/PEC14: Miguel Nunes perto da vitória, Meeke vence mais um troço",
+      "link": "https://www.autosport.pt/ralis/rali-da-madeira-pec14-miguel-nunes-perto-da-vitoria-meeke-vence-mais-um-troco/",
+      "pubDate": "Sat, 01 Aug 2026 16:57:28 +0000",
+      "description": "A derradeira especial do Rali da Madeira avança com o piloto madeirense Miguel Nunes (Skoda Fabia Rally2 Evo) solidamente instalado no comando da classificação geral, dispondo de uma confortável vantagem de 32.5 segundos sobre o seu perseguidor mais direto, João Silva (Toyota GR Yaris Rally2). Na te",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "WRC, Juha Kankkunen: “Eles estão bem, mais em choque do que qualquer outra coisa”",
       "link": "https://www.autosport.pt/ralis/wrc-juha-kankkunen-eles-estao-bem-mais-em-choque-do-que-qualquer-outra-coisa/",
       "pubDate": "Sat, 01 Aug 2026 16:24:32 +0000",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/ralis/rali-da-madeira-pec13-pedro-meireles-passa-hugo-lopes/",
       "pubDate": "Sat, 01 Aug 2026 15:54:46 +0000",
       "description": "Kris Meeke (Toyota Gr Yaris Rally2) venceu mais um troço, bateu João Silva (Toyota Gr Yaris Rally2) por 0.4s, com Armindo Araújo (Skoda Fabia Rs Rally2) em terceiro a 2.3s.Miguel Nunes (Skoda Fabia Rally2 Evo) foi quinto, e vai para os últimos dois troços com 32.7s de avanço para João Silva. Armindo",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Volkswagen privilegia fábricas mais baratas",
-      "link": "https://www.autosport.pt/automais/volkswagen-privilegia-fabricas-mais-baratas/",
-      "pubDate": "Sat, 01 Aug 2026 15:49:00 +0000",
-      "description": "O Grupo Volkswagen, o maior fabricante europeu de automóveis e o número dois mundial, está a redefinir a estratégia industrial na Europa, com o objetivo de passar a atribuir a produção futura de carros com base prioritária nos custos de produção, em detrimento das preferências individuais das marcas",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC, Rali da Finlândia/PEC17: Sébastien Ogier e Julien Ingrassia saíram do carro sem ajuda e estão bem",
-      "link": "https://www.autosport.pt/ralis/wrc-rali-da-finlandia-pec17-sebastien-ogier-e-julien-ingrassia-fora-do-carro/",
-      "pubDate": "Sat, 01 Aug 2026 15:44:21 +0000",
-      "description": "Começam a chegar as primeiras notícias do incidente de Sébastien Ogier / Julien Ingrassia (Toyota GR Yaris Rally1). Ogier liderava na geral e defendia-se do ataque de Sami Pajari / Marko Salminen (Toyota GR Yaris Rally1), que durante a tarde foi tentando chegar-se ao colega de equipa. A distância en",
       "thumbnail": ""
     }
   ]
