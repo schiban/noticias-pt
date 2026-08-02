@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-02T21:25:27.718809+00:00",
+  "updated": "2026-08-02T22:27:00.624063+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "23h. Cerca de 28 mil bombeiros combatem as chamas nos EUA",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2143/",
+      "pubDate": "Sun, 02 Aug 2026 23:14:03 +0100",
+      "description": "A região noroeste do país enfrenta o incêndio mais complicado dos últimos 30 anos. Ainda, a petição contra o campo de tiro em Alter do Chão ultrapassou as 2.500 assinaturas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mais de 27 mil bombeiros combatem as chamas nos EUA",
+      "link": "https://observador.pt/2026/08/02/mais-de-27-mil-bombeiros-combatem-as-chamas-nos-eua-estado-de-washington-declara-emergencia/",
+      "pubDate": "Sun, 02 Aug 2026 22:22:01 +0100",
+      "description": "2,1 milhões de hectares arderam só este ano. Washington e Oregon entre os estados mais afetados, na sequência de uma onda de calor que começou no sábado. Incêndio de Spokane é o mais preocupante.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02195041/gettyimages-2287181752-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "20h. Está reaberta a circulação na Ponte 25 de Abril",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2017/",
-      "pubDate": "Sun, 02 Aug 2026 20:13:15 +0100",
-      "description": "O trânsito esteve condicionado esta tarde devido a um acidente que provocou uma morte. Ainda, avião da TAP com destino a Boston aterrou hoje de emergência no aeroporto das Lajes, nos Açores.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Está em vigor Regulamento Europeu da Inteligência Artificial",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-esta-em-vigor-regulamento-europeu-da-inteligencia-artificial_a1_1757349",
+      "pubDate": "Mon, 03 Aug 2026 00:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os telemóveis, de novo",
-      "link": "https://observador.pt/opiniao/os-telemoveis-de-novo/",
-      "pubDate": "Sun, 02 Aug 2026 19:54:01 +0100",
-      "description": "Se é tão simples que os adolescentes sejam capazes de se auto-regularem na relação com os telemóveis porque é que os pais e os professores não o conseguem fazer?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Chelsea anuncia Valentin Barco",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-anuncia-valentin-barco_d1757348",
+      "pubDate": "Sun, 02 Aug 2026 23:26:39 +0100",
+      "description": "O internacional argentino Valentin Barco é reforço do Chelsea, assinando pelos londrinos por sete temporadas, e passa a ser o segundo futebolista do Estrasburgo, depois de Emmanuel Emegha, a rumar esta época para Stamford Bridge, foi hoje anunciado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/56/562369e2d87d41bd890e235e2def1243?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "22h Marrocos responsabiliza redes sociais por crise migratória",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-marrocos-responsabiliza-redes-sociais-por-crise-migratoria_a1_1757347",
+      "pubDate": "Sun, 02 Aug 2026 23:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Histórica prova de natação de Ceuta adiada por motivos de segurança",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/historica-prova-de-natacao-de-ceuta-adiada-por-motivos-de-seguranca_d1757346",
+      "pubDate": "Sun, 02 Aug 2026 23:22:08 +0100",
+      "description": "O Clube de Natação Caballa anunciou o adiamento da 82.ª Travessia do Porto de Ceuta, um dos eventos mais antigos de Espanha, devido a preocupações de segurança na sequência da chegada de milhares de migrantes marroquinos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/59/59ecc018d8274d20f7031733b2020a2d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/f4/f4b3d3c837d248119e78ee48d39715cb_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Acidente em 1952. Avião da PAN America descoberto 74 anos depois",
-      "link": "https://www.rtp.pt/noticias/mundo/acidente-em-1952-aviao-da-pan-america-descoberto-74-anos-depois_v1757343",
-      "pubDate": "Sun, 02 Aug 2026 22:42:47 +0100",
-      "description": "Foram encontrados no mar, na costa dos Estados Unidos os destroços de um avião que estava desaparecido há mais de 70 anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/34/3451d58d627c5e3ceed034a87006216e_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Situação excecional» em Ceuta dita adiamento de histórica prova de natação",
+      "link": "https://maisfutebol.iol.pt/internacional/espanha/situacao-excecional-em-ceuta-dita-adiamento-de-historica-prova-de-natacao",
+      "pubDate": "Sun, 2 Aug 2026 23:17:00 +0100",
+      "description": "Organização prioriza segurança dos atletas e procura nova data para um dos eventos desportivos mais antigos de Espanha",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fb814d34e511da0b313a9/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Empresas fazem o balanço do PRR. \"Tem sido um exercício de paciência e gestão\"",
-      "link": "https://www.rtp.pt/noticias/economia/empresas-fazem-o-balanco-do-prr-tem-sido-um-exercicio-de-paciencia-e-gestao_v1757342",
-      "pubDate": "Sun, 02 Aug 2026 22:36:47 +0100",
-      "description": "O Plano de Recuperação e Resiliência termina no final deste mês. O Governo garante que &quot;nenhum euro ficará por investir&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/da/da8925eacdefca820a42f01a651293ff_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Promessa do futebol marroquino morre ao tentar chegar a Ceuta",
+      "link": "https://maisfutebol.iol.pt/luto/marrocos/promessa-do-futebol-marroquino-morre-ao-tentar-chegar-a-ceuta-a-nado",
+      "pubDate": "Sun, 2 Aug 2026 23:13:00 +0100",
+      "description": "Faten Ben Omar El Azzizi, de 20 anos, foi uma das vítimas da vaga migratória a partir de Marrocos",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fbe2fd34ed0733ba7dc9e/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "21h Migrantes: Marrocos admite 11 mortes do seu lado da fronteira",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-migrantes-marrocos-admite-11-mortes-do-seu-lado-da-fronteira_a1_1757341",
-      "pubDate": "Sun, 02 Aug 2026 22:18:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: árbitro abandona jogo no Brasil após sofrer insultos racistas",
+      "link": "https://maisfutebol.iol.pt/brasil/racismo/video-arbitro-abandona-jogo-no-brasil-apos-sofrer-insultos-racistas",
+      "pubDate": "Sun, 2 Aug 2026 22:44:00 +0100",
+      "description": "Marco Nunes acionou o protocolo antirracismo no campeonato paulista sub-15",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fb765d34ed0733ba7dc84/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ceuta. Marrocos quebra o silêncio e admite 11 mortos do seu lado da fronteira",
-      "link": "https://www.rtp.pt/noticias/mundo/ceuta-marrocos-quebra-o-silencio-e-admite-11-mortos-do-seu-lado-da-fronteira_n1757340",
-      "pubDate": "Sun, 02 Aug 2026 22:14:32 +0100",
-      "description": "As autoridades marroquinas indicam que foram registadas 11 vítimas do lado marroquino e apontam para a &quot;interpretação errada&quot; de uma decisão do Supremo Tribunal espanhol como a origem desta crise migratória.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e794c015763720611db90baaf533b865?w=350&amp;q=50&amp;rect=0,329,5813,3187&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Sevilha contrata guarda-redes ao Real Madrid",
+      "link": "https://maisfutebol.iol.pt/espanha/internacional/oficial-sevilha-contrata-guarda-redes-ao-real-madrid",
+      "pubDate": "Sun, 2 Aug 2026 22:23:00 +0100",
+      "description": "Fran González assina contrato até 2031",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fb084d34e511da0b3138b/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -112,144 +152,114 @@
       "thumbnail": "https://img.iol.pt/image/id/6a6fb0b5d34ed0733ba7dc6d/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Florentino deixa Burnley e regressa à Premier League pelo Ipswich",
-      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/02-08-2026/florentino-deixa-burnley-e-regressa-a-premier-league-pelo-ipswich",
-      "pubDate": "Sun, 2 Aug 2026 22:04:00 +0100",
-      "description": "Ex-Benfica vai render cerca de 20 milhões de euros ao emblema que desceu ao Championship",
-      "thumbnail": "https://img.iol.pt/image/id/66eb2e62d34e94b8290552eb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Abel Ferreira vence nos «oitavos» da Taça do Brasil",
-      "link": "https://maisfutebol.iol.pt/brasil/abel-ferreira/video-abel-ferreira-vence-nos-oitavos-da-taca-do-brasil",
-      "pubDate": "Sun, 2 Aug 2026 22:02:00 +0100",
-      "description": "Triunfo por 3-0 na 1.ª mão frente ao Fortaleza",
-      "thumbnail": "https://img.iol.pt/image/id/6911a48dd34e2bd5c6d3d026/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Léo Azevedo ruma aos Emirados e Torreense espreita transferência recorde",
-      "link": "https://maisfutebol.iol.pt/torreense/mercado-de-transferencias/leo-azevedo-ruma-aos-emirados-e-torreense-espreita-transferencia-recorde",
-      "pubDate": "Sun, 2 Aug 2026 21:40:00 +0100",
-      "description": "Al Sharjah de José Morais prepara-se para recrutar o médio de 22 anos, em evidência desde 2024",
-      "thumbnail": "https://img.iol.pt/image/id/69b881c9d34edcee7c61f3b4/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Milan: Ruben Amorim faz homenagem sentida a Baresi",
-      "link": "https://maisfutebol.iol.pt/milan/ruben-amorim/milan-ruben-amorim-faz-homenagem-sentida-a-baresi",
-      "pubDate": "Sun, 2 Aug 2026 21:04:35 +0100",
-      "description": "Treinador português, junto de Matteo Gabbia, deixou flores no mural do antigo defesa",
-      "thumbnail": "https://img.iol.pt/image/id/6a6fa049d34ed0733ba7dc3f/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Mais de 27 mil bombeiros combatem as chamas nos EUA",
+      "link": "https://sapo.pt/artigo/mais-de-27-mil-bombeiros-combatem-as-chamas-nos-eua-6a6fb57d2218b0c1f0b80c67",
+      "pubDate": "Sun, 02 Aug 2026 21:45:35 +0000",
+      "description": "2,1 milhões de hectares arderam só este ano. Washington e Oregon entre os estados mais afetados, na sequência de uma onda de calor que começou no sábado. Incêndio de Spokane é o mais preocupante.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A4sNjUXstXn80MWMyzJgjW3kjZsz4pDS4am3IpYWt3Pa6oH2eDBa4BaKLojuuZzrNkK7sCcBl1d4LiMOcU5PHjfC%2BK2UcyrZzGTaICA1%2FuGol6H%2FkXis8jWf5xsAk1HCG"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Morgue e serviços forenses em Ceuta estão sobrecarregados: número de mortos pode ultrapassar uma centena, admitem as autoridades",
-      "link": "https://sapo.pt/artigo/morgue-e-servicos-forenses-em-ceuta-estao-sobrecarregados-numero-de-mortos-pode-ultrapassar-uma-centena-admitem-as-autoridades-6a6f80e2ab90d676944ec075",
-      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
-      "description": "Depois da “avalanche” de migrantes em Ceuta, começa a ser conhecida a dimensão da tragédia. Há mortos de um e do outro lado da fronteira. Têm sido horas de trabalho ininterrupto para recuperar corpos e realizar autópsias",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AyxbS2%2F3%2FDEx32DEDVLx2fUmZztHpyaMSvDujS76TBHsSGxb2VQsXHXxJeq7kh%2BfI0UoDiIu%2F5kgaoHe80lzjYeV24XsMM6UrF9ynM0ck2mPGOc%2Fs5R%2BvdHzsnWLemGAx"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Drone russo gera alarme na Roménia e Itália apreende navio da “frota fantasma”",
-      "link": "https://sapo.pt/artigo/drone-russo-gera-alarme-na-romenia-e-italia-apreende-navio-da-frota-fantasma-6a6f93cd2218b0c1f0b30840",
-      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
-      "description": "Ataques ucranianos fazem oito mortos na Rússia. Bomba explode em restaurante de Moscovo",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AuAlwF%2BWtLJApse6ou8ebZ46rOBIolDNQBaBTCFf2Qe5tVqRvMhqo4TIrh4FnyUwD%2Bowjf2Ckjsaw%2F29ldq2PKRM5FRmyLfKtmAfGpIk%2FdpQZuv5kKUqJuQyM4uhBDAiI"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Acidente mortal obriga ao corte do trânsito na Ponte 25 de Abril",
-      "link": "https://sapo.pt/artigo/acidente-mortal-obriga-ao-corte-do-transito-na-ponte-25-de-abril-6a6f8f372218b0c1f0b24a0c",
-      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
-      "description": "A vítima mortal seguia no motociclo que esteve envolvido no acidente com um camião.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ab9EoavVxU7ThAzbLmhZ4tJ3NT1CoeXANO%2Fe2CTucYs3ChH8LTsb0Ciaz1X4sslHz7HHLAkO0vGmTEK%2Bk73veyY%2FsdYL3ao6kdh0i8uo4YOjUl6FXKNWbx7W4Jd8IQRo%2F"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Irão anuncia possível acordo com Omã em Ormuz",
-      "link": "https://eco.sapo.pt/2026/08/02/irao-anuncia-possivel-acordo-com-oma-em-ormuz/",
-      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
-      "description": "O Irão revelou e a possibilidade de um acordo com Omã sobre uma nova rota de navegação para os navios no estreito de Ormuz, anunciou o Ministério dos Negócios Estrangeiros iraniano.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AFZSq5FazuXCgrn%2BnMPnG6vw%2FdGkry9gg%2FwK7EBKkgoMv0WSWAgX2CVyKXfgOTQy3NaDaa5LYM6OvFO93c1m4WeCVXPfgFgQ98zWQdo8IQaa1zhHHvQaa5h8eWsP4qScr"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Pelo menos sete mortos e mais de 20 feridos em ataque suicida no Paquistão",
-      "link": "https://sapo.pt/artigo/pelo-menos-sete-mortos-e-mais-de-20-feridos-em-ataque-suicida-no-paquistao-6a6f7ea6d4fdaf18cecedc42",
-      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
-      "description": "Pelo menos sete pessoas morreram hoje e mais de 20 ficaram feridas num ataque suicida durante uma manifestação no norte do Paquistão, disse a polícia paquistanesa",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ANu8GKTlp0T4Zwn0fXKRBrU6iPRXxM%2Frsrrr3LXnm%2BC7ggtrjEEgSvbM5woYHkIICxTSUJMfytYw%2FBXpxdBVFa5dQhZ0jStXqajzTvUJ4khCJynio%2FHvlRO9zrWfn%2BDY6"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
       "title": "Marrocos culpa desinformação e redes de tráfico por migração em Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3031214/marrocos-culpa-desinformacao-e-redes-de-trafico-por-migracao-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 22:05:52",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6ca3289e971.webp"
+      "link": "https://sapo.pt/artigo/marrocos-culpa-desinformacao-e-redes-de-trafico-por-migracao-em-ceuta-6a6fb4ecab90d67694581271",
+      "pubDate": "Sun, 02 Aug 2026 21:45:35 +0000",
+      "description": "O Ministério do Interior de Marrocos apontou que os \"acontecimentos em Ceuta\" se deveram à desinformação propagada nas redes sociais, à atividade das redes de tráfico de seres humanos e à interpretação errada de dados legais e administrativos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AqhOAsIUkHQ%2FbZV8LnIHEskKTUT1Y%2BELb1aG%2Fi0kkox7eis3W9XuAchoLy9W5cANohc8YUbC6FuNm8cJkHBJjq1rpovKZkXSiERfbv3rETFfq%2F6qlKzgb%2BalHyjQkKkAs"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Nicolás Maduro saúda \"qualquer via de diálogo\" para a paz na Venezuela",
+      "link": "https://sapo.pt/artigo/nicolas-maduro-sauda-qualquer-via-de-dialogo-para-a-paz-na-venezuela-6a6fb33ed4fdaf18ced74ca3",
+      "pubDate": "Sun, 02 Aug 2026 21:45:35 +0000",
+      "description": "O governo e a oposição venezuelana concordaram, no sábado, discutir \"direitos e garantias políticas\" na próxima semana, para quando se prevê uma primeira reunião presencial em Caracas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=629&W=1118&crop=center&delay_optim=1&epic=V2%3AmMyaaAkVyHZQhnUwxMp%2BVzEnre%2BElmKe19tNkv39fBssTQxdDIyG7qBa5iTLwOb0ILHpZPSlbs967YzmPm6ULQxHyKYDaX%2F8%2BzpM228CyTDkEAsXVgbhfSwN8DsdSDBN"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Mais de 2.500 contra campo de tiro em Alter do Chão",
+      "link": "https://sapo.pt/artigo/mais-de-2-500-contra-campo-de-tiro-em-alter-do-chao-6a6fa7ed3f3011d88fef8cb8",
+      "pubDate": "Sun, 02 Aug 2026 21:45:35 +0000",
+      "description": "Movimento surge depois de o Governo ter anunciado que pretende transferir a estrutura de Alcochete para Alter do Chão.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3APMZFR9JX37WSEH2zHPyB0ayhcBOGPxzg%2FWN6Tsl8iq%2FdIQpA2Q21MHk%2FR%2FYjYVxHNYBUGafQb07R6S8QQAtWOr550PYz7mE%2FVOX7NqSRIHWq3TrCIHOwcFjsc%2FMtKa09"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ainda a venda do Mundial: UEFA ameaça avançar com ação legal contra Infantino",
+      "link": "https://sapo.pt/artigo/ainda-a-venda-do-mundial-uefa-ameaca-avancar-com-acao-legal-contra-infantino-6a6f9e6051a85aa96992d11e",
+      "pubDate": "Sun, 02 Aug 2026 21:45:35 +0000",
+      "description": "'The Telegraph' avança que o presidente da FIFA foi avisado pela confederação europeia para não destruir quaisquer provas da tentativa de negócio",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ad%2BVuHoy51SlMIQvn%2B6UzzHFhMgW8KU8i8QqQrW1gwBwljZOaydeHQigo%2BsktQAh0n%2B2IOG8BVqCO9%2BXsrksglw7hMp2JBCC8UP3dv11a299xtS8PxpDj%2FSye9%2BGwG3zP"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Abel Ferreira mostra o caminho e Palmeiras vence primeira mão dos oitavos",
-      "link": "https://www.noticiasaominuto.com/desporto/3031212/abel-ferreira-mostra-o-caminho-e-palmeiras-vence-primeira-mao-dos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:56:27",
+      "title": "Liverpool adormece, sofre 4 golos em 45 minutos e dá reviravolta ao Leeds",
+      "link": "https://www.noticiasaominuto.com/desporto/3031222/liverpool-adormece-sofre-4-golos-em-45-minutos-e-da-reviravolta-ao-leeds#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 23:10:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa9f5062bc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDYsImNyb3BIZWlnaHQiOjE2ODIsImNyb3BYIjo4MjMsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fbea7ec949.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc3LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6NDEsImNyb3BZIjozNn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Chelsea contrata Valentin Barco ao Strasbourg",
-      "link": "https://www.noticiasaominuto.com/desporto/3031211/oficial-chelsea-contrata-barco-ao-strasbourg#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:44:38",
+      "title": "Polémico? Ex-Benfica publica vídeo a treinar... com camisola do Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3031220/polemico-ex-benfica-publica-video-a-treinar-com-camisola-do-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 23:04:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fabe31aaf2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fbb6f2b9d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MDAsImNyb3BIZWlnaHQiOjM5NCwiY3JvcFgiOi0xNjcsImNyb3BZIjoxMDF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMwMiwiY3JvcEhlaWdodCI6NTM4LCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Surreal. Foi substituído e dirigiu-se às bancadas para agredir… um adepto",
-      "link": "https://www.noticiasaominuto.com/desporto/3031210/surreal-foi-substituido-e-dirigiu-se-as-bancadas-para-agredir-um-adepto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:22:29",
+      "title": "Incêndio mobiliza mais de 90 operacionais em Vila Franca de Xira",
+      "link": "https://www.noticiasaominuto.com/pais/3031218/incendio-mobiliza-mais-de-90-operacionais-em-vila-franca-de-xira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 23:02:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa3c5a5180.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6910f161a72c6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marco Costa transforma quarto da filha (tem casa de brincar e escorrega)",
-      "link": "https://www.noticiasaominuto.com/fama/3029667/marco-costa-transforma-quarto-da-filha-tem-casa-de-brincar-e-escorrega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:04:42",
+      "title": "Dakota Johnson irreconhecível no papel de Marilyn Monroe. A imagem",
+      "link": "https://www.noticiasaominuto.com/fama/3029168/dakota-johnson-irreconhecivel-no-papel-de-marilyn-monroe-a-imagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 23:02:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b234229af6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTM1LCJjcm9wSGVpZ2h0Ijo2MzgsImNyb3BYIjoxMCwiY3JvcFkiOjcwOX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6a063cde53e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTgsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo5NjIsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Franculino Djú marcou um grande golo e festejou de forma... caricata",
+      "link": "https://www.noticiasaominuto.com/desporto/3031219/franculino-dju-marcou-um-grande-golo-e-festejou-de-forma-caricata#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 22:58:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fbc254b4ef.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Portugal: tem um carro com mais de 30 anos? Há benefícios",
+      "link": "https://pplware.sapo.pt/motores/portugal-tem-um-carro-com-mais-de-30-anos-ha-beneficios/",
+      "pubDate": "Sun, 02 Aug 2026 21:30:36 +0000",
+      "description": "Em Portugal, um automóvel com mais de 30 anos pode vir a ser reconhecido como um veículo de interesse histórico, mas esse reconhecimento depende do cumprimento de vários critérios. Saiba quais os benefícios disponíveis&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/IMG_9660-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 02 Aug 2026 18:00:56 +0000",
       "description": "O universo de Star Wars Zero Company continua a ganhar forma antes do seu lançamento e a Bit Reactor, em colaboração com a Lucasfilm Games, revelou uma parte do elenco que dará vida às&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/SWZC.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Agosto de 2026 será um mês inesquecível para observar o céu",
-      "link": "https://pplware.sapo.pt/ciencia/agosto-de-2026-sera-um-mes-inesquecivel-para-observar-o-ceu/",
-      "pubDate": "Sun, 02 Aug 2026 17:00:56 +0000",
-      "description": "Para quem gosta de novidades do universo, o mês de agosto de 2026 promete ser memorável. Num curto espaço de tempo, será possível assistir a um eclipse total do Sol, ao pico da chuva&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eventos_astronomicos_agosto00.webp"
     },
     {
       "sourceId": "autosport",
