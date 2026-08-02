@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-02T19:16:02.375605+00:00",
+  "updated": "2026-08-02T20:27:17.794562+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 20h",
+      "title": "Mais de 2.500 contra campo de tiro em Alter do Chão",
+      "link": "https://observador.pt/2026/08/02/peticao-contra-campo-de-tiro-em-alter-do-chao-ultrapassa-2-500-assinaturas/",
+      "pubDate": "Sun, 02 Aug 2026 21:24:36 +0100",
+      "description": "Movimento surge depois de o Governo ter anunciado que pretende transferir a estrutura de Alcochete para Alter do Chão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/20145057/41965598.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "21h. Avião da TAP faz aterragem de emergência nos Açores",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1716/",
+      "pubDate": "Sun, 02 Aug 2026 21:10:26 +0100",
+      "description": "O voo partiu de Lisboa e fez uma escala não programada na Ilha Terceira, para avaliar uma questão técnica. Ainda, Portugal ficou em sexto lugar no dueto técnico misto de natação artística.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20h. Está reaberta a circulação na Ponte 25 de Abril",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2017/",
       "pubDate": "Sun, 02 Aug 2026 20:13:15 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O trânsito esteve condicionado esta tarde devido a um acidente que provocou uma morte. Ainda, avião da TAP com destino a Boston aterrou hoje de emergência no aeroporto das Lajes, nos Açores.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,42 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1706:960:nowe:160:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/02111603/nova.webp"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "19h. Colisão dos helicópteros na Grécia faz dois mortos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2138/",
-      "pubDate": "Sun, 02 Aug 2026 19:12:04 +0100",
-      "description": "Os aparelhos participavam no combate a um incêndio em Atenas. Ainda,  Irão garante que Estreito de Ormuz não vai regressar à “situação pré-guerra”.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vocalista dos Xutos sente-se mal em palco, por desidratação",
-      "link": "https://observador.pt/2026/08/02/vocalista-dos-xutos-e-pontapes-sentiu-se-indisposto-num-concerto-da-banda-em-penamacor-tim-ja-esta-bem-apos-episodio-de-desidratacao/",
-      "pubDate": "Sun, 02 Aug 2026 18:49:31 +0100",
-      "description": "A banda avança que Tim foi observado por um a equipa do INEM destacada no local, tendo depois sido reencaminhado para o Hospital de Castelo Branco, a 50 quilómetros de Penamacor.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/08/12092350/38789699.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Juventus contrata Muani e Alajbegovic",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/juventus-contrata-muani-e-alajbegovic_d1757332",
-      "pubDate": "Sun, 02 Aug 2026 20:18:02 +0100",
-      "description": "Os futebolistas Kolo Muani e Kerim Alajbegovic foram contratados pelos italianos da Juventus aos franceses do Paris Saint-Germain e aos alemães do Bayer Leverkusen, respetivamente, anunciaram hoje os três clubes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/be/be52cb8f57b09e1c9bf8b6551b7f6f5b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Entrada em Lisboa pelas pontes muito difícil",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-entrada-em-lisboa-pelas-pontes-muito-dificil_a1_1757331",
-      "pubDate": "Sun, 02 Aug 2026 20:17:03 +0100",
+      "title": "21h Migrantes: Marrocos admite 11 mortes do seu lado da fronteira",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-migrantes-marrocos-admite-11-mortes-do-seu-lado-da-fronteira_a1_1757341",
+      "pubDate": "Sun, 02 Aug 2026 22:18:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +65,71 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "OPEP aumenta produção de petróleo em setembro",
-      "link": "https://www.rtp.pt/noticias/economia/opep-aumenta-producao-de-petroleo-em-setembro_n1757312",
-      "pubDate": "Sun, 02 Aug 2026 19:50:44 +0100",
-      "description": "A Organização dos Países Exportadores de Petróleo, no formato alargado OPEP+, decidiu este domingo que vai aumentar em 188 mil barris diários a oferta para setembro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b94fb7ee9c22cde5fe9f0a36b404eb68?w=350&amp;q=50&amp;rect=0,95,3933,2156&amp;auto=format"
+      "title": "Ceuta. Marrocos quebra o silêncio e admite 11 mortos do seu lado da fronteira",
+      "link": "https://www.rtp.pt/noticias/mundo/ceuta-marrocos-quebra-o-silencio-e-admite-11-mortos-do-seu-lado-da-fronteira_n1757340",
+      "pubDate": "Sun, 02 Aug 2026 22:14:32 +0100",
+      "description": "As autoridades marroquinas indicam que foram registadas 11 vítimas do lado marroquino e apontam para a &quot;interpretação errada&quot; de uma decisão do Supremo Tribunal espanhol como a origem desta crise migratória.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e794c015763720611db90baaf533b865?w=350&amp;q=50&amp;rect=0,329,5813,3187&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Irão diz estar perto de acordo com Omã sobre rotas no Estreito de Ormuz",
-      "link": "https://www.rtp.pt/noticias/mundo/irao-diz-estar-perto-de-acordo-com-oma-sobre-rotas-no-estreito-de-ormuz_n1757328",
-      "pubDate": "Sun, 02 Aug 2026 19:29:05 +0100",
-      "description": "O porta-voz do Ministério iraniano dos Negócios Estrangeiros indicou este domingo que Teerão e Mascate estão perto de chegar a um acordo sobre uma nova rota marítima através do Estreito de Ormuz, diferente dos corredores já existentes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2c551e9ab5b1a8693390afd4148f154b?w=350&amp;q=50&amp;rect=0,166,3390,1859&amp;auto=format"
+      "title": "Exames nacionais. Houve mais de 20 mil pedidos de reapreciação",
+      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-houve-mais-de-20-mil-pedidos-de-reapreciacao_v1757337",
+      "pubDate": "Sun, 02 Aug 2026 21:48:47 +0100",
+      "description": "Os mais de 20 mil pedidos de reapreciações dos exames nacionais chegaram aos professores na quarta feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7e/7e4ae8ce56db33cab77e8f872adf1b07_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"Estou inteiraço\". Lula da Silva oficializa candidatura à presidência do Brasil",
-      "link": "https://www.rtp.pt/noticias/mundo/estou-inteiraco-lula-da-silva-oficializa-candidatura-a-presidencia-do-brasil_n1757326",
-      "pubDate": "Sun, 02 Aug 2026 19:21:17 +0100",
-      "description": "O atual Presidente do Brasil oficializou este domingo a candidatura a um quarto e último mandato. Lula da Silva vai enfrentar o candidato de direita Flávio Bolsonaro, filho do antecessor, nas eleições de outubro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/64/64c852b7a9a9ba8b1789471c01da4a7b?w=350&amp;q=50&amp;rect=0,221,2628,1441&amp;auto=format"
+      "title": "Avião da TAP com destino a Boston fez aterragem de emergência nos Açores",
+      "link": "https://www.rtp.pt/noticias/pais/aviao-da-tap-com-destino-a-boston-fez-aterragem-de-emergencia-nos-acores_v1757335",
+      "pubDate": "Sun, 02 Aug 2026 21:40:47 +0100",
+      "description": "Um avião da TAP com destino a Boston, nos Estados Unidos, declarou emergência. Aterrou na ilha Terceira, nos Açores devido a sobreaquecimento nos porões.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/29/29c7146c54627907787f999a29797794_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "20h 4 feridas em explosão de botija de gás em Viana do Castelo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-4-feridas-em-explosao-de-botija-de-gas-em-viana-do-castelo_a1_1757334",
+      "pubDate": "Sun, 02 Aug 2026 21:22:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Milan: Ruben Amorim faz homenagem sentida a Baresi",
+      "link": "https://maisfutebol.iol.pt/milan/ruben-amorim/milan-ruben-amorim-faz-homenagem-sentida-a-baresi",
+      "pubDate": "Sun, 2 Aug 2026 21:04:35 +0100",
+      "description": "Treinador português, junto de Matteo Gabbia, deixou flores no mural do antigo defesa",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fa049d34ed0733ba7dc3f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli: «Deixar uma marca na história de um clube gigante nunca é fácil»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-deixar-uma-marca-na-historia-de-um-clube-tao-grandioso-nunca-e-facil",
+      "pubDate": "Sun, 2 Aug 2026 20:33:00 +0100",
+      "description": "Treinador do FC Porto, com a conquista da Supertaça, venceu o segundo troféu pelos dragões",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e75f4d34e511da0b311dc/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Diogo Costa: «Queria muito viver este momento para dedicar ao meu avô»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/diogo-costa/diogo-costa-queria-muito-viver-este-momento-para-dedicar-ao-meu-avo",
+      "pubDate": "Sun, 2 Aug 2026 20:22:00 +0100",
+      "description": "Capitão do FC Porto assinalou a conquista da Supertaça com uma publicação nas redes sociais em memória do familiar",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f94f6d34e511da0b31356/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,134 +152,104 @@
       "thumbnail": "https://img.iol.pt/image/id/6a6f8ef7d34ed0733ba7dc19/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga: calendário e todos os resultados da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/liga/pre-temporada/liga-calendario-e-todos-os-resultados-da-pre-temporada",
-      "pubDate": "Sun, 2 Aug 2026 19:29:00 +0100",
-      "description": "Clubes finalizam preparativos a época 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEOS: Varzim vence Vitória de Guimarães numa tarde de muitas emoções",
-      "link": "https://maisfutebol.iol.pt/torneio-verao-povoa-de-varzim/varzim/videos-varzim-vence-vitoria-de-guimaraes-numa-tarde-de-muitas-emocoes",
-      "pubDate": "Sun, 2 Aug 2026 19:24:00 +0100",
-      "description": "Formação da Liga 3 venceu nos penáltis e conquistou o próprio torneio de verã",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f82abd34e511da0b3131f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Maratonista esteve desaparecido 44 dias, mas foi encontrado são e salvo",
-      "link": "https://maisfutebol.iol.pt/incrivel/modalidades/maratonista-esteve-desaparecido-44-dias-mas-foi-encontrado-sao-e-salvo",
-      "pubDate": "Sun, 2 Aug 2026 18:57:23 +0100",
-      "description": "O atleta olímpico Daniel do Nascimento estava a atravessar um período complicado depois de ter sido suspenso por cinco anos por doping",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f7f43d34ed0733ba7dbed/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Morgue e serviços forenses em Ceuta estão sobrecarregados: número de mortos pode ultrapassar uma centena, admitem as autoridades",
+      "link": "https://sapo.pt/artigo/morgue-e-servicos-forenses-em-ceuta-estao-sobrecarregados-numero-de-mortos-pode-ultrapassar-uma-centena-admitem-as-autoridades-6a6f80e2ab90d676944ec075",
+      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
+      "description": "Depois da “avalanche” de migrantes em Ceuta, começa a ser conhecida a dimensão da tragédia. Há mortos de um e do outro lado da fronteira. Têm sido horas de trabalho ininterrupto para recuperar corpos e realizar autópsias",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AyxbS2%2F3%2FDEx32DEDVLx2fUmZztHpyaMSvDujS76TBHsSGxb2VQsXHXxJeq7kh%2BfI0UoDiIu%2F5kgaoHe80lzjYeV24XsMM6UrF9ynM0ck2mPGOc%2Fs5R%2BvdHzsnWLemGAx"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Crise migratória. Morgue em Ceuta que recebe corpos de migrantes com 88 cadáveres",
-      "link": "https://sapo.pt/artigo/crise-migratoria-morgue-em-ceuta-que-recebe-corpos-de-migrantes-com-88-cadaveres-6a6f704bd4fdaf18cecc87b5",
-      "pubDate": "Sun, 02 Aug 2026 16:50:16 +0000",
-      "description": "Marrocos também está a recuperar alguns corpos do mar e nem todos terão morrido no tumulto ocorrido no quebra-mar na passada quinta-feira.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A%2B5B0XpYTNGr98YExNP72fiEgVFCL2RP1wFTpfsRfWgF5IfJkq99gdImQTiSTLx7rR%2BJB%2Bc%2BT%2FaMuKreMHd%2Bl%2FD09KIIfBCjRIpMG1gbSwjdqEZQFlo1q%2FVxN1SLw0M7n"
+      "title": "Drone russo gera alarme na Roménia e Itália apreende navio da “frota fantasma”",
+      "link": "https://sapo.pt/artigo/drone-russo-gera-alarme-na-romenia-e-italia-apreende-navio-da-frota-fantasma-6a6f93cd2218b0c1f0b30840",
+      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
+      "description": "Ataques ucranianos fazem oito mortos na Rússia. Bomba explode em restaurante de Moscovo",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AuAlwF%2BWtLJApse6ou8ebZ46rOBIolDNQBaBTCFf2Qe5tVqRvMhqo4TIrh4FnyUwD%2Bowjf2Ckjsaw%2F29ldq2PKRM5FRmyLfKtmAfGpIk%2FdpQZuv5kKUqJuQyM4uhBDAiI"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Das multas ao maior controlo: como é que Bruxelas vai “policiar” a Inteligência Artificial",
-      "link": "https://jornaleconomico.sapo.pt/noticias/das-multas-ao-maior-controlo-como-e-que-bruxelas-vai-policiar-a-inteligencia-artificial/",
-      "pubDate": "Sun, 02 Aug 2026 15:31:18 +0000",
-      "description": "O Gabinete de Inteligência Artificial da Comissão Europeia, ganha este domingo novos poderes para supervisionar os modelos de IA generativa e impor multas à tecnológicas que teimarem em não cumprir as suas obrigações.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Aa8cfju2RXLSFFvJJM0yUaFuw0XxMBHIhsxYoWJRheui0LbcnW5LmYyxO30ukOiOD2X%2FpXqmvkLNBHOsTk8dp0qvqapgvUONXtOEm8Z5fenDx8voaN8XiStkAbwz0yXAh"
+      "title": "Acidente mortal obriga ao corte do trânsito na Ponte 25 de Abril",
+      "link": "https://sapo.pt/artigo/acidente-mortal-obriga-ao-corte-do-transito-na-ponte-25-de-abril-6a6f8f372218b0c1f0b24a0c",
+      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
+      "description": "A vítima mortal seguia no motociclo que esteve envolvido no acidente com um camião.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ab9EoavVxU7ThAzbLmhZ4tJ3NT1CoeXANO%2Fe2CTucYs3ChH8LTsb0Ciaz1X4sslHz7HHLAkO0vGmTEK%2Bk73veyY%2FsdYL3ao6kdh0i8uo4YOjUl6FXKNWbx7W4Jd8IQRo%2F"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Avião da TAP que rumava a Boston desviado para a Terceira",
-      "link": "https://sapo.pt/artigo/aviao-da-tap-que-rumava-a-boston-desviado-para-a-terceira-6a6f6f3c2218b0c1f0ad0357",
-      "pubDate": "Sun, 02 Aug 2026 16:50:16 +0000",
-      "description": "A aterragem não planeada no arquipélago dos Açores resultou da necessidade de \"avaliar uma questão técnica\", \"por precaução\". TAP avança que o voo deve rumar ao destino original \"assim que possível\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ABKHXUwXGhPOyIiuEKejMOOGeMGaDt69j4eCcp5hxGVjtXSdzpsXySmGQK%2FMV28P4ysQ4Vve5lstXb%2FObrKIDeKYV%2FyRFJ4gY3Mg0bOhuoocznWkdJCXuORG3Jxl9sH5X"
+      "title": "Irão anuncia possível acordo com Omã em Ormuz",
+      "link": "https://eco.sapo.pt/2026/08/02/irao-anuncia-possivel-acordo-com-oma-em-ormuz/",
+      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
+      "description": "O Irão revelou e a possibilidade de um acordo com Omã sobre uma nova rota de navegação para os navios no estreito de Ormuz, anunciou o Ministério dos Negócios Estrangeiros iraniano.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AFZSq5FazuXCgrn%2BnMPnG6vw%2FdGkry9gg%2FwK7EBKkgoMv0WSWAgX2CVyKXfgOTQy3NaDaa5LYM6OvFO93c1m4WeCVXPfgFgQ98zWQdo8IQaa1zhHHvQaa5h8eWsP4qScr"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Tribunal de Viseu aceita providência cautelar e assim temos o primeiro aluno a recorrer à Justiça devido aos exames nacionais",
-      "link": "https://sapo.pt/artigo/tribunal-de-viseu-aceita-providencia-cautelar-e-assim-temos-o-primeiro-aluno-a-recorrer-a-justica-devido-aos-exames-nacionais-6a6f4b03d4fdaf18cec721f7",
-      "pubDate": "Sun, 02 Aug 2026 13:54:06 +0000",
-      "description": "Os exames nacionais deste ano já chegaram à Justiça. O Tribunal Administrativo de Viseu aceitou uma providência cautelar dos pais de Martim, que teve 4,6 valores no exame de Português, e que continua sem ter acesso à maioria das respostas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9JKo%2FMw5PHdMWZqsY82T3W%2FyFEPsDR%2BOsV17UIQGMcqKO1FstvjSQBPUpLmtQShGqIfPxyzlon23cQrcJGztRtvVZpeyJzV%2BLlAEzbpVsSUvz8ZWB%2F7MSMinwcd1Z0PM"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "É oficial: Lula da Silva é candidato ao quarto mandato como Presidente do Brasil",
-      "link": "https://sapo.pt/artigo/e-oficial-lula-da-silva-e-candidato-ao-quarto-mandato-como-presidente-do-brasil-6a6f5f243f3011d88fe522a8",
-      "pubDate": "Sun, 02 Aug 2026 15:17:39 +0000",
-      "description": "Aos 80 anos, Luiz Inácio Lula da Silva enfrenta aquela que será a sétima candidatura à presidência, tendo governado anteriormente entre 2003 e 2010, e regressado ao poder em 2023.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AhoHaxsjvwqFbXY0330Jj7yao3WAqcVcgP7nyyVKMKAay35Q7UOoyi9vQ%2F2dwifoeJ7Hyg0E%2BnT50G0W71AqMG%2BcYqn0YH9v7jnAI6lYLWDJuuf70gifvLC8opiPVTkzd"
+      "title": "Pelo menos sete mortos e mais de 20 feridos em ataque suicida no Paquistão",
+      "link": "https://sapo.pt/artigo/pelo-menos-sete-mortos-e-mais-de-20-feridos-em-ataque-suicida-no-paquistao-6a6f7ea6d4fdaf18cecedc42",
+      "pubDate": "Sun, 02 Aug 2026 19:08:53 +0000",
+      "description": "Pelo menos sete pessoas morreram hoje e mais de 20 ficaram feridas num ataque suicida durante uma manifestação no norte do Paquistão, disse a polícia paquistanesa",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ANu8GKTlp0T4Zwn0fXKRBrU6iPRXxM%2Frsrrr3LXnm%2BC7ggtrjEEgSvbM5woYHkIICxTSUJMfytYw%2FBXpxdBVFa5dQhZ0jStXqajzTvUJ4khCJynio%2FHvlRO9zrWfn%2BDY6"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Varzim vence Vitória SC em casa e conquista torneio da Póvoa",
-      "link": "https://www.noticiasaominuto.com/desporto/3031201/varzim-vence-vitoria-sc-em-casa-e-conquista-torneio-da-povoa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 20:07:54",
+      "title": "Surreal. Foi substituído e dirigiu-se às bancadas para agredir… um adepto",
+      "link": "https://www.noticiasaominuto.com/desporto/3031210/surreal-foi-substituido-e-dirigiu-se-as-bancadas-para-agredir-um-adepto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:22:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f953191dd3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg5Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTkwMiwiY3JvcEhlaWdodCI6MzM4MSwiY3JvcFgiOjYyNCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa3c5a5180.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lula oficializa candidatura à presidência do Brasil: \"Mudar muita coisa\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3031203/lula-oficializa-candidatura-a-presidencia-do-brasil-mudar-muita-coisa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 20:02:36",
+      "title": "Marco Costa transforma quarto da filha (tem casa de brincar e escorrega)",
+      "link": "https://www.noticiasaominuto.com/fama/3029667/marco-costa-transforma-quarto-da-filha-tem-casa-de-brincar-e-escorrega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:04:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47556077.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b234229af6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTM1LCJjcm9wSGVpZ2h0Ijo2MzgsImNyb3BYIjoxMCwiY3JvcFkiOjcwOX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Infantino não se demite e pede ajuda para convencer federações... a Trump",
-      "link": "https://www.noticiasaominuto.com/desporto/3031199/infantino-nao-se-demite-e-pede-ajuda-para-convencer-federacoes-a-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 19:59:56",
+      "title": "5 coisas que os designers de interiores nunca compram para a própria casa",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3029912/5-coisas-que-os-designers-de-interiores-nunca-compram-para-a-propria-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:04:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f8e60166c2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODYsImNyb3BYIjo3ODksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b76c4f2645.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkwMCwiY3JvcEhlaWdodCI6MTYwMCwiY3JvcFgiOjUzOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alter do Chão. Petição contra campo de tiro ultrapassa 2.500 assinaturas",
-      "link": "https://www.noticiasaominuto.com/pais/3031202/alter-do-chao-peticao-contra-campo-de-tiro-ultrapassa-2500-assinaturas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 19:56:46",
+      "title": "Árbitro abandona campo após sofrer insultos racistas no Brasil",
+      "link": "https://www.noticiasaominuto.com/desporto/3031209/arbitro-abandona-campo-apos-sofrer-insultos-racistas-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:04:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_59b2f382e8fde.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a1c87b7bbc9e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Subiu para 14 o número de mortos em ataque suicida no Paquistão",
-      "link": "https://www.noticiasaominuto.com/mundo/3031198/subiu-para-14-o-numero-de-mortos-em-ataque-suicida-no-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 19:35:27",
+      "title": "Idoso resgatado ao fim de 2 dias preso no leito de um riacho em Jaén",
+      "link": "https://www.noticiasaominuto.com/mundo/3031208/idoso-resgatado-ao-fim-de-2-dias-preso-no-leito-de-um-riacho-em-jaen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 20:57:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5406d8f8c584a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEyMzAsImNyb3BIZWlnaHQiOjIxODYsImNyb3BYIjozMTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa00b80734.webp"
     },
     {
       "sourceId": "pplware",
