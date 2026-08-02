@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-02T20:27:17.794562+00:00",
+  "updated": "2026-08-02T21:25:27.718809+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "22h. Marrocos atribui crise migratória às redes sociais",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1840/",
+      "pubDate": "Sun, 02 Aug 2026 22:14:48 +0100",
+      "description": "Em comunicado, Ministério do Interior Marroquino reconhece que 40.000 pessoas atravessaram a fronteira em direção a Ceuta. Ainda, pelo menos 14 pessoas morreram num ataque suicida no Paquistão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "UNL. A guerra aberta e o reitor que ainda não está eleito",
-      "link": "https://observador.pt/especiais/prazos-ultrapassados-golpadas-e-tribunais-ha-uma-guerra-aberta-na-universidade-nova-e-o-caso-pode-acabar-nas-maos-do-governo/",
-      "pubDate": "Sun, 02 Aug 2026 19:17:51 +0100",
-      "description": "Repetição da eleição do reitor da UNL deu o mesmo resultado. Mas Conselho que deveria homologar decisão ainda não o fez por ter sinalizado ilegalidades no processo eleitoral e quer ajuda jurídica.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1706:960:nowe:160:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/02111603/nova.webp"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bulgária. Seca no rio Danúbio revela ossos de um mamute",
+      "link": "https://www.rtp.pt/noticias/mundo/bulgaria-seca-no-rio-danubio-revela-ossos-de-um-mamute_v1757344",
+      "pubDate": "Sun, 02 Aug 2026 22:42:53 +0100",
+      "description": "Na Bulgária, foram encontrados ossos de um mamute no leito do Rio Danúbio. O nível baixo da água deixou a descoberto os restos mortais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f4/f4b3d3c837d248119e78ee48d39715cb_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Acidente em 1952. Avião da PAN America descoberto 74 anos depois",
+      "link": "https://www.rtp.pt/noticias/mundo/acidente-em-1952-aviao-da-pan-america-descoberto-74-anos-depois_v1757343",
+      "pubDate": "Sun, 02 Aug 2026 22:42:47 +0100",
+      "description": "Foram encontrados no mar, na costa dos Estados Unidos os destroços de um avião que estava desaparecido há mais de 70 anos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/34/3451d58d627c5e3ceed034a87006216e_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Empresas fazem o balanço do PRR. \"Tem sido um exercício de paciência e gestão\"",
+      "link": "https://www.rtp.pt/noticias/economia/empresas-fazem-o-balanco-do-prr-tem-sido-um-exercicio-de-paciencia-e-gestao_v1757342",
+      "pubDate": "Sun, 02 Aug 2026 22:36:47 +0100",
+      "description": "O Plano de Recuperação e Resiliência termina no final deste mês. O Governo garante que &quot;nenhum euro ficará por investir&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/da/da8925eacdefca820a42f01a651293ff_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e794c015763720611db90baaf533b865?w=350&amp;q=50&amp;rect=0,329,5813,3187&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Exames nacionais. Houve mais de 20 mil pedidos de reapreciação",
-      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-houve-mais-de-20-mil-pedidos-de-reapreciacao_v1757337",
-      "pubDate": "Sun, 02 Aug 2026 21:48:47 +0100",
-      "description": "Os mais de 20 mil pedidos de reapreciações dos exames nacionais chegaram aos professores na quarta feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7e/7e4ae8ce56db33cab77e8f872adf1b07_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: russa Kristina Liutova conquista primeiro WTA 250 aos 16 anos",
+      "link": "https://maisfutebol.iol.pt/tenis/modalidades/video-russa-kristina-liutova-conquista-primeiro-wta-250-aos-16-anos",
+      "pubDate": "Sun, 2 Aug 2026 22:10:45 +0100",
+      "description": "Jovem tenista bateu a checa Darja Vidmanova na final de Memphis",
+      "thumbnail": "https://img.iol.pt/image/id/6a6fb0b5d34ed0733ba7dc6d/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Avião da TAP com destino a Boston fez aterragem de emergência nos Açores",
-      "link": "https://www.rtp.pt/noticias/pais/aviao-da-tap-com-destino-a-boston-fez-aterragem-de-emergencia-nos-acores_v1757335",
-      "pubDate": "Sun, 02 Aug 2026 21:40:47 +0100",
-      "description": "Um avião da TAP com destino a Boston, nos Estados Unidos, declarou emergência. Aterrou na ilha Terceira, nos Açores devido a sobreaquecimento nos porões.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/29/29c7146c54627907787f999a29797794_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Florentino deixa Burnley e regressa à Premier League pelo Ipswich",
+      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/02-08-2026/florentino-deixa-burnley-e-regressa-a-premier-league-pelo-ipswich",
+      "pubDate": "Sun, 2 Aug 2026 22:04:00 +0100",
+      "description": "Ex-Benfica vai render cerca de 20 milhões de euros ao emblema que desceu ao Championship",
+      "thumbnail": "https://img.iol.pt/image/id/66eb2e62d34e94b8290552eb/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "20h 4 feridas em explosão de botija de gás em Viana do Castelo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-4-feridas-em-explosao-de-botija-de-gas-em-viana-do-castelo_a1_1757334",
-      "pubDate": "Sun, 02 Aug 2026 21:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Abel Ferreira vence nos «oitavos» da Taça do Brasil",
+      "link": "https://maisfutebol.iol.pt/brasil/abel-ferreira/video-abel-ferreira-vence-nos-oitavos-da-taca-do-brasil",
+      "pubDate": "Sun, 2 Aug 2026 22:02:00 +0100",
+      "description": "Triunfo por 3-0 na 1.ª mão frente ao Fortaleza",
+      "thumbnail": "https://img.iol.pt/image/id/6911a48dd34e2bd5c6d3d026/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Léo Azevedo ruma aos Emirados e Torreense espreita transferência recorde",
+      "link": "https://maisfutebol.iol.pt/torreense/mercado-de-transferencias/leo-azevedo-ruma-aos-emirados-e-torreense-espreita-transferencia-recorde",
+      "pubDate": "Sun, 2 Aug 2026 21:40:00 +0100",
+      "description": "Al Sharjah de José Morais prepara-se para recrutar o médio de 22 anos, em evidência desde 2024",
+      "thumbnail": "https://img.iol.pt/image/id/69b881c9d34edcee7c61f3b4/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sun, 2 Aug 2026 21:04:35 +0100",
       "description": "Treinador português, junto de Matteo Gabbia, deixou flores no mural do antigo defesa",
       "thumbnail": "https://img.iol.pt/image/id/6a6fa049d34ed0733ba7dc3f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Farioli: «Deixar uma marca na história de um clube gigante nunca é fácil»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-deixar-uma-marca-na-historia-de-um-clube-tao-grandioso-nunca-e-facil",
-      "pubDate": "Sun, 2 Aug 2026 20:33:00 +0100",
-      "description": "Treinador do FC Porto, com a conquista da Supertaça, venceu o segundo troféu pelos dragões",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e75f4d34e511da0b311dc/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Diogo Costa: «Queria muito viver este momento para dedicar ao meu avô»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/diogo-costa/diogo-costa-queria-muito-viver-este-momento-para-dedicar-ao-meu-avo",
-      "pubDate": "Sun, 2 Aug 2026 20:22:00 +0100",
-      "description": "Capitão do FC Porto assinalou a conquista da Supertaça com uma publicação nas redes sociais em memória do familiar",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f94f6d34e511da0b31356/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Valentín Barco é reforço do Chelsea",
-      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/oficial-valentin-barco-e-reforco-do-chelsea",
-      "pubDate": "Sun, 2 Aug 2026 20:03:00 +0100",
-      "description": "Defesa argentino deixa o Estrasburgo e assina contrato até 2033",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f8766d34ed0733ba7dc01/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Escândalo nos Países Baixos: PSV cilindrado pelo AZ na Supertaça",
-      "link": "https://maisfutebol.iol.pt/paises-baixos/internacional/escandalo-nos-paises-baixos-psv-cilindrado-em-casa-pelo-az-na-supertaca",
-      "pubDate": "Sun, 2 Aug 2026 19:46:00 +0100",
-      "description": "Campeão neerlandês ficou reduzido a dez muito cedo e acabou goleado",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f8ef7d34ed0733ba7dc19/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Marrocos culpa desinformação e redes de tráfico por migração em Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3031214/marrocos-culpa-desinformacao-e-redes-de-trafico-por-migracao-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 22:05:52",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6ca3289e971.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Abel Ferreira mostra o caminho e Palmeiras vence primeira mão dos oitavos",
+      "link": "https://www.noticiasaominuto.com/desporto/3031212/abel-ferreira-mostra-o-caminho-e-palmeiras-vence-primeira-mao-dos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:56:27",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa9f5062bc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDYsImNyb3BIZWlnaHQiOjE2ODIsImNyb3BYIjo4MjMsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Oficial: Chelsea contrata Valentin Barco ao Strasbourg",
+      "link": "https://www.noticiasaominuto.com/desporto/3031211/oficial-chelsea-contrata-barco-ao-strasbourg#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 21:44:38",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fabe31aaf2.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Surreal. Foi substituído e dirigiu-se às bancadas para agredir… um adepto",
       "link": "https://www.noticiasaominuto.com/desporto/3031210/surreal-foi-substituido-e-dirigiu-se-as-bancadas-para-agredir-um-adepto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-02 21:22:29",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b234229af6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTM1LCJjcm9wSGVpZ2h0Ijo2MzgsImNyb3BYIjoxMCwiY3JvcFkiOjcwOX19"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "5 coisas que os designers de interiores nunca compram para a própria casa",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3029912/5-coisas-que-os-designers-de-interiores-nunca-compram-para-a-propria-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:04:36",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b76c4f2645.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkwMCwiY3JvcEhlaWdodCI6MTYwMCwiY3JvcFgiOjUzOCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Árbitro abandona campo após sofrer insultos racistas no Brasil",
-      "link": "https://www.noticiasaominuto.com/desporto/3031209/arbitro-abandona-campo-apos-sofrer-insultos-racistas-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 21:04:32",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a1c87b7bbc9e.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Idoso resgatado ao fim de 2 dias preso no leito de um riacho em Jaén",
-      "link": "https://www.noticiasaominuto.com/mundo/3031208/idoso-resgatado-ao-fim-de-2-dias-preso-no-leito-de-um-riacho-em-jaen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 20:57:23",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6fa00b80734.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Transporte de cães e gatos para férias: tudo o que precisa de saber",
+      "link": "https://pplware.sapo.pt/motores/transporte-de-caes-e-gatos-para-ferias-tudo-o-que-precisa-de-saber/",
+      "pubDate": "Sun, 02 Aug 2026 20:30:50 +0000",
+      "description": "As férias são sinónimo de descanso e aventura, mas quando há animais de companhia na família, o planeamento exige alguns cuidados adicionais. Seja uma escapadinha de fim de semana ou uma viagem mais longa,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/cao_00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 02 Aug 2026 17:00:56 +0000",
       "description": "Para quem gosta de novidades do universo, o mês de agosto de 2026 promete ser memorável. Num curto espaço de tempo, será possível assistir a um eclipse total do Sol, ao pico da chuva&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eventos_astronomicos_agosto00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Bilhete de Identidade vitalício deixa de servir para viajar a partir de 3 de agosto",
-      "link": "https://pplware.sapo.pt/informacao/bilhete-de-identidade-vitalicio-deixa-de-servir-para-viajar-a-partir-de-3-de-agosto/",
-      "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000",
-      "description": "Os cidadãos portugueses que ainda utilizam o antigo Bilhete de Identidade (BI) em papel, incluindo os chamados documentos vitalícios, deixam de o poder usar como documento de viagem no Espaço Schengen e na União&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/IMG_8050.webp"
     },
     {
       "sourceId": "autosport",
