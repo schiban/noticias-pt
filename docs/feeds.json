@@ -1,55 +1,95 @@
 {
-  "updated": "2026-08-02T15:37:12.220450+00:00",
+  "updated": "2026-08-02T16:54:38.756378+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 16h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2318/",
-      "pubDate": "Sun, 02 Aug 2026 16:12:18 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "O caso da depressão que escondia outra doença",
+      "link": "https://observador.pt/programas/dooutrolado/do-outro-lado-a-mulher-com-depressao-que-afinal-tinha-uma-doenca-neurologica/",
+      "pubDate": "Sun, 02 Aug 2026 17:36:24 +0100",
+      "description": "O psiquiatra Rui Albuquerque recorda o caso de uma mulher diagnosticada com depressão mas que que, afinal, tinha demência. O objetivo deixou de ser tratar e passou a ser cuidar da pessoa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31160612/capa-sem-titulos-agosto2026.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Avião da TAP que rumava a Boston desviado para a Terceira",
+      "link": "https://observador.pt/2026/08/02/aviao-da-tap-com-destino-a-boston-desviado-para-a-ilha-terceira-por-precaucao/",
+      "pubDate": "Sun, 02 Aug 2026 17:23:27 +0100",
+      "description": "A aterragem não planeada no arquipélago dos Açores resultou da necessidade de \"avaliar uma questão técnica\", \"por precaução\". TAP avança que o voo deve rumar ao destino original \"assim que possível\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1018:573:nowe:26:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/18173956/tap-e-sata1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "17h. Helicópteros colidiram a combater incêndio na Grécia",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2258/",
+      "pubDate": "Sun, 02 Aug 2026 17:13:31 +0100",
+      "description": "De acordo com a BBC News, cada helícoptero tinha uma equipa de duas pessoas. Ainda, a iniciativa Cidadãos pela Cibersegurança pediu esclarecimentos sobre os dados pessoais no sistema Volta.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Helicópteros colidem durante combate aos incêndios na Grécia",
-      "link": "https://observador.pt/2026/08/02/helicopteros-colidem-durante-combate-aos-incendios-na-grecia-tripulacoes-ja-foram-resgatadas/",
-      "pubDate": "Sun, 02 Aug 2026 16:05:29 +0100",
-      "description": "Incidente ocorreu a oeste de Atenas, numa altura em que a Grécia enfrenta vários incêndios florestais alimentados por ventos fortes, tendo já ardido mais de 12 mil hectares de floresta numa semana.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1988:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02155555/gettyimages-2288009313.jpg"
+      "title": "Festival de música na Hungria interrompido após duas mortes",
+      "link": "https://observador.pt/2026/08/02/festival-de-musica-na-hungria-interrompe-programacao-apos-duas-mortes/",
+      "pubDate": "Sun, 02 Aug 2026 17:07:42 +0100",
+      "description": "O festival de música húngaro Ozora, um dos maiores encontros de 'trance' psicadélico da Europa, foi interrompido após terem sido registadas duas mortes.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:259/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02165158/21077553.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Os 40 dias que mudaram a vida de Vozinha",
-      "link": "https://observador.pt/especiais/quase-30-milhoes-de-seguidores-o-anuncio-ao-homem-aranha-e-o-maior-contrato-da-carreira-os-40-dias-que-mudaram-a-vida-de-vozinha/",
-      "pubDate": "Sun, 02 Aug 2026 16:02:09 +0100",
-      "description": "O guarda-redes de Cabo Verde foi de ilustre desconhecido a ícone do Mundial, tornando-se um dos jogadores com maior presença nas redes sociais e assinando o maior contrato da carreira com o Colo-Colo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29130827/gettyimages-2281968214-scaled.jpg"
+      "title": "O que vê Esther Kinsky que nós não vemos?",
+      "link": "https://observador.pt/2026/08/02/o-que-ve-esther-kinsky-que-nos-nao-vemos/",
+      "pubDate": "Sun, 02 Aug 2026 16:40:20 +0100",
+      "description": "\"Ver Mais Além\" é uma paixão por salas de cinema, mas não é um livro sobre filmes. Cruza as ficções do grande ecrã com vidas reais, mas não é um romance. É uma incógnita que nunca se esclarece.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31151600/esther-kinsky.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "OPEP aumenta produção de petróleo em setembro",
-      "link": "https://observador.pt/2026/08/02/opep-aumenta-producao-de-petroleo-em-setembro/",
-      "pubDate": "Sun, 02 Aug 2026 15:40:12 +0100",
-      "description": "A Organização dos Países Exportadores de Petróleo decidiu aumentar em 188 mil barris diários a oferta para setembro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/06/02152741/36713302.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bednarek com estiramento contraído na Supertaça",
+      "link": "https://www.rtp.pt/noticias/fc-porto/bednarek-com-estiramento-contraido-na-supertaca_d1757324",
+      "pubDate": "Sun, 02 Aug 2026 18:22:23 +0100",
+      "description": "O internacional polaco Jan Bednarek, que se lesionou no sábado no jogo com o Torreense em que o campeão FC Porto conquistou a Supertaça, iniciou tratamento no centro de estágios do Olival.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c0428350e5f4c3c05f0d04dc3735ea8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Volta. Movimento pede esclarecimento sobre dados pessoais",
-      "link": "https://observador.pt/2026/08/02/iniciativa-de-cidadaos-pede-esclarecimentos-sobre-dados-pessoais-no-sistema-volta/",
-      "pubDate": "Sun, 02 Aug 2026 15:36:53 +0100",
-      "description": "Cidadãos pela Cibersegurança pediu esclarecimentos à Comissão Nacional de Proteção de Dados sobre o tratamento de dados pessoais no sistema para o depósito e reembolso de embalagens.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/14125911/dventura-report-volta-centro-lisboa-2-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "17h Lula recanditato à presidência no Brasil",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-lula-recanditato-a-presidencia-no-brasil_a1_1757323",
+      "pubDate": "Sun, 02 Aug 2026 18:20:04 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Flensburgo contrata irmãos Costa ao Sporting para 2027/28",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/flensburgo-contrata-irmaos-costa-ao-sporting-para-202728_d1757320",
+      "pubDate": "Sun, 02 Aug 2026 17:45:12 +0100",
+      "description": "Os internacionais portugueses Francisco Costa e Martim Costa vão reforçar os alemães do Flensburgo a partir de 2027/28, deixando o tricampeão nacional Sporting ao fim de seis épocas, anunciaram os dois clubes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/50/50efe2b4f17e3f63ce6280c454756b13?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Formalizada candidatura de Lula da Silva a quarto mandato como Presidente do Brasil",
+      "link": "https://www.rtp.pt/noticias/mundo/formalizada-candidatura-de-lula-da-silva-a-quarto-mandato-como-presidente-do-brasil_n1757318",
+      "pubDate": "Sun, 02 Aug 2026 17:36:20 +0100",
+      "description": "O Partido dos Trabalhadores (PT) brasileiro anunciou hoje oficialmente a candidatura do Presidente Lula da Silva às eleições presidenciais de outubro, nas quais procurará um quarto mandato histórico não consecutivo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3c10d4562cab46d9b607e16dacc6458?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,94 +102,84 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Proença satisfeito com teste sobre venda e consumo de álcool na Supertaça",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/proenca-satisfeito-com-teste-sobre-venda-e-consumo-de-alcool-na-supertaca_d1757317",
-      "pubDate": "Sun, 02 Aug 2026 16:55:22 +0100",
-      "description": "O presidente da Federação Portuguesa de Futebol, Pedro Proença, considera que o projeto-piloto para venda e consumo de bebidas alcoólicas na Supertaça de futebol “não podia ser mais positivo” e espera que este tenha sido o primeiro passo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d0/d0e8816ce3714537dcf1d97acbd4d12a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Francisco Costa confirma última época no Sporting",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/francisco-costa-confirma-ultima-epoca-no-sporting_d1757316",
-      "pubDate": "Sun, 02 Aug 2026 16:51:36 +0100",
-      "description": "O andebolista Francisco Costa vai disputar a sexta e última época pelo tricampeão nacional Sporting e rumará aos alemães do Flensburgo em 2027/28, anunciou no sábado o internacional português, eleito melhor jogador jovem mundial e da Europa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/55a26795cf58081cb05aa97e660dd1e2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sami Pajari vence Rali da Finlândia",
-      "link": "https://www.rtp.pt/noticias/motores/sami-pajari-vence-rali-da-finlandia_d1757315",
-      "pubDate": "Sun, 02 Aug 2026 16:48:30 +0100",
-      "description": "O finlandês Sami Pajari (Toyota Yaris) venceu o Rali da Finlândia, 10.ª prova do Mundial, conquistando o segundo triunfo consecutivo no campeonato, duas semanas depois de se ter estreado a vencer na Estónia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c3a1875d0a78785e6d5f5715e32cb3d0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "França. Cerca de 30 mil pessoas aconselhadas a ficar em casa após incêndio em armazém industrial",
-      "link": "https://www.rtp.pt/noticias/mundo/franca-cerca-de-30-mil-pessoas-aconselhadas-a-ficar-em-casa-apos-incendio-em-armazem-industrial_n1757314",
-      "pubDate": "Sun, 02 Aug 2026 16:47:25 +0100",
-      "description": "Cerca de 30 mil residentes do leste de França, em Moselle, foram aconselhados a ficar em casa este domingo devido a um incêndio num armazém de resíduos industriais. O fogo, que foi dominado já esta tarde, continua a produzir uma grande coluna de fumo negro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1d585fbdbe86d09e6daabbef17faab0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Sun, 2 Aug 2026 17:32:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a622b01d34e511da0b2f528/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: ex-Sporting Zé Turbo ruma à Roménia",
-      "link": "https://maisfutebol.iol.pt/transferencias/ze-turbo/oficial-ex-sporting-ze-turbo-ruma-a-romenia",
-      "pubDate": "Sun, 2 Aug 2026 16:28:38 +0100",
-      "description": "Avançado guineese de 29 anos é reforço do Otelul Galati",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f5cdfd34ed0733ba7dbba/250"
+      "title": "OFICIAL: Marítimo reforça meio-campo com nigeriano Ayuma Israel",
+      "link": "https://maisfutebol.iol.pt/maritimo/liga/oficial-maritimo-reforca-meio-campo-com-nigeriano-ayuma-israel",
+      "pubDate": "Sun, 2 Aug 2026 17:31:32 +0100",
+      "description": "Jovem internacional chega por empréstimo dos croatas do NK Istra 1961 até ao final da época",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f701ed34ed0733ba7dbcf/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Guilherme Castro assina contrato profissional com o Benfica",
-      "link": "https://maisfutebol.iol.pt/benfica/guilherme-castro/oficial-guilherme-castro-assina-contrato-profissional-com-o-benfica",
-      "pubDate": "Sun, 2 Aug 2026 16:17:13 +0100",
-      "description": "Médio de 16 anos avança para a nona temporada consecutiva pelos encarnados",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f5f5bd34e511da0b312e6/250"
+      "title": "Jonathan Jesus é oferecido para Benfica, Zenit e dupla espanhola",
+      "link": "https://maisfutebol.iol.pt/benfica/jonathan-jesus/jonathan-jesus-e-oferecido-para-benfica-zenit-e-dupla-espanhola",
+      "pubDate": "Sun, 2 Aug 2026 17:28:34 +0100",
+      "description": "Jovem central é um dos principais nomes do Cruzeiro do treinador português Artur Jorge",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f6ff2d34ed0733ba7dbcd/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Flensburg anuncia contratação de Kiko e Martim Costa",
-      "link": "https://maisfutebol.iol.pt/andebol/modalidades/oficial-flensburg-anuncia-contratacao-de-kiko-e-martim-costa",
-      "pubDate": "Sun, 2 Aug 2026 16:04:00 +0100",
-      "description": "Craques do andebol do Sporting vão representar o emblema alemão na próxima temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f5c5bd34e511da0b312e3/250"
+      "title": "OFICIAL: Kolo Muani regressa à Juventus a título definitivo",
+      "link": "https://maisfutebol.iol.pt/transferencias/kolo-muani/oficial-kolo-muani-regressa-a-juventus-a-titulo-definitivo",
+      "pubDate": "Sun, 2 Aug 2026 17:21:00 +0100",
+      "description": "Avançado deixa o PSG e reforça a formação que representou em 2024/25",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f701ad34ed0733ba7dbce/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Real Madrid congratula FIFA pelo recuo da proposta",
-      "link": "https://maisfutebol.iol.pt/fifa/real-madrid/real-madrid-congratula-fifa-pelo-recuo-da-proposta",
-      "pubDate": "Sun, 2 Aug 2026 15:52:00 +0100",
-      "description": "Organismo do futebol mundial pretendia vender parcialmente os direitos das competições",
-      "thumbnail": "https://img.iol.pt/image/id/6a0360bed34e28842c83f536/250"
+      "title": "OFICIAL: Kerim Alajbegovic troca Bayer Leverkusen pela Juventus",
+      "link": "https://maisfutebol.iol.pt/kerim-alajbegovic/juventus/oficial-kerim-alajbegovic-troca-bayer-leverkusen-pela-juventus",
+      "pubDate": "Sun, 2 Aug 2026 17:14:00 +0100",
+      "description": "Internacional bósnio, de 18 anos, reforça o clube italiano num negócio que pode chegar aos 37 milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f67b3d34ed0733ba7dbc4/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Basquetebol: Betinho Gomes troca o Benfica pelo CD Póvoa",
-      "link": "https://maisfutebol.iol.pt/povoa/basquetebol/basquetebol-betinho-gomes-troca-o-benfica-pelo-cd-povoa",
-      "pubDate": "Sun, 2 Aug 2026 15:37:00 +0100",
-      "description": "Extremo/poste luso-caboverdiano, de 41 anos, este sete temporadas consecutivas de águia ao peito",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f5269d34e511da0b312d6/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Crise migratória. Morgue em Ceuta que recebe corpos de migrantes com 88 cadáveres",
+      "link": "https://sapo.pt/artigo/crise-migratoria-morgue-em-ceuta-que-recebe-corpos-de-migrantes-com-88-cadaveres-6a6f704bd4fdaf18cecc87b5",
+      "pubDate": "Sun, 02 Aug 2026 16:50:16 +0000",
+      "description": "Marrocos também está a recuperar alguns corpos do mar e nem todos terão morrido no tumulto ocorrido no quebra-mar na passada quinta-feira.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A%2B5B0XpYTNGr98YExNP72fiEgVFCL2RP1wFTpfsRfWgF5IfJkq99gdImQTiSTLx7rR%2BJB%2Bc%2BT%2FaMuKreMHd%2Bl%2FD09KIIfBCjRIpMG1gbSwjdqEZQFlo1q%2FVxN1SLw0M7n"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Das multas ao maior controlo: como é que Bruxelas vai “policiar” a Inteligência Artificial",
+      "link": "https://jornaleconomico.sapo.pt/noticias/das-multas-ao-maior-controlo-como-e-que-bruxelas-vai-policiar-a-inteligencia-artificial/",
+      "pubDate": "Sun, 02 Aug 2026 15:31:18 +0000",
+      "description": "O Gabinete de Inteligência Artificial da Comissão Europeia, ganha este domingo novos poderes para supervisionar os modelos de IA generativa e impor multas à tecnológicas que teimarem em não cumprir as suas obrigações.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Aa8cfju2RXLSFFvJJM0yUaFuw0XxMBHIhsxYoWJRheui0LbcnW5LmYyxO30ukOiOD2X%2FpXqmvkLNBHOsTk8dp0qvqapgvUONXtOEm8Z5fenDx8voaN8XiStkAbwz0yXAh"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Avião da TAP que rumava a Boston desviado para a Terceira",
+      "link": "https://sapo.pt/artigo/aviao-da-tap-que-rumava-a-boston-desviado-para-a-terceira-6a6f6f3c2218b0c1f0ad0357",
+      "pubDate": "Sun, 02 Aug 2026 16:50:16 +0000",
+      "description": "A aterragem não planeada no arquipélago dos Açores resultou da necessidade de \"avaliar uma questão técnica\", \"por precaução\". TAP avança que o voo deve rumar ao destino original \"assim que possível\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ABKHXUwXGhPOyIiuEKejMOOGeMGaDt69j4eCcp5hxGVjtXSdzpsXySmGQK%2FMV28P4ysQ4Vve5lstXb%2FObrKIDeKYV%2FyRFJ4gY3Mg0bOhuoocznWkdJCXuORG3Jxl9sH5X"
     },
     {
       "sourceId": "sapo",
@@ -172,84 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AhoHaxsjvwqFbXY0330Jj7yao3WAqcVcgP7nyyVKMKAay35Q7UOoyi9vQ%2F2dwifoeJ7Hyg0E%2BnT50G0W71AqMG%2BcYqn0YH9v7jnAI6lYLWDJuuf70gifvLC8opiPVTkzd"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Dois helicópteros colidem durante combate aos incêndios na Grécia",
-      "link": "https://jornaleconomico.sapo.pt/noticias/dois-helicopteros-colidem-durante-combate-aos-incendios-na-grecia/",
-      "pubDate": "Sun, 02 Aug 2026 13:54:06 +0000",
-      "description": "Está em curso uma operação de busca e salvamento para localizar as equipas, disseram em comunicado os bombeiros, numa altura em que a Grécia enfrenta vários incêndios florestais alimentados por ventos fortes.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A24QuXdcSTGJkY70dQqRa4IcOpPoBea0C1XAYYAW1SQvvyZEYBjo0tba7l6Ro6uftNhyZCPa%2FNJseXvxMvFiS9KRXrrns7xpZnXqzJS6a0HiFT0Rx%2Bz9sp98jeX%2FN%2F%2F2C"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ceuta: dezenas de milhares de migrantes deixaram a cidade, centenas querem ficar e 72 pessoas morreram",
-      "link": "https://sapo.pt/artigo/ceuta-dezenas-de-milhares-de-migrantes-deixaram-a-cidade-centenas-querem-ficar-e-72-pessoas-morreram-6a6f242f51a85aa969820a59",
-      "pubDate": "Sun, 02 Aug 2026 11:44:26 +0000",
-      "description": "Estão confirmadas 72 mortes entre quem tentou fazer a travessia de Marrocos para o enclave espanhol. A maioria das dezenas de milhares de pessoas que fizeram o percurso acabaram por recuar. Mas pelo menos centenas pretendem continuar em Ceuta. Há...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AkK%2BhDQFBmi4aIqH0BY8tH%2FnojfpOrSiVCTu%2FJuK29axEvsYqUcUo5GjTlVr4ktJp9P7WY%2FYHRyBMb60CjymOh0iYpjRH3jC6y7LlpRl5OZG3y%2BZTrL%2FzH67IS6TJwUtu"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "PS admite levar Prestação Social Única ao Parlamento",
-      "link": "https://eco.sapo.pt/2026/08/02/ps-admite-levar-prestacao-social-unica-ao-parlamento/",
-      "pubDate": "Sun, 02 Aug 2026 12:56:14 +0000",
-      "description": "O PS admite levar ao Parlamento o decreto da Prestação Social Única, por recear que as novas regras reduzam o valor de alguns apoios sociais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AL4Ev5jeh%2F%2Fhq5zdfaeveIJvYRPU%2FpayU7Ev50UzX7rFWYWsnjhCsGgyAzmzRxAk7zfbSqduHPstA%2B%2BLGMoTP2gMeX%2FvXbkFq2KSGQU%2BxxJVJXJFbOlWHJE26Ac3vUhxu"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Quatro feridos em explosão de botija de gás após fogo em Viana do Castelo",
+      "link": "https://www.noticiasaominuto.com/pais/3031177/quatro-feridos-em-explosao-de-botija-de-gas-apos-fogo-em-viana-do-castelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 17:51:31",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62baabb7add1b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Festival de música na Hungria interrompe programação após duas mortes",
-      "link": "https://www.noticiasaominuto.com/cultura/3031162/festival-de-musica-na-hungria-interrompe-programacao-apos-duas-mortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 16:33:22",
+      "title": "Real Madrid aplaude recuo da FIFA sobre privatização do Mundial",
+      "link": "https://www.noticiasaominuto.com/desporto/3031176/real-madrid-aplaude-recuo-da-fifa-sobre-privatizacao-do-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 17:40:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63d3e58854dba.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a17265c4e1e3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSG quer herói do Mundial2026 para colmatar saida de Gonçalo Ramos",
-      "link": "https://www.noticiasaominuto.com/desporto/3031163/psg-quer-heroi-do-mundial2026-para-colmatar-saida-de-goncalo-ramos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 16:24:58",
+      "title": "Avião da TAP com destino a Boston desviado para os Açores \"por precaução\"",
+      "link": "https://www.noticiasaominuto.com/pais/3031175/aviao-da-tap-com-destino-a-boston-desviado-para-os-acores-por-precaucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 17:34:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f5d134581b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDA2LCJjcm9wSGVpZ2h0IjoxMTI4LCJjcm9wWCI6MCwiY3JvcFkiOjExNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTM0OSwiY3JvcEhlaWdodCI6MjM5OCwiY3JvcFgiOjMyOSwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64ac083f2d459.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEzNjQsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Famílias, casais e pilotos. Quem são as vítimas do acidente no Peru?",
-      "link": "https://www.noticiasaominuto.com/mundo/3031160/familias-casais-e-pilotos-quem-sao-as-vitimas-do-acidente-no-peru#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 16:24:36",
+      "title": "Tim dos Xutos & Pontapés sofre \"episódio de desidratação\", mas está \"bem\"",
+      "link": "https://www.noticiasaominuto.com/cultura/3031174/tim-dos-xutos-pontapes-sofre-episodio-de-desidratacao-mas-esta-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 17:19:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f594ae7ce2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62ae984e39c5a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Localizadas tripulações dos dois helicópteros que colidiram na Grécia",
-      "link": "https://www.noticiasaominuto.com/mundo/3031165/localizadas-tripulacoes-dos-dois-helicopteros-que-colidiram-na-grecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 16:18:32",
+      "title": "Bednarek deve falhar 1.ª jornada da I Liga após ser confirmada a lesão",
+      "link": "https://www.noticiasaominuto.com/desporto/3031170/bednarek-deve-falhar-1-jornada-da-i-liga-apos-ser-confirmada-a-lesao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-02 17:14:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f5fc0e6b2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzk3LCJjcm9wSGVpZ2h0Ijo3ODYsImNyb3BYIjoyNTAsImNyb3BZIjoxODJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f6bef39310.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMxfX0="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "\"Não sabia que era último\". Criança morre em incêndio no 5.º aniversário",
-      "link": "https://www.noticiasaominuto.com/mundo/3031161/nao-sabia-que-era-ultimo-crianca-morre-em-incendio-no-5-aniversario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-02 16:09:35",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_55ae70c790bb3.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Bilhete de Identidade vitalício deixa de servir para viajar a partir de 3 de agosto",
+      "link": "https://pplware.sapo.pt/informacao/bilhete-de-identidade-vitalicio-deixa-de-servir-para-viajar-a-partir-de-3-de-agosto/",
+      "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000",
+      "description": "Os cidadãos portugueses que ainda utilizam o antigo Bilhete de Identidade (BI) em papel, incluindo os chamados documentos vitalícios, deixam de o poder usar como documento de viagem no Espaço Schengen e na União&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/IMG_8050.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,63 +302,53 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eclipse.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Sam Altman quer mesmo que a IA eduque os seus filhos…",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/sam-altman-quer-mesmo-que-a-ia-eduque-os-seus-filhos-mas-nao-e-boa-ideia/",
-      "pubDate": "Sun, 02 Aug 2026 11:00:05 +0000",
-      "description": "Sam Altman, líder da OpenAI, sugeriu recentemente uma nova utilidade para o ChatGPT no quotidiano familiar que gerou uma forte onda de contestação nas redes sociais. A ideia de automatizar a comunicação com as&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/sam_altman.webp"
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Para Guenther Steiner, terminar a temporada de F1 na Europa é um “risco”",
-      "link": "https://www.autosport.pt/formula1/para-guenther-steiner-terminar-a-temporada-de-f1-na-europa-e-um-risco/",
-      "pubDate": "Sun, 02 Aug 2026 15:30:00 +0000",
-      "description": "Guenther Steiner, antigo diretor da equipa Haas de F1, afirmou que seria um &#8220;risco&#8221; para o desporto terminar a temporada num evento na Europa. A declaração surge no contexto de alterações ao calendário da F1 este ano, motivadas pela eclosão de um conflito no Médio Oriente, que levou ao a",
+      "title": "F1: McLaren completou mais de 150 voltas ao AIA",
+      "link": "https://www.autosport.pt/formula1/f1-mclaren-completou-mais-de-150-voltas-ao-aia/",
+      "pubDate": "Sun, 02 Aug 2026 16:38:08 +0000",
+      "description": "A McLaren esteve em Portugal para um programa de testes de dois dias com carros antigos (TPC) no Autódromo Internacional do Algarve. A equipa de Woking encerrou assim a primeira metade da época de 2026 de Fórmula 1, aproveitando o período antes da paragem de verão obrigatória. A equipa britânica uti",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Miguel Nunes sela triunfo incontestável no Rali da Madeira: “é uma alegria enorme”",
-      "link": "https://www.autosport.pt/ralis/miguel-nunes-sela-triunfo-incontestavel-no-rali-da-madeira-e-uma-alegria-enorme/",
-      "pubDate": "Sun, 02 Aug 2026 14:56:26 +0000",
-      "description": "Miguel Nunes (Skoda Fabia Rally2 Evo) rubricou uma exibição de enorme consistência e inteligência competitiva, coroada com a conquista da liderança e o triunfo &#8211; o segundo, o primeiro foi em 2020 &#8211; na prestigiada prova madeirense. Tirando partido de um ritmo quase sempre forte, é verdade",
+      "title": "Ricardo Teodósio 7º da geral 4º do CPR: “saio satisfeito, mas o pódio seria melhor”",
+      "link": "https://www.autosport.pt/sem-categoria/ricardo-teodosio-7o-da-geral-4o-do-cpr-saio-satisfeito-mas-o-podio-seria-melhor/",
+      "pubDate": "Sun, 02 Aug 2026 16:30:49 +0000",
+      "description": "Ricardo Teodósio (Citroën C3 Rally2) terminou o Rali da Madeira na sétima posição da geral e no quarto lugar do Campeonato de Portugal de Ralis. O piloto algarvio procurou extrair o máximo partido do pacote técnico disponível, mantendo-se regular mesmo face às adversidades da prova insular e focando",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "F1: Audi sem novo motor em 2026, foco total vai para 2027",
-      "link": "https://www.autosport.pt/formula1/f1-audi-sem-novo-motor-em-2026-foco-total-vai-para-2027/",
-      "pubDate": "Sun, 02 Aug 2026 14:45:00 +0000",
-      "description": "Allan McNish, diretor de equipa da Audi, revelou que o fabricante alemão não planeia mais nenhuma atualização de motor para o resto da presente época. A declaração surge depois de a equipa somar pontos nas últimas três corridas. Resultados recentes e limite orçamental Apesar de ter pontuado nas últi",
+      "title": "Pedro Meireles: “Diverti-me, não tive problemas, tempo ótimo, troços fantásticos, carro impecável, só tenho que estar satisfeito”",
+      "link": "https://www.autosport.pt/ralis/pedro-meireles-diverti-me-nao-tive-problemas-tempo-otimo-trocos-fantasticos-carro-impecavel-so-tenho-que-estar-satisfeito/",
+      "pubDate": "Sun, 02 Aug 2026 16:22:37 +0000",
+      "description": "Pedro Meireles (Skoda Fabia Rs Rally2) concretizou uma recuperação tática muito interessante ao longo das etapas, superiorizando-se nos duelos diretos do meio da tabela para encerrar a prova num positivo nono lugar na classificação geral e sexto no CPR. O experiente piloto demonstrou grande consistê",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "Miguel Caires alcança 4º lugar e melhor resultado de sempre no Rali da Madeira: “valeu a pena todo o esforço”",
-      "link": "https://www.autosport.pt/ralis/miguel-caires-alcanca-4o-lugar-e-melhor-resultado-de-sempre-no-rali-da-madeira-valeu-a-pena-todo-o-esforco/",
-      "pubDate": "Sun, 02 Aug 2026 14:43:36 +0000",
-      "description": "Miguel Caires (Skoda Fabia Rs Rally2) alcançou um histórico quarto lugar na classificação geral absoluta do Rali da Madeira, rubricando a sua melhor prestação de sempre na emblemática prova insular. Beneficiando de uma exibição isenta de erros e aproveitando os incidentes alheios, o madeirense maxim",
+      "title": "Paulo Neto: “gosto do povo, gosto da Madeira, gosto dos troços”",
+      "link": "https://www.autosport.pt/ralis/paulo-neto-gosto-do-povo-gosto-da-madeira-gosto-dos-trocos/",
+      "pubDate": "Sun, 02 Aug 2026 15:53:10 +0000",
+      "description": "Paulo Neto (Skoda Fabia Rs Rally2) foi 15º no Rali da Madeira, adotando uma postura de salvaguarda para garantir a conclusão bem-sucedida da exigente prova madeirense. ‘Exorcizou’ o terrível acidente do ano passado, regressando a uma prova que gosta muito e que faz questão em disputar.A prestação pa",
       "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "João Silva foi 2º no Rali da Madeira: “É um privilégio estar no pódio”",
-      "link": "https://www.autosport.pt/ralis/joao-silva-foi-2o-no-rali-da-madeira-e-um-privilegio-estar-no-podio/",
-      "pubDate": "Sun, 02 Aug 2026 14:04:28 +0000",
-      "description": "João Silva (Toyota GR Yaris Rally2) foi segundo no Rali da Madeira, assinando uma exibição marcada pela combatividade e pela perseguição constante à liderança de Miguel Nunes. Apesar de ter tentado discutir o triunfo, problemas técnicos nos travões marcaram o balanço final da prova do piloto insular",
+      "title": "Maioria francesa nos usados importados",
+      "link": "https://www.autosport.pt/automais/maioria-francesa-nos-usados-importados/",
+      "pubDate": "Sun, 02 Aug 2026 15:49:00 +0000",
+      "description": "Em Portugal, a oferta de automóveis é insuficiente para satisfazer a procura, razão por detrás do facto de muitos condutores recorrerem ao mercado internacional de usados. No entanto, mesmo um automóvel aparentemente bem conservado pode ocultar problemas graves, de danos estruturais à manipulação da",
       "thumbnail": ""
     }
   ]
