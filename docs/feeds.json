@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-02T23:29:18.036621+00:00",
+  "updated": "2026-08-03T01:08:05.236590+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Trump diz que hoje são retomadas negociações com o Irão",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2341/",
+      "pubDate": "Mon, 03 Aug 2026 01:15:07 +0100",
+      "description": "Trump diz que cancelou um \"ataque em larga escala\" ao Irão e confirma negociações agendadas para hoje, após apelos de aliados. A Linha do Norte está cortada devido a um incêndio em Vila Franca de Xira",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A480%3A480%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F04%2F09222002%2Ffoto-joao-a-b-da-silva-png.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Afinal... Não será mesmo uma invasão migratória?",
-      "link": "https://observador.pt/opiniao/afinal-nao-sera-mesmo-uma-invasao-migratoria/",
-      "pubDate": "Mon, 03 Aug 2026 00:14:41 +0100",
-      "description": "Para quando o controlo efectivo das nossas fronteiras? Para quando centenas de embarcações e drones marítimos a patrulharem permanentemente o Mediterrâneo, interceptando os barcos dos traficantes?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1092%3A1092%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F02%2F05224146%2Fjeremy-silvares-jeronimo.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Circulação na linha do norte restabelecida",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-circulacao-na-linha-do-norte-restabelecida_a1_1757354",
+      "pubDate": "Mon, 03 Aug 2026 02:11:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,16 +102,6 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Histórica prova de natação de Ceuta adiada por motivos de segurança",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/historica-prova-de-natacao-de-ceuta-adiada-por-motivos-de-seguranca_d1757346",
-      "pubDate": "Sun, 02 Aug 2026 23:22:08 +0100",
-      "description": "O Clube de Natação Caballa anunciou o adiamento da 82.ª Travessia do Porto de Ceuta, um dos eventos mais antigos de Espanha, devido a preocupações de segurança na sequência da chegada de milhares de migrantes marroquinos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/59/59ecc018d8274d20f7031733b2020a2d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
@@ -135,7 +135,7 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Situação excecional» em Ceuta dita adiamento prova de natação",
+      "title": "«Situação excecional» em Ceuta dita adiamento de prova de natação",
       "link": "https://maisfutebol.iol.pt/internacional/espanha/situacao-excecional-em-ceuta-dita-adiamento-de-historica-prova-de-natacao",
       "pubDate": "Sun, 2 Aug 2026 23:17:00 +0100",
       "description": "Organização prioriza segurança dos atletas e procura nova data para um dos eventos desportivos mais antigos de Espanha",
@@ -265,6 +265,16 @@
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
+      "title": "Office 2024 sem mensalidades: chaves digitais em promoção na GoodOffer24",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-goodoffer24-tt30/",
+      "pubDate": "Sun, 02 Aug 2026 21:00:12 +0000",
+      "description": "Pagar todos os meses por ferramentas que já eram compradas de uma vez tornou-se a norma, mas nem todos os utilizadores precisam de uma subscrição para trabalhar com Word, Excel ou PowerPoint. Para quem&#46;&#46;&#46;",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
       "title": "Transporte de cães e gatos para férias: tudo o que precisa de saber",
       "link": "https://pplware.sapo.pt/motores/transporte-de-caes-e-gatos-para-ferias-tudo-o-que-precisa-de-saber/",
       "pubDate": "Sun, 02 Aug 2026 20:30:50 +0000",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 02 Aug 2026 18:30:22 +0000",
       "description": "Investigadores chineses anunciaram um avanço significativo na área da energia solar ao desenvolverem uma nova célula fotovoltaica que atingiu uma eficiência certificada de 28,04%. Há  um novo recorde mundial para este tipo de tecnologia.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/india-energia-painel-solar03.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Star Wars Zero Company começa a ganhar forma",
-      "link": "https://pplware.sapo.pt/jogos/star-wars-zero-company-comeca-a-ganhar-forma/",
-      "pubDate": "Sun, 02 Aug 2026 18:00:56 +0000",
-      "description": "O universo de Star Wars Zero Company continua a ganhar forma antes do seu lançamento e a Bit Reactor, em colaboração com a Lucasfilm Games, revelou uma parte do elenco que dará vida às&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/SWZC.jpg"
     },
     {
       "sourceId": "autosport",
