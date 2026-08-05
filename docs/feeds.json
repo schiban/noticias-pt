@@ -1,55 +1,75 @@
 {
-  "updated": "2026-08-05T22:08:45.067132+00:00",
+  "updated": "2026-08-05T23:28:18.068311+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Lousã investe 2,4 milhões em pavilhão multiusos",
-      "link": "https://observador.pt/2026/08/05/camara-da-lousa-aprova-compra-de-terreno-por-24-milhoes-de-euros-para-infraestrutura-multiusos/",
-      "pubDate": "Wed, 05 Aug 2026 22:56:15 +0100",
-      "description": "O terreno de 17 mil metros quadrados permitirá criar uma infraestrutura multiusos para espetáculos, congressos e feiras, além de um parque de lazer, um centro de negócios e um espaço de cowork.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/06/26183820/7959644_770x433_acf_cropped.jpg"
+      "title": "O português que veio do futuro",
+      "link": "https://observador.pt/opiniao/o-portugues-que-veio-do-futuro/",
+      "pubDate": "Thu, 06 Aug 2026 00:23:33 +0100",
+      "description": "Imagine-se um português sem compaixão, fanfarronice, fome, saudade – ainda será um português?",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Moçambique reforça assistência a 250 mil pessoas",
-      "link": "https://observador.pt/2026/08/05/autoridades-mocambicanas-reforcam-assistencia-a-250-mil-pessoas-perante-risco-de-seca/",
-      "pubDate": "Wed, 05 Aug 2026 22:45:51 +0100",
-      "description": "As autoridades vão reforçar a assistência alimentar em Sofala e pré-posicionar alimentos perante o risco de seca associado ao El Niño, que ameaça agravar a insegurança alimentar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/22091757/20904654.jpg"
+      "title": "O equívoco sobre Luís Neves",
+      "link": "https://observador.pt/opiniao/o-equivoco-sobre-luis-neves/",
+      "pubDate": "Thu, 06 Aug 2026 00:22:14 +0100",
+      "description": "Tanto quanto sei, o Estado é o único patrão em Portugal que pode alterar unilateralmente contratos estabelecidos com os seus trabalhadores.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1256%3A1256%3Anowe%3A64%3A28%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F05%2F26131553%2Fhenrique-pereira-dos-santos.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Infantino is back: o novo plano para recuperar a hegemonia",
-      "link": "https://observador.pt/2026/08/05/jordania-acusa-o-de-chantagem-figo-chama-lhe-mentiroso-e-cobarde-infantino-comeca-a-reagir-o-que-se-sabe-da-reuniao-em-rabat/",
-      "pubDate": "Wed, 05 Aug 2026 22:32:59 +0100",
-      "description": "The Times dá conta da promessa de atribuição da final de 2030 a Marrocos em troca de apoio, entre várias manobras para voltar a ter o domínio. FIFA nega notícia. Silêncio da Arábia Saudita preocupa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/05190711/infantino-6.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Menos violência no desporto pelo segundo ano seguido",
-      "link": "https://observador.pt/2026/08/05/apcvd-regista-segunda-epoca-consecutiva-com-descida-significativa-de-incidentes-no-desporto-e-ganha-nova-sede-em-viseu/",
-      "pubDate": "Wed, 05 Aug 2026 22:19:33 +0100",
-      "description": "Rodrigo Cavaleiro destacou dois anos consecutivos de descida de incidentes. A ministra Balseiro Lopes esteve presente na cerimónia de assinatura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/19140702/45860561.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "22h. Partidos não querem mais videovigilância no Parlamento",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1843/",
-      "pubDate": "Wed, 05 Aug 2026 22:16:08 +0100",
-      "description": "Uma proposta feita por um grupo de trabalho com elementos da GNR e PSP. Ainda, Irão chegou a acordo com Omã sobre nova rota marítima no estreito de Ormuz.",
+      "title": "As notícias das 00h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2382/",
+      "pubDate": "Thu, 06 Aug 2026 00:21:22 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ceuta e o islamismo político",
+      "link": "https://observador.pt/opiniao/ceuta-e-o-islamismo-politico-a-fronteira-por-fora-a-norma-por-dentro/",
+      "pubDate": "Thu, 06 Aug 2026 00:20:42 +0100",
+      "description": "Ceuta foi a fronteira por fora. O entrismo é a fronteira por dentro. Um pergunta quem entra. O outro pergunta quem manda depois de entrar.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "No pântano do poucochinho",
+      "link": "https://observador.pt/opiniao/no-pantano-do-poucochinho/",
+      "pubDate": "Thu, 06 Aug 2026 00:19:51 +0100",
+      "description": "As coisas são o que são e são muito poucochinho — tal como estão para durar num pântano de imobilismo nacional onde tudo nos aparece como pobrezinho, pindérico, mas sem fogacho de melhor solução",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A635%3A635%3Anowe%3A212%3A65%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F06000207%2F2696bedd-5924-43c3-9525-6b39c4c58d0a.jpeg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00h 60 anos da inauguração da Ponte 25 de abril",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-60-anos-da-inauguracao-da-ponte-25-de-abril_a1_1757915",
+      "pubDate": "Thu, 06 Aug 2026 01:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Ponte 25 de abril com espetáculo de drones",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ponte-25-de-abril-com-espetaculo-de-drones_a1_1757909",
+      "pubDate": "Thu, 06 Aug 2026 00:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bbcea7099725cff8d9cf37736a7cff78?w=350&amp;q=50&amp;rect=0,45,4000,2193&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Volta. Jovem recolhe lixo e já conseguiu 400 euros",
-      "link": "https://www.rtp.pt/noticias/pais/volta-jovem-recolhe-lixo-e-ja-conseguiu-400-euros_v1757899",
-      "pubDate": "Wed, 05 Aug 2026 22:31:47 +0100",
-      "description": "Agosto é o mês em que se produz mais lixo em Portugal. São cerca de 48 mil toneladas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/99/99dab0f7d354dfa9934ffeea0d8c0545_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FIFA: «Foram reconhecidos erros, o processo deveria ter sido de forma diferente»",
+      "link": "https://maisfutebol.iol.pt/fifa/internacional/fifa-infantino-assume-erros-faz-as-pazes-mas-recebe-aviso",
+      "pubDate": "Wed, 5 Aug 2026 23:52:00 +0100",
+      "description": "Presidente Gianni Infantino recupera o apoio do Secretário-Geral e do Conselho de Administração, mas fica sem margem de erro",
+      "thumbnail": "https://img.iol.pt/image/id/6751efdcd34e94b829084ac6/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Eclipse solar total. Procura por óculos certificados está a aumentar",
-      "link": "https://www.rtp.pt/noticias/pais/eclipse-solar-total-procura-por-oculos-certificados-esta-a-aumentar_v1757898",
-      "pubDate": "Wed, 05 Aug 2026 22:30:48 +0100",
-      "description": "Nas óticas e farmácias está a aumentar a procura por óculos para ver o eclipse. Os oftalmologistas alertam para lesões graves na retina em caso de olhar direto para o sol ou de ter uma proteção desadequada.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/8a/8a87e5d200aea6fa3b80f0b10ea5395f_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Christian Norgaard troca o Arsenal pelo Everton",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/oficial-christian-norgaard-troca-o-arsenal-pelo-everton",
+      "pubDate": "Wed, 5 Aug 2026 23:14:20 +0100",
+      "description": "Médio dinamarquês assina até 2028",
+      "thumbnail": "https://img.iol.pt/image/id/6a73b55ed34ed0733ba7e7e7/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Léo Azevedo deixa o Torreense e protagoniza transferência recorde",
+      "link": "https://maisfutebol.iol.pt/torreense/mercado-de-transferencias/oficial-leo-azevedo-protagoniza-transferencia-recorde-para-o-torreense",
+      "pubDate": "Wed, 5 Aug 2026 23:14:00 +0100",
+      "description": "Médio de 22 anos rumou aos Emirados e ao Al Sharjah, orientado por José Morais",
+      "thumbnail": "https://img.iol.pt/image/id/6a73b555d34ed0733ba7e7e6/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,36 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/644c321bd34ef47b8753510f/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Artur Jorge reforça o ataque com avançado do Al Nassr",
-      "link": "https://maisfutebol.iol.pt/internacional/brasil/oficial-artur-jorge-reforca-o-ataque-com-avancado-do-al-nassr",
-      "pubDate": "Wed, 5 Aug 2026 22:36:09 +0100",
-      "description": "Wesley, de 21 anos, chega por empréstimo do emblema saudita",
-      "thumbnail": "https://img.iol.pt/image/id/6a73ac8ed34e511da0b31f1e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "PSG muitíssimo desfalcado perde em Maiorca",
-      "link": "https://maisfutebol.iol.pt/pre-epoca/psg/psg-muitissimo-desfalcado-perde-em-maiorca",
-      "pubDate": "Wed, 5 Aug 2026 22:16:00 +0100",
-      "description": "Luis Enrique apostou em 15 jovens, com Safonov e Kvaratskhelia de início",
-      "thumbnail": "https://img.iol.pt/image/id/696ffb73d34e0ec52ec27d06/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: loucura em Trabzon com a chegada de Salah",
-      "link": "https://maisfutebol.iol.pt/internacional/turquia/video-loucura-em-trabzon-com-a-chegada-de-salah",
-      "pubDate": "Wed, 5 Aug 2026 22:00:00 +0100",
-      "description": "Ruas da cidade turca encheram para ver o craque egípcio",
-      "thumbnail": "https://img.iol.pt/image/id/6a73a5bdd34e511da0b31f0c/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,91 +165,91 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Montenegro desafiado a tomar uma posição clara sobre Sines",
-      "link": "https://sapo.pt/artigo/montenegro-desafiado-a-tomar-uma-posicao-clara-sobre-sines-6a7396752218b0c1f060719c",
-      "pubDate": "Wed, 05 Aug 2026 21:00:45 +0000",
-      "description": "Trabalhadores da Petrogal pedem ao primeiro-ministro que aproveite o verão de trabalho para clarificar o que o acordo Galp-Moeve representa para Sines e para todos os trabalhadores.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AXe73cjG9PY8LRbPE30f%2FwzHL9sdxN0eQmlpJ2dKUlrrLKiAMBOeF1NTIdwDfUU2%2FPZ%2BGyT9BGfJD5oljPQna7oEr7Y14eijArZxKQ%2BhtX%2FQF96wg%2FL6o20Kjm3rJarnV"
+      "title": "Tiroteio na Carolina do Norte faz três mortos em incidente familiar",
+      "link": "https://sapo.pt/artigo/tiroteio-na-carolina-do-norte-faz-tres-mortos-em-incidente-familiar-6a73b8e22218b0c1f0662272",
+      "pubDate": "Wed, 05 Aug 2026 23:09:51 +0000",
+      "description": "Três pessoas morreram e outra ficou ferida num tiroteio na localidade americana de Prospect Hill, no estado da Carolina do Norte, informaram hoje as autoridades locais.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=537&W=954&crop=center&delay_optim=1&epic=V2%3A4Qjv1lEGoYbvrMDfid00juBZzwzDFhUosE%2BdYmCq1SS2S7VS1J%2B2hj8nuMl0kmdNxXRoxp0%2BHIUH7F8RNsXWvRpGA0VA7pXqmscbjjPcKsoq4v6uknFCaepMNKC3gnbT"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ébola: propagação da doença supera capacidade de reposta, alerta OMS",
-      "link": "https://sapo.pt/artigo/ebola-propagacao-da-doenca-supera-capacidade-de-reposta-alerta-oms-6a739f9551a85aa96924ab76",
-      "pubDate": "Wed, 05 Aug 2026 21:00:45 +0000",
-      "description": "Quase três meses após o início da epidemia, o número de novos casos está a duplicar em alguns dos focos mais afetados, assinala o diretor da Organização Mundial da Saúde",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AIe8qPreSyUN70x%2FLdAIYLD%2Fjum29aLPZxiesiCjdXRnp%2F4qWYRvnEKJFKVTdQjLxBHYj2euoFFL5QB%2BrDvCL7I2C4hBiY7QN3ZBimtPflX8%2BxyMdCCv7hQ30eHPu8OmH"
+      "title": "Serviços de segurança propuseram reforço da videovigilância no Parlamento, mas partidos recusaram",
+      "link": "https://eco.sapo.pt/2026/08/05/servicos-de-seguranca-propuseram-reforco-da-videovigilancia-no-parlamento-mas-partidos-recusaram/",
+      "pubDate": "Wed, 05 Aug 2026 22:34:36 +0000",
+      "description": "Grupo de trabalho integrando elementos da PSP e da GNR tem defendido mais medidas de segurança no Parlamento, mas partidos falam em perda de privacidade e da liberdade de movimentos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AgsIjw1a%2FY0idxFMHOY%2F0t8TgiZ6qBV6R2EWFK7FeEUEN390vOftXLMO7q5s%2BO3ZeMydDWE9VRVswRro9cTjkjkD9BoX06m9tezgVf%2FmxN5llIG%2B4Wd00tySt71Wd6ps%2B"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos processa mais de 80 pessoas por organização de migrações irregulares para Ceuta e Melilla",
-      "link": "https://sapo.pt/artigo/marrocos-processa-mais-de-80-pessoas-por-organizacao-de-migracoes-irregulares-para-ceuta-e-melilla-6a73889c3f3011d88f83902a",
-      "pubDate": "Wed, 05 Aug 2026 21:00:45 +0000",
-      "description": "O Ministério Público de Tetuão indiciou 34 pessoas, incluindo cinco menores. Já em Nador, também na costa norte de Marrocos, os tribunais já indiciaram outras 52 pessoas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A%2FfCrCZAC2wANnK5e3DHhJiau181FOkhHbXx2BncUFjoHxvOAAFAhpvYSm0TNkb999xC6eSf%2FVKAO9c6b%2FGNvapeERNU5qxHCEabonmQv1glRX2PU9nEK9eCYulsSO2hW"
+      "title": "CNE remete para o Ministério Público boletins municipais do Seixal",
+      "link": "https://sapo.pt/artigo/cne-remete-para-o-mp-boletins-municipais-do-seixal-6a73b9c0d4fdaf18ce842875",
+      "pubDate": "Wed, 05 Aug 2026 23:14:06 +0000",
+      "description": "A Comissão Nacional de Eleições detetou indícios de crime nos boletins municipais de julho e agosto de 2025, por violação da neutralidade eleitoral. Paulo Silva (CDU) nega irregularidades.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Acq6TC9dSvol23Q3nuBzbX8LwobCDMR8F12UfmS5bfqVxy3zNHxeLzbq%2BxeySavtbcRPUHFhqyH7UbdonxCUSRVtF9%2Bs0CFPN3IuC4URca5Y0hsfrhAhG%2FECWW1r73kms"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Educação: PS fala em “atropelamento e fuga” e teme repetição dos erros nas pautas na sexta-feira",
-      "link": "https://sapo.pt/artigo/educacao-ps-fala-em-atropelamento-e-fuga-e-teme-repeticao-dos-erros-nas-pautas-na-sexta-feira-6a737e4c51a85aa9691fcef1",
-      "pubDate": "Wed, 05 Aug 2026 19:12:01 +0000",
-      "description": "Porfírio Silva acusa o ministro da Educação de uma gestão de “atropelamento e fuga” nos exames nacionais e teme que sexta-feira repita os erros registados na divulgação das pautas do dia 17.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=674&W=1200&crop=center&delay_optim=1&epic=V2%3AAW6OlO73yen1jI1YtMaiUXafZzS0BFyCU8Pla2dXmaz%2B6GWwkSZvY9fZJC%2BogbmlVgGGn0KLQhX7hTrSaVHRpFe8aiHiY6YsbAnyZ0VEoYeMNcwQE03kzS8i%2BBucS0oh"
+      "title": "Irão: Presidente aponta que contacto com líder supremo é “muito difícil de momento”",
+      "link": "https://jornaleconomico.sapo.pt/noticias/irao-presidente-aponta-que-contacto-com-lider-supremo-e-muito-dificil-de-momento/",
+      "pubDate": "Wed, 05 Aug 2026 22:10:47 +0000",
+      "description": "\"A comunicação com ele é muito difícil de momento, mas a sua presença é, sem dúvida, um grande trunfo para nós, permitindo-nos prosseguir\", frisou Pezeshkian num discurso televisivo, referindo-se ao filho e sucessor de Ali Khamenei, morto no...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Agzen7PT9%2FFJ0rXDMT6mru3yInFgnstGv2bFSG5X3QD3ltIsHCxA5%2F1Dg4rJA%2FgWmqKELwB2dHwSB05Lz0btWQUcSpftqyuENngCzy5MRBsAneQ%2Bu7VrMrKIEfv6uWosG"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tony Carreira faz \"concerto solidário em homenagem a Sara Carreira\"",
-      "link": "https://www.noticiasaominuto.com/fama/3032422/tony-carreira-faz-concerto-solidario-em-homenagem-a-sara-carreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 23:00:50",
+      "title": "Tribunal australiano obriga homem a remover galos \"terapêuticos\" de casa",
+      "link": "https://www.noticiasaominuto.com/mundo/3032752/tribunal-australiano-obriga-homem-a-remover-galos-terapeuticos-de-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 23:59:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7313c32b82d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2OTcsImNyb3BIZWlnaHQiOjM5MiwiY3JvcFgiOjEyLCJjcm9wWSI6MzMxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0NTAsImNyb3BIZWlnaHQiOjgwMCwiY3JvcFgiOjE0OCwiY3JvcFkiOjY5fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a73bf11ba257.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sorte no amor e não só! Saiba o que Vénus provoca nestes 3 signos",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3032658/sorte-no-amor-e-nao-so-saiba-o-que-venus-vai-provocar-nestes-3-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 22:57:38",
+      "title": "Oficial: Léo Azevedo deixa Torreense e ruma aos Emirados Árabes Unidos",
+      "link": "https://www.noticiasaominuto.com/desporto/3032750/oficial-leo-azevedo-deixa-torreense-e-ruma-aos-emirados-arabes-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 23:58:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_698c6f2470611.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDU2LCJjcm9wSGVpZ2h0IjoxMTU2LCJjcm9wWCI6NDg3LCJjcm9wWSI6NjN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a73bff86f9b6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Suspensas sanções a empresa aérea e homem ligado à Guarda Revolucionária",
-      "link": "https://www.noticiasaominuto.com/mundo/3032739/suspensas-sancoes-a-empresa-aerea-e-homem-ligado-a-guarda-revolucionaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 22:55:11",
+      "title": "NASA confirma que destroços de foguetão da SpaceX atingiram a Lua",
+      "link": "https://www.noticiasaominuto.com/tech/3032751/nasa-confirma-que-destrocos-de-foguetao-da-spacex-atingiram-a-lua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 23:54:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_674f55bdb8ac2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a22ed51a1c03.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Torreense fora da Champions após perder com Juventus com golo de Capeta",
-      "link": "https://www.noticiasaominuto.com/desporto/3032737/torreense-fora-da-champions-apos-perder-com-juventus-com-golo-de-capeta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 22:48:35",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3032265/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 23:49:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a73af2ee6e59.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a72d1209a331.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTIwLCJjcm9wSGVpZ2h0Ijo2MzAsImNyb3BYIjo3NSwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0MjAsImNyb3BIZWlnaHQiOjc0NiwiY3JvcFgiOjQ0MSwiY3JvcFkiOjUzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Plantel do FC Porto levou Supertaça para missa de homenagem a Jorge Costa",
-      "link": "https://www.noticiasaominuto.com/desporto/3032738/plantel-do-fc-porto-levou-supertaca-para-missa-de-homenagem-a-jorge-costa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 22:45:00",
+      "title": "FIFA reforça confiança em Infantino e pede desculpa por \"erros cometidos\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3032748/fifa-reforca-confianca-em-infantino-e-pede-desculpa-por-erros-cometidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 23:47:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a73aca9d6eeb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a73bd1c1014d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI2LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjozLCJjcm9wWSI6MTkxfX0="
     },
     {
       "sourceId": "pplware",
