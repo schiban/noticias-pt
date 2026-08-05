@@ -1,55 +1,105 @@
 {
-  "updated": "2026-08-05T02:06:30.715180+00:00",
+  "updated": "2026-08-05T05:28:28.514346+00:00",
   "articles": [
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "1h Sindicatos reúnem com governo sobre carreira dos vigilantes da natureza",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-sindicatos-reunem-com-governo-sobre-carreira-dos-vigilantes-da-natureza_a1_1757747",
-      "pubDate": "Wed, 05 Aug 2026 03:38:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2455/",
+      "pubDate": "Wed, 05 Aug 2026 06:11:35 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Os mosquitos têm mesmo pessoas preferidas?",
+      "link": "https://observador.pt/programas/tratar-da-saude/os-mosquitos-tem-mesmo-pessoas-preferidas/",
+      "pubDate": "Wed, 05 Aug 2026 06:02:04 +0100",
+      "description": "Há pessoas que parecem um verdadeiro \"íman\" para os mosquitos. Basta uns minutos ao ar livre para acumularem picadas e quem está ao lado sai completamente ileso. Coincidência? A ciência diz que não.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/26182232/770-podcast-tratar-da-saude-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Os pecados financeiros de Luís Neves na PJ",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/os-pecados-financeiros-de-luis-neves-na-pj/",
+      "pubDate": "Wed, 05 Aug 2026 05:04:21 +0100",
+      "description": "O Tribunal de Contas detetou infrações financeiras na gestão de Luís Neves na PJ, mas decidiu não aplicar sanções. O João Paulo Godinho explica porquê.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Livre quer Marrocos fora da organização do Mundial 2030",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2362/",
+      "pubDate": "Wed, 05 Aug 2026 04:14:38 +0100",
+      "description": "Porta-voz do partido diz que Marrocos não reúne garantias de segurança para organizar o Mundial 2030 após os acontecimentos em Ceuta. PSD diz que Governo está a regular imigração com responsabilidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2396/",
+      "pubDate": "Wed, 05 Aug 2026 03:13:52 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Novo ataque russo com mísseis balísticos faz um morto em Kiev",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-novo-ataque-russo-com-misseis-balisticos-faz-um-morto-em-kiev_a1_1757745",
-      "pubDate": "Wed, 05 Aug 2026 03:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Polícia sul-coreana faz buscas na sede da Starbucks após campanha promocional polémica",
+      "link": "https://www.rtp.pt/noticias/economia/policia-sul-coreana-faz-buscas-na-sede-da-starbucks-apos-campanha-promocional-polemica_n1757759",
+      "pubDate": "Wed, 05 Aug 2026 07:14:37 +0100",
+      "description": "A Polícia da Coreia do Sul realizou hoje buscas na sede da Starbucks no país asiático devido a acusações de ofensa ligados a uma campanha publicitária polémica associada a um massacre histórico de manifestantes pró-democracia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b7b30f57ae897949aa9e1770f2586b9?w=350&amp;q=50&amp;rect=0,35,960,526&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Guatemala em alerta máximo com vulcão do Fogo em erupção",
-      "link": "https://www.rtp.pt/noticias/mundo/guatemala-em-alerta-maximo-com-vulcao-do-fogo-em-erupcao_n1757741",
-      "pubDate": "Wed, 05 Aug 2026 01:52:12 +0100",
-      "description": "As autoridades da Guatemala lançaram um alerta vermelho no país, o nível mais elevado, abrangendo as zonas afetadas pela erupção do vulcão do Fogo, a 35 quilómetros da capital.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Brasil estreia seleção nacional de futebol com robôs humanoides nos Mundiais de Pequim",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/brasil-estreia-selecao-nacional-de-futebol-com-robos-humanoides-nos-mundiais-de-pequim_d1757760",
+      "pubDate": "Wed, 05 Aug 2026 07:04:35 +0100",
+      "description": "Cinco equipas brasileiras de robótica vão competir unidas como seleção nacional na prova de futebol com robôs humanoides totalmente autónomos dos Jogos Mundiais de Robôs Humanoides 2026, que decorrem este mês em Pequim, anunciaram esta semana os organizadores.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ba/ba252f24409ce0459330ae0f604f62cf?w=350&amp;q=50&amp;rect=0,59,678,372&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Senado dos EUA abre caminho à nomeação de ex-advogado de Trump para procurador-geral",
-      "link": "https://www.rtp.pt/noticias/mundo/senado-dos-eua-abre-caminho-a-nomeacao-de-ex-advogado-de-trump-para-procurador-geral_n1757735",
-      "pubDate": "Wed, 05 Aug 2026 01:49:04 +0100",
-      "description": "O comité judicial do Senado dos Estados Unidos aprovou a nomeação para procurador-geral de Todd Blanche, ex-advogado de Donald Trump e atual dirigente interino do Departamento de Justiça, retirando um obstáculo importante ao nomeado do Presidente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b811122f5225d9bafc819a6ca4f0676?w=350&amp;q=50&amp;rect=2,0,5897,3233&amp;auto=format"
+      "title": "Imposto sobre `trusts` no exterior leva milionários chineses a ponderar vender ativos",
+      "link": "https://www.rtp.pt/noticias/economia/imposto-sobre-trusts-no-exterior-leva-milionarios-chineses-a-ponderar-vender-ativos_n1757755",
+      "pubDate": "Wed, 05 Aug 2026 06:53:09 +0100",
+      "description": "As grandes fortunas chinesas estão a recorrer a advogados, bancos privados e gestores de património e ponderam vender ativos para pagar o novo imposto sobre estruturas fiduciárias (`trusts`) no estrangeiro, segundo especialistas citados pela cadeia norte-americana CNBC.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fe/fe5a7484bf027d80fe57022d430d33f9?w=350&amp;q=50&amp;rect=0,17,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "EUA declaram estado de emergência para combater incêndios descontrolados no noroeste",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-declaram-estado-de-emergencia-para-combater-incendios-descontrolados-no-noroeste_n1757732",
-      "pubDate": "Wed, 05 Aug 2026 01:47:06 +0100",
-      "description": "O Governo norte-americano declarou estado de emergência para responder aos incêndios florestais que assolam o noroeste do país, onde mais de 65 mil pessoas foram retiradas e cerca de 700 estruturas foram destruídas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ec7b8e6619c849d5d5934360ec702cb?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
+      "title": "Regulamentação dos EUA sobre IA deve visar apenas a OpenAI, Google e Anthropic - `media`",
+      "link": "https://www.rtp.pt/noticias/economia/regulamentacao-dos-eua-sobre-ia-deve-visar-apenas-a-openai-google-e-anthropic-media_n1757754",
+      "pubDate": "Wed, 05 Aug 2026 06:41:21 +0100",
+      "description": "Os controlos de segurança de inteligência artificial (IA) que o Governo dos Estados Unidos pretende aplicar irão visar os modelos da OpenAI, Google e Anthropic, poupando os modelos da Meta ou da chinesa DeepSeek, noticiaram `media` norte-americanos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f2d3f547c540dbdace04bf40ea38670?w=350&amp;q=50&amp;rect=0,71,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sismos Venezuela. Iniciados trabalhos de reparação de 4.000 habitações em La Guaira",
+      "link": "https://www.rtp.pt/noticias/mundo/sismos-venezuela-iniciados-trabalhos-de-reparacao-de-4000-habitacoes-em-la-guaira_n1757752",
+      "pubDate": "Wed, 05 Aug 2026 06:38:47 +0100",
+      "description": "O Governo da Venezuela iniciou os trabalhos de recuperação de quase 4.000 habitações de La Guaira, o estado venezuelano mais afetado pelo duplo sismo que abalou o país em 24 de junho.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5ab16e8c836057b86ac6a828c4aa463?w=350&amp;q=50&amp;rect=0,47,694,380&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sobe para 77 número de migrantes que morreram ao tentar chegar a Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3032221/sobe-para-77-numero-de-migrantes-que-morreram-ao-tentar-chegar-a-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-05 00:00:22",
+      "title": "Regras para uso de espaços separados por género mudam no Reino Unido",
+      "link": "https://www.noticiasaominuto.com/mundo/3032234/regras-para-uso-de-espacos-separados-por-genero-mudam-no-reino-unido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 06:19:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a726f370b2ad.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5c1a981306c14.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc5NSwiY3JvcEhlaWdodCI6MTQxNCwiY3JvcFgiOjUzNSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3031775/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-04 23:55:00",
+      "title": "Homem armado preso em campo de golfe na Califórnia antes de visita de Trump",
+      "link": "https://www.noticiasaominuto.com/mundo/3032242/homem-armado-preso-em-campo-de-golfe-na-california-antes-de-visita-de-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 06:18:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7185afa4180.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTU0LCJjcm9wSGVpZ2h0Ijo4NzQsImNyb3BYIjo4MTMsImNyb3BZIjo1NTl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69e680a200856.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY0LCJjcm9wSGVpZ2h0IjoxMzg2LCJjcm9wWCI6MjYsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjcwNiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Nakajima está de regresso ao Portimonense",
-      "link": "https://www.noticiasaominuto.com/desporto/3032202/oficial-nakajima-esta-de-regresso-ao-portimonense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-04 23:50:18",
+      "title": "Iniciados trabalhos de reparação de 4.000 habitações em La Guaira",
+      "link": "https://www.noticiasaominuto.com/mundo/3032245/iniciados-trabalhos-de-reparacao-de-4000-habitacoes-em-la-guaira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 06:17:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_61268d3bbbb56.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6b4e1889a61.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQyMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Apreendidas mais de 115 mil joias de luxo contrafeitas em Espanha",
-      "link": "https://www.noticiasaominuto.com/mundo/3032218/apreendidas-mais-de-115-mil-joias-de-luxo-contrafeitas-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-04 23:47:22",
+      "title": "Brasil corta presença diplomática na Argentina após insultos de Milei a Lula",
+      "link": "https://www.noticiasaominuto.com/mundo/3032243/brasil-corta-presenca-diplomatica-na-argentina-apos-insultos-de-milei-a-lula#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 06:17:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7269e47f1dd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTczLCJjcm9wSGVpZ2h0Ijo4ODUsImNyb3BYIjozNDcsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODEsImNyb3BYIjoxMDI3LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_673bd18518f43.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTM0LCJjcm9wSGVpZ2h0IjoxMDg4LCJjcm9wWCI6Mjc2LCJjcm9wWSI6MjcyfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica rejeitou proposta milionária do Fenerbahçe por Pavlidis",
-      "link": "https://www.noticiasaominuto.com/desporto/3032220/benfica-rejeitou-proposta-milionaria-do-fenerbahce-por-pavlidis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-04 23:40:49",
+      "title": "Dia F(IFA). Reunião em Marrocos pode selar o destino de Infantino",
+      "link": "https://www.noticiasaominuto.com/desporto/3032255/dia-fifa-reuniao-em-marrocos-pode-selar-o-destino-de-infantino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-05 06:17:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_696e012f489a9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64130b68c3b08.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjQzOSwiY3JvcFkiOjE2fX0="
     },
     {
       "sourceId": "pplware",
