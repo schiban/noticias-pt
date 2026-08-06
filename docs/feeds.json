@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-05T23:28:18.068311+00:00",
+  "updated": "2026-08-06T00:52:07.486295+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2344/",
+      "pubDate": "Thu, 06 Aug 2026 01:15:03 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O clube dos poetas zombies",
+      "link": "https://observador.pt/opiniao/o-clube-dos-poetas-zombies/",
+      "pubDate": "Thu, 06 Aug 2026 00:25:14 +0100",
+      "description": "Junte-se uma VIP apaixonada por livros e uma livraria portuguesa que é a mais famosa do mundo. Só pode resultar, certo? Claro – se não fosse a agenda performática.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ceuta e o islamismo político",
-      "link": "https://observador.pt/opiniao/ceuta-e-o-islamismo-politico-a-fronteira-por-fora-a-norma-por-dentro/",
-      "pubDate": "Thu, 06 Aug 2026 00:20:42 +0100",
-      "description": "Ceuta foi a fronteira por fora. O entrismo é a fronteira por dentro. Um pergunta quem entra. O outro pergunta quem manda depois de entrar.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Termina hoje o prazo de candidatura ao ensino superior",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-termina-hoje-o-prazo-de-candidatura-ao-ensino-superior_a1_1757920",
+      "pubDate": "Thu, 06 Aug 2026 02:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "No pântano do poucochinho",
-      "link": "https://observador.pt/opiniao/no-pantano-do-poucochinho/",
-      "pubDate": "Thu, 06 Aug 2026 00:19:51 +0100",
-      "description": "As coisas são o que são e são muito poucochinho — tal como estão para durar num pântano de imobilismo nacional onde tudo nos aparece como pobrezinho, pindérico, mas sem fogacho de melhor solução",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A635%3A635%3Anowe%3A212%3A65%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F06000207%2F2696bedd-5924-43c3-9525-6b39c4c58d0a.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Opositora Dinorah Figuera regressa a Caracas para diálogo com regime",
+      "link": "https://www.rtp.pt/noticias/mundo/opositora-dinorah-figuera-regressa-a-caracas-para-dialogo-com-regime_n1757916",
+      "pubDate": "Thu, 06 Aug 2026 01:43:53 +0100",
+      "description": "A ex-deputada venezuelana da oposição Dinorah Figuera, que defende a continuidade da Assembleia Nacional (AN) eleita em 2015, regressou quarta-feira ao país para continuar o diálogo iniciado com o regime chavista com apoio dos Estados Unidos, noticiou a agência EFE.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "EUA mantêm alerta máximo de incêndio e combate a 94 grandes fogos",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-mantem-alerta-maximo-de-incendio-e-combate-a-94-grandes-fogos_n1757913",
+      "pubDate": "Thu, 06 Aug 2026 01:43:37 +0100",
+      "description": "Os Estados Unidos mantêm o nível máximo de prontidão para incêndios florestais, enquanto os bombeiros lutam para conter pelo menos 94 grandes fogos em todo o país, que já forçaram a retirada de milhares de pessoas.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "NASA confirma que destroços de foguetão da SpaceX atingiram a Lua",
+      "link": "https://www.rtp.pt/noticias/mundo/nasa-confirma-que-destrocos-de-foguetao-da-spacex-atingiram-a-lua_n1757912",
+      "pubDate": "Thu, 06 Aug 2026 01:43:12 +0100",
+      "description": "Uma parte superior de um foguetão da empresa espacial SpaceX colidiu hoje de forma não planeada com a superfície lunar, confirmou a agência espacial norte-americana NASA.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Ponte 25 de abril com espetáculo de drones",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ponte-25-de-abril-com-espetaculo-de-drones_a1_1757909",
-      "pubDate": "Thu, 06 Aug 2026 00:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Thu, 6 Aug 2026 00:35:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incidente com drone em Leipzig representa \"nova dimensão de ameaça\", afirma ministro alemão",
-      "link": "https://www.rtp.pt/noticias/mundo/incidente-com-drone-em-leipzig-representa-nova-dimensao-de-ameaca-afirma-ministro-alemao_n1757906",
-      "pubDate": "Wed, 05 Aug 2026 23:48:14 +0100",
-      "description": "O ministro alemão da Administração Interna, Alexander Dobrindt, indicou esta quarta-feira que a descoberta de um drone com um suposto engenho explosivo no aeroporto de Leipzig-Halle representa &quot;uma nova dimensão&quot; de ameaça, referindo um possível &quot;cenário de ataque híbrido&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/96/9612e70c1948b48d7c5088dcd44778c1?w=350&amp;q=50&amp;rect=0,114,1837,1007&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Thu, 6 Aug 2026 00:30:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Houve 3 detenções na operação SkyDrop",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-houve-3-detencoes-na-operacao-skydrop_a1_1757904",
-      "pubDate": "Wed, 05 Aug 2026 23:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Presidente iraniano aponta que contacto com Líder Supremo é \"muito difícil de momento\"",
-      "link": "https://www.rtp.pt/noticias/mundo/presidente-iraniano-aponta-que-contacto-com-lider-supremo-e-muito-dificil-de-momento_n1757902",
-      "pubDate": "Wed, 05 Aug 2026 23:00:23 +0100",
-      "description": "O Presidente iraniano, Massoud Pezeshkian, revelou esta quarta-feira que a comunicação com o Líder Supremo Mojtaba Khamenei, que não aparece em público desde a sua nomeação em março, é &quot;muito difícil de momento&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bbcea7099725cff8d9cf37736a7cff78?w=350&amp;q=50&amp;rect=0,45,4000,2193&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Benfica avança com queixa junto da FPF pela nomeação de Gustavo Correia",
+      "link": "https://maisfutebol.iol.pt/benfica/liga/benfica-avanca-com-queixa-junto-da-fpf-pela-nomeacao-de-gustavo-correia",
+      "pubDate": "Thu, 6 Aug 2026 00:28:00 +0100",
+      "description": "Árbitro foi nomeado para o jogo da primeira jornada da Liga entre o Gil Vicente e o Rio Ave",
+      "thumbnail": "https://img.iol.pt/image/id/635561350cf2ea4f0a62c317/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Wed, 5 Aug 2026 23:14:20 +0100",
       "description": "Médio dinamarquês assina até 2028",
       "thumbnail": "https://img.iol.pt/image/id/6a73b55ed34ed0733ba7e7e7/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Léo Azevedo deixa o Torreense e protagoniza transferência recorde",
-      "link": "https://maisfutebol.iol.pt/torreense/mercado-de-transferencias/oficial-leo-azevedo-protagoniza-transferencia-recorde-para-o-torreense",
-      "pubDate": "Wed, 5 Aug 2026 23:14:00 +0100",
-      "description": "Médio de 22 anos rumou aos Emirados e ao Al Sharjah, orientado por José Morais",
-      "thumbnail": "https://img.iol.pt/image/id/6a73b555d34ed0733ba7e7e6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Arábia: Mbemba reforça defesa do Al Diriyah de Bruno Lage",
-      "link": "https://maisfutebol.iol.pt/mercado-de-transferencias/transferencias/arabia-mbemba-reforca-defesa-do-al-diriyah-de-bruno-lage",
-      "pubDate": "Wed, 5 Aug 2026 22:58:26 +0100",
-      "description": "Ex-FC Porto deixa a elite francesa e reforça recém-promovido",
-      "thumbnail": "https://img.iol.pt/image/id/6a73b18fd34ed0733ba7e7dd/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "UEFA altera o regulamento de suspensão por cartões amarelos",
-      "link": "https://maisfutebol.iol.pt/uefa/liga-campeoes/uefa-altera-o-regulamento-de-suspensao-por-cartoes-amarelos",
-      "pubDate": "Wed, 5 Aug 2026 22:37:00 +0100",
-      "description": "Jogadores passam a cumprir castigo após quatro cartões amarelos na fase de liga",
-      "thumbnail": "https://img.iol.pt/image/id/644c321bd34ef47b8753510f/250"
     },
     {
       "sourceId": "sapo",
