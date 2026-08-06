@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-06T00:52:07.486295+00:00",
+  "updated": "2026-08-06T04:08:25.298620+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O PS pode salvar o Governo?",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/o-ps-pode-salvar-o-governo/",
+      "pubDate": "Thu, 06 Aug 2026 05:03:41 +0100",
+      "description": "Em plena sucessão de crises no Governo, Montenegro conta com o fator tempo e com a inesperada ajuda do PS. Miguel Santos Carrapatoso explica a estratégia de José Luís Carneiro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Benfica recebe Hearts à procura de lugar na Liga Europa",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2363/",
+      "pubDate": "Thu, 06 Aug 2026 04:14:59 +0100",
+      "description": "Marco Silva espera apoio dos adeptos e acredita que eliminatória dificilmente ficará resolvida hoje. Ainda, ministro da Economia reconhece necessidade de imigrantes para suprir falta de mão de obra.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2397/",
+      "pubDate": "Thu, 06 Aug 2026 03:13:42 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Trump prefere acordo com Irão a \"continuar a matar\"",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2371/",
+      "pubDate": "Thu, 06 Aug 2026 02:14:19 +0100",
+      "description": "Presidente dos EUA diz que foi Irão a pedir para dar inicio às conversações e acusa os iranianos de, mais tarde, negarem ter feito esse pedido. Ainda, partidos negam mais videovigilância no Parlamento",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O clube dos poetas zombies",
-      "link": "https://observador.pt/opiniao/o-clube-dos-poetas-zombies/",
-      "pubDate": "Thu, 06 Aug 2026 00:25:14 +0100",
-      "description": "Junte-se uma VIP apaixonada por livros e uma livraria portuguesa que é a mais famosa do mundo. Só pode resultar, certo? Claro – se não fosse a agenda performática.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Cúpula da FIFA reafirma total apoio a Gianni Infantino",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-cupula-da-fifa-reafirma-total-apoio-a-gianni-infantino_a1_1757930",
+      "pubDate": "Thu, 06 Aug 2026 05:19:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O português que veio do futuro",
-      "link": "https://observador.pt/opiniao/o-portugues-que-veio-do-futuro/",
-      "pubDate": "Thu, 06 Aug 2026 00:23:33 +0100",
-      "description": "Imagine-se um português sem compaixão, fanfarronice, fome, saudade – ainda será um português?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Irão e Omã acordam nova rota marítima no Estreito de Ormuz",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-irao-e-oma-acordam-nova-rota-maritima-no-estreito-de-ormuz_a1_1757928",
+      "pubDate": "Thu, 06 Aug 2026 04:42:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O equívoco sobre Luís Neves",
-      "link": "https://observador.pt/opiniao/o-equivoco-sobre-luis-neves/",
-      "pubDate": "Thu, 06 Aug 2026 00:22:14 +0100",
-      "description": "Tanto quanto sei, o Estado é o único patrão em Portugal que pode alterar unilateralmente contratos estabelecidos com os seus trabalhadores.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1256%3A1256%3Anowe%3A64%3A28%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F05%2F26131553%2Fhenrique-pereira-dos-santos.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2382/",
-      "pubDate": "Thu, 06 Aug 2026 00:21:22 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Polémicas com ministro Luís Neves causam desconforto na PJ",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-polemicas-com-ministro-luis-neves-causam-desconforto-na-pj_a1_1757925",
+      "pubDate": "Thu, 06 Aug 2026 04:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Thu, 06 Aug 2026 01:43:53 +0100",
       "description": "A ex-deputada venezuelana da oposição Dinorah Figuera, que defende a continuidade da Assembleia Nacional (AN) eleita em 2015, regressou quarta-feira ao país para continuar o diálogo iniciado com o regime chavista com apoio dos Estados Unidos, noticiou a agência EFE.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "EUA mantêm alerta máximo de incêndio e combate a 94 grandes fogos",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-mantem-alerta-maximo-de-incendio-e-combate-a-94-grandes-fogos_n1757913",
-      "pubDate": "Thu, 06 Aug 2026 01:43:37 +0100",
-      "description": "Os Estados Unidos mantêm o nível máximo de prontidão para incêndios florestais, enquanto os bombeiros lutam para conter pelo menos 94 grandes fogos em todo o país, que já forçaram a retirada de milhares de pessoas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "NASA confirma que destroços de foguetão da SpaceX atingiram a Lua",
-      "link": "https://www.rtp.pt/noticias/mundo/nasa-confirma-que-destrocos-de-foguetao-da-spacex-atingiram-a-lua_n1757912",
-      "pubDate": "Thu, 06 Aug 2026 01:43:12 +0100",
-      "description": "Uma parte superior de um foguetão da empresa espacial SpaceX colidiu hoje de forma não planeada com a superfície lunar, confirmou a agência espacial norte-americana NASA.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h 60 anos da inauguração da Ponte 25 de abril",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-60-anos-da-inauguracao-da-ponte-25-de-abril_a1_1757915",
-      "pubDate": "Thu, 06 Aug 2026 01:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
