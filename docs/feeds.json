@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-07T03:26:05.528160+00:00",
+  "updated": "2026-08-07T05:12:57.972482+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Terra de Senhorim e os moinhos de rodízio da Ribeira",
+      "link": "https://observador.pt/programas/a-historia-das-historias/terra-de-senhorim-e-os-moinhos-de-rodizio-da-ribeira/",
+      "pubDate": "Fri, 07 Aug 2026 06:02:36 +0100",
+      "description": "Fala-se das Campanhas de Beiras de Fernando Magno, Rei de Leão, do castelo que encabeçava as Terras de Senhorim, das sepulturas escavadas na rocha e dos moinhos de rodízio da Ribeira do Castelo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2457/",
+      "pubDate": "Fri, 07 Aug 2026 05:47:33 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O Hamas está mesmo disposto a desarmar?",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/o-hamas-esta-mesmo-disposto-a-desarmar/",
+      "pubDate": "Fri, 07 Aug 2026 05:02:23 +0100",
+      "description": "O acordo de paz anunciado por Trump está num impasse. O Hamas admite desarmar, mas Israel ainda não aceitou o acordo. O que está realmente em causa e porque é que a paz continua longe?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,42 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Luís Neves. Chega: \"PM perdeu controlo da situação\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2372/",
-      "pubDate": "Fri, 07 Aug 2026 02:16:04 +0100",
-      "description": "Fernando Silva, MAI do Governo Sombra do Chega, diz ser \"muito estranho\" que um ministro envolvido em tantas polémicas permaneça no cargo. Ainda nesta edição, Benfica e Braga vencem em noite europeia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Benfica goleia Hearts e aproxima-se da Liga Europa",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2345/",
-      "pubDate": "Fri, 07 Aug 2026 01:17:45 +0100",
-      "description": "Marco Silva destaca melhoria da equipa em relação aos últimos jogos, mas lembra que ainda é uma fase prematura da temporada. Ainda, Donald Trump diz que o Estreito de Ormuz está \"mais ou menos\" aberto",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Chega: Montenegro \"perdeu o controlo\" do caso Luís Neves",
-      "link": "https://observador.pt/2026/08/07/chega-acusa-montenegro-de-perder-controlo-da-situacao-sobre-luis-neves/",
-      "pubDate": "Fri, 07 Aug 2026 00:47:00 +0100",
-      "description": "Partido diz que alegados negócios da ConstruBarcelos com o diretor financeiro da PJ elevam a \"absoluta incompatibilidade ética\" do ministro da Administração Interna.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3886:2185:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192103/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-19.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Arábia Saudita, Turquia e Paquistão vão assinar acordo de defesa mútua",
+      "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-turquia-e-paquistao-vao-assinar-acordo-de-defesa-mutua_n1758126",
+      "pubDate": "Fri, 07 Aug 2026 06:37:39 +0100",
+      "description": "Riade, 07 ago 2026 (Lusa) - A Arábia Saudita, o Paquistão e a Turquia assinam hoje um acordo de defesa mútua, num contexto de tensões associadas à guerra no Médio Oriente, indicaram à agência France-Presse (AFP) fontes do exército e do Governo saudita.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2c8d70e63c4faae60fe272ef94042fd?w=350&amp;q=50&amp;rect=0,6,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h \"Ano perdido\" diz o ex ministro da educação sobre os exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ano-perdido-diz-o-ex-ministro-da-educacao-sobre-os-exames_a1_1758133",
-      "pubDate": "Fri, 07 Aug 2026 05:21:02 +0100",
+      "title": "Ex-governador detido mais de uma década após desaparecimento de 43 estudantes no México",
+      "link": "https://www.rtp.pt/noticias/mundo/ex-governador-detido-mais-de-uma-decada-apos-desaparecimento-de-43-estudantes-no-mexico_n1758137",
+      "pubDate": "Fri, 07 Aug 2026 06:32:56 +0100",
+      "description": "Um ex-governador do estado de Guerrero, sul do México, foi detido pelo alegado envolvimento no desaparecimento de 43 estudantes em 2014, num caso que se tornou um símbolo da impunidade e envolvimento estatal na violência dos cartéis.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/15/1566e527d06f5df5aa77ee7c6cf0deee?w=350&amp;q=50&amp;rect=0,0,624,342&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Seguro apela a políticas públicas duradouras",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-seguro-apela-a-politicas-publicas-duradouras_a1_1758139",
+      "pubDate": "Fri, 07 Aug 2026 06:27:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,21 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Caso Luís Neves. PR reitera preservação das instituições",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-caso-luis-neves-pr-reitera-preservacao-das-instituicoes_a1_1758131",
-      "pubDate": "Fri, 07 Aug 2026 04:54:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Exportações chinesas crescem 17,8% em julho",
+      "link": "https://www.rtp.pt/noticias/economia/exportacoes-chinesas-crescem-178-em-julho_n1758136",
+      "pubDate": "Fri, 07 Aug 2026 06:26:27 +0100",
+      "description": "O valor das exportações chinesas para o exterior aumentou 17,8% em termos homólogos em julho para cerca de 2,71 biliões de yuan (348.81 mil milhões de euros), segundo dados oficiais publicados hoje.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/204ceaa6ff055f47203fd35e993a32a0?w=350&amp;q=50&amp;rect=0,29,1170,641&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Exames nacionais: Resultados da 2ªfase chegam às escolas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-exames-nacionais-resultados-da-2afase-chegam-as-escolas_a1_1758130",
-      "pubDate": "Fri, 07 Aug 2026 04:12:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h Exames: Antigo ministro da educação diz que é um ano perdido",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-exames-antigo-ministro-da-educacao-diz-que-e-um-ano-perdido_a1_1758125",
-      "pubDate": "Fri, 07 Aug 2026 02:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump reconhece escassez de algumas armas mas garante que EUA têm munições suficientes",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-reconhece-escassez-de-algumas-armas-mas-garante-que-eua-tem-municoes-suficientes_n1758114",
-      "pubDate": "Fri, 07 Aug 2026 01:36:48 +0100",
-      "description": "Washington, 06 ago 2026 (Lusa) - O Presidente norte-americano, Donald Trump, reconheceu hoje que os Estados Unidos enfrentam uma escassez de alguns tipos de armamento, mas garantiu que têm munições suficientes para a guerra com o Irão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d30d5f5365cf0125530300cc4c3884d6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Fundo Petrolífero timorense aumenta 8,35 milhões de euros no segundo trimestre",
+      "link": "https://www.rtp.pt/noticias/economia/fundo-petrolifero-timorense-aumenta-835-milhoes-de-euros-no-segundo-trimestre_n1758134",
+      "pubDate": "Fri, 07 Aug 2026 06:25:24 +0100",
+      "description": "O Fundo Petrolífero timorense encerrou o segundo trimestre do ano com mais 9,62 milhões de dólares (8,35 milhões de euros) que no fim do primeiro trimestre, anunciou o Banco Central de Timor-Leste.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4acea8a51149b57be5a2b3c4889f563f?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,6 +205,16 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "O que acontece ao seu corpo quando não toma o pequeno-almoço",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3032399/o-que-acontece-ao-seu-corpo-quando-nao-toma-o-pequeno-almoco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 06:05:35",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a730d4f6056b.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Chega acusa Montenegro de perder \"controlo da situação\" sobre Luís Neves",
       "link": "https://www.noticiasaominuto.com/pais/3033283/chega-acusa-montenegro-de-perder-controlo-da-situacao-sobre-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-06 23:59:56",
@@ -240,16 +250,6 @@
       "pubDate": "2026-08-06 23:56:00",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68208710bf542.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "25 milhões: Melilla pede mais fundos a Madrid para ajudar menores",
-      "link": "https://www.noticiasaominuto.com/mundo/3033280/25-milhoes-melilla-pede-mais-fundos-a-madrid-para-ajudar-menores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-06 23:54:50",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7510c3b6b28.webp"
     },
     {
       "sourceId": "pplware",
