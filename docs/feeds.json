@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-07T00:22:19.171991+00:00",
+  "updated": "2026-08-07T03:26:05.528160+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2364/",
+      "pubDate": "Fri, 07 Aug 2026 04:15:14 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2398/",
+      "pubDate": "Fri, 07 Aug 2026 03:12:48 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Luís Neves. Chega: \"PM perdeu controlo da situação\"",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2372/",
+      "pubDate": "Fri, 07 Aug 2026 02:16:04 +0100",
+      "description": "Fernando Silva, MAI do Governo Sombra do Chega, diz ser \"muito estranho\" que um ministro envolvido em tantas polémicas permaneça no cargo. Ainda nesta edição, Benfica e Braga vencem em noite europeia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Benfica goleia Hearts e aproxima-se da Liga Europa",
       "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2345/",
       "pubDate": "Fri, 07 Aug 2026 01:17:45 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Marco Silva destaca melhoria da equipa em relação aos últimos jogos, mas lembra que ainda é uma fase prematura da temporada. Ainda, Donald Trump diz que o Estreito de Ormuz está \"mais ou menos\" aberto",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3886:2185:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192103/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-19.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Trump responde a Zelensky: \"Nós também queremos mísseis\"",
-      "link": "https://observador.pt/2026/08/07/trump-reconhece-escassez-e-responde-a-zelensky-por-mais-ajuda-militar-nos-tambem-queremos-misseis/",
-      "pubDate": "Fri, 07 Aug 2026 00:33:05 +0100",
-      "description": "Afinal, Trump admitiu que EUA enfrentam uma escassez de alguns tipos de armamento e diz que Joe Biden enviou demasiadas munições à Ucrânia. Zelensky pede que Ocidente ajude a proteger os céus do país.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1970:nowe:0:6/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/28201351/gettyimages-2253060610.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h \"Ano perdido\" diz o ex ministro da educação sobre os exames",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ano-perdido-diz-o-ex-ministro-da-educacao-sobre-os-exames_a1_1758133",
+      "pubDate": "Fri, 07 Aug 2026 05:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mamíferos, Doutores, Islamismo e ciência",
-      "link": "https://observador.pt/opiniao/mamiferos-doutores-islamismo-e-ciencia/",
-      "pubDate": "Fri, 07 Aug 2026 00:25:53 +0100",
-      "description": "Em vez de observarmos o elefante na sala, debatemos se é ofensivo chamar-lhe mamífero. Mas é. E nós também somos. A diferença é que o elefante não invoca relatórios “científicos” para fingir que não é",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1082%3A1081%3Anowe%3A120%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F23154315%2Feugravata.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Caso Luís Neves. PR reitera preservação das instituições",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-caso-luis-neves-pr-reitera-preservacao-das-instituicoes_a1_1758131",
+      "pubDate": "Fri, 07 Aug 2026 04:54:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os escravos dos antepassados do papa",
-      "link": "https://observador.pt/opiniao/os-escravos-dos-antepassados-do-papa/",
-      "pubDate": "Fri, 07 Aug 2026 00:24:40 +0100",
-      "description": "Há portanto duas — ou, melhor, mais duas — fortíssimas razões para recusar qualquer pretensão de reparações, venham elas por via da organização chefiada por António Guterres ou por outra via qualquer.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Exames nacionais: Resultados da 2ªfase chegam às escolas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-exames-nacionais-resultados-da-2afase-chegam-as-escolas_a1_1758130",
+      "pubDate": "Fri, 07 Aug 2026 04:12:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Fri, 07 Aug 2026 01:36:48 +0100",
       "description": "Washington, 06 ago 2026 (Lusa) - O Presidente norte-americano, Donald Trump, reconheceu hoje que os Estados Unidos enfrentam uma escassez de alguns tipos de armamento, mas garantiu que têm munições suficientes para a guerra com o Irão.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d30d5f5365cf0125530300cc4c3884d6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Marrocos preparado para receber menores se Espanha remover obstáculos legais",
-      "link": "https://www.rtp.pt/noticias/mundo/marrocos-preparado-para-receber-menores-se-espanha-remover-obstaculos-legais_n1758112",
-      "pubDate": "Fri, 07 Aug 2026 01:34:56 +0100",
-      "description": "As autoridades de Marrocos estão preparadas para receber todos os menores marroquinos não acompanhados que se encontram em Espanha, caso Madrid remova &quot;os obstáculos legais e administrativos que o impedem&quot;, afirmou hoje fonte diplomática de Rabat.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/98/98d0d21c36c8f30b4a2dd67aa76a6bce?w=350&amp;q=50&amp;rect=0,0,5500,3015&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump assina decreto que impede  \"turismo de nascimentos\"",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-assina-decreto-que-impede-turismo-de-nascimentos_n1758116",
-      "pubDate": "Fri, 07 Aug 2026 01:31:51 +0100",
-      "description": "O Presidente dos Estados Unidos, Donald Trump, assinou hoje um decreto para impedir o &quot;turismo de nascimentos&quot;, em que mulheres estrangeiras vêm dar à luz no país para que o filho obtenha a cidadania norte-americana.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h \"Ano perdido\" diz o ex ministro da educação sobre os exames",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ano-perdido-diz-o-ex-ministro-da-educacao-sobre-os-exames_a1_1758121",
-      "pubDate": "Fri, 07 Aug 2026 01:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
