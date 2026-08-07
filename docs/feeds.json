@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-07T11:42:34.797241+00:00",
+  "updated": "2026-08-07T12:54:09.415911+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Direito de resposta da Universidade Nova de Lisboa",
+      "link": "https://observador.pt/2026/08/07/direito-de-resposta-da-universidade-nova-de-lisboa/",
+      "pubDate": "Fri, 07 Aug 2026 13:52:15 +0100",
+      "description": "Observador publica o Direito de Resposta da UNL ao artigo intitulado \"Prazos ultrapassados, 'golpadas' e tribunais. Há uma guerra aberta na Universidade Nova e o caso pode acabar nas mãos do Governo\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1707:960:nowe:106:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/02111603/nova.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Investigação em Angola detém 3 pessoas por morte de brasilei",
+      "link": "https://observador.pt/2026/08/07/servico-de-investigacao-angolano-deteve-tres-pessoas-implicadas-na-morte-de-cidadao-brasileiro/",
+      "pubDate": "Fri, 07 Aug 2026 13:51:31 +0100",
+      "description": "A vítima, de 49 anos, foi encontrada sem vida num hotel em Luanda com sinais de violência. O cidadão brasileiro chegou ao país transportando no abdómen 94 cápsulas com cocaína.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/02/22164455/10973889.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "GovHorizon apoia Agência Espacial com IA",
+      "link": "https://observador.pt/2026/08/07/plataforma-govhorizon-apoia-agencia-espacial-portuguesa-no-processo-de-apoio-a-decisao/",
+      "pubDate": "Fri, 07 Aug 2026 13:48:03 +0100",
+      "description": "A GovHorizon transforma grandes volumes de informação em conhecimento para a análise e decisão. A colaboração \"é uma vantagem para Portugal\", segundo representante da Agência Espacial Portuguesa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/05121124/46692049.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h. PRR. Portugal recebeu mais de 2 mil milhões de euros",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2408/",
+      "pubDate": "Fri, 07 Aug 2026 13:13:16 +0100",
+      "description": "Ministro da Economia e Coesão Territorial afirma que novo pagamento confirma que o país continua a cumprir os compromissos assumidos. Ainda, prevista descida do preço dos combustíveis para a semana.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,62 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Modelo de IA da Meta invadiu sistema de outra empresa",
-      "link": "https://observador.pt/2026/08/07/modelo-de-ia-da-meta-invadiu-sistema-de-outra-empresa-de-forma-autonoma/",
-      "pubDate": "Fri, 07 Aug 2026 12:28:21 +0100",
-      "description": "Uma \"configuração incorreta\" durante os testes de cibersegurança levaram a IA da Meta a desobedecer a instruções humanas. Modelos da Open AI, Anthropic e ChatGPT também realizaram \"ações autónomas\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/20100145/44683614.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Trabalhadores da Saúde no Algarve fazem greve",
-      "link": "https://observador.pt/2026/08/07/trabalhadores-da-saude-no-algarve-fazem-greve-por-melhores-condicoes-laborais/",
-      "pubDate": "Fri, 07 Aug 2026 12:26:14 +0100",
-      "description": "Profissionais a fazer 16 horas consecutivas de trabalho são uma realidade e a ação é necessária para garantir um SNS \"público, acessível e de qualidade\", Rosa Franco, do Sindicato dos Trabalhadores.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1963:nowe:0:285/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/07114543/igor-martins-hugosarmento-06-041.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "I Liga 2026/27 arranca com Estoril Praia-Famalicão",
-      "link": "https://observador.pt/2026/08/07/i-liga-2026-27-arranca-com-estoril-praia-famalicao-e-treinadores-em-estreia/",
-      "pubDate": "Fri, 07 Aug 2026 12:25:37 +0100",
-      "description": "Os estorilistas, a jogarem em casa, procuram contrariar a recente supremacia famalicense. Nos últimos quatro jogos, o Famalicão venceu todos os confrontos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/05085315/45392853.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vendas de cerveja sobem 1,67% impulsionadas pelas sem ácool",
-      "link": "https://observador.pt/2026/08/07/vendas-de-cerveja-sobem-167-no-1-o-semestre-impulsionadas-pelas-sem-acool/",
-      "pubDate": "Fri, 07 Aug 2026 12:25:18 +0100",
-      "description": "Uma em cada 12 cervejas consumidas na União Europeia é sem álcool. Portugal acompanha a tendência, com um aumento de cerca de 12% nas vendas no primeiro semestre de 2026.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/15205828/dventura-central-cervejas-sagres-teresa-sampaio-mestre-cervejeira-40-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Viticultores do Douro em protesto",
+      "link": "https://www.rtp.pt/noticias/economia/viticultores-do-douro-em-protesto_v1758216",
+      "pubDate": "Fri, 07 Aug 2026 14:39:47 +0100",
+      "description": "Uma centena de viticultores manifestou-se esta manhã no Peso da Régua. Dizem que já estão a vender as uvas abaixo do preço de custo da produção.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/19/19ab3f0978ca106fb917bc41802ab6a4_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "João Almeida abandona Volta à Polónia após queda",
-      "link": "https://www.rtp.pt/noticias/ciclismo/joao-almeida-abandona-volta-a-polonia-apos-queda_d1758199",
-      "pubDate": "Fri, 07 Aug 2026 13:19:50 +0100",
-      "description": "O ciclista português João Almeida abandonou a Volta à Polónia, que ganhou em 2021, após a queda sofrida na etapa de quinta-feira, confirmou hoje a equipa UAE Team Emirates.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e45e845a1361c5ad1afd498097163902?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "PS diz que já se atingiu limite do admissível. As reações à polémica com Luís Neves",
+      "link": "https://www.rtp.pt/noticias/politica/ps-diz-que-ja-se-atingiu-limite-do-admissivel-as-reacoes-a-polemica-com-luis-neves_v1758214",
+      "pubDate": "Fri, 07 Aug 2026 14:37:47 +0100",
+      "description": "O PS diz que o caso Luís Neves já atingiu o limite do admissível e pede ao primeiro-ministro que assuma as responsabilidades e ponha ordem no Governo. O Chega acrescenta que Montenegro perdeu o controlo da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6fb6f91fe39039e4c1851024afe870e0?w=350&amp;q=50&amp;rect=0,128,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "12h Combustíveis vão baixar mais de 10 cêntimos na próxima semana",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-combustiveis-vao-baixar-mais-de-10-centimos-na-proxima-semana_a1_1758198",
-      "pubDate": "Fri, 07 Aug 2026 13:19:03 +0100",
+      "title": "13h Livre pede a Montenegro que se pronuncie sobre auditoria aos mandatos de Luís Neves",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-livre-pede-a-montenegro-que-se-pronuncie-sobre-auditoria-aos-mandatos-de-luis-neves_a1_1758207",
+      "pubDate": "Fri, 07 Aug 2026 14:31:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,81 +85,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "11h Candidaturas ao ensino superior subiram quase 22% face ao ano passado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-candidaturas-ao-ensino-superior-subiram-quase-22-face-ao-ano-passado_a1_1758196",
-      "pubDate": "Fri, 07 Aug 2026 12:56:03 +0100",
+      "title": "PRR.  Portugal recebeu hoje 2.320 ME referente ao 9.º desembolso",
+      "link": "https://www.rtp.pt/noticias/economia/prr-portugal-recebeu-hoje-2320-me-referente-ao-9o-desembolso_n1758197",
+      "pubDate": "Fri, 07 Aug 2026 14:05:45 +0100",
+      "description": "Portugal recebeu hoje um desembolso de 2.320 milhões de euros da Comissão Europeia, referente ao 9.º pedido de pagamento feito no âmbito do Plano de Recuperação e Resiliência (PRR), disse o Ministério da Economia e Coesão Territorial em comunicado.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h30 Rui Borges garante: não há caso Suárez",
+      "link": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-rui-borges-garante-nao-ha-caso-suarez_a1_1758202",
+      "pubDate": "Fri, 07 Aug 2026 14:00:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ceuta. Espanha espera transferir menores para o continente \"dentro de semanas\"",
-      "link": "https://www.rtp.pt/noticias/mundo/ceuta-espanha-espera-transferir-menores-para-o-continente-dentro-de-semanas_n1758191",
-      "pubDate": "Fri, 07 Aug 2026 12:29:32 +0100",
-      "description": "A ministra da Juventude de Espanha, Sira Rego, afirmou esta sexta-feira que espera iniciar a transferência de menores migrantes do enclave espanhol de Ceuta para o continente &quot;dentro de algumas semanas&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bce6d71222830d5ec8ac4dfdbf85f9a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "\"O rosto foi desfigurado\". Regime talibã inaugurou uma nova era de mulheres assassinadas",
-      "link": "https://www.rtp.pt/noticias/mundo/o-rosto-foi-desfigurado-regime-taliba-inaugurou-uma-nova-era-de-mulheres-assassinadas_n1758190",
-      "pubDate": "Fri, 07 Aug 2026 12:19:14 +0100",
-      "description": "Uma investigação sobre 231 casos de femicídio destaca a situação desesperada no Afeganistão, onde os homens têm poder para matar e não enfrentam punição, enquanto os seus crimes são encobertos pelo Estado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a3/a3b365f22c5e440b905e141f8c20862a?w=350&amp;q=50&amp;rect=0,112,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Doumbia? Se esperássemos pelo final da época, não iríamos conseguir contratá-lo»",
+      "link": "https://maisfutebol.iol.pt/sporting/mercado/doumbia-se-esperassemos-pelo-final-da-epoca-nao-iriamos-conseguir-contrata-lo",
+      "pubDate": "Fri, 7 Aug 2026 13:40:24 +0100",
+      "description": "Rui Borges revelou que o Sporting antecipou a contratação de Doumbia para evitar a concorrência pelo jovem médio e explicou também por que motivo o clube avançou rapidamente por Ibrahima Ba",
+      "thumbnail": "https://img.iol.pt/image/id/6a622b01d34e511da0b2f528/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Até parece cinema: Salah rendido ao «show» dos adeptos do Trabzonspor",
-      "link": "https://maisfutebol.iol.pt/internacional/turquia/ate-parece-cinema-salah-rendido-ao-show-dos-adeptos-do-trabzonspor",
-      "pubDate": "Fri, 7 Aug 2026 12:07:00 +0100",
-      "description": "Egípcio não ficou indiferente ao ambiente nas bancadas, durante a apresentação",
-      "thumbnail": "https://img.iol.pt/image/id/6a75bbb7d34ed0733ba7eb49/250"
+      "title": "Federação norueguesa pede demissão de Infantino da presidência da FIFA",
+      "link": "https://maisfutebol.iol.pt/fifa/gianni-infantino/federacao-norueguesa-pede-demissao-de-infantino-da-presidencia-da-fifa",
+      "pubDate": "Fri, 7 Aug 2026 13:33:07 +0100",
+      "description": "Líder do organismo diz que «não há retorno» para o ítalo-suíço",
+      "thumbnail": "https://img.iol.pt/image/id/69bc8c77d34edcee7c6216ca/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rodri fecha a porta ao Real Madrid após proposta «irrecusável»",
-      "link": "https://maisfutebol.iol.pt/espanha/internacional/rodri-fecha-a-porta-ao-real-madrid-apos-proposta-irrecusavel",
-      "pubDate": "Fri, 7 Aug 2026 12:02:40 +0100",
-      "description": "Agente do médio do Manchester City revela à Cadena SER que o jogador agradeceu a abordagem dos «merengues», mas decidiu aceitar outra oferta",
-      "thumbnail": "https://img.iol.pt/image/id/6a5defd6d34ef04b4f3f7af1/250"
+      "title": "Rui Borges e o investimento recorde: «A pressão é a mesma desde que nasci»",
+      "link": "https://maisfutebol.iol.pt/sporting/mercado/rui-borges-e-o-investimento-recorde-a-pressao-e-a-mesma-desde-que-nasci",
+      "pubDate": "Fri, 7 Aug 2026 13:27:00 +0100",
+      "description": "Treinador do Sporting elogiou a gestão da SAD leonina, e garantiu que Diomande está convocado apesar do assédio do Nottingham Forest",
+      "thumbnail": "https://img.iol.pt/image/id/6a71f03bd34ed0733ba7e1ae/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Futsal: FC Porto contrata guarda-redes ex-Sp. Braga",
-      "link": "https://maisfutebol.iol.pt/futsal/futsal-fc-porto/futsal-fc-porto-contrata-guarda-redes-ex-sp-braga",
-      "pubDate": "Fri, 7 Aug 2026 11:10:26 +0100",
-      "description": "Leandro Costa tem 27 anos e é o 15.º reforço dos dragões",
-      "thumbnail": "https://img.iol.pt/image/id/6a75ae89d34ed0733ba7eb14/250"
+      "title": "Rui Borges: «Ba e Debast só devem estar disponíveis na próxima jornada»",
+      "link": "https://maisfutebol.iol.pt/sporting/liga/rui-borges-agora-e-a-serio-nao-ha-margem-para-erro-e-queremos-ganhar",
+      "pubDate": "Fri, 7 Aug 2026 13:22:00 +0100",
+      "description": "Treinador do Sporting fez um balanço positivo da pré-temporada, mas lembra que a exigência aumenta com o arranque da Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6a622742d34ef04b4f3f87fb/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "DAZN passa a transmitir jogos da Liga Portugal em Espanha",
-      "link": "https://maisfutebol.iol.pt/liga/liga-portugal/dazn-passa-a-transmitir-jogos-da-liga-portugal-em-espanha",
-      "pubDate": "Fri, 7 Aug 2026 10:55:00 +0100",
-      "description": "Canal adquiriu os direitos de transmissão do campeonato português",
-      "thumbnail": "https://img.iol.pt/image/id/684335bdd34e3f0bae9f1c58/250"
+      "title": "Pote e Bragança de fora: «Estão com vontade de viver novas experiências»",
+      "link": "https://maisfutebol.iol.pt/sporting/liga/pote-e-braganca-de-fora-estao-com-vontade-de-viver-novas-experiencias",
+      "pubDate": "Fri, 7 Aug 2026 12:57:00 +0100",
+      "description": "Rui Borges diz que os dois portugueses não estão convocados, ao contrário de Luis Suárez, que irá a jogo",
+      "thumbnail": "https://img.iol.pt/image/id/6863b4b9d34e3f0bae9ffadc/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Liverpool homenageia Diogo Jota nos novos autocarros",
-      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/video-liverpool-homenageia-diogo-jota-nos-novos-autocarros",
-      "pubDate": "Fri, 7 Aug 2026 10:51:15 +0100",
-      "description": "Imagem do internacional português com a taça da Premier League surge na parte de trás dos veículos",
-      "thumbnail": "https://img.iol.pt/image/id/6a75aa5fd34ed0733ba7eb08/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Crise diplomática à vista: Espanha dá até domingo para Itália levantar controlos fronteiriços",
+      "link": "https://executivedigest.sapo.pt/crise-diplomatica-a-vista-espanha-da-ate-domingo-para-italia-levantar-controlos-fronteiricos/",
+      "pubDate": "Fri, 07 Aug 2026 12:05:53 +0000",
+      "description": "Os controlos foram reintroduzidos por Itália a 1 de agosto, na sequência da entrada em massa de migrantes em Ceuta provenientes de Marrocos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AKONAyOdtLgY21Y2kBZ5VZ4oRxSLzvy7uJ2PwdcMvXx7qx2ApiuZLF1DDpBPEOJJ%2Fo6ajpWvwS6wDREPm4x7mocIULolMcOuQAs5wpWGxw062GuU6m%2FA5FHIaPwgbulVK"
     },
     {
       "sourceId": "sapo",
@@ -159,17 +169,7 @@
       "link": "https://sapo.pt/artigo/vale-a-pena-esperar-para-abastecer-vem-ai-uma-grande-descida-no-preco-dos-combustiveis-6a7592b50e0cd03882f09a73",
       "pubDate": "Fri, 07 Aug 2026 09:01:25 +0000",
       "description": "Em pleno mês de agosto, férias para a grande maioria dos portugueses, a próxima semana trazer algum alívio na carteira. Num depósito de 50 litros, a poupança pode ultrapassar os cinco euros.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Adfp4k3epRP6heB3C6h4oDijJv%2B0nJk5qDnhzy5IwHCizTkaoaoqvjygcUR85OpkJOf4qB8yhsvWUgmcuQB6F85gX%2Br%2BqVHWe3vKAcNrFJgcjt%2BwNaHcIU7YtDHKLa7ue"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Forças de segurança receberam ordem para não travar migrantes em Ceuta",
-      "link": "https://sapo.pt/artigo/forcas-de-seguranca-receberam-ordem-para-nao-travar-migrantes-em-ceuta-6a759054de2adecf8aa7f80b",
-      "pubDate": "Fri, 07 Aug 2026 09:01:25 +0000",
-      "description": "Jornal espanhol noticia que polícia, Guarda Civil e militares foram instruídos a não recorrer à força e a limitar-se a indicar o caminho para a fronteira.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A3HhtE0486jQBW%2BIZGJsM30oW3dw8X1SpJ8zN%2F5GPT7SFdMrkPsJG9QGBNtWTomFA883vVRkqODmvMc7MOwRP1WV98lVcxQ9P7ie9%2Fqvs6yfwR0X8pFokYHpGvRame%2Fq5"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AbNCzQBEjR7XX6%2FxFejjCWv2Hv5mRaMoCcOiSOg%2BZQlknS%2BTXyqYw82W89GYYrV39mpKNvFR0NYI1NuvJjI%2BHRMuZCE4UV8%2B738%2B%2Bm4T5ZFU%3D"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "DST diz ter sido escolhida por PJ e MAI por apresentar \"preço mais baixo\"",
-      "link": "https://www.noticiasaominuto.com/economia/3033482/dst-diz-ter-sido-escolhida-por-pj-e-mai-por-apresentar-preco-mais-baixo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 12:37:57",
+      "title": "Casal encontrado morto em Sintra. Homem sofria de \"crises psicóticas\"",
+      "link": "https://www.noticiasaominuto.com/pais/3033519/casal-encontrado-morto-em-sintra-homem-sofria-de-crises-psicoticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 13:50:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63b438257ec65.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM5NCwiY3JvcEhlaWdodCI6NzAwLCJjcm9wWCI6NzAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_604718477c297.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2MiwiY3JvcEhlaWdodCI6MTM1NSwiY3JvcFgiOjE3MzIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Livre pede intervenção de PM perante auditoria pedida a mandatos de Neves",
-      "link": "https://www.noticiasaominuto.com/politica/3033478/livre-pede-intervencao-de-pm-perante-auditoria-pedida-a-mandatos-de-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 12:33:04",
+      "title": "Campo Maior. Festas do Povo começam amanhã com mais de 100 ruas floridas",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3033513/campo-maior-festas-do-povo-comecam-amanha-com-mais-de-100-ruas-floridas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 13:47:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69263df107b48.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkwOCwiY3JvcEhlaWdodCI6MTYxNSwiY3JvcFgiOjg4NiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75d16e218e8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Problemático\" e com \"interesse em armas\": Ataque \"planeado\" na Tailândia",
-      "link": "https://www.noticiasaominuto.com/mundo/3033464/problematico-e-com-interesse-em-armas-ataque-planeado-na-tailandia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 12:30:37",
+      "title": "Marco da Silva Ferreira estreará nova criação no Ballet da Ópera de Lyon",
+      "link": "https://www.noticiasaominuto.com/cultura/3033486/marco-da-silva-ferreira-estreara-nova-criacao-no-ballet-da-opera-de-lyon#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 13:47:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75b8cda69d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6NDUsImNyb3BZIjo2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUwLCJjcm9wSGVpZ2h0IjoxNjg5LCJjcm9wWCI6MTMzLCJjcm9wWSI6MTh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65dc4785b1b83.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Ítalo Henrique segue para a Ucrânia e enche cofres do Vizela",
-      "link": "https://www.noticiasaominuto.com/desporto/3033437/oficial-italo-henrique-segue-para-a-ucrania-e-enche-cofres-do-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 12:26:11",
+      "title": "Carla Andrino chegou aos 60 anos em destino de sonho: As imagens",
+      "link": "https://www.noticiasaominuto.com/fama/3033507/carla-andrino-chegou-aos-60-anos-em-destino-de-sonho-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 13:44:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75c0081ea49.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODcsImNyb3BYIjo4OTYsImNyb3BZIjo5fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75cf5c4bbf6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NTUxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NzgsImNyb3BIZWlnaHQiOjEzODIsImNyb3BYIjowLCJjcm9wWSI6M319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Federação da Noruega exige demissão de Infantino da presidência da FIFA",
-      "link": "https://www.noticiasaominuto.com/desporto/3033475/federacao-da-noruega-exige-demissao-de-infantino-da-presidencia-da-fifa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 12:20:38",
+      "title": "João Palhinha mais longe do Benfica? Bayern Munique faz ponto de situação",
+      "link": "https://www.noticiasaominuto.com/desporto/3033506/joao-palhinha-mais-longe-do-benfica-bayern-munique-faz-ponto-de-situacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-07 13:41:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75bedb6724e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIzNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk0LCJjcm9wWCI6NzQ0LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75d2628bf66.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6MzgsImNyb3BZIjoxMTh9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Europeus podem estar a pagar taxas que não deviam nas compras online. O que se passa?",
+      "link": "https://pplware.sapo.pt/internet/europeus-podem-estar-a-pagar-taxas-que-nao-deviam-nas-compras-online-o-que-se-passa/",
+      "pubDate": "Fri, 07 Aug 2026 11:50:27 +0000",
+      "description": "A Comissão Europeia está sob pressão da organização europeia para os consumidores e do Parlamento Europeu para evitar que compradores sejam confrontados com cobranças inesperadas ligadas à nova taxa aduaneira de três euros aplicada&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/08/temu_shein.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/seguranca_social.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Microsoft recua e recomendações de 32 GB de RAM no Windows 11 desaparecem",
-      "link": "https://pplware.sapo.pt/informacao/microsoft-recua-e-recomendacoes-de-32-gb-de-ram-no-windows-11-desaparecem/",
-      "pubDate": "Fri, 07 Aug 2026 09:28:09 +0000",
-      "description": "A gestão de memória no Windows 11 sofreu uma reviravolta inesperada. Sem qualquer anúncio, a Microsoft eliminou da sua documentação oficial todas as referências que recomendavam 32 GB de RAM para obter o máximo&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/04/windows_11_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Red Bull já tem substituto para Gianpiero Lambiase",
+      "link": "https://www.autosport.pt/formula1/f1-red-bull-ja-tem-substituto-para-gianpiero-lambiase/",
+      "pubDate": "Fri, 07 Aug 2026 12:30:00 +0000",
+      "description": "A Red Bull prepara-se, segundo relatos, para uma contratação técnica de peso, com o veterano da Aston Martin, Tom McCullough, apontado para se tornar o novo diretor de engenharia de corrida da equipa. Já era conhecido que McCullough deixará a Aston Martin no final de 2026, depois de mais de uma déca",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1, Rob Smedley: “Lando Norris tem muita resiliência mental”",
+      "link": "https://www.autosport.pt/formula1/f1-rob-smedley-lando-norris-tem-muita-resiliencia-mental/",
+      "pubDate": "Fri, 07 Aug 2026 11:45:00 +0000",
+      "description": "Na lista dos campeões menos unânimes, Lando Norris deverá ser estar bem alto nessa lista. O título de campeão do mundo é seu, mas as dúvidas quanto à sua qualidade e capacidade persistem. Mas Rob Smedley acredita que o piloto da McLaren continua a ser julgado através de uma lente distorcida, focada ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/cpv-is-art-of-speed-a-historia-o-presente-e-o-futuro/",
       "pubDate": "Fri, 07 Aug 2026 09:30:00 +0000",
       "description": "Da Inglaterra a Coimbra, passando pelo Alfa Romeo Championship, pela VW Cup e por algumas rondas do lendário BTCC, o percurso da Art of Speed é, acima de tudo, a história de uma paixão que nunca perdeu o rumo. Fundada em 2012 por Frederico Formiga, então estudante de Automotive and Motorsport Engine",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "McMurtry Spéirling PURE: só 100 unidades",
-      "link": "https://www.autosport.pt/automais/mcmurtry-speirling-pure-so-100-unidades/",
-      "pubDate": "Fri, 07 Aug 2026 08:40:00 +0000",
-      "description": "Por Pedro Junceiro A McMurtry Automotive prepara-se para apresentar a versão de produção do Spéirling PURE. O hipercarro elétrico tem estreia marcada para a prestigiada Semana Automóvel de Monterey, na Califórnia, EUA. Limitado a apenas 100 unidades, este modelo promete levar para as mãos de cliente",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Contas sofrem com o Médio Oriente e 2027 deverá ter mais corridas Sprint",
-      "link": "https://www.autosport.pt/formula1/f1-contas-sofrem-com-o-medio-oriente-e-2027-devera-ter-mais-corridas-sprint/",
-      "pubDate": "Fri, 07 Aug 2026 08:20:00 +0000",
-      "description": "O conflito no Médio Oriente tem saído caro à Fórmula 1. A receita no segundo trimestre de 2026 caiu 38% em comparação com o mesmo período do ano anterior, com o rendimento operacional a descer 61%. A Liberty Media, proprietária da F1, publicou o seu relatório de resultados do segundo trimestre na qu",
       "thumbnail": ""
     }
   ]
