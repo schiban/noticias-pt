@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T19:25:50.475173+00:00",
+  "updated": "2026-08-08T19:53:11.138999+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Coligação de Lula da Silva apresenta programa eleitoral",
+      "link": "https://observador.pt/2026/08/08/programa-da-coligacao-de-lula-da-silva-para-a-reeleicao-com-foco-na-soberania-e-seguranca/",
+      "pubDate": "Sat, 08 Aug 2026 20:34:52 +0100",
+      "description": "A coligação é formada por sete partidos e liderada pelo Partido Trabalhista (PT), de Lula da Silva, que repete a dupla com o vice-presnete, Geraldo Alckmin, na candidatura às eleições de outubro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02195919/47556077.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Morreu escritor e ex-deputado socialista Joaquim Sarmento",
+      "link": "https://observador.pt/2026/08/08/morreu-escritor-advogado-e-ex-deputado-socialista-joaquim-sarmento/",
+      "pubDate": "Sat, 08 Aug 2026 20:27:37 +0100",
+      "description": "Joaquim Sarmento morreu aos 74 anos em Resende, no distrito de Viseu, onde residia. Foi deputado do PS durante sete anos e queria \"um espaço maior para a cultura\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:928:521:nowe:0:32/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08202532/captura-de-ecra-2026-08-08-as-202518.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -29,26 +49,6 @@
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2022/",
       "pubDate": "Sat, 08 Aug 2026 20:12:40 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Leão estreia-se na nova época com deslocação difícil",
-      "link": "https://observador.pt/liveblogs/estrela-da-amadora-sporting-leao-estreia-se-na-nova-epoca-com-deslocacao-dificil-ao-jose-gomes/",
-      "pubDate": "Sat, 08 Aug 2026 19:33:04 +0100",
-      "description": "Terminada a pré-época, o Sporting arranca a época na Amadora, numa altura em que as incertezas em torno do plantel ainda são algumas. Rui Borges lança Fresneda na esquerda. Siga aqui em direto.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07144729/47519506.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "19h.  Presidente do Irão diz que enfrenta \"guerra total\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2144/",
-      "pubDate": "Sat, 08 Aug 2026 19:13:29 +0100",
-      "description": "Pezeshkian apontou a subida dos preços, as condições de vida e a situação económica como as principais preocupações do Governo. Ainda, a Ucrânia diz ter atingido 12 navios da frota-fantasma da Rússia.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -105,6 +105,26 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Vasco Seabra: «Tivemos de dar as mãos e defender com onze»",
+      "link": "https://maisfutebol.iol.pt/liga/arouca/vasco-seabra-tivemos-de-dar-as-maos-e-defender-com-onze",
+      "pubDate": "Sat, 8 Aug 2026 20:37:32 +0100",
+      "description": "Técnico destaca a capacidade de união da sua equipa",
+      "thumbnail": "https://img.iol.pt/image/id/6a777963d34e511da0b3257f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Argentina: minuto de silêncio e braçadeiras negras pelo pai de Messi",
+      "link": "https://maisfutebol.iol.pt/argentina/internacional/argentina-minuto-de-silencio-e-bracadeiras-negras-pelo-pai-de-messi",
+      "pubDate": "Sat, 8 Aug 2026 20:22:00 +0100",
+      "description": "Bandeiras nas instalações da federação a meia-haste",
+      "thumbnail": "https://img.iol.pt/image/id/6a5d5472d34ef04b4f3f7a31/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "V. Guimarães-Arouca, 0-1 (crónica)",
       "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/v-guimaraes-arouca-0-1-cronica",
       "pubDate": "Sat, 8 Aug 2026 20:09:37 +0100",
@@ -117,7 +137,7 @@
       "color": "#4fc48a",
       "title": "VÍDEO: Real Madrid vence Ferencvaros na estreia de Bernardo Silva",
       "link": "https://maisfutebol.iol.pt/real-madrid/internacional/video-real-madrid-vence-ferencvaros-na-estreia-de-bernardo-silva",
-      "pubDate": "Sat, 8 Aug 2026 20:07:31 +0100",
+      "pubDate": "Sat, 8 Aug 2026 20:07:00 +0100",
       "description": "Internacional português saltou do banco ao intervalo em Budapeste",
       "thumbnail": "https://img.iol.pt/image/id/6a777d8dd34e511da0b32582/250"
     },
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a75e07ed34e511da0b322df/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga responde ao Benfica e garante avanço da centralização dos direitos",
-      "link": "https://maisfutebol.iol.pt/benfica/liga-portugal/liga-responde-ao-benfica-e-garante-avanco-da-centralizacao-dos-direitos",
-      "pubDate": "Sat, 8 Aug 2026 19:12:01 +0100",
-      "description": "Organismo diz que continuará a cumprir o decreto-lei",
-      "thumbnail": "https://img.iol.pt/image/id/6a26b0afd34edcee7c650d4f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Van der Gaag: «Ver a equipa outra vez jogar na I Liga é sempre outra coisa»",
-      "link": "https://maisfutebol.iol.pt/maritimo/liga/van-der-gaag-ver-a-equipa-outra-vez-jogar-na-i-liga-e-sempre-outra-coisa",
-      "pubDate": "Sat, 8 Aug 2026 19:10:55 +0100",
-      "description": "Treinador do Marítimo destacou a ligação dos adeptos com a equipa no triunfo sobre o Casa Pia (1-0)",
-      "thumbnail": "https://img.iol.pt/image/id/6a7759add34e511da0b32544/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,16 +160,6 @@
       "pubDate": "Sat, 08 Aug 2026 17:17:55 +0000",
       "description": "Masoud Pezeshkian diz que “divergências, divisões e conflitos internos” fragilizam um país e apela à coesão para fazer face à guerra com os EUA",
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7xGyPre7j%2BB94UBlJJFCczw768fBZFbbR1MOOynvKpOcU5qofqsb1AHRn1WkZZSpjhauc%2B%2FS6lS5r%2Bu8r9UIrzdUoeLKQlpnZWDKKEbYL8xC5RiV5mjhmPPH71S6eFi8"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Acidentes com javalis e outros animais selvagens aumentam nas estradas portuguesas",
-      "link": "https://sapo.pt/artigo/acidentes-com-javalis-e-outros-animais-selvagens-aumentam-nas-estradas-portuguesas-6a773668d6b4b04ddd890f41",
-      "pubDate": "Sat, 08 Aug 2026 15:05:31 +0000",
-      "description": "As colisões rodoviárias com javalis, veados e outros animais selvagens têm aumentado de ano para ano em Portugal. Só nas estradas sob responsabilidade da Infraestruturas de Portugal foram registados mais de 140 incidentes em 2025.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AG77kUEOYJ%2BWrw3v0oU7M%2BSoQvs34EqO4V%2BEMO0FrR3bEULQxEufpDqyuUQSCYJWaYUv7%2FCdsbuXYxGKNDqvuA7Qj54ZxCkhpNZ%2BbCiqGDGmm1hBizAQBzgQ7Ja2RvgX%2F"
     },
     {
       "sourceId": "sapo",
@@ -202,6 +192,56 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ATukhR7XX75eXMBi8NrlAanVxjx8o4ZK%2FBjOPkFewYX0T3rgl89gNgPZG5oJdAKVmAGNGtW0Z6PuwnNKCPtq2fHvr5VDlPZ%2FgZ4sf4cM6IteugcksjGPehBx516Q5YJss"
     },
     {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Portugal estaria preparado para uma tragédia como a de Ceuta? Especialista é taxativa: “Não estamos preparados”",
+      "link": "https://executivedigest.sapo.pt/portugal-estaria-preparado-para-uma-tragedia-como-a-de-ceuta-especialista-e-taxativa-nao-estamos-preparados/",
+      "pubDate": "Sat, 08 Aug 2026 18:46:58 +0000",
+      "description": "Daniela Nogueira, psicóloga clínica, membro da Sociedade Portuguesa de Terapia Focada nas Emoções (SPTFE), em entrevista à 'Executive Digest', abordou o processo de luto depois das imagens terríveis que chegaram de Ceuta",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AvY1nHsRwofN%2BdrXw0r7E77xiJeEc%2FT4igSLszXsdMaaDR2DlDAKpbjj5SoglB1kr%2F%2BjMDf1pZdZlG3vcysC0owLOhzpwoQLZqXAsXmZxTrwkXvIy%2FkomNVNO3KNQw9El"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Turquia pede a Moscovo e a Kyiv moratória sobre ataques no Mar Negro",
+      "link": "https://www.noticiasaominuto.com/mundo/3034047/turquia-pede-a-moscovo-e-a-kyiv-moratoria-sobre-ataques-no-mar-negro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:39:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a231ffa4a3b9.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Arranca o duelo entre o Estrela da Amadora e o Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:31:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67e82e690558a.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Bulgária suspeita que drone que explodiu no país era ucraniano",
+      "link": "https://www.noticiasaominuto.com/mundo/3034039/bulgaria-suspeita-que-drone-que-explodiu-no-pais-era-ucraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:28:39",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a778375c8b25.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Homem morre num despiste de mota em Chaves",
+      "link": "https://www.noticiasaominuto.com/pais/3034053/homem-morre-num-despiste-de-mota-em-chaves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:26:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68866c3cc918d.webp"
+    },
+    {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/43475316.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYxLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo2MTgsImNyb3BZIjowfX0="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Homem de 40 anos morre em praia fluvial de Abrantes",
-      "link": "https://www.noticiasaominuto.com/pais/3034038/homem-de-40-anos-morre-em-praia-fluvial-de-abrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 20:06:17",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a777e2a14474.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Carneiro concorda com Seguro sobre envio de diploma para TC",
-      "link": "https://www.noticiasaominuto.com/politica/3034037/carneiro-concorda-com-seguro-sobre-envio-de-diploma-para-tc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 20:05:55",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6974d7d690d43.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Morreu escritor, advogado e ex-deputado socialista Joaquim Sarmento",
-      "link": "https://www.noticiasaominuto.com/politica/3034040/morreu-escritor-advogado-e-ex-deputado-socialista-joaquim-sarmento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 20:03:39",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5fac60db2eed5.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "EM DIRETO: Vitória SC perde com o Arouca. Segue-se o Estrela-Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:58:27",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67e82e690558a.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Hoje na História dos Computadores: o IBM 1401 salvou o plástico de bolhas",
+      "link": "https://pplware.sapo.pt/informacao/hoje-na-historia-dos-computadores-o-ibm-1401-salvou-o-plastico-de-bolhas/",
+      "pubDate": "Sat, 08 Aug 2026 19:30:33 +0000",
+      "description": "O plástico de bolhas nasceu para decorar paredes. Foi um computador da IBM que lhe deu uma nova vida. Hoje é praticamente impossível receber uma encomenda sem encontrar plástico de bolhas no interior da&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/plastico_bolha_ibm00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 16:15:45 +0000",
       "description": "Uma situação insólita está a gerar atenção nas redes sociais depois de um vídeo mostrar dois turistas a terem relações sexuais dentro de um automóvel enquanto circulavam numa autoestrada. O momento foi registado por&#46;&#46;&#46;",
       "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Linux Azure da Microsoft chegou finalmente ao Windows 11",
-      "link": "https://pplware.sapo.pt/linux/o-linux-azure-da-microsoft-chegou-finalmente-ao-windows-11/",
-      "pubDate": "Sat, 08 Aug 2026 15:00:35 +0000",
-      "description": "A relação da Microsoft com o universo open source continua a dar passos impensáveis há uma década. A gigante de Redmond oficializou o suporte do Azure Linux 4.0 no ecossistema Windows, permitindo que a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/microsoft_linux_2.jpg"
     },
     {
       "sourceId": "autosport",
