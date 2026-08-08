@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-08T09:33:18.185572+00:00",
+  "updated": "2026-08-08T10:27:07.678567+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 10h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2431/",
-      "pubDate": "Sat, 08 Aug 2026 10:13:09 +0100",
+      "title": "Queda de avioneta faz um morto em Portimão",
+      "link": "https://observador.pt/2026/08/08/queda-de-avioneta-faz-um-morto-em-portimao/",
+      "pubDate": "Sat, 08 Aug 2026 11:24:11 +0100",
+      "description": "Uma pessoa morreu na sequência da queda de uma avioneta no aeródromo de Portimão. Vítima mortal é o piloto, um homem de 28 anos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/06/20115006/ultima-hora-imagem-principal.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PSP detém homem procurado pela Interpol no aeroporto",
+      "link": "https://observador.pt/2026/08/08/psp-detem-homem-procurado-pela-interpol-no-aeroporto-de-lisboa/",
+      "pubDate": "Sat, 08 Aug 2026 11:21:12 +0100",
+      "description": "Um homem foi detido pela PSP no Aeroporto de Lisboa, em cumprimento de um mandado de detenção internacional emitido pela Interpol, por suspeita de crimes de falsificação agravada, anunciou hoje a PSP.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/03125823/ilacerda-greve-geral-3-junho-70-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 11h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1308/",
+      "pubDate": "Sat, 08 Aug 2026 11:11:23 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,41 +35,41 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Um filme tristonho sobre um cantor que espalhava alegria",
-      "link": "https://observador.pt/2026/08/08/playback-um-filme-tristonho-e-turvo-sobre-um-cantor-que-espalhava-alegria-e-boa-disposicao/",
-      "pubDate": "Sat, 08 Aug 2026 10:04:52 +0100",
-      "description": "\"Playback\", de Sérgio Graciano, não presta um bom serviço a Carlos Paião, nem à memória do que ele significou para os portugueses nos inesquecíveis anos 80. Eurico de Barros dá-lhe uma estrela.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:720:nowe:80:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08010737/playback1aa.webp"
+      "title": "Fogo que matou 168 pessoas em Hong-Kong começou com beata",
+      "link": "https://observador.pt/2026/08/08/incendio-que-causou-168-mortos-em-complexo-residencial-em-hong-kong-comecou-com-beata/",
+      "pubDate": "Sat, 08 Aug 2026 11:06:27 +0100",
+      "description": "O devastador incêndio que causou 168 mortos em novembro passado num complexo residencial de Hong Kong terá começado com uma beata de cigarro atirada para o exterior de um dos edifícios.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08105126/46102552.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Mais de 60 concelhos do país em perigo máximo de incêndio",
-      "link": "https://observador.pt/2026/08/08/mais-de-60-concelhos-do-pais-em-perigo-maximo-de-incendio/",
-      "pubDate": "Sat, 08 Aug 2026 10:03:28 +0100",
-      "description": "Mais de 60 concelhos do interior Norte e Centro e do Algarve estão hoje em perigo máximo de incêndio, segundo o Instituto Português do Mar e da Atmosfera (IPMA).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/13150158/45475573.jpg"
+      "title": "ByteDance está a testar novo modelo de IA",
+      "link": "https://observador.pt/2026/08/08/bytedance-desenvolve-modelo-de-ia-para-rivalizar-com-lideres-tecnologicos-dos-eua/",
+      "pubDate": "Sat, 08 Aug 2026 11:01:52 +0100",
+      "description": "A gigante tecnológica chinesa ByteDance está a testar um novo modelo de IA que poderá atingir a escala dos sistemas mais avançados da norte-americana Anthropic, avança o jornal Financial Times.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1996:1122:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08101451/45715914.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Kanye West no Estádio do Algarve: a arte de um homem sozinho",
-      "link": "https://observador.pt/especiais/kanye-west-no-estadio-do-algarve-a-arte-de-um-homem-sozinho/",
-      "pubDate": "Sat, 08 Aug 2026 10:00:46 +0100",
-      "description": "Num dos poucos concertos não cancelados, entre fãs vindos do México ou da Maia, a pergunta que pairou foi uma só: pode a genialidade artística de Ye redimi-lo dos seus atos mais sombrios?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08022128/dventura-report-kanye-west-algarve-14-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Avioneta cai no aeródromo de Portimão e provoca a morte do piloto",
+      "link": "https://www.rtp.pt/noticias/pais/avioneta-cai-no-aerodromo-de-portimao-e-provoca-a-morte-do-piloto_n1758358",
+      "pubDate": "Sat, 08 Aug 2026 12:22:55 +0100",
+      "description": "A vítima mortal deste acidente é o pilot, de 28 anos, único ocupante da aeronave.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Quercus alerta para impactos subavaliados de central eólica",
-      "link": "https://observador.pt/2026/08/08/quercus-alerta-para-subavaliacao-de-impacto-de-parque-eolico-para-alimentar-centro-de-dados-de-sines/",
-      "pubDate": "Sat, 08 Aug 2026 09:59:56 +0100",
-      "description": "A Quercus manifestou preocupação com o projeto do Parque Eólico do Sudoeste, alertando para o que considera a subavaliação dos impactos ambientais da central para abastecer o centro de dados de Sines.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/06/9812103.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio que causou 168 mortos em Hong Kong começou com beata",
+      "link": "https://www.rtp.pt/noticias/mundo/incendio-que-causou-168-mortos-em-hong-kong-comecou-com-beata_n1758353",
+      "pubDate": "Sat, 08 Aug 2026 11:31:42 +0100",
+      "description": "O devastador incêndio que causou 168 mortos em novembro passado num complexo residencial de Hong Kong começou com uma beata de cigarro atirada para o exterior de um dos edifícios, segundo o mais recente relatório oficial.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ac/ac49503320194ecf6b3fe2b039a2d91a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,74 +102,54 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/88357260cfa9dbd197393e4a14a32f9d?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h Saúde pública em Ceuta: Médicos pedem intervenção urgente",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-saude-publica-em-ceuta-medicos-pedem-intervencao-urgente_a1_1758351",
-      "pubDate": "Sat, 08 Aug 2026 10:47:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Malária matou 47 pessoas em seis meses na província moçambicana de Nampula",
-      "link": "https://www.rtp.pt/noticias/mundo/malaria-matou-47-pessoas-em-seis-meses-na-provincia-mocambicana-de-nampula_n1758348",
-      "pubDate": "Sat, 08 Aug 2026 10:43:33 +0100",
-      "description": "Pelo menos 47 pessoas morreram em mais de 700 mil infetados por malária no primeiro semestre deste ano na província de Nampula, norte de Moçambique, segundo o porta-voz do Governo provincial.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Lateral-esquerdo equatoriano na mira do Sporting",
+      "link": "https://maisfutebol.iol.pt/sporting/yaimar-medina/lateral-esquerdo-equatoriano-na-mira-do-sporting",
+      "pubDate": "Sat, 8 Aug 2026 11:22:40 +0100",
+      "description": "Yaimar Medina pertence aos belgas do Genk e está avaliado entre 10 e 12 milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/6a7702f5d34e511da0b324c2/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Barcelona: antigo alvo do FC Porto riscado dos jogos da pré-época",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/barcelona-antigo-alvo-do-fc-porto-riscado-dos-jogos-da-pre-epoca",
-      "pubDate": "Sat, 8 Aug 2026 10:16:00 +0100",
-      "description": "Roony Bardghji está sem espaço nos catalães. Casadó também na porta de saída",
-      "thumbnail": "https://img.iol.pt/image/id/6874e51bd34ef72ee4484b07/250"
+      "title": "Benfica avança com petição para suspender modelo de centralização dos direitos TV",
+      "link": "https://maisfutebol.iol.pt/benfica/rui-costa/rui-costa-avanca-com-peticao-para-suspender-modelo-de-centralizacao-dos-direitos-tv",
+      "pubDate": "Sat, 8 Aug 2026 11:08:00 +0100",
+      "description": "Iniciativa foi submetida à Assembleia da República por Rui Costa",
+      "thumbnail": "https://img.iol.pt/image/id/6a2afc6cd34edcee7c652cc3/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Argentina: Di María dá o mote para a reviravolta frente a Gaitán",
-      "link": "https://maisfutebol.iol.pt/internacional/argentina/argentina-di-maria-da-o-mote-para-a-reviravolta-frente-a-gaitan",
-      "pubDate": "Sat, 8 Aug 2026 10:04:00 +0100",
-      "description": "Extremo do Rosario Central iniciou a jogada que deu origem ao 1-1, antes de Capaz fazer o 2-1 final",
-      "thumbnail": "https://img.iol.pt/image/id/6a76efcad34ed0733ba7ed6c/250"
+      "title": "Mundial 2026: Messi foi o mais ameaçado, Ronaldo o mais assediado",
+      "link": "https://maisfutebol.iol.pt/internacional/mundial-2026/mundial-2026-messi-foi-o-mais-ameacado-ronaldo-o-mais-assediado",
+      "pubDate": "Sat, 8 Aug 2026 11:06:00 +0100",
+      "description": "Relatório elaborado pelas forças de segurança compila episódios problemáticos durante o torneio",
+      "thumbnail": "https://img.iol.pt/image/id/6a46fe45d34e28842c85e014/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "UEFA terá pagado indemnização a amante de Infantino, FIFA nega",
-      "link": "https://maisfutebol.iol.pt/fifa/gianni-infantino/uefa-tera-pagado-indemnizacao-a-amante-de-infantino-fifa-nega",
-      "pubDate": "Sat, 8 Aug 2026 09:45:41 +0100",
-      "description": "Investigação do The Telegraph aponta para um pagamento superior a cem mil euros. UEFA confirma e diz que apertou os regulamentos desde então, mas a FIFA contesta",
-      "thumbnail": "https://img.iol.pt/image/id/63b2eb830cf2254fb28b929c/250"
+      "title": "OFICIAL: Club Brugge anuncia extremo que foi associado ao Benfica",
+      "link": "https://maisfutebol.iol.pt/internacional/club-brugge/oficial-club-brugge-anuncia-extremo-que-foi-associado-ao-benfica",
+      "pubDate": "Sat, 8 Aug 2026 11:00:55 +0100",
+      "description": "Jan Virgili deixou o Maiorca e rumou ao campeonato belga",
+      "thumbnail": "https://img.iol.pt/image/id/6a76fde5d34e511da0b324ba/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Agora é a doer: os onzes prováveis para o Estrela-Sporting",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/agora-e-a-doer-os-onzes-provaveis-para-o-estrela-sporting",
-      "pubDate": "Sat, 8 Aug 2026 09:15:00 +0100",
-      "description": "Maxi Araújo, castigado, é a grande baixa dos leões",
-      "thumbnail": "https://img.iol.pt/image/id/69dab649d34edcee7c62ed52/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/agenda/liga/hoje-vai-ser-noticia-178617600",
-      "pubDate": "Sat, 8 Aug 2026 09:00:00 +0100",
-      "description": "A estreia do Sporting na Liga. Mas há muito mais para acompanhar neste sábado",
-      "thumbnail": "https://img.iol.pt/image/id/692c9a98d34e3caad84be079/250"
+      "title": "Arrepiante: perde toda a época após entrada brutal de adversário em amigável",
+      "link": "https://maisfutebol.iol.pt/internacional/getafe/arrepiante-perde-toda-a-epoca-apos-entrada-brutal-de-adversario-em-amigavel",
+      "pubDate": "Sat, 8 Aug 2026 10:50:14 +0100",
+      "description": "Uche, do Getafe, está a contas com uma lesão muito grave no joelho direito",
+      "thumbnail": "https://img.iol.pt/image/id/6a76fb2ed34e511da0b324b2/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Médicos pedem intervenção em Ceuta de Ministério da Saúde espanhol",
-      "link": "https://www.noticiasaominuto.com/mundo/3033891/medicos-pedem-intervencao-em-ceuta-de-ministerio-da-saude-espanhol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 10:29:57",
+      "title": "Mais de 70 homens julgados no Senegal acusados de práticas homossexuais",
+      "link": "https://www.noticiasaominuto.com/mundo/3033903/mais-de-70-homens-julgados-no-senegal-acusados-de-praticas-homossexuais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:24:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47567230.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyOX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53ba2f317ab6d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Homem detido em Lisboa por suspeita de matar mulher durante discussão",
-      "link": "https://www.noticiasaominuto.com/pais/3033889/homem-detido-em-lisboa-por-suspeita-de-matar-mulher-durante-discussao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 10:25:22",
+      "title": "Angola avalia potencial petrolífero de novas zonas",
+      "link": "https://www.noticiasaominuto.com/mundo/3033907/angola-avalia-potencial-petrolifero-de-novas-zonas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:19:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6875158e97036.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/28594095.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio que causou 168 mortos em Hong Kong começou com beata de cigarro",
-      "link": "https://www.noticiasaominuto.com/mundo/3033888/incendio-que-causou-168-mortos-em-hong-kong-comecou-com-beata-de-cigarro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 10:24:53",
+      "title": "Adeptos da Académica antecipam época difícil no regresso ao profissional",
+      "link": "https://www.noticiasaominuto.com/desporto/3033901/adeptos-da-academica-antecipam-epoca-dificil-no-regresso-ao-profissional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:15:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6929c2ede081f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDMwLCJjcm9wSGVpZ2h0IjoxMzY3LCJjcm9wWCI6NjUsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo2NDIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a08a354752d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDUwLCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxNDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1MiwiY3JvcEhlaWdodCI6MTMzNywiY3JvcFgiOjk2MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ByteDance desenvolve modelo de IA para rivalizar com líderes tecnológicos",
-      "link": "https://www.noticiasaominuto.com/tech/3033887/bytedance-desenvolve-modelo-de-ia-para-rivalizar-com-lideres-tecnologicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 10:17:48",
+      "title": "PRR financia 767 respostas habitacionais nos Açores",
+      "link": "https://www.noticiasaominuto.com/economia/3033899/prr-financia-767-respostas-habitacionais-nos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:15:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45715914.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo1MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6OTUxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60a25d8002e67.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NiwiY3JvcEhlaWdodCI6MTcwMCwiY3JvcFgiOjE2MDUsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Portugal quer finais e medalhas, porque passado não dá títulos",
-      "link": "https://www.noticiasaominuto.com/desporto/3033886/portugal-quer-finais-e-medalhas-porque-passado-nao-da-titulos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 10:15:00",
+      "title": "China doa equipamentos médicos avaliados em cerca de 40.000€ a Cabo Verde",
+      "link": "https://www.noticiasaominuto.com/mundo/3033900/china-doa-equipamentos-medicos-avaliados-em-cerca-de-40000-a-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:14:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/8720149.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY1LCJjcm9wWCI6MTc5MiwiY3JvcFkiOjIwMH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/44284497.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "ISP: Governo volta a atenuar descida do preço final dos combustíveis",
+      "link": "https://pplware.sapo.pt/motores/isp-governo-volta-a-atenuar-descida-do-preco-final-dos-combustiveis-2/",
+      "pubDate": "Sat, 08 Aug 2026 10:00:47 +0000",
+      "description": "O Governo voltou a mexer no Imposto sobre os Produtos Petrolíferos (ISP), numa medida destinada a reduzir o impacto da subida dos preços dos combustíveis para os consumidores. Saiba quanto será o desconto efetivo.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/10/precos_combustivel01.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/google_pixel_watch_5_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Mais um modelo de IA escapa à sandbox! Desta vez foi o chinês Kimi K3",
-      "link": "https://pplware.sapo.pt/informacao/mais-um-modelo-de-ia-escapa-a-sandbox-desta-vez-foi-o-chines-kimi-k3/",
-      "pubDate": "Fri, 07 Aug 2026 21:30:59 +0000",
-      "description": "A segurança dos modelos de inteligência artificial (IA) volta a estar sob fogo depois de o Kimi K3, desenvolvido pela Moonshot AI, ter conseguido escapar ao ambiente de testes onde estava &#8220;trancado&#8221;. O incidente&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/kimi_k3-1.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1 – As mais lidas: Félix da Costa: “Se não gostam, fiquem em casa”",
+      "link": "https://www.autosport.pt/formula1/f1-as-mais-lidas-felix-da-costa-se-nao-gostam-fiquem-em-casa/",
+      "pubDate": "Sat, 08 Aug 2026 10:15:00 +0000",
+      "description": "O arranque da temporada 2026 de F1 foi repleto de queixas e de críticas, por parte de adeptos e especialmente de alguns pilotos que tentaram várias vezes destacar o desagrado mais ou menos geral que se viveu co os novos carros. A gestão de energia e os truques necessários para poder fazer uma volta ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Mads Ostberg: Um piloto que cresceu depressa demais…",
+      "link": "https://www.autosport.pt/ralis/wrc/mads-ostberg-um-piloto-que-cresceu-depressa-demais/",
+      "pubDate": "Sat, 08 Aug 2026 09:30:00 +0000",
+      "description": "Como muitos outros, Mads Ostberg teve um começo promissor nos ralis: queria ser o próximo ‘Petter Solberg’, na primeira conversa que tivemos com ele, tinha 23 anos e já cinco de WRC. O desafio não parecia difícil de concretizar, mas a dura realidade&#8230;Não se pode dizer que está a ter uma má carr",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/automais/ponte-25-de-abril-completa-60-anos/",
       "pubDate": "Fri, 07 Aug 2026 16:15:00 +0000",
       "description": "Por Pedro Junceiro A visão de uma ponte a ligar as duas margens do Tejo na zona de Lisboa, visão partilhada por muitos governantes durante décadas, concretizou-se há 60 anos, a 6 de agosto de 1966, com a inauguração da travessia rodoviária sobre o Tejo que hoje tem o nome de Ponte 25 de Abril. [&#82",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Os altos e baixos da Haas",
-      "link": "https://www.autosport.pt/formula1/f1-os-altos-e-baixos-da-haas/",
-      "pubDate": "Fri, 07 Aug 2026 15:30:00 +0000",
-      "description": "Poucas equipas do meio de tabela tiveram um arranque de temporada tão animador como a Haas em 2026, mas a vantagem depressa se esfumou. A equipa norte-americana iniciou a temporada de forma forte, mas o entusiasmo dos dois primeiros meses deu lugar a uma segunda fase de estagnação que reabriu antiga",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Flavio Briatore quer corridas sprint todos os fins de semana, mas Domenicali afasta esse cenário",
-      "link": "https://www.autosport.pt/formula1/f1-flavio-briatore-quer-corridas-sprint-todos-os-fins-de-semana-mas-domenicali-afasta-esse-cenario/",
-      "pubDate": "Fri, 07 Aug 2026 14:45:00 +0000",
-      "description": "As corridas Sprint vão, pouco a pouco, tornando-se num hábito para os fãs e já não causam o coro de reações negativas que se ouviram nas primeiras provas curtas. A F1 descobriu uma nova forma de valorizar o seu produto e até há quem as queiram em todos os fins de semana. O futuro deverá [&#8230;]\nTh",
       "thumbnail": ""
     }
   ]
