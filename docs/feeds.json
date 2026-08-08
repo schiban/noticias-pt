@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-08T10:27:07.678567+00:00",
+  "updated": "2026-08-08T11:00:53.707317+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Senado aprovada nomeação de ex-advogado de Trump",
+      "link": "https://observador.pt/2026/08/08/senado-dos-eua-aprova-nomeacao-de-todd-blanche-antigo-advogado-de-trump-para-secretario-da-justica/",
+      "pubDate": "Sat, 08 Aug 2026 11:45:08 +0100",
+      "description": "O Senado aprovou a escolha de Todd Blanche, antigo advogado pessoal de Donald Trump, para assumir formalmente o cargo de secretário da Justiça, que já ocupava interinamente desde abril.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08112016/47579780.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Novo Nissan Qashqai e-Power circulou 1980 km sem reabastecer",
+      "link": "https://observador.pt/2026/08/08/novo-nissan-qashqai-e-power-circulou-1980-km-sem-reabastecer-e-a-descer/",
+      "pubDate": "Sat, 08 Aug 2026 11:39:30 +0100",
+      "description": "O novo Nissan Qashqai e-Power, o híbrido em que o motor a gasolina não faz mover as rodas, estabeleceu um novo recorde de autonomia para a tecnologia. Percorreu 1980 km sem reabastecer e a descer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1215:683:nowe:0:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08111420/nissan-qashqai-e-powerjpg.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O \"lado do bem\" chega para salvar o ministro Luís Neves?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/o-lado-do-bem-chega-para-salvar-o-ministro-luis-neves/",
+      "pubDate": "Sat, 08 Aug 2026 11:27:56 +0100",
+      "description": "Entre cartões de crédito e missões no Brasil, Luís Neves jura que agiu pelo \"lado do bem\". O Governo tenta o resgate, mas a atmosfera está cada vez mais asfixiante para o ministro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -9,7 +39,7 @@
       "link": "https://observador.pt/2026/08/08/queda-de-avioneta-faz-um-morto-em-portimao/",
       "pubDate": "Sat, 08 Aug 2026 11:24:11 +0100",
       "description": "Uma pessoa morreu na sequência da queda de uma avioneta no aeródromo de Portimão. Vítima mortal é o piloto, um homem de 28 anos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/06/20115006/ultima-hora-imagem-principal.png"
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1996:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/01/18676321.jpg"
     },
     {
       "sourceId": "observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/03125823/ilacerda-greve-geral-3-junho-70-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 11h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1308/",
-      "pubDate": "Sat, 08 Aug 2026 11:11:23 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Campo Maior. Onze anos depois, as flores voltam a subir ao céu",
+      "link": "https://www.rtp.pt/noticias/pais/campo-maior-onze-anos-depois-as-flores-voltam-a-subir-ao-ceu_es1758225",
+      "pubDate": "Sat, 08 Aug 2026 12:49:41 +0100",
+      "description": "Onze anos depois, Campo Maior volta a florir. Durante sete meses, milhares de mãos transformaram papel em milhões de flores para devolver à vila uma tradição que atravessa gerações e que hoje é classificada pela UNESCO como Património Cultural Imaterial da Humanidade. De 8 a 16 de agosto, os olhos v",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f6e6350feb6c3e9158b73a9c806c3d51?w=350&amp;q=50&amp;rect=0,23,1280,569&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo que matou 168 pessoas em Hong-Kong começou com beata",
-      "link": "https://observador.pt/2026/08/08/incendio-que-causou-168-mortos-em-complexo-residencial-em-hong-kong-comecou-com-beata/",
-      "pubDate": "Sat, 08 Aug 2026 11:06:27 +0100",
-      "description": "O devastador incêndio que causou 168 mortos em novembro passado num complexo residencial de Hong Kong terá começado com uma beata de cigarro atirada para o exterior de um dos edifícios.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08105126/46102552.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Drone com explosivos despenha-se no nordeste da Bulgária sem causar danos ou vítimas",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/drone-com-explosivos-despenha-se-no-nordeste-da-bulgaria-sem-causar-danos-ou-vitimas_n1758359",
+      "pubDate": "Sat, 08 Aug 2026 12:40:35 +0100",
+      "description": "Um drone com explosivos despenhou-se hoje no nordeste da Bulgária, perto da fronteira com a Roménia, sem causar danos materiais ou vítimas, informou o primeiro-ministro búlgaro, Rumen Radev.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "ByteDance está a testar novo modelo de IA",
-      "link": "https://observador.pt/2026/08/08/bytedance-desenvolve-modelo-de-ia-para-rivalizar-com-lideres-tecnologicos-dos-eua/",
-      "pubDate": "Sat, 08 Aug 2026 11:01:52 +0100",
-      "description": "A gigante tecnológica chinesa ByteDance está a testar um novo modelo de IA que poderá atingir a escala dos sistemas mais avançados da norte-americana Anthropic, avança o jornal Financial Times.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1996:1122:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08101451/45715914.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11h Hong Kong: Incêndio que causou 168 mortos começou com beata",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-hong-kong-incendio-que-causou-168-mortos-comecou-com-beata_a1_1758360",
+      "pubDate": "Sat, 08 Aug 2026 12:39:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -58,8 +88,8 @@
       "title": "Avioneta cai no aeródromo de Portimão e provoca a morte do piloto",
       "link": "https://www.rtp.pt/noticias/pais/avioneta-cai-no-aerodromo-de-portimao-e-provoca-a-morte-do-piloto_n1758358",
       "pubDate": "Sat, 08 Aug 2026 12:22:55 +0100",
-      "description": "A vítima mortal deste acidente é o pilot, de 28 anos, único ocupante da aeronave.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "description": "A vítima mortal deste acidente é o piloto, de 28 anos, de nacionalidade portuguesa, o único ocupante da aeronave monolugar.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/54/5400ec279a37d22ed586b736dd3e752b?w=350&amp;q=50&amp;rect=347,0,1618,887&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ac/ac49503320194ecf6b3fe2b039a2d91a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Israel rejeita trégua de 14 dias em Gaza apesar da pressão dos EUA",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-rejeita-tregua-de-14-dias-em-gaza-apesar-da-pressao-dos-eua_n1758350",
-      "pubDate": "Sat, 08 Aug 2026 11:08:47 +0100",
-      "description": "A televisão pública israelita Kan informou na noite de sexta-feira que os ministros do Governo de Benjamin Netanyahu se opõem à implementação de um cessar-fogo de duas semanas na Faixa de Gaza, apesar da pressão dos Estados Unidos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/22/22635e904d4906c0ac4469343af4a02a?w=350&amp;q=50&amp;rect=0,5,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ministério recebeu relatório sobre vigilância da gravidez de baixo risco e prepara regulamentação",
-      "link": "https://www.rtp.pt/noticias/pais/ministerio-recebeu-relatorio-sobre-vigilancia-da-gravidez-de-baixo-risco-e-prepara-regulamentacao_n1758349",
-      "pubDate": "Sat, 08 Aug 2026 11:06:55 +0100",
-      "description": "O Ministério da Saúde recebeu o relatório de implementação do projeto que prevê a vigilância da gravidez de baixo risco por enfermeiros especialistas e está a preparar a regulamentação do novo modelo, avançou hoje à Lusa a tutela.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "\"Lei do Retorno\". Chega considera envio para TC do diploma \"tipo de atos políticos irresponsáveis\"",
-      "link": "https://www.rtp.pt/noticias/politica/lei-do-retorno-chega-considera-envio-para-tc-do-diploma-tipo-de-atos-politicos-irresponsaveis_n1758352",
-      "pubDate": "Sat, 08 Aug 2026 11:04:28 +0100",
-      "description": "O Chega emitiu este sábado um comunicado dizendo que o envio pelo Presidente da República António José Seguro do diploma sobre concessão de asilo e retorno de estrangeiros para análise do tribunal constitucional de “enorme gravidade”, especialmente num contexto em que milhares de pessoas invadiram C",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/88357260cfa9dbd197393e4a14a32f9d?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jota volta aos treinos no Celtic 15 meses depois de ter sofrido uma lesão grave",
+      "link": "https://maisfutebol.iol.pt/escocia/internacional/jota-volta-aos-treinos-no-celtic-15-meses-depois-de-ter-sofrido-uma-lesao-grave",
+      "pubDate": "Sat, 8 Aug 2026 11:33:41 +0100",
+      "description": "Avançado português falhou a última temporada toda devido a um problema no joelho direito",
+      "thumbnail": "https://img.iol.pt/image/id/6a77053bd34e511da0b324c8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a76fde5d34e511da0b324ba/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Arrepiante: perde toda a época após entrada brutal de adversário em amigável",
-      "link": "https://maisfutebol.iol.pt/internacional/getafe/arrepiante-perde-toda-a-epoca-apos-entrada-brutal-de-adversario-em-amigavel",
-      "pubDate": "Sat, 8 Aug 2026 10:50:14 +0100",
-      "description": "Uche, do Getafe, está a contas com uma lesão muito grave no joelho direito",
-      "thumbnail": "https://img.iol.pt/image/id/6a76fb2ed34e511da0b324b2/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sat, 08 Aug 2026 07:59:22 +0000",
       "description": "O sistema Volta de depósito e reembolso (SDR) está a mudar vidas e hábitos de muitas pessoas, algumas a arrecadar 20 euros por dia. Ricardo Silva chama-lhe o seu \"ganha-pão\", que já foi de 50 euros diários.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Azx5sCtmTOwffaQ2jQ3kaOambMklPHlK%2B2uUzArnIXlEqkY0tDQwvlZfwIq5Sm7az388eUNfkOpYvXhX%2BaIaMPCEYoHeIXjlKPRnLez3TLYcBXIrODGadad22lyp%2BFTPs"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Queda de avioneta no aeródromo de Portimão causa um morto",
+      "link": "https://sapo.pt/artigo/queda-de-avioneta-no-aerodromo-de-portimao-causa-um-morto-6a7700560c60413700aecd0a",
+      "pubDate": "Sat, 08 Aug 2026 10:30:46 +0000",
+      "description": "Foram mobilizados para o local 20 operacionais, apoiados por oito veículos, dos bombeiros, INEM e GNR.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AxjVW6KSMorSXIHWU5toawx9O9Be8daYkGmXiQAZj7TuQrPS%2BwjmfHBv9PhWQnBAVvzxJhYh2AYXav5d2cdkZGdiYlp7TLMcLwnKDMyVQyS2THAcphVX9ciuqPIzxIRKj"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A1onLE91dre1ndtTd%2B0iloM9SK%2B4xVNIEsR9XzgpxXoEdiinZzTYN1FCZ8Zio1zPxG4cY74OUZjrf%2Bxjz1mpljYdvIBD4s%2FIbmVsl6omLwBWEf7f1y%2FO1%2BaKrcEWv7Att"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Filho de Joe Biden revela que cancro do pai está espalhado: “É extremamente doloroso e debilitante”",
-      "link": "https://sapo.pt/artigo/filho-de-joe-biden-revela-que-cancro-do-pai-esta-espalhado-e-extremamente-doloroso-e-debilitante-6a766eb6371d60cfe81930af",
-      "pubDate": "Sat, 08 Aug 2026 07:59:22 +0000",
-      "description": "Em entrevista à BBC, Hunter Biden faz novas revelações sobre o estado de saúde do pai, Joe Biden, que em 2025 foi diagnosticado com um cancro da próstata em estado avançado.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AzIiMR55mgEZ2qgA2OLLD87hJ6zzo8Jn3%2F8UCr5OskBOt2YaOeAn4P5lnJoEUd9DsLWyPmhuu5T59FN52eLe45ToER875iv9wDL%2F088jU40gYUZ8M9X8Em2DLox64JHjG"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Pausar desenvolvimento da IA é \"parar o vento com as mãos\"",
+      "link": "https://www.noticiasaominuto.com/economia/3033869/pausar-desenvolvimento-da-ia-e-parar-o-vento-com-as-maos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:55:24",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_613f33a58169e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzY4LCJjcm9wSGVpZ2h0IjoxMzMyLCJjcm9wWCI6NTUsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NDksImNyb3BIZWlnaHQiOjEzMzIsImNyb3BYIjo4NzAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 70 homens julgados no Senegal acusados de práticas homossexuais",
-      "link": "https://www.noticiasaominuto.com/mundo/3033903/mais-de-70-homens-julgados-no-senegal-acusados-de-praticas-homossexuais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 11:24:09",
+      "title": "Autoridades repatriaram 59 estrangeiros ilegais de Tete",
+      "link": "https://www.noticiasaominuto.com/mundo/3033915/autoridades-repatriaram-59-estrangeiros-ilegais-de-tete#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:42:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53ba2f317ab6d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/8357253.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI1M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU3LCJjcm9wSGVpZ2h0IjoxNzAyLCJjcm9wWCI6MTU1MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Angola avalia potencial petrolífero de novas zonas",
-      "link": "https://www.noticiasaominuto.com/mundo/3033907/angola-avalia-potencial-petrolifero-de-novas-zonas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 11:19:51",
+      "title": "Drone com explosivos despenha-se na Bulgária sem causar danos ou vítimas",
+      "link": "https://www.noticiasaominuto.com/mundo/3033913/drone-com-explosivos-despenha-se-na-bulgaria-sem-causar-danos-ou-vitimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:40:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/28594095.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6247826878040.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MTMsImNyb3BIZWlnaHQiOjE2MjQsImNyb3BYIjo4OTAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Adeptos da Académica antecipam época difícil no regresso ao profissional",
-      "link": "https://www.noticiasaominuto.com/desporto/3033901/adeptos-da-academica-antecipam-epoca-dificil-no-regresso-ao-profissional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 11:15:45",
+      "title": "Marcos Freitas e Jieni Shao entram a vencer no europeu de ténis de mesa",
+      "link": "https://www.noticiasaominuto.com/desporto/3033912/marcos-freitas-e-jieni-shao-entram-a-vencer-no-europeu-de-tenis-de-mesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:40:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a08a354752d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDUwLCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxNDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1MiwiY3JvcEhlaWdodCI6MTMzNywiY3JvcFgiOjk2MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43756614.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ5LCJjcm9wSGVpZ2h0IjoxNjg2LCJjcm9wWCI6MTAwMywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PRR financia 767 respostas habitacionais nos Açores",
-      "link": "https://www.noticiasaominuto.com/economia/3033899/prr-financia-767-respostas-habitacionais-nos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 11:15:33",
+      "title": "Extrema-direita? Partido de Merz reitera vigência do \"cordão sanitário\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3033908/extrema-direita-partido-de-merz-reitera-vigencia-do-cordao-sanitario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 11:29:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60a25d8002e67.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NiwiY3JvcEhlaWdodCI6MTcwMCwiY3JvcFgiOjE2MDUsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "China doa equipamentos médicos avaliados em cerca de 40.000€ a Cabo Verde",
-      "link": "https://www.noticiasaominuto.com/mundo/3033900/china-doa-equipamentos-medicos-avaliados-em-cerca-de-40000-a-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 11:14:56",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/44284497.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6ca51393f68.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNjEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
