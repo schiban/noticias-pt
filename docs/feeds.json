@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-08T14:27:53.538224+00:00",
+  "updated": "2026-08-08T14:58:53.608823+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Filho de Biden. Perdão \"não foi bom\" para legado do pai",
+      "link": "https://observador.pt/2026/08/08/filho-de-joe-biden-admite-que-indulto-presidencial-que-o-beneficiou-nao-foi-bom-para-o-legado-do-pai-e-dos-eua/",
+      "pubDate": "Sat, 08 Aug 2026 15:41:06 +0100",
+      "description": "Hunter Biden recebeu um indulto do pai em dezembro de 2024. Admite privilégio e que o perdão penalizou o legado do pai. Revela ainda que o cancro de Joe Biden \"se espalhou\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4089:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/12/02184503/gettyimages-2187280340-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -35,81 +45,71 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Dois mortos em despiste autmóvel na A33 em Fernão Ferro",
+      "title": "Dois mortos em despiste automóvel na A33 em Fernão Ferro",
       "link": "https://observador.pt/2026/08/08/dois-mortos-e-dois-feridos-graves-em-despiste-autmovel-na-a33-em-fernao-ferro/",
       "pubDate": "Sat, 08 Aug 2026 14:42:50 +0100",
       "description": "Dois homens morreram e outros dois sofreram ferimentos graves no despiste de automóvel ocorrido na A33, na zona de Fernão Ferro, distrito de Setúbal, revelaram a Proteção Civil e a GNR.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2015/02/15380120.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Como fotografar o eclipse sem estragar a câmara do telemóvel",
-      "link": "https://observador.pt/especiais/como-fotografar-o-eclipse-sem-estragar-a-camara-do-telemovel-dicas-para-evitar-os-principais-erros-ao-tentar-registar-um-momento-historico/",
-      "pubDate": "Sat, 08 Aug 2026 14:37:18 +0100",
-      "description": "Tirando em Bragança durante 26 segundos, no resto do tempo e em todo o país, só há uma maneira de fotografar o eclipse sem arriscar avariar o telemóvel. E implica comprar ou improvisar um filtro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08013652/gettyimages-2147655338-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Apreendidos mais de 400 quilos de cocaína de lancha em fuga",
+      "link": "https://www.rtp.pt/noticias/pais/apreendidos-mais-de-400-quilos-de-cocaina-de-lancha-em-fuga_n1758406",
+      "pubDate": "Sat, 08 Aug 2026 16:57:09 +0100",
+      "description": "A lancha suspeita foi detetada em alto mar, cerca de 60 milhas náuticas ao largo de Sines.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Académica goleia Chaves em Trás-os-Montes",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/academica-goleia-chaves-em-tras-os-montes_d1758399",
-      "pubDate": "Sat, 08 Aug 2026 16:22:21 +0100",
-      "description": "A recém-promovida Académica venceu o Desportivo de Chaves, por 4-1, na partida inaugural da primeira jornada da temporada 2026/27 da II Liga, disputada em Trás-os-Montes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a4403cbbc01773496bb34d096616e5f1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "UNITA acusa polícia de atentado contra dirigente e de cercar sede do partido",
+      "link": "https://www.rtp.pt/noticias/mundo/unita-acusa-policia-de-atentado-contra-dirigente-e-de-cercar-sede-do-partido_n1758405",
+      "pubDate": "Sat, 08 Aug 2026 16:55:18 +0100",
+      "description": "A UNITA acusou hoje a Polícia Nacional de atentar contra um dirigente e de cercar a sede do partido no Uíge, num incidente que fez pelo menos dois feridos, prometendo não voltar a apelar à serenidade da população.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "I Liga: Sérgio Ferreira quer Alverca ousado no Dragão",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-sergio-ferreira-quer-alverca-ousado-no-dragao_d1758398",
-      "pubDate": "Sat, 08 Aug 2026 16:20:03 +0100",
-      "description": "O treinador do Alverca, Sérgio Ferreira, prometeu hoje uma equipa ambiciosa e ousada para o jogo da primeira jornada da I Liga de futebol frente ao FC Porto, a disputar no domingo, no Estádio do Dragão.",
+      "title": "GNR encontra droga e arma em acidente na zona do Seixal que provocou dois mortos",
+      "link": "https://www.rtp.pt/noticias/pais/gnr-encontra-droga-e-arma-em-acidente-na-zona-do-seixal-que-provocou-dois-mortos_n1758397",
+      "pubDate": "Sat, 08 Aug 2026 16:54:51 +0100",
+      "description": "A GNR encontrou droga e uma arma no interior de uma viatura que se despistou hoje de manhã na zona do Seixal, no distrito de Setúbal, e provocou a morte a duas pessoas, disse à Lusa fonte da corporação.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministra da Cultura destaca \"grande significado\" das Festas do Povo de Campo Maior",
+      "link": "https://www.rtp.pt/noticias/cultura/ministra-da-cultura-destaca-grande-significado-das-festas-do-povo-de-campo-maior_n1758400",
+      "pubDate": "Sat, 08 Aug 2026 16:54:29 +0100",
+      "description": "A ministra da Cultura, Margarida Balseiro Lopes, destacou hoje o &quot;grande significado&quot; das Festas do Povo de Campo Maior, as quais demonstram a identidade do território e da região.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga: Luís Pinto quer Gil Vicente com identidade e a respeitar `herança`",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-luis-pinto-quer-gil-vicente-com-identidade-e-a-respeitar-heranca_d1758404",
+      "pubDate": "Sat, 08 Aug 2026 16:31:20 +0100",
+      "description": "O treinador do Gil Vicente, Luís Pinto, assumiu hoje que pretende construir uma equipa com &quot;identidade própria&quot;, mas sem desperdiçar a base deixada pela temporada passada, esperando uma estreia positiva, este sábado, frente ao Rio Ave, para a I Liga de futebol.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga: Moreirense recebe o Braga com a manutenção como “grande objetivo”",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-moreirense-recebe-o-braga-com-a-manutencao-como-grande-objetivo_d1758396",
-      "pubDate": "Sat, 08 Aug 2026 16:19:00 +0100",
-      "description": "O “grande objetivo” do Moreirense é a manutenção na I Liga do futebol nacional, confirmou hoje, na conferência de antevisão ao jogo frente ao Sporting de Braga, Vasco Botelho da Costa, técnico da equipa de Moreira de Cónegos.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Vaga extra para a Champions motiva Sporting de Braga",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/vaga-extra-para-a-champions-motiva-sporting-de-braga_d1758395",
-      "pubDate": "Sat, 08 Aug 2026 16:16:39 +0100",
-      "description": "O treinador Carlos Vicens assume que a existência de mais uma vaga na Liga dos Campeões na próxima época é “uma motivação extra” para o Sporting de Braga, que se estreia no domingo no novo campeonato.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/690c8e0dc8dc9f142f146fbf66edf8aa?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "15h As explicações de António José Seguro",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-as-explicacoes-de-antonio-jose-seguro_a1_1758393",
-      "pubDate": "Sat, 08 Aug 2026 16:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Alverca reforça meio-campo com Rayan Lucas",
-      "link": "https://maisfutebol.iol.pt/mercado/alverca/oficial-alverca-reforca-meio-campo-com-rayan-lucas",
-      "pubDate": "Sat, 8 Aug 2026 15:17:00 +0100",
-      "description": "Jovem, de 21 anos, foi contratado ao Flamengo, que na época passada o tinha cedido ao Sporting",
-      "thumbnail": "https://img.iol.pt/image/id/6a773a27d34e511da0b32516/250"
+      "title": "Milan de Amorim perde por 3-0 com o Chelsea",
+      "link": "https://maisfutebol.iol.pt/made-in/ruben-amorim/milan-de-amorim-perde-por-3-0-com-o-chelsea",
+      "pubDate": "Sat, 8 Aug 2026 15:54:52 +0100",
+      "description": "Derrota pesada para o treinador português, que utilizou Leão e Ramos",
+      "thumbnail": "https://img.iol.pt/image/id/6a7742d4d34ed0733ba7eddd/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,6 +120,16 @@
       "pubDate": "Sat, 8 Aug 2026 15:17:00 +0100",
       "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
       "thumbnail": "https://img.iol.pt/image/id/6a6f7fecd34e511da0b3131c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Alverca reforça meio-campo com Rayan Lucas",
+      "link": "https://maisfutebol.iol.pt/mercado/alverca/oficial-alverca-reforca-meio-campo-com-rayan-lucas",
+      "pubDate": "Sat, 8 Aug 2026 15:17:00 +0100",
+      "description": "Jovem, de 21 anos, foi contratado ao Flamengo, que na época passada o tinha cedido ao Sporting",
+      "thumbnail": "https://img.iol.pt/image/id/6a773a27d34e511da0b32516/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sat, 8 Aug 2026 14:25:00 +0100",
       "description": "Técnico do Benfica garante que o clube está atento ao mercado e fala dos favoritos ao título",
       "thumbnail": "https://img.iol.pt/image/id/6a6a29a3d34ed0733ba7d060/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Jogo à porta fechada? Se achamos que é assim que vamos resolver problemas...»",
-      "link": "https://maisfutebol.iol.pt/benfica/marco-silva/jogo-a-porta-fechada-se-achamos-que-e-assim-que-vamos-resolver-problemas",
-      "pubDate": "Sat, 8 Aug 2026 14:19:00 +0100",
-      "description": "Marco Silva deixa duras críticas antes do duelo com o Académico de Viseu, que não terá público nas bancadas",
-      "thumbnail": "https://img.iol.pt/image/id/6a6a29a1d34e511da0b30786/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3033846/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 15:23:10",
+      "title": "Negócio fechado. Ousmane Diomande deixa Sporting e já tem viagem marcada",
+      "link": "https://www.noticiasaominuto.com/desporto/3033976/negocio-fechado-ousmane-diomande-deixa-sporting-e-ja-tem-viagem-marcada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:50:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76d31a82d1b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTk1MSwiY3JvcEhlaWdodCI6MzQ2OSwiY3JvcFgiOjQzMSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6908c7d954fbe.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bebé de 1 ano cai de terceiro andar de prédio nas Caldas da Rainha",
-      "link": "https://www.noticiasaominuto.com/pais/3033972/bebe-de-1-ano-cai-de-terceiro-andar-de-predio-nas-caldas-da-rainha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 15:22:02",
+      "title": "Ministra da Cultura destaca \"grande significado\" das festa de Campo Maior",
+      "link": "https://www.noticiasaominuto.com/pais/3033974/ministra-da-cultura-destaca-grande-significado-das-festa-de-campo-maior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:46:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67399d000742f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66d23234c52df.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSD pede a TdC e ERC para analisarem contrato de Faro para comunicação",
-      "link": "https://www.noticiasaominuto.com/politica/3033970/psd-pede-a-tdc-e-erc-para-analisarem-contrato-de-faro-para-comunicacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 15:19:59",
+      "title": "Arábia Saudita, Jordânia e Bahrein condenam ataque a petroleiro em Ormuz",
+      "link": "https://www.noticiasaominuto.com/mundo/3033975/arabia-saudita-jordania-e-bahrein-condenam-ataque-a-petroleiro-em-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:41:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_617266531c7a9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a53744beec94.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Há cinco clubes que não lutam pela manutenção. Todos os outros lutam\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3033946/ha-cinco-clubes-que-nao-lutam-pela-manutencao-todos-os-outros-lutam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 15:18:32",
+      "title": "EM DIRETO: Marítimo-Casa Pia dão pontapé de saída em dia cheio de futebol",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:31:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6991c7951c76f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63badb9532448.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA4MCwiY3JvcEhlaWdodCI6MTkyMCwiY3JvcFgiOjc3NSwiY3JvcFkiOi0xfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O ingrediente que quase todos deitam fora pode salvar o seu frigorífico",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3031586/o-ingrediente-que-quase-todos-deitam-fora-pode-salvar-o-seu-frigorifico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 15:07:24",
+      "title": "GNR encontra droga e arma em acidente que provocou dois mortos no Seixal",
+      "link": "https://www.noticiasaominuto.com/pais/3033971/gnr-encontra-droga-e-arma-em-acidente-que-provocou-dois-mortos-no-seixal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:27:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a70c48e49fa4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5e7d01e70a251.webp"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,16 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "F1, As Mais Lidas: A entrevista com Lando Norris que terminou mal",
+      "link": "https://www.autosport.pt/formula1/f1/f1-a-entrevista-com-lando-norris-que-terminou-mal/",
+      "pubDate": "Sat, 08 Aug 2026 14:45:00 +0000",
+      "description": "O que é real e o que é manipulado? Nos dias que correm é cada vez mais difícil fazer a distinção. E no mundo ultracontrolado da F1, essa falta de autenticidade pode retirar o brilho às estrelas. Lando Norris foi recentemente vítima desse controlo obsessivo. Numa recente entrevista, o campeão do mund",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "Ford Fathom: nova “pick-up” elétrica",
       "link": "https://www.autosport.pt/automais/ford-fathom-nova-pick-up-eletrica/",
       "pubDate": "Sat, 08 Aug 2026 13:15:00 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-as-mais-lidas-felix-da-costa-se-nao-gostam-fiquem-em-casa/",
       "pubDate": "Sat, 08 Aug 2026 10:15:00 +0000",
       "description": "O arranque da temporada 2026 de F1 foi repleto de queixas e de críticas, por parte de adeptos e especialmente de alguns pilotos que tentaram várias vezes destacar o desagrado mais ou menos geral que se viveu co os novos carros. A gestão de energia e os truques necessários para poder fazer uma volta ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Mads Ostberg: Um piloto que cresceu depressa demais…",
-      "link": "https://www.autosport.pt/ralis/wrc/mads-ostberg-um-piloto-que-cresceu-depressa-demais/",
-      "pubDate": "Sat, 08 Aug 2026 09:30:00 +0000",
-      "description": "Como muitos outros, Mads Ostberg teve um começo promissor nos ralis: queria ser o próximo ‘Petter Solberg’, na primeira conversa que tivemos com ele, tinha 23 anos e já cinco de WRC. O desafio não parecia difícil de concretizar, mas a dura realidade&#8230;Não se pode dizer que está a ter uma má carr",
       "thumbnail": ""
     }
   ]
