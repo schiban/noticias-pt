@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T22:23:36.709727+00:00",
+  "updated": "2026-08-08T22:56:27.947036+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As substituições de Rui Borges e a reação da Liga ao relvado",
+      "link": "https://observador.pt/2026/08/08/o-aviso-que-serve-para-todos-as-substituicoes-a-entrada-de-suarez-e-a-reacao-da-liga-ao-relvado-sporting-nao-caia-na-amadora-ha-20-anos/",
+      "pubDate": "Sat, 08 Aug 2026 23:46:39 +0100",
+      "description": "Na visita à Amadora, o Sporting começou a época a perder pontos, com Borges a lamentar a quebra física depois de ter feito as cinco substituições. Liga diz que vai dar nota \"negativa\" ao relvado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:235/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08234125/gettyimages-2288915133-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Quatro mortos em queda de helicóptero no Rio de Janeiro",
+      "link": "https://observador.pt/2026/08/08/quatro-mortos-em-queda-de-helicoptero-no-rio-de-janeiro-familia-colombiana-entre-as-vitimas/",
+      "pubDate": "Sat, 08 Aug 2026 23:24:44 +0100",
+      "description": "Helicóptero caiu em zona florestal da cidade. Acidente provocou a morte dos quatro ocupantes. Presidente da Câmara do Rio de Janeiro pede medidas para garantir segurança dos voos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1000:562:nowe:0:94/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08231919/whatsapp-image-2026-08-08-at-131047.avif"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,26 +52,6 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20170321/jporfirio-congresso-psd-anadia-dia1-20-06-12-4-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A luta da Igreja Católica para conquistar as redes sociais",
-      "link": "https://observador.pt/especiais/uns-vendem-viagens-outros-emagrecimento-temos-de-ter-um-espaco-onde-falamos-de-cristo-a-igreja-catolica-a-conquista-das-redes-sociais/",
-      "pubDate": "Sat, 08 Aug 2026 21:49:24 +0100",
-      "description": "Perante a multiplicação de influencers católicos nas redes sociais, uma nova \"Rede Nacional dos Missionários Digitais\" quer reuni-los e impulsionar a capacidade de comunicação digital da Igreja.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/03143658/missionarios-digitais-1-1.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Número residual\" de reapreciações por enviar às escolas",
-      "link": "https://observador.pt/2026/08/08/exames-apenas-numero-residual-de-reapreciacoes-continua-por-enviar-as-escolas/",
-      "pubDate": "Sat, 08 Aug 2026 21:40:31 +0100",
-      "description": "O Ministério da Educação garante que nenhum aluno será impedido de se candidatar ao ensino superior na 1.ª fase do concurso nacional de acesso.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:177/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18211133/47482490.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
@@ -76,7 +76,7 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Omã afirma que negociações sobre Ormuz são positivas mas alerta para ataques",
-      "link": "https://www.rtp.pt/noticias/mundo/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
       "pubDate": "Sat, 08 Aug 2026 22:39:58 +0100",
       "description": "Omã afirmou hoje que as conversações com Teerão sobre a navegação no Estreito de Ormuz são positivas, mas alertou que os ataques contra navios podem afetar as negociações.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
@@ -100,6 +100,26 @@
       "pubDate": "Sat, 08 Aug 2026 22:38:23 +0100",
       "description": "Um homem de 40 anos morreu hoje na praia fluvial de Aldeia do Mato, no concelho de Abrantes, com o óbito declarado no local pela equipa da VMER da ULS do Médio Tejo.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: assobios, sim, mas também muitos aplausos na saída do Sporting",
+      "link": "https://maisfutebol.iol.pt/sporting/estrela-amadora/video-assobios-sim-mas-tambem-muitos-aplausos-na-saida-do-sporting",
+      "pubDate": "Sat, 8 Aug 2026 23:35:04 +0100",
+      "description": "Vários adeptos tentaram dar força aos jogadores leoninos",
+      "thumbnail": "https://img.iol.pt/image/id/6a77ae4bd34ed0733ba7ee89/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rui Borges manda aviso para dentro: «Não podemos ser só isto»",
+      "link": "https://maisfutebol.iol.pt/liga/sporting/rui-borges-manda-aviso-para-dentro-nao-podemos-ser-so-isto",
+      "pubDate": "Sat, 8 Aug 2026 23:33:00 +0100",
+      "description": "Treinador do Sporting falou de uma equipa «desligada» após os golos sofridos",
+      "thumbnail": "https://img.iol.pt/image/id/6a622742d34ef04b4f3f87fb/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 8 Aug 2026 23:02:28 +0100",
       "description": "Declarações do treinador do Estrela depois do empate arranca do diante do Sporting (2-2)",
       "thumbnail": "https://img.iol.pt/image/id/6a779227d34e511da0b325a3/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rui Borges avisa: «Jogadores têm de dar muito mais»",
-      "link": "https://maisfutebol.iol.pt/sporting/estrela-amadora/rui-borges-avisa-jogadores-tem-de-dar-muito-mais",
-      "pubDate": "Sat, 8 Aug 2026 22:45:42 +0100",
-      "description": "Treinador diz que a equipa perdeu competitividade e por isso deixou-se empatar",
-      "thumbnail": "https://img.iol.pt/image/id/6a11de43d34edcee7c648178/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Leandro Antonetti: «Não é fácil fazer o que fizemos»",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/leandro-antonetti-nao-e-facil-fazer-o-que-fizemos",
-      "pubDate": "Sat, 8 Aug 2026 22:42:33 +0100",
-      "description": "Avançado do Estrela marcou no empate diante do Sporting (2-2)",
-      "thumbnail": "https://img.iol.pt/image/id/6a77a222d34ed0733ba7ee81/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Bernardo Silva estreia-se no Real Madrid e promete: \"Vou preparar-me...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034066/bernardo-silva-estreia-se-no-real-madrid-e-promete-vou-preparar-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:47:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77b1c4b38c2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoxMDMyLCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "FIFA arrasadora. Organismo denuncia \"esforço concertado\" contra Infantino",
+      "link": "https://www.noticiasaominuto.com/desporto/3034090/fifa-arrasadora-organismo-denuncia-esforco-concertado-contra-infantino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:41:39",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f3b7e16c0c2.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Washington acusa Pequim de desestabilizar mar do Sul da China",
+      "link": "https://www.noticiasaominuto.com/mundo/3034087/washington-acusa-pequim-de-desestabilizar-mar-do-sul-da-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:35:34",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77af38752fe.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Relvado do Estrela-Sporting gerou preocupação. Liga apresentou explicação",
+      "link": "https://www.noticiasaominuto.com/desporto/3034088/relvado-do-estrela-sporting-gerou-preocupacao-liga-apresentou-explicacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:32:21",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77ac8810040.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExMDEsImNyb3BIZWlnaHQiOjE5NTcsImNyb3BYIjo0NjYsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "O estreante Zalazar e os erros dos leões. O resumo do Estrela-Sporting",
       "link": "https://www.noticiasaominuto.com/desporto/3034086/o-estreante-zalazar-e-os-erros-dos-leoes-o-resumo-do-estrela-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-08 23:20:09",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77ab8da49d8.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Luís Castro afasta 'fantasmas' e Grêmio vence quase um mês depois",
-      "link": "https://www.noticiasaominuto.com/desporto/3034080/gremio-de-luis-castro-vira-resultado-e-vence-sao-paulo-por-2-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 23:13:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a79244b43.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Pepa: \"Acabei o jogo com azia, senti que poderíamos ter virado o jogo\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034084/pepa-acabei-o-jogo-com-azia-senti-que-poderiamos-ter-virado-o-jogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 23:09:58",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a7eee7353.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Antonetti radiante com empate ante o Sporting: \"Não é fácil fazer...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034082/antonetti-radiante-com-empate-ante-o-sporting-nao-e-facil-fazer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 23:06:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a6bb0ff6f.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Zalazar brilhou e deixa mensagem: \"Talvez ainda não nos conheçamos bem\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034081/zalazar-brilhou-e-deixa-mensagem-talvez-ainda-nao-nos-conhecamos-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 23:02:31",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77975b054be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjUyOSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
