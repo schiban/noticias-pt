@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T21:31:29.777960+00:00",
+  "updated": "2026-08-08T22:23:36.709727+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Há quem acabe a ver estrelas quando não consegue voar",
+      "link": "https://observador.pt/2026/08/08/ha-quem-fale-em-eras-ha-quem-acabe-a-ver-estrelas-quando-nao-consegue-voar-a-cronica-do-estrela-da-amadora-sporting/",
+      "pubDate": "Sat, 08 Aug 2026 22:47:58 +0100",
+      "description": "Depois de uma hora de domínio, com Zalazar a mostrar-se no arranque da segunda parte, o Sporting eclipsou-se e não conseguiu aguentar o crescimento do Estrela. Erros defensivos valeram um ponto (2-2).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3797:2132:nowe:0:400/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08224514/gettyimages-2288912228.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Jamaica\", dos Super Dragões, encontrado morto em casa",
+      "link": "https://observador.pt/2026/08/08/jamaica-membro-dos-super-dragoes-encontrado-morto-em-casa/",
+      "pubDate": "Sat, 08 Aug 2026 22:46:15 +0100",
+      "description": "Homem foi encontrado sem vida este sábado. Há cerca de um ano fora condenado a cerca de dois anos e 10 meses de prisão, com pena suspensa, na sequência da operação Pretoriano.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/10135657/igor-martins-fernandomadureira-06-004-1-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:177/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18211133/47482490.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "21h. Lei do Retorno. Carneiro ao lado de Seguro na decisão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1722/",
-      "pubDate": "Sat, 08 Aug 2026 21:30:06 +0100",
-      "description": "Um tema bem decidido, é a opinião de José Luís Carneiro que se escusou de se pronunciar sobre o tema, à chegada a Campo Maior. Ainda, morreu o escritor e ex-deputado socialista Joaquim Sarmento.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Incêndio deflagra em prédio no centro de Lisboa",
-      "link": "https://observador.pt/2026/08/08/incendio-deflagra-em-predio-no-centro-de-lisboa-idoso-levado-para-o-hospital-e-moradores-retirados/",
-      "pubDate": "Sat, 08 Aug 2026 21:26:59 +0100",
-      "description": "Incêndio começou no terceiro andar de um prédio na Rua Conde de Redondo. Edifício ficou sem condições de habitabilidade e moradores foram retirados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08204428/whatsapp-image-2026-08-08-at-203126.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Quatro mortos em queda de helicóptero no Rio de Janeiro",
+      "link": "https://www.rtp.pt/noticias/mundo/quatro-mortos-em-queda-de-helicoptero-no-rio-de-janeiro_n1758456",
+      "pubDate": "Sat, 08 Aug 2026 23:51:56 +0100",
+      "description": "O helicóptero caiu no Parque Nacional da Tijuca, uma zona de densa floresta numa encosta de montanha.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -66,7 +76,7 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Omã afirma que negociações sobre Ormuz são positivas mas alerta para ataques",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
+      "link": "https://www.rtp.pt/noticias/mundo/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
       "pubDate": "Sat, 08 Aug 2026 22:39:58 +0100",
       "description": "Omã afirmou hoje que as conversações com Teerão sobre a navegação no Estreito de Ormuz são positivas, mas alertou que os ataques contra navios podem afetar as negociações.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
@@ -92,74 +102,64 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Governo quer uma central incineradora no Algarve",
-      "link": "https://www.rtp.pt/noticias/pais/governo-quer-uma-central-incineradora-no-algarve_v1758452",
-      "pubDate": "Sat, 08 Aug 2026 22:32:47 +0100",
-      "description": "A região produz mais lixo do que a média nacional e tem dois aterros à beira do colapso.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/41/4187ce13125fee405a6359787b25c6b5_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mourinho: «O Bernardo é fantástico, mas não está em forma e tem de melhorar»",
+      "link": "https://maisfutebol.iol.pt/real-madrid/jose-mourinho/mourinho-o-bernardo-e-fantastico-mas-nao-esta-em-forma-e-tem-de-melhorar",
+      "pubDate": "Sat, 8 Aug 2026 23:14:00 +0100",
+      "description": "Técnico português não se mostrou chateado, referindo que o português é um daqueles jogadores a quem faz bem não fazer nada durante as férias",
+      "thumbnail": "https://img.iol.pt/image/id/6a75fee8d34e511da0b32347/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Estrela-Sporting, 2-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/estrela-sporting-2-2-cronica",
-      "pubDate": "Sat, 8 Aug 2026 22:26:00 +0100",
-      "description": "Quem não gosta de uma boa surpresa a abrir a época?",
-      "thumbnail": "https://img.iol.pt/image/id/6a77922dd34ed0733ba7ee5a/250"
+      "title": "Liga explica porque autorizou Estrela-Sporting naquele relvado",
+      "link": "https://maisfutebol.iol.pt/sporting/estrela-amadora/liga-explica-porque-autorizou-estrela-sporting-naquele-relvado",
+      "pubDate": "Sat, 8 Aug 2026 23:09:58 +0100",
+      "description": "Tapete mostrou estar em más condições, mas Liga Portugal fala em «premência organizativa»",
+      "thumbnail": "https://img.iol.pt/image/id/6a779226d34e511da0b325a1/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Dínamo Bucareste de Nuno Campos goleia e sobe ao segundo lugar",
-      "link": "https://maisfutebol.iol.pt/internacional/made-in/dinamo-bucareste-de-nuno-campos-goleia-e-sobe-ao-segundo-lugar",
-      "pubDate": "Sat, 8 Aug 2026 21:55:45 +0100",
-      "description": "Triunfo em casa por 4-0 soibre o Voluntari",
-      "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
+      "title": "Pepa: «Acabei o jogo com azia, senti que poderíamos ter virado o jogo»",
+      "link": "https://maisfutebol.iol.pt/estrela-amadora/liga/pepa-acabei-o-jogo-com-azia-senti-que-poderiamos-ter-virado-o-jogo",
+      "pubDate": "Sat, 8 Aug 2026 23:02:28 +0100",
+      "description": "Declarações do treinador do Estrela depois do empate arranca do diante do Sporting (2-2)",
+      "thumbnail": "https://img.iol.pt/image/id/6a779227d34e511da0b325a3/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Sporting perde na Áustria e sonho na Liga dos Campeões feminina chega ao fim",
-      "link": "https://maisfutebol.iol.pt/sporting/futebol-feminino/sporting-perde-na-austria-e-sonho-na-liga-dos-campeoes-feminina-chega-ao-fim",
-      "pubDate": "Sat, 8 Aug 2026 21:53:00 +0100",
-      "description": "Leoas caíram nas grandes penalidades (4-1), diante do St. Polten",
-      "thumbnail": "https://img.iol.pt/image/id/6a778c49d34e511da0b3259a/250"
+      "title": "Rui Borges avisa: «Jogadores têm de dar muito mais»",
+      "link": "https://maisfutebol.iol.pt/sporting/estrela-amadora/rui-borges-avisa-jogadores-tem-de-dar-muito-mais",
+      "pubDate": "Sat, 8 Aug 2026 22:45:42 +0100",
+      "description": "Treinador diz que a equipa perdeu competitividade e por isso deixou-se empatar",
+      "thumbnail": "https://img.iol.pt/image/id/6a11de43d34edcee7c648178/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "II Liga: Tondela estreia-se com reviravolta diante do Amarante",
-      "link": "https://maisfutebol.iol.pt/ii-liga/tondela/ii-liga-tondela-estreia-se-com-reviravolta-diante-do-amarante",
-      "pubDate": "Sat, 8 Aug 2026 21:47:40 +0100",
-      "description": "Campeão da Liga 3 esteve a vencer no Estádio João Cardoso",
-      "thumbnail": "https://img.iol.pt/image/id/6a779462d34e511da0b325aa/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica: Ivanovic fica mais perto de sair para o Lens",
-      "link": "https://maisfutebol.iol.pt/benfica/ivanovic/benfica-ivanovic-fica-mais-perto-de-sair-para-o-lens",
-      "pubDate": "Sat, 8 Aug 2026 21:04:34 +0100",
-      "description": "Jogador deu preferência ao clube francês em vez da Lazio",
-      "thumbnail": "https://img.iol.pt/image/id/69ed1274d34edcee7c6376a5/250"
+      "title": "Leandro Antonetti: «Não é fácil fazer o que fizemos»",
+      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/leandro-antonetti-nao-e-facil-fazer-o-que-fizemos",
+      "pubDate": "Sat, 8 Aug 2026 22:42:33 +0100",
+      "description": "Avançado do Estrela marcou no empate diante do Sporting (2-2)",
+      "thumbnail": "https://img.iol.pt/image/id/6a77a222d34ed0733ba7ee81/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Presidente do Irão diz que o país enfrenta \"guerra total\" e apela à união da população",
-      "link": "https://sapo.pt/artigo/presidente-do-irao-diz-que-o-pais-enfrenta-guerra-total-e-apela-a-uniao-da-populacao-6a776198d6b4b04ddd91afac",
-      "pubDate": "Sat, 08 Aug 2026 17:17:55 +0000",
-      "description": "Masoud Pezeshkian diz que “divergências, divisões e conflitos internos” fragilizam um país e apela à coesão para fazer face à guerra com os EUA",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7xGyPre7j%2BB94UBlJJFCczw768fBZFbbR1MOOynvKpOcU5qofqsb1AHRn1WkZZSpjhauc%2B%2FS6lS5r%2Bu8r9UIrzdUoeLKQlpnZWDKKEbYL8xC5RiV5mjhmPPH71S6eFi8"
+      "title": "Irão apresenta lista de exigências aos EUA para reabrir Estreito de Ormuz",
+      "link": "https://sapo.pt/artigo/irao-apresenta-lista-de-exigencias-aos-eua-para-reabrir-estreito-de-ormuz-6a777c5d0c60413700cb83d0",
+      "pubDate": "Sat, 08 Aug 2026 19:34:14 +0000",
+      "description": "O Irão detalhou seis condições que constituiriam esta \"correcção de comportamento\" por parte dos Estados Unidos entre as quais a suspensão do bloqueio naval contra o Irão e o fim das sanções.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A3FD9VsjBtARfgTrEEHnUX%2FMQdw5IUi2I3bvVsD8qSQmbc3E3y%2Bmr1nxgJVFCRYUJfXInEhAwDw0EOsoLB4%2Bh3TV7H6TL6TDnz5CTInBTbDbrl0AeWBmzOPuBuww3IvKs"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Estrela anula efeito de Zalazar e trava Sporting no arranque da I Liga",
-      "link": "https://www.noticiasaominuto.com/desporto/3034069/estrela-anula-efeito-de-zalazar-e-trava-sporting-no-arranque-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 22:22:47",
+      "title": "O estreante Zalazar e os erros dos leões. O resumo do Estrela-Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3034086/o-estreante-zalazar-e-os-erros-dos-leoes-o-resumo-do-estrela-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:20:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77979715431.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77ab8da49d8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polémica na Reboleira. Este golo de Doué ao Sporting foi anulado",
-      "link": "https://www.noticiasaominuto.com/desporto/3034067/polemica-na-reboleira-este-golo-de-doue-ao-sporting-foi-anulado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 21:50:04",
+      "title": "Luís Castro afasta 'fantasmas' e Grêmio vence quase um mês depois",
+      "link": "https://www.noticiasaominuto.com/desporto/3034080/gremio-de-luis-castro-vira-resultado-e-vence-sao-paulo-por-2-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:13:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77966eb75d4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a79244b43.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Colonos israelitas invadiram mesquita e atacaram fiéis palestinianos",
-      "link": "https://www.noticiasaominuto.com/mundo/3034068/colonos-israelitas-invadiram-mesquita-e-atacaram-fieis-palestinianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 21:46:44",
+      "title": "Pepa: \"Acabei o jogo com azia, senti que poderíamos ter virado o jogo\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034084/pepa-acabei-o-jogo-com-azia-senti-que-poderiamos-ter-virado-o-jogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:09:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69dbbd2b28602.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a7eee7353.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tejón assistiu e Marítimo teve Guzzo. O golo do triunfo dos insulares",
-      "link": "https://www.noticiasaominuto.com/desporto/3034065/tejon-assistiu-e-maritimo-teve-guzzo-o-golo-do-triunfo-dos-insulares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 21:38:02",
+      "title": "Antonetti radiante com empate ante o Sporting: \"Não é fácil fazer...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034082/antonetti-radiante-com-empate-ante-o-sporting-nao-e-facil-fazer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:06:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77938f73f4d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77a6bb0ff6f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Joaquim Sarmento: O ex-deputado que quis \"espaço maior\" para cultura",
-      "link": "https://www.noticiasaominuto.com/politica/3034052/joaquim-sarmento-o-ex-deputado-que-quis-espaco-maior-para-cultura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 21:34:49",
+      "title": "Zalazar brilhou e deixa mensagem: \"Talvez ainda não nos conheçamos bem\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034081/zalazar-brilhou-e-deixa-mensagem-talvez-ainda-nao-nos-conhecamos-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 23:02:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_52b13f7f2ade8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77975b054be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjUyOSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Economista contraria previsões e diz que a IA não vai substituir a maioria dos trabalhadores",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/economista-contraria-previsoes-e-diz-que-a-ia-nao-vai-substituir-a-maioria-dos-trabalhadores/",
+      "pubDate": "Sat, 08 Aug 2026 21:30:20 +0000",
+      "description": "A Inteligência Artificial (IA) continua a alimentar previsões sobre um futuro em que grande parte dos empregos será automatizada. No entanto, este economista discorda. Professor de Economia Aplicada na Universidade Johns Hopkins, Steve Hanke&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/steve-hanke-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 18:00:12 +0000",
       "description": "Stupid Never Dies, o novo RPG de ação dos criadores de Devil May Cry, Resident Evil e Dragon&#8217;s Dogma já tem data de lançamento, e traz consigo combates frenéticos, humor irreverente e uma banda&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/SND_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Isenção de IMT na compra da primeira casa! 112 mil jovens beneficiaram",
-      "link": "https://pplware.sapo.pt/informacao/isencao-de-imt-na-compra-da-primeira-casa-112-mil-jovens-beneficiaram/",
-      "pubDate": "Sat, 08 Aug 2026 17:00:35 +0000",
-      "description": "Comprar a primeira casa continua a ser um dos maiores desafios para os jovens em Portugal. Ainda assim, os apoios criados pelo Estado começam a ter um impacto significativo. Até ao final de junho&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/comprar_casa_imt00.webp"
     },
     {
       "sourceId": "autosport",
