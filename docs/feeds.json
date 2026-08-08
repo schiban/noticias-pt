@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-08T13:41:40.654299+00:00",
+  "updated": "2026-08-08T14:27:53.538224+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 15h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2419/",
+      "pubDate": "Sat, 08 Aug 2026 15:14:29 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Enquanto o inchaço não passa, Ruben tem de meter gelo",
+      "link": "https://observador.pt/2026/08/08/enquanto-o-inchaco-nao-passa-ruben-tem-de-meter-gelo-para-curar-os-pesadelos-amorim-goleado-pelo-chelsea-na-despedida-da-asia/",
+      "pubDate": "Sat, 08 Aug 2026 15:10:24 +0100",
+      "description": "Os problemas continuam, sem fim à vista. Enquanto procura arrumar o balneário, Amorim alertou para as bolas paradas... e sofreu mais dois golos. AC Milan acabou goleado pelo campeão do mundo (3-0).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3062:1718:nowe:0:85/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08145747/gettyimages-2289589388.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PR defende que se deve combater ferozmente imigração ilegal",
+      "link": "https://observador.pt/2026/08/08/presidente-defende-que-se-deve-combater-ferozmente-imigracao-ilegal/",
+      "pubDate": "Sat, 08 Aug 2026 14:53:49 +0100",
+      "description": "Presidente voltou a defender a necessidade de \"combater ferozmente\" a imigração ilegal, e recusou comentar a decisão de enviar para o Tribunal Constitucional o decreto sobre o retorno de estrangeiros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08145006/47581309.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dois mortos em despiste autmóvel na A33 em Fernão Ferro",
+      "link": "https://observador.pt/2026/08/08/dois-mortos-e-dois-feridos-graves-em-despiste-autmovel-na-a33-em-fernao-ferro/",
+      "pubDate": "Sat, 08 Aug 2026 14:42:50 +0100",
+      "description": "Dois homens morreram e outros dois sofreram ferimentos graves no despiste de automóvel ocorrido na A33, na zona de Fernão Ferro, distrito de Setúbal, revelaram a Proteção Civil e a GNR.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2015/02/15380120.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,94 +52,84 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08013652/gettyimages-2147655338-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Jared Leto: um pesadelo em Hollywood",
-      "link": "https://observador.pt/especiais/jared-leto-um-pesadelo-em-hollywood/",
-      "pubDate": "Sat, 08 Aug 2026 14:26:59 +0100",
-      "description": "\"Hollywood’s Darkest Secret\" é o documentário da BBC sobre alegados casos de assédio e agressão sexual. E é \"o retrato de um padrão, um modus operandi que se arrasta há 20 anos\", escreve Susana Verde.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3744:2100:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/03180741/gettyimages-2239669722.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Multiplicam-se apelos para nova entrada em massa em Ceuta",
-      "link": "https://observador.pt/2026/08/08/multiplicam-se-em-marrocos-os-apelos-nas-redes-sociais-a-uma-entrada-em-massa-em-ceuta-e-mellila/",
-      "pubDate": "Sat, 08 Aug 2026 14:26:28 +0100",
-      "description": "Apelos a uma nova tentativa de entrada em massa em Ceuta e Melilla no dia 15 multiplicam-se em Marrocos e coincidem com um forte dispositivo policial na fronteira com as duas cidades espanholas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08140401/47572139.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Seguro diz que Campo Maior ensina lição ao país",
-      "link": "https://observador.pt/2026/08/08/seguro-diz-que-campo-maior-ensina-licao-ao-pais-com-as-festas-do-povo/",
-      "pubDate": "Sat, 08 Aug 2026 14:22:29 +0100",
-      "description": "António José Seguro elogiou hoje as Festas do Povo de Campo Maior e defendeu que esta vila alentejana pode ensinar \"uma lição\" a Portugal, que precisa de comunidades com entreajuda e cooperação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08135909/47581194.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 14h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2438/",
-      "pubDate": "Sat, 08 Aug 2026 14:15:14 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Académica goleia Chaves em Trás-os-Montes",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/academica-goleia-chaves-em-tras-os-montes_d1758399",
+      "pubDate": "Sat, 08 Aug 2026 16:22:21 +0100",
+      "description": "A recém-promovida Académica venceu o Desportivo de Chaves, por 4-1, na partida inaugural da primeira jornada da temporada 2026/27 da II Liga, disputada em Trás-os-Montes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a4403cbbc01773496bb34d096616e5f1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Moledo é o \"lugar de verão\" de milhares de pessoas",
-      "link": "https://www.rtp.pt/noticias/pais/moledo-e-o-lugar-de-verao-de-milhares-de-pessoas_v1758387",
-      "pubDate": "Sat, 08 Aug 2026 15:20:52 +0100",
-      "description": "É uma das praias mais emblemáticas do país. Já foi conhecida por ser a praia de políticos e artistas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/51/5103ab6f2478e2e28daecbda4847ddc9_N.jpg?"
+      "title": "I Liga: Sérgio Ferreira quer Alverca ousado no Dragão",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-sergio-ferreira-quer-alverca-ousado-no-dragao_d1758398",
+      "pubDate": "Sat, 08 Aug 2026 16:20:03 +0100",
+      "description": "O treinador do Alverca, Sérgio Ferreira, prometeu hoje uma equipa ambiciosa e ousada para o jogo da primeira jornada da I Liga de futebol frente ao FC Porto, a disputar no domingo, no Estádio do Dragão.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Milhares de escuteiros em acampamento regional",
-      "link": "https://www.rtp.pt/noticias/pais/milhares-de-escuteiros-em-acampamento-regional_v1758386",
-      "pubDate": "Sat, 08 Aug 2026 15:20:47 +0100",
-      "description": "Mais de cinco mil escuteiros de todo o país reuniram-se esta semana para participar no Acampamento regional de Braga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4d/4d88c4655715d255573ef7388b2724c6_N.jpg?"
+      "title": "I Liga: Moreirense recebe o Braga com a manutenção como “grande objetivo”",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-moreirense-recebe-o-braga-com-a-manutencao-como-grande-objetivo_d1758396",
+      "pubDate": "Sat, 08 Aug 2026 16:19:00 +0100",
+      "description": "O “grande objetivo” do Moreirense é a manutenção na I Liga do futebol nacional, confirmou hoje, na conferência de antevisão ao jogo frente ao Sporting de Braga, Vasco Botelho da Costa, técnico da equipa de Moreira de Cónegos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Entre 8.000 e 11.000 migrantes continuam em Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/entre-8000-e-11000-migrantes-continuam-em-ceuta_n1758380",
-      "pubDate": "Sat, 08 Aug 2026 15:19:51 +0100",
-      "description": "O presidente do governo regional de Ceuta, Juan Vivas, estimou hoje entre 8.000 e 11.000 as pessoas que permanecem atualmente na cidade na sequência da entrada em massa de 30 de julho.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Vaga extra para a Champions motiva Sporting de Braga",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/vaga-extra-para-a-champions-motiva-sporting-de-braga_d1758395",
+      "pubDate": "Sat, 08 Aug 2026 16:16:39 +0100",
+      "description": "O treinador Carlos Vicens assume que a existência de mais uma vaga na Liga dos Campeões na próxima época é “uma motivação extra” para o Sporting de Braga, que se estreia no domingo no novo campeonato.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/690c8e0dc8dc9f142f146fbf66edf8aa?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "14h Queda de aeronave faz 1 morto",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-queda-de-aeronave-faz-1-morto_a1_1758384",
-      "pubDate": "Sat, 08 Aug 2026 15:17:02 +0100",
+      "title": "15h As explicações de António José Seguro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-as-explicacoes-de-antonio-jose-seguro_a1_1758393",
+      "pubDate": "Sat, 08 Aug 2026 16:13:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Rússia atacou diversas cidades ucranianas e fez quase uma centena de mortos e feridos",
-      "link": "https://www.rtp.pt/noticias/mundo/russia-atacou-diversas-cidades-ucranianas-e-fez-quase-uma-centena-de-mortos-e-feridos_v1758382",
-      "pubDate": "Sat, 08 Aug 2026 15:08:47 +0100",
-      "description": "Na resposta, a Ucrânia destruiu parcialmente duas refinarias russas. A guerra entra numa fase crítica, com a falta de capacidade de defesa aérea a afetar principalmente Kiev.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/02/0233c96168a271bb1ea5f448d4780687_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Alverca reforça meio-campo com Rayan Lucas",
+      "link": "https://maisfutebol.iol.pt/mercado/alverca/oficial-alverca-reforca-meio-campo-com-rayan-lucas",
+      "pubDate": "Sat, 8 Aug 2026 15:17:00 +0100",
+      "description": "Jovem, de 21 anos, foi contratado ao Flamengo, que na época passada o tinha cedido ao Sporting",
+      "thumbnail": "https://img.iol.pt/image/id/6a773a27d34e511da0b32516/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Sat, 8 Aug 2026 15:17:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a6f7fecd34e511da0b3131c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: Académica arranca com goleada em Chaves",
+      "link": "https://maisfutebol.iol.pt/ii-liga/academica/ii-liga-academica-arranca-com-goleada-em-chaves",
+      "pubDate": "Sat, 8 Aug 2026 14:53:23 +0100",
+      "description": "Briosa vence os flavienses por 4-1 em Trás-os-Montes",
+      "thumbnail": "https://img.iol.pt/image/id/6a771ff6d34e511da0b324ec/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +137,7 @@
       "color": "#4fc48a",
       "title": "Marco Silva: «Palhinha? Enquanto o mercado estiver aberto...»",
       "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-palhinha-enquanto-o-mercado-estiver-aberto",
-      "pubDate": "Sat, 8 Aug 2026 14:25:25 +0100",
+      "pubDate": "Sat, 8 Aug 2026 14:25:00 +0100",
       "description": "Técnico do Benfica garante que o clube está atento ao mercado e fala dos favoritos ao título",
       "thumbnail": "https://img.iol.pt/image/id/6a6a29a3d34ed0733ba7d060/250"
     },
@@ -117,39 +147,9 @@
       "color": "#4fc48a",
       "title": "«Jogo à porta fechada? Se achamos que é assim que vamos resolver problemas...»",
       "link": "https://maisfutebol.iol.pt/benfica/marco-silva/jogo-a-porta-fechada-se-achamos-que-e-assim-que-vamos-resolver-problemas",
-      "pubDate": "Sat, 8 Aug 2026 14:19:17 +0100",
+      "pubDate": "Sat, 8 Aug 2026 14:19:00 +0100",
       "description": "Marco Silva deixa duras críticas antes do duelo com o Académico de Viseu, que não terá público nas bancadas",
       "thumbnail": "https://img.iol.pt/image/id/6a6a29a1d34e511da0b30786/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marco Silva: «Não vejo nenhum desconforto com Trubin»",
-      "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-nao-vejo-nenhum-desconforto-com-trubin",
-      "pubDate": "Sat, 8 Aug 2026 14:12:58 +0100",
-      "description": "Treinador do Benfica não revela se Samuel Soares será novamente titular",
-      "thumbnail": "https://img.iol.pt/image/id/6a566109d34ef04b4f3f680e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Aursnes é o novo capitão do Benfica e Lenglet entra no lote",
-      "link": "https://maisfutebol.iol.pt/benfica/fredrik-aursnes/aursnes-e-o-novo-capitao-do-benfica-e-lenglet-entra-no-lote",
-      "pubDate": "Sat, 8 Aug 2026 14:02:34 +0100",
-      "description": "Marco Silva esclarece hierarquia dos capitães",
-      "thumbnail": "https://img.iol.pt/image/id/6a6a29a2d34ed0733ba7d05f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Farioli: «Deniz Gül ainda não sabe muito bem quão bom pode vir a ser»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-deniz-gul-ainda-nao-sabe-muito-bem-quao-bom-pode-vir-a-ser",
-      "pubDate": "Sat, 8 Aug 2026 13:54:00 +0100",
-      "description": "Treinador do FC Porto elogia internacional turco, bem como o reforço André Silva",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e6c9fd34ed0733ba7da9e/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sérgio Ferreira quer Alverca ousado no Dragão frente ao FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3033943/sergio-ferreira-quer-alverca-ousado-no-dragao-frente-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 14:37:09",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3033846/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:23:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4254b1a4bb2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjE0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY5LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6NjY2LCJjcm9wWSI6LTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76d31a82d1b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTk1MSwiY3JvcEhlaWdodCI6MzQ2OSwiY3JvcFgiOjQzMSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Académica goleia Chaves no duelo inaugural da época 2026/27",
-      "link": "https://www.noticiasaominuto.com/desporto/3033942/academica-goleia-chaves-no-duelo-inaugural-da-epoca-202627#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 14:35:36",
+      "title": "Bebé de 1 ano cai de terceiro andar de prédio nas Caldas da Rainha",
+      "link": "https://www.noticiasaominuto.com/pais/3033972/bebe-de-1-ano-cai-de-terceiro-andar-de-predio-nas-caldas-da-rainha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:22:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a773069b933a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MzIsImNyb3BIZWlnaHQiOjI5OSwiY3JvcFgiOjYsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxNjksImNyb3BIZWlnaHQiOjMwMCwiY3JvcFgiOjIzOCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67399d000742f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Líbano detém general da era al-Assad e pondera entregá-lo a Damasco",
-      "link": "https://www.noticiasaominuto.com/mundo/3033959/libano-detem-general-da-era-al-assad-e-pondera-entrega-lo-a-damasco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 14:31:46",
+      "title": "PSD pede a TdC e ERC para analisarem contrato de Faro para comunicação",
+      "link": "https://www.noticiasaominuto.com/politica/3033970/psd-pede-a-tdc-e-erc-para-analisarem-contrato-de-faro-para-comunicacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:19:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_675590a08bae7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU0NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_617266531c7a9.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Marítimo-Casa Pia dão pontapé de saída em dia cheio de futebol",
-      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 14:30:00",
+      "title": "\"Há cinco clubes que não lutam pela manutenção. Todos os outros lutam\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3033946/ha-cinco-clubes-que-nao-lutam-pela-manutencao-todos-os-outros-lutam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:18:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63badb9532448.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA4MCwiY3JvcEhlaWdodCI6MTkyMCwiY3JvcFgiOjc3NSwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6991c7951c76f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois mortos e dois feridos graves após despiste na A33 em Fernão Ferro",
-      "link": "https://www.noticiasaominuto.com/pais/3033956/dois-mortos-e-dois-feridos-graves-apos-despiste-na-a33-em-fernao-ferro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 14:20:23",
+      "title": "O ingrediente que quase todos deitam fora pode salvar o seu frigorífico",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3031586/o-ingrediente-que-quase-todos-deitam-fora-pode-salvar-o-seu-frigorifico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 15:07:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_624d3414673e5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEyNDEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a70c48e49fa4.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Afinal, quantos anos de vida útil tem um MacBook novo?",
+      "link": "https://pplware.sapo.pt/gadgets/hardware/afinal-quantos-anos-de-vida-util-tem-um-macbook-novo/",
+      "pubDate": "Sat, 08 Aug 2026 14:00:41 +0000",
+      "description": "Adquirir um MacBook é um investimento financeiro considerável, o que levanta frequentemente a questão sobre a sua real durabilidade. Afinal, qual o ciclo de vida útil destes computadores portáteis da Apple? O papel crucial&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/03/macbook_air_m4_m4.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 10:00:47 +0000",
       "description": "O Governo voltou a mexer no Imposto sobre os Produtos Petrolíferos (ISP), numa medida destinada a reduzir o impacto da subida dos preços dos combustíveis para os consumidores. Saiba quanto será o desconto efetivo.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/10/precos_combustivel01.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Eclipse solar: pode usar óculos antigos para ver o fenómeno de 12 de agosto?",
-      "link": "https://pplware.sapo.pt/ciencia/eclipse-solar-pode-usar-oculos-antigos-para-ver-o-fenomeno-de-12-de-agosto/",
-      "pubDate": "Sat, 08 Aug 2026 09:00:58 +0000",
-      "description": "Com o stock de óculos de proteção a esgotar sucessivas vezes a poucos dias do eclipse solar, muitos portugueses poderão estar a perguntar-se se os óculos que têm guardados ainda servem. As autoridades têm&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eclipse-solar-oculos-1.jpg"
     },
     {
       "sourceId": "autosport",
