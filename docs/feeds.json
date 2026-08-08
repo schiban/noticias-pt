@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-08T20:57:19.184233+00:00",
+  "updated": "2026-08-08T21:31:29.777960+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Hugo Soares acusa Carneiro de estar \"pior\" do que Ventura",
+      "link": "https://observador.pt/2026/08/08/hugo-soares-usa-texto-de-socialista-para-responder-a-carneiro-chafurdar-na-merda/",
+      "pubDate": "Sat, 08 Aug 2026 22:28:04 +0100",
+      "description": "Ex-deputado socialista tinha acusado opositores de Montenegro de fazerem da política um \"nojo\". Carneiro disse este sábado que PM quebrou promessa de não ir de férias. Hugo Soares acusou-o de mentir.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20170321/jporfirio-congresso-psd-anadia-dia1-20-06-12-4-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -25,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "21h. Lei do Retorno. Carneiro ao lado de Seguro na decisão",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1722/",
       "pubDate": "Sat, 08 Aug 2026 21:30:06 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Um tema bem decidido, é a opinião de José Luís Carneiro que se escusou de se pronunciar sobre o tema, à chegada a Campo Maior. Ainda, morreu o escritor e ex-deputado socialista Joaquim Sarmento.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,21 +52,21 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08204428/whatsapp-image-2026-08-08-at-203126.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Coligação de Lula da Silva apresenta programa eleitoral",
-      "link": "https://observador.pt/2026/08/08/programa-da-coligacao-de-lula-da-silva-para-a-reeleicao-com-foco-na-soberania-e-seguranca/",
-      "pubDate": "Sat, 08 Aug 2026 20:34:52 +0100",
-      "description": "A coligação é formada por sete partidos e liderada pelo Partido Trabalhista (PT), de Lula da Silva, que repete a dupla com o vice-presnete, Geraldo Alckmin, na candidatura às eleições de outubro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02195919/47556077.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Presidente da Colômbia promete combate sem tréguas contra narcotráfico",
+      "link": "https://www.rtp.pt/noticias/mundo/presidente-da-colombia-promete-combate-sem-treguas-contra-narcotrafico_v1758453",
+      "pubDate": "Sat, 08 Aug 2026 23:01:47 +0100",
+      "description": "Abelardo De La Espriella tomou posse ontem, depois de vencer a segunda volta das eleições em junho. De La Espriella é um aliado do presidente Donald Trump.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/47/47ad4258dd0640d1a939abc6f4a0657b_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Omã afirma que negociações sobre Ormuz são positivas mas alerta para ataques",
-      "link": "https://www.rtp.pt/noticias/mundo/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-alerta-para-ataques_n1758423",
       "pubDate": "Sat, 08 Aug 2026 22:39:58 +0100",
       "description": "Omã afirmou hoje que as conversações com Teerão sobre a navegação no Estreito de Ormuz são positivas, mas alertou que os ataques contra navios podem afetar as negociações.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
@@ -92,14 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/41/4187ce13125fee405a6359787b25c6b5_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Maiorca na rua contra excessos do turismo",
-      "link": "https://www.rtp.pt/noticias/mundo/maiorca-na-rua-contra-excessos-do-turismo_v1758451",
-      "pubDate": "Sat, 08 Aug 2026 22:31:47 +0100",
-      "description": "Milhares de pessoas protestaram, este sábado, contra os incómodos provocados pelo excesso de turismo na ilha espanhola de Maiorca. Os manifestantes queixam-se da da superlotação dos serviços, do impacto no ambiente e da crise na habitação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f5/f5cff98e4e8b03123674f159591a0061_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Estrela-Sporting, 2-2 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/estrela-sporting-2-2-cronica",
+      "pubDate": "Sat, 8 Aug 2026 22:26:00 +0100",
+      "description": "Quem não gosta de uma boa surpresa a abrir a época?",
+      "thumbnail": "https://img.iol.pt/image/id/6a77922dd34ed0733ba7ee5a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Dínamo Bucareste de Nuno Campos goleia e sobe ao segundo lugar",
+      "link": "https://maisfutebol.iol.pt/internacional/made-in/dinamo-bucareste-de-nuno-campos-goleia-e-sobe-ao-segundo-lugar",
+      "pubDate": "Sat, 8 Aug 2026 21:55:45 +0100",
+      "description": "Triunfo em casa por 4-0 soibre o Voluntari",
+      "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -108,7 +128,7 @@
       "title": "Sporting perde na Áustria e sonho na Liga dos Campeões feminina chega ao fim",
       "link": "https://maisfutebol.iol.pt/sporting/futebol-feminino/sporting-perde-na-austria-e-sonho-na-liga-dos-campeoes-feminina-chega-ao-fim",
       "pubDate": "Sat, 8 Aug 2026 21:53:00 +0100",
-      "description": "Leoas caíram nas grandes penalidades (5-2), diante do St. Polten",
+      "description": "Leoas caíram nas grandes penalidades (4-1), diante do St. Polten",
       "thumbnail": "https://img.iol.pt/image/id/6a778c49d34e511da0b3259a/250"
     },
     {
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 8 Aug 2026 21:04:34 +0100",
       "description": "Jogador deu preferência ao clube francês em vez da Lazio",
       "thumbnail": "https://img.iol.pt/image/id/69ed1274d34edcee7c6376a5/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Fizemos o suficiente para vencer, mas finalização não esteve bem»",
-      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/tiago-margarido-fizemos-o-suficiente-pata-vencer-finalizacao-nao-esteve-bem",
-      "pubDate": "Sat, 8 Aug 2026 20:52:00 +0100",
-      "description": "Tiago Margarido lamenta a falta de asserto no momento de atirar à baliza",
-      "thumbnail": "https://img.iol.pt/image/id/6a777963d34e511da0b3257d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Seabra: «Tivemos de dar as mãos e defender com onze»",
-      "link": "https://maisfutebol.iol.pt/liga/arouca/vasco-seabra-tivemos-de-dar-as-maos-e-defender-com-onze",
-      "pubDate": "Sat, 8 Aug 2026 20:37:32 +0100",
-      "description": "Técnico destaca a capacidade de união da sua equipa",
-      "thumbnail": "https://img.iol.pt/image/id/6a777963d34e511da0b3257f/250"
     },
     {
       "sourceId": "sapo",
@@ -195,11 +195,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Exames nacionais: \"número residual\" de reapreciações continua por enviar às escolas",
-      "link": "https://sapo.pt/artigo/exames-nacionais-numero-residual-de-reapreciacoes-continua-por-enviar-as-escolas-6a7790f3371d60cfe8486b5f",
-      "pubDate": "Sat, 08 Aug 2026 20:29:40 +0000",
-      "description": "Os resultados dos mais de 20 mil pedidos de reapreciação deveriam ter sido enviados às escolas durante a manhã de sexta-feira. Questionado pela Lusa, o MECI garante que \"nenhum aluno será impedido de apresentar candidatura à 1.a fase do Concurso...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7lsdQ2jTjzXkxytb%2FUshX8CrU8TxaQ9ua8IA6se5k%2FC7cG7XD0tsPMsrPY77%2B8Dfn3L8XgMWvuRoH8UMTLSfu1%2BTQmWDAu9RvS%2BpYxM1EFW8NLG%2FHQY7vUdXmJ6gcjlG"
+      "title": "Morreu escritor, advogado e ex-deputado socialista Joaquim Sarmento",
+      "link": "https://sapo.pt/artigo/morreu-escritor-advogado-e-ex-deputado-socialista-joaquim-sarmento-6a777ed3371d60cfe844f93f",
+      "pubDate": "Sat, 08 Aug 2026 19:34:14 +0000",
+      "description": "Joaquim Sarmento fez carreira política nas fileiras do PS, tendo sido eleito deputado à Assembleia da República, pelo distrito de Viseu, em dois mandatos, que cumpriu de 1995 a 2002. De acordo com fonte da família, as cerimónias fúnebres...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=516&W=917&crop=center&delay_optim=1&epic=V2%3Ap6ouZYF1XQIqX0Og7pxbiIhUluL647SLb7gfx3wEUH23%2BOcokOYDO4FbQurfS5H57xejcI8IbpuPeDhggEkK%2FFYxZylHVZp5ofGs%2FHMQJMzHp9%2F5K8n3bXAwv6n5d2vP"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Estrela anula efeito de Zalazar e trava Sporting no arranque da I Liga",
+      "link": "https://www.noticiasaominuto.com/desporto/3034069/estrela-anula-efeito-de-zalazar-e-trava-sporting-no-arranque-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 22:22:47",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77979715431.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
@@ -240,16 +250,6 @@
       "pubDate": "2026-08-08 21:34:49",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_52b13f7f2ade8.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "O que se passou aqui? Esta asneirada de Rivas ditou derrota do Vitória SC",
-      "link": "https://www.noticiasaominuto.com/desporto/3034035/o-que-se-passou-aqui-esta-asneirada-de-rivas-ditou-derrota-do-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 21:29:17",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77918f38d4d.webp"
     },
     {
       "sourceId": "pplware",
