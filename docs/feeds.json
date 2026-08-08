@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T07:44:46.648284+00:00",
+  "updated": "2026-08-08T08:35:20.143233+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Três mortos em ataque russo contra Kiev",
+      "link": "https://observador.pt/liveblogs/tres-mortos-em-ataque-russo-contra-kiev/",
+      "pubDate": "Sat, 08 Aug 2026 09:29:39 +0100",
+      "description": "A Rússia lançou mais ataques noturnos contra Kiev, matando três pessoas, incluindo uma criança de três anos. Há registo de sete feridos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08092135/ataque-russo-kiev-8-de-agosto.jpeg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2434/",
+      "pubDate": "Sat, 08 Aug 2026 09:14:23 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
+      "title": "8h. PS questiona sobre risco de caducidade nas barragens",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2481/",
       "pubDate": "Sat, 08 Aug 2026 08:15:41 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O PS quer saber se há risco de caducarem 335 milhões em impostos das barragens da EDP. Miguel Costa Matos questiona o Governo sobre o atraso no fundo para as populações locais.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "7h. Seguro envia \"Lei do Retorno\" ao Constitucional",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2468/",
-      "pubDate": "Sat, 08 Aug 2026 07:14:42 +0100",
-      "description": "O Presidente António José Seguro enviou a lei do retorno ao Constitucional por dúvidas sobre a detenção de imigrantes. Deu luz verde à prestação social única, mas avisa: ninguém pode ser prejudicado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Apenas seis dos 82 migrantes que morreram na travessia para Ceuta foram identificados",
+      "link": "https://www.rtp.pt/noticias/mundo/apenas-seis-dos-82-migrantes-que-morreram-na-travessia-para-ceuta-foram-identificados_n1758347",
+      "pubDate": "Sat, 08 Aug 2026 10:19:08 +0100",
+      "description": "Os médicos alertam agora para uma &quot;catástrofe assistencial&quot; e pedem uma resposta de Madrid.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f7936333654ef041669541246403b2d?w=350&amp;q=50&amp;rect=0,13,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "6h. Sporting estreia-se hoje no campeonato frente ao Estrela",
-      "link": "https://observador.pt/programas/noticiario/6h-sporting-estreia-se-hoje-no-campeonato-frente-ao-estrela/",
-      "pubDate": "Sat, 08 Aug 2026 06:15:47 +0100",
-      "description": "Rui Borges fala numa deslocação complicada. Pepa garante foco na equipa. Ainda, Luís Neves esteve envolvido na decisão de avançar com as auditorias à Polícia Judiciária.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fogo rural em Fornos de Algodres dominado",
+      "link": "https://www.rtp.pt/noticias/pais/fogo-rural-em-fornos-de-algodres-dominado_n1758346",
+      "pubDate": "Sat, 08 Aug 2026 10:06:14 +0100",
+      "description": "O incêndio rural em Fornos de Algodres, no distrito da Guarda, que deflagrou na tarde de sexta-feira, foi dado hoje como dominado, disse à agência Lusa fonte da proteção civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Kiev ataca sul e sudoeste da Rússia com 400 drones e danifica duas refinarias",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-ataca-sul-e-sudoeste-da-russia-com-400-drones-e-danifica-duas-refinarias_n1758345",
+      "pubDate": "Sat, 08 Aug 2026 10:03:36 +0100",
+      "description": "A Ucrânia atacou durante a madrugada de hoje duas refinarias no sul e sudoeste da Rússia, no âmbito de um ataque com cerca de 400 drones, informaram as autoridades locais e meios de comunicação independentes.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Zelensky agradece ao Senado dos EUA aprovação de sanções contra Rússia e Irão",
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-agradece-ao-senado-dos-eua-aprovacao-de-sancoes-contra-russia-e-irao_n1758328",
-      "pubDate": "Sat, 08 Aug 2026 09:32:30 +0100",
-      "description": "O Presidente ucraniano, Volodymyr Zelensky, agradeceu esta sexta-feira ao Senado dos EUA a aprovação de um projeto de lei para impor sanções mais duras à Rússia e ao Irão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f988a237fdeab7b4a9376b8f70918509?w=350&amp;q=50&amp;rect=0,44,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Agora é a doer: os onzes prováveis para o Estrela-Sporting",
+      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/agora-e-a-doer-os-onzes-provaveis-para-o-estrela-sporting",
+      "pubDate": "Sat, 8 Aug 2026 09:15:00 +0100",
+      "description": "Maxi Araújo, castigado, é a grande baixa dos leões",
+      "thumbnail": "https://img.iol.pt/image/id/69dab649d34edcee7c62ed52/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "OpenAI pausa novo modelo de IA por risco \"crítico\" de cibersegurança",
-      "link": "https://www.rtp.pt/noticias/pais/openai-pausa-novo-modelo-de-ia-por-risco-critico-de-ciberseguranca_n1758323",
-      "pubDate": "Sat, 08 Aug 2026 09:24:25 +0100",
-      "description": "A empresa tecnológica norte-americana OpenAI anunciou hoje ter pausado o desenvolvimento de um novo modelo de Inteligência Artificial (IA), o Astra, após avaliações determinarem risco &quot;crítico&quot; de cibersegurança.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee2fe8a7c0a5ef31ddf8ade6f3a64fee?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Vítimas de `nudes` criadas com IA mudam de escola para escapar ao `bullying`",
-      "link": "https://www.rtp.pt/noticias/lusa/vitimas-de-nudes-criadas-com-ia-mudam-de-escola-para-escapar-ao-bullying_n1758332",
-      "pubDate": "Sat, 08 Aug 2026 09:21:56 +0100",
-      "description": "Adolescentes vítimas de `nudes` criados por colegas com Inteligência Artificial (IA) e partilhados nas redes sociais estão a mudar de escola para escapar ao `bullying`, lamentou a Associação Portuguesa de Apoio à Vítima (APAV).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d4157e32b920d0d147d782bfd476dcc?w=350&amp;q=50&amp;rect=0,40,1000,548&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/agenda/liga/hoje-vai-ser-noticia-178617600",
+      "pubDate": "Sat, 8 Aug 2026 09:00:00 +0100",
+      "description": "A estreia do Sporting na Liga. Mas há muito mais para acompanhar neste sábado",
+      "thumbnail": "https://img.iol.pt/image/id/692c9a98d34e3caad84be079/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,124 +152,114 @@
       "thumbnail": "https://img.iol.pt/image/id/6a766653d34ed0733ba7ed42/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Carvalhal: «Acho que acertámos em cheio na contratação do Koutsias»",
-      "link": "https://maisfutebol.iol.pt/famalicao/liga/carlos-carvalhal-acho-que-acertamos-em-cheio-na-contratacao-do-koutsias",
-      "pubDate": "Fri, 7 Aug 2026 23:41:00 +0100",
-      "description": "A análise do treinador do Famalicão ao empate no Estoril (1-1), na ronda inaugural da Liga 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a7643e4d34e511da0b32427/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Matos: «Jogámos contra uma grande equipa e não permitimos quase nada»",
-      "link": "https://maisfutebol.iol.pt/estoril/liga/vasco-matos-jogamos-contra-uma-grande-equipa-e-nao-permitimos-quase-nada",
-      "pubDate": "Fri, 7 Aug 2026 23:38:40 +0100",
-      "description": "A análise do treinador do Estoril depois do empate com o Famalicão (1-1) no primeiro jogo da Liga 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a74860bd34ed0733ba7e90c/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Volta muda hábitos e é o “ganha-pão” de Ricardo",
+      "link": "https://executivedigest.sapo.pt/volta-muda-habitos-e-e-o-ganha-pao-de-ricardo/",
+      "pubDate": "Sat, 08 Aug 2026 07:59:22 +0000",
+      "description": "O sistema Volta de depósito e reembolso (SDR) está a mudar vidas e hábitos de muitas pessoas, algumas a arrecadar 20 euros por dia. Ricardo Silva chama-lhe o seu \"ganha-pão\", que já foi de 50 euros diários.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Azx5sCtmTOwffaQ2jQ3kaOambMklPHlK%2B2uUzArnIXlEqkY0tDQwvlZfwIq5Sm7az388eUNfkOpYvXhX%2BaIaMPCEYoHeIXjlKPRnLez3TLYcBXIrODGadad22lyp%2BFTPs"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Auditoria à PJ foi pedida pelo atual diretor. Ministério da Justiça não esclarece prazos",
-      "link": "https://eco.sapo.pt/2026/08/07/auditoria-a-pj-foi-pedida-pelo-atual-diretor-ministerio-da-justica-nao-esclarece-prazos/",
-      "pubDate": "Fri, 07 Aug 2026 20:13:38 +0000",
-      "description": "Auditoria vai centrar-se em contratos e obras públicas entre janeiro de 2018 e julho de 2026. Abrange final de mandato do antecessor de Neves, Almeida Rodrigues, e primeiros meses de Carlos Cabreiro.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3APtyg3Xal8Rci97C4iuzFJz0v9VrUezY3Fj71Es1t%2B6rzoOAbsZ64uWIx8KEhJWF9DdM5q1IQZr7ep5Anq3kci61w09UdC6GLXy5HmtG18irk0VzNdJrc0H%2BcJx%2BeSymi"
+      "title": "Ucrânia: Kiev ataca sul e sudoeste da Rússia com 400 drones e danifica duas refinarias",
+      "link": "https://executivedigest.sapo.pt/ucrania-kiev-ataca-sul-e-sudoeste-da-russia-com-400-drones-e-danifica-duas-refinarias/",
+      "pubDate": "Sat, 08 Aug 2026 08:11:15 +0000",
+      "description": "A Ucrânia atacou durante a madrugada de hoje duas refinarias no sul e sudoeste da Rússia, no âmbito de um ataque com cerca de 400 drones, informaram as autoridades locais e meios de comunicação independentes.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A1onLE91dre1ndtTd%2B0iloM9SK%2B4xVNIEsR9XzgpxXoEdiinZzTYN1FCZ8Zio1zPxG4cY74OUZjrf%2Bxjz1mpljYdvIBD4s%2FIbmVsl6omLwBWEf7f1y%2FO1%2BaKrcEWv7Att"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Migrações: Médicos pedem intervenção urgente em Ceuta de Ministério da Saúde espanhol",
-      "link": "https://executivedigest.sapo.pt/migracoes-medicos-pedem-intervencao-urgente-em-ceuta-de-ministerio-da-saude-espanhol/",
-      "pubDate": "Fri, 07 Aug 2026 22:40:55 +0000",
-      "description": "O Colégio Oficial de Médicos de Ceuta (COMCE) solicitou hoje ao Ministério da Saúde espanhol a intervenção \"urgente\", perante uma situação de \"catástrofe assistencial\" que a cidade atravessa como consequência da crise migratória.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AmtgwpAyt1HLQV%2FAlvdqw%2BXRUHBSSM3up6xm2P39WD42br%2FJIIqtlbqs%2BccZCLksIU6ukkq2K12H7O7MMyZOyTdnsGIb1m5hd8AQG07K8hiUxbBRaumy90w6l7nfjlfTa"
+      "title": "Filho de Joe Biden revela que cancro do pai está espalhado: “É extremamente doloroso e debilitante”",
+      "link": "https://sapo.pt/artigo/filho-de-joe-biden-revela-que-cancro-do-pai-esta-espalhado-e-extremamente-doloroso-e-debilitante-6a766eb6371d60cfe81930af",
+      "pubDate": "Sat, 08 Aug 2026 07:59:22 +0000",
+      "description": "Em entrevista à BBC, Hunter Biden faz novas revelações sobre o estado de saúde do pai, Joe Biden, que em 2025 foi diagnosticado com um cancro da próstata em estado avançado.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AzIiMR55mgEZ2qgA2OLLD87hJ6zzo8Jn3%2F8UCr5OskBOt2YaOeAn4P5lnJoEUd9DsLWyPmhuu5T59FN52eLe45ToER875iv9wDL%2F088jU40gYUZ8M9X8Em2DLox64JHjG"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Homem de 64 anos morre a banhos em praia de Esposende",
-      "link": "https://sapo.pt/artigo/homem-de-64-anos-morre-a-banhos-em-praia-de-esposende-6a765e120c6041370097c916",
-      "pubDate": "Fri, 07 Aug 2026 22:40:55 +0000",
-      "description": "As causas da morte do homem, \"enquanto se encontrava a banhos\", são para já desconhecidas, explicou a Autoridade Marítima Nacional.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=550&W=977&crop=center&delay_optim=1&epic=V2%3ADJpDZY6Svab98EkQ7ruKu33jX6ChS9W4pP7%2F6k3mu0npl8%2BFt0Mkt6pgzfpAnYKLaDL1vp5dzCAoAvWtTfxgMCPhswj7xuyn7mELfQZDDPD1p1jEmJ90Nl9UNX45H6oB"
+      "title": "Embaixada russa em Berlim chama ‘drone’ em Leipzig “provocação fabricada”",
+      "link": "https://executivedigest.sapo.pt/embaixada-russa-em-berlim-chama-drone-em-leipzig-provocacao-fabricada/",
+      "pubDate": "Sat, 08 Aug 2026 07:59:22 +0000",
+      "description": "A embaixada russa em Berlim alegou que a descoberta de um drone com um suposto engenho explosivo no aeroporto de Leipzig-Halle constitui \"uma provocação fabricada\" para acusar Moscovo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Aw%2BmPZM%2FnjPwYkPeGqyCpTe1K6DYmR%2FG%2F0YxbWFYQ7hsjOAaNqbJyQSyNZ0LhqhV2mwT4hqbLJLoNdSFs5VYup%2BQSB2ItuGtJmIj4opEuxcE1zogRk589jF9XmYYobheX"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Heranças indivisas: Presidente da República promulga decreto que autoriza Governo a aprovar regime",
-      "link": "https://sapo.pt/artigo/herancas-indivisas-presidente-da-republica-promulga-decreto-que-autoriza-governo-a-aprovar-regime-6a76354cd6b4b04ddd60b0eb",
-      "pubDate": "Fri, 07 Aug 2026 20:13:38 +0000",
-      "description": "O diploma autoriza o executivo de Luís Montenegro a criar um processo especial de venda dos imóveis indivisos e a alterar o Código Civil e o Código de Processo Civil. O Governo tem 180 dias para o fazer.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AcnnwtCybr4s82QdP31n4R4FMfAoSVe1pbq2XMW%2BOZU7N7BXD0MX%2Badp5Qy0tgei3t9I0Rpd38XuyATB7KJO%2F6clYyb7a7mN%2F9wWx5HwMPcqVDnQAOmAS6Sdla5fAPTZy"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ministra afasta ameaça ao Parque de Sintra-Cascais",
-      "link": "https://sapo.pt/artigo/ministra-afasta-ameaca-ao-parque-de-sintra-cascais-6a76598f0c60413700972eaa",
-      "pubDate": "Fri, 07 Aug 2026 22:20:38 +0000",
-      "description": "Maria da Graça Carvalho reagiu ao alerta da associação Finis Terrae, que denuncia que a revisão do PDM de Sintra prevê a extinção do parque natural para \"fazer cidade\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A5QuSTlBouYcKleDT6Rf5P1kYQcU7W3aqU2ewL5nXQes3UVD47KRM89hwQzW6e8Z3hAQhnTz4rH9LwvicuCspB57vJ4cam6pK7nb8Ck2V9308jlDw2Nye0byfvkKk66n9"
+      "title": "Incêndios de Fornos de Algodres dominados, mais de 60 concelhos do país em perigo máximo",
+      "link": "https://sapo.pt/artigo/incendios-de-fornos-de-algodres-dominados-mais-de-60-concelhos-do-pais-em-perigo-maximo-6a76e014d6b4b04ddd75bad2",
+      "pubDate": "Sat, 08 Aug 2026 08:11:15 +0000",
+      "description": "Depois de uma noite marcada pelo combate às chamas em Fornos de Algodres, as atenções viram-se agora para o risco de novos incêndios. Mais de 60 concelhos do interior Norte e Centro e do Algarve estão este sábado em perigo máximo, num dia em que...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ApO1JGlFT31d1tEKFmm2QhKzMBOqX%2Fynn7cIdYS%2FQZHbzwVY71nU5rLy6Md9rafxIw447q2QB7plde7Uw6Zt2ERSFZsSwflqxrgqa1UodIIEW0cJncAA2rL15qYQlALMS"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lá fora: Estreia de Bernardo Silva pelo Real e Liverpool contrata defesa",
-      "link": "https://www.noticiasaominuto.com/desporto/3033856/la-fora-estreia-de-bernardo-silva-pelo-real-e-liverpool-contrata-defesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 08:30:51",
+      "title": "Rúben Rodrigues afirma-se na Volta a Portugal e olha à camisola branca",
+      "link": "https://www.noticiasaominuto.com/desporto/3033872/ruben-rodrigues-afirma-se-na-volta-a-portugal-e-olha-a-camisola-branca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 09:31:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76d55feaf7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzAsImNyb3BIZWlnaHQiOjUyMywiY3JvcFgiOjAsImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzMwLCJjcm9wSGVpZ2h0IjoxMjk3LCJjcm9wWCI6MTEyLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47579497.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NCwiY3JvcEhlaWdodCI6MTY3OCwiY3JvcFgiOjk0NSwiY3JvcFkiOjV9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sistema Volta muda hábitos e é o \"ganha-pão\" de Ricardo",
-      "link": "https://www.noticiasaominuto.com/pais/3033852/volta-muda-habitos-e-e-o-ganha-pao-de-ricardo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 08:19:01",
+      "title": "Calema e Diogo Piçarra cabeças de cartaz na Feira do Ano",
+      "link": "https://www.noticiasaominuto.com/cultura/3033873/calema-e-diogo-picarra-cabecas-de-cartaz-na-feira-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 09:26:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cf9d5e6bd2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NTk5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MTAsImNyb3BIZWlnaHQiOjEyNjMsImNyb3BYIjoxNjksImNyb3BZIjo4N319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47487188.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0MTIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sistema Volta já recuperou 150 milhões de embalagens desde abril",
-      "link": "https://www.noticiasaominuto.com/economia/3033851/sistema-volta-ja-recuperou-150-milhoes-de-embalagens-desde-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 08:18:09",
+      "title": "IA pode ser o \"maior fator de aumento de produtividade da década\"",
+      "link": "https://www.noticiasaominuto.com/tech/3033868/ia-pode-ser-o-maior-fator-de-aumento-de-produtividade-da-decada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 09:23:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d3b6d283913.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjI4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NTksImNyb3BIZWlnaHQiOjEzNTAsImNyb3BYIjoxNTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_656717a381e0c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6LTEsImNyb3BZIjoyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODEwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6NzYzLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Entrevista Seat/Cupra, parte 1: \"Este é o ponto forte face aos chineses\"",
-      "link": "https://www.noticiasaominuto.com/auto/3028376/entrevista-seatcupra-parte-1-este-e-o-ponto-forte-face-aos-chineses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 08:15:54",
+      "title": "Analistas: Irão pensa ter encurralado EUA, mas estratégia envolve riscos",
+      "link": "https://www.noticiasaominuto.com/mundo/3033867/analistas-irao-pensa-ter-encurralado-eua-mas-estrategia-envolve-riscos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 09:20:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6863cfb75f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzgxLCJjcm9wWSI6MzQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDQ3LCJjcm9wSGVpZ2h0IjoxODYyLCJjcm9wWCI6ODU0LCJjcm9wWSI6Mjh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_569ac08b65c7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MDg2LCJjcm9wSGVpZ2h0IjoyODYxLCJjcm9wWCI6LTMsImNyb3BZIjo5OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTg2OCwiY3JvcEhlaWdodCI6MzMyMCwiY3JvcFgiOjE0MjksImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 60 concelhos do país em perigo máximo de incêndio",
-      "link": "https://www.noticiasaominuto.com/pais/3033849/mais-de-60-concelhos-do-pais-em-perigo-maximo-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 08:14:49",
+      "title": "Fogo rural em Fornos de Algodres dominado , diz Proteção Civil",
+      "link": "https://www.noticiasaominuto.com/pais/3033860/fogo-rural-em-fornos-de-algodres-dominado-diz-protecao-civil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 09:14:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6ef4aed414f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjU0NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e9bde6378d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQxNiwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Meta lança o Muse Code para competir com a OpenAI e a Anthropic em programação",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/meta-lanca-o-muse-code-para-destruir-a-openai-e-a-anthropic-em-programacao/",
+      "pubDate": "Sat, 08 Aug 2026 08:00:10 +0000",
+      "description": "A Meta acaba de apresentar o Muse Code, o seu primeiro agente de IA focado em programação, com o objetivo claro de rivalizar diretamente com as propostas da OpenAI e da Anthropic. O novo&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/muse_code_meta-1.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/bigstock-Concept-Of-Cyber-Security-Inf-434929940-1024x576-1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "“Donut” da OpenAI poderá ser o próximo grande passo do ChatGPT",
-      "link": "https://pplware.sapo.pt/gadgets/donut-da-openai-podera-ser-o-proximo-grande-passo-do-chatgpt/",
-      "pubDate": "Fri, 07 Aug 2026 19:30:55 +0000",
-      "description": "A OpenAI continua a preparar a sua entrada no mercado do hardware e, ao que tudo indica, fá-lo-á com um dispositivo inteligente diferente do habitual. Conforme avançado pela Bloomberg, o novo dispositivo será a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/chatgpt-1-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Lamborghini Revuelto SV recordista no Hockenheim",
+      "link": "https://www.autosport.pt/automais/lamborghini-revuelto-sv-recordista-no-hockenheim/",
+      "pubDate": "Sat, 08 Aug 2026 08:20:00 +0000",
+      "description": "Por Pedro Junceiro Antes da estreia mundial marcada para o próximo dia 14, durante a Semana do Automóvel de Monterey, na Califórnia, EUA, o Lamborghini Revuelto SV estabeleceu a volta mais rápida alguma vez registada por um automóvel de produção em série no circuito de Hockenheim, na Alemanha. Este ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/ralis/wrc-oliver-solberg-quer-continuar-a-viver-o-sonho/",
       "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
       "description": "Numa época de altos e baixos, que se iniciou com a espetacular com a vitória no Rali de Monte Carlo, mas que contou também com alguns erros comprometedores, Oliver Solberg, acredita que tem feito o suficiente para se manter na Toyota e assinar um novo contrato. Segundo declarações dadas ao RallyJour",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC: Oito pilotos multados pela polícia no Rali da Finlândia",
-      "link": "https://www.autosport.pt/ralis/wrc-oito-pilotos-multados-pela-policia-no-rali-da-finlandia/",
-      "pubDate": "Fri, 07 Aug 2026 13:15:00 +0000",
-      "description": "Os pilotos de ralis são conhecidos pelo seu talento, coragem e capacidade de lidar com situações a alta velocidade. A velocidades mais baixas, parecem ter mais dificuldades, até para cumprir as regras de trânsito. Oito pilotos do Campeonato do Mundo de Ralis foram apanhados a cometer infrações de tr",
       "thumbnail": ""
     }
   ]
