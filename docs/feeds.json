@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T04:34:06.639968+00:00",
+  "updated": "2026-08-08T05:39:35.966500+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Sporting estreia-se hoje no campeonato frente ao Estrela",
+      "link": "https://observador.pt/programas/noticiario/6h-sporting-estreia-se-hoje-no-campeonato-frente-ao-estrela/",
+      "pubDate": "Sat, 08 Aug 2026 06:15:47 +0100",
+      "description": "Rui Borges fala numa deslocação complicada. Pepa garante foco na equipa. Ainda, Luís Neves esteve envolvido na decisão de avançar com as auditorias à Polícia Judiciária.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Canções para o Eclipse",
+      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-o-eclipse/",
+      "pubDate": "Sat, 08 Aug 2026 06:04:24 +0100",
+      "description": "Como soa o dia a escurecer? Do ecletismo dos Talking Heads e Yeah Yeah Yeahs à voz mística de Né Ladeiras e ao clássico dos Pink Floyd, desenhamos a banda sonora ideal para o eclipse.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,7 +35,7 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Governo articula auditorias à PJ com Luís Neves",
+      "title": "3h. Governo articulou auditorias à PJ com Luís Neves",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2399/",
       "pubDate": "Sat, 08 Aug 2026 03:14:30 +0100",
       "description": "Investigações fazem parte da estratégia do Executivo para afastar suspeitas de proteção política e retirar força à CPI do Chega. Ainda nesta edição, Estoril e Famalicão abrem a época a empatar.",
@@ -30,26 +50,6 @@
       "pubDate": "Sat, 08 Aug 2026 02:14:47 +0100",
       "description": "Decisão surge após Roma recusar levantar restrições a viajantes de Espanha, após a crise migratória em Ceuta. Ainda, PCP diz que decisão de Seguro sobre lei do retorno não é surpresa.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Operacionais combatem incêndio em Fornos de Algodres",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2346/",
-      "pubDate": "Sat, 08 Aug 2026 01:14:32 +0100",
-      "description": "Fogo tem apenas uma frente ativa. Chamas chegaram a aproximar-se das localidades de Vila Chã e Muxagata. Ainda neste jornal, Presidente da República remete lei do retorno para o Constitucional.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Finalmente um questionário de Verão!",
-      "link": "https://observador.pt/opiniao/finalmente-um-questionario-de-verao/",
-      "pubDate": "Sat, 08 Aug 2026 00:25:33 +0100",
-      "description": "A ironia disto é que ainda não vou de férias. Prometo voltar para a semana com novas e profundas reflexões, mas não tão novas nem tão profundas quanto as de hoje.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png"
     },
     {
       "sourceId": "rtp",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Esta mulher tem o cabelo mais comprido do mundo (não o corta desde 2015)",
-      "link": "https://www.noticiasaominuto.com/mundo/3033795/esta-mulher-tem-o-cabelo-mais-comprido-do-mundo-nao-o-corta-desde-2015#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 00:00:20",
+      "title": "ONU: Guerra no Iémen corre maior risco de reativação desde 2022",
+      "link": "https://www.noticiasaominuto.com/mundo/3033800/onu-guerra-no-iemen-corre-maior-risco-de-reativacao-desde-2022#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 06:37:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a766261c63b7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60437bf338af7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Gabinete de Segurança israelita pede que ataques em Gaza sejam retomados",
-      "link": "https://www.noticiasaominuto.com/mundo/3033794/gabinete-de-seguranca-israelita-pede-retomar-de-ataques-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 23:55:11",
+      "title": "China entrega segunda doação de 5 mil painéis solares a Cuba",
+      "link": "https://www.noticiasaominuto.com/mundo/3033810/china-entrega-segunda-doacao-de-5-mil-paineis-solares-a-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 06:35:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a766251026d9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY2LCJjcm9wSGVpZ2h0IjoxMzg3LCJjcm9wWCI6MjYsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo4MjAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60728daf7f819.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6NTMzLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Esta obra está (tudo menos) embargada: O que se passa com o MAI? E a DST?",
-      "link": "https://www.noticiasaominuto.com/pais/3033785/esta-obra-esta-tudo-menos-embargada-o-que-se-passa-com-o-mai-e-a-dst#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 23:51:12",
+      "title": "Ex-fuzileiro dos EUA detido na Rússia desde 2022 em risco de vida",
+      "link": "https://www.noticiasaominuto.com/mundo/3033802/ex-fuzileiro-dos-eua-detido-na-russia-desde-2022-em-risco-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 06:33:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7657cd46683.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY5LCJjcm9wSGVpZ2h0IjoxMzg5LCJjcm9wWCI6MCwiY3JvcFkiOjMxMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODAxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a835d74c43e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eleito em junho, Trump apoiou-o e advogado: Colômbia tem novo presidente",
-      "link": "https://www.noticiasaominuto.com/mundo/3033793/eleito-em-junho-trump-apoio-o-e-e-advogado-colombia-tem-novo-presidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 23:48:12",
+      "title": "Embaixada russa em Berlim chama drone em Leipzig \"provocação fabricada\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3033803/embaixada-russa-em-berlim-chama-drone-em-leipzig-provocacao-fabricada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 06:31:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7660adf2354.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA0LCJjcm9wSGVpZ2h0IjoxNDA5LCJjcm9wWCI6MzEsImNyb3BZIjo4NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6Nzk1LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76bf4a3dd2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg5MSwiY3JvcEhlaWdodCI6MTU4NCwiY3JvcFgiOjk5NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3033339/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-07 23:38:32",
+      "title": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo'",
+      "link": "https://www.noticiasaominuto.com/cultura/3033805/milhares-vibram-no-algarve-ao-som-de-kanye-west-ye-no-topo-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 06:24:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a757b55beee4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjUsImNyb3BZIjozMTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76bd9b655f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgxMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
