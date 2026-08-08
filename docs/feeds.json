@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T16:27:52.916732+00:00",
+  "updated": "2026-08-08T17:03:04.509234+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -15,8 +15,8 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Bebé gravemente ferido depois de cair de quarto andar",
-      "link": "https://observador.pt/2026/08/08/bebe-de-22-meses-gravemente-ferido-depois-de-cair-de-quarto-andar-nas-caldas-da-rainha/",
+      "title": "Bebé de 22 meses morre depois de cair de quarto andar",
+      "link": "https://observador.pt/2026/08/08/bebe-de-22-meses-que-caiu-de-um-quarto-andar-nas-caldas-da-rainha-morre-no-hospital/",
       "pubDate": "Sat, 08 Aug 2026 16:39:31 +0100",
       "description": "O bebé estava em casa com duas irmãs mais velhas e o alerta foi dado ao fim da manhã deste sábado por um popular após ter encontrado a criança deitada no chão.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08185814/46348857.jpg"
@@ -55,51 +55,91 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "Vitória de Guimarães - Arouca",
+      "link": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-arouca_e1758413",
+      "pubDate": "Sat, 08 Aug 2026 18:46:55 +0100",
+      "description": "Registo em direto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/03e24b9826f46682a27c291c28f18760?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Felix Gall conquista Volta a Burgos",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/felix-gall-conquista-volta-a-burgos_d1758419",
+      "pubDate": "Sat, 08 Aug 2026 18:45:47 +0100",
+      "description": "O austríaco Felix Gall (Decathlon AG2R La Mondiale) venceu a Volta a Burgos, em Espanha, segurando a liderança na quinta e derradeira etapa, arrebatada pelo italiano Giulio Pellizzari.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/10cc6c9f9b35fc437bce64e8a29acd6a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mais de centena e meia de operacionais e oito meios aéreos combatem chamas em Carrazeda de Ansiães",
+      "link": "https://www.rtp.pt/noticias/pais/mais-de-centena-e-meia-de-operacionais-e-oito-meios-aereos-combatem-chamas-em-carrazeda-de-ansiaes_n1758412",
+      "pubDate": "Sat, 08 Aug 2026 18:44:33 +0100",
+      "description": "Quase 170 operacionais e oito meios aéreos combatem hoje à tarde um incêndio em mato em Linhares, no concelho de Carrazeda de Ansiães, indicou a Proteção Civil, avançando que o fogo lavra numa zona de difícil acesso.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f36757edae5497ab33134eaa1dc4428?w=350&amp;q=50&amp;rect=0,0,1249,685&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bebé de 22 meses que caiu de um 4.º andar nas Caldas da Rainha morre no hospital",
+      "link": "https://www.rtp.pt/noticias/pais/bebe-de-22-meses-que-caiu-de-um-4o-andar-nas-caldas-da-rainha-morre-no-hospital_n1758417",
+      "pubDate": "Sat, 08 Aug 2026 18:41:26 +0100",
+      "description": "O bebé de 22 meses que hoje caiu de um quarto andar nas Caldas da Rainha morreu no Hospital de Santa Maria, em Lisboa, disse à Lusa fonte do estabelecimento de saúde.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "Em encontro com Zelensky. Presidente sérvio nega exportação de armamento para Kiev",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/presidente-servio-nega-exportacao-de-armamento-para-kiev_n1758410",
+      "link": "https://www.rtp.pt/noticias/mundo/em-encontro-com-zelensky-presidente-servio-nega-exportacao-de-armamento-para-kiev_n1758410",
       "pubDate": "Sat, 08 Aug 2026 18:18:15 +0100",
       "description": "Aleksandar Vucic, o novo presidente da Sérvia, é um populista e nacionalista pró-russo.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b49c1862477aa93296a6f27a8ab1477f?w=350&amp;q=50&amp;rect=0,11,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Incêndio em Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-incendio-em-carrazeda-de-ansiaes_a1_1758416",
-      "pubDate": "Sat, 08 Aug 2026 18:16:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Cabarao Cup: Nuno Espírito Santo avança, Vítor Matos é eliminado",
+      "link": "https://maisfutebol.iol.pt/inglaterra/made-in/cabarao-cup-nuno-espirito-santo-avanca-vitor-matos-e-eliminado",
+      "pubDate": "Sat, 8 Aug 2026 17:58:34 +0100",
+      "description": "Treinadores portugueses com sortes diferentes na Taça da Liga de Inglaterra",
+      "thumbnail": "https://img.iol.pt/image/id/6a775da1d34e511da0b32550/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portimonense triunfa em Penafiel",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/portimonense-triunfa-em-penafiel_d1758415",
-      "pubDate": "Sat, 08 Aug 2026 18:15:07 +0100",
-      "description": "O Portimonense entrou a ganhar na edição 2026/27 da II Liga, ao vencer em Penafiel por 1-0, num jogo decidido por Mamede e marcado pelos oito minutos gastos em revisões do vídeoárbitro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/62e688fd279c69f9020f719504104ddb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Marítimo-Casa Pia, 1-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-casa-pia-1-0-cronica",
+      "pubDate": "Sat, 8 Aug 2026 17:56:55 +0100",
+      "description": "Segunda parte frenética dá triunfo ao Marítimo",
+      "thumbnail": "https://img.iol.pt/image/id/6a7755bbd34ed0733ba7edfb/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Marco Silva: \"Jogar à porta fechada não resolve problemas\"",
-      "link": "https://www.rtp.pt/noticias/benfica/marco-silva-jogar-a-porta-fechada-nao-resolve-problemas_d1758414",
-      "pubDate": "Sat, 08 Aug 2026 18:11:48 +0100",
-      "description": "O treinador do Benfica, Marco Silva, advertiu que jogar à porta fechada não resolve os problemas do futebol e admitiu que a força da equipa “será diferente” frente ao Académico de Viseu.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/26/26d8b3232bc93a14b8d6c30b8b0a724b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Sergi Roberto é reforço do LA Galaxy",
+      "link": "https://maisfutebol.iol.pt/transferencias/la-galaxy/oficial-sergi-roberto-e-reforco-do-la-galaxy",
+      "pubDate": "Sat, 8 Aug 2026 17:33:00 +0100",
+      "description": "Ex-Barcelona deixa o Como e assina por duas épocas, com mais uma de opção",
+      "thumbnail": "https://img.iol.pt/image/id/65f46f7fd34e87e0c08ac89e/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais do que um navio de luxo. Naufrágio bizantino ao largo da Croácia revela tesouro",
-      "link": "https://www.rtp.pt/noticias/cultura/mais-do-que-um-navio-de-luxo-naufragio-bizantino-ao-largo-da-croacia-revela-tesouro_n1758272",
-      "pubDate": "Sat, 08 Aug 2026 17:55:14 +0100",
-      "description": "Um naufrágio bizantino com cerca de 1.300 anos, descoberto ao largo da ilha croata de Mljet, poderá ter transportado um alto dignitário do Império Bizantino. A hipótese ganhou força entre os arqueólogos após a descoberta de um anel de sinete em ouro com a imagem de um imperador e de um conjunto exce",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c8/c877266da555d5f162ab04ae58bf81fe?w=350&amp;q=50&amp;rect=0,16,1370,751&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Multidão concentra-se na Sé do Funchal e a família Aveiro diverte-se",
+      "link": "https://maisfutebol.iol.pt/mf-social/casamento/multidao-concentra-se-na-se-do-funchal-e-a-familia-aveiro-diverte-se",
+      "pubDate": "Sat, 8 Aug 2026 17:23:00 +0100",
+      "description": "Houve de facto um casamento na catedral este sábado, mas era de outro casal",
+      "thumbnail": "https://img.iol.pt/image/id/6a775606d34e511da0b3253c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 8 Aug 2026 17:22:26 +0100",
       "description": "Treinador da formação da Madeira fez a antevisão à estreia na Liga frente ao Santa Clara",
       "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting: Diomande reforça o Nottingham Forest por 40 milhões",
-      "link": "https://maisfutebol.iol.pt/sporting/diomande/sporting-diomande-reforca-o-nottingham-forest-por-40-milhoes",
-      "pubDate": "Sat, 8 Aug 2026 17:10:00 +0100",
-      "description": "Central viaja este domingo para Inglaterra para cumprir todas as formalidades",
-      "thumbnail": "https://img.iol.pt/image/id/6973c7c3d34e92a34497eeee/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Silaidopoulos: «Somos ambiciosos e queremos construir uma equipa forte»",
-      "link": "https://maisfutebol.iol.pt/liga/sotiris-silaidopoulos/silaidopoulos-somos-ambiciosos-e-queremos-construir-uma-equipa-forte",
-      "pubDate": "Sat, 8 Aug 2026 17:07:32 +0100",
-      "description": "Treinador do Rio Ave fez a antevisão à estreia na Liga frente ao Gil Vicente",
-      "thumbnail": "https://img.iol.pt/image/id/6a02349bd34e28842c83e7c3/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Botelho da Costa admite que o «grande objetivo» é a manutenção",
-      "link": "https://maisfutebol.iol.pt/moreirense/sp-braga/vasco-botelho-da-costa-admite-que-o-grande-objetivo-e-a-manutencao",
-      "pubDate": "Sat, 8 Aug 2026 16:58:00 +0100",
-      "description": "Treinador do Moreirense antevê receção ao Sp. Braga na primeira jornada",
-      "thumbnail": "https://img.iol.pt/image/id/692b233cd34e2bd5c6d49381/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Alex Costa estreia-se no Portimonense com vitória em Penafiel",
-      "link": "https://maisfutebol.iol.pt/ii-liga/penafiel/video-alex-costa-estreia-se-no-portimonense-com-vitoria-em-penafiel",
-      "pubDate": "Sat, 8 Aug 2026 16:46:00 +0100",
-      "description": "Golo solitário de Tiago Mamede valeu a conquista dos primeiros três pontos para a equipa algarvia",
-      "thumbnail": "https://img.iol.pt/image/id/6a774bf1d34e511da0b3252a/250"
     },
     {
       "sourceId": "sapo",
@@ -185,11 +185,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Bebé ferido com gravidade após cair de terceiro andar nas Caldas da Rainha",
-      "link": "https://sapo.pt/artigo/bebe-ferido-com-gravidade-apos-cair-de-terceiro-andar-nas-caldas-da-rainha-6a773828d6b4b04ddd897b99",
-      "pubDate": "Sat, 08 Aug 2026 15:12:13 +0000",
-      "description": "A criança sofreu ferimentos graves e teve de ser transportada de helicóptero para o Hospital de Santa Maria, em Lisboa. No local estiveram meios dos bombeiros das Caldas da Rainha e uma viatura médica de emergência e reanimação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ASBmLneNSgSpmeXDG7HP%2FyhQV0oRGVEuF0vhC%2F1mkXuvafM0q2itY75Y1fmYpsFj36c44gWE3EhySstrBglBQVrZVFuzUwxxZYO3K%2B02oV5P4Nlq%2F2JlEpgZNs718cZw1"
+      "title": "Bebé de 22 meses que caiu de um 4º andar nas Caldas da Rainha morre no hospital",
+      "link": "https://executivedigest.sapo.pt/bebe-de-22-meses-que-caiu-de-um-4o-andar-nas-caldas-da-rainha-morre-no-hospital/",
+      "pubDate": "Sat, 08 Aug 2026 16:19:50 +0000",
+      "description": "O bebé de 22 meses que hoje caiu de um quarto andar nas Caldas da Rainha morreu no Hospital de Santa Maria, em Lisboa, disse à Lusa fonte do estabelecimento de saúde.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ARupjbHnDAgPTS3rh4DfvAgDo2ORxR9eI3sISEzcUsF9seZ7d8nqjJ85t0tJ1GYKAjFjN98GUKfXqA7OzyCtGROoUd15%2BrU7cc%2FQovRqE9JgXvStJngUEN5peXpEz%2BBZI"
     },
     {
       "sourceId": "sapo",
@@ -200,6 +200,36 @@
       "pubDate": "Sat, 08 Aug 2026 15:19:40 +0000",
       "description": "Hunter Biden recebeu um indulto do pai em dezembro de 2024. Admite privilégio e que o perdão penalizou o legado do pai. Revela ainda que o cancro de Joe Biden \"se espalhou\".",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Anp2H0j3TpSyl7f6unhwSTrW2DvQpmNuN5MyLqP39g2SJmdx49KRM3y1lom3AiNF%2BvzeQdqPVlUyWAWoGD9%2FJ%2FXj0%2FcfUzqqzTQIo0sKTo5U1hbZgNG0vk28Rzc9psBGO"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "João Gião pede Nacional com \"mentalidade certa\" para vencer Santa Clara",
+      "link": "https://www.noticiasaominuto.com/desporto/3034003/joao-giao-pede-nacional-com-mentalidade-certa-para-vencer-santa-clara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 17:34:24",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a775a6acbf7a.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Marítimo vence no regresso à I Liga. Segue-se o Vitória-Arouca",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 17:30:41",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7759923415e.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Marítimo abate Casa Pia e festeja vitória (e trono) no regresso à I Liga",
+      "link": "https://www.noticiasaominuto.com/desporto/3034005/maritimo-abate-casa-pia-e-festeja-vitoria-e-trono-no-regresso-a-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 17:27:50",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7758e2c8d21.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjAsImNyb3BIZWlnaHQiOjQ4NCwiY3JvcFgiOjAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67deeb489d20c.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Quase 170 operacionais combatem chamas em Carrazeda de Ansiães",
-      "link": "https://www.noticiasaominuto.com/pais/3033999/quase-170-operacionais-combatem-chamas-em-carrazeda-de-ansiaes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 16:49:17",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e958e92f3c3.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Portimonense foi mais eficaz e venceu em Penafiel",
-      "link": "https://www.noticiasaominuto.com/desporto/3033998/portimonense-foi-mais-eficaz-e-venceu-em-penafiel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 16:46:22",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a774f1e724ff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjAsImNyb3BIZWlnaHQiOjQ4NCwiY3JvcFgiOjAsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Presidente sérvio nega exportação de armamento para Kyiv",
-      "link": "https://www.noticiasaominuto.com/mundo/3033996/presidente-servio-nega-exportacao-de-armamento-para-kyiv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 16:46:08",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47581078.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Isenção de IMT na compra da primeira casa! 112 mil jovens beneficiaram",
+      "link": "https://pplware.sapo.pt/informacao/isencao-de-imt-na-compra-da-primeira-casa-112-mil-jovens-beneficiaram/",
+      "pubDate": "Sat, 08 Aug 2026 17:00:35 +0000",
+      "description": "Comprar a primeira casa continua a ser um dos maiores desafios para os jovens em Portugal. Ainda assim, os apoios criados pelo Estado começam a ter um impacto significativo. Até ao final de junho&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/comprar_casa_imt00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 13:00:51 +0000",
       "description": "O Edge, browser da Microsoft, está prestes a seguir os passos do Google Chrome e a encerrar o suporte para extensões baseadas no ecossistema Manifest V2. Esta transição irá inutilizar ad blockers populares, o&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/microsoft_edge_android-scaled.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Europa vai desafiar Elon Musk e a Starlink com a sua rede de satélites",
-      "link": "https://pplware.sapo.pt/internet/europa-vai-desafiar-elon-musk-e-a-starlink-com-a-sua-rede-de-satelites/",
-      "pubDate": "Sat, 08 Aug 2026 12:00:09 +0000",
-      "description": "A Europa deu o passo que faltava para garantir a sua soberania no espaço e tem um plano definitivo para a rede IRIS². O projeto entra agora na etapa de implantação real, após a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/iris2_1.jpg"
     },
     {
       "sourceId": "autosport",
