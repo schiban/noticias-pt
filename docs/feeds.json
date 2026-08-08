@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-08T05:39:35.966500+00:00",
+  "updated": "2026-08-08T06:43:43.681365+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2468/",
+      "pubDate": "Sat, 08 Aug 2026 07:14:42 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Espanha restabelece controlos fronteiriços com Itália",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2373/",
-      "pubDate": "Sat, 08 Aug 2026 02:14:47 +0100",
-      "description": "Decisão surge após Roma recusar levantar restrições a viajantes de Espanha, após a crise migratória em Ceuta. Ainda, PCP diz que decisão de Seguro sobre lei do retorno não é surpresa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "PS quer que Governo esclareça se há risco de impostos da venda barragens da EDP caducarem",
+      "link": "https://www.rtp.pt/noticias/economia/ps-quer-que-governo-esclareca-se-ha-risco-de-impostos-da-venda-barragens-da-edp-caducarem_n1758337",
+      "pubDate": "Sat, 08 Aug 2026 08:36:52 +0100",
+      "description": "O PS quer que o Governo esclareça se a Autoridade Tributária (AT) o informou sobre o risco de caducidade da cobrança de impostos associados à venda de seis barragens da EDP, considerando incompreensível caso estes acabem por não ser pagos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3e10c8eb0440007b927841d7434f05c?w=350&amp;q=50&amp;rect=0,589,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Sat, 08 Aug 2026 00:55:36 +0100",
       "description": "O Gabinete de Segurança de Israel, liderado pelo primeiro-ministro Benjamin Netanyahu, pediu na sua última sessão que se retomem os ataques aéreos em Gaza, interrompidos há quatro dias, informaram hoje os media israelitas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Abelardo de la Espriella investido Presidente da Colômbia",
-      "link": "https://www.rtp.pt/noticias/mundo/abelardo-de-la-espriella-investido-presidente-da-colombia_n1758316",
-      "pubDate": "Sat, 08 Aug 2026 00:52:35 +0100",
-      "description": "O advogado de extrema-direita Abelardo de la Espriella tomou hoje posse como Presidente da Colômbia para o período 2026-2030, numa cerimónia de investidura realizada num auditório universitário na cidade de Cali (oeste).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e78ab6b5ba63b759f7431f7b6f1ffeaa?w=350&amp;q=50&amp;rect=0,20,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU: Guerra no Iémen corre maior risco de reativação desde 2022",
-      "link": "https://www.noticiasaominuto.com/mundo/3033800/onu-guerra-no-iemen-corre-maior-risco-de-reativacao-desde-2022#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 06:37:58",
+      "title": "Hoje é notícia: Juízes recusam julgar caso; Carteirista condenado",
+      "link": "https://www.noticiasaominuto.com/pais/3033841/hoje-e-noticia-juizes-recusam-julgar-caso-carteirista-condenado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 07:38:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60437bf338af7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76ceaab119f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NzUsImNyb3BIZWlnaHQiOjU0OCwiY3JvcFgiOjAsImNyb3BZIjo2NDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY2MywiY3JvcEhlaWdodCI6MTE3OCwiY3JvcFgiOjAsImNyb3BZIjoxMH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "China entrega segunda doação de 5 mil painéis solares a Cuba",
-      "link": "https://www.noticiasaominuto.com/mundo/3033810/china-entrega-segunda-doacao-de-5-mil-paineis-solares-a-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 06:35:55",
+      "title": "Porta fechada? Tubarões ignoram Diogo Costa e FC Porto respira de alívio",
+      "link": "https://www.noticiasaominuto.com/desporto/3033842/porta-fechada-tubaroes-ignoram-diogo-costa-e-fc-porto-respira-de-alivio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 07:31:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60728daf7f819.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6NTMzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76c8d5e1669.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODYsImNyb3BYIjo1NTUsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ex-fuzileiro dos EUA detido na Rússia desde 2022 em risco de vida",
-      "link": "https://www.noticiasaominuto.com/mundo/3033802/ex-fuzileiro-dos-eua-detido-na-russia-desde-2022-em-risco-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 06:33:47",
+      "title": "Eclipse solar é \"experiência sensorial\", diz astrónoma",
+      "link": "https://www.noticiasaominuto.com/tech/3033840/eclipse-solar-e-experiencia-sensorial-diz-astronoma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 07:24:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a835d74c43e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7371193af02.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc0MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Embaixada russa em Berlim chama drone em Leipzig \"provocação fabricada\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3033803/embaixada-russa-em-berlim-chama-drone-em-leipzig-provocacao-fabricada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 06:31:49",
+      "title": "Jovem de 18 anos detido por condução perigosa no concelho de Paredes",
+      "link": "https://www.noticiasaominuto.com/pais/3033839/jovem-de-18-anos-detido-por-conducao-perigosa-no-concelho-de-paredes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 07:15:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76bf4a3dd2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg5MSwiY3JvcEhlaWdodCI6MTU4NCwiY3JvcFgiOjk5NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a0daf8a5fddc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyODQsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo'",
-      "link": "https://www.noticiasaominuto.com/cultura/3033805/milhares-vibram-no-algarve-ao-som-de-kanye-west-ye-no-topo-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 06:24:39",
+      "title": "\"Trubin nunca me impressionou. Samuel Soares? Não há que ter medo\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3033536/trubin-nunca-me-impressionou-samuel-soares-nao-ha-que-ter-medo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 07:13:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76bd9b655f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgxMCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75d63fdbbcf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzE2LCJjcm9wSGVpZ2h0Ijo5NjUsImNyb3BYIjowLCJjcm9wWSI6MTQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NjIsImNyb3BIZWlnaHQiOjExNzgsImNyb3BYIjo1MTgsImNyb3BZIjo4fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google quer humilhar o design do Apple Watch com o Pixel Watch 5",
+      "link": "https://pplware.sapo.pt/google/google-quer-humilhar-o-design-do-apple-watch-com-o-pixel-watch-5/",
+      "pubDate": "Sat, 08 Aug 2026 06:00:24 +0000",
+      "description": "O mercado dos smartwatches volta a aquecer a poucos dias do evento anual da Google, agendado para 12 de agosto. A gigante das pesquisas decidiu antecipar o lançamento dos seus novos produtos com uma&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/google_pixel_watch_5_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 07 Aug 2026 19:00:11 +0000",
       "description": "The Defiant é um FPS narrativo que coloca os jogadores na pele de combatentes chineses durante a Guerra de Resistência, um capítulo da Segunda Guerra Mundial raramente explorado pelos videojogos. Venham saber mais. A&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/TheDefiant_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apophis: nenhum dos seus antepassados viu este asteroide. Você poderá vê-lo",
-      "link": "https://pplware.sapo.pt/ciencia/apophis-vai-ser-a-primeira-pessoa-na-sua-linha-de-familia-a-ver-o-que-nenhum-ser-humano-viu/",
-      "pubDate": "Fri, 07 Aug 2026 17:49:19 +0000",
-      "description": "No dia 13 de abril de 2029, o céu poderá oferecer um espetáculo que nenhuma geração alguma vez viveu. Pela primeira e única vez, a humanidade poderá observar o asteroide Apophis a olho nu&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/apophis_00-1.webp"
     },
     {
       "sourceId": "autosport",
