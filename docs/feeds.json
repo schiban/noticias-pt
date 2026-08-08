@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-07T23:57:11.549622+00:00",
+  "updated": "2026-08-08T01:43:26.835785+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Espanha restabelece controlos fronteiriços com Itália",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2373/",
+      "pubDate": "Sat, 08 Aug 2026 02:14:47 +0100",
+      "description": "Decisão surge após Roma recusar levantar restrições a viajantes de Espanha, após a crise migratória em Ceuta. Ainda, PCP diz que decisão de Seguro sobre lei do retorno não é surpresa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Operacionais combatem incêndio em Fornos de Algodres",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2346/",
+      "pubDate": "Sat, 08 Aug 2026 01:14:32 +0100",
+      "description": "Fogo tem apenas uma frente ativa. Chamas chegaram a aproximar-se das localidades de Vila Chã e Muxagata. Ainda neste jornal, Presidente da República remete lei do retorno para o Constitucional.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -30,26 +50,6 @@
       "pubDate": "Sat, 08 Aug 2026 00:22:12 +0100",
       "description": "Annelise Camp afogou-se no final de maio e, enquanto tentava recuperar das lesões, a família levou o hospital pediátrico que a tratava a tribunal para garantir que a criança \"tivesse mais tempo\".",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1689:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08000021/gettyimages-2238840882.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O Cónego Jeremias e o Chega",
-      "link": "https://observador.pt/opiniao/o-conego-jeremias-e-o-chega/",
-      "pubDate": "Sat, 08 Aug 2026 00:21:29 +0100",
-      "description": "Ainda a propósito do artigo “Padre do Opus Dei defende voto em Ventura” (Sábado, 18-1-2021)",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2340%3A2340%3Anowe%3A128%3A631%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpadre-goncalo-almada.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Crianças em perigo",
-      "link": "https://observador.pt/opiniao/criancas-em-perigo/",
-      "pubDate": "Sat, 08 Aug 2026 00:20:24 +0100",
-      "description": "Em vez de tentar evitar tudo o que pode acontecer às suas crianças, os adultos deviam ocupar-se mais com aquilo que lhes acontece.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2313%3A2313%3Anowe%3A872%3A15%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151127%2Fjporfirio-retratos-redacao-2026-01-67-scaled.jpg"
     },
     {
       "sourceId": "rtp",
@@ -86,7 +86,7 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Gabinete de Segurança israelita pede retoma de ataques em Gaza",
-      "link": "https://www.rtp.pt/noticias/mundo/gabinete-de-seguranca-israelita-pede-retoma-de-ataques-em-gaza_n1758317",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/gabinete-de-seguranca-israelita-pede-retoma-de-ataques-em-gaza_n1758317",
       "pubDate": "Sat, 08 Aug 2026 00:55:36 +0100",
       "description": "O Gabinete de Segurança de Israel, liderado pelo primeiro-ministro Benjamin Netanyahu, pediu na sua última sessão que se retomem os ataques aéreos em Gaza, interrompidos há quatro dias, informaram hoje os media israelitas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
