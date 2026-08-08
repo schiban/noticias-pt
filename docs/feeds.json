@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-08T17:03:04.509234+00:00",
+  "updated": "2026-08-08T17:56:09.858519+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rui Oliveira segura 'amarela' após terceira etapa",
+      "link": "https://observador.pt/2026/08/08/rui-oliveira-segura-amarela-apos-terceira-etapa-vencida-por-linarez/",
+      "pubDate": "Sat, 08 Aug 2026 18:35:01 +0100",
+      "description": "O venezuelano Leangel Linarez cronometrou 04:21,42 horas, deixando o companheiro de equipa João Matias, e Tomas Contte, da Aviludo-Louletano-Loulé, nas segunda e terceira posições, respetivamente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08180227/47579328.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ceuta não sabe quantos menores entraram no território",
+      "link": "https://observador.pt/2026/08/08/ceuta-faz-recontagem-por-nao-saber-com-exatidao-quantos-menores-entraram-no-territorio/",
+      "pubDate": "Sat, 08 Aug 2026 18:34:37 +0100",
+      "description": "De acordo com o presidente da Cidade Autónoma de Ceuta, Javier Vivas, a cidade gere atualmente a presença no seu território de cerca de 1.300 menores, mas reconheceu que não dispõe de um número exato.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08182759/47565160.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 18h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2115/",
+      "pubDate": "Sat, 08 Aug 2026 18:15:12 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,92 +52,92 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08185814/46348857.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo em Carrazeda de Ansiães mobiliza mais de 160 bombeiros",
-      "link": "https://observador.pt/2026/08/08/fogo-em-carrazeda-de-ansiaes-mobiliza-mais-de-160-bombeiros-e-oito-meios-aereos/",
-      "pubDate": "Sat, 08 Aug 2026 16:38:28 +0100",
-      "description": "Um incêndio em Linhares, Carrazeda de Ansiães, teve início na tarde de sábado e mobiliza oito meios aéreos. Proteção Civil indica ainda um fogo ativo em Silves. Fornos de Algodres está em resolução.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1138:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100038/gco-incendio-vouzela-4-julho-2026-011.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PSD e PS trocam acusações sobre turismo nos Açores",
-      "link": "https://observador.pt/2026/08/08/psd-acores-e-ps-trocam-acusacoes-sobre-evolucao-turistica-das-ilhas-apos-saida-da-raynair/",
-      "pubDate": "Sat, 08 Aug 2026 16:38:03 +0100",
-      "description": "PSD/Açores acusa PS de assumir \"uma posição contraditória\" sobre a evolução do turismo na Região. Setor deve apostar na criação de valor e \"não ficar refém de um único indicador estatístico\", defende.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/03/10173733/airport-ponta-delgada.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pai e agente de Lionel Messi morre aos 68 anos",
-      "link": "https://observador.pt/2026/08/08/pai-e-agente-de-lionel-messi-morre-aos-68-anos/",
-      "pubDate": "Sat, 08 Aug 2026 16:19:22 +0100",
-      "description": "Jorge Messi, pai e empresário do jogador argentino Lionel Messi, morreu esta madrugada num hospital em Rosário, Argentina, aos 68 anos, vítima de doença prolongada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08161521/47488814.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga: João Gião pede Nacional com “mentalidade certa” para vencer Santa Clara",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-joao-giao-pede-nacional-com-mentalidade-certa-para-vencer-santa-clara_d1758426",
+      "pubDate": "Sat, 08 Aug 2026 19:42:45 +0100",
+      "description": "O treinador do Nacional, João Gião, pediu hoje aos jogadores que adotem uma atitude competitiva na partida de segunda-feira frente ao Santa Clara, da jornada inaugural da I Liga portuguesa de futebol, nos Açores.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Vitória de Guimarães - Arouca",
-      "link": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-arouca_e1758413",
-      "pubDate": "Sat, 08 Aug 2026 18:46:55 +0100",
-      "description": "Registo em direto dos principais lances desta partida da 1.ª jornada da I Liga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/03e24b9826f46682a27c291c28f18760?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Jorge Martín domina ‘sprint race’ do GP da Grã-Bretanha",
+      "link": "https://www.rtp.pt/noticias/motores/jorge-martin-domina-sprint-race-do-gp-da-gra-bretanha_d1758424",
+      "pubDate": "Sat, 08 Aug 2026 19:20:58 +0100",
+      "description": "O espanhol Jorge Martín (Aprilia) venceu de forma categórica a corrida ‘sprint’ do Grande Prémio da Grã-Bretanha de MotoGP, em Silverstone, 12.ª ronda da temporada, reforçando a liderança do campeonato.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/35/3554109bb029008f37abd1616b655166?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Felix Gall conquista Volta a Burgos",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/felix-gall-conquista-volta-a-burgos_d1758419",
-      "pubDate": "Sat, 08 Aug 2026 18:45:47 +0100",
-      "description": "O austríaco Felix Gall (Decathlon AG2R La Mondiale) venceu a Volta a Burgos, em Espanha, segurando a liderança na quinta e derradeira etapa, arrebatada pelo italiano Giulio Pellizzari.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/10cc6c9f9b35fc437bce64e8a29acd6a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de centena e meia de operacionais e oito meios aéreos combatem chamas em Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/pais/mais-de-centena-e-meia-de-operacionais-e-oito-meios-aereos-combatem-chamas-em-carrazeda-de-ansiaes_n1758412",
-      "pubDate": "Sat, 08 Aug 2026 18:44:33 +0100",
-      "description": "Quase 170 operacionais e oito meios aéreos combatem hoje à tarde um incêndio em mato em Linhares, no concelho de Carrazeda de Ansiães, indicou a Proteção Civil, avançando que o fogo lavra numa zona de difícil acesso.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f36757edae5497ab33134eaa1dc4428?w=350&amp;q=50&amp;rect=0,0,1249,685&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Bebé de 22 meses que caiu de um 4.º andar nas Caldas da Rainha morre no hospital",
-      "link": "https://www.rtp.pt/noticias/pais/bebe-de-22-meses-que-caiu-de-um-4o-andar-nas-caldas-da-rainha-morre-no-hospital_n1758417",
-      "pubDate": "Sat, 08 Aug 2026 18:41:26 +0100",
-      "description": "O bebé de 22 meses que hoje caiu de um quarto andar nas Caldas da Rainha morreu no Hospital de Santa Maria, em Lisboa, disse à Lusa fonte do estabelecimento de saúde.",
+      "title": "Polícia moçambicana aponta excesso de velocidade em acidente com sete mortos em Manica",
+      "link": "https://www.rtp.pt/noticias/mundo/policia-mocambicana-aponta-excesso-de-velocidade-em-acidente-com-sete-mortos-em-manica_n1758411",
+      "pubDate": "Sat, 08 Aug 2026 19:16:09 +0100",
+      "description": "As autoridades policiais apontaram hoje o excesso de velocidade e a falta de sinalização de um camião avariado como causas de um acidente que matou sete pessoas e feriu outras 10 na província de Manica, centro de Moçambique.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Em encontro com Zelensky. Presidente sérvio nega exportação de armamento para Kiev",
-      "link": "https://www.rtp.pt/noticias/mundo/em-encontro-com-zelensky-presidente-servio-nega-exportacao-de-armamento-para-kiev_n1758410",
-      "pubDate": "Sat, 08 Aug 2026 18:18:15 +0100",
-      "description": "Aleksandar Vucic, o novo presidente da Sérvia, é um populista e nacionalista pró-russo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b49c1862477aa93296a6f27a8ab1477f?w=350&amp;q=50&amp;rect=0,11,1500,822&amp;auto=format"
+      "title": "Arábia Saudita, Jordânia e Bahrein condenam ataque a petroleiro no Estreito de Ormuz",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/arabia-saudita-jordania-e-bahrein-condenam-ataque-a-petroleiro-no-estreito-de-ormuz_n1758402",
+      "pubDate": "Sat, 08 Aug 2026 19:15:23 +0100",
+      "description": "A Arábia Saudita, a Jordânia e o Bahrein condenaram hoje o ataque do Irão a um petroleiro dos Emirados Árabes Unidos que transitava pelo Estreito de Ormuz, classificando-o como inaceitável e uma violação do direito internacional.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Linarez primeiro em Elvas, Rui Oliveira mantém amarela",
+      "link": "https://www.rtp.pt/noticias/ciclismo/linarez-primeiro-em-elvas-rui-oliveira-mantem-amarela_d1758422",
+      "pubDate": "Sat, 08 Aug 2026 19:14:11 +0100",
+      "description": "O ciclista Leangel Linarez (Tavfer-Ovos Matinados-Mortágua) foi hoje o mais rápido na terceira etapa da Volta a Portugal, com uma chegada ao sprint, após a qual Rui Oliveira (UAE Emirates), quinto, manteve a camisola amarela.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/91/91ffeb67d127cc1c2d9c1a7ee6903f0e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Cabarao Cup: Nuno Espírito Santo avança, Vítor Matos é eliminado",
+      "title": "Ruben Amorim avisa jogadores: «Próxima semana vai ser de decisões»",
+      "link": "https://maisfutebol.iol.pt/internacional/ruben-amorim/ruben-amorim-avisa-jogadores-proxima-semana-vai-ser-de-decisoes",
+      "pubDate": "Sat, 8 Aug 2026 18:49:00 +0100",
+      "description": "Treinador diz que está na altura de encurtar o plantel",
+      "thumbnail": "https://img.iol.pt/image/id/6a7742cdd34e511da0b3251f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Volta: Linarez vence etapa escaldante marcada para queda aparatosa",
+      "link": "https://maisfutebol.iol.pt/volta-a-portugal/modalidades/volta-linarez-vence-etapa-escaldante-marcada-para-queda-aparatosa",
+      "pubDate": "Sat, 8 Aug 2026 18:23:00 +0100",
+      "description": "Rui Oliveira terminou no quinto lugar e mantém a camisola amarela",
+      "thumbnail": "https://img.iol.pt/image/id/6a775ffad34ed0733ba7ee0f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Luís Pinto: «A base que construímos na pré-época tem de aparecer agora»",
+      "link": "https://maisfutebol.iol.pt/gil-vicente/rio-ave/luis-pinto-a-base-que-construimos-na-pre-epoca-tem-de-aparecer-agora",
+      "pubDate": "Sat, 8 Aug 2026 18:23:00 +0100",
+      "description": "Treinador do Gil Vicente admite aproveitar trabalho deixado por César Peixoto, mas sublinha querer imprimir a «própria identidade» na equipa",
+      "thumbnail": "https://img.iol.pt/image/id/6a36bd04d34edcee7c6583f6/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Taça da Liga Inglesa: Nuno Espírito Santo avança, Vítor Matos é eliminado",
       "link": "https://maisfutebol.iol.pt/inglaterra/made-in/cabarao-cup-nuno-espirito-santo-avanca-vitor-matos-e-eliminado",
-      "pubDate": "Sat, 8 Aug 2026 17:58:34 +0100",
+      "pubDate": "Sat, 8 Aug 2026 17:58:00 +0100",
       "description": "Treinadores portugueses com sortes diferentes na Taça da Liga de Inglaterra",
       "thumbnail": "https://img.iol.pt/image/id/6a775da1d34e511da0b32550/250"
     },
@@ -122,34 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a7755bbd34ed0733ba7edfb/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Sergi Roberto é reforço do LA Galaxy",
-      "link": "https://maisfutebol.iol.pt/transferencias/la-galaxy/oficial-sergi-roberto-e-reforco-do-la-galaxy",
-      "pubDate": "Sat, 8 Aug 2026 17:33:00 +0100",
-      "description": "Ex-Barcelona deixa o Como e assina por duas épocas, com mais uma de opção",
-      "thumbnail": "https://img.iol.pt/image/id/65f46f7fd34e87e0c08ac89e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Multidão concentra-se na Sé do Funchal e a família Aveiro diverte-se",
-      "link": "https://maisfutebol.iol.pt/mf-social/casamento/multidao-concentra-se-na-se-do-funchal-e-a-familia-aveiro-diverte-se",
-      "pubDate": "Sat, 8 Aug 2026 17:23:00 +0100",
-      "description": "Houve de facto um casamento na catedral este sábado, mas era de outro casal",
-      "thumbnail": "https://img.iol.pt/image/id/6a775606d34e511da0b3253c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "João Gião: «Espero um Nacional competitivo e com a mentalidade certa»",
-      "link": "https://maisfutebol.iol.pt/liga/joao-giao/joao-giao-espero-um-nacional-competitivo-e-com-a-mentalidade-certa",
-      "pubDate": "Sat, 8 Aug 2026 17:22:26 +0100",
-      "description": "Treinador da formação da Madeira fez a antevisão à estreia na Liga frente ao Santa Clara",
-      "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Presidente do Irão diz que o país enfrenta \"guerra total\" e apela à união da população",
+      "link": "https://sapo.pt/artigo/presidente-do-irao-diz-que-o-pais-enfrenta-guerra-total-e-apela-a-uniao-da-populacao-6a776198d6b4b04ddd91afac",
+      "pubDate": "Sat, 08 Aug 2026 17:17:55 +0000",
+      "description": "Masoud Pezeshkian diz que “divergências, divisões e conflitos internos” fragilizam um país e apela à coesão para fazer face à guerra com os EUA",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7xGyPre7j%2BB94UBlJJFCczw768fBZFbbR1MOOynvKpOcU5qofqsb1AHRn1WkZZSpjhauc%2B%2FS6lS5r%2Bu8r9UIrzdUoeLKQlpnZWDKKEbYL8xC5RiV5mjhmPPH71S6eFi8"
     },
     {
       "sourceId": "sapo",
@@ -160,16 +170,6 @@
       "pubDate": "Sat, 08 Aug 2026 15:05:31 +0000",
       "description": "“As razões estão todas explicadas na fundamentação que enviei [ao Tribunal Constitucional]\", disse o chefe de estado.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Ara%2Fq4oj0xlzhcvyeU%2BL0M8JOlpZ3x8IUKdfxzDH5TnFzDC3wnkBfCNQ9KQMxgNJt1E%2FLkSrtQZVHCtIOkeBOFgepYWXixcojjo2Fpv%2B91F%2Bm8pSqptvgLgk7UuskSfkn"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "ONU denuncia aumento de execuções no Irão e uso da pena de morte para “incutir medo” e reprimir dissidência",
-      "link": "https://sapo.pt/artigo/onu-denuncia-aumento-de-execucoes-no-irao-e-uso-da-pena-de-morte-para-incutir-medo-e-reprimir-dissidencia-6a772fe10c60413700bb960f",
-      "pubDate": "Sat, 08 Aug 2026 15:19:40 +0000",
-      "description": "Pelo menos 56 pessoas terão sido executadas por acusações relacionadas com a segurança nacional desde março. Outro relatório alerta para situação das minorias étnicas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AzL0xXJd7Lu7jKqvx6J4%2FI0pypHlNTfRbDqWi5yyBikap2SV7HYog4x%2BuYLOIkt55kXPYjRRpVsqX1Q6lHI2jBaH9OEt3tz%2Bp%2FmtLgbM9Mqxxn1yE9o%2FmIuu5rKxAZjQD"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "João Gião pede Nacional com \"mentalidade certa\" para vencer Santa Clara",
-      "link": "https://www.noticiasaominuto.com/desporto/3034003/joao-giao-pede-nacional-com-mentalidade-certa-para-vencer-santa-clara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 17:34:24",
+      "title": "PJ investiga morte de 2 idosos na Trofa. Homem matou a mulher",
+      "link": "https://www.noticiasaominuto.com/pais/3034021/pj-investiga-morte-de-2-idosos-na-trofa-homem-matou-a-mulher#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 18:47:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a775a6acbf7a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5e87ab2e74846.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Marítimo vence no regresso à I Liga. Segue-se o Vitória-Arouca",
-      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 17:30:41",
+      "title": "APA confirma intervenção \"à revelia\" na Ribeira de Alcolobre e exige restauro",
+      "link": "https://www.noticiasaominuto.com/pais/3034017/apa-confirma-intervencao-a-revelia-na-ribeira-de-alcolobre-e-exige-restauro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 18:46:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7759923415e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60e46f4de7e03.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marítimo abate Casa Pia e festeja vitória (e trono) no regresso à I Liga",
-      "link": "https://www.noticiasaominuto.com/desporto/3034005/maritimo-abate-casa-pia-e-festeja-vitoria-e-trono-no-regresso-a-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 17:27:50",
+      "title": "Omã afirma que negociações sobre Ormuz são positivas (mas deixa alerta)",
+      "link": "https://www.noticiasaominuto.com/mundo/3034019/oma-afirma-que-negociacoes-sobre-ormuz-sao-positivas-mas-deixa-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 18:44:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7758e2c8d21.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjAsImNyb3BIZWlnaHQiOjQ4NCwiY3JvcFgiOjAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4d71e06c28f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Nem vale a pena... Mulheres destes 3 signos ganham sempre as discussões",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3032055/nem-vale-a-pena-mulheres-destes-3-signos-ganham-sempre-as-discussoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 17:23:04",
+      "title": "Coligação de Lula para a reeleição com foco na soberania e segurança",
+      "link": "https://www.noticiasaominuto.com/mundo/3034026/coligacao-de-lula-para-a-reeleicao-com-foco-na-soberania-e-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 18:43:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7200b9dca63.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MzcsImNyb3BZIjo1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODIzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47556077.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Adolescente detido por matar homem a tiro em Camarate. Queria extorqui-lo",
-      "link": "https://www.noticiasaominuto.com/pais/3033997/adolescente-detido-por-matar-homem-a-tiro-em-camarate-queria-extorqui-lo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 17:07:21",
+      "title": "Ceuta faz recontagem por não saber com exatidão quantos menores entraram",
+      "link": "https://www.noticiasaominuto.com/mundo/3034024/ceuta-faz-recontagem-por-nao-saber-com-exatidao-quantos-menores-entraram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 18:32:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67deeb489d20c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47565160.webp"
     },
     {
       "sourceId": "pplware",
