@@ -1,55 +1,95 @@
 {
-  "updated": "2026-08-08T18:34:50.164014+00:00",
+  "updated": "2026-08-08T19:25:50.475173+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 19h",
+      "title": "Homem de 40 anos morre em praia fluvial de Abrantes",
+      "link": "https://observador.pt/2026/08/08/homem-de-40-anos-morre-em-praia-fluvial-de-abrantes/",
+      "pubDate": "Sat, 08 Aug 2026 20:22:52 +0100",
+      "description": "Acidente ocorreu na praia fluvial de Aldeia do Mato. Foi mobilizada a Viatura Médica de Emergência e Reanimação do Hospital de Abrantes mas o homem acabou por morrer no local.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16154533/dventura-inem-2-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PJ ajuda a desmantelar rede de tráfico em Espanha",
+      "link": "https://observador.pt/2026/08/08/policia-judiciaria-ajuda-a-desmantelar-rede-internacional-de-trafico-em-espanha-com-bases-em-portugal/",
+      "pubDate": "Sat, 08 Aug 2026 20:18:32 +0100",
+      "description": "A PJ participou numa \"mega operação internacional\" que deteve 78 pessoas, apreendeu 18 lanchas e desmantelou \"uma das maiores redes de tráfico de pessoas e de estupefacientes em Espanha\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/21133417/43475316.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 20h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2022/",
+      "pubDate": "Sat, 08 Aug 2026 20:12:40 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Leão estreia-se na nova época com deslocação difícil",
+      "link": "https://observador.pt/liveblogs/estrela-da-amadora-sporting-leao-estreia-se-na-nova-epoca-com-deslocacao-dificil-ao-jose-gomes/",
+      "pubDate": "Sat, 08 Aug 2026 19:33:04 +0100",
+      "description": "Terminada a pré-época, o Sporting arranca a época na Amadora, numa altura em que as incertezas em torno do plantel ainda são algumas. Rui Borges lança Fresneda na esquerda. Siga aqui em direto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07144729/47519506.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "19h.  Presidente do Irão diz que enfrenta \"guerra total\"",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2144/",
       "pubDate": "Sat, 08 Aug 2026 19:13:29 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Pezeshkian apontou a subida dos preços, as condições de vida e a situação económica como as principais preocupações do Governo. Ainda, a Ucrânia diz ter atingido 12 navios da frota-fantasma da Rússia.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Um chanceler impopular e a AfD a crescer: Merz perto do fim?",
-      "link": "https://observador.pt/especiais/o-chanceler-mais-impopular-de-sempre-perante-uma-afd-que-nao-para-de-crescer-merz-esta-perto-do-fim/",
-      "pubDate": "Sat, 08 Aug 2026 18:58:56 +0100",
-      "description": "Merz tem taxa de reprovação histórica na Alemanha. Chanceler renovou Governo, mas gerou polémica no Ministério da Saúde. Setores da CDU pedem novo líder e esperam por resultado nas eleições regionais.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07201747/gettyimages-1627766552-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tondela arranca época com vitória",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/tondela-arranca-epoca-com-vitoria_d1758440",
+      "pubDate": "Sat, 08 Aug 2026 21:18:03 +0100",
+      "description": "O Tondela venceu em casa o Amarante por 2-1, após reviravolta no marcador, no jogo que marca o regresso beirão à II Liga, na receção aos campeões da Liga 3, da última época.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/11/11dccd7d71e13fd060db0ef607e7db20?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Rui Oliveira segura 'amarela' após terceira etapa",
-      "link": "https://observador.pt/2026/08/08/rui-oliveira-segura-amarela-apos-terceira-etapa-vencida-por-linarez/",
-      "pubDate": "Sat, 08 Aug 2026 18:35:01 +0100",
-      "description": "O venezuelano Leangel Linarez cronometrou 04:21,42 horas, deixando o companheiro de equipa João Matias, e Tomas Contte, da Aviludo-Louletano-Loulé, nas segunda e terceira posições, respetivamente.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08180227/47579328.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sporting eliminado da ‘Champions’ feminina",
+      "link": "https://www.rtp.pt/noticias/sporting/sporting-eliminado-da-champions-feminina_d1758439",
+      "pubDate": "Sat, 08 Aug 2026 21:14:42 +0100",
+      "description": "O Sporting foi eliminado da Liga dos Campeões feminina, ao perder em casa do St Polten, na Áustria, no desempate por grandes penalidades (4-1), após igualdade 1-1 no tempo extra.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b70fd2e9f5c5048eb3fcb0ee986b1e22?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ceuta não sabe quantos menores entraram no território",
-      "link": "https://observador.pt/2026/08/08/ceuta-faz-recontagem-por-nao-saber-com-exatidao-quantos-menores-entraram-no-territorio/",
-      "pubDate": "Sat, 08 Aug 2026 18:34:37 +0100",
-      "description": "De acordo com o presidente da Cidade Autónoma de Ceuta, Javier Vivas, a cidade gere atualmente a presença no seu território de cerca de 1.300 menores, mas reconheceu que não dispõe de um número exato.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08182759/47565160.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "20h Vento dificulta combate a fogo em Carrazeda de Ansiães",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-vento-dificulta-combate-a-fogo-em-carrazeda-de-ansiaes_a1_1758438",
+      "pubDate": "Sat, 08 Aug 2026 21:14:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 18h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2115/",
-      "pubDate": "Sat, 08 Aug 2026 18:15:12 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Estrela da Amadora - Sporting",
+      "link": "https://www.rtp.pt/noticias/desporto/estrela-da-amadora-sporting_e1758429",
+      "pubDate": "Sat, 08 Aug 2026 20:59:34 +0100",
+      "description": "Relato em direto na Antena 1 e registo minuto-a-minuto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/6216e65d4df17b83acc889145cd87d9a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/65/652fd4d91b667ce7e6d729e1f33d40d8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Senado dos EUA aprova novo pacote de sanções contra a Rússia",
-      "link": "https://www.rtp.pt/noticias/mundo/senado-dos-eua-aprova-novo-pacote-de-sancoes-contra-a-russia_n1758428",
-      "pubDate": "Sat, 08 Aug 2026 20:22:01 +0100",
-      "description": "O pacote permitirá também que Donald Trump imponha taxas até 100% aos cinco principais importadores russos de petróleo e gás.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6d6565e401b6f2a25a31d4add03a6832?w=350&amp;q=50&amp;rect=0,22,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "V. Guimarães-Arouca, 0-1 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/v-guimaraes-arouca-0-1-cronica",
+      "pubDate": "Sat, 8 Aug 2026 20:09:37 +0100",
+      "description": "Uivo letal arouquense desfaz sentido único em Guimarães",
+      "thumbnail": "https://img.iol.pt/image/id/6a777b3fd34ed0733ba7ee39/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Morreu bebé que caiu de 4.º andar nas Caldas da Rainha",
-      "link": "https://www.rtp.pt/noticias/pais/morreu-bebe-que-caiu-de-4o-andar-nas-caldas-da-rainha_v1758433",
-      "pubDate": "Sat, 08 Aug 2026 20:14:47 +0100",
-      "description": "Um bebé de 22 meses, que caiu este sábado de um quarto andar, nas Caldas da Rainha, morreu no hospital de Santa Maria, em Lisboa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e9/e9fbf535dccd42f138784015bbfcd3fa_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Real Madrid vence Ferencvaros na estreia de Bernardo Silva",
+      "link": "https://maisfutebol.iol.pt/real-madrid/internacional/video-real-madrid-vence-ferencvaros-na-estreia-de-bernardo-silva",
+      "pubDate": "Sat, 8 Aug 2026 20:07:31 +0100",
+      "description": "Internacional português saltou do banco ao intervalo em Budapeste",
+      "thumbnail": "https://img.iol.pt/image/id/6a777d8dd34e511da0b32582/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Líder do PS pede avanço da barragem do Pisão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-lider-do-ps-pede-avanco-da-barragem-do-pisao_a1_1758432",
-      "pubDate": "Sat, 08 Aug 2026 20:12:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tiago Apolónia eliminado no Smash da Europa de ténis de mesa",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/tiago-apolonia-eliminado-no-smash-da-europa-de-tenis-de-mesa_d1758427",
-      "pubDate": "Sat, 08 Aug 2026 19:56:30 +0100",
-      "description": "O português Tiago Apolónia foi eliminado na primeira ronda de qualificação do torneio Smash da Europa, em Malmö, na Suécia, ao perder com o esloveno Deni Kozul por 3-1.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c1/c14f5a592b92e70ebe8d3a9c78d0c11b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Palhinha? Estamos em negociações, mas ainda não há acordo»",
+      "link": "https://maisfutebol.iol.pt/internacional/joao-palhinha/palhinha-estamos-em-negociacoes-mas-ainda-nao-ha-acordo",
+      "pubDate": "Sat, 8 Aug 2026 20:06:00 +0100",
+      "description": "Atenção, Benfica: diretor desportivo do Aston Villa confirma interesse no médio português",
+      "thumbnail": "https://img.iol.pt/image/id/6a75e07ed34e511da0b322df/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,36 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a7759add34e511da0b32544/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MotoGP: Jorge Martín vence sprint em Silverstone",
-      "link": "https://maisfutebol.iol.pt/modalidades/moto-gp/motogp-jorge-martin-vence-sprint-em-silverstone",
-      "pubDate": "Sat, 8 Aug 2026 18:59:23 +0100",
-      "description": "Espanhol da Asprilia é ainda mais líder do campeonato",
-      "thumbnail": "https://img.iol.pt/image/id/6a008c2ad34e28842c83d9ee/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Cinco portugueses no empate entre o PSG e o Man. United",
-      "link": "https://maisfutebol.iol.pt/internacional/psg/cinco-portugueses-no-empate-entre-o-psg-e-o-man-united",
-      "pubDate": "Sat, 8 Aug 2026 18:57:00 +0100",
-      "description": "Franceses empataram a uma bola no último teste da pré-temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a776c93d34e511da0b3256b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Filipe Coelho diz que Livolant está sob alçada disciplinar: «Pediu para sair»",
-      "link": "https://maisfutebol.iol.pt/casa-pia/liga/filipe-coelho-diz-que-livolant-esta-sob-alcada-disciplinar-pediu-para-sair",
-      "pubDate": "Sat, 8 Aug 2026 18:53:00 +0100",
-      "description": "A análise do treinador do Casa Pia à derrota em casa do Marítimo (0-1), na ronda inaugural da Liga 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a75f8d0d34e511da0b3232e/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,16 +160,6 @@
       "pubDate": "Sat, 08 Aug 2026 17:17:55 +0000",
       "description": "Masoud Pezeshkian diz que “divergências, divisões e conflitos internos” fragilizam um país e apela à coesão para fazer face à guerra com os EUA",
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7xGyPre7j%2BB94UBlJJFCczw768fBZFbbR1MOOynvKpOcU5qofqsb1AHRn1WkZZSpjhauc%2B%2FS6lS5r%2Bu8r9UIrzdUoeLKQlpnZWDKKEbYL8xC5RiV5mjhmPPH71S6eFi8"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Seguro defende \"combate feroz\" contra a imigração ilegal",
-      "link": "https://sapo.pt/artigo/seguro-defende-combate-feroz-contra-a-imigracao-ilegal-6a77420593e2ef392115c37f",
-      "pubDate": "Sat, 08 Aug 2026 15:05:31 +0000",
-      "description": "“As razões estão todas explicadas na fundamentação que enviei [ao Tribunal Constitucional]\", disse o chefe de estado.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Ara%2Fq4oj0xlzhcvyeU%2BL0M8JOlpZ3x8IUKdfxzDH5TnFzDC3wnkBfCNQ9KQMxgNJt1E%2FLkSrtQZVHCtIOkeBOFgepYWXixcojjo2Fpv%2B91F%2Bm8pSqptvgLgk7UuskSfkn"
     },
     {
       "sourceId": "sapo",
@@ -202,54 +192,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Anp2H0j3TpSyl7f6unhwSTrW2DvQpmNuN5MyLqP39g2SJmdx49KRM3y1lom3AiNF%2BvzeQdqPVlUyWAWoGD9%2FJ%2FXj0%2FcfUzqqzTQIo0sKTo5U1hbZgNG0vk28Rzc9psBGO"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rui Borges promove surpresa total. Os onzes do Estrela-Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3034002/rui-borges-desfaz-duvidas-na-ala-esquerda-os-onzes-do-estrela-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:27:41",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6999faf95fff3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Uma em cada dez casas à venda em Portugal sai do mercado em menos de uma semana",
+      "link": "https://sapo.pt/artigo/uma-em-cada-dez-casas-a-venda-em-portugal-sai-do-mercado-em-menos-de-uma-semana-6a774277d6b4b04ddd8ac88d",
+      "pubDate": "Sat, 08 Aug 2026 15:05:31 +0000",
+      "description": "Na análise por distritos e ilhas, Porto e Madeira ocupam o primeiro lugar (15%) dos imóveis a sair do mercado em menos de sete dias.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ATukhR7XX75eXMBi8NrlAanVxjx8o4ZK%2FBjOPkFewYX0T3rgl89gNgPZG5oJdAKVmAGNGtW0Z6PuwnNKCPtq2fHvr5VDlPZ%2FgZ4sf4cM6IteugcksjGPehBx516Q5YJss"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Espanha e Itália garantiram que fronteiras internas \"são temporárias\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3034033/espanha-e-italia-garantiram-que-fronteiras-internas-sao-temporarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:27:10",
+      "title": "PJ ajuda a desmantelar rede de tráfico em Espanha (com bases em Portugal)",
+      "link": "https://www.noticiasaominuto.com/pais/3034046/pj-ajuda-a-desmantelar-rede-de-trafico-em-espanha-com-bases-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:19:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47572137.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43475316.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYxLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo2MTgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Liga continuará a cumprir lei que centraliza direitos televisivos",
-      "link": "https://www.noticiasaominuto.com/desporto/3034028/liga-continuara-a-cumprir-lei-que-centraliza-direitos-televisivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:04:42",
+      "title": "Homem de 40 anos morre em praia fluvial de Abrantes",
+      "link": "https://www.noticiasaominuto.com/pais/3034038/homem-de-40-anos-morre-em-praia-fluvial-de-abrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:06:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67f9294a83601.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a777e2a14474.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Casamento de Ronaldo e Georgina? Rumores levam multidão à Sé do Funchal",
-      "link": "https://www.noticiasaominuto.com/fama/3034025/casamento-de-ronaldo-e-georgina-rumores-levam-multidao-a-se-do-funchal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:01:32",
+      "title": "Carneiro concorda com Seguro sobre envio de diploma para TC",
+      "link": "https://www.noticiasaominuto.com/politica/3034037/carneiro-concorda-com-seguro-sobre-envio-de-diploma-para-tc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:05:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7768c18512b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OSwiY3JvcEhlaWdodCI6MTcwNSwiY3JvcFgiOjUzNSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6974d7d690d43.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Brownie de água. A sobremesa fit que tem menos de 100 calorias",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3031540/brownie-de-agua-a-sobremesa-fit-que-tem-menos-de-100-calorias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 19:00:32",
+      "title": "Morreu escritor, advogado e ex-deputado socialista Joaquim Sarmento",
+      "link": "https://www.noticiasaominuto.com/politica/3034040/morreu-escritor-advogado-e-ex-deputado-socialista-joaquim-sarmento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 20:03:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a70a6f1b3390.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzIxLCJjcm9wSGVpZ2h0IjoxMzA2LCJjcm9wWCI6MTgxLCJjcm9wWSI6Mjk4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MTcsImNyb3BIZWlnaHQiOjE2MzAsImNyb3BYIjo4ODEsImNyb3BZIjo3OH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5fac60db2eed5.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Vitória SC perde com o Arouca. Segue-se o Estrela-Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 19:58:27",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67e82e690558a.webp"
     },
     {
       "sourceId": "pplware",
