@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-08T06:43:43.681365+00:00",
+  "updated": "2026-08-08T07:44:46.648284+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 7h",
+      "title": "\"Agendódromo\". A investigação que leva Luís Neves a tribunal",
+      "link": "https://observador.pt/2026/08/08/agendodromo-a-operacao-urgente-da-pj-no-brasil-que-leva-luis-neves-a-ser-julgado-no-tribunal-de-contas/",
+      "pubDate": "Sat, 08 Aug 2026 08:19:15 +0100",
+      "description": "As suspeitas de corrupção no consulado de Portugal no Rio de Janeiro e o envolvimento do Primeiro Comando da Capital levaram 23 elementos da PJ ao Brasil. São as viagens que ditam o julgamento no TdC.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/22120245/rf26195.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2481/",
+      "pubDate": "Sat, 08 Aug 2026 08:15:41 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Desenhar o mundo",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/desenhar-o-mundo/",
+      "pubDate": "Sat, 08 Aug 2026 07:48:35 +0100",
+      "description": "O geógrafo Miguel Antunes começou a viajar tarde, em 2013. Nesse ano, redescobriu a paixão pelo desenho e desde então tem viajado e desenhado nas mais diversas geografias.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. Seguro envia \"Lei do Retorno\" ao Constitucional",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2468/",
       "pubDate": "Sat, 08 Aug 2026 07:14:42 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O Presidente António José Seguro enviou a lei do retorno ao Constitucional por dúvidas sobre a detenção de imigrantes. Deu luz verde à prestação social única, mas avisa: ninguém pode ser prejudicado.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,84 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Canções para o Eclipse",
-      "link": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-o-eclipse/",
-      "pubDate": "Sat, 08 Aug 2026 06:04:24 +0100",
-      "description": "Como soa o dia a escurecer? Do ecletismo dos Talking Heads e Yeah Yeah Yeahs à voz mística de Né Ladeiras e ao clássico dos Pink Floyd, desenhamos a banda sonora ideal para o eclipse.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Dominado incêndio em Fornos de Algodres",
-      "link": "https://observador.pt/programas/noticiario/4h-dominado-incendio-em-fornos-de-algodres/",
-      "pubDate": "Sat, 08 Aug 2026 04:15:24 +0100",
-      "description": "Fogo deflagrou a pouca distância de um outro incêndio que atingiu o concelho, em Vila Ruiva. Ainda, PJ confrontou diretor financeiro sobre ligação à Construbarcelos, mas afasta processo disciplinar",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Governo articulou auditorias à PJ com Luís Neves",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2399/",
-      "pubDate": "Sat, 08 Aug 2026 03:14:30 +0100",
-      "description": "Investigações fazem parte da estratégia do Executivo para afastar suspeitas de proteção política e retirar força à CPI do Chega. Ainda nesta edição, Estoril e Famalicão abrem a época a empatar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fórum das Ilhas do Pacífico termina sem condenação conjunta a teste de míssil da China",
+      "link": "https://www.rtp.pt/noticias/mundo/forum-das-ilhas-do-pacifico-termina-sem-condenacao-conjunta-a-teste-de-missil-da-china_n1758329",
+      "pubDate": "Sat, 08 Aug 2026 09:39:04 +0100",
+      "description": "Suva, 08 ago 2026 (Lusa) - Os 18 Estados-membros do Fórum das Ilhas do Pacífico não conseguiram alcançar um acordo para uma declaração conjunta a condenar um recente teste de míssil estratégico chinês na região, após um encontro esta sexta-feira nas Fiji.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6fcc60f3af8e8eff473a62e276bca8ea?w=350&amp;q=50&amp;rect=0,278,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "PS quer que Governo esclareça se há risco de impostos da venda barragens da EDP caducarem",
-      "link": "https://www.rtp.pt/noticias/economia/ps-quer-que-governo-esclareca-se-ha-risco-de-impostos-da-venda-barragens-da-edp-caducarem_n1758337",
-      "pubDate": "Sat, 08 Aug 2026 08:36:52 +0100",
-      "description": "O PS quer que o Governo esclareça se a Autoridade Tributária (AT) o informou sobre o risco de caducidade da cobrança de impostos associados à venda de seis barragens da EDP, considerando incompreensível caso estes acabem por não ser pagos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3e10c8eb0440007b927841d7434f05c?w=350&amp;q=50&amp;rect=0,589,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "UE pede a Meta e TikTok que reforcem vigilância sobre informação após Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/ue-pede-a-meta-e-tiktok-que-reforcem-vigilancia-sobre-informacao-apos-ceuta_n1758318",
-      "pubDate": "Sat, 08 Aug 2026 01:27:05 +0100",
-      "description": "A comissária europeia para a soberania tecnológica, Henna Virkkunen, apelou hoje à Meta e ao TikTok para &quot;agirem de forma decisiva&quot; para combater a desinformação nas redes sociais, que terá estimulado o afluxo maciço de migrantes a Ceuta.",
+      "title": "Novo presidente da Colômbia promete combater narcoterrorismo \"sem tréguas\"",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-presidente-da-colombia-promete-combater-narcoterrorismo-sem-treguas_n1758324",
+      "pubDate": "Sat, 08 Aug 2026 09:37:38 +0100",
+      "description": "O novo Presidente da Colômbia, Abelardo de la Espriella, afirmou esta sexta-feira que enfrentará &quot;sem tréguas o narcoterrorismo&quot;, numa altura em que o país sul-americano passa pela pior vaga de violência há mais de uma década.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "00h Ceuta: Médicos pedem intervenção urgente",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ceuta-medicos-pedem-intervencao-urgente_a1_1758320",
-      "pubDate": "Sat, 08 Aug 2026 01:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Zelensky agradece ao Senado dos EUA aprovação de sanções contra Rússia e Irão",
+      "link": "https://www.rtp.pt/noticias/mundo/zelensky-agradece-ao-senado-dos-eua-aprovacao-de-sancoes-contra-russia-e-irao_n1758328",
+      "pubDate": "Sat, 08 Aug 2026 09:32:30 +0100",
+      "description": "O Presidente ucraniano, Volodymyr Zelensky, agradeceu esta sexta-feira ao Senado dos EUA a aprovação de um projeto de lei para impor sanções mais duras à Rússia e ao Irão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f988a237fdeab7b4a9376b8f70918509?w=350&amp;q=50&amp;rect=0,44,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "23h Já está em vigor o controlo nas fronteiras espanholas",
-      "link": "https://www.rtp.pt/noticias/pais/23h-ja-esta-em-vigor-o-controlo-nas-fronteiras-espanholas_a1758315",
-      "pubDate": "Sat, 08 Aug 2026 01:13:50 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "OpenAI pausa novo modelo de IA por risco \"crítico\" de cibersegurança",
+      "link": "https://www.rtp.pt/noticias/pais/openai-pausa-novo-modelo-de-ia-por-risco-critico-de-ciberseguranca_n1758323",
+      "pubDate": "Sat, 08 Aug 2026 09:24:25 +0100",
+      "description": "A empresa tecnológica norte-americana OpenAI anunciou hoje ter pausado o desenvolvimento de um novo modelo de Inteligência Artificial (IA), o Astra, após avaliações determinarem risco &quot;crítico&quot; de cibersegurança.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee2fe8a7c0a5ef31ddf8ade6f3a64fee?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Gabinete de Segurança israelita pede retoma de ataques em Gaza",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/gabinete-de-seguranca-israelita-pede-retoma-de-ataques-em-gaza_n1758317",
-      "pubDate": "Sat, 08 Aug 2026 00:55:36 +0100",
-      "description": "O Gabinete de Segurança de Israel, liderado pelo primeiro-ministro Benjamin Netanyahu, pediu na sua última sessão que se retomem os ataques aéreos em Gaza, interrompidos há quatro dias, informaram hoje os media israelitas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Vítimas de `nudes` criadas com IA mudam de escola para escapar ao `bullying`",
+      "link": "https://www.rtp.pt/noticias/lusa/vitimas-de-nudes-criadas-com-ia-mudam-de-escola-para-escapar-ao-bullying_n1758332",
+      "pubDate": "Sat, 08 Aug 2026 09:21:56 +0100",
+      "description": "Adolescentes vítimas de `nudes` criados por colegas com Inteligência Artificial (IA) e partilhados nas redes sociais estão a mudar de escola para escapar ao `bullying`, lamentou a Associação Portuguesa de Apoio à Vítima (APAV).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d4157e32b920d0d147d782bfd476dcc?w=350&amp;q=50&amp;rect=0,40,1000,548&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Hoje é notícia: Juízes recusam julgar caso; Carteirista condenado",
-      "link": "https://www.noticiasaominuto.com/pais/3033841/hoje-e-noticia-juizes-recusam-julgar-caso-carteirista-condenado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 07:38:52",
+      "title": "Lá fora: Estreia de Bernardo Silva pelo Real e Liverpool contrata defesa",
+      "link": "https://www.noticiasaominuto.com/desporto/3033856/la-fora-estreia-de-bernardo-silva-pelo-real-e-liverpool-contrata-defesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 08:30:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76ceaab119f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NzUsImNyb3BIZWlnaHQiOjU0OCwiY3JvcFgiOjAsImNyb3BZIjo2NDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY2MywiY3JvcEhlaWdodCI6MTE3OCwiY3JvcFgiOjAsImNyb3BZIjoxMH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76d55feaf7b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzAsImNyb3BIZWlnaHQiOjUyMywiY3JvcFgiOjAsImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzMwLCJjcm9wSGVpZ2h0IjoxMjk3LCJjcm9wWCI6MTEyLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Porta fechada? Tubarões ignoram Diogo Costa e FC Porto respira de alívio",
-      "link": "https://www.noticiasaominuto.com/desporto/3033842/porta-fechada-tubaroes-ignoram-diogo-costa-e-fc-porto-respira-de-alivio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 07:31:02",
+      "title": "Sistema Volta muda hábitos e é o \"ganha-pão\" de Ricardo",
+      "link": "https://www.noticiasaominuto.com/pais/3033852/volta-muda-habitos-e-e-o-ganha-pao-de-ricardo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 08:19:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a76c8d5e1669.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODYsImNyb3BYIjo1NTUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4cf9d5e6bd2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NTk5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MTAsImNyb3BIZWlnaHQiOjEyNjMsImNyb3BYIjoxNjksImNyb3BZIjo4N319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eclipse solar é \"experiência sensorial\", diz astrónoma",
-      "link": "https://www.noticiasaominuto.com/tech/3033840/eclipse-solar-e-experiencia-sensorial-diz-astronoma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 07:24:59",
+      "title": "Sistema Volta já recuperou 150 milhões de embalagens desde abril",
+      "link": "https://www.noticiasaominuto.com/economia/3033851/sistema-volta-ja-recuperou-150-milhoes-de-embalagens-desde-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 08:18:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7371193af02.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc0MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d3b6d283913.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjI4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NTksImNyb3BIZWlnaHQiOjEzNTAsImNyb3BYIjoxNTEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jovem de 18 anos detido por condução perigosa no concelho de Paredes",
-      "link": "https://www.noticiasaominuto.com/pais/3033839/jovem-de-18-anos-detido-por-conducao-perigosa-no-concelho-de-paredes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 07:15:57",
+      "title": "Entrevista Seat/Cupra, parte 1: \"Este é o ponto forte face aos chineses\"",
+      "link": "https://www.noticiasaominuto.com/auto/3028376/entrevista-seatcupra-parte-1-este-e-o-ponto-forte-face-aos-chineses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 08:15:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a0daf8a5fddc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyODQsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6863cfb75f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzgxLCJjcm9wWSI6MzQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDQ3LCJjcm9wSGVpZ2h0IjoxODYyLCJjcm9wWCI6ODU0LCJjcm9wWSI6Mjh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Trubin nunca me impressionou. Samuel Soares? Não há que ter medo\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3033536/trubin-nunca-me-impressionou-samuel-soares-nao-ha-que-ter-medo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-08 07:13:49",
+      "title": "Mais de 60 concelhos do país em perigo máximo de incêndio",
+      "link": "https://www.noticiasaominuto.com/pais/3033849/mais-de-60-concelhos-do-pais-em-perigo-maximo-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-08 08:14:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75d63fdbbcf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzE2LCJjcm9wSGVpZ2h0Ijo5NjUsImNyb3BYIjowLCJjcm9wWSI6MTQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NjIsImNyb3BIZWlnaHQiOjExNzgsImNyb3BYIjo1MTgsImNyb3BZIjo4fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6ef4aed414f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjU0NSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Esta operadora paga aos utilizadores para usarem menos o telemóvel",
+      "link": "https://pplware.sapo.pt/internet/esta-operadora-paga-aos-utilizadores-para-usarem-menos-o-telemovel/",
+      "pubDate": "Sat, 08 Aug 2026 07:00:38 +0000",
+      "description": "Em vez de cobrar pelos dados que o cliente consome, uma operadora devolve dinheiro por cada gigabyte que fica por usar. Chama-se &#8220;pagar para desligar&#8221; e já está a chamar a atenção de utilizadores.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/noble-cash.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 07 Aug 2026 19:30:55 +0000",
       "description": "A OpenAI continua a preparar a sua entrada no mercado do hardware e, ao que tudo indica, fá-lo-á com um dispositivo inteligente diferente do habitual. Conforme avançado pela Bloomberg, o novo dispositivo será a&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/chatgpt-1-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "The Defiant mostra perspectiva inédita da Segunda Guerra Mundial",
-      "link": "https://pplware.sapo.pt/jogos/the-defiant-mostra-perspectiva-inedita-da-segunda-guerra-mundial/",
-      "pubDate": "Fri, 07 Aug 2026 19:00:11 +0000",
-      "description": "The Defiant é um FPS narrativo que coloca os jogadores na pele de combatentes chineses durante a Guerra de Resistência, um capítulo da Segunda Guerra Mundial raramente explorado pelos videojogos. Venham saber mais. A&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/TheDefiant_1.jpg"
     },
     {
       "sourceId": "autosport",
