@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-09T03:18:03.902905+00:00",
+  "updated": "2026-08-09T04:44:30.030988+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "As notícias das 5h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1554/",
+      "pubDate": "Sun, 09 Aug 2026 05:15:12 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Irão impõe condições aos EUA para reabrir Ormuz",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2365/",
       "pubDate": "Sun, 09 Aug 2026 04:15:29 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Irão e Omã estão perto de acordo para nova rota no Estreito de Ormuz. Ainda nesta edição, Presidente da República insiste no combate à imigração ilegal com dignidade.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Primeiro golo do Estrela devia ter sido anulado.\"",
-      "link": "https://observador.pt/programas/sem-falta/primeiro-golo-do-estrela-devia-ter-sido-anulado/",
-      "pubDate": "Sun, 09 Aug 2026 00:45:30 +0100",
-      "description": "Nota negativa para o árbitro João Gonçalves no empate do Sporting na reboleira. Para além de um golo mal validado, Pedro Henriques considera que E.Doué, do Estrela, \"devia ter visto segundo amarelo\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "05h Em resolução uma das frentes de fogo ativas em Carrazeda de Ansiães",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/05h-em-resolucao-uma-das-frentes-de-fogo-ativas-em-carrazeda-de-ansiaes_a1_1758471",
+      "pubDate": "Sun, 09 Aug 2026 06:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "04h Carneiro acusa Luís Montenegro de mentir sobre as férias",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/04h-carneiro-acusa-luis-montenegro-de-mentir-sobre-as-ferias_a1_1758470",
+      "pubDate": "Sun, 09 Aug 2026 06:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "03h Incêndios. Província canadiana da Colúmbia Britânica declara estado de emergência",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/03h-incendios-provincia-canadiana-da-columbia-britanica-declara-estado-de-emergencia_a1_1758469",
+      "pubDate": "Sun, 09 Aug 2026 06:12:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Sun, 09 Aug 2026 02:12:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Difícil acesso aos fogos complica combate em Carrazeda",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-dificil-acesso-aos-fogos-complica-combate-em-carrazeda_a1_1758458",
-      "pubDate": "Sun, 09 Aug 2026 01:32:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Novo incêndio em Carrazeda aumenta preocupação no concelho",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-novo-incendio-em-carrazeda-aumenta-preocupacao-no-concelho_a1_1758457",
-      "pubDate": "Sun, 09 Aug 2026 00:57:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Quatro mortos em queda de helicóptero no Rio de Janeiro",
-      "link": "https://www.rtp.pt/noticias/mundo/quatro-mortos-em-queda-de-helicoptero-no-rio-de-janeiro_n1758456",
-      "pubDate": "Sat, 08 Aug 2026 23:51:56 +0100",
-      "description": "O helicóptero caiu no Parque Nacional da Tijuca, uma zona de densa floresta numa encosta de montanha.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
