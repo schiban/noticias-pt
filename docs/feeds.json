@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:34:26.592427+00:00",
+  "updated": "2026-08-09T17:27:03.915722+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -25,10 +25,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 17h",
+      "title": "17h. Liga Portugal. FC Porto entra em campo frente a Alverca",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2263/",
       "pubDate": "Sun, 09 Aug 2026 17:15:08 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "E depois é a vez do Benfica entrar em campo. Ainda, o Hamas pede aos Estados Unidos que intervenham perante Israel .",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -55,51 +55,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Primeiras imagens do ayatollah desde fevereiro. Presidente Pezeshkian analisa guerra com Mojtaba Khamenei",
-      "link": "https://www.rtp.pt/noticias/mundo/primeiras-imagens-do-ayatollah-desde-fevereiro-presidente-pezeshkian-analisa-guerra-com-mojtaba-khamenei_n1758526",
-      "pubDate": "Sun, 09 Aug 2026 18:16:36 +0100",
-      "description": "Mojtaba Khamenei foi nomeado líder supremo em março, após a morte do pai, Ali Khamenei, nos ataques de Israel e Estados Unidos no primeiro dia da guerra, a 28 de fevereiro, nos quais morreram também a mulher e outros familiares. Desde então não apareceu em público.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/90/90a21dbbd9e4bf40484b23df375c4b7e?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+      "title": "Sporting B vence nas Aves",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/sporting-b-vence-nas-aves_d1758549",
+      "pubDate": "Sun, 09 Aug 2026 19:15:52 +0100",
+      "description": "O Sporting B venceu no reduto do AVS por 1-0, na jornada inaugural da II Liga, num jogo em que os nortenhos alinharam a segunda parte em inferioridade numérica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e81abe88a2f1c3ed99d87032ac17962?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "17h Combate favorável em Vila Pouca de Aguiar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-combate-favoravel-em-vila-pouca-de-aguiar_a1_1758541",
-      "pubDate": "Sun, 09 Aug 2026 18:14:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Vizela bate União de Leiria",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/vizela-bate-uniao-de-leiria_d1758547",
+      "pubDate": "Sun, 09 Aug 2026 19:13:12 +0100",
+      "description": "O Vizela estreou-se na edição 2026/27 da II Liga  com uma vitória por 1-0 na receção à União de Leiria, graças a um golo de Thio antes do intervalo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/49/495e396940fceaa66623b5bec38edf5a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "16h Cerca de 190 bombeiros no incêndio de Vila Pouca de Aguiar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-cerca-de-190-bombeiros-no-incendio-de-vila-pouca-de-aguiar_a1_1758538",
-      "pubDate": "Sun, 09 Aug 2026 17:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Alexis Guérin vence na Torre e lidera Volta a Portugal",
+      "link": "https://www.rtp.pt/noticias/ciclismo/alexis-guerin-vence-na-torre-e-lidera-volta-a-portugal_d1758545",
+      "pubDate": "Sun, 09 Aug 2026 19:09:50 +0100",
+      "description": "O ciclista francês Alexis Guérin (Anicolor-Campicarn) assumiu a liderança da Volta a Portugal, que pertencia a Rui Oliveira (UAE Emirates), após vencer isolado a quarta etapa da prova, no alto da Torre.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a56bbbd712f317d97d51ba1ece234315?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Torreense derrotado em Faro",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/torreense-derrotado-em-faro_d1758532",
-      "pubDate": "Sun, 09 Aug 2026 16:34:19 +0100",
-      "description": "O Farense impôs-se ao Torreense por 2-1, entrando a ganhar na II Liga com uma exibição de boa qualidade perante um candidato à subida que esteve mais ‘apagado’.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7eb78fe99d91bd37bb24d3b24e1ccfd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Governo altera regime de compensações a ataques de lobo ibérico",
+      "link": "https://www.rtp.pt/noticias/pais/governo-altera-regime-de-compensacoes-a-ataques-de-lobo-iberico_n1758537",
+      "pubDate": "Sun, 09 Aug 2026 19:00:28 +0100",
+      "description": "O valor a indemnizar deixa de ser reduzido progressivamente em à medida que aumenta o total de ataques acumulados ao longo de cada ano civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/81/81c264e8a427d3624ce4242705fa52b4?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "I Liga: Petit quer Santa Clara a fazer do seu estádio uma “fortaleza” ao longo da época",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-petit-quer-santa-clara-a-fazer-do-seu-estadio-uma-fortaleza-ao-longo-da-epoca_d1758531",
-      "pubDate": "Sun, 09 Aug 2026 16:32:24 +0100",
-      "description": "O treinador Petit defendeu hoje que o Santa Clara tem de fazer do seu estádio uma “fortaleza” durante a época e realçou a importância de “começar bem” a I Liga de futebol com uma vitória ao Nacional.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Síria e Rússia acordam manter duas bases militares russas em território sírio",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/siria-e-russia-acordam-manter-duas-bases-militares-russas-em-territorio-sirio_n1758539",
+      "pubDate": "Sun, 09 Aug 2026 18:55:07 +0100",
+      "description": "As autoridades sírias e russas chegaram hoje a um acordo que permitirá garantir a permanência de duas bases militares russas em território sírio, assim como a redefinição de funções, anunciou o Governo da Síria.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Digne volta ao PSG para dar concorrência a Nuno Mendes",
+      "link": "https://maisfutebol.iol.pt/internacional/psg/oficial-digne-volta-ao-psg-para-dar-concorrencia-a-nuno-mendes",
+      "pubDate": "Sun, 9 Aug 2026 18:15:00 +0100",
+      "description": "Lateral de 33 anos deixa o Aston Villa e assina até 2029",
+      "thumbnail": "https://img.iol.pt/image/id/6a78b52cd34e511da0b32688/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Volta: Guerin foge a toda a gente na subida à Torre e fica com a «amarela»",
+      "link": "https://maisfutebol.iol.pt/volta-a-portugal/modalidades/volta-guerin-foge-a-toda-a-gente-na-subida-a-torre-e-fica-com-a-amarela",
+      "pubDate": "Sun, 9 Aug 2026 17:51:00 +0100",
+      "description": "Quarta etapa marcada por uma longa fuga que partiu o pelotão em três",
+      "thumbnail": "https://img.iol.pt/image/id/6a78b404d34ed0733ba7ef5b/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Mourinho? Estou feliz, espero que possamos ter anos bonitos aqui»",
+      "link": "https://maisfutebol.iol.pt/real-madrid/thibaut-courtois/mourinho-estou-feliz-espero-que-possamos-ter-anos-bonitos-aqui",
+      "pubDate": "Sun, 9 Aug 2026 17:44:17 +0100",
+      "description": "Thibaut Courtois, guarda-redes do Real Madrid, recordou que já conquistou títulos com o português",
+      "thumbnail": "https://img.iol.pt/image/id/6a763dabd34e511da0b32412/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +137,7 @@
       "color": "#4fc48a",
       "title": "II Liga: Sporting B aproveita expulsão e vence na visita ao AVS",
       "link": "https://maisfutebol.iol.pt/ii-liga/sporting/ii-liga-sporting-b-aproveita-expulsao-e-vence-na-visita-ao-avs",
-      "pubDate": "Sun, 9 Aug 2026 17:29:43 +0100",
+      "pubDate": "Sun, 9 Aug 2026 17:29:00 +0100",
       "description": "Feirense e Felgueiras não foram além de um nulo",
       "thumbnail": "https://img.iol.pt/image/id/6a78aa31d34ed0733ba7ef51/250"
     },
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 9 Aug 2026 17:14:00 +0100",
       "description": "Cláudio Braga marcou e assistiu na vitória por 4-0 diante do Dundee",
       "thumbnail": "https://img.iol.pt/image/id/69ef9b48d34edcee7c63852f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: a inacreditável assistência no segundo escalão da Rússia",
-      "link": "https://maisfutebol.iol.pt/insolito/russia/video-a-inacreditavel-assistencia-no-segundo-escalao-da-russia",
-      "pubDate": "Sun, 9 Aug 2026 17:06:55 +0100",
-      "description": "Nader Mohammadi fez um super lançamento para o terceiro golo do Spartak Tuymazy",
-      "thumbnail": "https://img.iol.pt/image/id/6a78a1d8d34ed0733ba7ef48/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: ex-FC Porto marca e português estreia-se na vitória do Cruzeiro",
-      "link": "https://maisfutebol.iol.pt/internacional/brasil/video-ex-fc-porto-marca-e-portugues-estreia-se-na-vitoria-do-cruzeiro",
-      "pubDate": "Sun, 9 Aug 2026 17:03:09 +0100",
-      "description": "Equipa de Artur Jorge vence por 3-1 na receção ao Mirassol",
-      "thumbnail": "https://img.iol.pt/image/id/6a1940bfd34e28842c849838/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto-Alverca (onzes oficiais): Farioli muda duas peças para a Liga",
-      "link": "https://maisfutebol.iol.pt/fc-porto/porto/fc-porto-alverca-onzes-oficiais-farioli-muda-duas-pecas-para-a-liga",
-      "pubDate": "Sun, 9 Aug 2026 16:57:00 +0100",
-      "description": "Martim Fernandes e Alan Varela dão passo em frente",
-      "thumbnail": "https://img.iol.pt/image/id/6a651ebdd34e511da0b2fc66/250"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Adolescente com epilepsia rara consegue andar sozinho após receber tratamento personalizado",
-      "link": "https://sapo.pt/artigo/adolescente-com-epilepsia-rara-consegue-andar-sozinho-apos-receber-tratamento-personalizado-6a786bdcd6b4b04dddc23ac5",
-      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
-      "description": "Um dos desafios é tornar este tipo de tratamento acessível a mais pessoas. Como cada medicamento é desenvolvido para uma alteração genética específica, é mais difícil disponibilizá-lo a um maior número de doentes.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AFjbHG7DbXC5jHuZxs0vivKjAhgxMUDiyWU7xxsfybcQXsbJpjlwbcukAKIH2Lba8PBFKAFSOthVJiH5D%2BUaQ0SLk%2FpYW%2BSVeis5IVS8ionkdzTFb0AOOf24Y7oaxJdQm"
+      "title": "Eleições no Brasil. Filho de Lula é o maior trunfo eleitoral do filho de Bolsonaro",
+      "link": "https://sapo.pt/artigo/eleicoes-no-brasil-filho-de-lula-e-o-maior-trunfo-eleitoral-do-filho-de-bolsonaro-6a78ab420c604137000b6898",
+      "pubDate": "Sun, 09 Aug 2026 16:31:24 +0000",
+      "description": "Lulinha enfrenta três inquéritos no âmbito de escândalo milionário conhecido como “Farra da Segurança Social”. Flávio até escolheu como vice-presidente o relator da CPMI que investigou o caso.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=627&W=1115&crop=center&delay_optim=1&epic=V2%3AWJ1UDCB5DPH6b6K1LKnwv9iiyRMrXJn34rErg7%2FcZP1UOyFcKWM6sbiRjcPBW%2FqgvFA2v0mbQ2Jc5S0cdf%2BIiI3POew1nE%2FHRVHARnGtxaDSPDEuTHtWxmA5hKF349Y1"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Madeira e Porto Santo a \"amarelo\" devido ao tempo quente até quarta-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3034242/madeira-e-porto-santo-a-amarelo-devido-ao-tempo-quente-ate-quarta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 17:28:47",
+      "title": "Hearts goleia Dundee United antes do reencontro com o Benfica",
+      "link": "https://www.noticiasaominuto.com/desporto/3034261/hearts-goleia-dundee-united-antes-do-reencontro-com-o-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 18:23:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5cdc092497fe1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78b6aa9ef6b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4Mn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bebé de 5 meses e mulher morrem após barco virar em Nova Iorque",
-      "link": "https://www.noticiasaominuto.com/mundo/3034248/bebe-de-5-meses-e-mulher-morrem-apos-barco-virar-em-nova-iorque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 17:27:10",
+      "title": "Incêndio que se tinha reativado em Carrazeda de Ansiães está em resolução",
+      "link": "https://www.noticiasaominuto.com/pais/3034262/incendio-que-se-tinha-reativado-em-carrazeda-de-ansiaes-esta-em-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 18:21:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78a44f157dd.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/38941045.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Síria e Rússia acordam manter bases militares russas em território sírio",
-      "link": "https://www.noticiasaominuto.com/mundo/3034244/siria-e-russia-acordam-manter-bases-militares-russas-em-territorio-sirio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 17:18:18",
+      "title": "Alexis Guérin assume liderança após vencer isolado no alto da Torre",
+      "link": "https://www.noticiasaominuto.com/desporto/3034258/alexis-guerin-assume-lideranca-apos-vencer-isolado-no-alto-da-torre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 18:18:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5840aa0aaa64e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47584947.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"De volta a casa\". A emocionante apresentação de Salah no Trabzonspor",
-      "link": "https://www.noticiasaominuto.com/desporto/3034250/de-volta-a-casa-a-emocionante-apresentacao-de-salah-no-trabzonspor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 17:17:12",
+      "title": "Associação questiona elogios de deputado à Rússia. PS nega apoio",
+      "link": "https://www.noticiasaominuto.com/politica/3034257/associacao-questiona-elogios-de-deputado-a-russia-ps-nega-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 18:12:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78a568205e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzcyLCJjcm9wSGVpZ2h0Ijo5OTcsImNyb3BYIjo4OSwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU2MSwiY3JvcEhlaWdodCI6OTk3LCJjcm9wWCI6NTU2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78b50e9aae0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NTQsImNyb3BIZWlnaHQiOjI1NSwiY3JvcFgiOjUsImNyb3BZIjoxMH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ukra mostra como é a pausa para hidratação: \"Probabilidade de acabar...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034249/ukra-mostra-como-e-a-pausa-para-hidratacao-probabilidade-de-acabar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 17:12:01",
+      "title": "EM DIRETO: FC Porto estreia-se antes do Benfica entrar em campo",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 18:02:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78a69c40916.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69bc525ea7376.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcwOSwiY3JvcEhlaWdodCI6MTI2MSwiY3JvcFgiOjE3NjQsImNyb3BZIjoxNDN9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "4 sites para descarregar mapas e dados geoespaciais gratuitos",
+      "link": "https://pplware.sapo.pt/internet/4-sites-para-descarregar-mapas-e-dados-geoespaciais-gratuitos/",
+      "pubDate": "Sun, 09 Aug 2026 17:00:19 +0000",
+      "description": "Os dados geoespaciais são fundamentais para áreas como cartografia, ciência de dados, planeamento urbano, ambiente, agricultura, mobilidade e investigação científica. A boa notícia é que existem várias plataformas que disponibilizam grandes quantidades de informação&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/cartografia00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 09 Aug 2026 13:00:48 +0000",
       "description": "Todos reconhecem as vantagens do Android Auto e do CarPlay no dia a dia. Estes são essenciais para muitos nas estradas e com as apps que estão associadas. Esse cenário vai mudar em breve,&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/getsavvynavvy_mapas_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Portugal: Burlões enganam oito idosos por dia! MB WAY é a “nova arma”",
-      "link": "https://pplware.sapo.pt/internet/portugal-burloes-enganam-oito-idosos-por-dia-mb-way-e-a-nova-arma/",
-      "pubDate": "Sun, 09 Aug 2026 11:55:12 +0000",
-      "description": "As burlas contra idosos continuam a aumentar em Portugal e os métodos utilizados pelos criminosos estão cada vez mais sofisticados. Entre as técnicas mais utilizadas estão os esquemas relacionados com pagamentos digitais, com o&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/mbway_numero_errado01.webp"
     },
     {
       "sourceId": "autosport",
