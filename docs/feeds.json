@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-09T07:50:53.883986+00:00",
+  "updated": "2026-08-09T08:37:04.140033+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2482/",
-      "pubDate": "Sun, 09 Aug 2026 08:17:03 +0100",
+      "title": "EUA. Pentágono quer aumento da produção de armamento",
+      "link": "https://observador.pt/liveblogs/pentagono-pressiona-empresas-para-aumentarem-producao-de-armamento-ataque-russo-a-odessa-faz-8-feridos/",
+      "pubDate": "Sun, 09 Aug 2026 09:31:46 +0100",
+      "description": "O Pentágono está a pressionar a indústria de defesa dos EUA para que aumente rapidamente a produção e a entrega de armas, incluindo munições. Rússia visou edifícios residenciais em Odessa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/08151014/46884276.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "“Uma das maiores recompensas é conseguir ajudar um doente”",
+      "link": "https://observador.pt/especiais/as-vezes-aliviamos-uma-dor-que-dura-ha-decadas-outras-permitimos-que-alguem-viva-melhor-as-ultimas-semanas-de-vida/",
+      "pubDate": "Sun, 09 Aug 2026 09:21:09 +0100",
+      "description": "Quando a medicação e a fisioterapia não aliviam da dor, a resposta nem sempre é uma cirurgia. Com procedimentos mais simples, o médico fisiatra Nuno Silva tem mudado a vida de muitos doentes.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29174013/237a0513.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jo Hamya e as vantagens da hipocrisia",
+      "link": "https://observador.pt/2026/08/09/jo-hamya-e-as-vantagens-da-hipocrisia/",
+      "pubDate": "Sun, 09 Aug 2026 09:21:05 +0100",
+      "description": "No romance \"Hipócrita\", pai e filha fazem o que fazem todos os artistas: recorrem à ficção para organizarem o mundo. E os dois vivem sob a ideia de que a criação literária justifica quase tudo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:845:nowe:0:138/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06182159/jo-hamya.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Qual é o lugar do Homo sapiens no Grande Esquema da Vida?",
+      "link": "https://observador.pt/especiais/qual-e-o-lugar-do-homo-sapiens-no-grande-esquema-da-vida/",
+      "pubDate": "Sun, 09 Aug 2026 09:20:56 +0100",
+      "description": "\"O Símio Arrogante\", de Christine Webb, apresenta-se como uma denúncia do excepcionalismo humano e uma revelação dos prodígios da natureza, mas não demora a revelar-se como manifesto animalista.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:188/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06151746/evolucao-do-homem.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2435/",
+      "pubDate": "Sun, 09 Aug 2026 09:17:29 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "7h. Liga. Sporting empata e Rui Borges pede mais à equipa",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2469/",
-      "pubDate": "Sun, 09 Aug 2026 07:18:21 +0100",
-      "description": "Os leões até estiveram a vencer por 2-0, mas acabaram por empatar a dois golos e perder os primeiros pontos da época, na Reboleira. Ainda, iminente acordo entre Irão e Omã para o Estreito de Ormuz.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "6h. FC Porto e Benfica estreiam-se hoje na nova temporada",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2457/",
-      "pubDate": "Sun, 09 Aug 2026 06:16:28 +0100",
-      "description": "FC Porto defronta Alverca no Dragão e Benfica recebe o Académico de Viseu à porta fechada. Ainda nesta edição, Irão e Omã aproximam-se de um acordo sobre Ormuz, mas Teerão impõe com condições aos EUA.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Carros a combustão poluem, mas preocupam-se com o ambiente",
-      "link": "https://observador.pt/programas/operacao-stop/carros-a-combustao-poluem-mas-preocupam-se-com-o-ambiente/",
-      "pubDate": "Sun, 09 Aug 2026 06:06:26 +0100",
-      "description": "Os automóveis com motores a combustão emitem muitos poluentes, alguns cancerígenos, mas muitos ficarão surpreendidos com os esforços desenvolvidos para diminuir o impacto e ajudar a natureza.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Achava-se que para seres músico tinhas de ser humilhado\"",
-      "link": "https://observador.pt/programas/em-40-minutos/bruno-pernadas-antes-achava-se-que-para-seres-musico-tinhas-de-sofrer-e-ser-humilhado-para-seres-alguem/",
-      "pubDate": "Sun, 09 Aug 2026 06:05:05 +0100",
-      "description": "Bruno Pernadas revela como o cinema inspira a sua música, reflete sobre a liberdade de compor sem rótulos e explica a produção da banda sonora para o podcast Plus \"A Vida Dupla do Espião Traidor\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07104512/770-podcast-em-40-minutos-bruno-perna.jpg"
     },
     {
       "sourceId": "rtp",
@@ -105,6 +105,16 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/fc-porto/hoje-vai-ser-noticia-178626240",
+      "pubDate": "Sun, 9 Aug 2026 09:00:00 +0100",
+      "description": "Campeão FC Porto estreia-se na defesa do título",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e7788d34e511da0b311de/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
       "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
       "pubDate": "Sun, 9 Aug 2026 00:17:00 +0100",
@@ -138,118 +148,118 @@
       "title": "Bernardo Silva e a estreia no Real Madrid: «Procuro ajudar no que for possível»",
       "link": "https://maisfutebol.iol.pt/made-in/bernardo-silva/bernardo-silva-e-a-estreia-no-real-madrid-procuro-ajudar-no-que-for-possivel",
       "pubDate": "Sat, 8 Aug 2026 23:53:00 +0100",
-      "description": "Internacional português destaca a procura de ritmo de jogo e o processo de integração no plantel após os primeiros minutos com a camisola «merengue»",
+      "description": "Internacional português destaca a procura de ritmo de jogo e o processo de integração no plantel, após os primeiros minutos com a camisola «merengue»",
       "thumbnail": "https://img.iol.pt/image/id/6a777d8dd34e511da0b32582/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Pepa: «Saí chateado porque não conseguimos a vitória»",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/pepa-sai-chateado-porque-nao-conseguimos-a-vitoria",
-      "pubDate": "Sat, 8 Aug 2026 23:53:00 +0100",
-      "description": "Treinador do Estrela da Amadora acredita que a equipa podia ter vencido o Sporting",
-      "thumbnail": "https://img.iol.pt/image/id/6a779227d34e511da0b325a3/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Irão: Pentágono pressiona indústria de Defesa a acelerar produção perante escassez de munições",
+      "link": "https://executivedigest.sapo.pt/irao-pentagono-pressiona-industria-de-defesa-a-acelerar-producao-perante-escassez-de-municoes/",
+      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
+      "description": "O Departamento de Defesa dos Estados Unidos (Pentágono) está a pressionar a indústria de armamento do país a acelerar a produção, de maneira a restabelecer o seu arsenal de munições reduzido pela guerra com o Irão.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A6Ei3NHyeBLCV82fuACIiqgJII%2BdVZPQGcveHxDRU0wicMxV4kpYGrgU9kcvbUJEGC5cPlAKKWlIUMJTMQAdDFUtMOaGR4BS7R5yHNThsV5hXRUCu7tqbB0m9L%2BsmE0Yu"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão apresenta lista de exigências aos EUA para reabrir Estreito de Ormuz",
-      "link": "https://sapo.pt/artigo/irao-apresenta-lista-de-exigencias-aos-eua-para-reabrir-estreito-de-ormuz-6a777c5d0c60413700cb83d0",
-      "pubDate": "Sat, 08 Aug 2026 19:34:14 +0000",
-      "description": "O Irão detalhou seis condições que constituiriam esta \"correcção de comportamento\" por parte dos Estados Unidos entre as quais a suspensão do bloqueio naval contra o Irão e o fim das sanções.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A3FD9VsjBtARfgTrEEHnUX%2FMQdw5IUi2I3bvVsD8qSQmbc3E3y%2Bmr1nxgJVFCRYUJfXInEhAwDw0EOsoLB4%2Bh3TV7H6TL6TDnz5CTInBTbDbrl0AeWBmzOPuBuww3IvKs"
+      "title": "Fogo em Carrazeda de Ansiães em resolução, cerca de 40 concelhos em perigo máximo de incêndio",
+      "link": "https://sapo.pt/artigo/fogo-em-carrazeda-de-ansiaes-em-resolucao-cerca-de-40-concelhos-em-perigo-maximo-de-incendio-6a782f8b93e2ef3921407c89",
+      "pubDate": "Sun, 09 Aug 2026 08:21:31 +0000",
+      "description": "Incêndio em Carrazeda de Ansiães entrou em resolução com 200 operacionais e 70 veículos nas operações de rescaldo. Segundo fogo ativo em Parambos mobiliza 70 bombeiros. O IPMA coloca este domingo 40 concelhos de sete distritos do país em perigo...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A9uO0qG0CKbgWuQkZJGTTJGssTbr6bVSgeQlsPQ39jZ1eT1kl2tIHYUL%2FlyU%2BekWHZLcInvc5A%2BT62zJqXyZ6eVuYhcQW%2BFkx7IEL%2FDqg4KCf2UKz0FM27QwsjTYlz6EQ"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Bebé de 22 meses que caiu de um 4º andar nas Caldas da Rainha morre no hospital",
-      "link": "https://executivedigest.sapo.pt/bebe-de-22-meses-que-caiu-de-um-4o-andar-nas-caldas-da-rainha-morre-no-hospital/",
-      "pubDate": "Sat, 08 Aug 2026 16:19:50 +0000",
-      "description": "O bebé de 22 meses que hoje caiu de um quarto andar nas Caldas da Rainha morreu no Hospital de Santa Maria, em Lisboa, disse à Lusa fonte do estabelecimento de saúde.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ARupjbHnDAgPTS3rh4DfvAgDo2ORxR9eI3sISEzcUsF9seZ7d8nqjJ85t0tJ1GYKAjFjN98GUKfXqA7OzyCtGROoUd15%2BrU7cc%2FQovRqE9JgXvStJngUEN5peXpEz%2BBZI"
+      "title": "Cortes de luz até seis horas este domingo: estas são as zonas afetadas",
+      "link": "https://executivedigest.sapo.pt/cortes-de-luz-ate-seis-horas-este-domingo-estas-sao-as-zonas-afetadas/",
+      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
+      "description": "Várias zonas de Portugal vão ter interrupções programadas no fornecimento de eletricidade este domingo, 9 de agosto. Os cortes de luz estão relacionados com trabalhos de manutenção na rede da E-REDES e, em algumas localidades, poderão...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=310&W=551&crop=center&delay_optim=1&epic=V2%3A5eB2O4yN65QQwcdzNj0K6LtdU9kFpZV8Ku1vWxPSX7juWUW4sUnrEPR4Q8hS6D47Hb6Jk2AVHCTxghYsdWwIX5VS2L9ksKtKpX0OWWpFqAShwDh31TzMqFa5DuvlUitf"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Uma em cada dez casas à venda em Portugal sai do mercado em menos de uma semana",
-      "link": "https://sapo.pt/artigo/uma-em-cada-dez-casas-a-venda-em-portugal-sai-do-mercado-em-menos-de-uma-semana-6a774277d6b4b04ddd8ac88d",
-      "pubDate": "Sat, 08 Aug 2026 15:05:31 +0000",
-      "description": "Na análise por distritos e ilhas, Porto e Madeira ocupam o primeiro lugar (15%) dos imóveis a sair do mercado em menos de sete dias.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ATukhR7XX75eXMBi8NrlAanVxjx8o4ZK%2FBjOPkFewYX0T3rgl89gNgPZG5oJdAKVmAGNGtW0Z6PuwnNKCPtq2fHvr5VDlPZ%2FgZ4sf4cM6IteugcksjGPehBx516Q5YJss"
+      "title": "Egito deve juntar-se à Árabia Saudita, Turquia e Paquistão em acordo de defesa mútua",
+      "link": "https://executivedigest.sapo.pt/egito-deve-juntar-se-a-arabia-saudita-turquia-e-paquistao-em-acordo-de-defesa-mutua-ministro/",
+      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
+      "description": "O ministro dos Negócios Estrangeiros turco previu este sábado que o Egito se junte \"na próxima etapa\" ao pacto de defesa mútua assinado recentemente entre a Arábia Saudita, o Paquistão e a Turquia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AZET9r3NXpk3Sdfc%2FdCOGZEHjKaY%2BUb8AN8e%2FNR4z26GNomimnjPD9vhXtznb3Yq5yvNwegxrBKLCXWrcS7fcOefuWcFmnZD7d2b5jgwU7PO6MI%2BO8QKSGpQxcwgZmsOP"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Bulgária suspeita que drone que explodiu no país era ucraniano",
-      "link": "https://sapo.pt/artigo/bulgaria-suspeita-que-drone-que-explodiu-no-pais-era-ucraniano-6a7780f6371d60cfe8455d9e",
-      "pubDate": "Sat, 08 Aug 2026 19:34:14 +0000",
-      "description": "Embaixadora da Ucrânia país em Sofia já foi convocada, mas Kiev descreve o incidente como \"não intencional\"",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AzC90F4dhF%2FpMVt9lBOwJ9U%2Bxl70cwUAz8bek0QCwTDeLCVPFgcGBOOEaB5jF3Osgu8cOyHaNgjTj%2Fv1M5UpWW1zcz5CPq9Zqfa6Ajbi6V0tXsts56HaQSb9cEBsuCtdf"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Morreu escritor, advogado e ex-deputado socialista Joaquim Sarmento",
-      "link": "https://sapo.pt/artigo/morreu-escritor-advogado-e-ex-deputado-socialista-joaquim-sarmento-6a777ed3371d60cfe844f93f",
-      "pubDate": "Sat, 08 Aug 2026 19:34:14 +0000",
-      "description": "Joaquim Sarmento fez carreira política nas fileiras do PS, tendo sido eleito deputado à Assembleia da República, pelo distrito de Viseu, em dois mandatos, que cumpriu de 1995 a 2002. De acordo com fonte da família, as cerimónias fúnebres...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=516&W=917&crop=center&delay_optim=1&epic=V2%3Ap6ouZYF1XQIqX0Og7pxbiIhUluL647SLb7gfx3wEUH23%2BOcokOYDO4FbQurfS5H57xejcI8IbpuPeDhggEkK%2FFYxZylHVZp5ofGs%2FHMQJMzHp9%2F5K8n3bXAwv6n5d2vP"
+      "title": "Menopausa: falta de informação ou décadas de silêncio e ausência de políticas?",
+      "link": "https://sapo.pt/artigo/menopausa-falta-de-informacao-ou-decadas-de-silencio-e-ausencia-de-politicas-6a781bee371d60cfe85d0d67",
+      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
+      "description": "Hoje há mais informação sobre menopausa do que nunca. Mas muitas mulheres continuam a chegar a esta fase sem saber o que lhes está a acontecer. Esta é uma questão que vai muito além de uma suposta impreparação das mulheres.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AWaY7OjfIIAq7p7U5X0zddO%2F81Hjbi5xOPbgMqFLlbzk3PJ2oNoApr9TnL5pndOhhM%2BdUMvX3G%2Br0y5K%2Fh3bPPsj7ff9R%2BReiowm0gAwfomj%2BlyLmKYDL4ZiCrFVhgv2o"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Explicador da semana. Há pensionistas que têm de fazer Prova de Vida",
-      "link": "https://www.noticiasaominuto.com/economia/3033551/explicador-da-semana-ha-pensionistas-que-tem-de-fazer-prova-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 08:41:58",
+      "title": "Primeiro reparo de Mourinho a Bernardo: \"O pobrezinho... Tem de crescer\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034152/primeiro-reparo-de-mourinho-a-bernardo-o-pobrezinho-tem-de-crescer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 09:35:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_55a62997f1537.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJib3R0b20tcmlnaHQifX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a783b9ddbd2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTQ1LCJjcm9wSGVpZ2h0Ijo4NjksImNyb3BYIjo0OTIsImNyb3BZIjo4MjV9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pedri cumpre promessa e volta ao Barcelona com 'look'... radical",
-      "link": "https://www.noticiasaominuto.com/desporto/3034141/pedri-cumpre-promessa-e-volta-ao-barcelona-com-look-radical#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 08:39:47",
+      "title": "Dois fogos em Carrazeda de Ansiães mobilizam 330 operacionais",
+      "link": "https://www.noticiasaominuto.com/pais/3034155/dois-fogos-em-carrazeda-de-ansiaes-mobilizam-330-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 09:33:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a782ea08510f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6889160793fde.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozM319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O lance de Eduardo Quaresma que tirou Rui Borges do sério",
-      "link": "https://www.noticiasaominuto.com/desporto/3034140/o-lance-de-eduardo-quaresma-que-tirou-rui-borges-do-serio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 08:22:32",
+      "title": "Uma em cada 3 crianças africanas sem acesso a água potável, diz UNICEF",
+      "link": "https://www.noticiasaominuto.com/mundo/3034154/uma-em-cada-3-criancas-africanas-sem-acesso-a-agua-potavel-diz-unicef#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 09:31:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a782a669af29.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY0MiwiY3JvcEhlaWdodCI6MTE0MiwiY3JvcFgiOjIyMCwiY3JvcFkiOjMzfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/21512055.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo4Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTY0LCJjcm9wSGVpZ2h0IjoxNzE0LCJjcm9wWCI6MTEwNSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cerca de 40 concelhos do país em em perigo máximo de incêndio",
-      "link": "https://www.noticiasaominuto.com/pais/3034138/cerca-de-40-concelhos-do-pais-em-em-perigo-maximo-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 08:10:13",
+      "title": "Quatro jogos, quatro derrotas e Otamendi culpa árbitros: \"Contra todos\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034144/quatro-jogos-quatro-derrotas-e-otamendi-culpa-arbitros-contra-todos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 09:16:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4b5a066d270.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78356cc94f3.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjExNzMsImNyb3BZIjoyMDl9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Má circulação sanguínea? Eis o treino ideal para o sistema linfático",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3031636/ma-circulacao-sanguinea-eis-o-treino-ideal-para-o-sistema-linfatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 08:01:25",
+      "title": "Dados da inflação e negociações com o Irão continuarão a marcar mercados",
+      "link": "https://www.noticiasaominuto.com/economia/3034145/dados-da-inflacao-e-negociacoes-com-o-irao-continuarao-a-marcar-mercados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 09:10:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a764d880407e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjUwLCJjcm9wSGVpZ2h0IjoxMjY2LCJjcm9wWCI6MjQ0LCJjcm9wWSI6MTk3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60ace6c03395f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMiwiY3JvcEhlaWdodCI6MTY1NywiY3JvcFgiOjg2MCwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Esqueça a Neuralink. IA já consegue ler pensamentos e pagam 50 dólares a para testar",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/esqueca-a-neuralink-ia-ja-consegue-ler-pensamentos-e-pagam-50-dolares-para-testar/",
+      "pubDate": "Sun, 09 Aug 2026 08:00:40 +0000",
+      "description": "A ligação entre a IA e a neurociência deu um salto histórico nos últimos dias. Uma equipa de investigadores conseguiu desenvolver um sistema capaz de traduzir sinais cerebrais diretamente em texto escrito sem recurso&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ai_ler_mente_.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 20:30:37 +0000",
       "description": "Sabia que o seu iPhone pode emparelhar-se diretamente com um aparelho auditivo, permitindo controlar algumas das suas funções, transmitir áudio e, em determinados modelos, até realizar chamadas através do próprio dispositivo? A Apple acaba&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/apaelho_auditivo_iphone00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Hoje na História dos Computadores: o IBM 1401 salvou o plástico de bolhas",
-      "link": "https://pplware.sapo.pt/informacao/hoje-na-historia-dos-computadores-o-ibm-1401-salvou-o-plastico-de-bolhas/",
-      "pubDate": "Sat, 08 Aug 2026 19:30:33 +0000",
-      "description": "O plástico de bolhas nasceu para decorar paredes. Foi um computador da IBM que lhe deu uma nova vida. Hoje é praticamente impossível receber uma encomenda sem encontrar plástico de bolhas no interior da&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/plastico_bolha_ibm00.webp"
     },
     {
       "sourceId": "autosport",
