@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-09T19:59:31.233000+00:00",
+  "updated": "2026-08-09T20:42:28.814308+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1723/",
+      "pubDate": "Sun, 09 Aug 2026 21:35:41 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Farioli: \"O jogo virou algo que não esperava\"",
+      "link": "https://observador.pt/2026/08/09/fc-porto-esteve-bem-ate-ao-golo-mas-depois-o-jogo-virou-as-reacoes-de-farioli-ao-triunfo-do-fc-porto/",
+      "pubDate": "Sun, 09 Aug 2026 21:23:42 +0100",
+      "description": "O FC Porto venceu o Alverca por 2-0 na sua estreia na edição de 2026/2027 da Primeira Liga. Os golos foram apontados ainda na primeira parte por André Silva e Gabri Veiga — ambos de grande penalidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/21144900/46969370.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Guerras, Jesus e política. Viagem ao mundo de Gustavo Santos",
+      "link": "https://observador.pt/especiais/guerras-online-misterio-dos-nove-magnificos-comparacoes-com-jesus-e-projeto-politico-uma-viagem-ao-mundo-de-gustavo-santos/",
+      "pubDate": "Sun, 09 Aug 2026 21:09:55 +0100",
+      "description": "Gustavo Santos quer Acordar Portugal e fazer uma Revolução — e está pronto a morrer por isso. Ordem dos Médicos pede regulamentação e Ordem dos Enfermeiros abre processo a um dos seus braços-direitos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/08145451/jporfirio-entrevista-gustavo-santos-08-06-26-01-0alisboa-6-de-junho-de-20260ajoao-porfirio-observador-3-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -8,7 +38,7 @@
       "title": "Porto x Alverca: \"Diogo Costa vale vidas!\"",
       "link": "https://observador.pt/programas/a-forca-da-tecnica-e-a-tecnica-da-forca/porto-x-alverca-diogo-costa-vale-vidas/",
       "pubDate": "Sun, 09 Aug 2026 20:45:29 +0100",
-      "description": "\"Embora tenha faltado dimensão competitiva\", Gabriel Alves deixa elogios ao comportamento do Alverca no Dragão. Mesmo apesar da vitória, o Porto foi-lhe \"geométrico\" e faltou-lhe \"nota artística\".",
+      "description": "\"Embora tenha faltado dimensão competitiva\", Gabriel Alves deixa elogios ao comportamento do Alverca no Dragão. Mesmo apesar da vitória, o Porto foi \"geométrico\" e faltou-lhe \"nota artística\".",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01161110/770-podcast-a-forca-da-tecnica.jpg"
     },
     {
@@ -22,84 +52,94 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "FC Porto estende a festa e volta a ser igual a si próprio",
-      "link": "https://observador.pt/2026/08/09/um-deja-vu-azul-e-branco-foi-suficiente-para-continuar-a-festa-com-o-mesmo-convidado-a-cronica-do-fc-porto-alverca/",
-      "pubDate": "Sun, 09 Aug 2026 20:31:58 +0100",
-      "description": "O FC Porto bateu este domingo o Alverca (2-0). Os dragões marcaram os golos do triunfo na primeira parte, ambos através de penálti. André Silva apontou o primeiro (9') e Gabri fechou a contagem (44').",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09202605/gettyimages-2289124016-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Bombeiros pedem a PR para ajudar na reforma do setor",
-      "link": "https://observador.pt/2026/08/09/bombeiros-pedem-a-presidente-para-ajudar-a-acelerar-discussao-sobre-reforma-do-setor/",
-      "pubDate": "Sun, 09 Aug 2026 20:01:34 +0100",
-      "description": "O presidente da Liga dos Bombeiros Portugueses pediu ao Presidente da República para usar a sua \"magistratura de influência\" para \"acelerar a discussão pública\" sobre a reforma estrutural do setor.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09184416/47584254.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogos. do Presidente são alerta para se pensar e corrigir",
-      "link": "https://observador.pt/2026/08/09/incendios-ministro-da-administracao-interna-diz-que-reparos-do-presidente-sao-alerta-para-se-pensar-e-corrigir/",
-      "pubDate": "Sun, 09 Aug 2026 19:57:28 +0100",
-      "description": "As chamadas de atenção e os reparos do Presidente da República são sempre vistos como uma forma de alerta e para se pensar e poder corrigir aquilo que há a corrigir, diz Luís Neves.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29182350/jporfirio-conf-imprensa-luis-neves-29-07-2026-01-9-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "MAI diz que reparos do PR são alerta para se pensar e corrigir",
+      "link": "https://www.rtp.pt/noticias/economia/mai-diz-que-reparos-do-pr-sao-alerta-para-se-pensar-e-corrigir_n1758554",
+      "pubDate": "Sun, 09 Aug 2026 22:31:23 +0100",
+      "description": "O ministro da Administração Interna disse hoje que as chamadas de atenção e os reparos do Presidente da República são sempre vistos como uma forma de alerta e para se pensar e poder corrigir aquilo que há a corrigir.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Número de casamentos bateu recorde no ano passado",
-      "link": "https://www.rtp.pt/noticias/pais/numero-de-casamentos-bateu-recorde-no-ano-passado_v1758564",
-      "pubDate": "Sun, 09 Aug 2026 21:51:47 +0100",
-      "description": "Nunca se casou tanto em Portugal. O ano passado teve o número mais alto da década, foram mais de 37 mil. Casa-se mais no norte do país e sobretudo pelo civil. Com vários preços, a média ronda os 25 mil euros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be1baf8498fd1fa986c9308c2d3962a3_N.jpg?"
+      "title": "Ambientalistas contestam central incineradora no Algarve",
+      "link": "https://www.rtp.pt/noticias/politica/ambientalistas-contestam-central-incineradora-no-algarve_v1758570",
+      "pubDate": "Sun, 09 Aug 2026 22:14:47 +0100",
+      "description": "Consideram que a construção vai ter uma factura pesada para a região e que não é a melhor opção para a defesa do ambiente. A Zero vai pedir uma reunião de emergência à ministra do Ambiente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f2/f20ba30a805634773e3d99249539a7f3_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Eclipse não tem o mesmo grau em todo o lado",
-      "link": "https://www.rtp.pt/noticias/pais/eclipse-nao-tem-o-mesmo-grau-em-todo-o-lado_v1758563",
-      "pubDate": "Sun, 09 Aug 2026 21:47:47 +0100",
-      "description": "Na próxima quarta-feira, os portugueses vão terminar o dia a olhar para o céu. O eclipse do sol vai ser visto em todo o território nacional, mas nem em todo o país se vai poder observar o fenómeno da mesma forma. Há uma pequena aldeia do distrito de Bragança onde o eclipse será total.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0a/0a8452b2da7d633371d85262291ccb75_N.jpg?"
+      "title": "União das IPSS de Braga queixa-se a Seguro por causa do PRR",
+      "link": "https://www.rtp.pt/noticias/economia/uniao-das-ipss-de-braga-queixa-se-a-seguro-por-causa-do-prr_v1758568",
+      "pubDate": "Sun, 09 Aug 2026 22:11:47 +0100",
+      "description": "A União das IPSS de Braga enviou uma carta aberta a António José Seguro e ao Governo a alertar para o risco de perda de financiamento nos projetos do PRR na região. O setor social diz que há obras em atraso por responsabilidade das construtoras ou das demoras do próprio Estado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/9d/9d61647facefee14db1ff1f8185f13d8_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Presidente acusa últimos governos de falharem na prevenção dos incêndios",
-      "link": "https://www.rtp.pt/noticias/politica/presidente-acusa-ultimos-governos-de-falharem-na-prevencao-dos-incendios_v1758562",
-      "pubDate": "Sun, 09 Aug 2026 21:41:47 +0100",
-      "description": "Antonio José Seguro diz que depois de Pedrógão muito ficou por fazer.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/05/051c729f006ed0472e28d518ae08835e_N.jpg?"
+      "title": "Piores incêndios lavram em Espanha",
+      "link": "https://www.rtp.pt/noticias/mundo/piores-incendios-lavram-em-espanha_v1758567",
+      "pubDate": "Sun, 09 Aug 2026 22:08:47 +0100",
+      "description": "A vaga de calor que está a atravessar a Europa alimenta grandes incêndios florestais em toda a região mediterrânica. Desde o mês de maio houve já 1200 grandes fogos na Europa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/a1/a13abfbcfcb0b8f2af56a7a50fbd0302_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Empate sem golos entre Feirense e Felgueiras",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/empate-sem-golos-entre-feirense-e-felgueiras_d1758561",
-      "pubDate": "Sun, 09 Aug 2026 21:40:59 +0100",
-      "description": "O Feirense recebeu e empatou 0-0 com o Felgueiras, na primeira jornada da II Liga, numa partida que se jogou em Vila Nova de Gaia, devido a problemas no recinto dos anfitriões.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ffbfba8c24f0d663e53d9203e13a6953?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Europa debate-se com fortes níveis de seca",
+      "link": "https://www.rtp.pt/noticias/mundo/europa-debate-se-com-fortes-niveis-de-seca_v1758566",
+      "pubDate": "Sun, 09 Aug 2026 22:04:47 +0100",
+      "description": "Em França, quase 70 departamentos estão sob fortes restrições de água, devido ao clima excepcionalmente quente e seco. Já foram ultrapassados os níveis mais críticos de 2022, tanto no solo como nos rios. No Reino Unido, os agricultores temem que a segurança alimentar possa estar em causa. Na Roménia",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/47/474a16ba24d4aee344de35adfdc7dc39_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "MAI garante que está acautelada a prevenção dos incêndios",
-      "link": "https://www.rtp.pt/noticias/politica/mai-garante-que-esta-acautelada-a-prevencao-dos-incendios_v1758560",
-      "pubDate": "Sun, 09 Aug 2026 21:38:47 +0100",
-      "description": "O ministro da Administração Interna diz que tudo está a ser feito pela prevenção dos incêndios. Luís Neves passou o dia em encontros com autarcas de concelhos afetados pelas chamas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d7/d7c5a35d5af426764c434b3ee8f4ee51_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sérgio Ferreira: «Conseguimos tornar o FC Porto algo previsível»",
+      "link": "https://maisfutebol.iol.pt/alverca/fc-porto/sergio-ferreira-conseguimos-tornar-o-fc-porto-algo-previsivel",
+      "pubDate": "Sun, 9 Aug 2026 21:26:08 +0100",
+      "description": "Treinador do Alverca em estreia na Liga e com «ilações muito boas», apesar da derrota",
+      "thumbnail": "https://img.iol.pt/image/id/6a78cbd7d34ed0733ba7ef8f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli elogia a tenacidade de Gül: «Estava em choque, mas quis jogar»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/porto/farioli-elogia-a-tenacidade-de-gul-estava-em-choque-mas-quis-jogar",
+      "pubDate": "Sun, 9 Aug 2026 21:19:00 +0100",
+      "description": "Treinador do FC Porto lamentou o assalto à casa do internacional turco",
+      "thumbnail": "https://img.iol.pt/image/id/69d18b02d34e28842c8289fe/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli e a lesão de André Silva: «Estou preocupado, parece ser grave»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/porto/farioli-e-a-lesao-de-andre-silva-estou-preocupado-parece-ser-grave",
+      "pubDate": "Sun, 9 Aug 2026 21:15:00 +0100",
+      "description": "Treinador do FC Porto elogiou o avançado, que marcou ao Alverca e saiu com uma potencial entorse no tornozelo direito",
+      "thumbnail": "https://img.iol.pt/image/id/6a78c232d34e511da0b326a4/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli: «A consistência defensiva é prioritária, a exibição foi suficiente»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/porto/farioli-a-consistencia-defensiva-e-prioritaria-a-exibicao-foi-suficiente",
+      "pubDate": "Sun, 9 Aug 2026 21:07:00 +0100",
+      "description": "Treinador do FC Porto reconhece erros e exige melhorias com o avançar da época",
+      "thumbnail": "https://img.iol.pt/image/id/6a78c8ffd34ed0733ba7ef81/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -109,46 +149,6 @@
       "link": "https://maisfutebol.iol.pt/fc-porto/porto/fc-porto-alverca-2-0-destaques",
       "pubDate": "Sun, 9 Aug 2026 20:50:43 +0100",
       "description": "Made in Olival: André e Diogo eclipsam Chiquinho",
-      "thumbnail": "https://img.iol.pt/image/id/6a78b91ad34e511da0b32692/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Farioli: «Neste momento da temporada não é fácil ser tão brilhante»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-neste-momento-da-temporada-nao-e-facil-ser-tao-brilhante",
-      "pubDate": "Sun, 9 Aug 2026 20:47:31 +0100",
-      "description": "Treinador do FC Porto reconheceu as dificuldades na vitória frente ao Alverca",
-      "thumbnail": "https://img.iol.pt/image/id/6a78c8ffd34ed0733ba7ef81/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Gabri Veiga: «É sempre bom começar com um golo, dá confiança»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/gabri-veiga/gabri-veiga-e-sempre-bom-comecar-com-um-golo-da-confianca",
-      "pubDate": "Sun, 9 Aug 2026 20:33:19 +0100",
-      "description": "Médio do FC Porto admitiu que a equipa ainda não está na melhor versão",
-      "thumbnail": "https://img.iol.pt/image/id/6a78c900d34ed0733ba7ef82/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Ficou provado porque é que o Diogo Costa é um dos melhores guarda-redes do mundo»",
-      "link": "https://maisfutebol.iol.pt/liga/alverca/ficou-provado-porque-e-que-o-diogo-costa-e-um-dos-melhores-guarda-redes-do-mundo",
-      "pubDate": "Sun, 9 Aug 2026 20:25:00 +0100",
-      "description": "Sérgio Ferreira, treinador do Alverca, diz que sai satisfeito pela exibição da equipa diante do FC Porto",
-      "thumbnail": "https://img.iol.pt/image/id/6a78cbd0d34e511da0b326c0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "André Silva: «É como viver um sonho pela primeira vez»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/andre-silva/andre-silva-e-como-viver-um-sonho-pela-primeira-vez",
-      "pubDate": "Sun, 9 Aug 2026 20:18:15 +0100",
-      "description": "Avançado do FC Porto admitiu que a entorse sentida foi «desinteressante»",
       "thumbnail": "https://img.iol.pt/image/id/6a78b91ad34e511da0b32692/250"
     },
     {
@@ -175,16 +175,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Presidente do Irão analisa com aiatola Khamenei situação económica e guerra com EUA",
-      "link": "https://sapo.pt/artigo/presidente-do-irao-analisa-com-aiatola-khamenei-situacao-economica-e-guerra-com-eua-6a788dc0d6b4b04dddcad478",
-      "pubDate": "Sun, 09 Aug 2026 14:36:28 +0000",
-      "description": "Khamenei não aparece em público desde que foi nomeado, em março, o que tem alimentado especulações sobre o seu estado de saúde",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7xGyPre7j%2BB94UBlJJFCczw768fBZFbbR1MOOynvKpOcU5qofqsb1AHRn1WkZZSpjhauc%2B%2FS6lS5r%2Bu8r9UIrzdUoeLKQlpnZWDKKEbYL8xC5RiV5mjhmPPH71S6eFi8"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Eleições no Brasil. Filho de Lula é o maior trunfo eleitoral do filho de Bolsonaro",
       "link": "https://sapo.pt/artigo/eleicoes-no-brasil-filho-de-lula-e-o-maior-trunfo-eleitoral-do-filho-de-bolsonaro-6a78ab420c604137000b6898",
       "pubDate": "Sun, 09 Aug 2026 16:31:24 +0000",
@@ -195,61 +185,81 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Acidente no Seixal revela armas e milhares de doses de droga",
-      "link": "https://sapo.pt/artigo/acidente-no-seixal-revela-armas-e-milhares-de-doses-de-droga-6a785722371d60cfe86af571",
-      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
-      "description": "A PJ adiantou que apreendeu diferentes tipos de droga em quantidades suficientes para milhares de doses individuais, nomeadamente, cocaína em quantidade suficiente para 27 mil doses individuais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6bLgMAir5RNtv9gFW2Jhz4jFC56v15fDLzSFml1JJ7nbeO8arClW1hzpi1Urne2%2BnpuW%2FQRtb2NPfI3ujg7blcTiYI5iIU1XepfAjV7XtNAB2iQckHMHJ4QmD5vh2iPb"
+      "title": "Mulher de 49 anos ferida com gravidade em colisão aquática no Alqueva",
+      "link": "https://executivedigest.sapo.pt/mulher-de-49-anos-ferida-com-gravidade-em-colisao-aquatica-no-alqueva/",
+      "pubDate": "Sun, 09 Aug 2026 18:21:03 +0000",
+      "description": "Uma mulher ficou hoje gravemente ferida e foi helitransportada para um hospital de Lisboa após uma colisão aquática no Alqueva, perto da Praia do Lago, no concelho de Moura, revelaram a Proteção Civil e os bombeiros.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ANKAscluIfzdnKffSt8gF1YQr8hkAfbN%2BH0IQhVfB%2Baxt%2FtGLE468aPBEs9QPOgUqRbJFIADhV%2FLVlk8tkPkp6wDIoTEdOMvF45Q6BGNEWpRxdLeR3LJmJ6%2BHzBgm%2FVM1"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ucranianos questionam elogios de deputado do PS à Rússia. Partido nega apoio",
+      "link": "https://sapo.pt/artigo/ucranianos-questionam-elogios-de-deputado-do-ps-a-russia-partido-nega-apoio-6a78b6bdd6b4b04dddd3e0b6",
+      "pubDate": "Sun, 09 Aug 2026 17:23:54 +0000",
+      "description": "Deputado socialista José Carlos Barbosa, que passou pela Rússia numa viagem ferroviária através do Transiberiano, nega elogios ao regime de Putin e sublinha que “visitar um país não significa apoiar o seu Governo”",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7GmvaivBV%2BxaMDSeA7qLUCROHsbubF%2F0e5nPIRvcmSKSmpqIfuWkTHfEd%2F66jEJc4fAcamuix06MYyGn3rs%2B8XUzR%2F6GrcpfvZc4DeAyFI3Z3M8%2FxEAano15o8%2B2rqpC"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bis. Demi Vollering vence Volta a França feminina pela segunda vez",
-      "link": "https://www.noticiasaominuto.com/desporto/3034289/bis-demi-vollering-vence-volta-a-franca-feminina-pela-segunda-vez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 20:45:35",
+      "title": "Oficial: PSG contrata concorrente para Nuno Mendes... que volta a casa",
+      "link": "https://www.noticiasaominuto.com/desporto/3034303/oficial-psg-contrata-concorrente-para-nuno-mendes-que-volta-a-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 21:37:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47548158.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODYsImNyb3BYIjoxMDY3LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78e4f47b026.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU3NiwiY3JvcEhlaWdodCI6MTAyNSwiY3JvcFgiOjc3MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Hoje ficou provado que Diogo Costa é dos melhores guarda-redes do mundo\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034298/hoje-ficou-provado-que-diogo-costa-e-dos-melhores-guarda-redes-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 20:43:55",
+      "title": "Ex-líder da Guarda Revolucionária assume órgão de segurança nacional",
+      "link": "https://www.noticiasaominuto.com/mundo/3034302/ex-lider-da-guarda-revolucionaria-assume-orgao-de-seguranca-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 21:12:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78ce867b67d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjQyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY5LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6ODg2LCJjcm9wWSI6MzI3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78df280b82f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"No final, o FC Porto é o FC Porto e tem de estar sempre acima na tabela\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034297/no-final-o-fc-porto-e-o-fc-porto-e-tem-de-estar-sempre-acima-na-tabela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 20:37:24",
+      "title": "Trump disposto a deixar pressão económica abalar o Irão",
+      "link": "https://www.noticiasaominuto.com/mundo/3034301/trump-disposto-a-deixar-pressao-economica-abalar-o-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 21:05:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78d03d2ab7d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTgsImNyb3BIZWlnaHQiOjE3MDQsImNyb3BYIjo3NTAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47579669.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Farioli preocupado com lesões: \"Temos que observar com atenção o André…\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034290/farioli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 20:33:23",
+      "title": "Pavlidis de pé quente. Benfica quebrou assim o nulo com o Académico",
+      "link": "https://www.noticiasaominuto.com/desporto/3034300/pavlidis-de-pe-quente-benfica-quebrou-assim-o-nulo-com-o-academico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 21:05:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78c47b615ed.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjYzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTgsImNyb3BIZWlnaHQiOjE3MDQsImNyb3BYIjo3MDYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78dd900a410.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Benfica já defronta Académico (e outros jogos em andamento)",
-      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 20:31:51",
+      "title": "5 truques bem simples que deixam a casa cheirosa como nunca",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3032043/5-truques-bem-simples-que-deixam-a-casa-cheirosa-como-nunca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 21:00:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78b8789cab7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a71fc3b55d09.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "A IA paga mais, mas é o Excel que continua a abrir portas",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-excel-40-anos-tt30/",
+      "pubDate": "Sun, 09 Aug 2026 20:00:59 +0000",
+      "description": "Segundo a Lightcast, que analisou mais de 1,3 mil milhões de anúncios de emprego, as vagas que pedem competências de inteligência artificial pagam, em média, mais 28%. No entanto, metade dessas vagas está fora&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/goodoffer24office202416x9.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 09 Aug 2026 17:00:19 +0000",
       "description": "Os dados geoespaciais são fundamentais para áreas como cartografia, ciência de dados, planeamento urbano, ambiente, agricultura, mobilidade e investigação científica. A boa notícia é que existem várias plataformas que disponibilizam grandes quantidades de informação&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/cartografia00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Perseverance já conduz sozinho e usa IA para procurar vida em Marte",
-      "link": "https://pplware.sapo.pt/ciencia/perseverance-ja-conduz-sozinho-e-usa-ia-para-procurar-vida-em-marte/",
-      "pubDate": "Sun, 09 Aug 2026 16:00:05 +0000",
-      "description": "Quando pensamos num rover em Marte, é fácil imaginar que cada movimento é cuidadosamente comandado a partir da Terra. Na realidade, o Perseverance já há bastante tempo consegue conduzir sozinho durante grande parte das&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2021/02/perserverance_cerebro00.jpg"
     },
     {
       "sourceId": "autosport",
