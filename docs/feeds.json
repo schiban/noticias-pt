@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-09T06:49:38.116309+00:00",
+  "updated": "2026-08-09T07:50:53.883986+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2482/",
+      "pubDate": "Sun, 09 Aug 2026 08:17:03 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,64 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07104512/770-podcast-em-40-minutos-bruno-perna.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Afinal, quem assaltou o gabinete do Chega? — Ouvintes",
-      "link": "https://observador.pt/programas/fora-do-baralho/afinal-quem-assaltou-o-gabinete-do-chega-ouvintes/",
-      "pubDate": "Sun, 09 Aug 2026 06:03:58 +0100",
-      "description": "Luís Aguiar-Conraria é chamado a tentar desvendar o mistério. Mais de uma semana depois, não há novidades sobre a vandalizarão da sala de André Ventura no Parlamento. A demora será prudente?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Pentágono pressiona indústria de Defesa a acelerar produção perante escassez de munições",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pentagono-pressiona-industria-de-defesa-a-acelerar-producao-perante-escassez-de-municoes_n1758465",
+      "pubDate": "Sun, 09 Aug 2026 09:20:21 +0100",
+      "description": "O Departamento de Defesa dos Estados Unidos (Pentágono) está a pressionar a indústria de armamento do país a acelerar a produção, de maneira a restabelecer o seu arsenal de munições reduzido pela guerra com o Irão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5bb359477b94d73a12ecc19f3c01853d?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "07h Mais de 20 mil pessoas retiradas de casa por causa dos violentos incêndios no oeste do Canadá",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/07h-mais-de-20-mil-pessoas-retiradas-de-casa-por-causa-dos-violentos-incendios-no-oeste-do-canada_a1_1758477",
-      "pubDate": "Sun, 09 Aug 2026 08:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "China em alerta máximo com aproximação de tufão Dolphin ao leste do país",
+      "link": "https://www.rtp.pt/noticias/mundo/china-em-alerta-maximo-com-aproximacao-de-tufao-dolphin-ao-leste-do-pais_n1758472",
+      "pubDate": "Sun, 09 Aug 2026 09:17:27 +0100",
+      "description": "As autoridades chinesas emitiram hoje um alerta vermelho, o nível mais elevado, perante a chegada do tufão Dolphin, que deverá atingir as zonas costeiras das províncias de Zhejiang (leste) e Fujian (sudeste) entre a tarde de hoje e a madrugada de segunda-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "06h FC Porto inicia hoje a defesa do título de campeão nacional de futebol",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/06h-fc-porto-inicia-hoje-a-defesa-do-titulo-de-campeao-nacional-de-futebol_a1_1758474",
-      "pubDate": "Sun, 09 Aug 2026 07:39:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Pedidos de remoção de ninhos de andorinha e licenças emitidas aumentam entre 2024 e 2025",
+      "link": "https://www.rtp.pt/noticias/pais/pedidos-de-remocao-de-ninhos-de-andorinha-e-licencas-emitidas-aumentam-entre-2024-e-2025_n1758476",
+      "pubDate": "Sun, 09 Aug 2026 09:17:07 +0100",
+      "description": "Os pedidos ao Instituto da Conservação da Natureza e Florestas (ICNF) para remoção de ninhos de andorinhas aumentaram entre 2024 e 2025, assim como as licenças emitidas, e dos 680 dos 745 pedidos submetidos nestes dois anos foram licenciados.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "05h Em resolução uma das frentes de fogo ativas em Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/05h-em-resolucao-uma-das-frentes-de-fogo-ativas-em-carrazeda-de-ansiaes_a1_1758471",
-      "pubDate": "Sun, 09 Aug 2026 06:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "\"Para mim as festas do povo estão no meu coração\"",
+      "link": "https://www.rtp.pt/noticias/pais/para-mim-as-festas-do-povo-estao-no-meu-coracao_es1758232",
+      "pubDate": "Sun, 09 Aug 2026 09:13:42 +0100",
+      "description": "É com os olhos humedecidos que Conceição Quintas  fala das Festas do Povo de Campo Maior. A emoção toma conta do discurso quando explica que durante quase um ano, a população de Campo Maior mobiliza-se para preparar esta tradição centenária.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb8bcc9a744ba8b7d9c448190ca50b34?w=350&amp;q=50&amp;rect=0,116,1280,569&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "04h Carneiro acusa Luís Montenegro de mentir sobre as férias",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/04h-carneiro-acusa-luis-montenegro-de-mentir-sobre-as-ferias_a1_1758470",
-      "pubDate": "Sun, 09 Aug 2026 06:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "03h Incêndios. Província canadiana da Colúmbia Britânica declara estado de emergência",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/03h-incendios-provincia-canadiana-da-columbia-britanica-declara-estado-de-emergencia_a1_1758469",
-      "pubDate": "Sun, 09 Aug 2026 06:12:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Sismos Venezuela. Embaixador afasta cenário de regresso massivo de portugueses a Portugal",
+      "link": "https://www.rtp.pt/noticias/economia/sismos-venezuela-embaixador-afasta-cenario-de-regresso-massivo-de-portugueses-a-portugal_n1758475",
+      "pubDate": "Sun, 09 Aug 2026 09:05:17 +0100",
+      "description": "O embaixador português Frederico Silva, afastou este sábado o cenário de um regresso massivo de portugueses a Portugal, admitindo, no entanto, que houve &quot;um número muito pequeno&quot; de repatriamentos, após o duplo sismo que em junho abalou o país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f493293b0665444a5c4012a4b6128e2d?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marco Silva repete receita? O onze provável do Benfica ante o Académico",
-      "link": "https://www.noticiasaominuto.com/desporto/3034027/marco-silva-repete-receita-o-onze-provavel-do-benfica-ante-o-academico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 07:46:52",
+      "title": "Explicador da semana. Há pensionistas que têm de fazer Prova de Vida",
+      "link": "https://www.noticiasaominuto.com/economia/3033551/explicador-da-semana-ha-pensionistas-que-tem-de-fazer-prova-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 08:41:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a74fae6e1800.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_55a62997f1537.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJib3R0b20tcmlnaHQifX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica-Académico de Viseu: Águia saúda regresso... sem emoção na bancada",
-      "link": "https://www.noticiasaominuto.com/desporto/3034030/benfica-academico-de-viseu-aguia-sauda-regresso-sem-emocao-na-bancada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 07:46:38",
+      "title": "Pedri cumpre promessa e volta ao Barcelona com 'look'... radical",
+      "link": "https://www.noticiasaominuto.com/desporto/3034141/pedri-cumpre-promessa-e-volta-ao-barcelona-com-look-radical#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 08:39:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a74dbc7411ce.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a782ea08510f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Estrela chamou o Benito e resgatou empate na receção ao Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3034094/estrela-chamou-o-benito-e-resgatou-empate-na-rececao-ao-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 07:46:24",
+      "title": "O lance de Eduardo Quaresma que tirou Rui Borges do sério",
+      "link": "https://www.noticiasaominuto.com/desporto/3034140/o-lance-de-eduardo-quaresma-que-tirou-rui-borges-do-serio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 08:22:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a77b33a36c8c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMjB9LCJzdGFtcCI6eyJjYXRlZ29yeSI6ImRlc3BvcnRvIiwibGFiZWwiOiJub3Rhc19kb19qb2dvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a782a669af29.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY0MiwiY3JvcEhlaWdodCI6MTE0MiwiY3JvcFgiOjIyMCwiY3JvcFkiOjMzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Josué no 'trono' do Brasileirão aos 35 anos. Já apanhou Franclim Carvalho",
-      "link": "https://www.noticiasaominuto.com/desporto/3034133/josue-no-trono-do-brasileirao-aos-35-anos-ja-apanhou-franclim-carvalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 07:45:49",
+      "title": "Cerca de 40 concelhos do país em em perigo máximo de incêndio",
+      "link": "https://www.noticiasaominuto.com/pais/3034138/cerca-de-40-concelhos-do-pais-em-em-perigo-maximo-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 08:10:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7821f10899a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY3OH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4b5a066d270.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Da arma \"restrita\" às 35 mil doses de droga: O despiste mortal no Seixal",
-      "link": "https://www.noticiasaominuto.com/pais/3034089/da-arma-restrita-as-35-mil-doses-de-droga-o-despiste-mortal-no-seixal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 07:42:10",
+      "title": "Má circulação sanguínea? Eis o treino ideal para o sistema linfático",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3031636/ma-circulacao-sanguinea-eis-o-treino-ideal-para-o-sistema-linfatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 08:01:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688e92f505fc4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzg1LCJjcm9wSGVpZ2h0IjoxMzQxLCJjcm9wWCI6NjAsImNyb3BZIjoyNjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg2MywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a764d880407e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjUwLCJjcm9wSGVpZ2h0IjoxMjY2LCJjcm9wWCI6MjQ0LCJjcm9wWSI6MTk3fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Microsoft revela a verdadeira razão da lentidão na mudança do Windows 11",
+      "link": "https://pplware.sapo.pt/microsoft/windows/microsoft-revela-verdadeira-razao-pela-lentidao-na-mudanca-do-windows-11/",
+      "pubDate": "Sun, 09 Aug 2026 07:00:55 +0000",
+      "description": "A lentidão na modernização do Windows 11 e a falta de coerência visual continuam a gerar forte insatisfação. Muitos questionam a razão pela qual o sistema da Microsoft ainda mantém menus e ferramentas com&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/02/microsoft_windows_11_no_reboot_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 08 Aug 2026 19:30:33 +0000",
       "description": "O plástico de bolhas nasceu para decorar paredes. Foi um computador da IBM que lhe deu uma nova vida. Hoje é praticamente impossível receber uma encomenda sem encontrar plástico de bolhas no interior da&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/plastico_bolha_ibm00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Sol vai destruir a Terra. Cientistas têm a solução: mover o planeta para longe",
-      "link": "https://pplware.sapo.pt/ciencia/o-sol-vai-destruir-a-terra-cientistas-tem-a-solucao-mover-o-planeta-para-longe/",
-      "pubDate": "Sat, 08 Aug 2026 18:30:54 +0000",
-      "description": "O fim da Terra está inevitavelmente ligado ao futuro do Sol. A nossa estrela tem cerca de 4,5 mil milhões de anos e, dentro de aproximadamente mil milhões de anos, o aumento gradual da&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/fugir_destruicao_terra00.webp"
     },
     {
       "sourceId": "autosport",
