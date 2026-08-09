@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-09T13:45:32.656724+00:00",
+  "updated": "2026-08-09T14:30:11.336825+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 15h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2420/",
+      "pubDate": "Sun, 09 Aug 2026 15:14:08 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09133359/47584101.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h. Incêndios. PR aponta o dedo a anúncios por cumprir",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2410/",
-      "pubDate": "Sun, 09 Aug 2026 13:14:40 +0100",
-      "description": "António José Seguro lamenta que não saiam da gaveta muitas das recomendações feitas ano após ano para melhorar a prevenção dos incêndios. Ainda, Israel rejeita plano para Gaza.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fernández em primeiro no GP da Grã-Bretanha",
+      "link": "https://www.rtp.pt/noticias/motores/fernandez-em-primeiro-no-gp-da-gra-bretanha_d1758530",
+      "pubDate": "Sun, 09 Aug 2026 16:25:51 +0100",
+      "description": "O espanhol Raúl Fernández (Aprilia) venceu o Grande Prémio da Grã-Bretanha de MotoGP, 12.ª ronda do campeonato do mundo, liderando um pódio totalmente ocupado por pilotos da marca italiana.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a86bfa052dc13d59dfb09b4638f44c48?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "FC Porto inicia defesa do título",
+      "link": "https://www.rtp.pt/noticias/fc-porto/fc-porto-inicia-defesa-do-titulo_d1758529",
+      "pubDate": "Sun, 09 Aug 2026 16:18:19 +0100",
+      "description": "O FC Porto inicia a defesa do título de campeão nacional com a receção ao Alverca, na jornada inaugural da I Liga, pouco antes de o Benfica receber o recém-promovido Académico de Viseu.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5b28e62e16e429323b7633c4617c9232?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "15h Reforçados os meios no incêndio de Vila Pouca de Aguiar",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-reforcados-os-meios-no-incendio-de-vila-pouca-de-aguiar_a1_1758528",
+      "pubDate": "Sun, 09 Aug 2026 16:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "O dia da subida à Torre",
+      "link": "https://www.rtp.pt/noticias/ciclismo/o-dia-da-subida-a-torre_d1758527",
+      "pubDate": "Sun, 09 Aug 2026 16:12:22 +0100",
+      "description": "A classificação geral da 87.ª Volta a Portugal pode sofrer alterações significativas com a subida final à Torre, na quarta etapa, perspetivando-se que Rui Oliveira (UAE Emirates) entregue a camisola amarela a outro corredor.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4c292b19ec92dab2754cea2e72997f1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,94 +102,54 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "14h PR pede atenção aos erros do passado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-pr-pede-atencao-aos-erros-do-passado_a1_1758522",
-      "pubDate": "Sun, 09 Aug 2026 15:18:03 +0100",
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Tiago Araújo solta bomba e Gent abre campeonato com vitória",
+      "link": "https://maisfutebol.iol.pt/made-in/gent/video-tiago-araujo-solta-bomba-e-gent-abre-campeonato-com-vitoria",
+      "pubDate": "Sun, 9 Aug 2026 15:26:09 +0100",
+      "description": "Ex-Benfica encheu o pé à passagem do minuto 37 e soltou a festa nas bancadas",
+      "thumbnail": "https://img.iol.pt/image/id/6a788d5bd34e511da0b32661/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Quenda e Essugo titulares: Chelsea empata a três golos na Malásia",
+      "link": "https://maisfutebol.iol.pt/chelsea/internacional/quenda-e-essugo-titulares-chelsea-empata-a-tres-golos-na-malasia",
+      "pubDate": "Sun, 9 Aug 2026 15:06:54 +0100",
+      "description": "Pedro Neto não foi convocado por Xabi Alonso para a visita ao Johor",
+      "thumbnail": "https://img.iol.pt/image/id/6a761754d34ed0733ba7ec6b/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Samú Costa no Al Nassr",
+      "link": "https://maisfutebol.iol.pt/mercado/mercado-de-transferencias/oficial-samu-costa-e-oficial-no-al-nassr",
+      "pubDate": "Sun, 9 Aug 2026 15:01:00 +0100",
       "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Há um novo festival em Oeiras, o Reggae Sun Fest",
-      "link": "https://www.rtp.pt/noticias/cultura/ha-um-novo-festival-em-oeiras-o-reggae-sun-fest_v1758521",
-      "pubDate": "Sun, 09 Aug 2026 15:17:53 +0100",
-      "description": "A primeira edição tem no cartaz Ponto de Equilíbrio e Alborosie.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/03/03f904e2772627b20662f19349bf7e92_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Arranca na próxima quarta-feira o Festival Vodafone Paredes de Coura",
-      "link": "https://www.rtp.pt/noticias/cultura/arranca-na-proxima-quarta-feira-o-festival-vodafone-paredes-de-coura_v1758520",
-      "pubDate": "Sun, 09 Aug 2026 15:17:47 +0100",
-      "description": "Até sábado, há 50 concertos de artistas consagrados e de outros mais desconhecidos. Lá deverá estar um festivaleiro assíduo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/53/53d188f2fb26d63235997e532c6fef39_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Cascais Atlantic Sunsets invede Forte de Santo António da Barra",
-      "link": "https://www.rtp.pt/noticias/cultura/cascais-atlantic-sunsets-invede-forte-de-santo-antonio-da-barra_v1758518",
-      "pubDate": "Sun, 09 Aug 2026 15:11:48 +0100",
-      "description": "O Forte de Santo António da Barra, em Cascais foi palco do primeiro dia do festival Cascais Atlantic Sunsets. É a segunda edição do festival de música eletrónica.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/aa/aaca80ecb66632571c202c8a3ac467c5_N.jpg?"
+      "thumbnail": "https://img.iol.pt/image/id/6a7887fbd34e511da0b3265b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Casa de Deniz Gul no Porto foi assaltada",
-      "link": "https://maisfutebol.iol.pt/fc-porto/deniz-gul/casa-de-deniz-gul-no-porto-foi-assaltada",
-      "pubDate": "Sun, 9 Aug 2026 14:10:00 +0100",
-      "description": "Da residência do jogador do FC Porto foram furtados relógios e peças de joalharia no valor de 250 mil euros",
-      "thumbnail": "https://img.iol.pt/image/id/695cf7ecd34e0ec52ec1bcf3/250"
+      "title": "VÍDEO: Torreense escorrega com o Farense no arranque da II Liga",
+      "link": "https://maisfutebol.iol.pt/ii-liga/torreense/ii-liga-torreense-escorrega-com-o-farense-no-arranque-do-campeonato",
+      "pubDate": "Sun, 9 Aug 2026 14:54:00 +0100",
+      "description": "Deslocação ao Algarve terminou com uma derrota por 2-1 para a formação de Torres Vedras",
+      "thumbnail": "https://img.iol.pt/image/id/6a788aa6d34e511da0b32660/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Ténis: Francisco Cabral cai nos «oitavos» de pares do Masters 1.000 de Montreal",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-francisco-cabral-cai-nos-oitavos-de-pares-do-masters-1-000-de-montreal",
-      "pubDate": "Sun, 9 Aug 2026 13:38:00 +0100",
-      "description": "Tenista português e norte-americano James Tracy perderam contra dupla brasileira",
-      "thumbnail": "https://img.iol.pt/image/id/6994b814d34e28842c80bb0a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting vence Mafra e Luis Suárez volta aos golos",
-      "link": "https://maisfutebol.iol.pt/sporting/mafra/sporting-vence-mafra-e-luis-suarez-volta-aos-golos",
-      "pubDate": "Sun, 9 Aug 2026 13:38:00 +0100",
-      "description": "Marcaram também Rafael Nel e Jesse Derry ,no triunfo por 3-1 num jogo-treino com duas partes de 30 minutos",
-      "thumbnail": "https://img.iol.pt/image/id/6a75cc16d34ed0733ba7eb83/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto-Alverca: Farioli obrigado a mexer (onzes prováveis)",
-      "link": "https://maisfutebol.iol.pt/fc-porto/alverca/fc-porto-alverca-farioli-obrigado-a-mexer-onzes-provaveis",
-      "pubDate": "Sun, 9 Aug 2026 12:54:00 +0100",
-      "description": "Dragões iniciam defesa do título com os ribatejanos em casa",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e6c9fd34ed0733ba7da9e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Português do Al Ittihad com lesão gravíssima: deve perder varios meses",
-      "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/portugues-do-al-ittihad-com-lesao-gravissima-deve-perder-varios-meses",
-      "pubDate": "Sun, 9 Aug 2026 12:18:14 +0100",
-      "description": "Roger Fernandes tem rotura do ligamento cruzado anterior e vai ser operado",
-      "thumbnail": "https://img.iol.pt/image/id/6a78604cd34ed0733ba7eef8/250"
+      "title": "Petit: «A nossa casa tem de ser uma fortaleza»",
+      "link": "https://maisfutebol.iol.pt/liga/petit/petit-a-nossa-casa-tem-de-ser-uma-fortaleza",
+      "pubDate": "Sun, 9 Aug 2026 14:53:00 +0100",
+      "description": "Treinador do Santa Clara antevê a receção ao Nacional no arranque do campeonato",
+      "thumbnail": "https://img.iol.pt/image/id/6a5795ccd34ef04b4f3f6be0/250"
     },
     {
       "sourceId": "sapo",
@@ -165,91 +165,101 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos acusado de usar Ceuta como \"chantagem política\"",
-      "link": "https://sapo.pt/artigo/marrocos-acusado-de-usar-ceuta-como-chantagem-politica-6a786cf0371d60cfe870d412",
-      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
-      "description": "\"Foi uma manobra criminosa orquestrada pela monarquia alauita e permitida pela 'Fortaleza Europa', que utiliza vidas humanas como moeda de troca geopolítica\", diz Partido da Esquerda Europeia.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AYJUqB4iNLzALckl5W%2F06FT6apXbuDDjpNj5cik5ZAe59ctPuv2MVH15llc0L328xtk2V8FFEzhz4aAGeDreiIk0Q7VHnqHt0OLjtbel7AZ90piPq9oCT3WXmMwrIvQvo"
+      "title": "‘Rentrées’ partidárias começam na sexta-feira em ano de cinquentenário do Pontal e do Avante!",
+      "link": "https://executivedigest.sapo.pt/rentrees-partidarias-comecam-na-sexta-feira-em-ano-de-cinquentenario-do-pontal-e-do-avante/",
+      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
+      "description": "Os partidos começam na sexta-feira a retomar a atividade política, num regresso marcado pelos 50 anos das festas do Pontal e do Avante!, a preferência pelo Algarve e a presença de nomes do PS na 'rentrée' do BE.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A8hoYbH230nQDo8zRke10Y9WXGsnP84HNM8FW72pyi4pMaWwP%2BtvqJVbbBe0olIvWw682z8JqE%2BUu0ULg1A1XLmjm%2F4Hh5WJKrhe5vn8JeDjoZwmKBSm6xwZrp%2FV17gG8"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Seguro critica falhas na prevenção dos incêndios, \"passa culpas\" e promessas por cumprir na Serra da Estrela",
-      "link": "https://sapo.pt/artigo/seguro-critica-falhas-na-prevencao-dos-incendios-passa-culpas-e-promessas-por-cumprir-na-serra-da-estrela-6a7869b40c60413700f8c044",
-      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
-      "description": "Na Guarda, o presidente denunciou as falhas na prevenção dos incêndios e a falta de execução das medidas após as grandes tragédias, o “passa-culpas” político e cobrou as promessas de investimento  para a Serra da Estrela.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AowTzpbZoiFxVH5QKwcWxpbIDG%2Fv%2FJhC17XnkqFCvxKb5o4yHuYab7RnJM1wBGoPYfJtriSqTyd%2BebIqFckgKe6FKHFVHfd6q5PYo7XLFxGWaE%2BX06uckCR09BIdNk248"
+      "title": "Incêndio florestal no oeste do Canadá obrigou à retirade de 20.000 pessoas",
+      "link": "https://executivedigest.sapo.pt/incendio-florestal-no-oeste-do-canada-obrigou-a-retirade-de-20-000-pessoas/",
+      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
+      "description": "Um incêndio florestal de grandes proporções que deflagrou na sexta-feira à noite em Bald Range, no sul da Colúmbia Britânica, já devastou mais de 10.000 hectares e obrigou à retirada de mais de 20.000 pessoas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ay0qHAVoRJVGroQze%2FRJIINNIe1Jy53dH3ZghU7V9n2Dv8f%2B3RQm1BFS5%2FJU%2BE6DcpjH0RaFHMdnP%2BB1nTQIiHYZFyXeVaqH4643JXvr5HC%2BzA8mnv3%2BgP%2B3v5ky%2FdKC3"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Mulher e filho de Neves recebidos na Câmara de Odemira",
-      "link": "https://sapo.pt/artigo/mulher-e-filho-de-neves-recebidos-na-camara-de-odemira-6a784b89371d60cfe8677c6d",
-      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
-      "description": "Na reunião com os responsáveis pela área de urbanismo na Câmara de Odemira, os familiares e a ainda um representante do ministro informaram a autarquia de que pediram três pareceres.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AOmWg%2BeS5JQZQROnC0XGb1dVLt3Tn4kDlmuycY1Bj1DCickhnFPBP4vzK%2Fqi%2FZ4wJgxxcWOvz5GjphcVr%2FRmjdV3Yiay0NpFlBa7LBHXv7M17ViVhZEGip8b2PggwgDMi"
+      "title": "O risco de incêndios extremos está a aumentar em Portugal?",
+      "link": "https://sapo.pt/artigo/o-risco-de-incendios-extremos-esta-a-aumentar-em-portugal-6a7864c7371d60cfe86e93f7",
+      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
+      "description": "O risco de incêndios extremos está a aumentar em Portugal?",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=225&W=400&crop=center&delay_optim=1&epic=V2%3AMvu1rnF8RnxXEQZj%2FhP4QNqV7G0jaTn49D3FMQjB3FIPumsssRtuebDqt5DoQdwP0UGULWILZIzOEUyFPJftzhCMVsEVEqf5XyDtbTaAUw7fKPYfgNBuhZ7aC7WE19%2BU"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Cortes de luz até seis horas este domingo: estas são as zonas afetadas",
-      "link": "https://executivedigest.sapo.pt/cortes-de-luz-ate-seis-horas-este-domingo-estas-sao-as-zonas-afetadas/",
-      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
-      "description": "Várias zonas de Portugal vão ter interrupções programadas no fornecimento de eletricidade este domingo, 9 de agosto. Os cortes de luz estão relacionados com trabalhos de manutenção na rede da E-REDES e, em algumas localidades, poderão...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=310&W=551&crop=center&delay_optim=1&epic=V2%3A5eB2O4yN65QQwcdzNj0K6LtdU9kFpZV8Ku1vWxPSX7juWUW4sUnrEPR4Q8hS6D47Hb6Jk2AVHCTxghYsdWwIX5VS2L9ksKtKpX0OWWpFqAShwDh31TzMqFa5DuvlUitf"
+      "title": "Adolescente com epilepsia rara consegue andar sozinho após receber tratamento personalizado",
+      "link": "https://sapo.pt/artigo/adolescente-com-epilepsia-rara-consegue-andar-sozinho-apos-receber-tratamento-personalizado-6a786bdcd6b4b04dddc23ac5",
+      "pubDate": "Sun, 09 Aug 2026 13:31:23 +0000",
+      "description": "Um dos desafios é tornar este tipo de tratamento acessível a mais pessoas. Como cada medicamento é desenvolvido para uma alteração genética específica, é mais difícil disponibilizá-lo a um maior número de doentes.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AFjbHG7DbXC5jHuZxs0vivKjAhgxMUDiyWU7xxsfybcQXsbJpjlwbcukAKIH2Lba8PBFKAFSOthVJiH5D%2BUaQ0SLk%2FpYW%2BSVeis5IVS8ionkdzTFb0AOOf24Y7oaxJdQm"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 160 operacionais combatem incêndio no distrito de Vila Real",
-      "link": "https://www.noticiasaominuto.com/pais/3034221/mais-de-160-operacionais-combatem-incendio-no-distrito-de-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 14:31:32",
+      "title": "Alarme no FC Porto. Casa de Deniz Gul assaltada antes de jogo no Dragão",
+      "link": "https://www.noticiasaominuto.com/desporto/3034232/alarme-no-fc-porto-casa-de-deniz-gul-assaltada-antes-de-jogo-no-dragao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 15:13:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6da4255d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg4MSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7889ac7a934.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Hamas apela aos EUA para pressionarem Netanyahu a aceitar plano de paz",
-      "link": "https://www.noticiasaominuto.com/mundo/3034219/hamas-apela-aos-eua-para-pressionarem-netanyahu-a-aceitar-plano-de-paz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 14:25:46",
+      "title": "Confrontos com a polícia no Uíge fizeram 31 feridos, dez graves",
+      "link": "https://www.noticiasaominuto.com/mundo/3034229/confrontos-com-a-policia-no-uige-fizeram-31-feridos-dez-graves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 15:02:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68b544f1b58cd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjgzLCJjcm9wWCI6ODE5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78888dd4c3b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Revitalização da Serra da Estrela é \"promessa por cumprir\"",
-      "link": "https://www.noticiasaominuto.com/pais/3034213/revitalizacao-da-serra-da-estrela-e-promessa-por-cumprir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 14:17:34",
+      "title": "Oficial: Samu Costa reforça Al Nassr e junta-se a CR7 e Félix",
+      "link": "https://www.noticiasaominuto.com/desporto/3034231/oficial-samu-costa-reforca-al-nassr-e-junta-se-a-cr7-e-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 15:01:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b8455f39ae2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTEsImNyb3BZIjoyNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NSwiY3JvcEhlaWdodCI6MTcxNSwiY3JvcFgiOjg3OSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78898421ffc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NjYyLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ataque provoca fuga de água na maior central de dessalinização da Líbia",
-      "link": "https://www.noticiasaominuto.com/mundo/3034214/ataque-provoca-fuga-de-agua-na-maior-central-de-dessalinizacao-da-libia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 14:15:58",
+      "title": "Faça este teste em casa, mas sem \"interferência de produtos cosméticos\"",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3032646/faca-este-teste-em-casa-mas-sem-interferencia-de-produtos-cosmeticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 15:00:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_619c2b85b3e66.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU3LCJjcm9wSGVpZ2h0IjoxNDM4LCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwOSwiY3JvcEhlaWdodCI6MTQzOCwiY3JvcFgiOjQ1OSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6759a796336c0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc2LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6NDgsImNyb3BZIjoxMDl9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Portugueses, polémica e… Hjulmand. Manchester City dá a volta ao Atlético",
-      "link": "https://www.noticiasaominuto.com/desporto/3034209/portugueses-polemica-e-hjulmand-manchester-city-da-a-volta-ao-atletico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 14:03:04",
+      "title": "Chelsea surpreendido na Malásia com Dário Essugo a capitão",
+      "link": "https://www.noticiasaominuto.com/desporto/3034220/chelsea-surpreendido-na-malasia-com-dario-essugo-a-capitao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 14:55:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a786fab02543.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjkyLCJjcm9wSGVpZ2h0Ijo5NTIsImNyb3BYIjo1NSwiY3JvcFkiOjc0N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Nzg3LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6MzQyLCJjcm9wWSI6MzE1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7882e5a488b.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pplware Classics…",
+      "link": "https://pplware.sapo.pt/multimedia-2/musica/pplware-classics-762/",
+      "pubDate": "Sun, 09 Aug 2026 14:00:49 +0000",
+      "description": "Porque recordar é viver, o Pplware traz aos seus leitores a sua habitual rubrica semanal de música. Apresentamos as músicas que marcaram a nossa juventude ou o nosso passado recente e que ainda ouvimos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Faith_No_More_A_Small_Victory-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/linux_distros.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Há mais um documento que pode adicionar à app gov.pt",
-      "link": "https://pplware.sapo.pt/internet/ha-mais-um-documento-que-pode-adicionar-a-app-gov-pt-2/",
-      "pubDate": "Sun, 09 Aug 2026 08:52:07 +0000",
-      "description": "A app gov.pt continua a ganhar novas funcionalidades e passa agora a disponibilizar mais um documento oficial em formato digital. Saiba qual o novo documento. A app gov.pt passou a disponibilizar a cédula profissional&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/gov_x01-2.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Qual foi a mudança que catapultou a McLaren ao sucesso",
+      "link": "https://www.autosport.pt/formula1/f1-qual-foi-a-mudanca-que-catapultou-a-mclaren-ao-sucesso/",
+      "pubDate": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "description": "O que define o caminho do sucesso? O que permite a uma estrutura afastada dos títulos voltar ao topo? Muitas vezes é necessário investimento, seja em staff, seja em maquinaria. Mas não menos vezes, são mudanças subtis que fazem a diferença entre o sucesso e o falhanço. A Aston Martin é um bom exempl",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/maismotores/f1-e-wrc-a-tradicao-dos-finlandeses-voadores/",
       "pubDate": "Sun, 09 Aug 2026 11:00:00 +0000",
       "description": "A Finlândia sempre foi um dos maiores exportadores de talento para os ralis, Fórmula 1, todo-o-terreno e até para o motociclismo! Alguns finlandeses permanecem como lendas vivas do desporto motorizado. Saiba quem são… Ari Vatanen, Hannu Mikkola, Timo Salonen, Keke Rosberg, Juha Kankkunen, Tommi Mäkk",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Riccardo Patrese: Carreira marcada pelo destino",
-      "link": "https://www.autosport.pt/formula1/f1/riccardo-patrese-carreira-marcada-pelo-destino/",
-      "pubDate": "Sun, 09 Aug 2026 10:15:00 +0000",
-      "description": "Riccardo Patrese vai regressar às competições. Aos 64 anos, o italiano vai pilotar o novo Honda NSX GT3 nas 24 Horas de Spa\nThe post Riccardo Patrese: Carreira marcada pelo destino first appeared on AutoSport.",
       "thumbnail": ""
     }
   ]
