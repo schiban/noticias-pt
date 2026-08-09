@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-09T11:03:53.362131+00:00",
+  "updated": "2026-08-09T11:54:39.321701+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "BMW i3 eléctrico ainda não chegou e já é um sucesso",
+      "link": "https://observador.pt/2026/08/09/bmw-i3-electrico-ainda-nao-chegou-e-ja-e-um-sucesso/",
+      "pubDate": "Sun, 09 Aug 2026 12:44:44 +0100",
+      "description": "A BMW iniciou a produção do Série 3 eléctrico e tudo corre melhor do que o esperado. A berlina alimentada a bateria vai também estrear a reformulada fábrica de Munique, que se dedicará apenas aos EV.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2708:1520:nowe:474:563/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09113011/p90632486-highres-the-new-bmw-i3-50-xd-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "“Não foi o Sporting que perdeu, foi Rui Borges”",
+      "link": "https://observador.pt/programas/e-o-campeao-e/leoes-a-dormir-nao-foi-o-sporting-que-perdeu-foi-rui-borges/",
+      "pubDate": "Sun, 09 Aug 2026 12:13:18 +0100",
+      "description": "O Sporting, ainda em modo amigável, não percebeu que agora já é a doer? Luis Suárez parecia contrariado e Flávio Gonçalves mostrou magia. FC Porto e Benfica afinam motores para vencer na estreia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 12h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2411/",
+      "pubDate": "Sun, 09 Aug 2026 12:12:28 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/26220514/40712766.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Será Luís Neves um erro de casting do Governo?",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/sera-luis-neves-um-erro-de-casting-do-governo/",
-      "pubDate": "Sun, 09 Aug 2026 11:28:36 +0100",
-      "description": "Com Seguro a travar leis no Tribunal Constitucional e Neves sob auditoria, o governo treme. Montenegro finge que não vai a banhos enquanto a violência familiar continua a ser cada vez maior.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 11h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1309/",
-      "pubDate": "Sun, 09 Aug 2026 11:16:00 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Acordo no Estreito de Ormuz: um passo rumo à paz?",
-      "link": "https://observador.pt/programas/gabinete-de-guerra/acordo-no-estreito-de-ormuz-um-passo-rumo-a-paz/",
-      "pubDate": "Sun, 09 Aug 2026 10:55:27 +0100",
-      "description": "O Tenente-General Marco Serronha destaca que acordo entre Omã e Irão é importante, mas insuficiente. Também sublinha que a asfixia logística na Crimeia e os ataques à economia russa pressionam Putin.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndios. Presidente da República critica falta de cumprimento de promessas e propostas",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-presidente-da-republica-critica-falta-de-cumprimento-de-promessas-e-propostas_n1758496",
+      "pubDate": "Sun, 09 Aug 2026 13:13:35 +0100",
+      "description": "Num discurso nas comemorações dos 150 anos dos Bombeiros da Guarda, António José Seguro veio criticar o &quot;muito que ficou por fazer&quot; desde os incêndios de 2017, bem como promessas por cumprir, por exemplo, na recuperação da área ardida na Serra da Estrela e reitera a necessidade de apostar ",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dd/dd9bf7eeca1f1f7dfa6d249d2af3cf32?w=350&amp;q=50&amp;rect=0,466,900,493&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h Incêndio com uma frente ativa em Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-incendio-com-uma-frente-ativa-em-carrazeda-de-ansiaes_a1_1758488",
-      "pubDate": "Sun, 09 Aug 2026 10:59:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Português do Al Ittihad com lesão gravíssima: deve perder varios meses",
+      "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/portugues-do-al-ittihad-com-lesao-gravissima-deve-perder-varios-meses",
+      "pubDate": "Sun, 9 Aug 2026 12:18:14 +0100",
+      "description": "Roger Fernandes tem rotura do ligamento cruzado anterior e vai ser operado",
+      "thumbnail": "https://img.iol.pt/image/id/6a78604cd34ed0733ba7eef8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,14 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a784805d34ed0733ba7eed6/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: golaço do ex-portista Alex Telles não foi suficiente para a vitória do Botafogo",
-      "link": "https://maisfutebol.iol.pt/brasilerao/internacional/video-golaco-do-ex-portista-alex-telles-nao-foi-suficiente-para-a-vitoria-do-botafogo",
-      "pubDate": "Sun, 9 Aug 2026 10:32:00 +0100",
-      "description": "Equipa comandada pelo português Franclim Carvalho empatou 1-1 com o Fluminense",
-      "thumbnail": "https://img.iol.pt/image/id/69e80372d34edcee7c634f92/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Espanha e Itália estão em rota de colisão por causa de Ceuta: o que se passa e porque está Schengen no centro da crise?",
+      "link": "https://executivedigest.sapo.pt/espanha-da-ultimato-a-italia-por-causa-de-schengen-o-que-mudou-nas-fronteiras-e-o-que-pode-acontecer-agora/",
+      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
+      "description": "Crise migratória de Ceuta já ultrapassou as fronteiras de Espanha e transformou-se numa disputa sobre uma das principais conquistas da União Europeia: a livre circulação dentro do espaço Schengen",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AmPpfFAvsVlVFJEyzoXJ69yiU%2BHA8wmOQEoFWNiLfW%2BUuDy1sm3k8F7xntBrbywSaekQXvtSRB%2F62Bmj8kD%2BxY1KnbtOSCT%2FkNJ9xDehqL9UV1e7TygH7WVf01dVNJswr"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Mulher e filho de Neves recebidos na Câmara de Odemira",
+      "link": "https://sapo.pt/artigo/mulher-e-filho-de-neves-recebidos-na-camara-de-odemira-6a784b89371d60cfe8677c6d",
+      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
+      "description": "Na reunião com os responsáveis pela área de urbanismo na Câmara de Odemira, os familiares e a ainda um representante do ministro informaram a autarquia de que pediram três pareceres.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AOmWg%2BeS5JQZQROnC0XGb1dVLt3Tn4kDlmuycY1Bj1DCickhnFPBP4vzK%2Fqi%2FZ4wJgxxcWOvz5GjphcVr%2FRmjdV3Yiay0NpFlBa7LBHXv7M17ViVhZEGip8b2PggwgDMi"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Chuvas \"extremamente torrenciais\": China em alerta máximo com aproximação de tufão Dolphin",
+      "link": "https://sapo.pt/artigo/chuvas-extremamente-torrenciais-china-em-alerta-maximo-com-aproximacao-de-tufao-dolphin-6a785531d6b4b04dddbbf0c3",
+      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
+      "description": "As autoridades chinesas emitiram um alerta vermelho, o nível mais elevado, perante a chegada do tufão Dolphin, que deverá atingir as zonas costeiras das províncias de Zhejiang (leste) e Fujian (sudeste) entre a tarde de domingo e a madrugada de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AfJ7tk9qV2EY3dWecVkBsDTZLhB3Ec8DBgDXdzKw%2B3S3Hxt%2BcM5nrKKhAs85FMg1%2FuKmuJLFVDJK7fnrqnTH2%2FDAOmFvfM8fUDCt%2Bnbp7Eb%2BBhVGwU701of37iTA5pBwU"
     },
     {
       "sourceId": "sapo",
@@ -165,26 +195,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios: Dois fogos em Carrazeda de Ansiães mobilizam 330 operacionais",
-      "link": "https://executivedigest.sapo.pt/incendios-dois-fogos-em-carrazeda-de-ansiaes-mobilizam-330-operacionais/",
-      "pubDate": "Sun, 09 Aug 2026 08:59:08 +0000",
-      "description": "Os dois incêndios que deflagraram no sábado no concelho de Carrazeda de Ansiães mobilizam hoje 330 operacionais e cinco meios aéreos, estando o de Linhares em resolução e o de Paradela ainda em curso, indicou fonte da Proteção Civil.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ANKAscluIfzdnKffSt8gF1YQr8hkAfbN%2BH0IQhVfB%2Baxt%2FtGLE468aPBEs9QPOgUqRbJFIADhV%2FLVlk8tkPkp6wDIoTEdOMvF45Q6BGNEWpRxdLeR3LJmJ6%2BHzBgm%2FVM1"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Rússia e Ucrânia trocam ataques durante a madrugada que causam dezenas de vítimas",
-      "link": "https://sapo.pt/artigo/russia-e-ucrania-trocam-ataques-durante-a-madrugada-que-causam-dezenas-de-vitimas-6a783d180c60413700ea6f1c",
-      "pubDate": "Sun, 09 Aug 2026 08:59:08 +0000",
-      "description": "As cidades de Belgorod, na Rússia, e Odessa, na Ucrânia, foram atingidas durante a madrugada, numa nova escalada de ataques entre Moscovo e Kiev. Volodymyr Zelensky garante que a ofensiva ucraniana está a causar prejuízos de milhares de milhões...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AEZX351AVAH6KkPdnINMNtMMdCxGng3uQD%2BJEr5AF4RYO17jyYoDKgAlEhv4mYSa112pPMF7VtGVZnR4KE1%2BE%2Ft%2FfluLuA%2BHfmqckIfNzpTf6HPJcYWpP2ID3td3iSep%2F"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Cortes de luz até seis horas este domingo: estas são as zonas afetadas",
       "link": "https://executivedigest.sapo.pt/cortes-de-luz-ate-seis-horas-este-domingo-estas-sao-as-zonas-afetadas/",
       "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=310&W=551&crop=center&delay_optim=1&epic=V2%3A5eB2O4yN65QQwcdzNj0K6LtdU9kFpZV8Ku1vWxPSX7juWUW4sUnrEPR4Q8hS6D47Hb6Jk2AVHCTxghYsdWwIX5VS2L9ksKtKpX0OWWpFqAShwDh31TzMqFa5DuvlUitf"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Menopausa: falta de informação ou décadas de silêncio e ausência de políticas?",
-      "link": "https://sapo.pt/artigo/menopausa-falta-de-informacao-ou-decadas-de-silencio-e-ausencia-de-politicas-6a781bee371d60cfe85d0d67",
-      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
-      "description": "Hoje há mais informação sobre menopausa do que nunca. Mas muitas mulheres continuam a chegar a esta fase sem saber o que lhes está a acontecer. Esta é uma questão que vai muito além de uma suposta impreparação das mulheres.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AWaY7OjfIIAq7p7U5X0zddO%2F81Hjbi5xOPbgMqFLlbzk3PJ2oNoApr9TnL5pndOhhM%2BdUMvX3G%2Br0y5K%2Fh3bPPsj7ff9R%2BReiowm0gAwfomj%2BlyLmKYDL4ZiCrFVhgv2o"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Lisboa: PSP detém 14 em operação este domingo (houve 60 contraordenações)",
+      "link": "https://www.noticiasaominuto.com/pais/3034197/lisboa-psp-detem-14-em-operacao-este-domingo-houve-60-contraordenacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 12:32:50",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66cc452bdb111.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Huthis pró-iranianos reivindicam ataques contra porto iemenita",
-      "link": "https://www.noticiasaominuto.com/mundo/3034191/huthis-pro-iranianos-reivindicam-ataques-contra-porto-iemenita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:55:01",
+      "title": "Exército israelita mata palestiniano após quatro dias sem ataques mortais",
+      "link": "https://www.noticiasaominuto.com/mundo/3034195/exercito-israelita-mata-palestiniano-apos-quatro-dias-sem-ataques-mortais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 12:27:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67d6d92e5b8ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a786434c0e95.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rússia anuncia conquista de 2 localidades na região ucraniana de Donetsk",
-      "link": "https://www.noticiasaominuto.com/mundo/3034190/russia-anuncia-conquista-de-2-localidades-na-regiao-ucraniana-de-donetsk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:53:41",
+      "title": "Faial passou a integrar rede de monitorização de infrassons dos Açores",
+      "link": "https://www.noticiasaominuto.com/pais/3034196/faial-passou-a-integrar-rede-de-monitorizacao-de-infrassons-dos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 12:25:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a785c383f9e4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo2OX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57a83e1bc7520.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio florestal no Canadá obrigou à retirada de 20 mil pessoas",
-      "link": "https://www.noticiasaominuto.com/mundo/3034188/incendio-florestal-no-canada-obrigou-a-retirada-de-20-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:48:45",
+      "title": "Indonésia anuncia apreensão de 1,3 toneladas de cetamina",
+      "link": "https://www.noticiasaominuto.com/mundo/3034193/indonesia-anuncia-apreensao-de-1-3-toneladas-de-cetamina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 12:10:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a785b1125f2f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgyNiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78603f0bb0f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MTAxMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Irão insiste que só negociará quando EUA deixarem de violar memorando",
-      "link": "https://www.noticiasaominuto.com/mundo/3034187/irao-insiste-que-so-negociara-quando-eua-deixarem-de-violar-memorando#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:44:29",
+      "title": "GNR detém três homens por roubo de telemóvel por esticão em Albufeira",
+      "link": "https://www.noticiasaominuto.com/pais/3034194/gnr-detem-tres-homens-por-roubo-de-telemovel-por-esticao-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 12:09:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a03a7d5228a6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6OTM5LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rentrées dos partidos vêm aí (marcadas pelos 50 anos do Pontal e Avante!)",
-      "link": "https://www.noticiasaominuto.com/politica/3034185/rentrees-dos-partidos-vem-ai-marcadas-pelos-50-anos-do-pontal-e-avante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:38:27",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66bdab2c486f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxMDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjQ2NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ece4d184f5f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MzAxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODAsImNyb3BYIjoyNDMsImNyb3BZIjoxMTN9fQ=="
     },
     {
       "sourceId": "pplware",
