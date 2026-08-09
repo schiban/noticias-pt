@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-09T10:29:49.287856+00:00",
+  "updated": "2026-08-09T11:03:53.362131+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Subiu para 1.887 número de mortos por Ébola na RD Congo",
+      "link": "https://observador.pt/2026/08/09/subiu-para-1-887-numero-de-mortos-por-ebola-na-republica-democratica-do-congo/",
+      "pubDate": "Sun, 09 Aug 2026 11:43:02 +0100",
+      "description": "A taxa de letalidade — proporção entre o número de mortes por uma doença e o número total de doentes que sofrem dessa doença, ao longo de um determinado período de tempo — aumentou para 45,8%.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09113232/47568672.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Acidente no Seixal revela armas e milhares de doses de droga",
+      "link": "https://observador.pt/2026/08/09/acidente-mortal-no-seixal-leva-pj-a-apreender-milhares-de-doses-de-droga-e-uma-arma-de-fogo/",
+      "pubDate": "Sun, 09 Aug 2026 11:31:00 +0100",
+      "description": "A PJ adiantou que apreendeu diferentes tipos de droga em quantidades suficientes para milhares de doses individuais, nomeadamente, cocaína em quantidade suficiente para 27 mil doses individuais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/26220514/40712766.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Será Luís Neves um erro de casting do Governo?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/sera-luis-neves-um-erro-de-casting-do-governo/",
+      "pubDate": "Sun, 09 Aug 2026 11:28:36 +0100",
+      "description": "Com Seguro a travar leis no Tribunal Constitucional e Neves sob auditoria, o governo treme. Montenegro finge que não vai a banhos enquanto a violência familiar continua a ser cada vez maior.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mulher e filho de Neves recebidos na Câmara de Odemira",
-      "link": "https://observador.pt/2026/08/09/mulher-e-filho-de-neves-recebidos-na-camara-de-odemira-para-discutir-futuro-das-obras-no-monte/",
-      "pubDate": "Sun, 09 Aug 2026 10:42:15 +0100",
-      "description": "Na reunião com os responsáveis pela área de urbanismo na Câmara de Odemira, os familiares e ainda um representante do ministro informaram a autarquia de que pediram três pareceres.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192100/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-18-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dos dragões a Einstein: os mitos e a ciência dos eclipses",
-      "link": "https://observador.pt/especiais/mitos-e-ciencia-como-um-eclipse-acabou-com-uma-guerra-salvou-colombo-e-ajudou-einstein-na-grande-teoria/",
-      "pubDate": "Sun, 09 Aug 2026 10:33:45 +0100",
-      "description": "Durante milénios, os eclipses inspiraram mitos sobre dragões, demónios e lobos gigantes. Depois ajudaram a acabar guerras, salvaram Colombo e confirmaram a teoria de Einstein. Há medos que perduram.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:205/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09052054/chinese-ancient-eclipse-ritual.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Liga vai fazer avaliação negativa ao relvado do Estrela",
-      "link": "https://observador.pt/2026/08/09/liga-vai-fazer-avaliacao-final-negativa-ao-relvado-do-estadio-do-estrela-da-amadora/",
-      "pubDate": "Sun, 09 Aug 2026 10:31:29 +0100",
-      "description": "\"Pese embora o seu estado não tenha afetado negativamente o decorrer do mesmo, a avaliação final será necessariamente negativa. Nesse sentido, a Liga Portugal reserva decisão para os próximos dias.\"",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09094916/47582886.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "`Rentrées` partidárias começam na sexta-feira em ano de cinquentenário do Pontal e do Avante!",
+      "link": "https://www.rtp.pt/noticias/politica/rentrees-partidarias-comecam-na-sexta-feira-em-ano-de-cinquentenario-do-pontal-e-do-avante_n1758494",
+      "pubDate": "Sun, 09 Aug 2026 12:44:02 +0100",
+      "description": "Os partidos começam na sexta-feira a retomar a atividade política, num regresso marcado pelos 50 anos das festas do Pontal e do Avante!, a preferência pelo Algarve e a presença de nomes do PS na `rentrée` do BE.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Hong Kong regista recorde de calor com 36,9 °C",
-      "link": "https://www.rtp.pt/noticias/mundo/hong-kong-regista-recorde-de-calor-com-369-c_n1758486",
-      "pubDate": "Sun, 09 Aug 2026 10:45:34 +0100",
-      "description": "Hong Kong registou hoje a temperatura mais elevada desde que existem registos, em 1884, ao atingir 36,9 °C na sede do Observatório Meteorológico, no bairro de Tsim Sha Tsui, cujas medições servem de referência para a cidade.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d3dbe26178bb20047def88e970caa87?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: estava a ser apresentado, quis dar um beijo na namorada... e correu mal",
+      "link": "https://maisfutebol.iol.pt/incrivel/brasil/video-estava-a-ser-apresentado-quis-dar-um-beijo-na-namorada-e-correu-mal",
+      "pubDate": "Sun, 9 Aug 2026 11:42:40 +0100",
+      "description": "Que situação constrangedora",
+      "thumbnail": "https://img.iol.pt/image/id/6a785740d34ed0733ba7eeef/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Benfica-Académico Viseu: Marco Silva mexe, mas pouco (onzes prováveis)",
+      "link": "https://maisfutebol.iol.pt/benfica/academico-viseu/benfica-academico-viseu-marco-silva-mexe-mas-pouco-onzes-provaveis",
+      "pubDate": "Sun, 9 Aug 2026 11:37:00 +0100",
+      "description": "Encarnados estreiam-se no Estádio da Luz, mas sem adeptos nas bancadas",
+      "thumbnail": "https://img.iol.pt/image/id/6a480825d34e28842c85eb07/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 9 Aug 2026 10:32:00 +0100",
       "description": "Equipa comandada pelo português Franclim Carvalho empatou 1-1 com o Fluminense",
       "thumbnail": "https://img.iol.pt/image/id/69e80372d34edcee7c634f92/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: De Paul dedica golo a Messi na derrota do Inter Miami",
-      "link": "https://maisfutebol.iol.pt/internacional/estados-unidos/video-de-paul-dedica-golo-a-messi-na-derrota-do-inter-miami",
-      "pubDate": "Sun, 9 Aug 2026 10:20:00 +0100",
-      "description": "Capitão argentino está de luto pela morte do pai",
-      "thumbnail": "https://img.iol.pt/image/id/6a784106d34ed0733ba7eecf/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Já lá vão três…. Pedri cumpre promessa de campeão do mundo",
-      "link": "https://maisfutebol.iol.pt/mundial2026/espanha/ja-la-vao-tres-pedri-cumpre-promessa-de-campeao-do-mundo",
-      "pubDate": "Sun, 9 Aug 2026 09:47:00 +0100",
-      "description": "Internacional espanhol pintou o cabelo de loiro",
-      "thumbnail": "https://img.iol.pt/image/id/6a7838f5d34ed0733ba7eebe/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "GNR apreende 3.750 litros de combustível transportados numa viatura",
-      "link": "https://www.noticiasaominuto.com/pais/3034183/gnr-apreende-3750-litros-de-combustivel-transportados-numa-viatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:23:31",
+      "title": "Huthis pró-iranianos reivindicam ataques contra porto iemenita",
+      "link": "https://www.noticiasaominuto.com/mundo/3034191/huthis-pro-iranianos-reivindicam-ataques-contra-porto-iemenita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:55:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6707ae11e5045.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjE3OTMsImNyb3BZIjozNDF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67d6d92e5b8ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "OMS denuncia ataque contra armazém em solo ucraniano",
-      "link": "https://www.noticiasaominuto.com/mundo/3034182/oms-denuncia-ataque-contra-armazem-em-solo-ucraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:21:42",
+      "title": "Rússia anuncia conquista de 2 localidades na região ucraniana de Donetsk",
+      "link": "https://www.noticiasaominuto.com/mundo/3034190/russia-anuncia-conquista-de-2-localidades-na-regiao-ucraniana-de-donetsk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:53:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1b208c34e6d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzNiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a785c383f9e4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo2OX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ceuta voltou a colocar migração no centro das atenções da UE. Entenda",
-      "link": "https://www.noticiasaominuto.com/mundo/3034173/ceuta-voltou-a-colocar-migracao-no-centro-das-atencoes-da-ue-entenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:17:09",
+      "title": "Incêndio florestal no Canadá obrigou à retirada de 20 mil pessoas",
+      "link": "https://www.noticiasaominuto.com/mundo/3034188/incendio-florestal-no-canada-obrigou-a-retirada-de-20-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:48:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7853a85e2d4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a785b1125f2f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgyNiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ébola: Subiu para 1.887 número de mortos na RDCongo",
-      "link": "https://www.noticiasaominuto.com/mundo/3034179/ebola-subiu-para-1887-numero-de-mortos-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:14:12",
+      "title": "Irão insiste que só negociará quando EUA deixarem de violar memorando",
+      "link": "https://www.noticiasaominuto.com/mundo/3034187/irao-insiste-que-so-negociara-quando-eua-deixarem-de-violar-memorando#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:44:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6303d0289afed.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY0NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a03a7d5228a6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6OTM5LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "UDIPSS Braga alerta para risco de perda de verbas do PRR",
-      "link": "https://www.noticiasaominuto.com/economia/3034178/udipss-braga-alerta-para-risco-de-perda-de-verbas-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 11:12:43",
+      "title": "Rentrées dos partidos vêm aí (marcadas pelos 50 anos do Pontal e Avante!)",
+      "link": "https://www.noticiasaominuto.com/politica/3034185/rentrees-dos-partidos-vem-ai-marcadas-pelos-50-anos-do-pontal-e-avante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:38:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6895f3a34f8ff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66bdab2c486f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxMDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjQ2NSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Como é que o VLC continua grátis depois de 6 mil milhões de downloads?",
+      "link": "https://pplware.sapo.pt/multimedia-2/como-e-que-o-vlc-continua-gratis-depois-de-6-mil-milhoes-de-downloads/",
+      "pubDate": "Sun, 09 Aug 2026 11:00:26 +0000",
+      "description": "Numa era dominada por subscrições mensais e publicidade invasiva, o VLC media player destaca-se por sempre ter sido gratuito. Este leitor multimédia continua a ser um dos softwares mais descarregados do mundo sem nunca&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/01/vlc-2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -275,7 +285,7 @@
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Esqueça a Neuralink. IA já consegue ler pensamentos e pagam 50 dólares a para testar",
+      "title": "Esqueça a Neuralink. IA já consegue ler pensamentos e pagam 50 dólares para a testar",
       "link": "https://pplware.sapo.pt/inteligencia-artificial/esqueca-a-neuralink-ia-ja-consegue-ler-pensamentos-e-pagam-50-dolares-para-testar/",
       "pubDate": "Sun, 09 Aug 2026 08:00:40 +0000",
       "description": "A ligação entre a IA e a neurociência deu um salto histórico nos últimos dias. Uma equipa de investigadores conseguiu desenvolver um sistema capaz de traduzir sinais cerebrais diretamente em texto escrito sem recurso&#46;&#46;&#46;",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 09 Aug 2026 07:00:55 +0000",
       "description": "A lentidão na modernização do Windows 11 e a falta de coerência visual continuam a gerar forte insatisfação. Muitos questionam a razão pela qual o sistema da Microsoft ainda mantém menus e ferramentas com&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/02/microsoft_windows_11_no_reboot_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cuidado com o frigorífico! Truque do TikTok destrói smartphone em minutos",
-      "link": "https://pplware.sapo.pt/gadgets/cuidado-com-o-frigorifico-truque-do-tiktok-destroi-smartphone-em-minutos/",
-      "pubDate": "Sun, 09 Aug 2026 06:00:17 +0000",
-      "description": "Meter o smartphone no frigorífico para arrefecer parece uma solução rápida e eficaz nos dias mais quentes do verão. Esta técnica ganhou popularidade no TikTok, prometendo resolver em poucos minutos o sobreaquecimento causado pelo&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/iphone_fricgorifico.jpg"
     },
     {
       "sourceId": "autosport",
