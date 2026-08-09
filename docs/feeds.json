@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-09T15:26:22.909596+00:00",
+  "updated": "2026-08-09T15:56:47.067174+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 16h",
+      "title": "Fogo em Vila Pouca de Aguiar mobiliza 7 meios aéreos",
+      "link": "https://observador.pt/2026/08/09/mais-de-180-operacionais-e-sete-aeronaves-combatem-incendio-em-vila-pouca-de-aguiar/",
+      "pubDate": "Sun, 09 Aug 2026 16:55:44 +0100",
+      "description": "Mais de 160 operacionais estão a combater um incêndio em Vila Pouca de Aguiar no distrito de Vila Real. Fogo em Parambos, Carrazeda de Ansiães, teve reativações.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09143901/45451000.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "16h. Centenas de operacionais combatem fogos em Bragança",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2324/",
       "pubDate": "Sun, 09 Aug 2026 16:13:22 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Não há por agora risco de propagação para lá do perímetro definido pelos bombeiros. Ainda, Israel rejeita o plano de paz com 15 pontos para a Faixa de Gaza.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -40,16 +50,6 @@
       "pubDate": "Sun, 09 Aug 2026 14:33:02 +0100",
       "description": "\"As intempéries, as vagas de calor, os sismos, a frequência de incêndios devastadores, em Portugal e noutras geografias, clamam por ação atempada, mobilizadora e fundamentada\", sublinhou Seguro.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07181939/47574428.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "'Lei do Retorno' nas mãos do Tribunal Constitucional",
-      "link": "https://observador.pt/especiais/prazos-de-detencao-expulsao-de-menores-e-combate-a-recursos-sucessivos-lei-do-retorno-nas-maos-do-tribunal-constitucional/",
-      "pubDate": "Sun, 09 Aug 2026 14:30:49 +0100",
-      "description": "Governo queria aumentar tempos máximos de detenção, agilizar expulsão de migrantes em situação irregular e eliminar recursos abusivos. Presidente enviou para o TC, que tem agora 25 dias para decidir.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17201709/dventura-debate-estado-nacao-71-scaled.jpg"
     },
     {
       "sourceId": "rtp",
@@ -105,6 +105,26 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "VÍDEOS: Monaco estraga festa do Liverpool com reviravolta em Anfield",
+      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/videos-monaco-estraga-festa-do-liverpool-com-reviravolta-em-anfield",
+      "pubDate": "Sun, 9 Aug 2026 16:55:54 +0100",
+      "description": "Equipa de Iraola esteve a vencer por 2-0, mas monegascos deram a volta ao resultado",
+      "thumbnail": "https://img.iol.pt/image/id/6a78a274d34e511da0b32670/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: corte causa... acidente numa estrada no Uruguai",
+      "link": "https://maisfutebol.iol.pt/insolito/uruguai/video-corte-causa-acidente-numa-estrada-no-uruguai",
+      "pubDate": "Sun, 9 Aug 2026 16:42:23 +0100",
+      "description": "Jogo no segundo escalão uruguaio ficou marcado por um momento inacreditável",
+      "thumbnail": "https://img.iol.pt/image/id/6a789bc6d34e511da0b3266b/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "II Liga: Thio decide e Vizela vence na receção à U. Leiria",
       "link": "https://maisfutebol.iol.pt/vizela/ii-liga/ii-liga-thio-decide-e-vizela-vence-na-rececao-a-u-leiria",
       "pubDate": "Sun, 9 Aug 2026 15:59:00 +0100",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 9 Aug 2026 15:28:41 +0100",
       "description": "Jorge Martín terminou em segundo e reforçou a liderança do campeonato",
       "thumbnail": "https://img.iol.pt/image/id/6a3fe327d34e28842c85a6dc/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Tiago Araújo solta bomba e Gent abre campeonato com vitória",
-      "link": "https://maisfutebol.iol.pt/made-in/gent/video-tiago-araujo-solta-bomba-e-gent-abre-campeonato-com-vitoria",
-      "pubDate": "Sun, 9 Aug 2026 15:26:00 +0100",
-      "description": "Ex-Benfica encheu o pé à passagem do minuto 37 e soltou a festa nas bancadas",
-      "thumbnail": "https://img.iol.pt/image/id/6a788d5bd34e511da0b32661/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Quenda e Essugo titulares: Chelsea empata a três golos na Malásia",
-      "link": "https://maisfutebol.iol.pt/chelsea/internacional/quenda-e-essugo-titulares-chelsea-empata-a-tres-golos-na-malasia",
-      "pubDate": "Sun, 9 Aug 2026 15:06:54 +0100",
-      "description": "Pedro Neto não foi convocado por Xabi Alonso para a visita ao Johor",
-      "thumbnail": "https://img.iol.pt/image/id/6a761754d34ed0733ba7ec6b/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governo altera regime de compensações a ataques de lobo ibérico",
-      "link": "https://www.noticiasaominuto.com/pais/3034238/governo-altera-regime-de-compensacoes-a-ataques-de-lobo-iberico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 16:11:31",
+      "title": "EM DIRETO: FC Porto estreia-se antes do Benfica entrar em campo",
+      "link": "https://www.noticiasaominuto.com/desporto/3033625/em-direto-edicao-2627-da-i-liga-arranca-com-o-estoril-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 16:43:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5ba39395dd8c4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69bc525ea7376.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcwOSwiY3JvcEhlaWdodCI6MTI2MSwiY3JvcFgiOjE3NjQsImNyb3BZIjoxNDN9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fim do mistério? Há vídeo de Mojtaba Khamenei e Irão promete mais imagens",
-      "link": "https://www.noticiasaominuto.com/mundo/3034233/video-de-mojtaba-khamenei-circula-e-irao-promete-novas-imagens-em-breve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 16:08:15",
+      "title": "Embate com Jakob Ingebrigtsen dá \"incentivo extra\" a José Carlos Pinto",
+      "link": "https://www.noticiasaominuto.com/desporto/3034230/embate-com-jakob-ingebrigtsen-da-incentivo-extra-a-jose-carlos-pinto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 16:35:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7891e128fb1.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUxNiwiY3JvcEhlaWdodCI6OTE3LCJjcm9wWCI6MTExOCwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDE0LCJjcm9wSGVpZ2h0Ijo3OTUsImNyb3BYIjoyMzEsImNyb3BZIjo2fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/40394561.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "'Deixa que o Thio resolve'. Vizela soma triunfo na estreia ante o Leiria",
-      "link": "https://www.noticiasaominuto.com/desporto/3034236/deixa-que-o-thio-resolve-vizela-soma-triunfo-na-estreia-ante-o-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 16:00:38",
+      "title": "Farioli troca voltas à direita. Os onzes iniciais para o FC Porto-Alverca",
+      "link": "https://www.noticiasaominuto.com/desporto/3034235/farioli-troca-voltas-a-direita-os-onzes-iniciais-para-o-fc-porto-alverca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 16:35:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7894284f73a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjQsImNyb3BYIjowLCJjcm9wWSI6NzV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_699205d77c3f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTE2NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Borussia Dortmund quebra hegemonia do Arsenal e conquista a Emirates Cup",
-      "link": "https://www.noticiasaominuto.com/desporto/3034237/borussia-dortmund-quebra-hegemonia-do-arsenal-e-conquista-a-emirates-cup#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 15:53:20",
+      "title": "Raúl Fernández domina GP da Grã-Bretanha e Martín reforça liderança",
+      "link": "https://www.noticiasaominuto.com/auto/3034234/raul-fernandez-domina-gp-da-gra-bretanha-e-martin-reforca-lideranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 16:33:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78924f40470.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo0MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NjI5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47581390.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Canadá. Voo cancelado depois de criança recusar-se a colocar cinto",
-      "link": "https://www.noticiasaominuto.com/mundo/3034217/canada-voo-cancelado-depois-de-crianca-recusar-se-a-colocar-cinto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 15:37:23",
+      "title": "De luto. Eis as imagens da chegada de Lionel Messi para o funeral do pai",
+      "link": "https://www.noticiasaominuto.com/desporto/3034241/de-luto-eis-as-imagens-da-chegada-de-lionel-messi-para-o-funeral-do-pai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 16:32:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a787c7e89ef9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo1OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6OTY2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7899e4b3c67.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ5LCJjcm9wSGVpZ2h0IjoxNjg2LCJjcm9wWCI6NDcyLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,16 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "F1 – As Mais Lidas: Juan Pablo Montoya considera declarações de Max Verstappen inaceitáveis",
+      "link": "https://www.autosport.pt/formula1/f1/f1-juan-pablo-montoya-considera-declaracoes-de-max-verstappen-inaceitaveis/",
+      "pubDate": "Sun, 09 Aug 2026 15:30:00 +0000",
+      "description": "Ainda estávamos no arranque da temporada, com as primeiras corridas a darem um misto de momentos de grande emoção e o descontentamento dos pilotos que consideravam este tipo de corridas menos puro e menos entusiasmante. Max Verstappen era o piloto mais crítico com reparos constantes. Se muitos viram",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "Dieter Quester: O Senhor BMW",
       "link": "https://www.autosport.pt/velocidade/dieter-quester-o-senhor-bmw/",
       "pubDate": "Sun, 09 Aug 2026 14:45:00 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/automais/na-fortune-global-500-26-fabricantes/",
       "pubDate": "Sun, 09 Aug 2026 12:30:00 +0000",
       "description": "O peso do automóvel na economia global manifesta-se de diversas formas. Por exemplo, recentemente, conheceu-se a lista de 2026 da revista norte-americana Fortune, que apresenta as 500 maiores empresas mundiais em função dos volumes de negócios (receitas) ao longo de um ano fiscal. E, na tabela, que ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Honda quer voltar a colocar Alonso na rota do título",
-      "link": "https://www.autosport.pt/formula1/f1-honda-quer-voltar-a-colocar-alonso-na-rota-do-titulo/",
-      "pubDate": "Sun, 09 Aug 2026 11:45:00 +0000",
-      "description": "A Honda, fornecedora do motor da Aston Martin, confirmou o objetivo de voltar a transformar o bicampeão do mundo Fernando Alonso num candidato ao título. Numa entrevista recente à RacingNews365, o engenheiro-chefe da Honda, Shintaro Orihara, sublinhou a importância do feedback técnico de Alonso, afi",
       "thumbnail": ""
     }
   ]
