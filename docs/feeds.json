@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-09T18:50:52.358588+00:00",
+  "updated": "2026-08-09T19:29:25.569542+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Bombeiros pedem a PR para ajudar na reforma do setor",
+      "link": "https://observador.pt/2026/08/09/bombeiros-pedem-a-presidente-para-ajudar-a-acelerar-discussao-sobre-reforma-do-setor/",
+      "pubDate": "Sun, 09 Aug 2026 20:01:34 +0100",
+      "description": "O presidente da Liga dos Bombeiros Portugueses pediu ao Presidente da República para usar a sua \"magistratura de influência\" para \"acelerar a discussão pública\" sobre a reforma estrutural do setor.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09184416/47584254.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogos. do Presidente são alerta para se pensar e corrigir",
+      "link": "https://observador.pt/2026/08/09/incendios-ministro-da-administracao-interna-diz-que-reparos-do-presidente-sao-alerta-para-se-pensar-e-corrigir/",
+      "pubDate": "Sun, 09 Aug 2026 19:57:28 +0100",
+      "description": "As chamadas de atenção e os reparos do Presidente da República são sempre vistos como uma forma de alerta e para se pensar e poder corrigir aquilo que há a corrigir, diz Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29182350/jporfirio-conf-imprensa-luis-neves-29-07-2026-01-9-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,7 +35,7 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Águia apadrinha regresso dos viriatos à porta fechada",
+      "title": "À porta fechada, Marco Silva repete onze que goleou o Hearts",
       "link": "https://observador.pt/liveblogs/benfica-academico-viseu-aguia-apadrinha-regresso-dos-viriatos-com-luz-a-porta-fechada/",
       "pubDate": "Sun, 09 Aug 2026 19:29:27 +0100",
       "description": "A estreia do Benfica no Campeonato, no jogo que marca o regresso do Ac. Viseu, acontece à porta fechada, por castigo da APCVD. Marco Silva repete onze que goleou Hearts. Siga aqui em direto.",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/15134946/35493914.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Madeira e Porto Santo sob aviso amarelo devido a calor",
-      "link": "https://observador.pt/2026/08/09/madeira-e-porto-santo-sob-aviso-amarelo-devido-ao-tempo-quente-ate-quarta-feira/",
-      "pubDate": "Sun, 09 Aug 2026 19:25:45 +0100",
-      "description": "As costas norte e sul da Madeira e o Porto Santo estão sob aviso amarelo devido ao tempo quente até quarta-feira, indicou o Instituto Português do Mar e da Atmosfera (IPMA).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/02153429/madeira-porto-do-funchal.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "20h Estão dominados os fogos de Carrazeda e Vila Pouca de Aguiar",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-estao-dominados-os-fogos-de-carrazeda-e-vila-pouca-de-aguiar_a1_1758557",
+      "pubDate": "Sun, 09 Aug 2026 21:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As portas fecharam-se, mas a Luz acendeu-se junto ao Rei",
-      "link": "https://observador.pt/2026/08/09/as-portas-fecharam-se-mas-a-luz-acendeu-se-junto-ao-rei-benfica-fintou-castigo-e-juntou-equipa-e-adeptos-em-torno-da-estatua-de-eusebio/",
-      "pubDate": "Sun, 09 Aug 2026 19:20:30 +0100",
-      "description": "Com a Luz fechada, os adeptos reuniram-se na fan zone, onde não faltou comida, ecrãs e até bandeiras, numa receção apoteótica junto à estátua de Eusébio. Medida gerou controvérsia nos últimos dias.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:676:nowe:0:168/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09193617/hptpenyxcaafwmh.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Moreirense - Sp. Braga",
+      "link": "https://www.rtp.pt/noticias/desporto/moreirense-sp-braga_e1758535",
+      "pubDate": "Sun, 09 Aug 2026 21:16:09 +0100",
+      "description": "Registo em direto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d940bcb358422d80dd8cfbca6398918?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Gil Vicente - Rio Ave",
+      "link": "https://www.rtp.pt/noticias/desporto/gil-vicente-rio-ave_e1758536",
+      "pubDate": "Sun, 09 Aug 2026 21:16:02 +0100",
+      "description": "Registo em direto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e845dec23f46f5826cac2915717d414c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Benfica - Ac. Viseu",
+      "link": "https://www.rtp.pt/noticias/desporto/benfica-ac-viseu_e1758534",
+      "pubDate": "Sun, 09 Aug 2026 21:01:03 +0100",
+      "description": "Relato em direto na Antena 1 e registo minuto-a-minuto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e1/e1278c8969f9305422968e5e9cb01a4c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Piorou o estado de saúde do expresidente Joe Biden",
-      "link": "https://www.rtp.pt/noticias/mundo/piorou-o-estado-de-saude-do-expresidente-joe-biden_v1758553",
-      "pubDate": "Sun, 09 Aug 2026 20:17:48 +0100",
-      "description": "O filho de Biden explicou que o ex-presidente norte-americano enfrenta uma fase mais difícil da luta contra o cancro da próstata.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2d/2d8ce2cc05833a0be76bdd922525c198_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Ficou provado porque é que o Diogo Costa é um dos melhores guarda-redes do mundo»",
+      "link": "https://maisfutebol.iol.pt/liga/alverca/ficou-provado-porque-e-que-o-diogo-costa-e-um-dos-melhores-guarda-redes-do-mundo",
+      "pubDate": "Sun, 9 Aug 2026 20:25:00 +0100",
+      "description": "Sérgio Ferreira, treinador do Alverca, diz que sai satisfeito pela exibição da equipa diante do FC Porto",
+      "thumbnail": "https://img.iol.pt/image/id/6a78cbd0d34e511da0b326c0/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Confrontos com a polícia no Uíge fizeram 31 feridos, dez graves",
-      "link": "https://www.rtp.pt/noticias/mundo/confrontos-com-a-policia-no-uige-fizeram-31-feridos-dez-graves_n1758525",
-      "pubDate": "Sun, 09 Aug 2026 20:07:09 +0100",
-      "description": "Pelo menos 31 pessoas ficaram feridas, dez com gravidade, na sequência da intervenção da polícia junto à sede da UNITA no Uíge, no sábado, disse hoje à Lusa o secretário-geral da JURA, organização juvenil do partido, Nelito Ekuikui.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "André Silva: «É como viver um sonho pela primeira vez»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/andre-silva/andre-silva-e-como-viver-um-sonho-pela-primeira-vez",
+      "pubDate": "Sun, 9 Aug 2026 20:18:15 +0100",
+      "description": "Avançado do FC Porto admitiu que a entorse sentida foi «desinteressante»",
+      "thumbnail": "https://img.iol.pt/image/id/6a78b91ad34e511da0b32692/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ataque `jihadista` a militares no Mali faz pelos menos 10 mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/ataque-jihadista-a-militares-no-mali-faz-pelos-menos-10-mortos_n1758548",
-      "pubDate": "Sun, 09 Aug 2026 20:06:08 +0100",
-      "description": "Pelo menos 10 militares foram mortos hoje numa cidade do centro do Mali, num ataque a um acampamento do exército, reivindicado por um grupo `jihadista` afiliado da Al-Qaida, segundo fontes de segurança e locais.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Tivemos oportunidades para marcar e se fizéssemos o 2-1...»",
+      "link": "https://maisfutebol.iol.pt/liga/alverca/tivemos-oportunidades-para-marcar-e-se-fizessemos-o-2-1",
+      "pubDate": "Sun, 9 Aug 2026 20:11:29 +0100",
+      "description": "Isaac James considera que o Alverca deu bons indicadores no Dragão",
+      "thumbnail": "https://img.iol.pt/image/id/69bfd7a8d34e28842c8208e7/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Paulo Lino é campeão do mundo de Judo na categoria Síndrome de Down",
-      "link": "https://www.rtp.pt/noticias/desporto/paulo-lino-e-campeao-do-mundo-de-judo-na-categoria-sindrome-de-down_v1758550",
-      "pubDate": "Sun, 09 Aug 2026 19:45:47 +0100",
-      "description": "Paulo Lino sagrou-se campeão do Mundo em atletas com Síndrome de Down no peso -60 kg. O judoca português conquistou a medalha de ouro na Suécia e levou a bandeira portuguesa ao lugar mais alto do pódio. Repete vitória de 2019. Também foi campeão da Europa por duas vezes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be75b8409103e40736c326dc1cfbfa2d_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto-Alverca, 2-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/fc-porto/liga/fc-porto-alverca-2-0-cronica",
+      "pubDate": "Sun, 9 Aug 2026 19:57:00 +0100",
+      "description": "«E é sempre a primeira vez, em cada regresso a casa»",
+      "thumbnail": "https://img.iol.pt/image/id/6a78b922d34ed0733ba7ef66/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sun, 9 Aug 2026 19:33:00 +0100",
       "description": "Samuel Soares na baliza e Tomás Araújo com a braçadeira de capitão",
       "thumbnail": "https://img.iol.pt/image/id/6a75a54ad34ed0733ba7eafe/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Don Nelson, lenda da NBA, morre aos 86 anos",
-      "link": "https://maisfutebol.iol.pt/basquetebol/nba/don-nelson-lenda-da-nba-morre-aos-86-anos",
-      "pubDate": "Sun, 9 Aug 2026 19:18:10 +0100",
-      "description": "Foi cinco vezes campeão como jogador e destacou-se como um dos treinadores mais vitoriosos e inovadores da liga",
-      "thumbnail": "https://img.iol.pt/image/id/6a78c35ed34ed0733ba7ef7a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Benfica recebido por milhares de adeptos junto da estátua de Eusébio",
-      "link": "https://maisfutebol.iol.pt/benfica/liga/video-benfica-recebido-por-milhares-de-adeptos-junto-da-estatua-de-eusebio",
-      "pubDate": "Sun, 9 Aug 2026 19:08:00 +0100",
-      "description": "Encarnados recebem o Académico de Viseu à porta fechada, o que não impediu os benfiquistas de se deslocarem ao estádio",
-      "thumbnail": "https://img.iol.pt/image/id/6a78c1c4d34ed0733ba7ef73/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rangers recusa 25 milhões por Chermiti e português sai lesionado",
-      "link": "https://maisfutebol.iol.pt/made-in/rangers/rangers-recusa-25-milhoes-por-chermiti-e-portugues-sai-lesionado",
-      "pubDate": "Sun, 9 Aug 2026 18:53:00 +0100",
-      "description": "Galatasaray levou nega dos escoceses. Avançado foi titular na derrota com o Hibernian, mas saiu ainda na primeira parte",
-      "thumbnail": "https://img.iol.pt/image/id/6a78bd85d34e511da0b3269b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Presidente do Bayern: «Palhinha? Ainda temos três semanas...»",
-      "link": "https://maisfutebol.iol.pt/transferencias/joao-palhinha/presidente-do-bayern-palhinha-ainda-temos-tres-semanas",
-      "pubDate": "Sun, 9 Aug 2026 18:45:00 +0100",
-      "description": "Herbert Hainer mostrou-se otimista que o futuro do internacional português se resolva em breve",
-      "thumbnail": "https://img.iol.pt/image/id/6a71e2b0d34e511da0b318a1/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndios? Reparos do Presidente são \"alerta para se pensar e corrigir\"",
-      "link": "https://www.noticiasaominuto.com/pais/3034278/incendios-reparos-do-presidente-sao-alerta-para-se-pensar-e-corrigir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 19:44:14",
+      "title": "Fogo de Vila Pouca de Aguiar dominado e em fase de rescaldo",
+      "link": "https://www.noticiasaominuto.com/pais/3034291/fogo-de-vila-pouca-de-aguiar-dominado-e-em-fase-de-rescaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 20:25:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69e2763117ad0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo2MTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEyMTAsImNyb3BIZWlnaHQiOjIxNTEsImNyb3BYIjoxMjQ1LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689fb8adc88d2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "De cortar a respiração. A loucura dos adeptos na chegada do Benfica à Luz",
-      "link": "https://www.noticiasaominuto.com/desporto/3034274/de-cortar-a-respiracao-a-loucura-dos-adeptos-na-chegada-do-benfica-a-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 19:38:39",
+      "title": "Kosovo reage após recusa de Zelensky de reconhecer a sua independência",
+      "link": "https://www.noticiasaominuto.com/mundo/3034294/kosovo-reage-apos-recusa-de-zelensky-de-reconhecer-a-sua-independencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 20:24:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78c9096f162.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78d3f7e30b5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marco Silva não mexe. Os onzes iniciais para o Benfica-Académico",
-      "link": "https://www.noticiasaominuto.com/desporto/3034245/marco-silva-mexe-e-remexe-os-onzes-iniciais-para-o-benfica-academico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 19:27:06",
+      "title": "André Silva feliz, mas deixa aviso: \"Podemos ter feito melhor...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034292/andre-silva-feliz-mas-deixa-aviso-podemos-ter-feito-melhor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 20:21:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c3168daeb2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78d02426e3c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg3LCJjcm9wSGVpZ2h0IjoxMjg2LCJjcm9wWCI6MCwiY3JvcFkiOjE1NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTg3NSwiY3JvcEhlaWdodCI6MzMzMiwiY3JvcFgiOjE3NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preocupação para Jorge Jesus? Chermiti abandona o relvado de maca",
-      "link": "https://www.noticiasaominuto.com/desporto/3034273/preocupacao-para-jorge-jesus-chermiti-abandona-o-relvado-de-maca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 19:17:08",
+      "title": "Proteção Civil e bombeiros são \"uma prioridade nacional e do Governo\"",
+      "link": "https://www.noticiasaominuto.com/pais/3034287/protecao-civil-e-bombeiros-sao-uma-prioridade-nacional-e-do-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 20:19:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78bff26b7dc.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47584257.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "André Silva tem íman e ganhou novo penálti para o FC Porto neste lance",
-      "link": "https://www.noticiasaominuto.com/desporto/3034270/andre-silva-tem-iman-e-ganhou-novo-penalti-para-o-fc-porto-neste-lance#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 19:15:30",
+      "title": "Isaac James e os penáltis do FC Porto: \"Não foi infantil. Acontece...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034288/isaac-james-e-os-penaltis-do-fc-porto-nao-foi-infantil-acontece#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 20:16:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78c39df2daf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTExLCJjcm9wSGVpZ2h0Ijo2MjUsImNyb3BYIjoxMzEsImNyb3BZIjozMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NDU0LCJjcm9wSGVpZ2h0Ijo4MDcsImNyb3BYIjo2NTAsImNyb3BZIjo1NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78cfd4ada3a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUxLCJjcm9wSGVpZ2h0IjoxNjkxLCJjcm9wWCI6ODEzLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
