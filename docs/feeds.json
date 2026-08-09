@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-09T11:54:39.321701+00:00",
+  "updated": "2026-08-09T12:41:08.964901+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h. Incêndios. PR aponta o dedo a anúncios por cumprir",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2410/",
+      "pubDate": "Sun, 09 Aug 2026 13:14:40 +0100",
+      "description": "António José Seguro lamenta que não saiam da gaveta muitas das recomendações feitas ano após ano para melhorar a prevenção dos incêndios. Ainda, Israel rejeita plano para Gaza.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Marrocos acusado de usar Ceuta como \"chantagem política\"",
+      "link": "https://observador.pt/2026/08/09/marrocos-acusado-de-usar-ceuta-como-chantagem-politica/",
+      "pubDate": "Sun, 09 Aug 2026 13:04:17 +0100",
+      "description": "\"Foi uma manobra criminosa orquestrada pela monarquia alauita e permitida pela 'Fortaleza Europa', que utiliza vidas humanas como moeda de troca geopolítica\", diz Partido da Esquerda Europeia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09124209/47565145.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Operação da PSP em 14 detenções e 60 contraordenações",
+      "link": "https://observador.pt/2026/08/09/operacao-da-psp-esta-madrugada-em-lisboa-resulta-em-14-detencoes-e-60-contraordenacoes/",
+      "pubDate": "Sun, 09 Aug 2026 13:04:01 +0100",
+      "description": "A PSP refere no comunicado que irá continuar a desenvolver estas operações que têm \"simultaneamente um objetivo de prevenção e de fiscalização de condutas violadoras do Código de Estrada e legislação",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/02/23070408/20138845.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,62 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 12h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2411/",
-      "pubDate": "Sun, 09 Aug 2026 12:12:28 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Subiu para 1.887 número de mortos por Ébola na RD Congo",
-      "link": "https://observador.pt/2026/08/09/subiu-para-1-887-numero-de-mortos-por-ebola-na-republica-democratica-do-congo/",
-      "pubDate": "Sun, 09 Aug 2026 11:43:02 +0100",
-      "description": "A taxa de letalidade — proporção entre o número de mortes por uma doença e o número total de doentes que sofrem dessa doença, ao longo de um determinado período de tempo — aumentou para 45,8%.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09113232/47568672.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Acidente no Seixal revela armas e milhares de doses de droga",
-      "link": "https://observador.pt/2026/08/09/acidente-mortal-no-seixal-leva-pj-a-apreender-milhares-de-doses-de-droga-e-uma-arma-de-fogo/",
-      "pubDate": "Sun, 09 Aug 2026 11:31:00 +0100",
-      "description": "A PJ adiantou que apreendeu diferentes tipos de droga em quantidades suficientes para milhares de doses individuais, nomeadamente, cocaína em quantidade suficiente para 27 mil doses individuais.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/26220514/40712766.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndios. Presidente da República critica falta de cumprimento de promessas e propostas",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-presidente-da-republica-critica-falta-de-cumprimento-de-promessas-e-propostas_n1758496",
-      "pubDate": "Sun, 09 Aug 2026 13:13:35 +0100",
-      "description": "Num discurso nas comemorações dos 150 anos dos Bombeiros da Guarda, António José Seguro veio criticar o &quot;muito que ficou por fazer&quot; desde os incêndios de 2017, bem como promessas por cumprir, por exemplo, na recuperação da área ardida na Serra da Estrela e reitera a necessidade de apostar ",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dd/dd9bf7eeca1f1f7dfa6d249d2af3cf32?w=350&amp;q=50&amp;rect=0,466,900,493&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "`Rentrées` partidárias começam na sexta-feira em ano de cinquentenário do Pontal e do Avante!",
-      "link": "https://www.rtp.pt/noticias/politica/rentrees-partidarias-comecam-na-sexta-feira-em-ano-de-cinquentenario-do-pontal-e-do-avante_n1758494",
-      "pubDate": "Sun, 09 Aug 2026 12:44:02 +0100",
-      "description": "Os partidos começam na sexta-feira a retomar a atividade política, num regresso marcado pelos 50 anos das festas do Pontal e do Avante!, a preferência pelo Algarve e a presença de nomes do PS na `rentrée` do BE.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "11h Entrou resolução o incêndio em Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-entrou-resolucao-o-incendio-em-carrazeda-de-ansiaes_a1_1758493",
-      "pubDate": "Sun, 09 Aug 2026 12:22:02 +0100",
+      "title": "13h PR diz que ficou muito por fazer desde os incêndios de 2017",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-pr-diz-que-ficou-muito-por-fazer-desde-os-incendios-de-2017_a1_1758508",
+      "pubDate": "Sun, 09 Aug 2026 14:18:08 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,21 +65,51 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "UDIPSS Braga fala em risco de perda de verbas do PRR por atrasos do Estado",
-      "link": "https://www.rtp.pt/noticias/economia/udipss-braga-fala-em-risco-de-perda-de-verbas-do-prr-por-atrasos-do-estado_n1758491",
-      "pubDate": "Sun, 09 Aug 2026 12:20:47 +0100",
-      "description": "A União Distrital das Instituições Particulares de Solidariedade Social de Braga (UDIPSS Braga) alertou para o risco de várias IPSS perderem financiamento do Plano de Recuperação e Resiliência (PRR) por atrasos que diz não serem imputáveis às instituições.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Irão divulgou primeiras imagens em vídeo de Mojtaba Khamenei desde o início da guerra",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-divulgou-primeiras-imagens-em-video-de-mojtaba-khamenei-desde-o-inicio-da-guerra_v1758507",
+      "pubDate": "Sun, 09 Aug 2026 14:17:47 +0100",
+      "description": "Este vídeo, com apenas 12 segundos, sem aúdio, data, ou local de gravação, foi divulgado pela agência de notícias Mehr na rede social Telegram.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/67/67bc2968c168faafbca296731d3077a0_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "10h Um incêndio em Carrazeda de Ansiães por dominar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-um-incendio-em-carrazeda-de-ansiaes-por-dominar_a1_1758492",
-      "pubDate": "Sun, 09 Aug 2026 11:57:02 +0100",
+      "title": "Irão faz novas exigências para reabrir o estreito de Ormuz",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-faz-novas-exigencias-para-reabrir-o-estreito-de-ormuz_v1758506",
+      "pubDate": "Sun, 09 Aug 2026 14:16:47 +0100",
+      "description": "O Irão quer que os Estados Unidos &quot;corrijam o comportamento&quot; e faz novas exigências para reabrir o estreito de Ormuz. A lista inclui o fim do bloqueio naval, a suspensão das sanções, o pagamento de reparações de guerra e a cessação das operações militares contra o país e contra aliados reg",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b3/b39c5b859baa9b7074f0affb47a3499a_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Do Atlântico aos Balcãs. Europa regista grandes fogos florestais",
+      "link": "https://www.rtp.pt/noticias/mundo/do-atlantico-aos-balcas-europa-regista-grandes-fogos-florestais_v1758505",
+      "pubDate": "Sun, 09 Aug 2026 14:12:47 +0100",
+      "description": "As chamas obrigaram à evacuação de dezenas de localidades. Desde maio, já ardeu uma área igual à do Luxemburgo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/88/88179abfb2d9be5cd6e6b5ba28c868d8_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h É preciso melhorar a prevenção dos incêndios diz Seguro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-e-preciso-melhorar-a-prevencao-dos-incendios-diz-seguro_a1_1758500",
+      "pubDate": "Sun, 09 Aug 2026 14:03:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto-Alverca: Farioli obrigado a mexer (onzes prováveis)",
+      "link": "https://maisfutebol.iol.pt/fc-porto/alverca/fc-porto-alverca-farioli-obrigado-a-mexer-onzes-provaveis",
+      "pubDate": "Sun, 9 Aug 2026 12:54:00 +0100",
+      "description": "Dragões iniciam defesa do título com os ribatejanos em casa",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e6c9fd34ed0733ba7da9e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,24 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a784d22d34ed0733ba7eedd/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: as imagens de Lionel Messi a chegar para o funeral do pai",
-      "link": "https://maisfutebol.iol.pt/lionel-messi/messi/video-as-imagens-de-lionel-messi-a-chegar-para-o-funeral-do-pai",
-      "pubDate": "Sun, 9 Aug 2026 10:46:15 +0100",
-      "description": "Craque argentino viajou num voo privado para Rosario, onde decorrem as cerimónias fúnebres, longe da imprensa",
-      "thumbnail": "https://img.iol.pt/image/id/6a784805d34ed0733ba7eed6/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Israel rejeita plano norte-americano para Gaza aceite pelo Hamas",
+      "link": "https://sapo.pt/artigo/israel-rejeita-plano-norte-americano-para-gaza-aceite-pelo-hamas-6a786a9b0c60413700f92dca",
+      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
+      "description": "\"Israel rejeita o documento de 15 pontos\" apresentado no final de julho pelo \"Conselho de Paz\" de Donald Trump, afirmou Netanyahu durante uma reunião do executivo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ANdERXOxA%2BsHGWn3FGh%2BJTdvaX4s2Ge4PBvFYwKyDnHFnLCQQFFLZtZDKYM9gKY5hHPuyUriTWkznxVILD%2BQeg4yejuz98m8rQmPAPUTBYe181FwmGzryi1DHAMHMJJoB"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Espanha e Itália estão em rota de colisão por causa de Ceuta: o que se passa e porque está Schengen no centro da crise?",
-      "link": "https://executivedigest.sapo.pt/espanha-da-ultimato-a-italia-por-causa-de-schengen-o-que-mudou-nas-fronteiras-e-o-que-pode-acontecer-agora/",
-      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
-      "description": "Crise migratória de Ceuta já ultrapassou as fronteiras de Espanha e transformou-se numa disputa sobre uma das principais conquistas da União Europeia: a livre circulação dentro do espaço Schengen",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AmPpfFAvsVlVFJEyzoXJ69yiU%2BHA8wmOQEoFWNiLfW%2BUuDy1sm3k8F7xntBrbywSaekQXvtSRB%2F62Bmj8kD%2BxY1KnbtOSCT%2FkNJ9xDehqL9UV1e7TygH7WVf01dVNJswr"
+      "title": "Marrocos acusado de usar Ceuta como \"chantagem política\"",
+      "link": "https://sapo.pt/artigo/marrocos-acusado-de-usar-ceuta-como-chantagem-politica-6a786cf0371d60cfe870d412",
+      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
+      "description": "\"Foi uma manobra criminosa orquestrada pela monarquia alauita e permitida pela 'Fortaleza Europa', que utiliza vidas humanas como moeda de troca geopolítica\", diz Partido da Esquerda Europeia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AYJUqB4iNLzALckl5W%2F06FT6apXbuDDjpNj5cik5ZAe59ctPuv2MVH15llc0L328xtk2V8FFEzhz4aAGeDreiIk0Q7VHnqHt0OLjtbel7AZ90piPq9oCT3WXmMwrIvQvo"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Seguro critica falhas na prevenção dos incêndios, \"passa culpas\" e promessas por cumprir na Serra da Estrela",
+      "link": "https://sapo.pt/artigo/seguro-critica-falhas-na-prevencao-dos-incendios-passa-culpas-e-promessas-por-cumprir-na-serra-da-estrela-6a7869b40c60413700f8c044",
+      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
+      "description": "Na Guarda, o presidente denunciou as falhas na prevenção dos incêndios e a falta de execução das medidas após as grandes tragédias, o “passa-culpas” político e cobrou as promessas de investimento  para a Serra da Estrela.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AowTzpbZoiFxVH5QKwcWxpbIDG%2Fv%2FJhC17XnkqFCvxKb5o4yHuYab7RnJM1wBGoPYfJtriSqTyd%2BebIqFckgKe6FKHFVHfd6q5PYo7XLFxGWaE%2BX06uckCR09BIdNk248"
     },
     {
       "sourceId": "sapo",
@@ -175,26 +195,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Chuvas \"extremamente torrenciais\": China em alerta máximo com aproximação de tufão Dolphin",
-      "link": "https://sapo.pt/artigo/chuvas-extremamente-torrenciais-china-em-alerta-maximo-com-aproximacao-de-tufao-dolphin-6a785531d6b4b04dddbbf0c3",
-      "pubDate": "Sun, 09 Aug 2026 10:38:23 +0000",
-      "description": "As autoridades chinesas emitiram um alerta vermelho, o nível mais elevado, perante a chegada do tufão Dolphin, que deverá atingir as zonas costeiras das províncias de Zhejiang (leste) e Fujian (sudeste) entre a tarde de domingo e a madrugada de...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AfJ7tk9qV2EY3dWecVkBsDTZLhB3Ec8DBgDXdzKw%2B3S3Hxt%2BcM5nrKKhAs85FMg1%2FuKmuJLFVDJK7fnrqnTH2%2FDAOmFvfM8fUDCt%2Bnbp7Eb%2BBhVGwU701of37iTA5pBwU"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Irão: Pentágono pressiona indústria de Defesa a acelerar produção perante escassez de munições",
-      "link": "https://executivedigest.sapo.pt/irao-pentagono-pressiona-industria-de-defesa-a-acelerar-producao-perante-escassez-de-municoes/",
-      "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
-      "description": "O Departamento de Defesa dos Estados Unidos (Pentágono) está a pressionar a indústria de armamento do país a acelerar a produção, de maneira a restabelecer o seu arsenal de munições reduzido pela guerra com o Irão.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A6Ei3NHyeBLCV82fuACIiqgJII%2BdVZPQGcveHxDRU0wicMxV4kpYGrgU9kcvbUJEGC5cPlAKKWlIUMJTMQAdDFUtMOaGR4BS7R5yHNThsV5hXRUCu7tqbB0m9L%2BsmE0Yu"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Cortes de luz até seis horas este domingo: estas são as zonas afetadas",
       "link": "https://executivedigest.sapo.pt/cortes-de-luz-ate-seis-horas-este-domingo-estas-sao-as-zonas-afetadas/",
       "pubDate": "Sun, 09 Aug 2026 07:49:35 +0000",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lisboa: PSP detém 14 em operação este domingo (houve 60 contraordenações)",
-      "link": "https://www.noticiasaominuto.com/pais/3034197/lisboa-psp-detem-14-em-operacao-este-domingo-houve-60-contraordenacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 12:32:50",
+      "title": "Papa Leão XIV apela à abertura de corredores humanitários no Sudão",
+      "link": "https://www.noticiasaominuto.com/mundo/3034210/papa-leao-xiv-apela-a-abertura-de-corredores-humanitarios-no-sudao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 13:34:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66cc452bdb111.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7873e0215be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMyNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTk0LCJjcm9wSGVpZ2h0IjoxNzY2LCJjcm9wWCI6MTAwMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exército israelita mata palestiniano após quatro dias sem ataques mortais",
-      "link": "https://www.noticiasaominuto.com/mundo/3034195/exercito-israelita-mata-palestiniano-apos-quatro-dias-sem-ataques-mortais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 12:27:46",
+      "title": "CpC sugere medidas ao Governo e AR para proteger eleições",
+      "link": "https://www.noticiasaominuto.com/pais/3034208/cpc-sugere-medidas-ao-governo-e-ar-para-proteger-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 13:31:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a786434c0e95.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67065ad0da023.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk3MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Faial passou a integrar rede de monitorização de infrassons dos Açores",
-      "link": "https://www.noticiasaominuto.com/pais/3034196/faial-passou-a-integrar-rede-de-monitorizacao-de-infrassons-dos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 12:25:36",
+      "title": "Seguro homenageia ex-autarca que morreu a combater incêndio em 2025",
+      "link": "https://www.noticiasaominuto.com/pais/3034200/seguro-homenageia-ex-autarca-que-morreu-a-combater-incendio-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 13:29:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57a83e1bc7520.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b2cef1e0619.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Indonésia anuncia apreensão de 1,3 toneladas de cetamina",
-      "link": "https://www.noticiasaominuto.com/mundo/3034193/indonesia-anuncia-apreensao-de-1-3-toneladas-de-cetamina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 12:10:49",
+      "title": "Extraditado para a Irlanda alegado líder do grupo criminoso Kinahan",
+      "link": "https://www.noticiasaominuto.com/mundo/3034207/extraditado-para-a-irlanda-alegado-lider-do-grupo-criminoso-kinahan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 13:21:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78603f0bb0f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MTAxMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_686656c721829.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "GNR detém três homens por roubo de telemóvel por esticão em Albufeira",
-      "link": "https://www.noticiasaominuto.com/pais/3034194/gnr-detem-tres-homens-por-roubo-de-telemovel-por-esticao-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 12:09:48",
+      "title": "PEE acusa Marrocos de usar Ceuta como \"chantagem política\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3034201/pee-acusa-marrocos-de-usar-ceuta-como-chantagem-politica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 13:18:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ece4d184f5f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MzAxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODAsImNyb3BYIjoyNDMsImNyb3BZIjoxMTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47565145.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEzMTEsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Portugal: Burlões enganam oito idosos por dia! MB WAY é a “nova arma”",
+      "link": "https://pplware.sapo.pt/internet/portugal-burloes-enganam-oito-idosos-por-dia-mb-way-e-a-nova-arma/",
+      "pubDate": "Sun, 09 Aug 2026 11:55:12 +0000",
+      "description": "As burlas contra idosos continuam a aumentar em Portugal e os métodos utilizados pelos criminosos estão cada vez mais sofisticados. Entre as técnicas mais utilizadas estão os esquemas relacionados com pagamentos digitais, com o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/mbway_numero_errado01.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ai_ler_mente_.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Microsoft revela a verdadeira razão da lentidão na mudança do Windows 11",
-      "link": "https://pplware.sapo.pt/microsoft/windows/microsoft-revela-verdadeira-razao-pela-lentidao-na-mudanca-do-windows-11/",
-      "pubDate": "Sun, 09 Aug 2026 07:00:55 +0000",
-      "description": "A lentidão na modernização do Windows 11 e a falta de coerência visual continuam a gerar forte insatisfação. Muitos questionam a razão pela qual o sistema da Microsoft ainda mantém menus e ferramentas com&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/02/microsoft_windows_11_no_reboot_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Na Fortune Global 500, 26 fabricantes",
+      "link": "https://www.autosport.pt/automais/na-fortune-global-500-26-fabricantes/",
+      "pubDate": "Sun, 09 Aug 2026 12:30:00 +0000",
+      "description": "O peso do automóvel na economia global manifesta-se de diversas formas. Por exemplo, recentemente, conheceu-se a lista de 2026 da revista norte-americana Fortune, que apresenta as 500 maiores empresas mundiais em função dos volumes de negócios (receitas) ao longo de um ano fiscal. E, na tabela, que ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Honda quer voltar a colocar Alonso na rota do título",
+      "link": "https://www.autosport.pt/formula1/f1-honda-quer-voltar-a-colocar-alonso-na-rota-do-titulo/",
+      "pubDate": "Sun, 09 Aug 2026 11:45:00 +0000",
+      "description": "A Honda, fornecedora do motor da Aston Martin, confirmou o objetivo de voltar a transformar o bicampeão do mundo Fernando Alonso num candidato ao título. Numa entrevista recente à RacingNews365, o engenheiro-chefe da Honda, Shintaro Orihara, sublinhou a importância do feedback técnico de Alonso, afi",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1 e WRC: A tradição dos ‘finlandeses voadores’",
+      "link": "https://www.autosport.pt/maismotores/f1-e-wrc-a-tradicao-dos-finlandeses-voadores/",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00 +0000",
+      "description": "A Finlândia sempre foi um dos maiores exportadores de talento para os ralis, Fórmula 1, todo-o-terreno e até para o motociclismo! Alguns finlandeses permanecem como lendas vivas do desporto motorizado. Saiba quem são… Ari Vatanen, Hannu Mikkola, Timo Salonen, Keke Rosberg, Juha Kankkunen, Tommi Mäkk",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/automais/nissan-qashqai-e-power-no-guinness/",
       "pubDate": "Sat, 08 Aug 2026 15:45:00 +0000",
       "description": "Por Pedro Junceiro O Nissan Qashqai e-Power entrou para o Livro de Recordes do Guinness ao estabelecer a maior distância alguma vez percorrida por um Sport Utility Vehicle (SUV) elétrico não recarregável alargada sem paragens para reabastecimento. No total, foram cumpridos 1980 km numa única viagem,",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1, As Mais Lidas: A entrevista com Lando Norris que terminou mal",
-      "link": "https://www.autosport.pt/formula1/f1/f1-a-entrevista-com-lando-norris-que-terminou-mal/",
-      "pubDate": "Sat, 08 Aug 2026 14:45:00 +0000",
-      "description": "O que é real e o que é manipulado? Nos dias que correm é cada vez mais difícil fazer a distinção. E no mundo ultracontrolado da F1, essa falta de autenticidade pode retirar o brilho às estrelas. Lando Norris foi recentemente vítima desse controlo obsessivo. Numa recente entrevista, o campeão do mund",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Porsche 4H Endurance RC: Resistência em ponto pequeno",
-      "link": "https://www.autosport.pt/maismotores/porsche-4h-endurance-rc-resistencia-em-ponto-pequeno/",
-      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
-      "description": "O Clube de Radiomodelismo de Benfica (CRB), atualmente o maior clube de radiomodelismo de Portugal, com 172 sócios ativos, irá realizar a Porsche 4H Endurance RC, uma prova de resistência de quatro horas disputada por equipas de quatro pilotos. O evento distingue-se por utilizar exclusivamente a car",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Ford Fathom: nova “pick-up” elétrica",
-      "link": "https://www.autosport.pt/automais/ford-fathom-nova-pick-up-eletrica/",
-      "pubDate": "Sat, 08 Aug 2026 13:15:00 +0000",
-      "description": "Por Pedro Junceiro A Ford apresentou nova “pick-up” 100% elétrica destinada ao mercado norte-americano. E o fabricante de Dearborn (EUA) aposta em posicionamento acessível para promover a rapidez de adoção da tecnologia. A Fathom tem estreia comercial programada para 2027, com preço abaixo da barrei",
       "thumbnail": ""
     }
   ]
