@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-09T21:58:34.979734+00:00",
+  "updated": "2026-08-09T22:36:04.144513+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dublin traz do Dubai alegado líder de cartel para o julgar",
+      "link": "https://observador.pt/2026/08/09/do-dubai-para-dublin-alegado-patrao-do-crime-organizado-irlandes-transportado-de-jato-para-ser-acusado/",
+      "pubDate": "Sun, 09 Aug 2026 23:10:31 +0100",
+      "description": "Daniel Kinahan foi detido no Dubai e trazido para a Irlanda num jato do Governo para enfrentar acusações e julgamento. Grupo familiar que dirigiu associado ao tráfico internacional de drogas e armas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09220138/gettyimages-2289104585-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -25,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "21h. Primeira Liga. FC Porto vence Alverca por 2-0 no Dragão",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1723/",
       "pubDate": "Sun, 09 Aug 2026 21:35:41 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "André Silva e Gabri Veiga marcaram os golos da equipa portista. Ainda, ministro da Administração Interna diz que as chamadas de atenção e reparos do Presidente da República são alertas para pensar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/21144900/46969370.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Guerras, Jesus e política. Viagem ao mundo de Gustavo Santos",
-      "link": "https://observador.pt/especiais/guerras-online-misterio-dos-nove-magnificos-comparacoes-com-jesus-e-projeto-politico-uma-viagem-ao-mundo-de-gustavo-santos/",
-      "pubDate": "Sun, 09 Aug 2026 21:09:55 +0100",
-      "description": "Gustavo Santos quer Acordar Portugal e fazer uma Revolução — e está pronto a morrer por isso. Ordem dos Médicos pede regulamentação e Ordem dos Enfermeiros abre processo a um dos seus braços-direitos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/08145451/jporfirio-entrevista-gustavo-santos-08-06-26-01-0alisboa-6-de-junho-de-20260ajoao-porfirio-observador-3-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Luís Neves: críticas de Seguro sobre incêndios são \"alertas\"",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-luis-neves-criticas-de-seguro-sobre-incendios-sao-alertas_a1_1758576",
+      "pubDate": "Mon, 10 Aug 2026 00:18:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,84 +102,64 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/9d/9d61647facefee14db1ff1f8185f13d8_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Piores incêndios lavram em Espanha",
-      "link": "https://www.rtp.pt/noticias/mundo/piores-incendios-lavram-em-espanha_v1758567",
-      "pubDate": "Sun, 09 Aug 2026 22:08:47 +0100",
-      "description": "A vaga de calor que está a atravessar a Europa alimenta grandes incêndios florestais em toda a região mediterrânica. Desde o mês de maio houve já 1200 grandes fogos na Europa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/a1/a13abfbcfcb0b8f2af56a7a50fbd0302_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Luís Pinto: «Houve coisas muito positivas, apesar de ser o primeiro jogo»",
+      "link": "https://maisfutebol.iol.pt/gil-vicente/rio-ave/luis-pinto-houve-coisas-muito-positivas-apesar-de-ser-o-primeiro-jogo",
+      "pubDate": "Sun, 9 Aug 2026 23:29:04 +0100",
+      "description": "Treinador do Gil Vicente disse que as oportunidades do Rio Ave surgiram de erros próprios",
+      "thumbnail": "https://img.iol.pt/image/id/6a78e656d34ed0733ba7efd0/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Moreirense-Sp. Braga, 2-2 (destaques)",
-      "link": "https://maisfutebol.iol.pt/liga/sp-braga/moreirense-sp-braga-2-2-destaques",
-      "pubDate": "Sun, 9 Aug 2026 22:46:48 +0100",
-      "description": "João Veloso, do banco para decidir",
-      "thumbnail": "https://img.iol.pt/image/id/6a78e5cfd34ed0733ba7efcb/250"
+      "title": "Vasco Botelho da Costa: «Os jogadores não deram o jogo por perdido»",
+      "link": "https://maisfutebol.iol.pt/liga/moreirense/vasco-botelho-da-costa-os-jogadores-nao-deram-o-jogo-por-perdido",
+      "pubDate": "Sun, 9 Aug 2026 23:28:04 +0100",
+      "description": "Técnico considera o empate justo, atendendo às incidências do jogo",
+      "thumbnail": "https://img.iol.pt/image/id/6a78e5d0d34ed0733ba7efcd/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Tomás Araújo: «É impensável começar assim o campeonato»",
-      "link": "https://maisfutebol.iol.pt/liga/benfica/tomas-araujo-e-impensavel-comecar-assim-o-campeonato",
-      "pubDate": "Sun, 9 Aug 2026 22:43:25 +0100",
-      "description": "Defesa do Benfica pediu aos adeptos para continuarem a acreditar e criticou o castigo da Liga",
-      "thumbnail": "https://img.iol.pt/image/id/6a74f1d9d34e511da0b32199/250"
+      "title": "Silaidopoulos: «Após o vermelho foi um jogo completamente diferente»",
+      "link": "https://maisfutebol.iol.pt/gil-vicente/liga/silaidopoulos-apos-o-vermelho-foi-um-jogo-completamente-diferente",
+      "pubDate": "Sun, 9 Aug 2026 23:24:59 +0100",
+      "description": "Treinador do Rio Ave saiu satisfeito com o empenho da equipa apesar da derrota",
+      "thumbnail": "https://img.iol.pt/image/id/6a78e64fd34e511da0b32709/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Gil Vicente-Rio Ave, 1-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/gil-vicente/liga/gil-vicente-rio-ave-1-0-cronica",
-      "pubDate": "Sun, 9 Aug 2026 22:38:59 +0100",
-      "description": "Galos vencem pela mão vilacondense",
-      "thumbnail": "https://img.iol.pt/image/id/6a78ecd8d34e511da0b32725/250"
+      "title": "Carlos Vicens: «Deceção para todos, a equipa mostrou capacidade»",
+      "link": "https://maisfutebol.iol.pt/liga/sp-braga/carlos-vicens-dececao-para-todos-a-equipa-mostrou-capacidade",
+      "pubDate": "Sun, 9 Aug 2026 23:23:33 +0100",
+      "description": "Técnico diz que a sua equipa mostrou capacidade",
+      "thumbnail": "https://img.iol.pt/image/id/69fceabed34edcee7c63e5fa/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Viemos focados e fizemos um jogo de encher o olho»",
-      "link": "https://maisfutebol.iol.pt/liga/academico-viseu/viemos-focados-fizemos-um-jogo-de-encher-o-olho",
-      "pubDate": "Sun, 9 Aug 2026 22:38:00 +0100",
-      "description": "Guarda-redes do Académico de Viseu enaltece exibição na Luz",
-      "thumbnail": "https://img.iol.pt/image/id/6a61d1efd34e511da0b2f323/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Moreirense-Sp. Braga, 2-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/sp-braga/moreirense-sp-braga-2-2-cronica",
-      "pubDate": "Sun, 9 Aug 2026 22:35:46 +0100",
-      "description": "Duelo minhoto definido fora de horas",
-      "thumbnail": "https://img.iol.pt/image/id/6a78e5cfd34ed0733ba7efca/250"
+      "title": "Brasil: Abel Ferreira tropeça em casa, Pedro Emanuel também empata",
+      "link": "https://maisfutebol.iol.pt/made-in/brasil/brasil-abel-ferreira-tropeca-em-casa-pedro-emanuel-tambem-empata",
+      "pubDate": "Sun, 9 Aug 2026 23:23:00 +0100",
+      "description": "Palmeiras pode ver o Flamengo a aproximar-se no topo. Vasco da Gama continua em zona de descida",
+      "thumbnail": "https://img.iol.pt/image/id/6a78fd25d34ed0733ba7f01f/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Trump disposto a deixar pressão económica abalar o Irão",
-      "link": "https://sapo.pt/artigo/trump-disposto-a-deixar-pressao-economica-abalar-o-irao-6a78e32fd6b4b04ddddfbc5b",
-      "pubDate": "Sun, 09 Aug 2026 20:36:46 +0000",
-      "description": "O Presidente norte-americano não fez novas ameaças de ataques militares ao Irão, “limitando-se” a observar a cada vez maior pressão económica sobre o país",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AvIUO3FGWwkKMSJoQS816XfFnRfzmRe7njScG8tuPQ9BVE7edP53%2F3nSh2hKYtlHHL15Qv9Jk4N3dRv%2FM6L%2FdxtDPxyOMSfEI5AzQBCMN5JhMGWhtbe42OR0WzXBNE24y"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Israel rejeita plano norte-americano para Gaza aceite pelo Hamas",
-      "link": "https://sapo.pt/artigo/israel-rejeita-plano-norte-americano-para-gaza-aceite-pelo-hamas-6a786a9b0c60413700f92dca",
-      "pubDate": "Sun, 09 Aug 2026 12:09:30 +0000",
-      "description": "\"Israel rejeita o documento de 15 pontos\" apresentado no final de julho pelo \"Conselho de Paz\" de Donald Trump, afirmou Netanyahu durante uma reunião do executivo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ANdERXOxA%2BsHGWn3FGh%2BJTdvaX4s2Ge4PBvFYwKyDnHFnLCQQFFLZtZDKYM9gKY5hHPuyUriTWkznxVILD%2BQeg4yejuz98m8rQmPAPUTBYe181FwmGzryi1DHAMHMJJoB"
+      "title": "Israel dá nega a Trump com eleições à porta e promete continuar a atacar o Hamas",
+      "link": "https://sapo.pt/artigo/israel-da-nega-a-trump-com-eleicoes-a-porta-e-promete-continuar-a-atacar-o-hamas-6a78f6c10c604137001f8b93",
+      "pubDate": "Sun, 09 Aug 2026 22:03:15 +0000",
+      "description": "Apesar da proposta de paz da Casa Branca, Israel promete continuar ao ataque e rejeita o acordo, numa altura em que o cenário de Netanyahu ser derrotado em outubro parece ser o mais provável.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AVoJc7JA7OY3k%2FXBjr8HHuQnAwiQxH4oXNbjxfvwzOhSqIH8Z6%2FNXzm4LPgIJjLgzlYMxr%2BZ3aRo64P3t22Forh4OP6CBHZCRC4cA5HTeU9PQ99BPebdiVhtpGQcfhnMb"
     },
     {
       "sourceId": "sapo",
@@ -202,54 +192,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ad7IuaMbI47CzGN39DV%2BEHB9X7WRN%2Bt1MBlT9p2RxVMy28iZwmfnABu8zPlEkJc6%2Bhi8DIGTcbKpRGgX4L22UJxkr56tKu15fKrVFtmpYkar8OTqVbUCO4VTvtU%2FtwSns"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Moçambique defende cooperação regional na gestão de bacias hidrográficas",
-      "link": "https://www.noticiasaominuto.com/mundo/3034304/mocambique-defende-cooperacao-regional-na-gestao-de-bacias-hidrograficas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 22:55:09",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47458832.webp"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ucranianos questionam elogios de deputado do PS à Rússia. Partido nega apoio",
+      "link": "https://sapo.pt/artigo/ucranianos-questionam-elogios-de-deputado-do-ps-a-russia-partido-nega-apoio-6a78b6bdd6b4b04dddd3e0b6",
+      "pubDate": "Sun, 09 Aug 2026 17:23:54 +0000",
+      "description": "Deputado socialista José Carlos Barbosa, que passou pela Rússia numa viagem ferroviária através do Transiberiano, nega elogios ao regime de Putin e sublinha que “visitar um país não significa apoiar o seu Governo”",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A7GmvaivBV%2BxaMDSeA7qLUCROHsbubF%2F0e5nPIRvcmSKSmpqIfuWkTHfEd%2F66jEJc4fAcamuix06MYyGn3rs%2B8XUzR%2F6GrcpfvZc4DeAyFI3Z3M8%2FxEAano15o8%2B2rqpC"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "A reação de Tomás Araújo ao empate do Benfica diante o Académico de Viseu",
-      "link": "https://www.noticiasaominuto.com/desporto/3034329/a-reacao-de-tomas-araujo-ao-empate-do-benfica-diante-o-academico-de-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 22:55:07",
+      "title": "Abbey meteu a mão onde não devia e Hector deu três pontos ao Gil Vicente",
+      "link": "https://www.noticiasaominuto.com/desporto/3034338/abbey-meteu-a-mao-onde-nao-devia-e-hector-deu-tres-pontos-ao-gil-vicente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 23:28:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78f6c6731ce.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwODEsImNyb3BIZWlnaHQiOjE5MjIsImNyb3BYIjo4MjUsImNyb3BZIjoyM319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78fc247a032.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDM0LCJjcm9wSGVpZ2h0Ijo4MDYsImNyb3BYIjotMSwiY3JvcFkiOjE2NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTYwLCJjcm9wSGVpZ2h0Ijo5OTUsImNyb3BYIjozMjEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Luís Neves não está acima da lei\" e \"Montenegro anda a empurrar assunto\"",
-      "link": "https://www.noticiasaominuto.com/politica/3034313/luis-neves-nao-esta-acima-da-lei-e-montenegro-anda-a-empurrar-assunto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 22:52:28",
+      "title": "Seguro homenageia Bombeiros Voluntários da Guarda: As imagens",
+      "link": "https://www.noticiasaominuto.com/pais/3034337/seguro-homenageia-bombeiros-voluntarios-da-guarda-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 23:24:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68c6da46013f5.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78e1accbfae.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Académico de Viseu surpreendeu Benfica e voltou a marcar na I Liga",
-      "link": "https://www.noticiasaominuto.com/desporto/3034307/academico-de-viseu-surpreendeu-benfica-e-voltou-a-marcar-na-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 22:51:36",
+      "title": "Quem mais poderia ser? Clóvis volta a ser herói e empata para o Académico",
+      "link": "https://www.noticiasaominuto.com/desporto/3034333/quem-mais-poderia-ser-clovis-volta-a-ser-heroi-e-empata-para-o-academico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 23:12:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78f657e72f4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78fb55810c9.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ewerton sobre o empate na Luz: \"Viemos preparados para conquistar pontos\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034327/ewerton-sobre-o-empate-na-luz-viemos-preparados-para-conquistar-pontos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 22:49:35",
+      "title": "\"Provavelmente teríamos saído com um resultado pesado daqui com adeptos\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3034332/provavelmente-teriamos-saido-com-um-resultado-pesado-daqui-com-adeptos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 23:06:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78f50339a0c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDQsImNyb3BIZWlnaHQiOjE2NzgsImNyb3BYIjo3NDUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78f2d984d50.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDkwLCJjcm9wSGVpZ2h0IjoxOTM4LCJjcm9wWCI6Nzg5LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Cáritas agradece acompanhamento de Portugal após sismos na Venezuela",
+      "link": "https://www.noticiasaominuto.com/mundo/3034309/caritas-agradece-acompanhamento-de-portugal-apos-sismos-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 23:04:56",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4915c834e0c.webp"
     },
     {
       "sourceId": "pplware",
