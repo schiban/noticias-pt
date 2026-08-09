@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-09T09:35:04.386989+00:00",
+  "updated": "2026-08-09T10:29:49.287856+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 11h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1309/",
+      "pubDate": "Sun, 09 Aug 2026 11:16:00 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Acordo no Estreito de Ormuz: um passo rumo à paz?",
+      "link": "https://observador.pt/programas/gabinete-de-guerra/acordo-no-estreito-de-ormuz-um-passo-rumo-a-paz/",
+      "pubDate": "Sun, 09 Aug 2026 10:55:27 +0100",
+      "description": "O Tenente-General Marco Serronha destaca que acordo entre Omã e Irão é importante, mas insuficiente. Também sublinha que a asfixia logística na Crimeia e os ataques à economia russa pressionam Putin.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mulher e filho de Neves recebidos na Câmara de Odemira",
+      "link": "https://observador.pt/2026/08/09/mulher-e-filho-de-neves-recebidos-na-camara-de-odemira-para-discutir-futuro-das-obras-no-monte/",
+      "pubDate": "Sun, 09 Aug 2026 10:42:15 +0100",
+      "description": "Na reunião com os responsáveis pela área de urbanismo na Câmara de Odemira, os familiares e ainda um representante do ministro informaram a autarquia de que pediram três pareceres.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192100/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-18-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09094916/47582886.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Albuquerque em paz com Montenegro",
-      "link": "https://observador.pt/2026/08/09/albuquerque-em-paz-com-montenegro-mas-sem-medo-de-desentendimentos/",
-      "pubDate": "Sun, 09 Aug 2026 10:28:01 +0100",
-      "description": "\"Não há consensos, não há diálogos quando se trata dos nossos direitos fundamentais. Vocês sabem que eu agora já fiz as pazes com o primeiro-ministro\", diz presidente do Governo Regional da Madeira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/18133741/46092815.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11h Entrou resolução o incêndio em Carrazeda de Ansiães",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-entrou-resolucao-o-incendio-em-carrazeda-de-ansiaes_a1_1758493",
+      "pubDate": "Sun, 09 Aug 2026 12:22:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Portugueses na Venezuela estão a precisar de apoio económico",
-      "link": "https://observador.pt/2026/08/09/portugueses-na-venezuela-estao-a-precisar-de-apoio-economico-e-cuidados-de-saude-mental/",
-      "pubDate": "Sun, 09 Aug 2026 10:27:45 +0100",
-      "description": "\"Há uma comunidade portuguesa, e luso-venezuelana, com muitas necessidades económicas e de apoio financeiro, mas também de suporte de saúde mental\", alerta a AMI.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09052049/47533665.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "UDIPSS Braga fala em risco de perda de verbas do PRR por atrasos do Estado",
+      "link": "https://www.rtp.pt/noticias/economia/udipss-braga-fala-em-risco-de-perda-de-verbas-do-prr-por-atrasos-do-estado_n1758491",
+      "pubDate": "Sun, 09 Aug 2026 12:20:47 +0100",
+      "description": "A União Distrital das Instituições Particulares de Solidariedade Social de Braga (UDIPSS Braga) alertou para o risco de várias IPSS perderem financiamento do Plano de Recuperação e Resiliência (PRR) por atrasos que diz não serem imputáveis às instituições.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Cerca de 40 concelhos do país em risco máximo de incêndio",
-      "link": "https://observador.pt/2026/08/09/cerca-de-40-concelhos-do-pais-em-risco-maximo-de-incendio/",
-      "pubDate": "Sun, 09 Aug 2026 10:26:03 +0100",
-      "description": "Regiões de Bragança, Viseu, Guarda, Castelo Branco, Santarém, Portalegre e Faro são os mais afetadas. Mas existem mais concelhos por todo o país a motivar particular atenção.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23191252/45713939.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h Um incêndio em Carrazeda de Ansiães por dominar",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-um-incendio-em-carrazeda-de-ansiaes-por-dominar_a1_1758492",
+      "pubDate": "Sun, 09 Aug 2026 11:57:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d3dbe26178bb20047def88e970caa87?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Drones e mísseis russos atingem Ucrânia. Rússia regista três mortos e abate mais de 150 drones ucranianos",
-      "link": "https://www.rtp.pt/noticias/mundo/drones-e-misseis-russos-atingem-ucrania-russia-regista-tres-mortos-e-abate-mais-de-150-drones-ucranianos_n1758485",
-      "pubDate": "Sun, 09 Aug 2026 10:41:54 +0100",
-      "description": "As defesas antiaéreas russas abateram de madrugada 153 drones ucranianos sobre 17 regiões russas, a península anexada da Crimeia e os mares Negro e Azov, provocando três mortos e 25 feridos, informou hoje o Ministério da Defesa da Rússia. Ataques russos fizeram dois mortos e pelo menos 40 feridos em",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/86/866352e57d92d1451ec809f8d34d0acc?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Rui Borges só cumprimentou jogadores do Estrela (e evitou os do Sporting)",
+      "link": "https://maisfutebol.iol.pt/sporting/rui-borges/video-rui-borges-so-cumprimentou-jogadores-do-estrela-e-evitou-os-do-sporting",
+      "pubDate": "Sun, 9 Aug 2026 10:59:54 +0100",
+      "description": "Treinador não escondeu algum desagrado com a equipa leonina no final do empate na Amadora",
+      "thumbnail": "https://img.iol.pt/image/id/6a784d22d34ed0733ba7eedd/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pentágono pressiona indústria de Defesa a acelerar produção perante escassez de munições",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pentagono-pressiona-industria-de-defesa-a-acelerar-producao-perante-escassez-de-municoes_n1758465",
-      "pubDate": "Sun, 09 Aug 2026 09:20:21 +0100",
-      "description": "O Departamento de Defesa dos Estados Unidos (Pentágono) está a pressionar a indústria de armamento do país a acelerar a produção, de maneira a restabelecer o seu arsenal de munições reduzido pela guerra com o Irão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5bb359477b94d73a12ecc19f3c01853d?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: as imagens de Lionel Messi a chegar para o funeral do pai",
+      "link": "https://maisfutebol.iol.pt/lionel-messi/messi/video-as-imagens-de-lionel-messi-a-chegar-para-o-funeral-do-pai",
+      "pubDate": "Sun, 9 Aug 2026 10:46:15 +0100",
+      "description": "Craque argentino viajou num voo privado para Rosario, onde decorrem as cerimónias fúnebres, longe da imprensa",
+      "thumbnail": "https://img.iol.pt/image/id/6a784805d34ed0733ba7eed6/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "China em alerta máximo com aproximação de tufão Dolphin ao leste do país",
-      "link": "https://www.rtp.pt/noticias/mundo/china-em-alerta-maximo-com-aproximacao-de-tufao-dolphin-ao-leste-do-pais_n1758472",
-      "pubDate": "Sun, 09 Aug 2026 09:17:27 +0100",
-      "description": "As autoridades chinesas emitiram hoje um alerta vermelho, o nível mais elevado, perante a chegada do tufão Dolphin, que deverá atingir as zonas costeiras das províncias de Zhejiang (leste) e Fujian (sudeste) entre a tarde de hoje e a madrugada de segunda-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: golaço do ex-portista Alex Telles não foi suficiente para a vitória do Botafogo",
+      "link": "https://maisfutebol.iol.pt/brasilerao/internacional/video-golaco-do-ex-portista-alex-telles-nao-foi-suficiente-para-a-vitoria-do-botafogo",
+      "pubDate": "Sun, 9 Aug 2026 10:32:00 +0100",
+      "description": "Equipa comandada pelo português Franclim Carvalho empatou 1-1 com o Fluminense",
+      "thumbnail": "https://img.iol.pt/image/id/69e80372d34edcee7c634f92/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 9 Aug 2026 09:47:00 +0100",
       "description": "Internacional espanhol pintou o cabelo de loiro",
       "thumbnail": "https://img.iol.pt/image/id/6a7838f5d34ed0733ba7eebe/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO INCRÍVEL: marca, ao festejar cai no túnel, lesiona-se e... golo é anulado",
-      "link": "https://maisfutebol.iol.pt/incrivel/internacional/video-incrivel-marca-ao-festejar-cai-no-tunel-lesiona-se-e-golo-e-anulado",
-      "pubDate": "Sun, 9 Aug 2026 09:46:32 +0100",
-      "description": "Aconteceu de tudo ao central Jacy, que não claramente não conseguiu lidar com tanto entusiasmo",
-      "thumbnail": "https://img.iol.pt/image/id/6a783e4ed34e511da0b32607/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/fc-porto/hoje-vai-ser-noticia-178626240",
-      "pubDate": "Sun, 9 Aug 2026 09:00:00 +0100",
-      "description": "Campeão FC Porto estreia-se na defesa do título",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e7788d34e511da0b311de/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Sun, 9 Aug 2026 00:17:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cabo Delgado. Fundação LNG distribui 28 mil kits solares para autoemprego",
-      "link": "https://www.noticiasaominuto.com/mundo/3034169/cabo-delgado-fundacao-lng-distribui-28-mil-kits-solares-para-autoemprego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 10:28:29",
+      "title": "GNR apreende 3.750 litros de combustível transportados numa viatura",
+      "link": "https://www.noticiasaominuto.com/pais/3034183/gnr-apreende-3750-litros-de-combustivel-transportados-numa-viatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:23:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_605e3690225d1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjoxMjQxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6707ae11e5045.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjE3OTMsImNyb3BZIjozNDF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Drones e mísseis russos provocam duas mortes e 40 feridos na Ucrânia",
-      "link": "https://www.noticiasaominuto.com/mundo/3034167/drones-e-misseis-russos-provocam-duas-mortes-e-40-feridos-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 10:12:29",
+      "title": "OMS denuncia ataque contra armazém em solo ucraniano",
+      "link": "https://www.noticiasaominuto.com/mundo/3034182/oms-denuncia-ataque-contra-armazem-em-solo-ucraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:21:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7843d545482.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1b208c34e6d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzNiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Madeira tem capacidade tecnológica para começar a investigar mar profundo",
-      "link": "https://www.noticiasaominuto.com/pais/3034166/madeira-tem-capacidade-tecnologica-para-comecar-a-investigar-mar-profundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 10:06:07",
+      "title": "Ceuta voltou a colocar migração no centro das atenções da UE. Entenda",
+      "link": "https://www.noticiasaominuto.com/mundo/3034173/ceuta-voltou-a-colocar-migracao-no-centro-das-atencoes-da-ue-entenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:17:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47560240.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjk0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDYsImNyb3BYIjo0MzUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7853a85e2d4.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FIFA sob ataque cerrado: \"A era de Infantino acabou\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3034161/fifa-sob-ataque-cerrado-a-era-de-infantino-acabou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 10:04:29",
+      "title": "Ébola: Subiu para 1.887 número de mortos na RDCongo",
+      "link": "https://www.noticiasaominuto.com/mundo/3034179/ebola-subiu-para-1887-numero-de-mortos-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:14:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_697339862f6f3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjd9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6303d0289afed.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY0NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Hong Kong regista recorde de calor com 36,9 °C",
-      "link": "https://www.noticiasaominuto.com/mundo/3034160/hong-kong-regista-recorde-de-calor-com-36-9-c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-09 10:03:21",
+      "title": "UDIPSS Braga alerta para risco de perda de verbas do PRR",
+      "link": "https://www.noticiasaominuto.com/economia/3034178/udipss-braga-alerta-para-risco-de-perda-de-verbas-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-09 11:12:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78425dc17b6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE4OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6895f3a34f8ff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDV9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O maior problema do Linux não é o sistema. É a comunidade…",
+      "link": "https://pplware.sapo.pt/linux/o-maior-problema-do-linux-nao-e-o-sistema-e-a-comunidade/",
+      "pubDate": "Sun, 09 Aug 2026 10:00:52 +0000",
+      "description": "O debate entre os adeptos do Linux e os utilizadores do Windows é eterno, mas a verdade é que a migração para o sistema open-source continua a afastar muitos utilizadores tradicionais. Porque é que&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/linux_distros.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/iphone_fricgorifico.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Economista contraria previsões e diz que a IA não vai substituir a maioria dos trabalhadores",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/economista-contraria-previsoes-e-diz-que-a-ia-nao-vai-substituir-a-maioria-dos-trabalhadores/",
-      "pubDate": "Sat, 08 Aug 2026 21:30:20 +0000",
-      "description": "A Inteligência Artificial (IA) continua a alimentar previsões sobre um futuro em que grande parte dos empregos será automatizada. No entanto, este economista discorda. Professor de Economia Aplicada na Universidade Johns Hopkins, Steve Hanke&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/steve-hanke-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Riccardo Patrese: Carreira marcada pelo destino",
+      "link": "https://www.autosport.pt/formula1/f1/riccardo-patrese-carreira-marcada-pelo-destino/",
+      "pubDate": "Sun, 09 Aug 2026 10:15:00 +0000",
+      "description": "Riccardo Patrese vai regressar às competições. Aos 64 anos, o italiano vai pilotar o novo Honda NSX GT3 nas 24 Horas de Spa\nThe post Riccardo Patrese: Carreira marcada pelo destino first appeared on AutoSport.",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/automais/ford-fathom-nova-pick-up-eletrica/",
       "pubDate": "Sat, 08 Aug 2026 13:15:00 +0000",
       "description": "Por Pedro Junceiro A Ford apresentou nova “pick-up” 100% elétrica destinada ao mercado norte-americano. E o fabricante de Dearborn (EUA) aposta em posicionamento acessível para promover a rapidez de adoção da tecnologia. A Fathom tem estreia comercial programada para 2027, com preço abaixo da barrei",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Vialsil: os portugueses por detrás da segurança do novo Circuito de Madrid",
-      "link": "https://www.autosport.pt/formula1/vialsil-os-portugueses-por-detras-da-seguranca-do-novo-circuito-de-madrid/",
-      "pubDate": "Sat, 08 Aug 2026 12:15:00 +0000",
-      "description": "Em Portugal trabalha-se tão bem, ou melhor, do que lá fora. Temos portugueses reconhecidos em todo o mundo graças à sua qualidade e ao seu trabalho. São verdades, repetidas vezes sem conta, o que sentimento de orgulho de quem vê as nossas cores reconhecidas. Mas, por vezes, falta conhecer melhor a r",
       "thumbnail": ""
     }
   ]
