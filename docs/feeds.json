@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-10T19:52:42.035873+00:00",
+  "updated": "2026-08-10T20:37:06.123845+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1724/",
+      "pubDate": "Mon, 10 Aug 2026 21:15:45 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Europeu de atletismo: Dongmo ficou 5.º no lançamento do peso",
+      "link": "https://observador.pt/2026/08/10/dongmo-quinta-inchude-sexta-e-bandeira-12-a-no-lancamento-do-peso-dos-europeus-de-atletismo/",
+      "pubDate": "Mon, 10 Aug 2026 21:11:45 +0100",
+      "description": "Dongmo \"queria melhor\" e Inchude \"queria algo muito maior\". Na pista, Tatjana, que falhou final, não ficou contente, mas Arialis, que também caiu nas 'meias', garantiu estar \"feliz pela prestação\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:62/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10202655/47586999.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O cerco dos drones de Zelensky à mulher mais rica da Rússia",
+      "link": "https://observador.pt/especiais/o-cerco-dos-drones-de-zelensky-a-tatyana-kim-a-mulher-mais-rica-da-russia/",
+      "pubDate": "Mon, 10 Aug 2026 21:05:28 +0100",
+      "description": "Fundou \"Amazon\" russa em 2004 com o marido e tem uma fortuna de 7 mil milhões de euros. Após tiroteio que envolveu chechenos, divorciou-se e lidera a Wildberries — o novo alvo dos drones ucranianos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:98/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10175019/gettyimages-2245689957-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,84 +52,74 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/14161846/ilacerda-daniela-pereira-the-lisbon-review-22-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "175 mil vistos cancelados em sete meses de Trump",
-      "link": "https://observador.pt/2026/08/10/eua-revogaram-175-mil-vistos-a-estrangeiros-desde-inicio-do-segundo-mandato-de-trump/",
-      "pubDate": "Mon, 10 Aug 2026 20:30:50 +0100",
-      "description": "Incidentes com a polícia, agressões e condução sob efeito de álcool lideram as razões. Marco Rubio também cancelou vistos por razões de política externa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10180318/46944749.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Programa vai preparar 100 mil pessoas para calor e incêndios",
-      "link": "https://observador.pt/2026/08/10/programa-vai-preparar-100-mil-pessoas-para-ondas-de-calor-e-incendios/",
-      "pubDate": "Mon, 10 Aug 2026 20:30:05 +0100",
-      "description": "Portugal regista 2.200 mortes por calor em 2022 e 13,4 mil milhões em danos climáticos desde 1980. Cruz Vermelha e Zurich respondem com formação e simulações.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1136:nowe:0:172/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03205759/gco-dincendio-vouzela-3-julho-2026-004.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Reservas de crude nos EUA em mínimos de 43 anos",
-      "link": "https://observador.pt/2026/08/10/reservas-estrategicas-de-petroleo-dos-eua-abaixo-dos-300-milhoes-de-barris-pela-primeira-vez-em-43-anos/",
-      "pubDate": "Mon, 10 Aug 2026 20:29:51 +0100",
-      "description": "Em 7 de agosto, as reservas caíram para 298,7 milhões de barris. O bloqueio do estreito de Ormuz obrigou Washington a libertar reservas para conter os preços.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/20140042/46785895.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Javalis têm passado pelas praias da Arrábida e cidade de Setúbal",
+      "link": "https://www.rtp.pt/noticias/pais/javalis-tem-passado-pelas-praias-da-arrabida-e-cidade-de-setubal_v1758752",
+      "pubDate": "Mon, 10 Aug 2026 22:25:47 +0100",
+      "description": "Vários javalis têm deixado alguns danos nas praias da Arrábida e também na cidade de Setúbal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7d/7d06a48146865b9068571937ed8015f9_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Diogo Ribeiro, Camila Rebelo e Francisca Martins melhoram recordes nacionais",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/diogo-ribeiro-camila-rebelo-e-francisca-martins-melhoram-recordes-nacionais_d1758747",
-      "pubDate": "Mon, 10 Aug 2026 21:48:23 +0100",
-      "description": "Os nadadores Diogo Ribeiro e Camila Rebelo melhoraram hoje os recordes portugueses nos 50 metros mariposa e 200 costas, respetivamente, tal como fez Francisca Martins em 200 livres na final das estafetas, nos Europeus de desportos aquáticos, em França.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/145e73d74f5c9b0226c609bcea462be8?w=350&amp;q=50&amp;rect=0,29,1080,592&amp;auto=format"
+      "title": "Espanha e Grécia estão a ser assoladas por incêndios",
+      "link": "https://www.rtp.pt/noticias/mundo/espanha-e-grecia-estao-a-ser-assoladas-por-incendios_v1758751",
+      "pubDate": "Mon, 10 Aug 2026 22:12:47 +0100",
+      "description": "Na Grécia, o fogo está às portas da capital Atenas. Em Espanha, o fogo está a destruir vastas áreas na região de Huelva e cerca de 800 pessoas foram deslocadas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/9f/9f854c9016fcda125c200e207c8987fc_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "II Liga. Lusitânia de Lourosa vence FC Porto B com dois golos sem resposta",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-lusitania-de-lourosa-vence-fc-porto-b-com-dois-golos-sem-resposta_d1758746",
-      "pubDate": "Mon, 10 Aug 2026 21:46:20 +0100",
-      "description": "O Lusitânia de Lourosa venceu hoje o FC Porto B por 2-0 em jogo da II Liga portuguesa de futebol, disputado no Estádio Municipal 25 de abril, em Penafiel, numa partida disputada num ritmo elevado.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "\"De plena saúde\". Líder Supremo do Irão altera cúpula de comando",
+      "link": "https://www.rtp.pt/noticias/mundo/de-plena-saude-lider-supremo-do-irao-altera-cupula-de-comando_n1758740",
+      "pubDate": "Mon, 10 Aug 2026 22:08:57 +0100",
+      "description": "A Guarda Revolucionária do Irão reforçou a sua influência operacional nas estruturas do poder de Teerão, especialmente com duas de seis novas nomeações anunciadas, esta segunda-feira, pelo gabinete do Líder Supremo, Mojtaba Khamenei. As alterações são tidas como uma mudança de rumo na liderança de T",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e891d1aaad78498acdfd0085590f2353?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "II Liga. Benfica B estreia-se com vitória em casa sobre o Leixões",
-      "link": "https://www.rtp.pt/noticias/benfica/ii-liga-benfica-b-estreia-se-com-vitoria-em-casa-sobre-o-leixoes_d1758745",
-      "pubDate": "Mon, 10 Aug 2026 21:45:43 +0100",
-      "description": "O Benfica B venceu hoje em casa o Leixões por 1-0, na jornada inaugural da II Liga de futebol, num jogo em que o único golo da partida foi apontado nos primeiros minutos do encontro no Seixal.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "O Meu Lugar de Verão. Lombadas é um dos encantos de São Miguel",
+      "link": "https://www.rtp.pt/noticias/pais/o-meu-lugar-de-verao-lombadas-e-um-dos-encantos-de-sao-miguel_v1758749",
+      "pubDate": "Mon, 10 Aug 2026 22:07:47 +0100",
+      "description": "Há lugares únicos nos Açores onde só é possível chegar depois de uma caminhada radical.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/27/279a3769090571baddbe059f809729eb_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Taça dos Mil Mártires em setembro marca regresso do futebol federado à Palestina",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/taca-dos-mil-martires-em-setembro-marca-regresso-do-futebol-federado-a-palestina_d1758744",
-      "pubDate": "Mon, 10 Aug 2026 21:45:00 +0100",
-      "description": "A Taça dos Mil Mártires, em homenagem aos 1.014 atletas mortos por Israel, marca, em setembro, o regresso das competições de futebol à Palestina, após três anos de interrupção, anunciou hoje a federação local.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Novo selecionador do Uruguai admite regresso de Luis Suárez às convocatórias",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/novo-selecionador-do-uruguai-admite-regresso-de-luis-suarez-as-convocatorias_d1758748",
+      "pubDate": "Mon, 10 Aug 2026 21:56:58 +0100",
+      "description": "O novo selecionador do Uruguai, Diego Forlán, admitiu hoje o regresso do avançado Luis Suárez, recordista de golos pelos sul-americanos, às convocatórias da seleção, após a eliminação na fase de grupos do Mundial2026 de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/82/82d36bbd6e92bb63ef76394bf101500f?w=350&amp;q=50&amp;rect=0,142,5276,2893&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "FC Barcelona empresta defesa uruguaio Ronald Araújo ao Liverpool",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-empresta-defesa-uruguaio-ronald-araujo-ao-liverpool_d1758743",
-      "pubDate": "Mon, 10 Aug 2026 21:44:32 +0100",
-      "description": "O FC Barcelona cedeu o futebolista uruguaio Ronald Araújo ao Liverpool durante uma temporada, com os ingleses a ficarem com uma opção de compra por 55 milhões de euros sobre o defesa, anunciou hoje o campeão espanhol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/78/78adfbbe1b9b81c16a3b5126c829c8eb?w=350&amp;q=50&amp;rect=0,82,2095,1149&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Benfica emite nota de «pesar e solidariedade» sobre a castástrofe na Colômbia",
+      "link": "https://maisfutebol.iol.pt/mf-mundo/colombia/benfica-emite-nota-de-pesar-e-solidariedade-sobre-a-castastrofe-na-colombia",
+      "pubDate": "Mon, 10 Aug 2026 21:27:06 +0100",
+      "description": "País sul-americano sofreu um terramoto devastador com magnitude de 7,4 na escala de Richter",
+      "thumbnail": "https://img.iol.pt/image/id/6a79e6dcd34ed0733ba7f200/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Dário Essugo: «Não esperava, com esta idade, ser capitão deste clube»",
+      "link": "https://maisfutebol.iol.pt/made-in/internacional/dario-essugo-nao-esperava-com-esta-idade-ser-capitao-deste-clube",
+      "pubDate": "Mon, 10 Aug 2026 21:21:00 +0100",
+      "description": "Xabi Alonso confiou no médio português para liderar o Chelsea frente ao Johor, em mais um jogo de preparação para a temporada 2026/2027",
+      "thumbnail": "https://img.iol.pt/image/id/6a7a3056d34e511da0b32a3c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,34 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/66acbc6dd34ea1acf26ced80/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: relvado em Vallecas coloca estreia «caseira» do Rayo Vallecano em risco",
-      "link": "https://maisfutebol.iol.pt/espanha/rayo-vallecano/video-relvado-em-vallecas-coloca-estreia-caseira-do-rayo-vallecano-em-risco",
-      "pubDate": "Mon, 10 Aug 2026 19:15:00 +0100",
-      "description": "Receção ao Alavés para segunda jornada da Liga Espanhola está marcada para 20 de agosto e plano B passa pelo reduto do Leganés",
-      "thumbnail": "https://img.iol.pt/image/id/6a7a25dad34e511da0b32a29/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
-      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
-      "pubDate": "Mon, 10 Aug 2026 19:02:00 +0100",
-      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a6f7fecd34e511da0b3131c/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Sismo de magnitude 7,4 na Colômbia provoca pelo menos 80 mortos",
+      "title": "Sismo de magnitude 7,4 na Colômbia provoca 111 mortos",
       "link": "https://eco.sapo.pt/2026/08/10/sismo-de-magnitude-74-na-colombia-provoca-pelo-menos-52-mortos/",
       "pubDate": "Mon, 10 Aug 2026 16:47:42 +0000",
-      "description": "Pelo menos 80 pessoas morreram esta segunda-feira na sequência de um sismo de magnitude 7,4 que atingiu o oeste da Colômbia, que provocou estragos em pelo menos sete aeroportos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AW5kpEWlyEfRDIEAyT1DvxMtpBGsTCOLFEvKw21AUP3xE8gcw6545lr1xWU0NcgvAGHscSnpizEaYc6iVryCR24ibRvX54Mmpx9CkcpoHDQAuYb0cFMtwA0bNzjjio7lF"
+      "description": "Sismo de magnitude 7,4 atingiu o oeste da Colômbia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AeQcJRO%2FCwI2ARLcVmLFCmmGBcaKRvXulPEDtd9G9g4GNAMnUm656M8YLdBCxBzIXqIOJENkXpyid1a4LYsBj3oQ25YPuXO4gEIXhAaMaE2oAVnexqgjdopSoDHyYFDGz"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Presidente da Colômbia: Pelo 111 mortos e 87 feridos no sismo",
-      "link": "https://www.noticiasaominuto.com/mundo/3034788/presidente-da-colombia-pelo-111-mortos-e-87-feridos-no-sismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-10 20:32:55",
+      "title": "Teatro Praga inaugura no CCB ciclo de peças dedicadas aos elementos",
+      "link": "https://www.noticiasaominuto.com/cultura/3034688/teatro-praga-inaugura-no-ccb-ciclo-de-pecas-dedicadas-aos-elementos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-10 21:33:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47589578.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjIyNn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ffeb523de6f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Homenagem a atletas mortos por Israel no regresso do futebol à Palestina",
-      "link": "https://www.noticiasaominuto.com/desporto/3034786/homenagem-a-atletas-mortos-por-israel-no-regresso-do-futebol-a-palestina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-10 20:28:24",
+      "title": "Enes Kanter, ex-estrela da NBA, não desarma e declara-se ao Draft da WNBA",
+      "link": "https://www.noticiasaominuto.com/desporto/3034802/enes-kanter-ex-estrela-da-nba-nao-desarma-e-declara-se-ao-draft-da-wnba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-10 21:30:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a261a9945b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY2LCJjcm9wWCI6ODEwLCJjcm9wWSI6MjR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a3192c6472.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODMyLCJjcm9wSGVpZ2h0IjoxMDMxLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU3NSwiY3JvcEhlaWdodCI6MTAyMiwiY3JvcFgiOjYxOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "SUV elétrico chinês incendiou e marca deixa um alerta importante",
-      "link": "https://www.noticiasaominuto.com/auto/3034604/suv-eletrico-chines-incendiou-e-marca-deixa-um-alerta-importante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-10 20:25:39",
+      "title": "EUA. Governo retira recomendação de vacina tríplice viral para crianças",
+      "link": "https://www.noticiasaominuto.com/mundo/3034801/eua-governo-retira-recomendacao-de-vacina-triplice-viral-para-criancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-10 21:22:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a79dce1b2980.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ0NiwiY3JvcEhlaWdodCI6NzkzLCJjcm9wWCI6NjY0LCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjExODUsImNyb3BIZWlnaHQiOjY2NiwiY3JvcFgiOjMwOCwiY3JvcFkiOjEzfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a32eeefee2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODI5LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Falta de vagas deixa alunos com necessidades específicas sem resposta",
-      "link": "https://www.noticiasaominuto.com/pais/3034763/falta-de-vagas-deixa-alunos-com-necessidades-especificas-sem-resposta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-10 20:24:50",
+      "title": "Programa vai preparar 100 mil pessoas para ondas de calor e incêndios",
+      "link": "https://www.noticiasaominuto.com/pais/3034718/programa-vai-preparar-100-mil-pessoas-para-ondas-de-calor-e-incendios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-10 21:18:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6909d02fc7701.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_566b30a47cccd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNjAzLCJjcm9wSGVpZ2h0IjoyMDI3LCJjcm9wWCI6LTIsImNyb3BZIjo0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMzQ3LCJjcm9wSGVpZ2h0IjoyMzk1LCJjcm9wWCI6MTE0OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Barcelona cede Ronald Araújo ao Liverpool com opção de compra",
-      "link": "https://www.noticiasaominuto.com/desporto/3034770/oficial-barcelona-cede-ronald-araujo-ao-liverpool-com-opcao-de-compra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-10 20:23:42",
+      "title": "EuroDreams sem sonhadores. Para Portugal, há prémios de 397€",
+      "link": "https://www.noticiasaominuto.com/pais/3034800/eurodreams-sem-sonhadores-para-portugal-ha-premios-de-397#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-10 21:15:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a24e760ec8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk0LCJjcm9wWCI6Njg5LCJjcm9wWSI6M319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_657187b072fd6.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Microsoft não queria, mas este programador levou o Copilot ao Linux",
+      "link": "https://pplware.sapo.pt/informacao/microsoft-nao-queria-mas-este-programador-levou-o-copilot-ao-linux/",
+      "pubDate": "Mon, 10 Aug 2026 20:30:59 +0000",
+      "description": "A disponibilização da IA tem estado focada nos canais mais comuns e que têm maior visibilidade. Isso muda com esta novidade, ainda que não oficial. O Copiloto já pode ser usado no Linux, mas&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/63915.jpeg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Mon, 10 Aug 2026 18:00:09 +0000",
       "description": "1666: Amsterdam, o novo jogo do criador de Assassin&#8217;s Creed apresenta uma dupla improvável unida através dos séculos para enfrentar uma ameaça ancestral. Depois de vários meses de expectativa, 1666: Amsterdam, o novo projeto&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Amsterdan_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Perdeu, estragou ou roubaram/furtaram o seu Cartão de Cidadão?",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/perdeu-estragou-ou-roubaram-furtaram-o-seu-cartao-de-cidadao/",
-      "pubDate": "Mon, 10 Aug 2026 17:30:50 +0000",
-      "description": "Perdeu o Cartão de Cidadão, ficou danificado ou foi vítima de furto? Já não precisa de se deslocar a um balcão para tratar do cancelamento. O documento pode ser cancelado através da app gov.pt.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/01/pplware_cartao_cidadao_1.jpg"
     },
     {
       "sourceId": "autosport",
