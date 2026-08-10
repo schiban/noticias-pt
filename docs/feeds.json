@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-09T23:58:41.618040+00:00",
+  "updated": "2026-08-10T02:11:08.828255+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Incêndios. MAI diz que repares do PR são para corrigir",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2375/",
+      "pubDate": "Mon, 10 Aug 2026 02:16:18 +0100",
+      "description": "Luís Neves recebe com tranquilidade as palavras de Seguro sobre a necessidade de melhorar a prevenção dos incêndios. Ainda, o FC Porto venceu o Alverca por 2-0.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. PR pede mais trabalho na prevenção dos incêndios",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2348/",
+      "pubDate": "Mon, 10 Aug 2026 01:15:32 +0100",
+      "description": "E lamenta que não saiam da gaveta muitas das recomendações feitas ano após ano para melhorar a prevenção dos incêndios. Ainda, no desporto, o Benfica empatou com o Académico de Viseu.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Benfica x A.Viseu: \"Sem penalty sobre Durán.\"",
+      "link": "https://observador.pt/programas/sem-falta/benfica-x-a-viseu-sem-penalty-sobre-duran/",
+      "pubDate": "Mon, 10 Aug 2026 01:12:34 +0100",
+      "description": "Nota 7 para a equipa de arbitragem liderada por David Silva no empate do Benfica com o Académico. Pedro Henriques fala de um jogo \"com muitos pormenores\" e com \"boas decisões\" em 3 lances de área.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Porto x Alverca: \"Dois penalties bem assinalados!\"",
+      "link": "https://observador.pt/programas/sem-falta/porto-x-alverca-dois-penalties-bem-assinalados/",
+      "pubDate": "Mon, 10 Aug 2026 00:58:32 +0100",
+      "description": "\"VAR em dose dupla\": nota  positiva para a equipa de arbitragem, sobretudo para o VAR, por ter visto 2 penalties que escaparam a Luís Godinho. Destaque também para a aplicação da regra dos cantos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Este artigo vai chocar muita gente. É sobre Giorgia Meloni",
-      "link": "https://observador.pt/opiniao/este-artigo-vai-chocar-muita-gente-e-sobre-giorgia-meloni/",
-      "pubDate": "Mon, 10 Aug 2026 00:25:13 +0100",
-      "description": "A primeira-ministra italiana é hoje a figura mais determinante da União Europeia. O seu governo tem surpreendido tudo e todos. Um livro ajuda a entendê-la e desfaz o mito da \"bruxa de extrema-direita\"",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Dominados fogos em Portugal. Incêndio na Andaluzia preocupa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-dominados-fogos-em-portugal-incendio-na-andaluzia-preocupa_a1_1758580",
+      "pubDate": "Mon, 10 Aug 2026 03:25:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. Benfica empata com Académico de Viseu por 2-2 na Luz",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2386/",
-      "pubDate": "Mon, 10 Aug 2026 00:23:22 +0100",
-      "description": "Jogo sem adeptos e sem vitória para o Benfica que empatou com a equipa de Viseu, de regresso à I Liga, após 37 anos. Ainda, Donald Trump revela que está a \"semi-negociar\" com o Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Carta à Carolina",
-      "link": "https://observador.pt/opiniao/carta-a-carolina/",
-      "pubDate": "Mon, 10 Aug 2026 00:21:04 +0100",
-      "description": "A religião cristã não é adversária da mulher: ela permitiu a emancipação da mulher.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Plantar os plantadores",
-      "link": "https://observador.pt/opiniao/plantar-os-plantadores/",
-      "pubDate": "Mon, 10 Aug 2026 00:20:15 +0100",
-      "description": "Portugal não tem falta de craques. Tem falta de terreno onde eles queiram ficar.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A502%3A502%3Anowe%3A2%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F09232106%2Fsta-clara-outro.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Marco Silva sobre o empate: Benfica não foi eficaz",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-marco-silva-sobre-o-empate-benfica-nao-foi-eficaz_a1_1758578",
+      "pubDate": "Mon, 10 Aug 2026 02:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Sun, 09 Aug 2026 23:48:15 +0100",
       "description": "O francês Lucas Digne, anteriormente ao serviço dos ingleses do Aston Villa, vai representar o Paris Saint-Germain até 2029, anunciou o pentacampeão francês, que defronta os ‘lions’ na quarta-feira, na Supertaça Europeia.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ee/eeb4d6770bac7aa099499d1de56daab9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "MAI diz que reparos do PR são alerta para se pensar e corrigir",
-      "link": "https://www.rtp.pt/noticias/economia/mai-diz-que-reparos-do-pr-sao-alerta-para-se-pensar-e-corrigir_n1758554",
-      "pubDate": "Sun, 09 Aug 2026 22:31:23 +0100",
-      "description": "O ministro da Administração Interna disse hoje que as chamadas de atenção e os reparos do Presidente da República são sempre vistos como uma forma de alerta e para se pensar e poder corrigir aquilo que há a corrigir.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ambientalistas contestam central incineradora no Algarve",
-      "link": "https://www.rtp.pt/noticias/politica/ambientalistas-contestam-central-incineradora-no-algarve_v1758570",
-      "pubDate": "Sun, 09 Aug 2026 22:14:47 +0100",
-      "description": "Consideram que a construção vai ter uma factura pesada para a região e que não é a melhor opção para a defesa do ambiente. A Zero vai pedir uma reunião de emergência à ministra do Ambiente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f2/f20ba30a805634773e3d99249539a7f3_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -147,7 +147,7 @@
       "color": "#4fc48a",
       "title": "Marco Silva: «Adeptos deste clube não se habituam a empates em casa»",
       "link": "https://maisfutebol.iol.pt/benfica/liga/marco-silva-adeptos-deste-clube-nao-se-habituam-a-empates-em-casa",
-      "pubDate": "Mon, 10 Aug 2026 00:04:23 +0100",
+      "pubDate": "Mon, 10 Aug 2026 00:04:00 +0100",
       "description": "A reação do treinador do Benfica ao empate concedido diante do Académico na estreia na Liga 2026/27",
       "thumbnail": "https://img.iol.pt/image/id/6a78f8f0d34ed0733ba7f014/250"
     },
