@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-10T02:11:08.828255+00:00",
+  "updated": "2026-08-10T04:11:48.831343+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Incêndios. MAI diz que repares do PR são para corrigir",
+      "title": "Gustavo Santos, um messias ou um charlatão?",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/gustavo-santos-um-messias-ou-um-charlatao/",
+      "pubDate": "Mon, 10 Aug 2026 05:03:33 +0100",
+      "description": "Gustavo Santos passou de voz polémica das redes sociais a líder de um movimento com ambições maiores. Quem é ele, o que defende e até onde quer chegar?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2366/",
+      "pubDate": "Mon, 10 Aug 2026 04:16:19 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Trump está a \"semi-negociar\" com o Irão",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2401/",
+      "pubDate": "Mon, 10 Aug 2026 03:15:32 +0100",
+      "description": "E diz que está a observar o aumento da pressão económica em Teerão. Ainda, na Volta a Portugal, O francês Alexis Guérin vai-se estrear esta segunda feira com a camisola amarela.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Incêndios. MAI diz que reparos do PR são para corrigir",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2375/",
       "pubDate": "Mon, 10 Aug 2026 02:16:18 +0100",
       "description": "Luís Neves recebe com tranquilidade as palavras de Seguro sobre a necessidade de melhorar a prevenção dos incêndios. Ainda, o FC Porto venceu o Alverca por 2-0.",
@@ -22,42 +52,42 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Benfica x A.Viseu: \"Sem penalty sobre Durán.\"",
-      "link": "https://observador.pt/programas/sem-falta/benfica-x-a-viseu-sem-penalty-sobre-duran/",
-      "pubDate": "Mon, 10 Aug 2026 01:12:34 +0100",
-      "description": "Nota 7 para a equipa de arbitragem liderada por David Silva no empate do Benfica com o Académico. Pedro Henriques fala de um jogo \"com muitos pormenores\" e com \"boas decisões\" em 3 lances de área.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Porto x Alverca: \"Dois penalties bem assinalados!\"",
-      "link": "https://observador.pt/programas/sem-falta/porto-x-alverca-dois-penalties-bem-assinalados/",
-      "pubDate": "Mon, 10 Aug 2026 00:58:32 +0100",
-      "description": "\"VAR em dose dupla\": nota  positiva para a equipa de arbitragem, sobretudo para o VAR, por ter visto 2 penalties que escaparam a Luís Godinho. Destaque também para a aplicação da regra dos cantos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Benfica x A.Viseu: \"Foi Prestianni e mais 10.\"",
-      "link": "https://observador.pt/programas/relat-rio-de-jogo/benfica-x-a-viseu-foi-prestianni-e-mais-10/",
-      "pubDate": "Mon, 10 Aug 2026 00:41:26 +0100",
-      "description": "Jogo \"estranho\" sem adeptos nas bancadas onde o \"Benfica pecou por falhar em demasia\". Apesar do empate, Augusto Inácio acredita que \"este Benfica vai ser temível\" e realça o \"mérito\" do Académico.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Excedente da balança corrente do Japão cresce 22,5% na primeira metade de 2026",
+      "link": "https://www.rtp.pt/noticias/economia/excedente-da-balanca-corrente-do-japao-cresce-225-na-primeira-metade-de-2026_n1758582",
+      "pubDate": "Mon, 10 Aug 2026 06:06:31 +0100",
+      "description": "O Japão registou um excedente na conta corrente de 17,4 biliões de ienes (95,5 mil milhões de euros) na primeira metade de 2026, um valor 22,5% acima do registo homólogo anterior, informou hoje o Governo japonês.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f0411e5e99951b87da6d456e7902829f?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Dominados fogos em Portugal. Incêndio na Andaluzia preocupa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-dominados-fogos-em-portugal-incendio-na-andaluzia-preocupa_a1_1758580",
-      "pubDate": "Mon, 10 Aug 2026 03:25:02 +0100",
+      "title": "Suspeito da morte do rapper Tupac Shakur vai a julgamento 30 anos após crime",
+      "link": "https://www.rtp.pt/noticias/cultura/suspeito-da-morte-do-rapper-tupac-shakur-vai-a-julgamento-30-anos-apos-crime_n1758581",
+      "pubDate": "Mon, 10 Aug 2026 06:01:18 +0100",
+      "description": "O julgamento de um ex-líder de um grupo criminoso acusado de ter orquestrado o homicídio de Tupac Shakur começa hoje em Las Vegas, 30 anos após a morte do famoso rapper norte-americano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad66fd01f1558046af2c2a6ab57fd4b6?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tufão Dolphin enfraquece depois de atingir o leste da China",
+      "link": "https://www.rtp.pt/noticias/mundo/tufao-dolphin-enfraquece-depois-de-atingir-o-leste-da-china_n1758579",
+      "pubDate": "Mon, 10 Aug 2026 05:56:33 +0100",
+      "description": "O tufão Dolphin enfraqueceu hoje após ter atingido a província chinesa de Zhejiang (este), com a cidade de Xangai a manter restrições de transporte e a retirar preventivamente 215.600 pessoas de zonas de risco",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e9425f7311dadac981a2f1761f0c946?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Trump troca ameaça militar ao Irão por pressão económica",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-trump-troca-ameaca-militar-ao-irao-por-pressao-economica_a1_1758586",
+      "pubDate": "Mon, 10 Aug 2026 05:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,11 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Marco Silva sobre o empate: Benfica não foi eficaz",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-marco-silva-sobre-o-empate-benfica-nao-foi-eficaz_a1_1758578",
-      "pubDate": "Mon, 10 Aug 2026 02:19:02 +0100",
+      "title": "3h Temperaturas dos oceanos batem recorde mundial no mês de julho",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-temperaturas-dos-oceanos-batem-recorde-mundial-no-mes-de-julho_a1_1758583",
+      "pubDate": "Mon, 10 Aug 2026 04:16:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Benfica empata 2-2 com Académico de Viseu",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-benfica-empata-2-2-com-academico-de-viseu_a1_1758577",
-      "pubDate": "Mon, 10 Aug 2026 01:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Luís Neves: críticas de Seguro sobre incêndios são \"alertas\"",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-luis-neves-criticas-de-seguro-sobre-incendios-sao-alertas_a1_1758576",
-      "pubDate": "Mon, 10 Aug 2026 00:18:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Digne troca Aston Villa pelo PSG a três dias da Supertaça Europeia",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/digne-troca-aston-villa-pelo-psg-a-tres-dias-da-supertaca-europeia_d1758575",
-      "pubDate": "Sun, 09 Aug 2026 23:48:15 +0100",
-      "description": "O francês Lucas Digne, anteriormente ao serviço dos ingleses do Aston Villa, vai representar o Paris Saint-Germain até 2029, anunciou o pentacampeão francês, que defronta os ‘lions’ na quarta-feira, na Supertaça Europeia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ee/eeb4d6770bac7aa099499d1de56daab9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
