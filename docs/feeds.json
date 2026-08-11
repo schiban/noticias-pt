@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-10T23:30:51.324859+00:00",
+  "updated": "2026-08-11T01:20:58.242169+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2376/",
+      "pubDate": "Tue, 11 Aug 2026 02:16:30 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Noite de ataques russos em várias regiões ucranianas",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2349/",
+      "pubDate": "Tue, 11 Aug 2026 01:15:17 +0100",
+      "description": "De acordo com a Força Aérea Ucraniana, o espaço aéreo está em alerta. Ainda, Nuno Melo insiste no processo judicial contra André Ventura e Pedro Frazão devido às criticas à compra de 3 fragatas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,34 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2049%3A2048%3Anowe%3A276%3A449%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170554%2Fmiguel-santos-carrapatoso.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2387/",
-      "pubDate": "Tue, 11 Aug 2026 00:21:42 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Nova noite de ataques russos na Ucrânia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nova-noite-de-ataques-russos-na-ucrania_a1_1758773",
+      "pubDate": "Tue, 11 Aug 2026 02:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pede desculpa ao pangolim, pá",
-      "link": "https://observador.pt/opiniao/pede-desculpa-ao-pangolim-pa/",
-      "pubDate": "Tue, 11 Aug 2026 00:20:07 +0100",
-      "description": "A verdade é que, até hoje, quando penso em pangolins, penso em badalhoquice. É costume dizer ao meu filho: “Vai tomar banho, pá. Pareces um pangolim”.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2444%3A2443%3Anowe%3A24%3A962%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170602%2Fze-diogo-quintela.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00h Kiev e Zaporijia alvo de ataques",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-kiev-e-zaporijia-alvo-de-ataques_a1_1758771",
+      "pubDate": "Tue, 11 Aug 2026 01:40:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Kiev alvo de ataques esta noite",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-kiev-alvo-de-ataques-esta-noite_a1_1758770",
+      "pubDate": "Tue, 11 Aug 2026 01:38:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -66,40 +96,10 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Sismos na Venezuela. Número de mortos ultrapassa os 6.300",
-      "link": "https://www.rtp.pt/noticias/mundo/sismo-na-colombia-numero-de-mortos-ultrapassa-os-6300_n1758766",
+      "link": "https://www.rtp.pt/noticias/mundo/sismos-na-venezuela-numero-de-mortos-ultrapassa-os-6300_n1758766",
       "pubDate": "Tue, 11 Aug 2026 01:24:03 +0100",
       "description": "O número de mortos na Venezuela pelo duplo sismo de 24 de junho atingiu 6.301, mais 176 em relação à contagem anterior, segundo dados divulgados pelas autoridades venezuelanas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Atletismo/Europeus. Norueguês Jakob Ingebrigtsen regressa para o `tri` nos 5.000 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/atletismoeuropeus-noruegues-jakob-ingebrigtsen-regressa-para-o-tri-nos-5000-metros_d1758762",
-      "pubDate": "Mon, 10 Aug 2026 23:48:08 +0100",
-      "description": "Jakob Ingebrigtsen, novamente campeão da Europa dos 5.000 metros, após ausência prolongada, contribuiu hoje para a liderança da Noruega no medalheiro dos Europeus de atletismo, com dois ouros, enquanto Países Baixos, Reino Unido e Itália celebram um título.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4badfdfcd17d7c4c9418d1b6d52f1ab4?w=350&amp;q=50&amp;rect=0,250,5199,2850&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Atletismo/Europeus: Laura Taborda fora da final dos 3.000 metros obstáculos",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/atletismoeuropeus-laura-taborda-fora-da-final-dos-3000-metros-obstaculos_d1758761",
-      "pubDate": "Mon, 10 Aug 2026 23:46:52 +0100",
-      "description": "A portuguesa Laura Taborda ficou hoje afastada da final dos 3.000 metros obstáculos dos Europeus de atletismo, em Birmignham, com o nono lugar na segunda eliminatória, apesar de ter conseguido a melhor marca do ano.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Thiago Almada contratado pelo River Plate ao Atlético de Madrid",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/thiago-almada-contratado-pelo-river-plate-ao-atletico-de-madrid_d1758760",
-      "pubDate": "Mon, 10 Aug 2026 23:46:18 +0100",
-      "description": "O médio Thiago Almada, campeão mundial de seleções pela Argentina em 2022, foi contratado pelo River Plate aos espanhóis do Atlético de Madrid, assinando um contrato de quatro anos, até 2030, anunciaram hoje os dois clubes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/91/913b583dd7291f1385c3fe3252f6b4fa?w=350&amp;q=50&amp;rect=0,133,4105,2251&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
