@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-11T03:17:13.443170+00:00",
+  "updated": "2026-08-11T04:48:02.167313+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "Como a Ucrânia coloca em risco a mulher mais rica da Rússia",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/como-a-ucrania-coloca-em-risco-a-mulher-mais-rica-da-russia/",
+      "pubDate": "Tue, 11 Aug 2026 05:03:10 +0100",
+      "description": "Descrita como a mulher mais rica da Rússia, Tatyana Kim tem visto o seu império entrar em colapso por causa de ataques ucranianos. Uma conversa com o jornalista José Carlos Duarte.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Sismo Colômbia. Novo balanço aponta para 570 feridos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2367/",
+      "pubDate": "Tue, 11 Aug 2026 04:17:31 +0100",
+      "description": "O número de mortos também subiu, são agora 132 mortos na sequência do terramoto. Ainda, Donald Trump afirma que o controlo do Estreito de Ormuz está nas mãos dos EUA.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Sismo Colômbia. EUA anunciam envio de ajuda",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2402/",
       "pubDate": "Tue, 11 Aug 2026 03:18:37 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "A ajuda vai servir para abrigos de emergência, alimentação, medidas de proteção e avaliação de danos. Ainda, o eclipse solar total é já esta quarta-feira.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,72 +52,52 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ceuta, ou a fragilidade europeia",
-      "link": "https://observador.pt/opiniao/ceuta-ou-a-fragilidade-europeia/",
-      "pubDate": "Tue, 11 Aug 2026 00:25:58 +0100",
-      "description": "A entrada de imigrantes sem controlo em Ceuta expõe acima de tudo, e de forma dramática, a incapacidade de defesa e segurança das fronteiras europeias.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Pole pole\"",
-      "link": "https://observador.pt/opiniao/pole-pole/",
-      "pubDate": "Tue, 11 Aug 2026 00:24:49 +0100",
-      "description": "O nosso pole pole é «Ah, mas este solzinho não há noutro sítio do mundo». Ou «Sim, mas o peixe é muito bom».",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Iémen acusa Huthis de novos ataques contra Mokha e Marib",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/iemen-acusa-huthis-de-novos-ataques-contra-mokha-e-marib_n1758779",
+      "pubDate": "Tue, 11 Aug 2026 06:42:19 +0100",
+      "description": "O exército do Iémen acusou os rebeldes Huthis de lançarem novos ataques durante a madrugada de hoje contra a cidade e o porto de Mokha, bem como contra bairros residenciais em Marib (oeste).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa779667f75105b6d0de5f460f4752f9?w=350&amp;q=50&amp;rect=0,138,758,416&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Eclipse. ICNF reforça vigilância em Montesinho, Bragança",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-eclipse-icnf-reforca-vigilancia-em-montesinho-braganca_a1_1758778",
-      "pubDate": "Tue, 11 Aug 2026 04:14:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "UE, Meta e TikTok unem-se para combater desinformação sobre Ceuta",
+      "link": "https://www.rtp.pt/noticias/mundo/ue-meta-e-tiktok-unem-se-para-combater-desinformacao-sobre-ceuta_n1758777",
+      "pubDate": "Tue, 11 Aug 2026 06:36:38 +0100",
+      "description": "A União Europeia (UE) e as tecnológicas Meta e TikTok acordaram criar um novo canal para detetar e reduzir rapidamente o impacto da desinformação sobre a crise migratória em Ceuta, segundo o portal especializado Politico.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b99ea0c3d1314b642bbd4a0863e3a632?w=350&amp;q=50&amp;rect=0,0,1260,691&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Sismo Colômbia. Autoridades continuam a procurar sobreviventes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismo-colombia-autoridades-continuam-a-procurar-sobreviventes_a1_1758776",
-      "pubDate": "Tue, 11 Aug 2026 03:32:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "China mantém alerta de chuva apesar do enfraquecimento do tufão Dolphin",
+      "link": "https://www.rtp.pt/noticias/mundo/china-mantem-alerta-de-chuva-apesar-do-enfraquecimento-do-tufao-dolphin_n1758775",
+      "pubDate": "Tue, 11 Aug 2026 06:32:38 +0100",
+      "description": "O tufão Dolphin continuou hoje a perder força, enquanto se deslocava para o interior da China, mas as autoridades mantiveram o alerta devido à previsão de fortes precipitações em grandes áreas do do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c7f2ce4d11ec3f8f0459a369b4a5a39e?w=350&amp;q=50&amp;rect=0,100,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Nova noite de ataques russos na Ucrânia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nova-noite-de-ataques-russos-na-ucrania_a1_1758773",
-      "pubDate": "Tue, 11 Aug 2026 02:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Novo balanço do sismo na Colômbia aponta para 132 mortos e 570 feridos",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-balanco-do-sismo-na-colombia-aponta-para-132-mortos-e-570-feridos_n1758774",
+      "pubDate": "Tue, 11 Aug 2026 06:30:09 +0100",
+      "description": "Pelo menos 132 pessoas morreram e mais de 570 ficaram feridas após o sismo de magnitude 7,4 que atingiu a Colômbia na segunda-feira, segundo um balanço parcial da Associação Colombiana de Capitais (Asocapitales).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/8003e8ed0f32eb5ba8f559cab7679359?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "00h Kiev e Zaporijia alvo de ataques",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-kiev-e-zaporijia-alvo-de-ataques_a1_1758771",
-      "pubDate": "Tue, 11 Aug 2026 01:40:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Kiev alvo de ataques esta noite",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-kiev-alvo-de-ataques-esta-noite_a1_1758770",
-      "pubDate": "Tue, 11 Aug 2026 01:38:01 +0100",
+      "title": "5h Ministério da Defesa nega intermediação nas fragatas italianas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-ministerio-da-defesa-nega-intermediacao-nas-fragatas-italianas_a1_1758785",
+      "pubDate": "Tue, 11 Aug 2026 06:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
