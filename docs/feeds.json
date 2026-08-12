@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-12T14:22:46.995053+00:00",
+  "updated": "2026-08-12T15:28:26.845236+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 15h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2423/",
-      "pubDate": "Wed, 12 Aug 2026 15:15:52 +0100",
+      "title": "Montenegro promete \"transparência\" na compra de fragatas",
+      "link": "https://observador.pt/2026/08/12/montenegro-promete-transparencia-absoluta-na-compra-de-fragatas-e-apoia-processo-de-melo-a-ventura/",
+      "pubDate": "Wed, 12 Aug 2026 16:21:22 +0100",
+      "description": "O líder do Governo disse que será feito tudo o que é possível para \"garantir a transparência\". Disse ainda que a \"lei e a decência pública se devem aplicar a todos\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12131050/47597547.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Falha humana é a causa para o acidente em Agualva-Cacém",
+      "link": "https://observador.pt/2026/08/12/relatorio-de-operador-diz-que-acidente-com-autocarro-em-agualva-cacem-deveu-se-a-falha-humana/",
+      "pubDate": "Wed, 12 Aug 2026 16:18:02 +0100",
+      "description": "A investigação interna ao despiste de 7 de julho aponta para \"fatores de natureza humana\". Viação Alvorada reforça procedimentos operacionais para os motoristas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/07203556/47421463.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 16h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2327/",
+      "pubDate": "Wed, 12 Aug 2026 16:17:15 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,91 +35,101 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Óculos eclipse. Reforço garantido pela ANF aumenta procura",
-      "link": "https://observador.pt/programas/reportagem-observador/oculos-eclipse-reforco-garantido-pela-anf-aumenta-procura/",
-      "pubDate": "Wed, 12 Aug 2026 15:11:49 +0100",
-      "description": "Esta manhã, várias pessoas vão até à Farmácia Alentejo com esperança no reforço anunciado pela ANF. Diretora técnica lamenta ter sabido “através da comunicação social” e diz que não recebeu óculos.",
-      "thumbnail": ""
+      "title": "Marcelo sente-se mal e é transportado para o hospital",
+      "link": "https://observador.pt/2026/08/12/marcelo-rebelo-de-sousa-sente-se-mal-e-e-transportado-para-o-hospital/",
+      "pubDate": "Wed, 12 Aug 2026 16:16:42 +0100",
+      "description": "Ex-Presidente da República estava de férias em Monte Gordo, no Algarve, quando desmaiou num restaurante e foi assistido pelo INEM. Acabou por ser transportado para o Hospital de Faro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3770:2120:nowe:0:196/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/02123855/doc2026040246867091jsg-8748.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Jerónimo Martins regista 25 lojas danificadas na Colômbia",
-      "link": "https://observador.pt/2026/08/12/jeronimo-martins-regista-25-lojas-ara-muito-danificadas-devido-ao-sismo-na-colombia/",
-      "pubDate": "Wed, 12 Aug 2026 15:10:17 +0100",
-      "description": "O grupo Jerónimo Martins, dono do Pingo Doce e Biedronka, reportou 25 lojas Ara \"muito danificadas\" na sequência do sismo na Colômbia. As lojas seriam \"contíguas a prédios que ruíram\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:900:nowe:0:91/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10144356/hpxjyvzwyaex10l.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mortes na estrada estagnaram nos últimos 10 anos",
-      "link": "https://observador.pt/2026/08/12/portugal-nao-consegue-reduzir-mortalidade-nas-estradas-morrem-hoje-tantas-pessoas-como-ha-10-anos-enquanto-europa-melhora-os-numeros/",
-      "pubDate": "Wed, 12 Aug 2026 15:03:31 +0100",
-      "description": "Em 2025, morreram 589 pessoas nas estradas portugueses, quase tantas como em 2015. Uma estagnação que contrasta com reduções de mais de 40% em alguns países europeus. \"Uma guerra civil\", diz ministro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/03/06185939/20432908_770x433_acf_cropped.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Google lança Pixel 11 e uma Tag para responder à Apple",
-      "link": "https://observador.pt/2026/08/12/google-lanca-smartphones-pixel-11-e-responde-a-apple-com-acessorio-para-competir-com-as-airtag/",
-      "pubDate": "Wed, 12 Aug 2026 15:01:20 +0100",
-      "description": "A Google renovou a linha de smartphones, em que as ferramentas de IA e a câmara são ponto de destaque. Há uma subida dos preços, com o Pixel 11 a ficar acima da fasquia dos mil euros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2374:1334:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12115649/captura-de-ecra-2026-08-12-as-115636.jpg"
+      "title": "Cabaz alimentar desce 1,53 euros na última semana",
+      "link": "https://observador.pt/2026/08/12/cabaz-alimentar-desce-153-euros-na-ultima-semana-para-25207-euros/",
+      "pubDate": "Wed, 12 Aug 2026 16:16:26 +0100",
+      "description": "Os 63 bens essenciais monitorados pela Deco Proteste custam 252,07 euros. Face a 2022, a diferença chega aos 64 euros — a carne de novilho subiu 121%.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/03/11150307/alimentos.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Argentino Nahuel Molina reforça Roma proveniente do Atlético de Madrid",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/argentino-nahuel-molina-reforca-roma-proveniente-do-atletico-de-madrid_d1759042",
-      "pubDate": "Wed, 12 Aug 2026 16:15:52 +0100",
-      "description": "O futebolista internacional argentino Nahuel Molina é o mais recente reforço da Roma, proveniente do Atlético de Madrid e com contrato por quatro épocas, anunciaram hoje ambos os clubes nas suas redes sociais na Internet.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/65/65f79bd75040d91319b7d77d4ecb476d?w=350&amp;q=50&amp;rect=0,99,2300,1261&amp;auto=format"
+      "title": "Eclipse total do sol. O fenómeno visto a partir de Portugal",
+      "link": "https://www.rtp.pt/noticias/pais/eclipse-total-do-sol-o-fenomeno-visto-a-partir-de-portugal_e1759045",
+      "pubDate": "Wed, 12 Aug 2026 17:25:34 +0100",
+      "description": "O país testemunha hoje um fenómeno raro: um eclipse total do Sol. É algo que já não acontece desde 1912 e terá duração aproximada de 26 segundos. Os portugueses vão estar de olhos postos no céu, mas devem proteger-se com os óculos apropriados a fim de evitar danos irreversíveis na retina.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a5a877239e4d72bb6f28669e0a901c4e?w=350&amp;q=50&amp;rect=0,233,2016,1105&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Carlos Vicens quer \"dinamismo\" no Sporting de Braga para \"marcar golos\"",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/carlos-vicens-quer-dinamismo-no-sporting-de-braga-para-marcar-golos_d1759041",
-      "pubDate": "Wed, 12 Aug 2026 16:14:11 +0100",
-      "description": "Um Sporting de Braga com dinamismo para criar ocasiões e marcar golos é a ambição do treinador Carlos Vicens para o jogo com o Dínamo Minsk, na quinta-feira, da segunda mão da terceira pré-eliminatória da Liga Conferência de futebol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a9b34a6066ccf88789baf04931aad9bf?w=350&amp;q=50&amp;rect=0,197,3319,1820&amp;auto=format"
+      "title": "Eclipse solar leva 150 militares da GNR para Bragança e condiciona acesso a Rio de Onor",
+      "link": "https://www.rtp.pt/noticias/pais/eclipse-solar-leva-150-militares-da-gnr-para-braganca-e-condiciona-acesso-a-rio-de-onor_n1759049",
+      "pubDate": "Wed, 12 Aug 2026 17:14:29 +0100",
+      "description": "A observação que estava prevista no Parque Natural de Montesinho foi transferida para o aeródromo de Bragança devido ao risco de incêndio. Ainda assim, são esperadas centenas de pessoas na aldeia transmontana.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7635a3659a388e3de90bc8b74cbac71?w=350&amp;q=50&amp;rect=0,59,1290,707&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Antigo guarda-redes de andebol Paulo Morgado morre aos 54 anos",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/antigo-guarda-redes-de-andebol-paulo-morgado-morre-aos-54-anos_d1759040",
-      "pubDate": "Wed, 12 Aug 2026 16:11:33 +0100",
-      "description": "O antigo guarda-redes do ABC e da seleção portuguesa de andebol Paulo Morgado morreu aos 54 anos, informou hoje a Federação de Andebol de Portugal (FAP), expressando “o seu profundo pesar”.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Mais 4,2 milhões de euros para recuperação de territórios afetados e dragagens no Mondego",
+      "link": "https://www.rtp.pt/noticias/economia/mais-42-milhoes-de-euros-para-recuperacao-de-territorios-afetados-e-dragagens-no-mondego_n1759048",
+      "pubDate": "Wed, 12 Aug 2026 17:06:56 +0100",
+      "description": "Mais 4,2 milhões de euros vão ser disponibilizados para apoios à recuperação dos territórios afetados pelas tempestades no inverno, beneficiando 23 municípios para reabilitação do litoral e dragagens na foz do rio Mondego, anunciou hoje o Ministério do Ambiente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/56/5675cd6660453fbc775c73ffc9192bfd?w=350&amp;q=50&amp;rect=0,290,4898,2685&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Dupla Pedrosa e Campos entra a perder no Europeu de voleibol de praia",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/dupla-pedrosa-e-campos-entra-a-perder-no-europeu-de-voleibol-de-praia_d1759039",
-      "pubDate": "Wed, 12 Aug 2026 16:10:43 +0100",
-      "description": "A dupla portuguesa de voleibol de praia João Pedrosa e Hugo Campos perdeu hoje por 2-1 frente aos suecos David Ahman e Jonatan Hellvig, campeões olímpicos e mundiais, na jornada inaugural do Europeu, em Stare Jablonki, na Polónia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f2c2c3eab2cd6694898308265b0e4406?w=350&amp;q=50&amp;rect=0,4,1440,789&amp;auto=format"
+      "title": "Circular na estrada a mais de 180 km/h poderá vir a ser crime admite MAI",
+      "link": "https://www.rtp.pt/noticias/pais/circular-na-estrada-a-mais-de-180-kmh-podera-vir-a-ser-crime-admite-mai_n1759046",
+      "pubDate": "Wed, 12 Aug 2026 17:02:21 +0100",
+      "description": "O ministro da Administração Interna admitiu hoje que circular a partir de 180 ou 200 quilómetros por hora (km/h) pode passar a ser considerado crime no novo Código da Estrada, que está já 70% estabilizado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/710aeb783ad6b020ff555efbd055b67a?w=350&amp;q=50&amp;rect=0,0,1999,1096&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Governo da Etiópia acusado de ataques com drones na região de Tigray",
-      "link": "https://www.rtp.pt/noticias/mundo/governo-da-etiopia-acusado-de-ataques-com-drones-na-regiao-de-tigray_v1759037",
-      "pubDate": "Wed, 12 Aug 2026 15:50:47 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ba/ba40de50a6ec55ef31a5deb93b201885_N.jpg?"
+      "title": "Marcelo Rebelo de Sousa internado no Hospital de Faro",
+      "link": "https://www.rtp.pt/noticias/pais/marcelo-rebelo-de-sousa-internado-no-hospital-de-faro_n1759050",
+      "pubDate": "Wed, 12 Aug 2026 17:02:06 +0100",
+      "description": "O ex-Presidente da República sentiu-se mal em Monte Gordo, onde se encontrava a passar férias, tendo sido assistido no local pelo INEM e transportado depois para o Hospital de Faro.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/59/59116874689dbadd317a3e8e59a08fc5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vicens: «Sp. Braga tem de aprender com os erros da primeira mão»",
+      "link": "https://maisfutebol.iol.pt/liga-conferencia/carlos-vicens/vicens-sp-braga-tem-de-aprender-com-os-erros-da-primeira-mao",
+      "pubDate": "Wed, 12 Aug 2026 15:50:53 +0100",
+      "description": "Treinador avisa para qualidade e experiência do Dinamo Minsk",
+      "thumbnail": "https://img.iol.pt/image/id/6a0247c3d34e28842c83e8f3/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sp. Braga: duas novidades nos convocados para defrontar o Dínamo Minsk",
+      "link": "https://maisfutebol.iol.pt/sp-braga/liga-conferencia/sp-braga-duas-novidades-nos-convocados-para-defrontar-o-dinamo-minsk",
+      "pubDate": "Wed, 12 Aug 2026 15:49:06 +0100",
+      "description": "Jónatas Noro e Diego Rodrigues entre os eleitos",
+      "thumbnail": "https://img.iol.pt/image/id/6a74e9fed34ed0733ba7ea2f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Yannis rescinde com Sp. Braga e reforça Portimonense",
+      "link": "https://maisfutebol.iol.pt/transferencias/yannis-da-rocha/oficial-yannis-rescinde-com-sp-braga-e-reforca-portimonense",
+      "pubDate": "Wed, 12 Aug 2026 15:25:16 +0100",
+      "description": "Médio-defensivo realizou nove jogos pela equipa principal",
+      "thumbnail": "https://img.iol.pt/image/id/68ffa714d34ee0c2fed1bb3e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -109,7 +139,7 @@
       "link": "https://maisfutebol.iol.pt/benfica/liga-europa/benfica-indio-e-miguel-figueiredo-nos-convocados-para-o-jogo-com-o-hearts",
       "pubDate": "Wed, 12 Aug 2026 15:18:00 +0100",
       "description": "Aursnes fica em Lisboa",
-      "thumbnail": "https://img.iol.pt/image/id/6a7c54bed34e511da0b32f10/250"
+      "thumbnail": "https://img.iol.pt/image/id/6a7c837dd34e511da0b32fa5/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Wed, 12 Aug 2026 15:00:44 +0100",
       "description": "Avançado português reagiu à publicação do astro argentino",
       "thumbnail": "https://img.iol.pt/image/id/61b733f90cf21847f09f4722/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rui Costa e a sucessão a António Silva: «Não queremos escolher rápido, mas bem»",
-      "link": "https://maisfutebol.iol.pt/benfica/liga/rui-costa-e-a-sucessao-a-antonio-silva-nao-queremos-escolher-rapido-mas-bem",
-      "pubDate": "Wed, 12 Aug 2026 14:48:00 +0100",
-      "description": "Presidente do Benfica comentou o empate com o Académico de Viseu e deixou um recado ao FC Porto",
-      "thumbnail": "https://img.iol.pt/image/id/69ea4389d34edcee7c6362a2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Messi escreve ao pai: «Só jogava futebol e agora tenho muitas dúvidas...»",
-      "link": "https://maisfutebol.iol.pt/messi/luto/messi-escreve-ao-pai-so-jogava-futebol-e-agora-tenho-muitas-duvidas",
-      "pubDate": "Wed, 12 Aug 2026 14:24:00 +0100",
-      "description": "Astro argentino sonhava com o Mundial 2026 e abre a porta ao fim da carreira",
-      "thumbnail": "https://img.iol.pt/image/id/6a7c7388d34ed0733ba7f7e7/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Andebol de luto: Paulo Morgado morreu aos 54 anos",
-      "link": "https://maisfutebol.iol.pt/luto/andebol/andebol-de-luto-paulo-morgado-morreu-aos-54-anos",
-      "pubDate": "Wed, 12 Aug 2026 13:45:27 +0100",
-      "description": "Antigo guarda-redes da Seleção e do ABC compôs uma carreira única",
-      "thumbnail": "https://img.iol.pt/image/id/6a7c6a87d34e511da0b32f61/250"
     },
     {
       "sourceId": "sapo",
@@ -175,7 +175,7 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugueses desaparecidos ao largo da Croácia, duas pessoas já terão sido resgatadas com vida",
+      "title": "Portugueses desaparecidos ao largo da Croácia, duas pessoas resgatadas com vida",
       "link": "https://sapo.pt/artigo/portugueses-desaparecidos-ao-largo-da-croacia-ha-pelo-menos-um-morto-6a7c4fafefb15208087c65cd",
       "pubDate": "Wed, 12 Aug 2026 10:56:56 +0000",
       "description": "O Ministério dos Negócios Estrangeiros chegou a avançar com a notícia de que tinha sido encontrado um corpo.",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "O eclipse dura segundos, mas pode deixar meses de dados científicos",
-      "link": "https://sapo.pt/artigo/o-eclipse-dura-segundos-mas-pode-deixar-meses-de-dados-cientificos-6a7c70038273c4b5edd3afd6",
-      "pubDate": "Wed, 12 Aug 2026 13:22:50 +0000",
-      "description": "Em Portugal e Espanha, investigadores vão aproveitar a redução súbita da luz provocada pelo eclipse para estudar o comportamento dos animais em ambiente natural e recolher dados sobre a coroa solar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AI2RN%2FonQVm65nqzov44673G91cVr719LESEwcTJ7iNOaWG9jPGllALzD3MF0Pe2zT5iq1J7ruvYRiJVvc3a2l3wwPfFeIljBTTtP1JXxn8urkcuDe2I2teDjiauQIktp"
+      "title": "Marcelo Rebelo de Sousa transportado para o hospital após sentir-se mal no Algarve",
+      "link": "https://executivedigest.sapo.pt/marcelo-rebelo-de-sousa-transportado-para-o-hospital-apos-sentir-se-mal-no-algarve/",
+      "pubDate": "Wed, 12 Aug 2026 15:11:34 +0000",
+      "description": "O ex-presidente da República Marcelo Rebelo de Sousa foi transportado para uma unidade hospitalar depois de se ter sentido mal, ao início da tarde desta quarta-feira, em Monte Gordo, no Algarve.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=472&W=840&crop=center&delay_optim=1&epic=V2%3AwTbbPaco8wTpwBQRR17BYsaaXb1riiQwWJ4DYYgp6zXoy0qPZLLp08Dx7%2FkwUech7QN6XxxXqBa2NK4dh%2BJdsCvyL9eN1hHrbnWl1vP6uCnARJYl0KPP2h0epbhNDw8H"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Comissão de Gestão do Conta Lá é liderada por Rui Rego",
-      "link": "https://www.noticiasaominuto.com/economia/3035608/comissao-de-gestao-do-conta-la-e-liderada-por-rui-rego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 15:17:20",
+      "title": "Eclipse. Sujou os óculos? Saiba como limpá-los sem estragar",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3035636/eclipse-sujou-os-oculos-saiba-como-limpa-los-sem-estragar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 16:17:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_637f8a5e67ee9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c8d297c01b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODY2LCJjcm9wSGVpZ2h0IjoxMDUwLCJjcm9wWCI6LTEsImNyb3BZIjo0NDF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjU1OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Emissões: Porsche junta-se à Xpeng e pode “aliviar” a Volkswagen",
-      "link": "https://www.noticiasaominuto.com/auto/3035603/emissoes-porsche-junta-se-a-xpeng-e-pode-aliviar-a-volkswagen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 15:15:19",
+      "title": "Ciberataque na Polónia expõe dados de cerca de 19 milhões de pessoas",
+      "link": "https://www.noticiasaominuto.com/tech/3035632/ciberataque-na-polonia-expoe-dados-de-cerca-de-19-milhoes-de-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 16:14:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c7d7b1ce02.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68f78bd7713b8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MjEsImNyb3BZIjoyMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc1LCJjcm9wWCI6MTMzNiwiY3JvcFkiOjEyfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tarifas Trump ao Brasil tornam \"inviável\" exportar para os EUA",
-      "link": "https://www.noticiasaominuto.com/economia/3035601/tarifas-trump-ao-brasil-tornam-inviavel-exportar-para-os-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 15:15:02",
+      "title": "Pessoal de cabine da EasyJet em França convoca greve para o fim de semana",
+      "link": "https://www.noticiasaominuto.com/economia/3035616/pessoal-de-cabine-da-easyjet-em-franca-convoca-greve-para-o-fim-de-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 16:13:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_58878a6ee0ca2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57764577afb3c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyOTYxLCJjcm9wSGVpZ2h0IjoxNjY1LCJjcm9wWCI6MzksImNyb3BZIjoyMjd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMzksImNyb3BIZWlnaHQiOjE4NDcsImNyb3BYIjoxMDA2LCJjcm9wWSI6ODZ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Condenado a 25 anos da prisão sai da prisão e assalta 7 casas em Cascais",
-      "link": "https://www.noticiasaominuto.com/pais/3035587/condenado-a-25-anos-da-prisao-sai-da-prisao-e-assalta-7-casas-em-cascais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 15:11:15",
+      "title": "Marcelo Rebelo de Sousa sente-se mal e é transportado para o hospital",
+      "link": "https://www.noticiasaominuto.com/pais/3035634/marcelo-rebelo-de-sousa-sente-se-mal-e-e-transportado-para-o-hospital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 16:06:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68e5362af2dc0.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_576990d635880.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alemanha reforça serviços secretos face a aumento de ameaças",
-      "link": "https://www.noticiasaominuto.com/mundo/3035589/alemanha-reforca-servicos-secretos-face-a-aumento-de-ameacas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 15:09:19",
+      "title": "Repatriamento? África do Sul quer que os países de origem reembolsem",
+      "link": "https://www.noticiasaominuto.com/mundo/3035622/repatriamento-africa-do-sul-quer-que-os-paises-de-origem-reembolsem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 16:02:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_691dd5ad03e5f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/28476505.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE3LCJjcm9wSGVpZ2h0IjoxNDE2LCJjcm9wWCI6MiwiY3JvcFkiOjMyM319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Eclipse Solar: a que horas o início, máximo e fim no seu distrito?",
+      "link": "https://pplware.sapo.pt/informacao/eclipse-solar-a-que-horas-o-inicio-maximo-e-fim-no-seu-distrito/",
+      "pubDate": "Wed, 12 Aug 2026 15:00:52 +0000",
+      "description": "O eclipse solar de hoje vai proporcionar um dos fenómenos astronómicos mais aguardados do ano e será visível em todo o território português. Em Portugal Continental, a percentagem de ocultação será muito elevada, chegando&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eclipse-solar-oculos-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/testamento_vital_sns00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dica: como usar IA para extender qualquer imagem de fundo do iPhone no iOS 27",
-      "link": "https://pplware.sapo.pt/truques-dicas/dica-como-usar-ia-para-extender-qualquer-imagem-de-fundo-no-iphone/",
-      "pubDate": "Wed, 12 Aug 2026 12:00:29 +0000",
-      "description": "A Apple Intelligence consegue extender as extremidades de uma imagem para que esta se adapte perfeitamente ao ecrã do seu iPhone. Esta nova funcionalidade do iOS 27 promete acabar com os cortes indesejados nas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/iphonex-antigo.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Mitsubishi ASX VR-e apenas na Austrália",
+      "link": "https://www.autosport.pt/automais/mitsubishi-asx-vr-e-apenas-na-australia/",
+      "pubDate": "Wed, 12 Aug 2026 15:00:00 +0000",
+      "description": "A Mitsubishi apresentou o novo ASX VR-e, Sport Utility Vehicle (SUV) compacto equipado apenas com motorização elétrica e que representa uma mudança de estratégia para a marca dos três diamantes. Depois de apresentar diversos modelos no mercado europeu baseados em automóveis da Renault (Colt/Clio, AS",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Jos Verstappen: Pai Promessa, Filho Prodígio",
+      "link": "https://www.autosport.pt/formula1/f1/jos-verstappen-pai-promessa-filho-prodigio/",
+      "pubDate": "Wed, 12 Aug 2026 14:15:00 +0000",
+      "description": "Aproveitando o facto da F1 estar na Holanda&#8230;do Norte, uma das 12 províncias dos Países Baixos, vamos falar de Verstappen. Jos Verstappen&#8230; Hoje em dia não há quem não conheça o seu filho, Max Verstappen. É cada vez mais o maior talento da sua geração, e provavelmente vai acrescentar títul",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/maismotores/jcb-quebra-recorde-de-velocidade-para-veiculos-movidos-a-hidrogenio/",
       "pubDate": "Wed, 12 Aug 2026 11:51:52 +0000",
       "description": "A JCB estabeleceu um novo recorde mundial de velocidade em terra com o seu carro movido a hidrogénio, o JCB Hydromax, que atingiu uma velocidade média de 653,908 km/h nos Salt Flats de Bonneville, tornando-se o carro de combustão interna a hidrogénio mais rápido de sempre. O veículo foi conduzido po",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Geely supera exigências Euro NCAP",
-      "link": "https://www.autosport.pt/automais/geely-supera-exigencias-euro-ncap/",
-      "pubDate": "Wed, 12 Aug 2026 11:15:00 +0000",
-      "description": "O Starray EM-i da Geely foi submetido, em França, a um exigente e inédito teste de colisão que simulou um cenário de duplo impacto lateral, com níveis de energia superiores aos previstos nos protocolos do consórcio Euro NCAP, a entidade que avalia e pontua os níveis de segurança ativa e passiva dos ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Informações, estatísticas e horários da grande final",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-informacoes-estatisticas-e-horarios-da-grande-final/",
-      "pubDate": "Wed, 12 Aug 2026 10:20:44 +0000",
-      "description": "Numa altura em que grande parte das principais competições estão paradas para as férias de verão, a Fórmula E traz animação com a jornada final da temporada 12, a úlitma com os monolugares GEN 3. O E-Prix de Londres encerra quatro temporadas marcadas por três novos campeões mundiais de pilotos e a p",
       "thumbnail": ""
     }
   ]
