@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-12T08:13:34.019419+00:00",
+  "updated": "2026-08-12T09:39:21.827706+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2435/",
+      "pubDate": "Wed, 12 Aug 2026 10:18:23 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Eclipse. \"Danos na visão podem ser irreversíveis\"",
+      "link": "https://observador.pt/programas/explicador/eclipse-danos-na-visao-podem-ser-irreversiveis/",
+      "pubDate": "Wed, 12 Aug 2026 10:02:17 +0100",
+      "description": "Vice-presidente da Associação Nacional de Médicos de Saúde Pública pede que as pessoas não olhem diretamente para o eclipse. João Paulo Magalhães diz a que sintomas a população deve estar atenta.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Lisboa virou o \"faroeste\" com tiros e louro prensado?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/lisboa-virou-o-faroeste-com-tiros-e-louro-prensado/",
+      "pubDate": "Wed, 12 Aug 2026 09:37:37 +0100",
+      "description": "Na Baixa dão-se tiros a turistas, já no Algarve os portugueses fogem para passar férias em Marrocos. No Douro, a EDP continua a dar o nó no fisco das barragens.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. Bragança esgota hotéis e alojamentos para o eclipse",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2438/",
+      "pubDate": "Wed, 12 Aug 2026 09:20:31 +0100",
+      "description": "O Presidente do Turismo do Norte diz à Rádio Observador que Trás- os- montes teve um crescimento de 7,6% na procura. Ainda neste jornal, as farmácias continuam a corrida aos óculos para o eclipse.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,164 +52,124 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sobe para 254 o número de mortes no sismo",
-      "link": "https://observador.pt/2026/08/12/sismo-numero-de-mortes-sobe-para-254-mortos-operacoes-de-resgaste-continuam/",
-      "pubDate": "Wed, 12 Aug 2026 09:02:37 +0100",
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h As acusações de Putin à Nato",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-as-acusacoes-de-putin-a-nato_a1_1758979",
+      "pubDate": "Wed, 12 Aug 2026 11:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "AIE revê em baixa previsões da oferta e procura de petróleo para o resto do ano",
+      "link": "https://www.rtp.pt/noticias/economia/aie-reve-em-baixa-previsoes-da-oferta-e-procura-de-petroleo-para-o-resto-do-ano_n1758976",
+      "pubDate": "Wed, 12 Aug 2026 10:54:09 +0100",
+      "description": "A Agência Internacional da Energia reviu em baixa a previsão sobre a oferta e a procura mundial de petróleo para o resto deste ano, na sequência do conflito no Médio Oriente e da subida acentuada dos preços dos hidrocarbonetos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/00/00beec02e60a1618c1416c5af2d9ef94?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Polícia timorense deteve mais 14 estrangeiros por suspeita de atividade ilegal online",
+      "link": "https://www.rtp.pt/noticias/mundo/policia-timorense-deteve-mais-14-estrangeiros-por-suspeita-de-atividade-ilegal-online_n1758973",
+      "pubDate": "Wed, 12 Aug 2026 10:49:06 +0100",
+      "description": "A Polícia Nacional de Timor-Leste (PNTL) anunciou hoje a detenção de mais 14 cidadãos estrangeiros suspeitos de atividade ilegal `online` durante uma operação que decorreu na terça-feira em três locais de Díli.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Patrice Trovoada apela militantes da ADI a absterem-se nas eleições de setembro",
+      "link": "https://www.rtp.pt/noticias/mundo/patrice-trovoada-apela-militantes-da-adi-a-absterem-se-nas-eleicoes-de-setembro_n1758975",
+      "pubDate": "Wed, 12 Aug 2026 10:48:36 +0100",
+      "description": "O ex-primeiro-ministro são-tomense Patrice Trovoada apelou hoje à militância da Ação Democrática Independente (ADI) para não votar nas eleições legislativas e autárquicas de setembro, como protesto por ter sido afastado por &quot;manobras políticas mafiosas, encobertas por decisões judiciais&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Europeus de Atletismo: Diallo na final dos 400 barreiras, Pichardo salta a qualificação no triplo",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-diallo-na-final-dos-400-barreiras-pichardo-salta-a-qualificacao-no-triplo_d1758977",
+      "pubDate": "Wed, 12 Aug 2026 10:41:36 +0100",
+      "description": "Fatoumata Diallo é a única portuguesa a disputar hoje uma final nos Campeonatos da Europa de atletismo, nos 400 metros barreiras, depois de Pedro Pablo Pichardo disputar a qualificação no triplo salto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bf796f3767138d482b0266a2c7b7df0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Depay critica direção do Corinthians: «Não vou deixar que fiquem impunes»",
+      "link": "https://maisfutebol.iol.pt/internacional/corinthians/depay-critica-direcao-do-corinthians-nao-vou-deixar-que-fiquem-impunes",
+      "pubDate": "Wed, 12 Aug 2026 10:14:00 +0100",
+      "description": "Direção do clube brasileiro decidiu não renovar contrato do avançado neerlandês",
+      "thumbnail": "https://img.iol.pt/image/id/686fa2ecd34ef72ee4482895/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Joe Hodge assina pelo Motherwell e Tondela encaixa 600 mil euros",
+      "link": "https://maisfutebol.iol.pt/tondela/mercado-de-transferencias/oficial-joe-hodge-deixa-tondela-e-assina-pelo-motherwell-ate-2031",
+      "pubDate": "Wed, 12 Aug 2026 09:58:00 +0100",
+      "description": "Médio de 23 anos regressa ao Reino Unido",
+      "thumbnail": "https://img.iol.pt/image/id/69e4b4f7d34edcee7c633350/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Harwood-Bellis no Benfica: valor alto e mais-valia do City dificultam negócio",
+      "link": "https://maisfutebol.iol.pt/benfica/taylor-harwood-bellis/harwood-bellis-no-benfica-valor-alto-e-mais-valia-do-city-dificultam-negocio",
+      "pubDate": "Wed, 12 Aug 2026 09:53:25 +0100",
+      "description": "Southampton quer pelo menos 25 milhões de euros para vender o central inglês",
+      "thumbnail": "https://img.iol.pt/image/id/6a7c340ad34ed0733ba7f601/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rodrigo Mora: FC Porto recusa investidas da Roma e quer negócio de 50 milhões de euros",
+      "link": "https://maisfutebol.iol.pt/fc-porto/porto/rodrigo-mora-fc-porto-recusa-investidas-da-roma-e-quer-negocio-de-50-milhoes-de-euros",
+      "pubDate": "Wed, 12 Aug 2026 09:29:00 +0100",
+      "description": "Emblema italiano precisa de apresentar um modelo de acordo mais vantajoso para fechar um empréstimo com obrigação de compra",
+      "thumbnail": "https://img.iol.pt/image/id/6a088fc4d34edcee7c643b0e/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Chavarría deixa Rayo e assina pelo Chelsea até 2031",
+      "link": "https://maisfutebol.iol.pt/chelsea/mercado-de-transferencias/oficial-chavarria-deixa-rayo-e-assina-pelo-chelsea-ate-2031",
+      "pubDate": "Wed, 12 Aug 2026 09:28:45 +0100",
+      "description": "Lateral de 28 anos afirmou-se na última época e prepara novo «salto»",
+      "thumbnail": "https://img.iol.pt/image/id/6a7c2e3ad34e511da0b32d77/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Joshua Benoliel, o fotógrafo que há 114 anos captou os lisboetas a ver o eclipse",
+      "link": "https://eco.sapo.pt/2026/08/12/joshua-benoliel-o-fotografo-que-ha-114-anos-captou-os-lisboetas-a-ver-o-eclipse/",
+      "pubDate": "Wed, 12 Aug 2026 06:17:36 +0000",
+      "description": "A 17 de abril de 1912 o pioneiro do fotojornalismo registou lisboetas a fazerem o que milhões de portugueses vão fazer esta quarta-feira — olhar para o céu e ver a Lua a tapar o Sol.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2FfkhNM4PGFnsEMv9hNWmS%2B%2Fv1paWNunMAoyIQStGYVd6hoVd6tQ59BNlYFgtvTErb18xNaQE8Fc9XKj%2B4BCtnT8bFGbI2z%2F1UZRiSX5DH%2B2lciOxzmAgHVj048ryQTel"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Sobe para 254 o número de mortes no sismo da Colômbia",
+      "link": "https://sapo.pt/artigo/sobe-para-254-o-numero-de-mortes-no-sismo-6a7c290ee7c4d45e90980821",
+      "pubDate": "Wed, 12 Aug 2026 08:20:34 +0000",
       "description": "Cali, Pereira e a região do Chocó contam os estragos do pior terramoto colombiano deste século. Presidente promete apoio às famílias desalojadas. Novo balanço aponta para 254 mortos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/11053753/47590512.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Bom para o turismo? \"Há reservas para dois, três dias\"",
-      "link": "https://observador.pt/programas/resposta-pronta/eclipse-bom-para-o-turismo-ha-reservas-para-dois-tres-dias/",
-      "pubDate": "Wed, 12 Aug 2026 09:01:28 +0100",
-      "description": "Luís Pedro Martins, presidente do Turismo do Porto e Norte de Portugal, explica como Bragança prepara-se para o fenómeno geracional que vai levar muita a gente a fazer um \"dez em um\" por Bragança.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1651:929:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/01/22185721/29704652.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Hoje vamos brindar ao eclipse com um copo de vinho na mão",
-      "link": "https://observador.pt/programas/contra-corrente/hoje-vamos-brindar-ao-eclipse-com-um-copo-de-vinho-na-mao/",
-      "pubDate": "Wed, 12 Aug 2026 08:38:55 +0100",
-      "description": "O sector do vinho atravessa uma crise grave, no Douro já houve manifestações de agricultores, e a origem do problema está identificada: o Mundo está a consumir menos vinho. E não é por razões de saúde",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A corrida aos óculos para ver o eclipse e o casamento do ano",
-      "link": "https://observador.pt/newsletters/360/o-dia-do-eclipse-e-a-corrida-aos-oculos-o-dia-do-casamento-de-cris-e-gio-e-verao-e-o-algarve-ainda-e-o-que-era/",
-      "pubDate": "Wed, 12 Aug 2026 08:22:27 +0100",
-      "description": "Aconteceu longe dos holofotes e em Cascais. Cristiano Ronaldo e Giorgina Rodríguez casaram-se só com os filhos presentes. Mas hoje os olhos estarão postos no eclipse.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "08h Urgências com tempos de espera elevados",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-urgencias-com-tempos-de-espera-elevados_a1_1758965",
-      "pubDate": "Wed, 12 Aug 2026 09:20:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Embalagens de alimentos com novas regras para proteger a saúde dos consumidores a partir de hoje",
-      "link": "https://www.rtp.pt/noticias/uniao-europeia/embalagens-de-alimentos-com-novas-regras-para-proteger-a-saude-dos-consumidores-a-partir-de-hoje_n1758878",
-      "pubDate": "Wed, 12 Aug 2026 08:55:31 +0100",
-      "description": "Por decisão da União Europeia, as novas regras para as embalagens em contacto com alimentos vão ter, a partir desta quarta-feira, limites apertados para os chamados “químicos eternos”, também conhecidos pela sigla inglesa PFAS, que têm a capacidade de se acumularem no organismo do ser humano e de co",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb8263e07908d7cdcc32b162efff7c59?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Kiev envia novas propostas a Washington",
-      "link": "https://www.rtp.pt/noticias/mundo/kiev-envia-novas-propostas-a-washington_v1758964",
-      "pubDate": "Wed, 12 Aug 2026 08:35:47 +0100",
-      "description": "Volodymyr Zelensky apresentou novas propostas aos Estados Unidos para pôr fim ao conflito com a Rússia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f7/f7c4bd4c9b27b0e8341976011fd17bbf?w=350&amp;q=50&amp;rect=0,22,1600,877&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "07h  O dia do eclipse total do sol",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/07h-o-dia-do-eclipse-total-do-sol_a1_1758962",
-      "pubDate": "Wed, 12 Aug 2026 08:20:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Dia de eclipse. Olhos abertos mas protegidos para ver segundos de escuridão em Portugal",
-      "link": "https://www.rtp.pt/noticias/mundo/dia-de-eclipse-olhos-abertos-mas-protegidos-para-ver-segundos-de-escuridao-em-portugal_n1758811",
-      "pubDate": "Wed, 12 Aug 2026 08:19:07 +0100",
-      "description": "São cerca de 26 segundos em que a Lua esconde completamente o Sol, logo depois surgem os primeiros raios de luz. &quot;Uma experiência sensorial&quot; que voltará a ser visível em Portugal apenas daqui a 118 anos. A única zona do país onde o eclipse solar vai ser total é no concelho de Bragança, esp",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/53/53886281729bc1753c04d5032f6eccde?w=350&amp;q=50&amp;rect=0,0,1920,1053&amp;auto=format"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Benfica empresta Ivanovic ao Lens",
-      "link": "https://maisfutebol.iol.pt/benfica/ivanovic/oficial-benfica-empresta-ivanovic-ao-lens",
-      "pubDate": "Wed, 12 Aug 2026 09:11:00 +0100",
-      "description": "Sem opção de compra",
-      "thumbnail": "https://img.iol.pt/image/id/6a63a567d34ef04b4f3f8c82/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: São Paulo empata na Bolívia na estreia de Domingos Duarte",
-      "link": "https://maisfutebol.iol.pt/brasil/internacional/video-sao-paulo-empata-na-bolivia-na-estreia-de-domingos-duarte",
-      "pubDate": "Wed, 12 Aug 2026 08:57:58 +0100",
-      "description": "Central ex-Sporting foi totalista e Buta saltou do banco",
-      "thumbnail": "https://img.iol.pt/image/id/6a749ee3d34e511da0b320b2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Do campo de refugiados ao Mundial 2026: a viagem de Irankunda até ao Sporting",
-      "link": "https://maisfutebol.iol.pt/australia/perfil/do-campo-de-refugiados-ao-mundial-2026-a-viagem-de-irankunda-ate-ao-sporting",
-      "pubDate": "Wed, 12 Aug 2026 08:38:00 +0100",
-      "description": "Nasceu num campo de refugiados na Tanzânia, passou pelo Bayern, quase viu o sonho escapar e tornou-se o mais jovem australiano a marcar num Mundial",
-      "thumbnail": "https://img.iol.pt/image/id/6a2e7729d34edcee7c654029/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/benfica/liga-europa/hoje-vai-ser-noticia",
-      "pubDate": "Wed, 12 Aug 2026 08:00:00 +0100",
-      "description": "Marco Silva faz a antevisão ao jogo com o Hearts",
-      "thumbnail": "https://img.iol.pt/image/id/6a6a29a3d34ed0733ba7d060/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Wed, 12 Aug 2026 01:17:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Portugal esperou 114 anos pelo eclipse: “Há pessoas que só terão esta oportunidade uma vez na vida”",
-      "link": "https://sapo.pt/artigo/portugal-esperou-114-anos-pelo-eclipse-ha-pessoas-que-so-terao-esta-oportunidade-uma-vez-na-vida-6a7c0c5309906e9c526a37e9",
-      "pubDate": "Wed, 12 Aug 2026 06:17:36 +0000",
-      "description": "Durante alguns minutos, o dia vai transformar-se numa espécie de noite. A luz do verão vai perder intensidade, as sombras vão mudar de forma e milhões de portugueses vão olhar para o céu à procura de um acontecimento que muitos nunca mais...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AteCcmmy6NrABpW8bwtMXBsZok%2BewjvblXKLI1OsqcG58pYmzhQ3bsH7pFkzwJB%2BP%2BSFRuQkIUuDTpliROHQldwaTaD93QmlqieHd16TWQlQfTkZxwy%2B%2BXACwO48rfkQM"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Sismo na Colômbia já fez 224 mortos. Há 188 desaparecidos e relatos de falta de meios",
-      "link": "https://sapo.pt/artigo/sismo-na-colombia-ja-fez-224-mortos-ha-188-desaparecidos-e-relatos-de-falta-de-meios-6a7bb9ade252287f8a409356",
-      "pubDate": "Wed, 12 Aug 2026 06:17:36 +0000",
-      "description": "O número de vítimas do sismo de magnitude 7,4 que abalou a Colômbia continua a subir. Pelo menos 224 pessoas morreram, centenas ficaram feridas e 188 continuam desaparecidas, enquanto prosseguem as operações de busca sob críticas à falta de meios...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AbldREmczBeFwYhwe46Z%2BD9fW5XgcAly0GR9cDAkn%2BI52YKSSflSNCzVV46SOFyBpTmNLAuiuLKXTXqMKuQ%2BsNS8LwSJquc8qBt3ynivFwzSYzORsZqlR2Od%2Be8EbdBvP"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ADaPjTp5NOM4gpcEZsMGzz6IA5qFbl%2FAsbpuTywY0Et9qGkHijm8Ox3GKhMMHYHRUBGhjBqFSbkF55pk7Nl4L%2BVpg8DnFOfkGSf%2FofF5oWz%2Fax3Dyvfrn7Z%2Fg%2FI3oKDQl"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,81 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atualização da Apple revela seis iPhones que ainda não foram anunciados",
-      "link": "https://www.noticiasaominuto.com/tech/3035173/atualizacao-da-apple-revela-seis-iphones-que-ainda-nao-foram-anunciados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 09:07:24",
+      "title": "PJ detém dupla em Vendas Novas: Foram disparados 15 tiros contra casa",
+      "link": "https://www.noticiasaominuto.com/pais/3035427/pj-detem-dupla-em-vendas-novas-foram-disparados-15-tiros-contra-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 10:37:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66852f6592a7d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTAwLCJjcm9wWSI6NDEwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjksImNyb3BIZWlnaHQiOjEzNjcsImNyb3BYIjoxMzQ3LCJjcm9wWSI6MjE3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_621f953fc4f3f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUyLCJjcm9wSGVpZ2h0IjoxNDM1LCJjcm9wWCI6MCwiY3JvcFkiOjE4MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA5LCJjcm9wWCI6Nzk4LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Recebeu apoios ou subsídios que não tinha direito? É isto que acontece",
-      "link": "https://www.noticiasaominuto.com/economia/3035383/recebeu-apoios-ou-subsidios-que-nao-tinha-direito-e-isto-que-acontece#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 09:05:00",
+      "title": "Ataques causam mortos e feridos na Ucrânia e Rússia (incluindo criança)",
+      "link": "https://www.noticiasaominuto.com/mundo/3035430/trocas-de-ataques-causam-mortos-e-feridos-na-ucrania-e-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 10:35:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c2955d9ee5.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47592304.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oficial: Benfica empresta Ivanovic ao Lens",
-      "link": "https://www.noticiasaominuto.com/desporto/3035382/oficial-benfica-empresta-ivanovic-ao-lens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 09:03:37",
+      "title": "Trio detido por tráfico de droga em Lisboa. PJ aprendeu-lhes 30 mil euros",
+      "link": "https://www.noticiasaominuto.com/pais/3035419/trio-detido-por-trafico-de-droga-em-lisboa-pj-aprendeu-lhes-30-mil-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 10:29:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6e16d949397.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c3a1c8e7cc.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jogo patológico. \"Linha ténue\" entre lazer e adição: Sinais e como tratar",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3034826/jogo-patologico-linha-tenue-entre-lazer-e-adicao-sinais-e-como-tratar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 09:00:20",
+      "title": "Palmeiras 'em brasa' com mensagem a Abel: \"Portuga, a paciência acabou\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3035428/palmeiras-em-brasa-com-mensagem-a-abel-portuga-a-paciencia-acabou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 10:27:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a4bd18d1e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwNywiY3JvcEhlaWdodCI6MTQzNSwiY3JvcFgiOjEyNzEsImNyb3BZIjo1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a19229fcc172.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "GNR apanha homem a viver com mais de 40 gatos (alguns mortos) em Gaia",
-      "link": "https://www.noticiasaominuto.com/pais/3035370/gnr-apanha-homem-a-viver-com-mais-de-40-gatos-alguns-mortos-em-gaia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 08:55:24",
+      "title": "Fãs de outono, é para vocês! Vão adorar a nova coleção da Pepco",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3035083/fas-de-outono-e-para-voces-vao-adorar-a-nova-colecao-da-pepco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 10:26:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c21ad81523.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7b2a1a986ee.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc5OSwiY3JvcEhlaWdodCI6MTQyMSwiY3JvcFgiOjg5MSwiY3JvcFkiOjEwMX19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Vai viver no estrangeiro? Não se esqueça de atualizar a sua morada fiscal",
+      "link": "https://pplware.sapo.pt/internet/vai-viver-no-estrangeiro-nao-se-esqueca-de-atualizar-a-sua-morada-fiscal/",
+      "pubDate": "Wed, 12 Aug 2026 09:30:44 +0000",
+      "description": "Está de malas feitas para viver fora de Portugal? Há uma alteração administrativa que não deve ficar esquecida no meio de toda a preparação: atualizar a sua morada fiscal junto da Autoridade Tributária (AT).&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/02/viajar01.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Ainda não leu nada sobre o Eclipse Solar? Então saiba tudo agora",
+      "link": "https://pplware.sapo.pt/pplware/ainda-nao-leu-nada-sobre-o-eclipse-solar-entao-saiba-tudo-agora/",
+      "pubDate": "Wed, 12 Aug 2026 09:06:00 +0000",
+      "description": "O céu português prepara-se para um dos fenómenos astronómicos mais aguardados dos últimos anos. Esta quarta-feira, 12 de agosto de 2026, acontece um eclipse solar que será visível em todo o território nacional. Saiba&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eclipse_x00.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Microsoft aumenta preço das licenças do Windows 11 e compra de PC fica mais cara",
+      "link": "https://pplware.sapo.pt/microsoft/windows/microsoft-aumenta-preco-das-licencas-do-windows-11-e-compra-de-pc-fica-ainda-mais-cara/",
+      "pubDate": "Wed, 12 Aug 2026 08:30:29 +0000",
+      "description": "Adquirir um PC novo está a transformar-se num verdadeiro teste à carteira. A constante escalada nos custos da RAM e de vários componentes essenciais ganhou agora um novo elemento de pressão. Este vem diretamente&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/windows_11_ia_novidade_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,34 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Windows_11_Liquid_Glass_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Spotify vai banir artistas virtuais criados por IA. Saiba o que muda já em setembro",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/spotify-vai-banir-artistas-virtuais-criados-por-ia-saiba-o-que-muda-ja-em-setembro/",
-      "pubDate": "Wed, 12 Aug 2026 06:00:53 +0000",
-      "description": "O ecossistema do streaming musical está prestes a sofrer uma das alterações mais significativas dos últimos anos no combate ao conteúdo automatizado ou gerados por IA. O Spotify confirmou que vai passar a identificar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/spotify_IA_banir_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Kalle Rovanperä não desiste dos monolugares e pisca o hoje a Nürburgring",
+      "link": "https://www.autosport.pt/velocidade/kalle-rovanpera-nao-desiste-dos-monolugares-e-pisca-o-hoje-a-nurburgring/",
+      "pubDate": "Wed, 12 Aug 2026 09:30:00 +0000",
+      "description": "Kalle Rovanperä continua muito interessado em dar continuidade à sua carreira nas pistas, depois de ter conquistado dois títulos no WRC. As questões de saúde que o obrigaram a colocar os seus planos em espera não o desmotivaram a perseguir o objetivo traçado. Rovanperä já superou esses problemas de ",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "MOBI.E: há novos recordes na rede de carregamentos elétricos! Vamos conhecê-los",
-      "link": "https://pplware.sapo.pt/motores/mobi-e-ha-novos-recordes-na-rede-de-carregamentos-eletricos-vamos-conhece-los/",
-      "pubDate": "Tue, 11 Aug 2026 21:30:21 +0000",
-      "description": "Em julho, mais de 258 mil utilizadores distintos recorreram à infraestrutura ligada à MOBI.E, um aumento de 89% face ao mesmo mês do ano passado. Mas há mais recordes. O mês de julho ficou&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/05/mobi.e_00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: James Vowles faz horas extras para chegar ao sucesso",
+      "link": "https://www.autosport.pt/formula1/f1-james-vowles-faz-horas-extras-para-chegar-ao-sucesso/",
+      "pubDate": "Wed, 12 Aug 2026 08:50:41 +0000",
+      "description": "O diretor de equipa da Williams, James Vowles, revelou o seu intenso horário de trabalho, numa tentativa desesperada de colocar a equipa em dificuldades de volta ao bom caminho em 2026. A estrutura de Grove atravessa uma fase extremamente difícil, com apenas 11 pontos em 11 corridas e o nono lugar n",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Abono de Família Pré-Natal pode ser atribuído automaticamente: saiba como funciona",
-      "link": "https://pplware.sapo.pt/internet/abono-de-familia-pre-natal-pode-ser-atribuido-automaticamente-saiba-como-funciona/",
-      "pubDate": "Tue, 11 Aug 2026 20:30:03 +0000",
-      "description": "Há menos uma burocracia para as futuras mães. O Abono de Família Pré-Natal passa a poder ser atribuído de forma automática, através da partilha de informação entre o SNS 24 e a Segurança Social.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/SNS_x00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "MOBI.E: Mais de 250.000 utilizadores em julho",
+      "link": "https://www.autosport.pt/automais/mobi-e-mais-de-250-000-utilizadores-em-julho/",
+      "pubDate": "Wed, 12 Aug 2026 08:20:00 +0000",
+      "description": "Na Rede Nacional de Carregamento de viaturas elétricos ligada à MOBI.E, registos de recordes após recordes, o que demonstra a adesão cada vez mais expressiva à mobilidade sem gases de escape. Em julho, pela primeira vez na história, fizeram-se mais um milhão de carregamentos, número que representa u",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-fecha-acordo-com-disney/",
       "pubDate": "Tue, 11 Aug 2026 15:24:35 +0000",
       "description": "A Fórmula E concluiu um acordo com a Disney+ que prevê a transmissão das corridas na plataforma digital em 144 territórios a partir da temporada 2026/27, na sequência de um acordo histórico e plurianual anunciado em conjunto pela Fórmula E, pela Disney+ e pela ESPN. O acordo vai também levar a série",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Racing Bulls no mar da tranquilidade na primeira metade da temporada",
-      "link": "https://www.autosport.pt/formula1/f1-racing-bulls-no-mar-da-tranquilidade-na-primeira-metade-da-temporada/",
-      "pubDate": "Tue, 11 Aug 2026 15:05:31 +0000",
-      "description": "Se há equipa que conseguiu manter o nível da época anterior para esta, é a Racing Bulls. É justo dizer que o equilíbrio do pelotão mudou radicalmente, com o horizonte competitivo a alterar-se profundamente. Mas a Racing Bulls manteve as premissas do ano passado: um carro que se adequa às necessidade",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPM: Tomás Pinto lidera batalha pelo título absoluto, perseguido por José Correia e Nuno Caetano",
-      "link": "https://www.autosport.pt/velocidade/cpm-tomas-pinto-lidera-batalha-pelo-titulo-absoluto-perseguido-por-jose-correia-e-nuno-caetano/",
-      "pubDate": "Tue, 11 Aug 2026 14:27:37 +0000",
-      "description": "Tomás Pinto chega ao verão no comando absoluto do Campeonato de Portugal de Montanha JC Group, perseguido por José Correia e Nuno Caetano, numa primeira metade de época marcada por quatro vencedores diferentes e constantes reviravoltas. Murça, Penha, Serra da Estrela-Covilhã, Rampa do CAR e Capital ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "CPR/K: Rafaela Barbosa faz balanço da primeira metade da temporada",
-      "link": "https://www.autosport.pt/maismotores/cpr-k-rafaela-barbosa-faz-balanco-da-primeira-metade-da-temporada/",
-      "pubDate": "Tue, 11 Aug 2026 14:14:56 +0000",
-      "description": "A temporada de 2026 do Campeonato de Portugal de Ralicross/Kartcross chega à pausa de verão um pouco além do seu ponto intermédio, com a piloto de Paços de Ferreira Rafaela Barbosa a fazer um balanço marcado pela transição para uma nova categoria e pela adaptação a um carro mais exigente do que o an",
       "thumbnail": ""
     }
   ]
