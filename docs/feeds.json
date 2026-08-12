@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-12T03:03:29.885626+00:00",
+  "updated": "2026-08-12T05:13:07.181992+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "O que vestiam os nossos antepassados na praia?",
+      "link": "https://observador.pt/programas/do-avesso/o-que-vestiam-os-nossos-antepassados-na-praia/",
+      "pubDate": "Wed, 12 Aug 2026 06:03:25 +0100",
+      "description": "Mergulhamos num arquivo de toucas e chemises, enchemo-nos de calor com lãs e flanelas, suspiramos com um uber sobre rodas para nos levar ao mar e agradecemos à roupa de desporto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/29154007/770-podcast-do-avesso.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1912. O eclipse total que teve mais destaque que o Titanic",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/1912-o-eclipse-total-que-teve-mais-destaque-que-o-titanic/",
+      "pubDate": "Wed, 12 Aug 2026 05:04:20 +0100",
+      "description": "Em 1912, um eclipse solar trouxe centenas de estrangeiros a Portugal. E abafou o naufrágio do Titanic. Uma conversa com o jornalista Martim Andrade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. EUA controlam Estreito de Omuz, garante Trump",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2368/",
+      "pubDate": "Wed, 12 Aug 2026 04:15:02 +0100",
+      "description": "O chefe de estado norte-americano afirma também que não confia em Teerão. Ainda, a AR vai poder consultar todos os documentos relativos ao negócio da compra de 3 fragatas italianas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Volta a Portugal em bicicleta. Começa hoje a 6ª etapa",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2403/",
       "pubDate": "Wed, 12 Aug 2026 03:17:15 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "A classificação geral é liderada pelo francês Alex Guerin. Ainda, Donald Trump volta a reiterar que os EUA controlam o Estreito de Ormuz.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,84 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. É já hoje o eclipse solar",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2350/",
-      "pubDate": "Wed, 12 Aug 2026 01:15:42 +0100",
-      "description": "Portugal vai testemunhar um eclipse total do Sol apenas em Bragança. Ainda, Cristiano Ronaldo e Georgina Rodrigues casaram esta terça-feira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Letónia deteta túnel secreto para entrada de imigrantes",
-      "link": "https://observador.pt/2026/08/12/letonia-deteta-tunel-secreto-para-entrada-de-imigrantes-na-ue-bielorrussia-tera-estado-por-tras/",
-      "pubDate": "Wed, 12 Aug 2026 00:35:54 +0100",
-      "description": "15 pessoas entraram na Letónia através de túnel secreto desde a Bielorrússia. Autoridades letãs reforçam controlos e garantem: \"Fronteira da Letónia não será um elemento de guerra híbrida\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:901:nowe:0:272/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12000211/hpbfjzsxoaam99t.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Além do eclipse, seis planetas alinhados e chuva de estrelas",
-      "link": "https://observador.pt/2026/08/12/antes-do-eclipse-ha-seis-planetas-alinhados-e-depois-do-eclipse-uma-chuva-de-estrelas-uma-quarta-feira-sempre-a-olhar-para-o-ceu/",
-      "pubDate": "Wed, 12 Aug 2026 00:27:38 +0100",
-      "description": "Esta será uma quarta-feira mágica para a astronomia. Além do eclipse total, há seis planetas alinhados antes do nascer do Sol e a melhor madrugada de Perseidas depois de o Sol se pôr.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1308:736:nowe:83:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/11211640/captura-de-ecra-2026-08-11-as-182147.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Presidente dos EUA confirma que trocou de avião na Turquia face a ameaça",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/presidente-dos-eua-confirma-que-trocou-de-aviao-na-turquia-face-a-ameaca_n1758956",
+      "pubDate": "Wed, 12 Aug 2026 07:06:33 +0100",
+      "description": "O Presidente dos Estados Unidos (EUA) confirmou que trocou secretamente de avião em julho, na Turquia, por recomendação dos Serviços Secretos perante uma ameaça de ataque à aeronave, incidente revelado pela imprensa norte-americana.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f17cece982613dc4f529f6e3035022bf?w=350&amp;q=50&amp;rect=0,71,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Embalagens plástico para comida com novas regras na UE",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-embalagens-plastico-para-comida-com-novas-regras-na-ue_a1_1758949",
-      "pubDate": "Wed, 12 Aug 2026 04:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "`Startup` de IA Manus retoma operações autónomas após veto chinês a venda à Meta",
+      "link": "https://www.rtp.pt/noticias/economia/startup-de-ia-manus-retoma-operacoes-autonomas-apos-veto-chines-a-venda-a-meta_n1758954",
+      "pubDate": "Wed, 12 Aug 2026 06:54:19 +0100",
+      "description": "A Manus anunciou que vai retomar as operações como empresa independente, quatro meses depois de a China ter bloqueado a aquisição da `startup` de inteligência artificial (IA) pela tecnológica norte-americana Meta.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/08/081faa6a5efc65c6080e2ab7d3bf29fd?w=350&amp;q=50&amp;rect=0,0,1080,592&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Coreia do Norte lançou míssil em direção ao mar do Japão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-coreia-do-norte-lancou-missil-em-direcao-ao-mar-do-japao_a1_1758947",
-      "pubDate": "Wed, 12 Aug 2026 03:44:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Trump garante que EUA controlam Ormuz apesar de ameaças de Teerão",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-garante-que-eua-controlam-ormuz-apesar-de-ameacas-de-teerao_n1758953",
+      "pubDate": "Wed, 12 Aug 2026 06:49:13 +0100",
+      "description": "O presidente dos Estados Unidos (EUA), Donald Trump, afirmou que as forças militares norte-americanas têm &quot;controlo total&quot; do estreito de Ormuz, uma passagem marítima estratégica, no meio de tensões com o Irão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1ce5eaaae624d74c8e43d552a8967a3b?w=350&amp;q=50&amp;rect=0,18,1280,702&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Portugal vai enviar 100 mil euros para ajudar a Colômbia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-portugal-vai-enviar-100-mil-euros-para-ajudar-a-colombia_a1_1758944",
-      "pubDate": "Wed, 12 Aug 2026 02:35:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "PM da Nova Zelândia sobrevive a segunda votação sobre liderança do partido",
+      "link": "https://www.rtp.pt/noticias/mundo/pm-da-nova-zelandia-sobrevive-a-segunda-votacao-sobre-lideranca-do-partido_n1758951",
+      "pubDate": "Wed, 12 Aug 2026 06:44:27 +0100",
+      "description": "O primeiro-ministro da Nova Zelândia, Christopher Luxon, afirmou hoje que sobreviveu a uma segunda votação sobre a liderança entre os deputados do seu próprio partido, a menos de três meses de eleições nacionais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/50/50b531831aa6d2380c4d46d4422e0eea?w=350&amp;q=50&amp;rect=0,99,960,526&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "ONU denuncia detenção de dois funcionários pelos talibãs no Afeganistão",
-      "link": "https://www.rtp.pt/noticias/mundo/onu-denuncia-detencao-de-dois-funcionarios-pelos-talibas-no-afeganistao_n1758942",
-      "pubDate": "Wed, 12 Aug 2026 01:59:48 +0100",
-      "description": "Dois funcionários afegãos da ONU foram detidos no oeste do Afeganistão pelos serviços de informações talibãs, sem que tenha sido divulgada qualquer acusação, revelou a Missão de Assistência das Nações Unidas no Afeganistão (UNAMA).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "ONU felicita Líbano pela abolição da pena de morte e espera que inspire outros países",
-      "link": "https://www.rtp.pt/noticias/mundo/onu-felicita-libano-pela-abolicao-da-pena-de-morte-e-espera-que-inspire-outros-paises_n1758939",
-      "pubDate": "Wed, 12 Aug 2026 01:59:08 +0100",
-      "description": "O alto-comissário das Nações Unidas para os Direitos Humanos, Volker Turk, felicitou o Líbano pela abolição da pena de morte e manifestou expectativa de que o exemplo seja seguido por outros países da região.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Tempestade tropical deixa milhares de casas sem energia na região de Tóquio",
+      "link": "https://www.rtp.pt/noticias/mundo/tempestade-tropical-deixa-milhares-de-casas-sem-energia-na-regiao-de-toquio_n1758950",
+      "pubDate": "Wed, 12 Aug 2026 06:38:23 +0100",
+      "description": "A tempestade tropical Chan-hom deslocou-se hoje para oeste, depois de ter atingido a área metropolitana de Tóquio durante a noite, derrubando árvores e deixando milhares de casas sem energia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5e7a3f981dab68bf8275752076ebe2df?w=350&amp;q=50&amp;rect=0,14,960,526&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Aviso amarelo devido ao calor alargado a mais 5 distritos: As previsões",
+      "link": "https://www.noticiasaominuto.com/pais/3035308/aviso-amarelo-devido-ao-calor-alargado-a-mais-5-distritos-as-previsoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 06:10:19",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47386681.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Governo da Colômbia anuncia subsídio para famílias afetadas por sismo",
+      "link": "https://www.noticiasaominuto.com/mundo/3035306/governo-da-colombia-anuncia-subsidio-para-familias-afetadas-por-sismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 06:09:44",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47590784.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Nutricionista recomenda erva aromática para se livrar do \"mau colesterol\"",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3035148/nutricionista-recomenda-erva-aromatica-para-se-livrar-do-mau-colesterol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 06:05:35",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69fdb594be8e4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA5LCJjcm9wSGVpZ2h0IjoxMzU1LCJjcm9wWCI6MTQyLCJjcm9wWSI6NDl9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Fatoumata Diallo enfrenta final dos 400 barreiras nos Europeus",
+      "link": "https://www.noticiasaominuto.com/desporto/3035321/fatoumata-diallo-enfrenta-final-dos-400-barreiras-nos-europeus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-12 06:00:48",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47591680.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjExMTYsImNyb3BZIjoxOTV9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
       "link": "https://www.noticiasaominuto.com/desporto/3034882/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-11 23:55:57",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7abc083b0bb.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzMTQsImNyb3BZIjo5OX19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Oficial: Fernando Nava reforça Nacional por quatro temporadas",
-      "link": "https://www.noticiasaominuto.com/desporto/3035286/oficial-fernando-nava-reforca-nacional-por-quatro-temporadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-11 23:55:31",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ba82886afb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUyM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTc4NSwiY3JvcEhlaWdodCI6MzE3NCwiY3JvcFgiOjQxNCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Japão e Coreia do Sul alertam para lançamento de míssil por Pyongyang",
-      "link": "https://www.noticiasaominuto.com/mundo/3035289/japao-e-coreia-do-sul-alertam-para-lancamento-de-missil-por-pyongyang#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-11 23:45:25",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57b86128bb852.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Seydou Doumbia aparece com Kessié e há pormenor que salta à vista",
-      "link": "https://www.noticiasaominuto.com/desporto/3035288/seydou-doumbia-aparece-com-kessie-e-ha-pormenor-que-salta-a-vista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-11 23:31:39",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ba1149f1b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MDAsImNyb3BIZWlnaHQiOjM5NCwiY3JvcFgiOi0xMDQsImNyb3BZIjoxNDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ3MywiY3JvcEhlaWdodCI6ODQxLCJjcm9wWCI6OCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Central nuclear de Kozloduy em risco de paralisação por falta de água",
-      "link": "https://www.noticiasaominuto.com/mundo/3035287/central-nuclear-de-kozloduy-em-risco-de-paralisacao-por-falta-de-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-11 23:29:16",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ba207b6dab.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjUwOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
