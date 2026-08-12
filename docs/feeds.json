@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-12T00:06:26.943713+00:00",
+  "updated": "2026-08-12T03:03:29.885626+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2403/",
+      "pubDate": "Wed, 12 Aug 2026 03:17:15 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Ucrânia apresentou propostas de fim da guerra aos EUA",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2377/",
+      "pubDate": "Wed, 12 Aug 2026 02:18:31 +0100",
+      "description": "O presidente ucraniano afirma também que a Rússia está a preparar uma ofensiva para o outono. Ainda, Cristiano Ronaldo e Georgina Rodrigues casaram esta terça-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. É já hoje o eclipse solar",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2350/",
+      "pubDate": "Wed, 12 Aug 2026 01:15:42 +0100",
+      "description": "Portugal vai testemunhar um eclipse total do Sol apenas em Bragança. Ainda, Cristiano Ronaldo e Georgina Rodrigues casaram esta terça-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1308:736:nowe:83:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/11211640/captura-de-ecra-2026-08-11-as-182147.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Baixa de Lisboa. Suspeito envolvido nos disparos libertado",
-      "link": "https://observador.pt/2026/08/12/suspeito-envolvido-em-disparos-que-ferem-turista-na-baixa-de-lisboa-libertado-em-processo-de-violencia-domestica/",
-      "pubDate": "Wed, 12 Aug 2026 00:25:06 +0100",
-      "description": "Homem fica sujeito a apresentações por ser detido no âmbito de mandado de detenção de violência doméstica. PSP investiga participação em desacato que feriu turista. \"Inaceitável\", diz Moedas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/04154846/45445244.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Embalagens plástico para comida com novas regras na UE",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-embalagens-plastico-para-comida-com-novas-regras-na-ue_a1_1758949",
+      "pubDate": "Wed, 12 Aug 2026 04:13:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Lua eclipsa o Sol, Belém não eclipsa o socialista",
-      "link": "https://observador.pt/opiniao/lua-eclipsa-o-sol-belem-nao-eclipsa-o-socialista/",
-      "pubDate": "Wed, 12 Aug 2026 00:22:18 +0100",
-      "description": "E quando aqueles “não-socialistas” garantiam que Seguro, em Belém, não faria fretes ao PS… Pois é: o PR enviou a Lei do Retorno e Asilo para o Tribunal Constitucional. Aí têm o vosso Tozé, tonhós!",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Coreia do Norte lançou míssil em direção ao mar do Japão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-coreia-do-norte-lancou-missil-em-direcao-ao-mar-do-japao_a1_1758947",
+      "pubDate": "Wed, 12 Aug 2026 03:44:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "É fazer as contas…",
-      "link": "https://observador.pt/opiniao/e-fazer-as-contas/",
-      "pubDate": "Wed, 12 Aug 2026 00:21:34 +0100",
-      "description": "Há uma pergunta que devia estar no centro da discussão sobre a digitalização dos exames nacionais: quanto custa manter simultaneamente o sistema em papel e o sistema digital?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2018%2F01%2F11233153%2Fobs_37_-joao-maroco-ispa_467x467_acf_cropped.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Portugal vai enviar 100 mil euros para ajudar a Colômbia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-portugal-vai-enviar-100-mil-euros-para-ajudar-a-colombia_a1_1758944",
+      "pubDate": "Wed, 12 Aug 2026 02:35:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal saúda \"decisão corajosa\" do Líbano de abolir pena de morte",
-      "link": "https://www.rtp.pt/noticias/mundo/portugal-sauda-decisao-corajosa-do-libano-de-abolir-pena-de-morte_n1758935",
-      "pubDate": "Wed, 12 Aug 2026 01:58:17 +0100",
-      "description": "O Governo português saudou na terça-feira o Líbano pela abolição da pena de morte, enaltecendo uma &quot;decisão corajosa&quot; que &quot;reforça o respeito pela dignidade humana e pelos direitos humanos&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Wed, 12 Aug 2026 01:17:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Suspeito de desacato que feriu turista em Lisboa libertado em processo de violência doméstica",
-      "link": "https://www.rtp.pt/noticias/pais/suspeito-de-desacato-que-feriu-turista-em-lisboa-libertado-em-processo-de-violencia-domestica_n1758934",
-      "pubDate": "Wed, 12 Aug 2026 01:57:51 +0100",
-      "description": "Um indivíduo suspeito de envolvimento no desacato ocorrido na segunda-feira na Baixa de Lisboa, onde uma mulher foi baleada, e que foi detido num processo de violência doméstica, ficou sujeito a apresentações bissemanais, adiantou fonte policial.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Eclipse solar. Ordem dos Médicos alerta para a necessidade de usar óculos certificados",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-eclipse-solar-ordem-dos-medicos-alerta-para-a-necessidade-de-usar-oculos-certificados_a1_1758941",
-      "pubDate": "Wed, 12 Aug 2026 01:55:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Wed, 12 Aug 2026 01:16:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Tue, 11 Aug 2026 23:35:00 +0100",
       "description": "Especialista considera, em tribunal, que os sintomas deviam ter sido monitorizados de forma mais eficiente",
       "thumbnail": "https://img.iol.pt/image/id/5fc3f3380cf28e704d99b07e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Irankunda em Portugal para concretizar transferência para o Sporting",
-      "link": "https://maisfutebol.iol.pt/sporting/irankunda/irankunda-em-portugal-para-concretizar-transferencia-para-o-sporting",
-      "pubDate": "Tue, 11 Aug 2026 23:04:00 +0100",
-      "description": "Extremo australiano chega aos leões proveniente do Watford",
-      "thumbnail": "https://img.iol.pt/image/id/6a7b9be3d34e511da0b32d22/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Champions: Olympiakos perde, duelo entre técnicos lusos cai para Campelos",
-      "link": "https://maisfutebol.iol.pt/liga-dos-campeoes/olympiakos/champions-olympiakos-perde-duelo-entre-tecnicos-lusos-cai-para-campelos",
-      "pubDate": "Tue, 11 Aug 2026 23:03:00 +0100",
-      "description": "Gustavo Sá, Jota Silva, Gelson Martins e Chiquinho caíram para a Liga Europa pelas mãos do NEC",
-      "thumbnail": "https://img.iol.pt/image/id/6a7b9410d34e511da0b32d19/250"
     },
     {
       "sourceId": "sapo",
