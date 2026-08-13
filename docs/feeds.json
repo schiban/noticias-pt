@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-13T18:57:34.890654+00:00",
+  "updated": "2026-08-13T19:55:39.685328+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1727/",
+      "pubDate": "Thu, 13 Aug 2026 20:48:32 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A Iniciativa Liberal perdeu o seu \"je ne sais quoi\"?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/a-iniciativa-liberal-perdeu-o-seu-je-ne-sais-quoi/",
+      "pubDate": "Thu, 13 Aug 2026 20:22:29 +0100",
+      "description": "Os novos cartazes da IL são banais e sem a criatividade e irreverência que marcaram o partido no passado. O jogo de futebol do PSD é uma estratégia de comunicação para evitar polémicas por resolver?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Skater olímpico faz \"manobra da sua vida\" durante eclipse",
+      "link": "https://observador.pt/2026/08/13/a-manobra-da-minha-vida-skater-olimpico-espanhol-protagoniza-truque-no-momento-em-que-ocorria-o-eclipse-solar/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:29 +0100",
+      "description": "Danny León participou nos Jogos Olímpicos de Paris 2024 e Tóquio 2020. Manobra foi captada por equipa de filmagens à distância. Vídeo conta com cerca de 86 milhões de visualizações nas redes sociais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:225/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13130435/captura-de-ecra-2026-08-13-as-130321.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2148/",
+      "pubDate": "Thu, 13 Aug 2026 20:08:51 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1466:821:nowe:8:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/25174037/30895648.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sobe para 273 número de mortos em sismo na Colômbia",
-      "link": "https://observador.pt/2026/08/13/sobe-para-273-numero-de-mortos-em-sismo-na-colombia/",
-      "pubDate": "Thu, 13 Aug 2026 19:50:50 +0100",
-      "description": "O anterior balanço oficial dava conta de 265 mortos e 3.494 feridos, menos oito mortos e 330 feridos que o anunciado esta quinta-feira. No total, 403 municípios sofreram os efeitos do sismo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1127:nowe:0:218/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13184652/47602246.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Acidente na Croácia. Um dos portugueses desaparecidos foi encontrado morto",
+      "link": "https://www.rtp.pt/noticias/mundo/acidente-na-croacia-um-dos-portugueses-desaparecidos-foi-encontrado-morto_v1759326",
+      "pubDate": "Thu, 13 Aug 2026 21:38:47 +0100",
+      "description": "Um dos portugueses que estavam desaparecidos na Croácia foi encontrado esta quinta-feira sem vida. As buscas prosseguem para tentar encontrar o último dos quatro amigos. Dois foram resgatados com vida &lt;br /&gt;",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/db/dbe3bf5e267b4d27fd1eb65eeed1672c_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Universidade de Castelo Branco em missão à China em outubro",
-      "link": "https://observador.pt/2026/08/13/municipio-e-universidade-politecnica-de-castelo-branco-em-missao-a-china-em-outubro/",
-      "pubDate": "Thu, 13 Aug 2026 19:49:34 +0100",
-      "description": "Com geminação de 30 anos com Zhuhai, Castelo Branco reforça laços com a China. Município leva empresas e Politécnico a Chongqing e Chengdu em outubro após acordo com Câmara de Comércio Luso-Chinesa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/05/21065713/25210099_770x433_acf_cropped.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Homicídio em Algés. Adolescente que admitiu matar a mãe tem 15 anos",
+      "link": "https://www.rtp.pt/noticias/pais/homicidio-em-alges-adolescente-que-admitiu-matar-a-mae-tem-15-anos_v1759325",
+      "pubDate": "Thu, 13 Aug 2026 21:35:48 +0100",
+      "description": "Um jovem de 15 anos é suspeito de matar a própria mãe, em Algés. O rapaz confessou o crime às autoridades, admitindo ter estrangulado a mãe depois de uma discussão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e0309ac675b73d6de17a9dcb266ff002?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Francisca Martins em 9.º na final de 200 metros livres",
-      "link": "https://observador.pt/2026/08/13/tres-finais-em-quatro-dias-francisca-martins-termina-em-nono-lugar-na-final-de-200-metros-livres-nos-europeus-de-natacao/",
-      "pubDate": "Thu, 13 Aug 2026 19:40:32 +0100",
-      "description": "A checa Seemanova venceu com 1:54,38 minutos, com Steenbergen e Colbert a completarem o pódio. A portuguesa chegou à final depois de empatar com outra nadadora na luta pela última vaga da corrida.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13192229/gettyimages-2189014419-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vereador de Matosinhos quer fiscalização da água das praias",
-      "link": "https://observador.pt/2026/08/13/vereador-do-psd-de-matosinhos-quer-maior-fiscalizacao-da-qualidade-da-agua-das-praias/",
-      "pubDate": "Thu, 13 Aug 2026 19:40:24 +0100",
-      "description": "Bruno Pereira, vereador do PSD na Câmara de Matosinhos, diz ser necessário eliminar fontes de contaminação e controlar e tratar as águas. Defendeu ainda a recuperação das ribeiras com um plano.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/27182501/46437224.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sporting de Braga empata mas apura-se para play-off da Liga Conferência Europa",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-empata-mas-apura-se-para-play-off-da-liga-conferencia-europa_d1759320",
+      "pubDate": "Thu, 13 Aug 2026 21:06:44 +0100",
+      "description": "O Sporting de Braga assegurou hoje a passagem ao play-off da Liga Conferência de futebol, ao empatar fora com o Dínamo Minsk (0-0), em jogo da segunda mão da terceira pré-eliminatória.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/31574b32eee625de88fff2ec733debab?w=350&amp;q=50&amp;rect=0,40,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Liga Europa. Heart - Benfica",
-      "link": "https://www.rtp.pt/noticias/desporto/liga-europa-heart-benfica_e1759294",
-      "pubDate": "Thu, 13 Aug 2026 20:04:16 +0100",
-      "description": "O Benfica joga esta quinta-feira em Edimburgo com a qualificação praticamente assegurada para o play-off da Liga Europa, depois da goleada por 6-1 aplicada ao Hearts na primeira mão da terceira pré-eliminatória, disputada na Luz.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/58c4666b7783c12da65ee0ae43a8ecac?w=350&amp;q=50&amp;rect=0,14,950,521&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga Europa: Sá Pinto cai para a Liga Conferência, Filipe Coelho no play-off",
+      "link": "https://maisfutebol.iol.pt/liga-europa/sa-pinto/liga-europa-sa-pinto-cai-para-a-liga-conferencia-filipe-coelho-no-play-off",
+      "pubDate": "Thu, 13 Aug 2026 20:37:00 +0100",
+      "description": "Depois da derrota por 1-0 na Áustria, o Pafos empatou por 3-3 na receção ao Salzburgo, enquanto o Universitatea Craiova bateu o KuPS, da Finlândia, por 2-1",
+      "thumbnail": "https://img.iol.pt/image/id/6a7e1a20d34ed0733ba7fc31/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Euro sobe face ao dólar após três sessões em queda",
-      "link": "https://www.rtp.pt/noticias/economia/euro-sobe-face-ao-dolar-apos-tres-sessoes-em-queda_n1759306",
-      "pubDate": "Thu, 13 Aug 2026 19:46:01 +0100",
-      "description": "O euro subiu hoje face ao dólar, após três sessões em queda, no mesmo dia em que o Irão garantiu manter a gestão do estreito de Ormuz, que tinha sido reivindicada por Washington.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7fea84b0ac0a52edc11982852a4693c7?w=350&amp;q=50&amp;rect=0,62,1000,548&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Contenção de javalis na Arrábida vai incidir nos canais de entrada na zona urbana e praias",
-      "link": "https://www.rtp.pt/noticias/pais/contencao-de-javalis-na-arrabida-vai-incidir-nos-canais-de-entrada-na-zona-urbana-e-praias_n1759304",
-      "pubDate": "Thu, 13 Aug 2026 19:43:35 +0100",
-      "description": "O Instituto da Conservação da Natureza e das Florestas (ICNF) vai reforçar o plano de contenção da população de javalis na Arrábida, em Setúbal, incidindo nos canais de entrada no espaço urbano e praias.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa7ef517d9ba70fee898b98668e2eccf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga Conferência: Dinamo Minsk-Sp. Braga, 0-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga-conferencia/sp-braga/liga-conferencia-dinamo-minsk-sp-braga-0-0-cronica",
+      "pubDate": "Thu, 13 Aug 2026 20:05:00 +0100",
+      "description": "Missão cumprida, mesmo sem convencer",
+      "thumbnail": "https://img.iol.pt/image/id/6a7e0bbdd34e511da0b3338e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -117,7 +137,7 @@
       "color": "#4fc48a",
       "title": "Rui Vitória arranca época no sábado: «Estamos entusiasmados»",
       "link": "https://maisfutebol.iol.pt/made-in/rui-vitoria/rui-vitoria-arranca-epoca-no-sabado-estamos-entusiasmados",
-      "pubDate": "Thu, 13 Aug 2026 19:18:13 +0100",
+      "pubDate": "Thu, 13 Aug 2026 19:18:00 +0100",
       "description": "Treinador português vai reencontrar Haris Seferovic, avançado suíço que orientou no Benfica",
       "thumbnail": "https://img.iol.pt/image/id/6a4f77b4d34e511da0b2c1fb/250"
     },
@@ -130,26 +150,6 @@
       "pubDate": "Thu, 13 Aug 2026 18:46:00 +0100",
       "description": "Capitão da Seleção chegou esta quinta-feira ao estágio do Al Nassr e chamou às atenções pelo novo visual",
       "thumbnail": "https://img.iol.pt/image/id/6a7dffb2d34ed0733ba7fbeb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hearts-Benfica: Marco Silva faz sete alterações, mantém Samu e aposta em miúdo da formação",
-      "link": "https://maisfutebol.iol.pt/benfica/liga-europa/hearts-benfica-marco-silva-faz-sete-alteracoes-mantem-samu-e-aposta-em-miudo-da-formacao",
-      "pubDate": "Thu, 13 Aug 2026 18:39:46 +0100",
-      "description": "Treinador das águias revoluciona onze na Escócia",
-      "thumbnail": "https://img.iol.pt/image/id/6a63bd57d34ef04b4f3f8cea/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Basquetebol: José Silva troca o Benfica pelo Atlético de Queluz",
-      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-jose-silva-troca-o-benfica-pelo-atletico-de-queluz",
-      "pubDate": "Thu, 13 Aug 2026 18:27:00 +0100",
-      "description": "CAQ recebe reforço de peso. José Silva reencontra Arnette Hallman, dupla outrora no Benfica e no FC Porto",
-      "thumbnail": "https://img.iol.pt/image/id/6a2c5c80d34e28842c85194c/250"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Cabines chegam aos 40 graus: motoristas dos famosos autocarros vermelhos de Londres entram em greve",
-      "link": "https://executivedigest.sapo.pt/cabines-chegam-aos-40-graus-motoristas-dos-famosos-autocarros-vermelhos-de-londres-entram-em-greve/",
-      "pubDate": "Thu, 13 Aug 2026 17:24:05 +0000",
-      "description": "Com verões cada vez mais quentes e temperaturas que podem atingir os 40 ºC dentro das cabines, 1.500 motoristas decidiram avançar para uma série de greves",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2FNDBKoEdxofZLeMMfQtT9V0qicQV45%2F5wfHBFTcja5pHwiDQDaQn6yxuCo0rnD%2BKSsuxL0Zhk%2BGYHlG37USKn%2Fb95zECeifxn4mLAmcRMrHfb%2BzJo7cJejEQokRcLqnQ"
+      "title": "Fatoumata Diallo. A atleta sem infância, que ultrapassou as barreiras da vida com ajuda do atletismo",
+      "link": "https://sapo.pt/artigo/fatoumata-diallo-a-atleta-sem-infancia-que-ultrapassou-as-barreiras-da-vida-com-ajuda-do-atletismo-6a7e1ae87d7c399efe0bc49a",
+      "pubDate": "Thu, 13 Aug 2026 19:34:14 +0000",
+      "description": "Começou no corta-mato no Desporto Escolar e tornou-se barreirista com ajuda de Paulo Murta, tendo agora conquistado bronze nos 400 metros barreiras e com recorde nacional (53,55s).",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A0PCNkeAfWTw9TvQWNwupTINUi5rNozVl%2BytF7QLhFoN1vvWOqZU0MrLGeQVXx793CiE7loj1GgYUNTbInOnwbLFuTBtGFtj7qH1XkR0gXrNNcQ9Sw4vqXfIrFiSqrcxU"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Autarca de importante cidade afegã morto em atentado à bomba",
-      "link": "https://www.noticiasaominuto.com/mundo/3036258/autarca-de-importante-cidade-afega-morto-em-atentado-a-bomba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 19:43:26",
+      "title": "Buscas por português desaparecido na Croácia prosseguem sexta-feira",
+      "link": "https://www.noticiasaominuto.com/mundo/3036272/buscas-por-portugues-desaparecido-na-croacia-prosseguem-sexta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 20:54:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_612b4ebba2f29.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0OTIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e2105a30be.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "DGAV pede vacinação de galináceos e perus após agravamento de doença",
-      "link": "https://www.noticiasaominuto.com/pais/3036256/dgav-pede-vacinacao-de-galinaceos-e-perus-apos-agravamento-de-doenca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 19:35:58",
+      "title": "Lion's Corner inaugurado pelo Sporting e há pormenor que salta à vista",
+      "link": "https://www.noticiasaominuto.com/desporto/3036278/lions-corner-inaugurado-pelo-sporting-e-ha-pormenor-que-salta-a-vista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 20:42:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6916423742a89.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e1a0671252.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjAwLCJjcm9wSGVpZ2h0Ijo5MDAsImNyb3BYIjowLCJjcm9wWSI6NTQyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMTEzLCJjcm9wSGVpZ2h0IjoxOTc4LCJjcm9wWCI6NzYsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Associação alerta para constrangimentos nos Sapadores de Lisboa",
-      "link": "https://www.noticiasaominuto.com/pais/3036255/associacao-alerta-para-constrangimentos-nos-sapadores-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 19:32:37",
+      "title": "Filipe Coelho segue com Craiova para o playoff, Sá Pinto cai à Conference",
+      "link": "https://www.noticiasaominuto.com/desporto/3036273/filipe-coelho-segue-com-craiova-para-o-playoff-sa-pinto-cai-a-conference#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 20:37:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66ebb276ecca2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e1c8a8d9a3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE5N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk1LCJjcm9wWCI6MTAyMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Évora acolhe cerimónias de trasladação dos restos mortais de bispos",
-      "link": "https://www.noticiasaominuto.com/pais/3036252/evora-acolhe-cerimonias-de-trasladacao-dos-restos-mortais-de-bispos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 19:30:48",
+      "title": "Linha SNS 24 não registou impacto associado à observação do eclipse solar",
+      "link": "https://www.noticiasaominuto.com/pais/3036277/linha-sns-24-nao-registou-impacto-associado-a-observacao-do-eclipse-solar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 20:32:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64960018de074.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/30261518.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjk1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Manifestações anti-Israel? Juiz rejeita queixa de Trump contra Harvard",
-      "link": "https://www.noticiasaominuto.com/mundo/3036249/manifestacoes-anti-israel-juiz-rejeita-queixa-de-trump-contra-harvard#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 19:20:06",
+      "title": "Crans-Montana. Francesca teve alta após 50 cirurgias e 224 dias internada",
+      "link": "https://www.noticiasaominuto.com/mundo/3036264/crans-montana-francesca-teve-alta-apos-50-cirurgias-e-224-dias-internada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 20:26:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e0ab056596.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExMjgsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e14f7998f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjQ5M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "A Placa de Nazca: o motor sísmico escondido sob o Pacífico",
+      "link": "https://pplware.sapo.pt/ciencia/a-placa-de-nazca-o-motor-sismico-escondido-sob-o-pacifico/",
+      "pubDate": "Thu, 13 Aug 2026 19:30:53 +0000",
+      "description": "Sempre que a América do Sul treme com força, como aconteceu esta segunda-feira, 10 de agosto de 2026, na Colômbia, o nome que volta a surgir nos boletins geológicos é sempre o mesmo: placa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/placa_nazca00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Thu, 13 Aug 2026 17:00:41 +0000",
       "description": "Transformar uma casa numa casa inteligente pode tornar o dia a dia mais simples, confortável e eficiente. Com descontos em cada gadget, o processo de automatizar diferentes espaços pode ser começado sem fazer um&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/smart-home-gadget-dispositivo.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Carros elétricos: a regra que pode tornar as viagens de verão mais rápidas",
-      "link": "https://pplware.sapo.pt/motores/carros-eletricos-a-regra-que-pode-tornar-as-viagens-de-verao-mais-rapidas/",
-      "pubDate": "Thu, 13 Aug 2026 16:00:51 +0000",
-      "description": "As viagens de verão podem trazer mais trânsito, temperaturas elevadas e maior procura pelos carregadores rápidos. Para quem conduz um carro elétrico, há uma estratégia simples que pode ajudar a reduzir o tempo perdido&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/carregar-eletrico-carregamento-ponto-de-carga01.jpg"
     },
     {
       "sourceId": "autosport",
