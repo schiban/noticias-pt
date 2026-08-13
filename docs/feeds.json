@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-13T08:49:45.581865+00:00",
+  "updated": "2026-08-13T10:00:02.767671+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"É um mecanismo que está a ser banalizado e abandalhado\"",
+      "link": "https://observador.pt/programas/comissao-de-inquerito/cpi-a-luis-neves-paulo-muacho-e-um-mecanismo-que-esta-a-ser-banalizado-e-abandalhado/",
+      "pubDate": "Thu, 13 Aug 2026 10:32:18 +0100",
+      "description": "O deputado do Livre considera que Luís Neves é \"um bom ministro\" e prefere esperar pelos resultados da auditoria à PJ. Paulo Muacho faz balanço do mandato de Seguro e aborda (in)segurança em Lisboa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Insegurança em Lisboa resolve-se com mais videovigilância?",
+      "link": "https://observador.pt/programas/explicador/inseguranca-em-lisboa-resolve-se-com-mais-videovigilancia/",
+      "pubDate": "Thu, 13 Aug 2026 10:25:16 +0100",
+      "description": "Mulher baleada na Baixa relança tema da segurança. Manuel Lopes, da ADBP, fala em \"caso isolado\", mas pede videovigilância. Advogado Saragoça da Matta diz que, bem utilizada, \"não viola a privacidade\"",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "10h. Comerciantes da Baixa defendem mais videovigilância",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2436/",
+      "pubDate": "Thu, 13 Aug 2026 10:16:44 +0100",
+      "description": "Em causa, a turista baleada num \"desacato\" na Baixa de Lisboa. Ainda nesta edição, a situação das urgências do SNS e ainda o eclipse: autarca de Bragança faz balanço positivo do impacto económico.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,82 +52,52 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 9h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2439/",
-      "pubDate": "Thu, 13 Aug 2026 09:17:58 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Croácia. Um dos portugueses encontrado sem vida",
-      "link": "https://observador.pt/2026/08/13/encontrado-sem-vida-um-dos-portugueses-desaparecido-em-naufragio-na-croacia/",
-      "pubDate": "Thu, 13 Aug 2026 09:12:14 +0100",
-      "description": "Foram retomadas às seis da manhã locais as operações de busca para encontrar dois portugueses após um naufrágio na Croácia. Autoridades encontraram um corpo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1100:618:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12121146/hpgxjbqwwaalrbj.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Consultas atrasadas e o rescaldo do eclipse",
-      "link": "https://observador.pt/newsletters/360/consultas-atrasadas-marcelo-a-recuperar-e-o-rescaldo-do-eclipse/",
-      "pubDate": "Thu, 13 Aug 2026 08:59:24 +0100",
-      "description": "Metade do total de primeiras consultas de especialidade do SNS não cumpriram tempos máximos. Marcelo Rebelo de Sousa já teve alta. E ainda as imagens do eclipse de ontem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Cinco detidas. Funcionária da banca suspeita de aceder a dados de clientes e transferir dinheiro a \"mulas\"",
+      "link": "https://www.rtp.pt/noticias/pais/cinco-detidas-funcionaria-da-banca-suspeita-de-aceder-a-dados-de-clientes-e-transferir-dinheiro-a-mulas_n1759210",
+      "pubDate": "Thu, 13 Aug 2026 11:57:14 +0100",
+      "description": "No âmbito da Operação &quot;Login&quot;, os agentes da PJ realizaram oito buscas domiciliárias em Almada, Seixal, Pombal e Elvas com o apoio de equipas da Polícia de Segurança Pública.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/db/dbb725dfd89176964c822be964ae615d?w=350&amp;q=50&amp;rect=0,165,1632,895&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sp. Braga tenta playoff da Liga Conferência",
-      "link": "https://www.rtp.pt/noticias/liga-europa-conferencia/sp-braga-tenta-playoff-da-liga-conferencia_d1759198",
-      "pubDate": "Thu, 13 Aug 2026 10:47:02 +0100",
-      "description": "O Sporting de Braga defende a vantagem de 1-0 conquistada na receção Dínamo Minsk e procura qualificar-se para o play-off da Liga Conferência, em jogo da segunda mão da terceira pré-eliminatória.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4160c057d0942bc8aaea706896c3bef?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Internato médico terá 2.400 vagas em 2027",
+      "link": "https://www.rtp.pt/noticias/pais/internato-medico-tera-2400-vagas-em-2027_n1759208",
+      "pubDate": "Thu, 13 Aug 2026 11:51:07 +0100",
+      "description": "O Ministério da Saúde fixou em 2.400 as vagas para entrada no internato médico, a formação pós-graduada que habilita o médico para o exercício autónomo da medicina, segundo o diploma hoje publicado em Diário da República.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Benfica cumpre calendário em Edimburgo",
-      "link": "https://www.rtp.pt/noticias/benfica/benfica-cumpre-calendario-em-edimburgo_d1759196",
-      "pubDate": "Thu, 13 Aug 2026 10:40:20 +0100",
-      "description": "O Benfica visita o Hearts com ‘caminho aberto’ para o play-off de acesso à Liga Europa, após a goleada imposta aos escoceses na primeira mão disputada no Estádio da Luz (6-1).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/44/4477fc651064a315eef8cac107ca4e27?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Eurovisão. Próximo festival na cidade búlgara de Burgas de 11 a 15 de maio de 2027",
+      "link": "https://www.rtp.pt/noticias/lusa/eurovisao-proximo-festival-na-cidade-bulgara-de-burgas-de-11-a-15-de-maio-de-2027_n1759202",
+      "pubDate": "Thu, 13 Aug 2026 11:28:16 +0100",
+      "description": "A cidade búlgara de Burgas, junto ao Mar Negro, foi a escolhida para receber a 71.ª edição do Festival Eurovisão da Canção, nos dias 11, 13 e 15 de maio de 2027, anunciaram hoje a União Europeia de Radiodifusão e a Televisão Nacional Búlgara.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2bf81ba671a22c8df6fea10bd880f8a4?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Terá sido encontrado corpo de turista português após naufrágio na Croácia",
-      "link": "https://www.rtp.pt/noticias/mundo/tera-sido-encontrado-corpo-de-turista-portugues-apos-naufragio-na-croacia_n1759194",
-      "pubDate": "Thu, 13 Aug 2026 10:34:45 +0100",
-      "description": "Do grupo de quatro amigos que estavam no barco que naufragou, um terá sido encontrado sem vida, dois foram resgatados na quarta-feira e outro continua desaparecido.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/14f84fe37994639b62b97ed3818fe73c?w=350&amp;q=50&amp;rect=1,0,3998,2192&amp;auto=format"
+      "title": "Roménia desliga central nuclear devido a baixo caudal do Danúbio",
+      "link": "https://www.rtp.pt/noticias/mundo/romenia-desliga-central-nuclear-devido-a-baixo-caudal-do-danubio_n1759201",
+      "pubDate": "Thu, 13 Aug 2026 11:25:12 +0100",
+      "description": "A central nuclear de Cernavoda, na Roménia, iniciou os procedimentos para ser desligada totalmente, devido à descida do nível de água no rio Danúbio, informou hoje em comunicado a companhia nacional Nuclearelectrica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9a8e66c71b982accd6e045ee14114f99?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Volta atravessa Gerês",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/volta-atravessa-geres_d1759195",
-      "pubDate": "Thu, 13 Aug 2026 10:32:42 +0100",
-      "description": "Os 108 corredores da 87.ª Volta a Portugal em bicicleta atravessam hoje o Parque Nacional da Peneda-Gerês, com restrições na subida da Mata da Albergaria, numa etapa que promete colocar à prova o camisola amarela, Alexis Guérin (Anicolor-Campicarn).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ea39ef3d3bbaaf155bee13d6c484792?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h PJ desmantela rede que abastecia cadeias",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-pj-desmantela-rede-que-abastecia-cadeias_a1_1759192",
-      "pubDate": "Thu, 13 Aug 2026 10:20:04 +0100",
+      "title": "10h Encontrado corpo de português desaparecido na Croácia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-encontrado-corpo-de-portugues-desaparecido-na-croacia_a1_1759205",
+      "pubDate": "Thu, 13 Aug 2026 11:14:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -105,151 +105,171 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Unai Emery: «A equipa sentiu que era capaz de competir frente ao PSG»",
-      "link": "https://maisfutebol.iol.pt/internacional/supertaca-europeia/unai-emery-a-equipa-sentiu-que-era-capaz-de-competir-frente-ao-psg",
-      "pubDate": "Thu, 13 Aug 2026 09:33:00 +0100",
-      "description": "Treinador do Aston Villa «orgulhoso» do que a equipa fez diante dos parisienses",
-      "thumbnail": "https://img.iol.pt/image/id/6a7ccbb5d34e511da0b3307f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Luis Enrique: «O pensamento é tentar conquistar a terceira Champions seguida»",
-      "link": "https://maisfutebol.iol.pt/supertaca-europeia/psg/luis-enrique-o-pensamento-e-tentar-conquistar-a-terceira-champions-seguida",
-      "pubDate": "Thu, 13 Aug 2026 09:25:00 +0100",
-      "description": "PSG conquista Supertaça Europeia e treinador traça objetivos ambiciosos para a temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a7cce46d34e511da0b3308c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Libertadores: Palmeiras concede empate em casa frente ao Cerro Porteño",
-      "link": "https://maisfutebol.iol.pt/internacional/made-in/libertadores-palmeiras-concede-empate-em-casa-frente-ao-cerro-porteno",
-      "pubDate": "Thu, 13 Aug 2026 09:05:00 +0100",
-      "description": "Equipa de Abel Ferreira ficou reduzida a dez elementos na segunda parte",
+      "title": "Abel: «Um treinador que ganha tudo? Têm de ir buscar o do PSG»",
+      "link": "https://maisfutebol.iol.pt/internacional/brasil/abel-um-treinador-que-ganha-tudo-tem-de-ir-buscar-o-do-psg",
+      "pubDate": "Thu, 13 Aug 2026 10:55:00 +0100",
+      "description": "Treinador português responde às contestações dos adeptos do Palmeiras, depois de três jogos sem vencer",
       "thumbnail": "https://img.iol.pt/image/id/6a78fd25d34ed0733ba7f01f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Mercenário»: Leonardo Jardim recebido com insultos no Cruzeiro-Flamengo",
-      "link": "https://maisfutebol.iol.pt/libertadores/taca-libertadores/mercenario-leonardo-jardim-recebido-com-insultos-no-cruzeiro-flamengo",
-      "pubDate": "Thu, 13 Aug 2026 08:34:00 +0100",
-      "description": "Do outro lado estava o também treinador português Artur Jorge",
-      "thumbnail": "https://img.iol.pt/image/id/6a7d72d2d34ed0733ba7f96d/250"
+      "title": "VÍDEO: Messi ovacionado no regresso ao relvado após morte do pai",
+      "link": "https://maisfutebol.iol.pt/internacional/lionel-messi/video-messi-ovacionado-no-regresso-ao-relvado-apos-morte-do-pai",
+      "pubDate": "Thu, 13 Aug 2026 10:38:00 +0100",
+      "description": "Astro argentino entrou no decorrer do Inter Miami-Club León",
+      "thumbnail": "https://img.iol.pt/image/id/6a7d8f7ad34e511da0b331cb/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/benfica/sp-braga/hoje-vai-ser-noticia",
-      "pubDate": "Thu, 13 Aug 2026 08:00:00 +0100",
-      "description": "Benfica e Sp. Braga jogam pela continuidade na Europa",
-      "thumbnail": "https://img.iol.pt/image/id/6a78f217d34ed0733ba7f001/250"
+      "title": "Guarda-redes do Benfica em destaque na passagem dos Camarões à final da CAN",
+      "link": "https://maisfutebol.iol.pt/can/camaraoes/guarda-redes-do-benfica-em-destaque-na-passagem-dos-camaroes-a-final-da-can",
+      "pubDate": "Thu, 13 Aug 2026 10:30:00 +0100",
+      "description": "Michaely Bihina defendeu quatro penáltis e ditou eliminação da Nigéria nas meias-finais da competição",
+      "thumbnail": "https://img.iol.pt/image/id/6a7d8a61d34ed0733ba7fa2f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Filipe Gouveia sucede a Ricardo Chéu na Arábia Saudita",
+      "link": "https://maisfutebol.iol.pt/made-in/arabia-saudita/oficial-filipe-gouveia-sucede-a-ricardo-cheu-na-arabia-saudita",
+      "pubDate": "Thu, 13 Aug 2026 10:09:29 +0100",
+      "description": "Treinador português anunciado no Al Jabalain",
+      "thumbnail": "https://img.iol.pt/image/id/6a7d8905d34e511da0b331b4/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga Europa: Schjelderup aponta ao onze do Benfica na deslocação à Escócia",
+      "link": "https://maisfutebol.iol.pt/galeria/liga-europa/liga-europa-schjelderup-aponta-ao-onze-do-benfica-na-deslocacao-a-escocia",
+      "pubDate": "Thu, 13 Aug 2026 10:04:00 +0100",
+      "description": "Marco Silva não quererá dar azo a complacência na equipa. Deverá mexer pouco no onze inicial",
+      "thumbnail": "https://img.iol.pt/image/id/6a7c54c7d34ed0733ba7f783/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "As melhores fotografias do eclipse solar",
-      "link": "https://sapo.pt/artigo/as-melhores-fotografias-do-eclipse-solar-sao-de-deixar-o-queixo-caido-6a7cc437efb1520808908f26",
-      "pubDate": "Wed, 12 Aug 2026 19:08:03 +0000",
-      "description": "Conforme estava previsto, o eclipse solar foi observado em vários países durante esta quarta-feira. Em Portugal, só uma pequena parte do país tenha conseguido assistir ao fenómeno na sua totalidade.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AQqtmctfZaAXkyMjqJMJ%2FGfY0OC%2FUm3wgJnmbMDzZEG5E7AtcFImoCjIh7xGo4bdp%2FoBc%2BB8anEa7TsKf%2FQWJW%2Fw5Pvs6DueH1sWIQWG3L9EL0SyXfLpsPNhTenPDn%2B8k"
+      "title": "Operação “Tranca Segura” detém 20 pessoas por tráfico de droga em estabelecimentos prisionais",
+      "link": "https://sapo.pt/artigo/operacao-tranca-segura-detem-20-pessoas-por-trafico-de-droga-em-estabelecimentos-prisionais-6a7d7fa6e252287f8a7e90d0",
+      "pubDate": "Thu, 13 Aug 2026 09:15:50 +0000",
+      "description": "A Polícia Judiciária deteve 20 pessoas numa operação que desmantelou um grupo organizado suspeito de fornecer estupefacientes aos estabelecimentos prisionais da Guarda, Viseu, Coimbra e Lamego. Foram apreendidos cerca de 81 mil euros em dinheiro,...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A98d4NASuan88eN37mDn59WuAjkXU%2BD%2FVkz7G6uTRSlroLH7hbKMUpY5kq4%2FQAUYjPfrY9xDtrm4aBs8s57DE2XQ1ekWzTcVPLzmvj4vuRpCm3f0NJd7vZ7Q0UQjiALca"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Polícias à paisana e operações surpresa: Governo reforça fiscalização nas estradas",
-      "link": "https://sapo.pt/artigo/policias-a-paisana-e-operacoes-surpresa-governo-reforca-fiscalizacao-nas-estradas-6a7cfcca8273c4b5ede891e4",
-      "pubDate": "Thu, 13 Aug 2026 06:33:05 +0000",
-      "description": "A fiscalização nas estradas será reforçada no próximo fim-de-semana, numa operação que pretende aumentar a segurança rodoviária através de ações de controlo imprivisíveis e sem a presença de polícias sinalizados, anunciou esta quarta-feira o...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A2v6Ya5%2FUVEO2jc7MbkgIlXzkY5S3VgoQRg2iIoye5%2B4QNHxay%2FwI2oOC8r5e0xvhEUjoHI8YKXy8Dpy5JVaEp4qeBooyWuBRUGx8kg1ip2G5S95xdr4UgU7taQ4yxkSu"
+      "title": "Secretária de Estado tem casa de 1,1 milhões em Paris e recebe apoio à renda em Lisboa",
+      "link": "https://executivedigest.sapo.pt/secretaria-de-estado-tem-casa-de-11-milhoes-em-paris-e-recebe-apoio-a-renda-em-lisboa/",
+      "pubDate": "Thu, 13 Aug 2026 09:15:50 +0000",
+      "description": "Cláudia Sarrico, secretária de Estado do Ensino Superior, recebe subsídio de alojamento para viver em Lisboa apesar de ter património imobiliário em Paris, Aveiro e Braga.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=307&W=547&crop=center&delay_optim=1&epic=V2%3Apkza5Viyovi%2B8ygJZ%2Bbx5rxJH%2FyAdVQ0t9tEty6m4NHYse8VbAnxT4L1Zd5%2Ft2Odm8Sx6oCvkrzKxKhYkRio5bj5dYvxrc%2BfOEI2V3pKrYkS7eRwEqRvvbsJEEBkQznA"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Com 265 mortos confirmados e centenas de desaparecidos, Colômbia entra em emergência económica",
-      "link": "https://sapo.pt/artigo/com-265-mortos-confirmados-e-centenas-de-desaparecidos-colombia-entra-em-emergencia-economica-6a7d574e8273c4b5edf0818c",
-      "pubDate": "Thu, 13 Aug 2026 06:33:05 +0000",
-      "description": "O número de vítimas mortais do sismo que atingiu a Colômbia na segunda-feira subiu para 265, segundo o Presidente Abelardo de la Espriella, que decretou esta quarta-feira o estado de emergência económica para acelerar a resposta à catástrofe",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AW8MMamBl4VqVQleXtkH8CauBbb%2FteMT7jW%2F2%2Bg%2FRywf2NYzuVPIlT6oCdtRLB9eLEPNMNOoh7oHJREJ%2BhND71cw2JeV135upnBNmH8nCbgWR22HlieFzOx%2BQmu831fQP"
+      "title": "Encontrado sem vida um dos 4 portugueses que naufragaram",
+      "link": "https://sapo.pt/artigo/croacia-um-dos-portugueses-encontrado-sem-vida-6a7d7ca48273c4b5edf422fd",
+      "pubDate": "Thu, 13 Aug 2026 09:15:50 +0000",
+      "description": "Foram retomadas às seis da manhã locais as operações de busca por dois portugueses após o naufrágio na Croácia. Autoridades encontraram um corpo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=618&W=1100&crop=center&delay_optim=1&epic=V2%3A9HhWrMooctqwU9eyBZco1A8M0tgzGWqx%2BuyL3eEXnCsTn3qu6DRdoxqCFGbb%2Fk41DgtGSYDLR%2FDe0%2BVfyuqKsO14PsJU%2FK%2BmxGTrm30BqcX%2FBiYOT3MhfEbpPzAROKdx"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ano letivo no superior à porta. Colocações devem recuperar, apesar de caos nos exames",
-      "link": "https://eco.sapo.pt/2026/08/13/ano-letivo-no-superior-a-porta-colocacoes-devem-recuperar-apesar-de-caos-nos-exames/",
-      "pubDate": "Thu, 13 Aug 2026 06:33:05 +0000",
-      "description": "No último ano letivo, número de colocados na 1.ª fase do concurso de acesso ao ensino superior foi o mais baixo em quase uma década. Regras já foram revertidas. Será suficiente para evitar novo recuo?",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AHHR2vYMbED7gidUkYv2AkiRs2RhlTmmIGX1ONzqH0jyjW9XiC3qzpp2pyg39mOGtJXmN6ddtrN72D2N%2FOLCUOFVnvmWyehph97fUIzE53MF1%2FMgiYEzKdzXYAqLFLcEY"
+      "title": "Venezuela: Governo e oposição acordam recuperar bens no estrangeiro para ajudar vítimas dos sismos",
+      "link": "https://sapo.pt/artigo/venezuela-governo-e-oposicao-acordam-recuperar-bens-no-estrangeiro-para-ajudar-vitimas-dos-sismos-6a7d756ae7c4d45e90c2abe0",
+      "pubDate": "Thu, 13 Aug 2026 09:15:50 +0000",
+      "description": "Os recursos venezuelanos bloqueados no estrangeiro poderão ser utilizados para ajudar as populações afetadas pelos sismos de 24 de junho, na sequência de um acordo entre o Governo e a oposição",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AZEhpEf2%2FWX%2Bocwo3DtvVhs2iVgJIZMDABnpi1naHMUDt64JMgJOFKh0tB12m3We22%2BQI1CvbjrLkUXEyo0ndjBp6JgNG8VKpgjsXXtSYAua71k5PBesKJ4rHDi2ePwQo"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "“Maré negra” ameaça costa de Omã após petroleiro da “frota fantasma” russa encalhar em reserva protegida",
-      "link": "https://sapo.pt/artigo/mare-negra-ameaca-costa-de-oma-apos-petroleiro-da-frota-fantasma-russa-encalhar-em-reserva-protegida-6a7cffc4e7c4d45e90b891f5",
-      "pubDate": "Thu, 13 Aug 2026 06:33:05 +0000",
-      "description": "Um derrame de petróleo ameaça a costa de Omã depois de um petroleiro suspeito de integrar a chamada “frota fantasma” russa ter encalhado numa reserva marinha protegida. A poluição já atingiu algumas praias e poderá afetar dezenas de quilómetros...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Abd4r9gXsliRt6eCoNSpp97%2BR3VU0ithDTSGSer4iuSeFw5wITInfxI4xFfWqjbifw07EalF%2BvSmateVr4OvgD97qgNSvEfE6scqpUOU1mNSnnnuKjtpYA%2BAQaZi%2BVJG7"
+      "title": "Movimento de mulheres conservadoras nasce em Portugal com presença de deputadas do Chega e influência evangélica",
+      "link": "https://executivedigest.sapo.pt/movimento-de-mulheres-conservadoras-nasce-em-portugal-com-presenca-de-deputadas-do-chega-e-influencia-evangelica/",
+      "pubDate": "Thu, 13 Aug 2026 09:15:50 +0000",
+      "description": "O movimento reúne mulheres que defendem uma visão conservadora da sociedade, com forte presença de referências cristãs.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AfSQDD4xk%2FHdNn25r%2BmQdQUu51TvlltJMYh1damG8LJlAjCbm0ApxLqLiqQjKRrFVano8v0QsD2VbkWKbRIqkUw%2BKnZwdpwIAYkXqHQeQQ2O3WKUjbQskI6AqPbts2edR"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tempos de espera nas urgências voltam a subir e ultrapassam as 11 horas",
-      "link": "https://www.noticiasaominuto.com/pais/3035927/tempos-de-espera-nas-urgencias-voltam-a-subir-e-ultrapassam-as-11-horas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 09:33:21",
+      "title": "PRR deu mais 630 milhões para recuperar unidades e modernizar o SNS",
+      "link": "https://www.noticiasaominuto.com/economia/3035972/prr-deu-mais-630-milhoes-para-recuperar-unidades-e-modernizar-o-sns#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 10:53:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57eebd180df2d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67e11b7a6a4a5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Embaixador dos EUA condena cerco a casas de palestinianos em colonatos",
-      "link": "https://www.noticiasaominuto.com/mundo/3035924/embaixador-dos-eua-condena-cerco-a-casas-de-palestinianos-em-colonatos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 09:32:23",
+      "title": "Duas tartarugas reabilitadas foram libertadas ao largo de Aveiro",
+      "link": "https://www.noticiasaominuto.com/pais/3035966/duas-tartarugas-reabilitadas-foram-libertadas-ao-largo-de-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 10:50:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68643c010bcc2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMDEsImNyb3BIZWlnaHQiOjE3NzksImNyb3BYIjoxMDUxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d92de318fa.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2MywiY3JvcEhlaWdodCI6MTM1NiwiY3JvcFgiOjUyNCwiY3JvcFkiOjI3fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Recolha de pilhas e baterias em escolas aumentou 36% no último ano letivo",
-      "link": "https://www.noticiasaominuto.com/pais/3035877/recolha-de-pilhas-e-baterias-em-escolas-aumentou-36-no-ultimo-ano-letivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 09:29:36",
+      "title": "Funcionária de banco acedeu a contas de clientes e roubou 110 mil euros",
+      "link": "https://www.noticiasaominuto.com/pais/3035964/funcionaria-de-banco-acedeu-a-contas-de-clientes-e-roubou-110-mil-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 10:49:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f7c3699b63e2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f22a33adc5aa.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"O agente e o jovem jogador: Incentivo e dever\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3035926/o-agente-e-o-jovem-jogador-incentivo-e-dever#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 09:28:47",
+      "title": "Ruben Amorim condenado ao fracasso no AC Milan: \"Espero estar errado...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3035968/ruben-amorim-condenado-ao-fracasso-no-ac-milan-espero-estar-errado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 10:48:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d80222dad6.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1sZWZ0In19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d92df3d41f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyNTd9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "África apoia Infantino na FIFA e causa polémica: \"Só queremos o dinheiro\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3035917/africa-apoia-infantino-na-fifa-e-causa-polemica-so-queremos-o-dinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 09:24:00",
+      "title": "Há uma regra silenciosa nesta época. Mas a dor crónica não tira férias",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3035416/ha-uma-regra-silenciosa-nesta-epoca-mas-a-dor-cronica-nao-tira-ferias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 10:46:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d7f007caff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjgzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxNTg5LCJjcm9wWSI6MTEwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c39a32d652.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg0MCwiY3JvcEhlaWdodCI6MTQ5NCwiY3JvcFgiOjMxNSwiY3JvcFkiOjB9LCJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Transportes públicos gratuitos para antigos combatentes vão abranger todo o país",
+      "link": "https://pplware.sapo.pt/informacao/transportes-publicos-gratuitos-para-antigos-combatentes-vao-abranger-todo-o-pais/",
+      "pubDate": "Thu, 13 Aug 2026 09:30:47 +0000",
+      "description": "O Presidente da República promulgou o diploma que alarga a gratuitidade dos transportes públicos aos antigos combatentes em todo o território nacional. A medida abrange igualmente as viúvas e os viúvos que cumpram os&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/antigo_cmbatente00.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Reservar um lugar de estacionamento com cones ou cadeiras é ilegal?",
+      "link": "https://pplware.sapo.pt/motores/reservar-um-lugar-de-estacionamento-com-cones-ou-cadeiras-e-ilegal/",
+      "pubDate": "Thu, 13 Aug 2026 09:00:34 +0000",
+      "description": "Já encontrou um lugar de estacionamento aparentemente livre, mas impedido por cones, grades, tijolos, cadeiras, baldes ou outros objetos? Mas será que tal cenário está coberto pela lei? A questão voltou a gerar discussão&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/estacionamento_x00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/11/windows_10_upgrade_ferramenta.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Waze: Alertas de polícia e radares estão com um problema grave",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/waze-alertas-de-policia-e-radares-estao-com-um-problema-grave/",
-      "pubDate": "Thu, 13 Aug 2026 06:00:15 +0000",
-      "description": "Diversos problemas estão a afetar a experiência de utilização do Waze. Entre alertas de polícia que desaparecem, avisos de radar atrasados ​​​​e um bug que afeta o botão de retroceder na versão para Android,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/11/waze_estradas_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "FIA quer aperfeiçoar o ADUO",
+      "link": "https://www.autosport.pt/formula1/fia-quer-aperfeicoar-o-aduo/",
+      "pubDate": "Thu, 13 Aug 2026 09:14:12 +0000",
+      "description": "O diretor de monolugares da FIA, Nikolas Tombazis, admitiu que os novos regulamentos ADUO da Fórmula 1 precisam de ser aperfeiçoados, perante preocupações de potencial manipulação. O sistema (Additional Development and Upgrade Opportunities) foi introduzido em 2026 para ajudar os fabricantes de moto",
+      "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apple prepara “selo de autenticidade” para provar que uma foto foi tirada com um iPhone",
-      "link": "https://pplware.sapo.pt/apple/apple-prepara-selo-de-autenticidade-para-provar-que-uma-foto-foi-tirada-com-um-iphone/",
-      "pubDate": "Wed, 12 Aug 2026 21:30:06 +0000",
-      "description": "A criação de imagens por inteligência artificial tornou cada vez mais difícil perceber se uma fotografia é real, alterada ou totalmente gerada por computador. A Apple parece estar a preparar uma resposta para este&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/autentic_foto_iphone00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E: Sébastien Buemi deixa a competição",
+      "link": "https://www.autosport.pt/velocidade/formula-e-sebastien-buemi-deixa-a-competicao/",
+      "pubDate": "Thu, 13 Aug 2026 08:23:22 +0000",
+      "description": "Após 12 anos de carreira na Fórmula E, Sébastien Buemi vai terminar a sua caminhada na competição elétrica este fim de semana, em Londres. A Envision anunciou que tanto Buemi como o atual companheiro de equipa, Joel Eriksson, deixarão a equipa depois do E-Prix de Londres, com o suíço a assumir um pa",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-stefano-domenicali-a-minha-opiniao-e-que-o-max-vai-ficar-connosco/",
       "pubDate": "Wed, 12 Aug 2026 15:45:00 +0000",
       "description": "O presidente e CEO da Fórmula 1, Stefano Domenicali, revelou ter estado a conversar também com Max Verstappen sobre as alterações regulamentares que estão a ser introduzidas nas próximas temporadas. O italiano mostrou confiança nas mudanças que vão ser aplicadas na próxima temporada e acredita que o",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Mitsubishi ASX VR-e apenas na Austrália",
-      "link": "https://www.autosport.pt/automais/mitsubishi-asx-vr-e-apenas-na-australia/",
-      "pubDate": "Wed, 12 Aug 2026 15:00:00 +0000",
-      "description": "A Mitsubishi apresentou o novo ASX VR-e, Sport Utility Vehicle (SUV) compacto equipado apenas com motorização elétrica e que representa uma mudança de estratégia para a marca dos três diamantes. Depois de apresentar diversos modelos no mercado europeu baseados em automóveis da Renault (Colt/Clio, AS",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Jos Verstappen: Pai Promessa, Filho Prodígio",
-      "link": "https://www.autosport.pt/formula1/f1/jos-verstappen-pai-promessa-filho-prodigio/",
-      "pubDate": "Wed, 12 Aug 2026 14:15:00 +0000",
-      "description": "Aproveitando o facto da F1 estar na Holanda&#8230;do Norte, uma das 12 províncias dos Países Baixos, vamos falar de Verstappen. Jos Verstappen&#8230; Hoje em dia não há quem não conheça o seu filho, Max Verstappen. É cada vez mais o maior talento da sua geração, e provavelmente vai acrescentar títul",
       "thumbnail": ""
     }
   ]
