@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-13T04:07:40.745924+00:00",
+  "updated": "2026-08-13T05:54:12.222030+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Eclipse marca capas da imprensa nacional e internacional",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/eclipse-marca-capas-da-imprensa-nacional-e-internacional/",
+      "pubDate": "Thu, 13 Aug 2026 06:38:50 +0100",
+      "description": "Público: E do dia se fez noite. Eclipse solar. DN: Tempo de espera nas urgências ultrapassa as sete horas. JN: Novas bolsas para alunos deslocados não exigem contrato de arrendamento.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2462/",
+      "pubDate": "Thu, 13 Aug 2026 06:13:42 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "4h. Decretada situação de emergência económica na Colômbia",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2369/",
       "pubDate": "Thu, 13 Aug 2026 04:13:40 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O presidente colombiano diz que o objetivo é enfrentar a crise de forma adequada. Ainda, Líbano acusa Israel de promover a destruição \"sistemática\" no sul do país.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,32 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Liga Europa. Benfica defronta o Hearts esta quinta-feira",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2378/",
-      "pubDate": "Thu, 13 Aug 2026 02:13:14 +0100",
-      "description": "Na antevisão, o treinador das águias afirmou que estava confiante na vitória. Ainda, começa esta quinta-feira a sétima etapa da Volta a Portugal em bicicleta.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Sismo Colômbia. Subiu para 265 o número de mortos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2351/",
-      "pubDate": "Thu, 13 Aug 2026 01:12:03 +0100",
-      "description": "O presidente colombiano adianta também que há 496 pessoas desaparecidas na sequência do sismo. Ainda, começa esta quinta-feira o festival O Sol da Caparica.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Estudantes timorenses fazem caminhada em trilhos usados pelos guerrilheiros",
+      "link": "https://www.rtp.pt/noticias/mundo/estudantes-timorenses-fazem-caminhada-em-trilhos-usados-pelos-guerrilheiros_n1759168",
+      "pubDate": "Thu, 13 Aug 2026 07:31:41 +0100",
+      "description": "Um grupo de estudantes de Timor-Leste vai realizar a partir de sábado uma caminhada pelos trilhos usados pelos guerrilheiros para assinalar o 51.º aniversário da criação das forças de defesa do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Volta a Portugal em bicicleta passa no Gerês com limitações",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-volta-a-portugal-em-bicicleta-passa-no-geres-com-limitacoes_a1_1759159",
-      "pubDate": "Thu, 13 Aug 2026 05:15:02 +0100",
+      "title": "Venezuela. Governo e oposição querem resgatar bens no estrangeiro para ajudar vítimas",
+      "link": "https://www.rtp.pt/noticias/mundo/venezuela-governo-e-oposicao-querem-resgatar-bens-no-estrangeiro-para-ajudar-vitimas_n1759166",
+      "pubDate": "Thu, 13 Aug 2026 07:24:40 +0100",
+      "description": "O Governo da Venezuela chegou a acordo com a oposição para reformar o sistema judicial e recuperar os ativos congelados no estrangeiro, para apoiar os afetados pelo duplo sismo de 24 de junho.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/62/625633b032a8bf9d15093f3393c0495c?w=350&amp;q=50&amp;rect=145,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h UE tem novas regras para tratamento de veículos em fim de vida",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-ue-tem-novas-regras-para-tratamento-de-veiculos-em-fim-de-vida_a1_1759167",
+      "pubDate": "Thu, 13 Aug 2026 07:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,21 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Sinistralidade. MAI anuncia reforço de fiscalização rodoviária",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-sinistralidade-mai-anuncia-reforco-de-fiscalizacao-rodoviaria_a1_1759157",
-      "pubDate": "Thu, 13 Aug 2026 04:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Taiwan realiza simulacro contra possível bloqueio marítimo chinês",
+      "link": "https://www.rtp.pt/noticias/mundo/taiwan-realiza-simulacro-contra-possivel-bloqueio-maritimo-chines_n1759165",
+      "pubDate": "Thu, 13 Aug 2026 07:18:31 +0100",
+      "description": "As forças armadas de Taiwan realizaram manobras de contrabloqueio marítimo no leste da ilha, nas quais simularam a escolta de um navio que transportava &quot;mantimentos importantes&quot;, face à crescente pressão chinesa, informaram hoje fontes oficiais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/0369292f52df7f0c4caac0b126f6affe?w=350&amp;q=50&amp;rect=0,118,1080,592&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Colômbia. 265 mortos no novo balanço depois do sismo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-colombia-265-mortos-no-novo-balanco-depois-do-sismo_a1_1759154",
-      "pubDate": "Thu, 13 Aug 2026 03:31:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h Colômbia decreta emergência económica depois do sismo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-colombia-decreta-emergencia-economica-depois-do-sismo_a1_1759151",
-      "pubDate": "Thu, 13 Aug 2026 02:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Eclipse solar visto pela Europa",
-      "link": "https://www.rtp.pt/noticias/mundo/eclipse-solar-visto-pela-europa_v1759148",
-      "pubDate": "Thu, 13 Aug 2026 01:42:47 +0100",
-      "description": "Um pouco por toda a Europa, milhões de pessoas assistiram ao mais marcante fenómeno astronómico do ano. Espanha foi o país mais privilegiado, mas também a Islândia assistiu à totalidade do eclipse solar. A experiência foi visível de forma parcial em grande parte do hemisfério norte.&lt;br /&gt;",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4c/4c1632b9486c8c725be0f91c20657f9d_N.jpg?"
+      "title": "EUA acusam 11 pessoas por casamentos de conveniência que envolveram militares",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-acusam-11-pessoas-por-casamentos-de-conveniencia-que-envolveram-militares_n1759164",
+      "pubDate": "Thu, 13 Aug 2026 07:17:02 +0100",
+      "description": "Procuradores dos Estados Unidos acusaram 11 pessoas de integrarem uma rede que organizou mais de mil casamentos de conveniência para ajudar cidadãos a obter residência no país, e envolvendo pelo menos 14 militares norte-americanos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e36a8b010455d48934a1128123165ead?w=350&amp;q=50&amp;rect=0,0,762,418&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pais detidos por deixarem filhos em casa suja e com baratas em Espanha",
-      "link": "https://www.noticiasaominuto.com/mundo/3035810/pais-detidos-por-deixarem-filhos-em-casa-suja-e-com-baratas-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 00:09:12",
+      "title": "Filme \"Ariel\" do galego Lois Patiño rodado nos Açores estreia-se hoje",
+      "link": "https://www.noticiasaominuto.com/cultura/3035858/filme-ariel-do-galego-lois-patino-rodado-nos-acores-estreia-se-hoje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 06:47:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66faab24498cc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mjc3LCJjcm9wWSI6NTU1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a60cd1d1ae56.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDYsImNyb3BIZWlnaHQiOjQyMCwiY3JvcFgiOjYsImNyb3BZIjo3OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Mjg5LCJjcm9wSGVpZ2h0Ijo1MTQsImNyb3BYIjo2MywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "'Maré negra' em Omã causada por petroleiro da 'frota fantasma' russa",
-      "link": "https://www.noticiasaominuto.com/mundo/3035817/mare-negra-em-oma-causada-por-petroleiro-da-frota-fantasma-russa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 00:01:06",
+      "title": "Eleitores da Zâmbia votam hoje para eleger presidente e deputados",
+      "link": "https://www.noticiasaominuto.com/mundo/3035852/eleitores-da-zambia-votam-hoje-para-eleger-presidente-e-deputados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 06:43:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7cfa61a60b8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI4LCJjcm9wSGVpZ2h0IjoxNDIyLCJjcm9wWCI6OSwiY3JvcFkiOjEwMH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68b994bb81191.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ex-funcionária tinha botão na barriga para acordar Trump? \"Estou grávida\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3035814/ex-funcionaria-tinha-botao-na-barriga-para-acordar-trump-estou-gravida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 23:58:27",
+      "title": "Fundos da UE elevaram ajuda militar a máximo desde fim do apoio dos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3035826/fundos-da-ue-elevaram-ajuda-militar-a-maximo-desde-fim-do-apoio-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 06:42:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7cf4ae7f0ae.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4OTYsImNyb3BIZWlnaHQiOjUwNCwiY3JvcFgiOjUsImNyb3BZIjozNTd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUyNywiY3JvcEhlaWdodCI6OTM2LCJjcm9wWCI6MzczLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a78446289894.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjEzOSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Homem morre após sofrer paragem cardiorrespiratória em praia de Setúbal",
-      "link": "https://www.noticiasaominuto.com/pais/3035816/homem-morre-apos-sofrer-paragem-cardiorrespiratoria-em-praia-de-setubal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 23:56:27",
+      "title": "Não é só João Palhinha. Benfica em risco de perder também Josip Sutalo",
+      "link": "https://www.noticiasaominuto.com/desporto/3035866/nao-e-so-joao-palhinha-benfica-em-risco-de-perder-tambem-josip-sutalo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 06:40:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5ac6521395b5d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d58c9e00ad.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIxMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Do nevoeiro ao \"anel perfeito\": O eclipse visto das redes sociais",
-      "link": "https://www.noticiasaominuto.com/pais/3035818/do-nevoeiro-ao-anel-perfeito-o-eclipse-visto-das-redes-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-12 23:53:23",
+      "title": "Task force criada nos EUA contra turismo de parto revogou mais de 600 vistos",
+      "link": "https://www.noticiasaominuto.com/mundo/3035829/task-force-criada-nos-eua-contra-turismo-de-parto-revogou-mais-de-600-vistos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 06:40:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ce96978e3a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69037911a20da.webp"
     },
     {
       "sourceId": "pplware",
