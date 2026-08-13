@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-13T07:20:23.157316+00:00",
+  "updated": "2026-08-13T08:49:45.581865+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2486/",
-      "pubDate": "Thu, 13 Aug 2026 08:16:12 +0100",
+      "title": "\"Tranca Segura\": PJ detém 20 pessoas por tráfico de droga",
+      "link": "https://observador.pt/2026/08/13/pj-detem-20-pessoas-suspeitas-de-trafico-de-droga-para-as-prisoes-da-guarda-coimbra-e-lamego/",
+      "pubDate": "Thu, 13 Aug 2026 09:26:16 +0100",
+      "description": "A rede usava métodos inusitados: pólen de haxixe transportado no corpo, cocaína num rolo de carne e drogas sintéticas impregnadas em supostas mensagens infantis.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/30184307/pj-policia-judiciaria-fotografia-geral-200x131-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Nuno Melo e as fragatas: um negócio que meteu água?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/nuno-melo-e-as-fragatas-um-negocio-que-meteu-agua/",
+      "pubDate": "Thu, 13 Aug 2026 09:19:33 +0100",
+      "description": "O Ministro e o Chega trocam mimos e processos por causa de navios e comissões fantasma. E ainda, o eclipse que humilhou a gestão pública e a caça aos 180 km/h declarada por Luís Neves.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2439/",
+      "pubDate": "Thu, 13 Aug 2026 09:17:58 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,91 +35,111 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ganhar um troféu ou apanhar o avião? Não perder dinheiro",
-      "link": "https://observador.pt/programas/tres-toques/ganhar-um-trofeu-ou-apanhar-o-aviao-nao-perder-dinheiro/",
-      "pubDate": "Thu, 13 Aug 2026 08:11:16 +0100",
-      "description": "Fulham e Málaga disputaram um amigável que teminou empatado. Teve ser o horário do voo de regresso da equipa inglesa a desempatar o jogo. Ainda, o eclipse que irritou uns e distraiu outros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/07113707/770-podcast-tres-toques2-provisorio.jpg"
+      "title": "Croácia. Um dos portugueses encontrado sem vida",
+      "link": "https://observador.pt/2026/08/13/encontrado-sem-vida-um-dos-portugueses-desaparecido-em-naufragio-na-croacia/",
+      "pubDate": "Thu, 13 Aug 2026 09:12:14 +0100",
+      "description": "Foram retomadas às seis da manhã locais as operações de busca para encontrar dois portugueses após um naufrágio na Croácia. Autoridades encontraram um corpo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1100:618:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12121146/hpgxjbqwwaalrbj.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Afinal a festa dos eclipses ainda não acabou?",
-      "link": "https://observador.pt/programas/no-se-fala-de-outra-coisa/afinal-a-festa-dos-eclipses-ainda-nao-acabou/",
-      "pubDate": "Thu, 13 Aug 2026 08:03:43 +0100",
-      "description": "Até 2027 o calendário espacial está cheio com quase toda a \"família\" de fenómenos no céu. E ainda, o silêncio das aves e a calma dos mamíferos no Zoo de Lisboa durante o apagão solar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/14120208/770-podcast-nao-se-fala-de-outra-coisa-1.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Há hospitais com 60% das consultas fora do prazo máximo",
-      "link": "https://observador.pt/2026/08/13/sns-em-alguns-hospitais-mais-de-60-das-primeiras-consultas-de-especialidade-sao-realizadas-fora-do-tempo-maximo/",
-      "pubDate": "Thu, 13 Aug 2026 08:03:13 +0100",
-      "description": "Nos hospitais de Penafiel e Matosinhos, mais de dois terços das primeiras consultas não cumprem os tempos máximos. Hospital de Cascais tem o melhor desempenho. Primeiras consultas em quebra em 2026.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:288/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/19170242/doc2021052031741149jrv-0898-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Diplomacia com Irão não é uma recompensa\"",
-      "link": "https://observador.pt/programas/gabinete-de-guerra/diplomacia-com-irao-nao-e-uma-recompensa/",
-      "pubDate": "Thu, 13 Aug 2026 07:51:39 +0100",
-      "description": "Bruno Cardoso Reis sublinha que o diálogo com o Irão é uma necessidade estratégica perante o perigo de mísseis. Destaca ainda o plano de Zelensky contra Putin e o impasse militar de Israel no Líbano.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+      "title": "Consultas atrasadas e o rescaldo do eclipse",
+      "link": "https://observador.pt/newsletters/360/consultas-atrasadas-marcelo-a-recuperar-e-o-rescaldo-do-eclipse/",
+      "pubDate": "Thu, 13 Aug 2026 08:59:24 +0100",
+      "description": "Metade do total de primeiras consultas de especialidade do SNS não cumpriram tempos máximos. Marcelo Rebelo de Sousa já teve alta. E ainda as imagens do eclipse de ontem.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "08h A contestação à reforma do Inem",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-a-contestacao-a-reforma-do-inem_a1_1759187",
-      "pubDate": "Thu, 13 Aug 2026 09:17:03 +0100",
+      "title": "Sp. Braga tenta playoff da Liga Conferência",
+      "link": "https://www.rtp.pt/noticias/liga-europa-conferencia/sp-braga-tenta-playoff-da-liga-conferencia_d1759198",
+      "pubDate": "Thu, 13 Aug 2026 10:47:02 +0100",
+      "description": "O Sporting de Braga defende a vantagem de 1-0 conquistada na receção Dínamo Minsk e procura qualificar-se para o play-off da Liga Conferência, em jogo da segunda mão da terceira pré-eliminatória.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4160c057d0942bc8aaea706896c3bef?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Benfica cumpre calendário em Edimburgo",
+      "link": "https://www.rtp.pt/noticias/benfica/benfica-cumpre-calendario-em-edimburgo_d1759196",
+      "pubDate": "Thu, 13 Aug 2026 10:40:20 +0100",
+      "description": "O Benfica visita o Hearts com ‘caminho aberto’ para o play-off de acesso à Liga Europa, após a goleada imposta aos escoceses na primeira mão disputada no Estádio da Luz (6-1).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/44/4477fc651064a315eef8cac107ca4e27?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Terá sido encontrado corpo de turista português após naufrágio na Croácia",
+      "link": "https://www.rtp.pt/noticias/mundo/tera-sido-encontrado-corpo-de-turista-portugues-apos-naufragio-na-croacia_n1759194",
+      "pubDate": "Thu, 13 Aug 2026 10:34:45 +0100",
+      "description": "Do grupo de quatro amigos que estavam no barco que naufragou, um terá sido encontrado sem vida, dois foram resgatados na quarta-feira e outro continua desaparecido.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/14f84fe37994639b62b97ed3818fe73c?w=350&amp;q=50&amp;rect=1,0,3998,2192&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Volta atravessa Gerês",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/volta-atravessa-geres_d1759195",
+      "pubDate": "Thu, 13 Aug 2026 10:32:42 +0100",
+      "description": "Os 108 corredores da 87.ª Volta a Portugal em bicicleta atravessam hoje o Parque Nacional da Peneda-Gerês, com restrições na subida da Mata da Albergaria, numa etapa que promete colocar à prova o camisola amarela, Alexis Guérin (Anicolor-Campicarn).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ea39ef3d3bbaaf155bee13d6c484792?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h PJ desmantela rede que abastecia cadeias",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-pj-desmantela-rede-que-abastecia-cadeias_a1_1759192",
+      "pubDate": "Thu, 13 Aug 2026 10:20:04 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Primeira visita de Putin a ilhas disputadas provoca protesto do Japão",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/primeira-visita-de-putin-a-ilhas-disputadas-provoca-protesto-do-japao_n1759178",
-      "pubDate": "Thu, 13 Aug 2026 09:16:47 +0100",
-      "description": "O Presidente da Rússia, Vladimir Putin, visitou hoje as ilhas Curilas, no Extremo Oriente, uma visita que provocou um forte protesto do Japão, que também reivindica o arquipélago.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Unai Emery: «A equipa sentiu que era capaz de competir frente ao PSG»",
+      "link": "https://maisfutebol.iol.pt/internacional/supertaca-europeia/unai-emery-a-equipa-sentiu-que-era-capaz-de-competir-frente-ao-psg",
+      "pubDate": "Thu, 13 Aug 2026 09:33:00 +0100",
+      "description": "Treinador do Aston Villa «orgulhoso» do que a equipa fez diante dos parisienses",
+      "thumbnail": "https://img.iol.pt/image/id/6a7ccbb5d34e511da0b3307f/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pelo menos 819 pessoas fogem de aldeia em Cabo Delgado",
-      "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-819-pessoas-fogem-de-aldeia-em-cabo-delgado_n1759173",
-      "pubDate": "Thu, 13 Aug 2026 09:15:12 +0100",
-      "description": "Pelo menos 819 pessoas, quase metade crianças, fugiram nos últimos dias após um ataque de grupos insurgente em Natugo, na província moçambicana de Cabo Delgado, segundo relatório da Organização Internacional para as Migrações (OIM).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/53/530773484f0935cc83cbae0edba97461?w=350&amp;q=50&amp;rect=0,242,2048,1123&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Luis Enrique: «O pensamento é tentar conquistar a terceira Champions seguida»",
+      "link": "https://maisfutebol.iol.pt/supertaca-europeia/psg/luis-enrique-o-pensamento-e-tentar-conquistar-a-terceira-champions-seguida",
+      "pubDate": "Thu, 13 Aug 2026 09:25:00 +0100",
+      "description": "PSG conquista Supertaça Europeia e treinador traça objetivos ambiciosos para a temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a7cce46d34e511da0b3308c/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Recolha de pilhas e baterias nas escolas aumentou 36% no último ano letivo",
-      "link": "https://www.rtp.pt/noticias/economia/recolha-de-pilhas-e-baterias-nas-escolas-aumentou-36-no-ultimo-ano-letivo_n1759172",
-      "pubDate": "Thu, 13 Aug 2026 09:14:10 +0100",
-      "description": "As escolas aderentes da 15ª edição da iniciativa Escola Electrão recolheram e enviaram para reciclagem no último ano letivo mais 36% de pilhas e baterias do que no ano anterior, num total de 24 toneladas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/af/af3220bbd53c61ac40609bf39605135e?w=350&amp;q=50&amp;rect=0,0,1560,855&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Libertadores: Palmeiras concede empate em casa frente ao Cerro Porteño",
+      "link": "https://maisfutebol.iol.pt/internacional/made-in/libertadores-palmeiras-concede-empate-em-casa-frente-ao-cerro-porteno",
+      "pubDate": "Thu, 13 Aug 2026 09:05:00 +0100",
+      "description": "Equipa de Abel Ferreira ficou reduzida a dez elementos na segunda parte",
+      "thumbnail": "https://img.iol.pt/image/id/6a78fd25d34ed0733ba7f01f/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Entram em vigor as novas regras para os veículos em fim de vida na UE",
-      "link": "https://www.rtp.pt/noticias/economia/entram-em-vigor-as-novas-regras-para-os-veiculos-em-fim-de-vida-na-ue_n1759063",
-      "pubDate": "Thu, 13 Aug 2026 08:46:26 +0100",
-      "description": "Bruxelas quer facilitar a desmontagem, a reutilização, a reciclagem e a recuperação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/41277359900f48da01478dc01407ef86?w=350&amp;q=50&amp;rect=0,0,1560,855&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Mercenário»: Leonardo Jardim recebido com insultos no Cruzeiro-Flamengo",
+      "link": "https://maisfutebol.iol.pt/libertadores/taca-libertadores/mercenario-leonardo-jardim-recebido-com-insultos-no-cruzeiro-flamengo",
+      "pubDate": "Thu, 13 Aug 2026 08:34:00 +0100",
+      "description": "Do outro lado estava o também treinador português Artur Jorge",
+      "thumbnail": "https://img.iol.pt/image/id/6a7d72d2d34ed0733ba7f96d/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Thu, 13 Aug 2026 08:00:00 +0100",
       "description": "Benfica e Sp. Braga jogam pela continuidade na Europa",
       "thumbnail": "https://img.iol.pt/image/id/6a78f217d34ed0733ba7f001/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Thu, 13 Aug 2026 00:48:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Thu, 13 Aug 2026 00:47:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "INSÓLITO: Fulham abdica do desempate por penáltis para não perder o avião",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/insolito-fulham-abdica-do-desempate-por-penaltis-para-nao-perder-o-aviao",
-      "pubDate": "Thu, 13 Aug 2026 00:09:00 +0100",
-      "description": "Clube inglês «entregou» o troféu Costa do Sol ao anfitrião Málaga",
-      "thumbnail": "https://img.iol.pt/image/id/6a7cfcced34e511da0b330e5/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "INSÓLITO: Barcelona marca, mas adeptos... estavam atentos ao eclipse",
-      "link": "https://maisfutebol.iol.pt/insolito/internacional/insolito-barcelona-marca-mas-adeptos-estavam-atentos-ao-eclipse",
-      "pubDate": "Thu, 13 Aug 2026 00:07:00 +0100",
-      "description": "Equipa feminina dos blaugrana venceu o Montepellier por 3-1",
-      "thumbnail": "https://img.iol.pt/image/id/6a7cfbd3d34ed0733ba7f94d/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Surreal. Arbeloa é expulso, Fulham deserta e Málaga marca... a ninguém",
-      "link": "https://www.noticiasaominuto.com/desporto/3035901/surreal-arbeloa-e-expulso-fulham-deserta-e-malaga-marca-a-ninguem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 08:17:57",
+      "title": "Tempos de espera nas urgências voltam a subir e ultrapassam as 11 horas",
+      "link": "https://www.noticiasaominuto.com/pais/3035927/tempos-de-espera-nas-urgencias-voltam-a-subir-e-ultrapassam-as-11-horas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 09:33:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d6f4310141.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57eebd180df2d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Os 5 melhores alimentos para quem quer consumir mais vitamina D",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3035896/os-5-melhores-alimentos-para-quem-quer-consumir-mais-vitamina-d#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 08:17:45",
+      "title": "Embaixador dos EUA condena cerco a casas de palestinianos em colonatos",
+      "link": "https://www.noticiasaominuto.com/mundo/3035924/embaixador-dos-eua-condena-cerco-a-casas-de-palestinianos-em-colonatos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 09:32:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d6d21386dd.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68643c010bcc2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMDEsImNyb3BIZWlnaHQiOjE3NzksImNyb3BYIjoxMDUxLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Irão? \"Difícil antever a curto-prazo a possibilidade de um acordo\"",
-      "link": "https://www.noticiasaominuto.com/politica/3035895/irao-dificil-antever-a-curto-prazo-a-possibilidade-de-um-acordo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 08:11:58",
+      "title": "Recolha de pilhas e baterias em escolas aumentou 36% no último ano letivo",
+      "link": "https://www.noticiasaominuto.com/pais/3035877/recolha-de-pilhas-e-baterias-em-escolas-aumentou-36-no-ultimo-ano-letivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 09:29:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67bde57306e9b.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f7c3699b63e2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Época de Fórmula E chega à última ronda e Félix da Costa ainda sonha",
-      "link": "https://www.noticiasaominuto.com/auto/3035898/epoca-de-formula-e-chega-a-ultima-ronda-e-felix-da-costa-ainda-sonha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 08:10:40",
+      "title": "\"O agente e o jovem jogador: Incentivo e dever\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3035926/o-agente-e-o-jovem-jogador-incentivo-e-dever#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 09:28:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d6cda4e422.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d80222dad6.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1sZWZ0In19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eletricidade: Novos períodos horários vão ter impacto na fatura?",
-      "link": "https://www.noticiasaominuto.com/economia/3035576/eletricidade-novos-periodos-horarios-vao-ter-impacto-na-fatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 08:01:29",
+      "title": "África apoia Infantino na FIFA e causa polémica: \"Só queremos o dinheiro\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3035917/africa-apoia-infantino-na-fifa-e-causa-polemica-so-queremos-o-dinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 09:24:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c73764b9e1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7d7f007caff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjgzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxNTg5LCJjcm9wWSI6MTEwfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "iPhone 18 da Apple pode mesmo ficar de fora do lançamento do outono deste ano",
+      "link": "https://pplware.sapo.pt/gadgets/iphone/iphone-18-da-apple-pode-mesmo-ficar-de-fora-do-lancamento-do-outono-deste-ano/",
+      "pubDate": "Thu, 13 Aug 2026 08:30:57 +0000",
+      "description": "O habitual calendário de lançamentos da Apple poderá sofrer uma alteração enorme com a chegada do iPhone 18. Informações recentes apontam para que apenas os modelos mais caros cheguem ao mercado no outono de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/capsula_tempo_iphone17promax00.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Aplicação oficial do ChatGPT para desktop já está disponível para Linux",
+      "link": "https://pplware.sapo.pt/linux/aplicacao-oficial-do-chatgpt-para-desktop-ja-esta-disponivel-em-linux/",
+      "pubDate": "Thu, 13 Aug 2026 08:00:35 +0000",
+      "description": "Com um impacto grande junto dos utilizadores, a IA tem procurado ganhar cada vez mais adeptos. A formula para o conseguir é tornar-se simples de utilizar e estar presente em todos os sistemas. A&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/chatgpt_linux_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Wed, 12 Aug 2026 21:30:06 +0000",
       "description": "A criação de imagens por inteligência artificial tornou cada vez mais difícil perceber se uma fotografia é real, alterada ou totalmente gerada por computador. A Apple parece estar a preparar uma resposta para este&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/autentic_foto_iphone00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Mercedes admite: botões físicos são melhores, carros têm ecrãs a mais",
-      "link": "https://pplware.sapo.pt/motores/mercedes-admite-botoes-fisicos-sao-melhores-carros-tem-ecras-a-mais/",
-      "pubDate": "Wed, 12 Aug 2026 20:45:30 +0000",
-      "description": "Durante a última década, o automóvel foi-se parecendo cada vez mais com um smartphone sobre rodas. Os botões desapareceram, os comandos migraram para menus e submenus, e os ecrãs aumentaram de dimensão até ocuparem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ecras_mercedes00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "ChatGPT e Gemini alcançam a marca histórica de mil milhões de utilizadores",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/chatgpt-e-gemini-alcancam-a-marca-historica-de-mil-milhoes-de-utilizadores/",
-      "pubDate": "Wed, 12 Aug 2026 19:30:52 +0000",
-      "description": "O mercado da inteligência artificial (IA) generativa atingiu um novo patamar histórico com duas das maiores plataformas do mundo a superarem barreiras impressionantes de adoção global. O ChatGPT da OpenAI e o Gemini da&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/chatgpt_gemini.jpg"
     },
     {
       "sourceId": "autosport",
