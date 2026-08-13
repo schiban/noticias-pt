@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-13T19:55:39.685328+00:00",
+  "updated": "2026-08-13T20:38:29.908467+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogo consome seis casas: 3 bombeiros e uma criança feridos",
+      "link": "https://observador.pt/2026/08/13/incendio-no-reino-unido-consome-pelo-menos-seis-casas-tres-bombeiros-e-uma-crianca-ficaram-feridos/",
+      "pubDate": "Thu, 13 Aug 2026 21:15:29 +0100",
+      "description": "Cerca de 60 meios operacionais e 12 meios terrestres estão no terreno a combater os fogos. Uma estrada foi fechada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13204718/gettyimages-2289820186-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Bolsas. 161 euros para estudantes deslocados sem contrato",
+      "link": "https://observador.pt/2026/08/13/novo-regulamento-de-bolsas-apoio-a-estudantes-deslocados-sobe-para-161-euros-e-dispensa-contrato-de-arrendamento/",
+      "pubDate": "Thu, 13 Aug 2026 21:06:39 +0100",
+      "description": "Novo regulamento de bolsas do Ensino Superior aumenta apoio a deslocados de 92 para 161 euros mensais e elimina a exigência de contrato de arrendamento.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/11090449/45619056.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,74 +52,74 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:225/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13130435/captura-de-ecra-2026-08-13-as-130321.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 19h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2148/",
-      "pubDate": "Thu, 13 Aug 2026 20:08:51 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Detido nigeriano com mais de 1 kg de cocaína em Cabo Verde",
-      "link": "https://observador.pt/2026/08/13/pj-cabo-verdiana-detem-nigeriano-com-mais-de-um-quilo-de-cocaina-no-aeroporto/",
-      "pubDate": "Thu, 13 Aug 2026 19:51:19 +0100",
-      "description": "O suspeito, de 37 anos, transportava 1,113 quilogramas de cocaína dissimulada em 59 cápsulas ocultadas no seu organismo. A droga revelou um \"elevado grau de pureza\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1466:821:nowe:8:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/25174037/30895648.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Aeroportos nacionais registaram 7,1 milhões de passageiros em junho",
+      "link": "https://www.rtp.pt/noticias/pais/aeroportos-nacionais-registaram-71-milhoes-de-passageiros-em-junho_v1759341",
+      "pubDate": "Thu, 13 Aug 2026 22:33:48 +0100",
+      "description": "Em junho, passaram pelos aeroportos nacionais um pouco mais de sete milhões de passageiros.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7e/7e5e1c3192021b3800bcd2269b9bfd1e_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Acidente na Croácia. Um dos portugueses desaparecidos foi encontrado morto",
-      "link": "https://www.rtp.pt/noticias/mundo/acidente-na-croacia-um-dos-portugueses-desaparecidos-foi-encontrado-morto_v1759326",
-      "pubDate": "Thu, 13 Aug 2026 21:38:47 +0100",
-      "description": "Um dos portugueses que estavam desaparecidos na Croácia foi encontrado esta quinta-feira sem vida. As buscas prosseguem para tentar encontrar o último dos quatro amigos. Dois foram resgatados com vida &lt;br /&gt;",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/db/dbe3bf5e267b4d27fd1eb65eeed1672c_N.jpg?"
+      "title": "Filiação fraudulenta trava registo de Flávio Bolsonaro como candidato a presidente",
+      "link": "https://www.rtp.pt/noticias/mundo/filiacao-fraudulenta-trava-registo-de-flavio-bolsonaro-como-candidato-a-presidente_n1759319",
+      "pubDate": "Thu, 13 Aug 2026 22:33:36 +0100",
+      "description": "Os dados Justiça Eleitoral mostram que Flávio foi filiado no Missão na quarta-feira, o que automaticamente cancelou sua filiação ao Partido Liberal na mesma data.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/790cb5e36a2e869a97f4b500475d7d93?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Homicídio em Algés. Adolescente que admitiu matar a mãe tem 15 anos",
-      "link": "https://www.rtp.pt/noticias/pais/homicidio-em-alges-adolescente-que-admitiu-matar-a-mae-tem-15-anos_v1759325",
-      "pubDate": "Thu, 13 Aug 2026 21:35:48 +0100",
-      "description": "Um jovem de 15 anos é suspeito de matar a própria mãe, em Algés. O rapaz confessou o crime às autoridades, admitindo ter estrangulado a mãe depois de uma discussão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e0309ac675b73d6de17a9dcb266ff002?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+      "title": "Volta a Portugal. Adria Péricas venceu a etapa do Gerês",
+      "link": "https://www.rtp.pt/noticias/desporto/volta-a-portugal-adria-pericas-venceu-a-etapa-do-geres_v1759340",
+      "pubDate": "Thu, 13 Aug 2026 22:32:47 +0100",
+      "description": "Adria Péricas venceu a sétima etapa da volta a Portugal. O espanhol foi 1º no Gerês e Alexis Guerin reforçou a liderança da prova.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/1a/1ab1cd8e2521f56880a6c27f73d80dad_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sporting de Braga empata mas apura-se para play-off da Liga Conferência Europa",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-empata-mas-apura-se-para-play-off-da-liga-conferencia-europa_d1759320",
-      "pubDate": "Thu, 13 Aug 2026 21:06:44 +0100",
-      "description": "O Sporting de Braga assegurou hoje a passagem ao play-off da Liga Conferência de futebol, ao empatar fora com o Dínamo Minsk (0-0), em jogo da segunda mão da terceira pré-eliminatória.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/31574b32eee625de88fff2ec733debab?w=350&amp;q=50&amp;rect=0,40,1024,561&amp;auto=format"
+      "title": "Núncio apostólico diz que a Igreja \"quer ser uma verdadeira casa para todos\"",
+      "link": "https://www.rtp.pt/noticias/pais/nuncio-apostolico-diz-que-a-igreja-quer-ser-uma-verdadeira-casa-para-todos_v1759339",
+      "pubDate": "Thu, 13 Aug 2026 22:30:47 +0100",
+      "description": "O núncio apostólico em Portugal diz que a Igreja &quot;quer ser uma verdadeira casa para todos&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/26/26b47a4a90b7f8195cc036b44d6a9c82_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "PCP quer apreciação parlamentar da PSU. \"Há contactos em marcha\"",
-      "link": "https://www.rtp.pt/noticias/politica/pcp-quer-apreciacao-parlamentar-da-psu-ha-contactos-em-marcha_n1759317",
-      "pubDate": "Thu, 13 Aug 2026 20:38:16 +0100",
-      "description": "O pedido de apreciação parlamentar exige o apoio mínimo de 10 deputados. Alfredo Maia diz que “tem havido contactos&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/99cf9851d45b37f4e6de81fbc268c52a?w=350&amp;q=50&amp;rect=0,2,300,164&amp;auto=format"
+      "title": "Europa vive 5ª onda de calor. Continente aqueceu mais do dobro da média global",
+      "link": "https://www.rtp.pt/noticias/mundo/europa-vive-5aonda-de-calor-continente-aqueceu-mais-do-dobro-da-media-global_v1759338",
+      "pubDate": "Thu, 13 Aug 2026 22:29:47 +0100",
+      "description": "Já começou a quinta onda de calor deste verão na Europa. As temperaturas estão a bater de novo recordes em vários países.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/59/598c9600c9b812e8d648c027b377bbe5_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Setúbal: ICNF e autarquia reforçam combate à entrada de javalis",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-setubal-icnf-e-autarquia-reforcam-combate-a-entrada-de-javalis_a1_1759316",
-      "pubDate": "Thu, 13 Aug 2026 20:20:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Trincão estreia-se na Liga saudita com vitória frente a Bruno Lage",
+      "link": "https://maisfutebol.iol.pt/internacional/made-in/video-trincao-estreia-se-na-liga-saudita-com-vitoria-frente-a-bruno-lage",
+      "pubDate": "Thu, 13 Aug 2026 21:26:00 +0100",
+      "description": "Al Ahli venceu por 1-0 no reduto Al Diriyah",
+      "thumbnail": "https://img.iol.pt/image/id/6a7e26e2d34e511da0b333cf/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Morreu Emílio Macedo da Silva, antigo presidente do V. Guimarães",
+      "link": "https://maisfutebol.iol.pt/vitoria-guimaraes/liga/morreu-emilio-macedo-da-silva-antigo-presidente-do-v-guimaraes",
+      "pubDate": "Thu, 13 Aug 2026 21:00:00 +0100",
+      "description": "Dirigente dos minhotos, entre 2007 e 2012, tinha 73 anos",
+      "thumbnail": "https://img.iol.pt/image/id/6a7e220fd34ed0733ba7fc48/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Thu, 13 Aug 2026 19:42:00 +0100",
       "description": "Capitão da Seleção Nacional deu nas vistas na chegada à Arábia Saudita",
       "thumbnail": "https://img.iol.pt/image/id/6a7e091bd34ed0733ba7fc0a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rui Vitória arranca época no sábado: «Estamos entusiasmados»",
-      "link": "https://maisfutebol.iol.pt/made-in/rui-vitoria/rui-vitoria-arranca-epoca-no-sabado-estamos-entusiasmados",
-      "pubDate": "Thu, 13 Aug 2026 19:18:00 +0100",
-      "description": "Treinador português vai reencontrar Haris Seferovic, avançado suíço que orientou no Benfica",
-      "thumbnail": "https://img.iol.pt/image/id/6a4f77b4d34e511da0b2c1fb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FOTO: depois de «dar o nó», Ronaldo pinta o cabelo... de ruivo",
-      "link": "https://maisfutebol.iol.pt/cristiano-ronaldo/ronaldo/foto-depois-de-dar-o-no-ronaldo-pinta-o-cabelo-de-ruivo",
-      "pubDate": "Thu, 13 Aug 2026 18:46:00 +0100",
-      "description": "Capitão da Seleção chegou esta quinta-feira ao estágio do Al Nassr e chamou às atenções pelo novo visual",
-      "thumbnail": "https://img.iol.pt/image/id/6a7dffb2d34ed0733ba7fbeb/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Buscas por português desaparecido na Croácia prosseguem sexta-feira",
-      "link": "https://www.noticiasaominuto.com/mundo/3036272/buscas-por-portugues-desaparecido-na-croacia-prosseguem-sexta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 20:54:43",
+      "title": "BADEA financia Grupo Omatapalo com 35 milhões para projetos em Angola",
+      "link": "https://www.noticiasaominuto.com/economia/3036299/badea-financia-grupo-omatapalo-com-35-milhoes-para-projetos-em-angola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 21:27:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e2105a30be.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_687546491f1b8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lion's Corner inaugurado pelo Sporting e há pormenor que salta à vista",
-      "link": "https://www.noticiasaominuto.com/desporto/3036278/lions-corner-inaugurado-pelo-sporting-e-ha-pormenor-que-salta-a-vista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 20:42:29",
+      "title": "Oficial: Colega de Messi entre os reforços anunciados pelo Nacional",
+      "link": "https://www.noticiasaominuto.com/desporto/3036298/oficial-colega-de-messi-entre-os-reforcos-anunciados-pelo-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 21:25:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e1a0671252.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjAwLCJjcm9wSGVpZ2h0Ijo5MDAsImNyb3BYIjowLCJjcm9wWSI6NTQyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMTEzLCJjcm9wSGVpZ2h0IjoxOTc4LCJjcm9wWCI6NzYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e283c0bbc8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Filipe Coelho segue com Craiova para o playoff, Sá Pinto cai à Conference",
-      "link": "https://www.noticiasaominuto.com/desporto/3036273/filipe-coelho-segue-com-craiova-para-o-playoff-sa-pinto-cai-a-conference#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 20:37:11",
+      "title": "O que é isto? Cristiano Ronaldo voltou de férias com visual surpreendente",
+      "link": "https://www.noticiasaominuto.com/desporto/3036293/o-que-e-isto-cristiano-ronaldo-voltou-de-ferias-com-visual-surpreendente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 21:19:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e1c8a8d9a3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE5N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk1LCJjcm9wWCI6MTAyMCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e26a7a49c6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Linha SNS 24 não registou impacto associado à observação do eclipse solar",
-      "link": "https://www.noticiasaominuto.com/pais/3036277/linha-sns-24-nao-registou-impacto-associado-a-observacao-do-eclipse-solar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 20:32:31",
+      "title": "Segundo prémio do EuroDreams sai lá fora. E o que vem para Portugal?",
+      "link": "https://www.noticiasaominuto.com/pais/3036296/segundo-premio-do-eurodreams-sai-la-fora-e-o-que-vem-para-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 21:19:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/30261518.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjk1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_686c10914ddf6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNDB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Crans-Montana. Francesca teve alta após 50 cirurgias e 224 dias internada",
-      "link": "https://www.noticiasaominuto.com/mundo/3036264/crans-montana-francesca-teve-alta-apos-50-cirurgias-e-224-dias-internada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-13 20:26:20",
+      "title": "3 minutos por dia? O que fazer para reduzir risco de 13 tipos de cancro",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036248/3-minutos-por-dia-o-que-fazer-para-reduzir-risco-de-13-tipos-de-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-13 21:15:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e14f7998f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjQ5M319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e09bfd2ad9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM0LCJjcm9wSGVpZ2h0IjoxNDgyLCJjcm9wWCI6NDM3LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Elétricos já valem 26% do mercado português. Tesla domina as vendas em 2026",
+      "link": "https://pplware.sapo.pt/motores/eletricos-ja-valem-26-do-mercado-portugues-tesla-domina-as-vendas-em-2026/",
+      "pubDate": "Thu, 13 Aug 2026 20:10:49 +0000",
+      "description": "Os carros elétricos continuam a ganhar espaço em Portugal. Entre janeiro e julho de 2026 foram matriculados 40.309 ligeiros de passageiros 100% elétricos, mais 40,7% do que no mesmo período de 2025. Segundo os&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/tesla_mais_vendido00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Thu, 13 Aug 2026 17:30:19 +0000",
       "description": "A União Europeia começou esta quinta-feira a aplicar um novo conjunto de regras sobre o design, produção e tratamento dos veículos em fim de vida, que vai obrigar os fabricantes europeus a incorporar pelo&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/reciclrar_plastico00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Casa inteligente: aproveite os descontos e torne o seu dia a dia mais simples",
-      "link": "https://pplware.sapo.pt/gadgets/casa-inteligente-aproveite-os-descontos-e-torne-o-seu-dia-a-dia-mais-simples/",
-      "pubDate": "Thu, 13 Aug 2026 17:00:41 +0000",
-      "description": "Transformar uma casa numa casa inteligente pode tornar o dia a dia mais simples, confortável e eficiente. Com descontos em cada gadget, o processo de automatizar diferentes espaços pode ser começado sem fazer um&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/smart-home-gadget-dispositivo.jpg"
     },
     {
       "sourceId": "autosport",
