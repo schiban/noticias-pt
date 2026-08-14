@@ -1,55 +1,85 @@
 {
-  "updated": "2026-08-14T01:38:24.430517+00:00",
+  "updated": "2026-08-14T04:04:03.971010+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
+      "title": "Porque é que os ataques da Rússia são cada vez mais mortí...",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/porque-e-que-os-ataques-da-russia-sao-cada-vez-mais-mortiferos/",
+      "pubDate": "Fri, 14 Aug 2026 05:02:19 +0100",
+      "description": "A Rússia tem conseguido fazer mais ataques, e mais destrutivos, numa altura em que as defesas antiaéreas ucranianas estão num nível crítico. Uma conversa com o major-general João Vieira Borges.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. PSD abre período de rentrées partidárias",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2370/",
+      "pubDate": "Fri, 14 Aug 2026 04:15:35 +0100",
+      "description": "A iniciativa completa 50 anos e volta a contar com a presença de Luís Montenegro. Ainda, subiu para 281 o número de mortos na sequência do sismo na Colômbia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Sismo Colômbia. Subiu para 281 o número de mortos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2405/",
+      "pubDate": "Fri, 14 Aug 2026 03:17:47 +0100",
+      "description": "É o que dá conta o último balanço feito pelo presidente Colombiano. Ainda, o vice-presidente norte-americano acusa o Irão de não honrar compromissos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Prosseguem as buscas por português perdido na Croácia",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2379/",
       "pubDate": "Fri, 14 Aug 2026 02:16:30 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "As autoridades locais encontraram hoje um dos elementos sem vida. Ainda, começa esta sexta-feira a reentré política do PSD em Quarteira, no Algarve.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
+      "title": "1h. Liga Europa. Benfica empatou com o Hearts",
       "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2352/",
       "pubDate": "Fri, 14 Aug 2026 01:13:43 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Ainda assim os encarnados garantem a presença no playoff de acesso à Liga Europa. Ainda, prosseguem esta sexta-feira as buscas pelo quarto português desaparecido na Croácia.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Homicídio. Jovem passeou com irmã antes de chamar a polícia",
-      "link": "https://observador.pt/especiais/discussoes-gritos-e-irmaos-a-passar-de-mao-dada-o-que-aconteceu-antes-de-um-jovem-de-15-anos-dizer-a-policia-que-tinha-matado-a-mae/",
-      "pubDate": "Fri, 14 Aug 2026 00:53:24 +0100",
-      "description": "Jovem de 15 anos é suspeito de ter matado a mãe no Dafundo. Irmã de quatro anos encontrava-se em casa quando se deu o crime. Foi o próprio suspeito quem alertou, várias horas depois, as autoridades.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2245:nowe:0:288/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14001709/jporfirio-filho-15-anos-mata-mae-alges-13-08-2026-01-19-2.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Volta a Portugal em bicicleta liga hoje Melgaço a Fafe",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-volta-a-portugal-em-bicicleta-liga-hoje-melgaco-a-fafe_a1_1759376",
+      "pubDate": "Fri, 14 Aug 2026 05:14:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Opositores à passagem na Mata da Albergaria deixam alerta",
-      "link": "https://observador.pt/2026/08/14/opositores-a-passagem-na-mata-da-albergaria-alertam-para-precedente/",
-      "pubDate": "Fri, 14 Aug 2026 00:39:58 +0100",
-      "description": "Grupo informal de ativistas e associações como a Quercus contestam a passagem da 87.ª Volta por área classificada pela UNESCO e pelo Conselho da Europa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/22082636/parque-nacional-de-peneda-geres-25406921253.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h GNR reforça fiscalização nas estradas durante fim-de-semana",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-gnr-reforca-fiscalizacao-nas-estradas-durante-fim-de-semana_a1_1759374",
+      "pubDate": "Fri, 14 Aug 2026 04:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Reino Unido regista dia mais quente do ano",
-      "link": "https://observador.pt/2026/08/14/reino-unido-regista-dia-mais-quente-do-ano-com-europa-ocidental-a-sofrer-com-calor/",
-      "pubDate": "Fri, 14 Aug 2026 00:37:13 +0100",
-      "description": "O Serviço Meteorológico do Reino Unido divulgou que a temperatura de 38,1°C no oeste de Londres foi um décimo de grau superior ao recorde anterior. O país está a viver a quinta vaga de calor do ano.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/24180059/47344269.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Sismos Venezuela. Bispo do Funchal visita comunidade portuguesa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismos-venezuela-bispo-do-funchal-visita-comunidade-portuguesa_a1_1759371",
+      "pubDate": "Fri, 14 Aug 2026 03:41:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -69,36 +99,6 @@
       "link": "https://www.rtp.pt/noticias/economia/trump-anuncia-taxas-de-100-sobre-importacao-de-drones_n1759365",
       "pubDate": "Fri, 14 Aug 2026 01:46:45 +0100",
       "description": "O Presidente norte-americano, Donald Trump, assinou uma proclamação presidencial aplicando direitos aduaneiros, que podem chegar 100%, a importações de drones e componentes para estas aeronaves não-tripuladas, fabricadas sobretudo na China.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Porta-aviões ruma ao Médio Oriente após relatos de problemas no USS Lincoln",
-      "link": "https://www.rtp.pt/noticias/mundo/porta-avioes-ruma-ao-medio-oriente-apos-relatos-de-problemas-no-uss-lincoln_n1759357",
-      "pubDate": "Fri, 14 Aug 2026 01:45:36 +0100",
-      "description": "O porta-aviões norte-americano USS George Washington, a operar no Pacífico, zarpou hoje para o Médio Oriente, enquanto surgem relatos de problemas de saúde mental e de mantimentos a bordo do USS Abraham Lincoln, em missão há nove meses.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Fisco francês alvo de ciberataque que permitiu extração de dados pessoais de contribuintes",
-      "link": "https://www.rtp.pt/noticias/mundo/fisco-frances-alvo-de-ciberataque-que-permitiu-extracao-de-dados-pessoais-de-contribuintes_n1759358",
-      "pubDate": "Fri, 14 Aug 2026 01:45:00 +0100",
-      "description": "O sistema de informação da administração fiscal francesa foi alvo, no final de junho, de um &quot;acesso ilícito&quot; que permitiu acesso e extração de dados de particulares e profissionais, revelou o Ministério da Economia.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Confrontos entre Huthis e exército do Iémen intensificam-se",
-      "link": "https://www.rtp.pt/noticias/mundo/confrontos-entre-huthis-e-exercito-do-iemen-intensificam-se_n1759359",
-      "pubDate": "Fri, 14 Aug 2026 01:44:44 +0100",
-      "description": "Os confrontos entre os rebeldes Huthis, apoiados pelo Irão, e as forças governamentais no Iémen intensificaram-se desde a madrugada de quinta-feira, aumentando receios de que a guerra civil possa abrir uma nova frente no Médio Oriente.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
