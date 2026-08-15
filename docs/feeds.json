@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-15T17:16:30.752840+00:00",
+  "updated": "2026-08-15T17:44:27.001906+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Índia anuncia plano para formar 10 milhões de jovens em IA",
+      "link": "https://observador.pt/2026/08/15/india-anuncia-plano-para-formar-10-milhoes-de-jovens-em-ia/",
+      "pubDate": "Sat, 15 Aug 2026 18:29:05 +0100",
+      "description": "Primeiro-ministro indiano quer dar formação em IA a jovens no espaço de um ano. Índia quer ser \"polo de inovação\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15174615/47613189.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Volta a Portugal. Guérin vence na Senhora da Graça",
+      "link": "https://observador.pt/2026/08/15/guerin-vence-na-senhora-da-graca-e-encaminha-se-para-o-triunfo-final-na-volta-a-portugal/",
+      "pubDate": "Sat, 15 Aug 2026 18:14:57 +0100",
+      "description": "O ciclista francês Alexis Guérin triunfou isolado na chegada ao alto da Senhora da Graça, ficando assim mais perto da vitória na prova, que está a ser marcada pela morte de Finlay Tarling.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15175239/47615496.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "18h. Sporting anuncia Irankunda como reforço para o ataque",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2121/",
+      "pubDate": "Sat, 15 Aug 2026 18:14:33 +0100",
+      "description": "Atleta assinou um contrato válido até 2031 com uma cláusula de rescisão de 80 milhões. Ainda, Polícia marroquina já intercetou mais de 100 migrantes que tentavam atravessar ilegalmente para Ceuta.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29140305/237a1920.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Centenas despedem-se de Bonnie Tyler no País de Gales",
-      "link": "https://observador.pt/2026/08/15/centenas-despedem-se-de-bonnie-tyler-no-pais-de-gales/",
-      "pubDate": "Sat, 15 Aug 2026 17:56:45 +0100",
-      "description": "Centenas de fãs reuniram-se na localidade de Mumbles, no País de Gales, para ver passar o caixão de Bonnie Tyler, que morreu no Algarve em julho, numa última despedida.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:188/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15175423/bonnie-tyler.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alverca e Estrela da Amadora empatam a dois golos",
-      "link": "https://observador.pt/2026/08/15/alverca-e-estrela-da-amadora-empatam-a-dois-golos/",
-      "pubDate": "Sat, 15 Aug 2026 17:44:00 +0100",
-      "description": "Jogo entre Alverca e Estrela da Amadora acabou 2-2. Equipas estão provisoriamente na 15° e na 6° posição no campeonato, respetivamente.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15173812/47615302.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PR nega que referendo seja para regresso de Embaló",
-      "link": "https://observador.pt/2026/08/15/presidente-de-transicao-nega-que-referendo-seja-para-o-regresso-de-sissoco-embalo/",
-      "pubDate": "Sat, 15 Aug 2026 17:21:53 +0100",
-      "description": "O Presidente da República de Transição da Guiné-Bissau apelou aos guineenses para que votem no referendo sobre a nova Constituição, que disse não ser um meio para garantir o regresso de Embaló.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15171219/27549598.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Alexis Guérin vence a nona etapa da Volta a Portugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-alexis-guerin-vence-a-nona-etapa-da-volta-a-portugal_a1_1759706",
+      "pubDate": "Sat, 15 Aug 2026 19:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,22 +102,32 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9bac0eb34d7e71ac072cea255b4d4df6?w=350&amp;q=50&amp;rect=0,175,2937,1610&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Alargamento do passe ferroviário em Lisboa e no Porto é \"populista\": há \"problemas de oferta\"",
-      "link": "https://www.rtp.pt/noticias/pais/alargamento-do-passe-ferroviario-em-lisboa-e-no-porto-e-populista-ha-problemas-de-oferta_n1759655",
-      "pubDate": "Sat, 15 Aug 2026 18:34:28 +0100",
-      "description": "Fernando Nunes da Silva, especialista em transportes e antigo vereador, lamenta que o alargamento do passe ferroviário verde nas áreas metropolitanas de Lisboa e do Porto não seja acompanhado de um aumento de oferta. Receia ainda que haja impacto no Navegante e no Andante.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/413c60a96d35b2597b8f4ac60c664ec4?w=350&amp;q=50&amp;rect=0,38,5333,2924&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Escândalo no Championship: golo marcado com a mão é validado",
+      "link": "https://maisfutebol.iol.pt/internacional/championship/escandalo-no-championship-golo-marcado-com-a-mao-e-validado",
+      "pubDate": "Sat, 15 Aug 2026 18:41:31 +0100",
+      "description": "Aune Heggebo foi o protagonista do lance polémico no Norwich-West Brom",
+      "thumbnail": "https://img.iol.pt/image/id/6a80a3dbd34ed0733ba8006c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Djed Spence deixa o Tottenham para reforçar o Inter Milão",
+      "title": "Pedro Neto titular na vitória do Chelsea no último teste da pré-temporada",
+      "link": "https://maisfutebol.iol.pt/internacional/chelsea/pedro-neto-titular-na-vitoria-do-chelsea-no-ultimo-teste-da-pre-temporada",
+      "pubDate": "Sat, 15 Aug 2026 18:35:00 +0100",
+      "description": "Blues venceram por 3-1 o Real Sociedad, em jogo marcado por assobios ao ex-Benfica Enzo Fernández",
+      "thumbnail": "https://img.iol.pt/image/id/6a809e72d34ed0733ba80063/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Djed Spence deixa Tottenham para reforçar Inter Milão",
       "link": "https://maisfutebol.iol.pt/mercado/transferencias/oficial-djed-spence-deixa-o-tottenham-para-reforcar-o-inter-milao",
-      "pubDate": "Sat, 15 Aug 2026 18:09:19 +0100",
+      "pubDate": "Sat, 15 Aug 2026 18:09:00 +0100",
       "description": "Defesa inglês custa 35 milhões de euros ao campeão italiano",
       "thumbnail": "https://img.iol.pt/image/id/6a809ce4d34ed0733ba8005e/250"
     },
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 18:00:00 +0100",
       "description": "Internacional português assina um golo e duas assistências na vitória do Milan por 4-2 sobre os red devils",
       "thumbnail": "https://img.iol.pt/image/id/6a809740d34e511da0b33813/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Pepa: «Amargo de boca por não termos conseguido mais»",
-      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/pepa-amargo-de-boca-por-nao-termos-conseguido-mais",
-      "pubDate": "Sat, 15 Aug 2026 17:56:42 +0100",
-      "description": "Técnico considera que a igualdade em Alverca se aceita",
-      "thumbnail": "https://img.iol.pt/image/id/6a46f64cd34e28842c85dfe1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "António Silva assistiu ex-FC Porto na derrota do Bournemouth com o Mainz",
-      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/antonio-silva-assistiu-ex-fc-porto-na-derrota-do-bournemouth-com-o-mainz",
-      "pubDate": "Sat, 15 Aug 2026 17:51:00 +0100",
-      "description": "Evanilson marcou o único golo dos «cherrie» na derrota por 2-1 no último jogo da pré-temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a809626d34ed0733ba80054/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Volta: Guérin vence na Senhora da Graça e encaminha-se para triunfo final",
-      "link": "https://www.noticiasaominuto.com/desporto/3037080/volta-guerin-vence-na-senhora-da-graca-e-encaminha-se-para-triunfo-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:08:16",
+      "title": "Incêndio no Montesinho combatido por mais de 100 operacionais",
+      "link": "https://www.noticiasaominuto.com/pais/3037088/incendio-no-montesinho-combatido-por-mais-de-100-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:39:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47615496.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 85 milhões de pessoas em alerta para nova vaga de calor nos EUA",
-      "link": "https://www.noticiasaominuto.com/mundo/3037073/mais-de-85-milhoes-de-pessoas-em-alerta-para-nova-vaga-de-calor-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:07:06",
+      "title": "Rui Borges assiste ao triunfo magro do Sporting B ante o Desp. Chaves",
+      "link": "https://www.noticiasaominuto.com/desporto/3037087/rui-borges-assiste-ao-triunfo-magro-do-sporting-b-ante-o-desp-chaves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:36:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809cab40712.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a3776fd8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjIwLCJjcm9wSGVpZ2h0Ijo5MTEsImNyb3BYIjowLCJjcm9wWSI6MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjA4LCJjcm9wSGVpZ2h0IjoxMDgxLCJjcm9wWCI6MTI1LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Joga-se o Académico-Santa Clara, antes do Rio Ave-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:04:49",
+      "title": "Justiça francesa investiga roubo de dados de 678.000 contribuintes",
+      "link": "https://www.noticiasaominuto.com/tech/3037086/justica-francesa-investiga-roubo-de-dados-de-678000-contribuintes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:30:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809c0195958.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/22589826.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fãs fazem fila em Gales para se despedirem de Bonnie Tyler. As imagens",
-      "link": "https://www.noticiasaominuto.com/fama/3037079/fas-fazem-fila-em-gales-para-se-despedirem-de-bonnie-tyler-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:00:42",
+      "title": "O lance da expulsão que retira Chiquinho do jogo frente ao Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3037082/o-lance-da-expulsao-que-retira-chiquinho-do-jogo-frente-ao-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:25:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809a6dcebd2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a1048094d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jovem de 18 anos encontra tesouro (de 9 milhões) durante obras na Bélgica",
-      "link": "https://www.noticiasaominuto.com/mundo/3037069/jovem-de-18-anos-encontra-tesouro-de-9-milhoes-durante-obras-na-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:56:04",
+      "title": "Jovem de 15 anos esfaqueado em autocarro em Lisboa. Teve de ser operado",
+      "link": "https://www.noticiasaominuto.com/pais/3037084/jovem-de-15-anos-esfaqueado-em-autocarro-em-lisboa-teve-de-ser-operado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:24:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8097eb1502a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_61b8aca887c4a.webp"
     },
     {
       "sourceId": "pplware",
