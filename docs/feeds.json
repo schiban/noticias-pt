@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-15T19:18:50.961973+00:00",
+  "updated": "2026-08-15T19:43:36.600843+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 20h",
+      "title": "Quatro mulheres detidas após assalto a loja em Guimarães",
+      "link": "https://observador.pt/2026/08/15/quatro-mulheres-detidas-apos-assalto-a-loja-em-guimaraes/",
+      "pubDate": "Sat, 15 Aug 2026 20:15:07 +0100",
+      "description": "PSP deteve quatro mulheres na sequência de um assalto a uma loja em Guimarães, que envolveu também uma agressão a uma funcionária. Material furtado foi recuperado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/27013943/44775520.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20h. Irão diz ter acordado com Omã rota de navegação segura",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2027/",
       "pubDate": "Sat, 15 Aug 2026 20:14:36 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Porta-voz do ministério dos Negócios Estrangeiros do Irão afirma que entendimento é um acordo independente entre os dois países. Ainda, Volta a Portugal voltou à estrada após acidente de ontem.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -25,7 +35,7 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Dragões sem Alan Varela, mas com Nehuen e Gül",
+      "title": "Dragões sem Varela, mas com Nehuen e Gül (0-0, 1')",
       "link": "https://observador.pt/liveblogs/rio-ave-fc-porto-dragoes-visitam-arcos-sem-alan-varela-mas-com-nehuen-perez-e-deniz-gul-no-onze/",
       "pubDate": "Sat, 15 Aug 2026 19:34:27 +0100",
       "description": "Depois de entrar com o pé direito na temporada e no Campeonato, o FC Porto visita o Rio Ave à procura de manter distâncias para Sporting e Benfica. Farioli obrigado a mexer. Siga aqui em direto.",
@@ -42,14 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2588:1455:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15192330/gettyimages-2289586645.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "19h. Mais de 100 operacionais combatem incêndio em Bragança",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2149/",
-      "pubDate": "Sat, 15 Aug 2026 19:15:19 +0100",
-      "description": "Incêndio deflagrou por volta das 4 e meia da manhã, havendo dificuldades no combate às chamas. Ainda, GNR alerta para constrangimentos de trânsito na estrada, sobretudo na zona do Algarve.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Família quer guarda das crianças. Requerimento para o tribunal está a ser preparado",
+      "link": "https://www.rtp.pt/noticias/pais/familia-quer-guarda-das-criancas-requerimento-para-o-tribunal-esta-a-ser-preparado_v1759716",
+      "pubDate": "Sat, 15 Aug 2026 21:27:47 +0100",
+      "description": "A família do jovem que matou a mãe em Algés vai pedir a guarda da rapaz e da irmã de 4 anos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4e/4e6f969d524b0884125ca02677936451_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Acidente na Volta a Portugal. \"Toda a organização está muito abatida\"",
+      "link": "https://www.rtp.pt/noticias/desporto/acidente-na-volta-a-portugal-toda-a-organizacao-esta-muito-abatida_v1759715",
+      "pubDate": "Sat, 15 Aug 2026 21:24:47 +0100",
+      "description": "O dia de sábado na Volta ficou marcado por várias homenagens ao jovem ciclista que morreu na sexta-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/db/db8d584d74a463eb3ffd6358362dfd34_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/selecao-nacional/selecao-feminina-de-basquetebol-perde-segundo-jogo-de-preparacao-com-turquia_d1759712",
       "pubDate": "Sat, 15 Aug 2026 20:46:47 +0100",
       "description": "A seleção portuguesa feminina de basquetebol voltou a perder hoje frente à congénere turca, por 56-44, depois da derrota na véspera (63-51), em jogos de preparação para a segunda ronda de qualificação para o EuroBasket feminino 2027.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Félix da Costa no pódio em Londres critica “estratégias feias” da Porsche",
-      "link": "https://www.rtp.pt/noticias/motores/felix-da-costa-no-podio-em-londres-critica-estrategias-feias-da-porsche_d1759711",
-      "pubDate": "Sat, 15 Aug 2026 20:46:08 +0100",
-      "description": "O piloto português António Félix da Costa (Jaguar) terminou hoje no terceiro lugar a penúltima corrida do Mundial de Fórmula E, em Londres, ficando arredado da luta pelo título.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad00c71a333412adc72cf1074160e532?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "II Liga: Sporting B vence Desportivo de Chaves com golo ‘solitário` de Atanásio Cunha",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-sporting-b-vence-desportivo-de-chaves-com-golo-solitario-de-atanasio-cunha_d1759710",
-      "pubDate": "Sat, 15 Aug 2026 20:42:28 +0100",
-      "description": "O Sporting B somou hoje a segunda vitória noutras tantas jornadas da II Liga portuguesa de futebol, após bater o Desportivo de Chaves (1-0), em Alcochete, com um golo &#039;solitário&#039; de Atanásio Cunha.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Casa Yala reabre hoje após ter sido fechada devido a queixas de ruído",
+      "link": "https://www.noticiasaominuto.com/pais/3037109/casa-yala-reabre-hoje-apos-ter-sido-fechada-devido-a-queixas-de-ruido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:37:56",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a1a9c592112e.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "RTVE e Efe expulsas de Marrocos. Governo espanhol procura solução",
+      "link": "https://www.noticiasaominuto.com/mundo/3037106/rtve-e-efe-expulsas-de-marrocos-governo-espanhol-procura-solucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:29:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80be14e28df.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Santa Clara vence em Viseu, antes do Rio Ave-FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:29:36",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_630bc573648a4.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Gonçalo Paciência de penálti dá a vitória ao Santa Clara em Viseu",
+      "link": "https://www.noticiasaominuto.com/desporto/3037108/goncalo-paciencia-de-penalti-da-a-vitoria-ao-santa-clara-em-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:27:06",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47615775.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Polónia inaugura a maior estátua da Virgem Maria na Europa. E há imagens",
       "link": "https://www.noticiasaominuto.com/mundo/3037099/polonia-inaugura-a-maior-estatua-da-virgem-maria-na-europa-e-ha-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 20:07:53",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ad8fcc894.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTEsImNyb3BZIjo5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo3OTUsImNyb3BZIjowfX0="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Família francesa resgatada após 16h à deriva em mota de água na Tailândia",
-      "link": "https://www.noticiasaominuto.com/mundo/3037095/familia-francesa-resgatada-apos-16h-a-deriva-em-mota-de-agua-na-tailandia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:05:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a86734d21.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Quatro mulheres detidas após assalto a loja em Guimarães na sexta-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3037101/quatro-mulheres-detidas-apos-assalto-a-loja-em-guimaraes-na-sexta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 19:58:29",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd21a4d20ee.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMjl9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Eleições da Zâmbia: UE alerta para restrição das liberdades fundamentais",
-      "link": "https://www.noticiasaominuto.com/mundo/3037098/eleicoes-da-zambia-ue-alerta-para-restricao-das-liberdades-fundamentais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 19:39:45",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80b27348acf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODQsImNyb3BIZWlnaHQiOjY4MywiY3JvcFgiOjMzNSwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Farioli promove muitas novidades. Os onzes para o Rio Ave-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3037093/farioli-forcado-a-mexer-no-ataque-os-onzes-para-o-rio-ave-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 19:25:12",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6208862c693.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pode beber a água que ficou vários dias dentro do carro?",
+      "link": "https://pplware.sapo.pt/ciencia/pode-beber-a-agua-que-ficou-varios-dias-dentro-do-carro/",
+      "pubDate": "Sat, 15 Aug 2026 19:30:52 +0000",
+      "description": "Esta é uma dúvida que não será só de uma pessoa. Até porque é normal, cada vez mais, as pessoas deixarem água nas garrafas dentro dos carros. Mas&#8230; será que se pode beber a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/agua_carro00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 17:00:57 +0000",
       "description": "A Digi continua a ganhar terreno no mercado português. Os resultados financeiros referentes ao segundo trimestre de 2026 mostram um crescimento significativo do número de clientes, sobretudo nos serviços móveis e de Internet fixa.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/digi_fibra00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dica: como acabar de vez com os áudios acidentais na app Mensagens do iOS 27",
-      "link": "https://pplware.sapo.pt/truques-dicas/dica-como-acabar-de-vez-com-os-audios-acidentais-na-app-mensagens-do-ios-27/",
-      "pubDate": "Sat, 15 Aug 2026 16:00:47 +0000",
-      "description": "A Apple introduziu uma funcionalidade muito aguardada no iOS 27 que permite remover os botões de gravação e ditado da caixa de texto da aplicação Mensagens. Esta alteração surge após várias reclamações de utilizadores&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/audio_iphone.webp"
     },
     {
       "sourceId": "autosport",
