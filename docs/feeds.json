@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-15T13:50:59.682380+00:00",
+  "updated": "2026-08-15T14:17:52.912705+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Acidente de moto provoca um morto em Pedrógão Grande",
+      "link": "https://observador.pt/2026/08/15/acidente-de-motociclo-provoca-um-morto-em-pedrogao-grande-leiria/",
+      "pubDate": "Sat, 15 Aug 2026 15:04:56 +0100",
+      "description": "De acordo com o Comando Distrital de Operações de Socorro (CDOS) de Leiria, o acidente ocorreu às 11h31, na Tojeira, localidade que é atravessada pela Estrada Nacional (EN) 2.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16154626/dventura-inem-7-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -40,16 +50,6 @@
       "pubDate": "Sat, 15 Aug 2026 14:25:57 +0100",
       "description": "O lar Bom Samaritano esteve encerrado para obras, de agosto de 2025 a maio deste ano, feitas para tornar a infraestrutura novamente apta para acolher idosos que estavam alojados noutros lares.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/16140731/45491089.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 14h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2445/",
-      "pubDate": "Sat, 15 Aug 2026 14:14:56 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
@@ -105,51 +105,51 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Benfica: Dedic a caminho do Newcastle",
+      "link": "https://maisfutebol.iol.pt/benfica/dedic/benfica-dedic-a-caminho-do-newcastle",
+      "pubDate": "Sat, 15 Aug 2026 15:09:00 +0100",
+      "description": "Encarnados preparam-se para encaixar cerca de 35 milhões com o lateral bósnio",
+      "thumbnail": "https://img.iol.pt/image/id/6a63a567d34e511da0b2f9b0/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Carlos Vicens: «Empate na primeira jornada? Temos de dar uma resposta ambiciosa»",
+      "link": "https://maisfutebol.iol.pt/sp-braga/carlos-vicens/carlos-vicens-empate-na-primeira-jornada-temos-de-dar-uma-resposta-ambiciosa",
+      "pubDate": "Sat, 15 Aug 2026 15:05:32 +0100",
+      "description": "Treinador do Sp. Braga antevê a receção ao Gil Vicente, relativo à segunda jornada da Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6a7343c7d34ed0733ba7e4a9/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Luís Pinto: «Muito respeito pelo Sp. Braga, mas queremos vencer»",
+      "link": "https://maisfutebol.iol.pt/gil-vicente/liga/luis-pinto-muito-respeito-pelo-sp-braga-mas-queremos-vencer",
+      "pubDate": "Sat, 15 Aug 2026 14:49:24 +0100",
+      "description": "Treinador do Gil Vicente antevê a deslocação ao reduto dos minhotos",
+      "thumbnail": "https://img.iol.pt/image/id/69a36ce3d34edcee7c61536a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting: Rui Borges dá dois dias de folga ao plantel",
+      "link": "https://maisfutebol.iol.pt/sporting/rui-borges/sporting-rui-borges-da-dois-dias-de-folga-ao-plantel",
+      "pubDate": "Sat, 15 Aug 2026 14:49:00 +0100",
+      "description": "Irankunda já integrou os trabalhos",
+      "thumbnail": "https://img.iol.pt/image/id/6a71f2d4d34e511da0b318f1/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "Basquetebol: base norte-americano reforça o Sporting",
       "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-base-norte-americano-reforca-o-sporting",
       "pubDate": "Sat, 15 Aug 2026 14:43:00 +0100",
       "description": "Gabe Kalscheur chega proveniente do Club Ourense Baloncesto",
       "thumbnail": "https://img.iol.pt/image/id/6a8067c8d34e511da0b337a4/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Basquetebol: Aleksander Dziewa renova com o Benfica até 2028",
-      "link": "https://maisfutebol.iol.pt/basquetebol/basquetebol-benfica/basquetebol-aleksander-dziewa-renova-com-o-benfica-ate-2028",
-      "pubDate": "Sat, 15 Aug 2026 14:22:39 +0100",
-      "description": "Poste polaco aponta à reconquista do campeonato como o maior objetivo para a temporada 2026/2027",
-      "thumbnail": "https://img.iol.pt/image/id/6a80678ed34ed0733ba7fff1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Carvalhal: «Marítimo? Tem vulnerabilidades que vamos tentar aproveitar ao máximo»",
-      "link": "https://maisfutebol.iol.pt/famalicao/liga/carvalhal-maritimo-tem-vulnerabilidades-que-vamos-tentar-aproveitar-ao-maximo",
-      "pubDate": "Sat, 15 Aug 2026 14:02:00 +0100",
-      "description": "Treinador do Famalicão destaca coesão do plantel e apela ao apoio dos adeptos na estreia em casa",
-      "thumbnail": "https://img.iol.pt/image/id/6a53cd43d34ef04b4f3f605d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Nestory Irankunda é reforço do Sporting",
-      "link": "https://maisfutebol.iol.pt/sporting/liga/oficial-nestory-irankunda-e-reforco-do-sporting",
-      "pubDate": "Sat, 15 Aug 2026 13:45:00 +0100",
-      "description": "Avançado australiano assina contrato até 2031",
-      "thumbnail": "https://img.iol.pt/image/id/6a806090d34ed0733ba7ffe0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Europeus de Atletismo: Joana Pontes bate recorde nacional na maratona em marcha",
-      "link": "https://maisfutebol.iol.pt/atletismo/europeus-de-atletismo/europeus-de-atletismo-joana-pontes-bate-recorde-nacional-na-maratona-em-marcha",
-      "pubDate": "Sat, 15 Aug 2026 13:35:00 +0100",
-      "description": "Marchadora fechou o top-10 da prova com o tempo de 3:41.36",
-      "thumbnail": "https://img.iol.pt/image/id/6a8058efd34e511da0b3377f/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Já há onzes no Ribatejo antes do Rio Ave-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:36:28",
+      "title": "Marrocos interceta 111 migrantes que tentavam chegar à fronteira de Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3037035/marrocos-interceta-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:16:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c0282d12152.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8073aa61643.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bloco de Esquerda questiona Governo sobre preço das fragatas",
-      "link": "https://www.noticiasaominuto.com/pais/3037027/bloco-de-esquerda-questiona-governo-sobre-preco-das-fragatas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:34:44",
+      "title": "Tiramisu de limão: A versão mais fresca da clássica sobremesa italiana",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036325/tiramisu-de-limao-a-versao-mais-fresca-da-classica-sobremesa-italiana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:00:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_596fac0262731.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e3a9c689e9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU0LCJjcm9wSGVpZ2h0IjoxNDM2LCJjcm9wWCI6MCwiY3JvcFkiOjE0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDM5LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vasco Seabra revela Arouca \"com muita vontade de vencer\" Moreirense",
-      "link": "https://www.noticiasaominuto.com/desporto/3037026/vasco-seabra-revela-arouca-com-muita-vontade-de-vencer-moreirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:32:27",
+      "title": "BBC quer intimar filhos de Trump por difamação (e pedir 10 mil milhões)",
+      "link": "https://www.noticiasaominuto.com/mundo/3036874/bbc-quer-intimar-filhos-de-trump-por-difamacao-e-pedir-10-mil-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 14:59:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47582440.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NzUsImNyb3BZIjo0Nn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_691205b78a9fa.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Luís Pinto quer Gil Vicente com \"identidade e ambição\" na visita a Braga",
-      "link": "https://www.noticiasaominuto.com/desporto/3037030/luis-pinto-quer-gil-vicente-com-identidade-e-ambicao-na-visita-a-braga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:30:33",
+      "title": "Estados dos EUA exigem à Meta 173 mil milhões por \"viciar menores\"",
+      "link": "https://www.noticiasaominuto.com/tech/3036871/estados-dos-eua-exigem-a-meta-173-mil-milhoes-por-viciar-menores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 14:54:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47585428.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7428f88e289.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Volta. PSP alerta para condicionamentos no Porto, Gaia e Maia no domingo",
-      "link": "https://www.noticiasaominuto.com/pais/3037025/volta-psp-alerta-para-condicionamentos-no-porto-gaia-e-maia-no-domingo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:26:13",
+      "title": "Casamento com ou sem zangas, o que não falha é o apoio de Dolores a CR7",
+      "link": "https://www.noticiasaominuto.com/fama/3037034/casamento-com-ou-sem-zangas-o-que-nao-falha-e-o-apoio-de-dolores-a-cr7#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 14:51:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a806e67a598d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjE3NCwiY3JvcFkiOjYxOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzAyLCJjcm9wSGVpZ2h0IjoxMjQ4LCJjcm9wWCI6MzAxLCJjcm9wWSI6Mjg1fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Bandeira aos quadrados na praia: sabe o que significa?",
+      "link": "https://pplware.sapo.pt/informacao/bandeira-aos-quadrados-na-praia-sabe-o-que-significa/",
+      "pubDate": "Sat, 15 Aug 2026 13:55:14 +0000",
+      "description": "Quando chega à praia, é habitual encontrar bandeiras de várias cores junto ao posto de vigilância. Verde, amarela ou vermelha são as mais conhecidas, mas existe outra que pode gerar dúvidas: a bandeira aos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/bandeira_00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 10:00:01 +0000",
       "description": "A pouco mais de duas semanas de entrar em vigor, a lei que ia impedir os jovens de França com menos de 15 anos de terem contas em redes sociais foi chumbada pelo mais&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/crianca-redes-sociais.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Porsche poderá pôr fim ao Taycan em 2030… e não haverá sucessor direto",
-      "link": "https://pplware.sapo.pt/motores/porsche-podera-por-fim-ao-taycan-em-2030-e-nao-havera-sucessor-direto/",
-      "pubDate": "Sat, 15 Aug 2026 09:00:47 +0000",
-      "description": "O Taycan marcou a entrada da Porsche na era dos automóveis totalmente elétricos. Contudo, apesar das prestações impressionantes e do reconhecimento conquistado desde 2019, a berlina poderá estar a aproximar-se do fim da estrada.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/porsche_taycan_out00.webp"
     },
     {
       "sourceId": "autosport",
