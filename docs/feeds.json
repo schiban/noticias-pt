@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-15T09:21:13.317691+00:00",
+  "updated": "2026-08-15T09:48:37.730115+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 10h",
+      "title": "Ceuta. Marrocos trava nova tentativa de entrada de migrantes",
+      "link": "https://observador.pt/2026/08/15/marrocos-diz-ter-travado-nova-tentativa-de-entrada-de-centenas-de-migrantes-em-ceuta/",
+      "pubDate": "Sat, 15 Aug 2026 10:44:23 +0100",
+      "description": "Madrid e Rabat reforçaram a segurança após apelos para este sábado. Marrocos diz ter travado centenas de migrantes junto a Ceuta. Mas uma jovem de 17 anos terá conseguido furar os controlos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08140401/47572139.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Homem de 45 anos detido por tentativa de violação em Coimbra",
+      "link": "https://observador.pt/2026/08/15/homem-de-45-anos-detido-por-tentativa-de-violacao-em-coimbra/",
+      "pubDate": "Sat, 15 Aug 2026 10:40:22 +0100",
+      "description": "PJ \"identificou e deteve um cidadão estrangeiro, pela presumível prática de um crime de violação, na forma tentada, de que foi vítima uma mulher com 50 anos, com limitações motoras\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1024:575:nowe:0:65/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/17133322/bandeira-pj2.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Calor antecipa vindima que no Alentejo começou em julho",
+      "link": "https://observador.pt/2026/08/15/calor-intenso-antecipa-vindima-que-no-alentejo-comecou-em-julho/",
+      "pubDate": "Sat, 15 Aug 2026 10:26:12 +0100",
+      "description": "No Douro, verificou-se uma antecipação das vindimas na ordem de uma a duas semanas. Já nas regiões mais quentes, como o Tejo e o Alentejo, a colheita começou durante as últimas semanas de julho.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15094932/22602146.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "10h. FCP. Farioli espera dificuldades frente ao Rio Ave",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2438/",
       "pubDate": "Sat, 15 Aug 2026 10:15:21 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Entra hoje em campo (20h30) o campeão nacional de futebol. Na antevisão feita ontem, o técnico italiano lembra as dificuldades que os Dragões passaram frente aos vilacondenses na temporada passada.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -20,36 +50,6 @@
       "pubDate": "Sat, 15 Aug 2026 09:52:26 +0100",
       "description": "Os professores colocados devem agora aceitar a colocação na plataforma da AGSE em 17 e 18 de agosto e apresentar-se nas novas escolas em 1 de setembro.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15091239/47200745.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Leiria. Prisão preventiva para suspeito de tráfico de droga",
-      "link": "https://observador.pt/2026/08/15/prisao-preventiva-para-homem-suspeito-de-trafico-de-droga-em-leiria/",
-      "pubDate": "Sat, 15 Aug 2026 09:43:48 +0100",
-      "description": "De acordo com a PSP, na quinta-feira foram detidos dois homens, de 29 e 30 anos - o mais novo ficou obrigado a Termo de Identidade e Residência.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/04112451/vcoelho-20260403-fotos-de-arquivo-01-43-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais de 40 abalos registados em Granada",
-      "link": "https://observador.pt/2026/08/15/mais-de-40-sismos-registados-hoje-em-granada-sem-feridos-mas-com-danos-materiais/",
-      "pubDate": "Sat, 15 Aug 2026 09:40:47 +0100",
-      "description": "O sismo principal com epicentro no município de Alhendín causou mais de 200 chamadas para os serviços de emergência e danos materiais, mas não há registo de feridos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:175/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15091357/36339548.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Há mais IAs a fugir de confinamento. É padrão ou acidente?",
-      "link": "https://observador.pt/programas/m-quinas-que-pensam/ha-mais-ias-a-fugir-de-confinamento-e-padrao-ou-acidente/",
-      "pubDate": "Sat, 15 Aug 2026 09:36:16 +0100",
-      "description": "Há mais casos de agentes de IA que escaparam de confinamento. Situação que gera desconfiança, mas significa o apertar da segurança. Empresas investigam o que pode estar a falhar na tecnologia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
     },
     {
       "sourceId": "rtp",
@@ -107,9 +107,9 @@
       "color": "#4fc48a",
       "title": "OFICIAL: Ferran Torres deixa o Barcelona e ruma ao PSG",
       "link": "https://maisfutebol.iol.pt/internacional/psg/oficial-ferran-torres-deixa-o-barcelona-e-ruma-ao-psg",
-      "pubDate": "Sat, 15 Aug 2026 10:16:55 +0100",
-      "description": "",
-      "thumbnail": "https://img.iol.pt/image/id/6934828bd34e3caad84c19d0/250"
+      "pubDate": "Sat, 15 Aug 2026 10:16:00 +0100",
+      "description": "Avançado espanhol herda a camisola 9, que era de Gonçalo Ramos",
+      "thumbnail": "https://img.iol.pt/image/id/6a802efdd34e511da0b33705/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marrocos trava entrada de centenas de migrantes em Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3036953/marrocos-trava-entrada-de-centenas-de-migrantes-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:04:12",
+      "title": "Vaticano. ArtCut reflete sobre como \"permanecer humano\" na era digital",
+      "link": "https://www.noticiasaominuto.com/cultura/3036962/vaticano-artcut-reflete-sobre-como-permanecer-humano-na-era-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:32:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802b977da7f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80323e3e010.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Morreu Mark Rydell, realizador de filme como \"A Casa do Lago\"",
-      "link": "https://www.noticiasaominuto.com/fama/3036951/morreu-mark-rydell-realizador-de-filme-como-a-casa-do-lago#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:57:58",
+      "title": "Jaime Faria conquista primeira vitória num Masters 1.000",
+      "link": "https://www.noticiasaominuto.com/desporto/3036960/jaime-faria-conquista-primeira-vitoria-num-masters-1000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:29:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802816c3d53.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDc1LCJjcm9wSGVpZ2h0IjoxMTY3LCJjcm9wWCI6MTQsImNyb3BZIjoyMDl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47515875.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Calor intenso antecipa vindima que no Alentejo começou em julho",
-      "link": "https://www.noticiasaominuto.com/economia/3036952/calor-intenso-antecipa-vindima-que-no-alentejo-comecou-em-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:53:58",
+      "title": "CP. Tribunal determina integração imediata do 1.º Dezembro",
+      "link": "https://www.noticiasaominuto.com/desporto/3036879/cp-tribunal-determina-integracao-imediata-do-1-dezembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:28:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/22602146.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43758252.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDU0LCJjcm9wSGVpZ2h0IjoxMTU1LCJjcm9wWCI6MTUzLCJjcm9wWSI6NDh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Próximo filme Star Wars \"Starfighter\" terá história independente da saga",
-      "link": "https://www.noticiasaominuto.com/cultura/3036948/proximo-filme-star-wars-starfighter-tera-historia-independente-da-saga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:52:03",
+      "title": "Trânsito cortado no IP3 nas noites de segunda a quinta-feira em Tondela",
+      "link": "https://www.noticiasaominuto.com/pais/3036958/transito-cortado-no-ip3-nas-noites-de-segunda-a-quinta-feira-em-tondela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:28:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8029c3efffe.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41663178.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Southampton rejeita proposta do Benfica por Taylor Harwood-Bellis",
-      "link": "https://www.noticiasaominuto.com/desporto/3036949/southampton-rejeita-proposta-do-benfica-por-taylor-harwood-bellis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:41:37",
+      "title": "Ex-Benfica salva César Peixoto na estreia dos Wolves no Championship",
+      "link": "https://www.noticiasaominuto.com/desporto/3036957/ex-benfica-salva-cesar-peixoto-na-estreia-dos-wolves-no-championship#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:27:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802610579ab.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjY4LCJjcm9wWSI6MTJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802c92cb90f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDAsImNyb3BZIjo1M319"
     },
     {
       "sourceId": "pplware",
