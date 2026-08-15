@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T10:46:34.362586+00:00",
+  "updated": "2026-08-15T11:15:57.404528+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "12h Presidente  preocupado com sinistralidade rodoviária",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-presidente-preocupado-com-sinistralidade-rodoviaria_a1_1759652",
+      "pubDate": "Sat, 15 Aug 2026 13:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "Volta a Portugal. GNR pede ao público que assista à prova sempre fora das faixas de rodagem",
       "link": "https://www.rtp.pt/noticias/volta-a-portugal/volta-a-portugal-gnr-pede-ao-publico-que-assista-a-prova-sempre-fora-das-faixas-de-rodagem_d1759647",
       "pubDate": "Sat, 15 Aug 2026 12:35:12 +0100",
@@ -92,14 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/60/60f3cb9bcf50091f72ec22cfb4dbc96b?w=350&amp;q=50&amp;rect=2,0,8071,4425&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "10h Reforço de meios em Vila Pouca de Aguiar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-reforco-de-meios-em-vila-pouca-de-aguiar_a1_1759638",
-      "pubDate": "Sat, 15 Aug 2026 11:14:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Volta a Portugal: caravana vai homenagear Finlay Tarling à partida para a nona etapa",
+      "link": "https://maisfutebol.iol.pt/volta-a-portugal/finlay-tarling/volta-a-portugal-caravana-vai-homenagear-finlay-tarling-a-partida-para-a-nona-etapa",
+      "pubDate": "Sat, 15 Aug 2026 11:51:53 +0100",
+      "description": "Ciclista, recorde-se, morreu após um trágico acidente com uma viatura",
+      "thumbnail": "https://img.iol.pt/image/id/6a7f4f90d34ed0733ba7fe6c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 10:16:00 +0100",
       "description": "Avançado espanhol herda a camisola 9, que era de Gonçalo Ramos",
       "thumbnail": "https://img.iol.pt/image/id/6a802efdd34e511da0b33705/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: FC Porto segura goleador da formação",
-      "link": "https://maisfutebol.iol.pt/fc-porto/tcherno-jamanca/oficial-fc-porto-segura-goleador-da-formacao",
-      "pubDate": "Sat, 15 Aug 2026 10:13:05 +0100",
-      "description": "Tcherno Jamanca renova contrato com os dragões",
-      "thumbnail": "https://img.iol.pt/image/id/6a802d11d34e511da0b336fa/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turista baleada na Baixa de Lisboa já teve alta e regressou à Suécia",
-      "link": "https://www.noticiasaominuto.com/pais/3036975/turista-baleada-na-baixa-de-lisboa-ja-teve-alta-e-regressou-a-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 11:28:17",
+      "title": "Montenegro está \"no País das Maravilhas\"? Reações ao discurso no Pontal",
+      "link": "https://www.noticiasaominuto.com/politica/3036985/montenegro-esta-no-pais-das-maravilhas-reacoes-ao-discurso-no-pontal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 12:13:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6581853c4a750.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNDksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80401e4c857.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjEwMjcsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cerca de 28 mil casas de habitação pública entregues até ao fim de agosto",
-      "link": "https://www.noticiasaominuto.com/economia/3036974/cerca-de-28-mil-casas-de-habitacao-publica-entregues-ate-ao-fim-de-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 11:19:56",
+      "title": "Fogo em Vila Pouca de Aguiar em fase de resolução",
+      "link": "https://www.noticiasaominuto.com/pais/3036988/fogo-em-vila-pouca-de-aguiar-em-fase-de-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 12:09:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45445264.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6925eadcc11ce.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O presente do Universo que cada signo recebe durante os próximo dias",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3036319/o-presente-do-universo-que-cada-signo-recebe-durante-os-proximo-dias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 11:00:30",
+      "title": "Líbano afirma que ataques ao sul do país põe em causa paz na região",
+      "link": "https://www.noticiasaominuto.com/mundo/3036986/libano-afirma-que-ataques-ao-sul-do-pais-poe-em-causa-paz-na-regiao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 12:08:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1d5cc32df23.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODc5LCJjcm9wSGVpZ2h0IjoxNTYyLCJjcm9wWCI6ODc2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47391701.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O arroz de nabiças de Fátima Lopes. \"É super simples\"",
-      "link": "https://www.noticiasaominuto.com/fama/3036965/o-arroz-de-nabicas-de-fatima-lopes-e-super-simples#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:59:44",
+      "title": "Oficial: Atlético de Madrid contrata argentino Romero ao Tottenham",
+      "link": "https://www.noticiasaominuto.com/desporto/3036966/oficial-atletico-de-madrid-contrata-argentino-romero-ao-tottenham#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 12:06:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a803839c8b35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MjEsImNyb3BZIjoyMTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExNTIsImNyb3BIZWlnaHQiOjIwNDgsImNyb3BYIjoxMzQ3LCJjcm9wWSI6MTI1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a804811dc272.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Revelado o discurso de César Peixoto no balneário do Wolverhampton",
-      "link": "https://www.noticiasaominuto.com/desporto/3036967/revelado-o-discurso-de-cesar-peixoto-no-balneario-do-wolverhampton#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:57:49",
+      "title": "Faísca McQueen troca a Piston Cup pela Fórmula 1 no GP de Itália",
+      "link": "https://www.noticiasaominuto.com/auto/3036676/faisca-mcqueen-troca-a-piston-cup-pela-formula-1-no-gp-de-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 12:02:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8037f2cc367.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f2cc09564e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjI1LCJjcm9wWSI6NTM0fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pela primeira vez, um ciberataque quase totalmente autónomo atingiu um governo",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/pela-primeira-vez-um-ciberataque-quase-totalmente-autonomo-atingiu-um-governo/",
+      "pubDate": "Sat, 15 Aug 2026 11:00:39 +0000",
+      "description": "Um grupo de hackers, suspeito de ter ligações à China, recorreu a agentes de Inteligência Artificial (IA) de código aberto para conduzir um dos ataques informáticos mais sofisticados alguma vez documentados contra um governo.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/china_taiwan_gemini.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 07:00:22 +0000",
       "description": "O VLC continua a ser uma das ferramentas mais populares para reprodução multimédia. No entanto, muitos utilizadores no Windows 11 têm reportado um comportamento anormal que torna a abertura de ficheiros de áudio num&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/vlc_windows_11_2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O seu próximo smartphone vai durar até 2033? Google garante que sim",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-seu-proximo-smartphone-vai-durar-ate-2033-google-garante-que-sim/",
-      "pubDate": "Sat, 15 Aug 2026 06:00:17 +0000",
-      "description": "A compra de um smartphone envolve sempre ponderar a durabilidade do investimento. A pensar nisso, a Google deu um passo importante com o lançamento do Pixel 11. Para além das atualizações Android por 7&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/pixel_11_2.jpg"
     },
     {
       "sourceId": "autosport",
