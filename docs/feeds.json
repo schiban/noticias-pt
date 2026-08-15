@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-15T16:48:57.196801+00:00",
+  "updated": "2026-08-15T17:16:30.752840+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Oposição critica discurso \"desligado da realidade\" no Pontal",
+      "link": "https://observador.pt/2026/08/15/oposicao-critica-montenegro-por-discurso-desligado-da-realidade-no-pontal/",
+      "pubDate": "Sat, 15 Aug 2026 18:05:13 +0100",
+      "description": "Ventura considera \"escandaloso\" que o primeiro-ministro não tenha falado sobre Luís Neves. BE critica a \"rábula do costume\" de Montenegro: \"O país está melhor, as pessoas é que não dão conta.\"",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:295/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14232458/dventura-psd-pontal-2026-22-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fizemos um curso de stand-up: podemos aprender a ter piada?",
+      "link": "https://observador.pt/especiais/e-possivel-aprender-a-ter-piada-fizemos-um-curso-de-stand-up-comedy-para-tentar-descobrir-onde-esta-a-graca/",
+      "pubDate": "Sat, 15 Aug 2026 18:01:03 +0100",
+      "description": "Inscrevemo-nos no 104.º curso da Bang Produções, por onde passou gente como Luana do Bem, Guilherme Duarte ou Joana Gama, e subimos ao palco no final. Será que o humor está ao alcance de qualquer um?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29140305/237a1920.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Centenas despedem-se de Bonnie Tyler no País de Gales",
+      "link": "https://observador.pt/2026/08/15/centenas-despedem-se-de-bonnie-tyler-no-pais-de-gales/",
+      "pubDate": "Sat, 15 Aug 2026 17:56:45 +0100",
+      "description": "Centenas de fãs reuniram-se na localidade de Mumbles, no País de Gales, para ver passar o caixão de Bonnie Tyler, que morreu no Algarve em julho, numa última despedida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:188/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15175423/bonnie-tyler.jpeg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15171219/27549598.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "17h. GNR alerta para constrangimentos de trânsito na estrada",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2268/",
-      "pubDate": "Sat, 15 Aug 2026 17:15:16 +0100",
-      "description": "Major da Unidade Nacional de Trânsito da GNR e deixa recomendações a quem vai de férias para o sul do país. Ainda, cerca de 50 pessoas morreram na sequência do sismo que atingiu hoje a Indonésia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "AC Milan vence no reencontro de Ruben Amorim com o Manchester United",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-no-reencontro-de-ruben-amorim-com-o-manchester-united_d1759704",
+      "pubDate": "Sat, 15 Aug 2026 19:11:20 +0100",
+      "description": "O avançado português Gonçalo Ramos contribuiu hoje com um golo para a vitória por 4-2 do AC Milan sobre o Manchester United, em jogo particular de futebol, que marcou o reencontro do treinador Ruben Amorim com a equipa inglesa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/59/590e7c6ae1eb8ae576b8bad8f530ee74?w=350&amp;q=50&amp;rect=0,250,4232,2320&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Locarno. “You don’t belong here” vence Leopardo de Ouro",
-      "link": "https://observador.pt/2026/08/15/locarno-you-dont-belong-here-de-florin-serban-vence-leopardo-de-ouro/",
-      "pubDate": "Sat, 15 Aug 2026 17:03:30 +0100",
-      "description": "Da frustração paterna do filme do romeno Florin Serban à eutanásia doméstica de “Violence du corps de l'autre”, uma réstia de esperança na humanidade circundou os filmes mais fortes deste festival.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2276:1280:nowe:5:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15164031/captura-de-ecra-2026-08-15-as-163901.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Duplas de vela portuguesas brilham e sobem a quarto e quinto nos Mundiais de 470",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/duplas-de-vela-portuguesas-brilham-e-sobem-a-quarto-e-quinto-nos-mundiais-de-470_d1759703",
+      "pubDate": "Sat, 15 Aug 2026 19:09:23 +0100",
+      "description": "Os velejadores portugueses Beatriz Gago e Rodolfo Pires subiram hoje ao quarto lugar e os olímpicos Diogo Costa e Carolina João alcançaram o quinto nos mundiais da classe 470, no Japão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc3f12da8a38982fe1b93fcb3c9da55c?w=350&amp;q=50&amp;rect=56,0,1167,640&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O dia em que a minha doença mental passou a ter um nome",
-      "link": "https://observador.pt/especiais/como-a-minha-vida-mudou-para-melhor-quando-a-doenca-mental-passou-a-ter-um-nome/",
-      "pubDate": "Sat, 15 Aug 2026 17:02:07 +0100",
-      "description": "José Estevez tem Perturbação Obsessivo-Compulsiva desde os 18 anos, mas o diagnóstico correto só chegou aos 55. E foi um alívio. Sabia que nome dar aos pensamentos angustiantes. E ao medo do diabo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/04182824/ilacerda-jose-estevez-mental-21-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Guérin vence na Senhora da Graça e encaminha-se para o triunfo final",
+      "link": "https://www.rtp.pt/noticias/lusa/guerin-vence-na-senhora-da-graca-e-encaminha-se-para-o-triunfo-final_d1759702",
+      "pubDate": "Sat, 15 Aug 2026 18:50:41 +0100",
+      "description": "O ciclista francês Alexis Guérin (Anicolor-Campicarn) encaminhou-se hoje para a vitória na Volta a Portugal, ao triunfar isolado na chegada ao alto da Senhora da Graça, em Mondim de Basto, numa enlutada nona e penúltima etapa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b88702d4fcdd07121ab67b169945369?w=350&amp;q=50&amp;rect=0,175,5592,3066&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Académico Viseu - Santa Clara",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-academico-viseu-santa-clara_e1759698",
+      "pubDate": "Sat, 15 Aug 2026 18:48:21 +0100",
+      "description": "O Académico de Viseu-Santa Clara realiza-se este sábado, às 18:00, no renovado Estádio do Fontelo, com arbitragem de João Gonçalves, da Associação de Futebol do Porto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9bac0eb34d7e71ac072cea255b4d4df6?w=350&amp;q=50&amp;rect=0,175,2937,1610&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -58,98 +98,58 @@
       "title": "Alargamento do passe ferroviário em Lisboa e no Porto é \"populista\": há \"problemas de oferta\"",
       "link": "https://www.rtp.pt/noticias/pais/alargamento-do-passe-ferroviario-em-lisboa-e-no-porto-e-populista-ha-problemas-de-oferta_n1759655",
       "pubDate": "Sat, 15 Aug 2026 18:34:28 +0100",
-      "description": "Fernando Nunes da Silva, especialista em transportes e antigo autarca, lamenta que o alargamento do passe ferroviário verde nas áreas metropolitanas de Lisboa e do Porto não seja acompanhado de um aumento de oferta. Receia ainda que haja impacto no Navegante e no Andante.",
+      "description": "Fernando Nunes da Silva, especialista em transportes e antigo vereador, lamenta que o alargamento do passe ferroviário verde nas áreas metropolitanas de Lisboa e do Porto não seja acompanhado de um aumento de oferta. Receia ainda que haja impacto no Navegante e no Andante.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/413c60a96d35b2597b8f4ac60c664ec4?w=350&amp;q=50&amp;rect=0,38,5333,2924&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Autoridades falam do pior incêndio da história da Bélgica",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-autoridades-falam-do-pior-incendio-da-historia-da-belgica_a1_1759699",
-      "pubDate": "Sat, 15 Aug 2026 18:25:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "II Liga. Benfica B vence em Leiria com duas grandes penalidades",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-benfica-b-vence-em-leiria-com-duas-grandes-penalidades_d1759697",
-      "pubDate": "Sat, 15 Aug 2026 18:05:56 +0100",
-      "description": "Duas grandes penalidades convertidas por Gonçalo Moreira garantiram hoje a vitória (2-1) do Benfica B sobre a União de Leiria, em jogo da segunda jornada da II Liga de futebol disputado em Leiria.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ricardo Melo Gouveia cai para o 34.º lugar do Open da Dinamarca de golfe",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-melo-gouveia-cai-para-o-34o-lugar-do-open-da-dinamarca-de-golfe_d1759696",
-      "pubDate": "Sat, 15 Aug 2026 18:03:05 +0100",
-      "description": "O português Ricardo Melo Gouveia caiu hoje para o grupo dos golfistas classificados no 34.º lugar do Open da Dinamarca, após a conclusão da terceira volta do torneio do DP World Tour, liderado pelo francês Romain Langasque.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c9edd6f15e282ecfa364f980e22f6f9?w=350&amp;q=50&amp;rect=0,296,5248,2877&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Colômbia. Número de mortos devido ao sismo subiu para 294",
-      "link": "https://www.rtp.pt/noticias/mundo/colombia-numero-de-mortos-devido-ao-sismo-subiu-para-294_n1759694",
-      "pubDate": "Sat, 15 Aug 2026 17:53:41 +0100",
-      "description": "O número de mortos pelo sismo que atingiu a Colômbia na passada segunda-feira subiu para 294, mais seis do que na última contagem de sexta-feira, enquanto o número de desaparecidos aumentou para 320, segundo um boletim divulgado hoje pela Unidade Nacional de Gestão de Riscos de Desastres (UNGRD).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/11/11ec38b2fd3c045fe60a5111feeae021?w=350&amp;q=50&amp;rect=0,246,5500,3015&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Djed Spence deixa o Tottenham para reforçar o Inter Milão",
+      "link": "https://maisfutebol.iol.pt/mercado/transferencias/oficial-djed-spence-deixa-o-tottenham-para-reforcar-o-inter-milao",
+      "pubDate": "Sat, 15 Aug 2026 18:09:19 +0100",
+      "description": "Defesa inglês custa 35 milhões de euros ao campeão italiano",
+      "thumbnail": "https://img.iol.pt/image/id/6a809ce4d34ed0733ba8005e/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Alverca-Estrela, 2-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/estrela-amadora/alverca/alverca-estrela-2-2-cronica",
-      "pubDate": "Sat, 15 Aug 2026 17:37:00 +0100",
-      "description": "Resultado fetiche: estiveram na frente, mas ninguém quis vencer",
-      "thumbnail": "https://img.iol.pt/image/id/6a809258d34e511da0b3380b/250"
+      "title": "Sérgio Ferreira: «Passo em frente na ideia, mas estamos frustrados»",
+      "link": "https://maisfutebol.iol.pt/liga/alverca/sergio-ferreira-passo-em-frente-na-ideia-mas-estamos-frustrados",
+      "pubDate": "Sat, 15 Aug 2026 18:05:06 +0100",
+      "description": "Técnico considera que a sua equipa merecia mais do que a igualdade na receção ao Estrela",
+      "thumbnail": "https://img.iol.pt/image/id/6a78cbd0d34e511da0b326c0/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Volta a Portugal: Alexis Guerin vence em dia de homenagens a Tarling",
-      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-portugal/volta-a-portugal-alexis-guerin-vence-em-dia-de-homenagens-a-tarling",
-      "pubDate": "Sat, 15 Aug 2026 17:26:00 +0100",
-      "description": "Ciclista francês triunfa na Senhora da Graça e é mais líder da classificação geral",
-      "thumbnail": "https://img.iol.pt/image/id/6a80933ad34e511da0b3380d/250"
+      "title": "VÍDEO: Ramos brilha no reencontro de Amorim com o Man. United",
+      "link": "https://maisfutebol.iol.pt/manchester-united/milan/video-amorim-triunfa-no-reencontro-com-man-united-de-bruno-fernandes",
+      "pubDate": "Sat, 15 Aug 2026 18:00:00 +0100",
+      "description": "Internacional português assina um golo e duas assistências na vitória do Milan por 4-2 sobre os red devils",
+      "thumbnail": "https://img.iol.pt/image/id/6a809740d34e511da0b33813/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Espanha: jovem de 15 anos pode fazer história no Levante de Luís Castro",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/espanha-jovem-de-15-anos-pode-fazer-historia-no-levante-de-luis-castro",
-      "pubDate": "Sat, 15 Aug 2026 17:09:49 +0100",
-      "description": "Marc Santos pode tornar-se no jogador mais jovem de sempre a estrear-se na equipa principal dos «granotas»",
-      "thumbnail": "https://img.iol.pt/image/id/6a808ef3d34ed0733ba80041/250"
+      "title": "Pepa: «Amargo de boca por não termos conseguido mais»",
+      "link": "https://maisfutebol.iol.pt/liga/estrela-amadora/pepa-amargo-de-boca-por-nao-termos-conseguido-mais",
+      "pubDate": "Sat, 15 Aug 2026 17:56:42 +0100",
+      "description": "Técnico considera que a igualdade em Alverca se aceita",
+      "thumbnail": "https://img.iol.pt/image/id/6a46f64cd34e28842c85dfe1/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Atletismo: Patrícia Silva e Salomé Afonso na final dos 1.500 metros",
-      "link": "https://maisfutebol.iol.pt/atletismo/modalidades/atletismo-patricia-silva-e-salome-afonso-na-final-dos-1-500-metros",
-      "pubDate": "Sat, 15 Aug 2026 16:52:00 +0100",
-      "description": "Atleta do Sporting registou o melhor tempo das eliminatórias (04.08,17 minutos)",
-      "thumbnail": "https://img.iol.pt/image/id/67e02499d34ef72ee443cdd1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "João Gião: «Estoril é uma das equipas mais fortes do campeonato»",
-      "link": "https://maisfutebol.iol.pt/nacional/liga/joao-giao-estoril-e-uma-das-equipas-mais-fortes-do-campeonato",
-      "pubDate": "Sat, 15 Aug 2026 16:51:00 +0100",
-      "description": "Treinador do Nacional exige «mesma atitude» que valeu o empate nos Açores",
-      "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
+      "title": "António Silva assistiu ex-FC Porto na derrota do Bournemouth com o Mainz",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/antonio-silva-assistiu-ex-fc-porto-na-derrota-do-bournemouth-com-o-mainz",
+      "pubDate": "Sat, 15 Aug 2026 17:51:00 +0100",
+      "description": "Evanilson marcou o único golo dos «cherrie» na derrota por 2-1 no último jogo da pré-temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a809626d34ed0733ba80054/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Valeu a pena despedi-lo? Amorim arrasa no reencontro com o Man. United",
-      "link": "https://www.noticiasaominuto.com/desporto/3037070/valeu-a-pena-despedi-lo-amorim-arrasa-no-reencontro-com-o-man-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:42:03",
+      "title": "Volta: Guérin vence na Senhora da Graça e encaminha-se para triunfo final",
+      "link": "https://www.noticiasaominuto.com/desporto/3037080/volta-guerin-vence-na-senhora-da-graca-e-encaminha-se-para-triunfo-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:08:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80950c2f6d1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47615496.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tragédia na Volta. Condutor não ia em contramão e guiou-se por populares",
-      "link": "https://www.noticiasaominuto.com/pais/3037067/tragedia-na-volta-condutor-nao-ia-em-contramao-e-guiou-se-por-populares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:38:04",
+      "title": "Mais de 85 milhões de pessoas em alerta para nova vaga de calor nos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3037073/mais-de-85-milhoes-de-pessoas-em-alerta-para-nova-vaga-de-calor-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:07:06",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80943346139.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYyLCJjcm9wSGVpZ2h0Ijo1OTgsImNyb3BYIjoxMiwiY3JvcFkiOjY5MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Mzc2LCJjcm9wSGVpZ2h0Ijo2NjgsImNyb3BYIjozNjYsImNyb3BZIjo2ODJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809cab40712.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Alverca e Estrela empatam. Segue-se o Académico-Santa Clara",
+      "title": "EM DIRETO: Joga-se o Académico-Santa Clara, antes do Rio Ave-FC Porto",
       "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:32:47",
+      "pubDate": "2026-08-15 18:04:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808b60cc774.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809c0195958.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Expulsão, 4 golos e remontada. Alverca e Estrela empatam em jogo 'louco'",
-      "link": "https://www.noticiasaominuto.com/desporto/3037063/expulsao-4-golos-e-remontada-alverca-e-estrela-empatam-em-jogo-louco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:28:07",
+      "title": "Fãs fazem fila em Gales para se despedirem de Bonnie Tyler. As imagens",
+      "link": "https://www.noticiasaominuto.com/fama/3037079/fas-fazem-fila-em-gales-para-se-despedirem-de-bonnie-tyler-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:00:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808b2fc4596.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUxfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a809a6dcebd2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Número de mortos no naufrágio no Zimbabué subiu para 68",
-      "link": "https://www.noticiasaominuto.com/mundo/3037065/numero-de-mortos-no-naufragio-no-zimbabue-subiu-para-68#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:18:17",
+      "title": "Jovem de 18 anos encontra tesouro (de 9 milhões) durante obras na Bélgica",
+      "link": "https://www.noticiasaominuto.com/mundo/3037069/jovem-de-18-anos-encontra-tesouro-de-9-milhoes-durante-obras-na-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:56:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80913c63b1a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8097eb1502a.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Digi cresce em Portugal e já tem mais de meio milhão de clientes móveis",
+      "link": "https://pplware.sapo.pt/informacao/digi-cresce-em-portugal-e-ja-tem-mais-de-meio-milhao-de-clientes-moveis/",
+      "pubDate": "Sat, 15 Aug 2026 17:00:57 +0000",
+      "description": "A Digi continua a ganhar terreno no mercado português. Os resultados financeiros referentes ao segundo trimestre de 2026 mostram um crescimento significativo do número de clientes, sobretudo nos serviços móveis e de Internet fixa.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/digi_fibra00.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/impressora_3D.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O que todos esperavam chegou ao Android Auto: o YouTube já funciona no carro!",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-que-todos-esperavam-chegou-ao-android-auto-o-youtube-ja-funciona-no-carro/",
-      "pubDate": "Sat, 15 Aug 2026 12:00:04 +0000",
-      "description": "A espera terminou para quem há muito pedia mais opções multimédia ao volante. A Google começou a libertar a integração nativa do YouTube no Android Auto, permitindo aceder diretamente aos vídeos no painel do&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/android_auto_youtube.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "ERC, Barum Czech Rally Zlín: Adam Březík na liderança, William Creighton e Liam Regan sem ferimentos graves",
+      "link": "https://www.autosport.pt/sem-categoria/erc-barum-czech-rally-zlin-adam-brezik-na-lideranca-william-creighton-e-liam-regan-sem-ferimentos-graves/",
+      "pubDate": "Sat, 15 Aug 2026 16:48:26 +0000",
+      "description": "Boa notícias chegam do Barum Czech Rally Zlín. A dupla William Creighton / Liam Regan (Citroën C3 Rally2), que sofreu um acidente na PEC 4 não sofreu ferimentos graves, segundo a organização. Creighton e Regan foram levados para o hospital, receber tratamento e fazer exames complementares, mas, de a",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Aston Martin Valen tem V12 com 850 cv",
+      "link": "https://www.autosport.pt/automais/aston-martin-valen-tem-v12-com-850-cv/",
+      "pubDate": "Sat, 15 Aug 2026 16:00:26 +0000",
+      "description": "A Aston Martin, na Semana do Automóvel de Monterey, na Califórnia, EUA, revelou o Valen, obra-prima assinada pela divisão de personalização Q by Aston Martin. O novo superdesportivo apresenta-se equipado com o motor dianteiro mais potente do mundo: V12 5.2 Twin-Turbo com 850 cv. Segundo o fabricante",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-manha-marcada-por-acidente-de-william-creighton/",
       "pubDate": "Sat, 15 Aug 2026 12:41:05 +0000",
       "description": "William Creighton / Liam Regan (Citroën C3 Rally2) terminaram a manhã do Barum Czech Rally Zlín como destaques pelos piores motivos, com um acidente a provocar o cancelamento do troço. Ainda não há mais informações sobre o incidente e a tripulação. O rali começou com Andrea Mabellini / Virginia Lenz",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Afinal, Nico Rosberg e Lewis Hamilton não foram  despedidos da Mercedes",
-      "link": "https://www.autosport.pt/formula1/f1-afinal-nico-rosberg-e-lewis-hamilton-nao-foram-despedidos-da-mercedes/",
-      "pubDate": "Sat, 15 Aug 2026 12:16:53 +0000",
-      "description": "A rivalidade entre Nico Rosberg e Lewis Hamilton pela vitória do Mundial de 2016 chegou a um ponto de rutura tão grave que Toto Wolff afirma ter chegado a despedir ambos os pilotos da Mercedes. Mas Rosberg contrariou essa versão, garantindo que &#8220;nunca chegou a esse ponto de despedimento&#8221;",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Pascal Wehrlein faz a pole, top 3 do campeonato separado por dois pontos",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-faz-a-pole/",
-      "pubDate": "Sat, 15 Aug 2026 10:59:42 +0000",
-      "description": "Em Londres, a primeira qualificação do fim de semana da Fórmula E sorriu à Porsche, com Pascal Wehrlein a ficar com a pole. A Porsche conseguiu ficar com as duas primeiras posições da grelha, com Nico Mueller a passar à final, após o confronto nas meias-finais com Mitch Evans sorrir ao piloto da Por",
       "thumbnail": ""
     }
   ]
