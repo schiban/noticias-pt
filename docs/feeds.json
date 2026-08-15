@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-15T02:16:19.587757+00:00",
+  "updated": "2026-08-15T03:11:10.829857+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Indonésia emite alerta de tsunami depois de sismo de 7,7",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2406/",
+      "pubDate": "Sat, 15 Aug 2026 03:16:56 +0100",
+      "description": "Seguiram-se três réplicas. Autoridades pediram aos residentes para se manterem afastados das praias e margens dos rios. Ainda, Luís Montenegro critica censura moderna, em que só se fala de polémicas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -40,16 +50,6 @@
       "pubDate": "Sat, 15 Aug 2026 00:30:16 +0100",
       "description": "A Câmara de Coimbra liderou a candidatura aprovada ao Fundo Ambiental. Condeixa-a-Nova obteve igual financiamento para renovar a exposição interpretativa.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15001528/paularzila-centro-interpretativo.webp"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sara Correia e Camané no Festival Fado no Rio de Janeiro",
-      "link": "https://observador.pt/2026/08/15/sara-correia-e-camane-no-festival-fado-no-rio-de-janeiro-e-em-s-paulo-em-novembro/",
-      "pubDate": "Sat, 15 Aug 2026 00:29:24 +0100",
-      "description": "Sara Correia e Camané estarão presentes no Festival Fado a 6 de novembro. Será ainda inaugurada no Vivo Rio a exposição \"Os Bairros de Lisboa\", que conta a história de bairros emblemáticos da cidade.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:250/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/19155543/gettyimages-2203293344-scaled.jpg"
     },
     {
       "sourceId": "rtp",
