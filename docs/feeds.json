@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T14:17:52.912705+00:00",
+  "updated": "2026-08-15T14:47:00.898646+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "ULS Algarve nega tempos de espera em Faro e Portimão",
+      "link": "https://observador.pt/2026/08/15/uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao-indicados-pelo-portal-do-sns/",
+      "pubDate": "Sat, 15 Aug 2026 15:24:59 +0100",
+      "description": "Unidade Local de Saúde do Algarve atribuiu os valores a erros no sistema informático. Durante a manhã, os hospitais de Faro e Portimão apareciam com tempos de espera que \"não eram verdadeiros\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15152233/hospital-de-faro.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 15h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2426/",
+      "pubDate": "Sat, 15 Aug 2026 15:19:46 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/02165405/dv1-3376-scaled.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Epstein. Vítimas pedem a Burnham inquérito a André",
-      "link": "https://observador.pt/2026/08/15/vitimas-de-epstein-pedem-a-andry-burnham-abertura-de-inquerito-publico-ao-ex-principe-andre-e-a-elite-britanica/",
-      "pubDate": "Sat, 15 Aug 2026 14:29:05 +0100",
-      "description": "Reuniões com o líder britânico e o homólogo irlandês ocorrerão nos próximos meses. Grupo exige que se apure a cumplicidade do poder britânico com Jeffrey Epstein e o fim do impasse nas investigações.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/26193837/gettyimages-2260272847-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "15h Passe Verde : especialista defende reforço de transportes",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-passe-verde-especialista-defende-reforco-de-transportes_a1_1759676",
+      "pubDate": "Sat, 15 Aug 2026 16:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Lar de Mirandela cheio após fogo que provocou sete mortos",
-      "link": "https://observador.pt/2026/08/15/lar-de-mirandela-com-lotacao-esgotada-um-ano-apos-incendio-que-provocou-sete-mortos/",
-      "pubDate": "Sat, 15 Aug 2026 14:25:57 +0100",
-      "description": "O lar Bom Samaritano esteve encerrado para obras, de agosto de 2025 a maio deste ano, feitas para tornar a infraestrutura novamente apta para acolher idosos que estavam alojados noutros lares.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/16140731/45491089.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "ULS Algarve nega tempos de espera nas urgências de Faro e Portimão indicados pelo Portal do SNS",
+      "link": "https://www.rtp.pt/noticias/pais/uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao-indicados-pelo-portal-do-sns_n1759675",
+      "pubDate": "Sat, 15 Aug 2026 16:25:48 +0100",
+      "description": "O presidente da Unidade Local de Saúde (ULS) do Algarve negou hoje os tempos de espera nas urgências de Faro e Portimão divulgados pelo Portal do SNS, atribuindo os valores a erros no sistema informático.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/21/21cd3e32cfe80bfea855759d3f0f2486?w=350&amp;q=50&amp;rect=0,167,2048,1123&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Alverca - Estrela",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-alverca-estrela_e1759672",
+      "pubDate": "Sat, 15 Aug 2026 16:19:58 +0100",
+      "description": "O Alverca recebe o Estrela da Amadora este sábado, no Complexo Desportivo de Alverca, com arbitragem de José Bessa, da associação de futebol do Porto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b4205060f07f41a3aad31e020febd2f?w=350&amp;q=50&amp;rect=0,63,626,343&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/e0/e0bc789c89f5aa828f3d84e66c8c46b7_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Doença de NewCastle está a afetar pombos e rolas nos Açores",
-      "link": "https://www.rtp.pt/noticias/pais/doenca-de-newcastle-esta-a-afetar-pombos-e-rolas-nos-acores_v1759667",
-      "pubDate": "Sat, 15 Aug 2026 15:27:46 +0100",
-      "description": "O Governo Regional dos Açores proibiu a caça e feiras com aves. Em várias ilhas do arquipélago, há pombos e rolas infetados com a doença de NewCastle.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/30/3036f3051db0d772982583e6d9c673d5_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Europeus de Atletismo: Agate de Sousa na final de salto em comprimento",
+      "link": "https://maisfutebol.iol.pt/atletismo/europeus-de-atletismo/europeus-de-atletismo-agate-de-sousa-na-final-de-salto-em-comprimento",
+      "pubDate": "Sat, 15 Aug 2026 15:42:43 +0100",
+      "description": "Atleta portuguesa atingiu um salto de sete metros na primeira tentativa, resultado que lhe valeu a passagem para a fase final",
+      "thumbnail": "https://img.iol.pt/image/id/666a0a9fd34ebf9bbb3e905a/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Seguro diz não ser aceitável que \"morrer na estrada continue a ser uma fatalidade\"",
-      "link": "https://www.rtp.pt/noticias/politica/seguro-diz-nao-ser-aceitavel-que-morrer-na-estrada-continue-a-ser-uma-fatalidade_v1759666",
-      "pubDate": "Sat, 15 Aug 2026 15:25:47 +0100",
-      "description": "O presidente da República diz que não podemos aceitar que morrer na estrada seja uma fatalidade. António José Seguro referiu-se aos 90 mil acidentes e dos 300 mortos já registados este ano.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4c/4cd10d139fb4ebb82adc71f1265c0ae0_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Seabra: «É importante tornarmos a nossa casa marca da nossa fortaleza»",
+      "link": "https://maisfutebol.iol.pt/arouca/liga/vasco-seabra-e-importante-tornarmos-a-nossa-casa-marca-da-nossa-fortaleza",
+      "pubDate": "Sat, 15 Aug 2026 15:34:00 +0100",
+      "description": "Treinador do Arouca perspetiva receção ao Moreirense e pede foco máximo para vencer",
+      "thumbnail": "https://img.iol.pt/image/id/69ebdf96d34e28842c835008/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Consumo de cocaína cresce em Portugal. Droga entra principalmente por via marítima",
-      "link": "https://www.rtp.pt/noticias/pais/consumo-de-cocaina-cresce-em-portugal-droga-entra-principalmente-por-via-maritima_v1759665",
-      "pubDate": "Sat, 15 Aug 2026 15:22:47 +0100",
-      "description": "A Península Ibérica é a principal porta de entrada de cocaína na Europa. A fiscalização mais apertada e cooperação das polícias europeias desviaram as rotas do norte e centro. O consumo está a crescer em Portugal.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0e/0e43d33ed7b16fe26092d71b772fe4e6_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Botelho da Costa: «Arouca? Queremos ter bola, como nós gostamos»",
+      "link": "https://maisfutebol.iol.pt/moreirense/vasco-botelho-da-costa/vasco-botelho-da-costa-arouca-queremos-ter-bola-como-nos-gostamos",
+      "pubDate": "Sat, 15 Aug 2026 15:28:14 +0100",
+      "description": "Treinador do Moreirense antevê duelo diante dos «lobos»",
+      "thumbnail": "https://img.iol.pt/image/id/69d96f7ad34e28842c82c780/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 15:05:32 +0100",
       "description": "Treinador do Sp. Braga antevê a receção ao Gil Vicente, relativo à segunda jornada da Liga",
       "thumbnail": "https://img.iol.pt/image/id/6a7343c7d34ed0733ba7e4a9/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Luís Pinto: «Muito respeito pelo Sp. Braga, mas queremos vencer»",
-      "link": "https://maisfutebol.iol.pt/gil-vicente/liga/luis-pinto-muito-respeito-pelo-sp-braga-mas-queremos-vencer",
-      "pubDate": "Sat, 15 Aug 2026 14:49:24 +0100",
-      "description": "Treinador do Gil Vicente antevê a deslocação ao reduto dos minhotos",
-      "thumbnail": "https://img.iol.pt/image/id/69a36ce3d34edcee7c61536a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting: Rui Borges dá dois dias de folga ao plantel",
-      "link": "https://maisfutebol.iol.pt/sporting/rui-borges/sporting-rui-borges-da-dois-dias-de-folga-ao-plantel",
-      "pubDate": "Sat, 15 Aug 2026 14:49:00 +0100",
-      "description": "Irankunda já integrou os trabalhos",
-      "thumbnail": "https://img.iol.pt/image/id/6a71f2d4d34e511da0b318f1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Basquetebol: base norte-americano reforça o Sporting",
-      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-base-norte-americano-reforca-o-sporting",
-      "pubDate": "Sat, 15 Aug 2026 14:43:00 +0100",
-      "description": "Gabe Kalscheur chega proveniente do Club Ourense Baloncesto",
-      "thumbnail": "https://img.iol.pt/image/id/6a8067c8d34e511da0b337a4/250"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +175,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Quase 50 mortos em novo balanço do sismo que atingiu Indonésia",
+      "link": "https://executivedigest.sapo.pt/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia/",
+      "pubDate": "Sat, 15 Aug 2026 14:25:12 +0000",
+      "description": "Quase 50 pessoas morreram e 2.000 foram deslocadas após um forte sismo de magnitude 7,7 ter atingido hoje a costa da ilha indonésia de Flores, enquanto as autoridades prosseguem as operações de socorro.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AR%2Ff1GICSPK%2FfqU5bVBV0NKQKvWxaprygrXl3adT6z91c3zZhQGcjKYMjVqGlGdnmvuObHdEZnOaXEanjeBrur8qhHMcdWoZQzvZq7OfdclMOmf1Bbp0sg%2Bzo1fcMzxP3"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Habitação pública. 28.000 casas entregues até fim de agosto",
       "link": "https://sapo.pt/artigo/habitacao-publica-28-000-casas-entregues-ate-fim-de-agosto-6a804b4fc50b1ad904a3d1b7",
       "pubDate": "Sat, 15 Aug 2026 11:21:48 +0000",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9d8tzATKAWM1ysX%2BxX8Ks5deZ1L%2B5XvHz82ZWw4aXy1y%2FP6HdB4neRyG3S4tN5roJiVYCYcu89YpYSDzf0C0%2FVjHpLbc%2F3vMAggNjiqCqt8XvU%2BeDG8aZtLm33sDWuiZ"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Alexis Guerin na nona etapa da Volta a Portugal com camisola negra",
-      "link": "https://sapo.pt/artigo/alexis-guerin-na-nona-etapa-da-volta-a-portugal-com-camisola-negra-6a805d03c50b1ad904a7f4a5",
-      "pubDate": "Sat, 15 Aug 2026 12:41:46 +0000",
-      "description": "Alexis Guerin (Anicolor-Campicarn), camisola amarela da Volta a Portugal, arrancou este sábado a nona etapa da prova com uma camisola negra, em jeito de luto pela morte de Finlay Tarling na sexta-feira",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AHTsgdsqUxUll0yWwxdzR1%2FaAf%2BiokHsDUyEbJg%2FyXbTeeQ8z2aIHIo2sAZT1Y%2BpQO2SLblA7IA3r3hW9N9z4SPT0aIXSgwkOh9gwpvluSHhW%2FQK%2BLBRRYO%2BbmGp7t2iw"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Fogo progride rapidamente e ameaça casas em parque natural da Bélgica",
+      "link": "https://www.noticiasaominuto.com/mundo/3037037/fogo-progride-rapidamente-e-ameaca-casas-em-parque-natural-da-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:40:48",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f1c74c4e63.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marrocos interceta 111 migrantes que tentavam chegar à fronteira de Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3037035/marrocos-interceta-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:16:36",
+      "title": "EM DIRETO: Já há onzes no Ribatejo antes do Rio Ave-FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:35:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8073aa61643.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c0282d12152.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tiramisu de limão: A versão mais fresca da clássica sobremesa italiana",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3036325/tiramisu-de-limao-a-versao-mais-fresca-da-classica-sobremesa-italiana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:00:15",
+      "title": "Aeroporto italiano reabre após redução do nível de alerta do vulcão Etna",
+      "link": "https://www.noticiasaominuto.com/mundo/3037045/aeroporto-italiano-reabre-apos-reducao-do-nivel-de-alerta-do-vulcao-etna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:35:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e3a9c689e9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU0LCJjcm9wSGVpZ2h0IjoxNDM2LCJjcm9wWCI6MCwiY3JvcFkiOjE0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDM5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47605016.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "BBC quer intimar filhos de Trump por difamação (e pedir 10 mil milhões)",
-      "link": "https://www.noticiasaominuto.com/mundo/3036874/bbc-quer-intimar-filhos-de-trump-por-difamacao-e-pedir-10-mil-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:59:52",
+      "title": "Quase 50 mortos em novo balanço do sismo que atingiu Indonésia",
+      "link": "https://www.noticiasaominuto.com/mundo/3037042/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:29:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_691205b78a9fa.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613928.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Estados dos EUA exigem à Meta 173 mil milhões por \"viciar menores\"",
-      "link": "https://www.noticiasaominuto.com/tech/3036871/estados-dos-eua-exigem-a-meta-173-mil-milhoes-por-viciar-menores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:54:47",
+      "title": "16h? ULS Algarve nega tempos de espera nas urgências de Faro e Portimão",
+      "link": "https://www.noticiasaominuto.com/pais/3037040/16h-uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:27:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7428f88e289.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Casamento com ou sem zangas, o que não falha é o apoio de Dolores a CR7",
-      "link": "https://www.noticiasaominuto.com/fama/3037034/casamento-com-ou-sem-zangas-o-que-nao-falha-e-o-apoio-de-dolores-a-cr7#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 14:51:45",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a806e67a598d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjE3NCwiY3JvcFkiOjYxOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzAyLCJjcm9wSGVpZ2h0IjoxMjQ4LCJjcm9wWCI6MzAxLCJjcm9wWSI6Mjg1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/23621926.webp"
     },
     {
       "sourceId": "pplware",
@@ -258,7 +258,7 @@
       "title": "Bandeira aos quadrados na praia: sabe o que significa?",
       "link": "https://pplware.sapo.pt/informacao/bandeira-aos-quadrados-na-praia-sabe-o-que-significa/",
       "pubDate": "Sat, 15 Aug 2026 13:55:14 +0000",
-      "description": "Quando chega à praia, é habitual encontrar bandeiras de várias cores junto ao posto de vigilância. Verde, amarela ou vermelha são as mais conhecidas, mas existe outra que pode gerar dúvidas: a bandeira aos&#46;&#46;&#46;",
+      "description": "Se chegar à praia e encontrar uma bandeira aos quadrados, normalmente preta e branca ou azul e branca, deve ter atenção: este sinal indica que a praia está temporariamente sem vigilância de nadadores-salvadores. bandeira&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/bandeira_00.jpg"
     },
     {
