@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-15T14:47:00.898646+00:00",
+  "updated": "2026-08-15T15:15:46.545485+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 16h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2330/",
+      "pubDate": "Sat, 15 Aug 2026 16:11:28 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Abutres, falta de dados e tempo fazem cair solar no Alqueva",
+      "link": "https://observador.pt/especiais/corredor-novo-para-poupar-abutres-falta-de-dados-e-demasiado-tempo-porque-cai-o-solar-flutuante-da-edp-no-alqueva/",
+      "pubDate": "Sat, 15 Aug 2026 16:04:36 +0100",
+      "description": "EDP quis mudar corredor da linha elétrica para minimizar impacto no abutre preto, mas proposta veio tarde e sem a necessária fundamentação. Centrais solares flutuantes estão num impasse.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/15214633/jporfirio-report-alqueva-01-17.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PS questiona Governo como adquiriu 13,7% da REN",
+      "link": "https://observador.pt/2026/08/15/ps-questiona-governo-por-que-via-e-com-que-meios-adquiriu-137-da-ren/",
+      "pubDate": "Sat, 15 Aug 2026 15:57:29 +0100",
+      "description": "Se compra decorre do anunciado fundo soberano, PS quer saber — e qual a dotação. Ao Observador, Santos Costa acusa Governo de \"provocar colapso\" nos serviços sociais e \"degradar as contas públicas\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25121523/doc2026032846841414pn4148260328-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"O Jantar\": a angústia de estar à mesa com Herman Koch",
+      "link": "https://observador.pt/2026/08/15/o-jantar-a-angustia-de-estar-a-mesa-com-herman-koch/",
+      "pubDate": "Sat, 15 Aug 2026 15:52:34 +0100",
+      "description": "É chocante, tal como a notícia. E conhecer a sinopse não lhe diminui o choque. Pelo contrário, o leitor fica, num ambiente calmo, à espera da explosão, à espera de saber quando, como, porquê.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2730:1532:nowe:0:828/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/05143926/gettyimages-583669152-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,94 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15152233/hospital-de-faro.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 15h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2426/",
-      "pubDate": "Sat, 15 Aug 2026 15:19:46 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Acidente de moto provoca um morto em Pedrógão Grande",
-      "link": "https://observador.pt/2026/08/15/acidente-de-motociclo-provoca-um-morto-em-pedrogao-grande-leiria/",
-      "pubDate": "Sat, 15 Aug 2026 15:04:56 +0100",
-      "description": "De acordo com o Comando Distrital de Operações de Socorro (CDOS) de Leiria, o acidente ocorreu às 11h31, na Tojeira, localidade que é atravessada pela Estrada Nacional (EN) 2.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16154626/dventura-inem-7-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Clubes de leitura: para que servem e como funcionam?",
-      "link": "https://observador.pt/especiais/entre-os-famosos-e-os-anonimos-ha-cada-vez-mais-clubes-de-leitura-para-que-servem-como-funcionam-e-porque-e-que-sao-procurados/",
-      "pubDate": "Sat, 15 Aug 2026 14:50:02 +0100",
-      "description": "São sobretudo frequentados por mulheres, querem desligar os ecrãs, mas também existem online. Nacionais ou internacionais, os objetivos são simples: discutir histórias, autores e conhecer pessoas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1296:728:nowe:144:389/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30145110/clubes-de-leitura.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Bloco de Esquerda questiona Governo sobre preço das fragatas",
-      "link": "https://observador.pt/2026/08/15/bloco-de-esquerda-questiona-governo-sobre-preco-das-fragatas/",
-      "pubDate": "Sat, 15 Aug 2026 14:46:53 +0100",
-      "description": "Fabian Figueiredo quer que o Ministério da Defesa apresente uma decomposição do diferencial de preço, quantificada em euros e em percentagem e identificando as diferentes componentes.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/02165405/dv1-3376-scaled.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Judocas Miguel Gago e Catarina Costa arrecadam bronze no Grande Prémio de Lima",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/judocas-miguel-gago-e-catarina-costa-arrecadam-bronze-no-grande-premio-de-lima_d1759683",
+      "pubDate": "Sat, 15 Aug 2026 16:58:21 +0100",
+      "description": "Os judocas portugueses Miguel Gago e Catarina Costa conquistaram na sexta-feira as medalhas de bronze nas categorias de -66 kg e -48 kg, respetivamente, do Grande Prémio de Lima, no Peru.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/9950f18a48af663d3275c59e79f3afff?w=350&amp;q=50&amp;rect=0,12,1620,888&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "15h Passe Verde : especialista defende reforço de transportes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-passe-verde-especialista-defende-reforco-de-transportes_a1_1759676",
-      "pubDate": "Sat, 15 Aug 2026 16:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Europeus de atletismo. Patrícia Silva e Salomé Afonso rumam à final dos 1.500 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-patricia-silva-e-salome-afonso-rumam-a-final-dos-1500-metros_d1759681",
+      "pubDate": "Sat, 15 Aug 2026 16:54:41 +0100",
+      "description": "As portuguesas Patrícia Silva e Salomé Afonso qualificaram-se hoje para a final dos 1.500 metros dos Campeonatos da Europa de atletismo, com o primeiro e terceiro lugares nas séries das eliminatórias, respetivamente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d79f3e36d929574d44508b1c258e741?w=350&amp;q=50&amp;rect=0,21,1607,881&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "ULS Algarve nega tempos de espera nas urgências de Faro e Portimão indicados pelo Portal do SNS",
-      "link": "https://www.rtp.pt/noticias/pais/uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao-indicados-pelo-portal-do-sns_n1759675",
-      "pubDate": "Sat, 15 Aug 2026 16:25:48 +0100",
-      "description": "O presidente da Unidade Local de Saúde (ULS) do Algarve negou hoje os tempos de espera nas urgências de Faro e Portimão divulgados pelo Portal do SNS, atribuindo os valores a erros no sistema informático.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/21/21cd3e32cfe80bfea855759d3f0f2486?w=350&amp;q=50&amp;rect=0,167,2048,1123&amp;auto=format"
+      "title": "Europeus de Atletismo. Agate de Sousa na final do salto em comprimento à primeira",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-agate-de-sousa-na-final-do-salto-em-comprimento-a-primeira_d1759680",
+      "pubDate": "Sat, 15 Aug 2026 16:50:07 +0100",
+      "description": "A portuguesa Agate de Sousa, campeã do mundo do salto em comprimento em pista curta, qualificou-se para a final dos Campeonatos da Europa de atletismo Birmingham2026, com os 7,00 metros da primeira tentativa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc922118551e47b872b7a997ab1501ff?w=350&amp;q=50&amp;rect=0,14,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "I Liga. Alverca - Estrela",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-alverca-estrela_e1759672",
-      "pubDate": "Sat, 15 Aug 2026 16:19:58 +0100",
-      "description": "O Alverca recebe o Estrela da Amadora este sábado, no Complexo Desportivo de Alverca, com arbitragem de José Bessa, da associação de futebol do Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b4205060f07f41a3aad31e020febd2f?w=350&amp;q=50&amp;rect=0,63,626,343&amp;auto=format"
+      "title": "Europeus de atletismo. Portugal na final dos 4x100 metros feminina, mas fora da masculina",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-portugal-na-final-dos-4x100-metros-feminina-mas-fora-da-masculina_d1759679",
+      "pubDate": "Sat, 15 Aug 2026 16:47:21 +0100",
+      "description": "A estafeta portuguesa de 4x100 feminina metros qualificou-se hoje para a final dos Campeonatos da Europa de atletismo, em Birmingham, com recorde nacional, enquanto a formação masculina ficou pelas eliminatórias.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6256fc91c4f6529c830d1bacc9784a3?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sol da Caparica. Calema, Mizzy Miles e João Pedro Pais atuaram no segundo dia",
-      "link": "https://www.rtp.pt/noticias/cultura/sol-da-caparica-calema-mizzy-miles-e-joao-pedro-pais-atuaram-no-segundo-dia_v1759669",
-      "pubDate": "Sat, 15 Aug 2026 15:31:47 +0100",
-      "description": "Os Calema foram um dos destaques do segundo dia do Sol da Caparica. Levaram milhares de pessoas ao festival. Também subiram ao palco Mizzy Miles e João Pedro Pais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/61/61b9ceaf09c014167c1de014bf432a5a_N.jpg?"
+      "title": "Extremo australiano Nestory Irankunda assina pelo Sporting",
+      "link": "https://www.rtp.pt/noticias/sporting/extremo-australiano-nestory-irankunda-assina-pelo-sporting_d1759678",
+      "pubDate": "Sat, 15 Aug 2026 16:45:11 +0100",
+      "description": "O internacional australiano Nestory Irankunda é o mais recente reforço do Sporting, após deixar os ingleses do Watford para assinar até 2031 com os ‘leões’, confirmou hoje o clube da I Liga portuguesa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d0e5bbab2e43b751bb65f7adf41467e?w=350&amp;q=50&amp;rect=0,96,1619,888&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de uma década depois, Campo Maior volta a vestir-se de flores",
-      "link": "https://www.rtp.pt/noticias/cultura/mais-de-uma-decada-depois-campo-maior-volta-a-vestir-se-de-flores_v1759668",
-      "pubDate": "Sat, 15 Aug 2026 15:30:47 +0100",
-      "description": "Em Campo Maior, as ruas enchem-se de visitantes para o último fim de semana das Festas do Povo. Onze anos depois, a vila volta a transformar-se num grande jardim de papel.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e0/e0bc789c89f5aa828f3d84e66c8c46b7_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: Gonçalo Moreira bisa na vitória do Benfica B",
+      "link": "https://maisfutebol.iol.pt/ii-liga/benfica-b/ii-liga-benfica-b-volta-a-vencer-com-bis-de-goncalo-moreira",
+      "pubDate": "Sat, 15 Aug 2026 16:04:00 +0100",
+      "description": "Encarnados foram vencer por 2-1 ao terreno da União de Leiria",
+      "thumbnail": "https://img.iol.pt/image/id/6a65354bd34e511da0b2fca7/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,14 +152,24 @@
       "thumbnail": "https://img.iol.pt/image/id/6a63a567d34e511da0b2f9b0/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Carlos Vicens: «Empate na primeira jornada? Temos de dar uma resposta ambiciosa»",
-      "link": "https://maisfutebol.iol.pt/sp-braga/carlos-vicens/carlos-vicens-empate-na-primeira-jornada-temos-de-dar-uma-resposta-ambiciosa",
-      "pubDate": "Sat, 15 Aug 2026 15:05:32 +0100",
-      "description": "Treinador do Sp. Braga antevê a receção ao Gil Vicente, relativo à segunda jornada da Liga",
-      "thumbnail": "https://img.iol.pt/image/id/6a7343c7d34ed0733ba7e4a9/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "GNR diz que não havia militares a impedir entrada do condutor que atropelou mortalmente ciclista na Volta",
+      "link": "https://sapo.pt/artigo/gnr-diz-que-nao-havia-militares-a-impedir-entrada-do-condutor-que-atropelou-mortalmente-ciclista-na-volta-6a8080b1c50b1ad904acfeb7",
+      "pubDate": "Sat, 15 Aug 2026 15:10:15 +0000",
+      "description": "Porta-voz da GNR diz que ainda não pode garantir se havia outro tipo de sinalização que impedisse a entrada de condutores naquela zona do percurso da competição.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ArXbHZAzcJzi29LY2CNu8%2FSaiud9WHJi24x0wn7KLJYAH%2BrqIXSdQ1qq3HFWvkJVWz89GOr7aO%2F3MyD0t8A6VF9NDeamkPtuc%2BKo7mGf5hGnzLjqWGJpSfI7wE8q4rKL5"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Marrocos intercetou 111 migrantes que tentavam chegar à fronteira de Ceuta",
+      "link": "https://sapo.pt/artigo/marrocos-intercetou-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta-6a80749433cbe64db3dd71b9",
+      "pubDate": "Sat, 15 Aug 2026 15:11:55 +0000",
+      "description": "As forças marroquinas intercetaram este sábado 111 migrantes, na sua maioria da África subsaariana, quando tentavam chegar à fronteira de Ceuta, e detiveram 61 pessoas por incitarem à migração ilegal",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACMV3g4ZRDcf2c%2Fy8tI7wC3K7uGUZru8tuEZcAwxCu1QUBsPdYTa2jfbl2VRh4XEH1by1v6pzOGKGaNWTrfWE5%2BVeMwDgQjKRoJHlF3DLYqWJrMCLkE1FzF8bJyfv1pIt"
     },
     {
       "sourceId": "sapo",
@@ -182,24 +202,34 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AR%2Ff1GICSPK%2FfqU5bVBV0NKQKvWxaprygrXl3adT6z91c3zZhQGcjKYMjVqGlGdnmvuObHdEZnOaXEanjeBrur8qhHMcdWoZQzvZq7OfdclMOmf1Bbp0sg%2Bzo1fcMzxP3"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Habitação pública. 28.000 casas entregues até fim de agosto",
-      "link": "https://sapo.pt/artigo/habitacao-publica-28-000-casas-entregues-ate-fim-de-agosto-6a804b4fc50b1ad904a3d1b7",
-      "pubDate": "Sat, 15 Aug 2026 11:21:48 +0000",
-      "description": "Para o cumprimento da meta, as verbas do 1.º Direito foram reforçadas em 2.800 milhões de euros (ME), através do Orçamento do Estado, que se somaram aos 1.400 ME dos fundos do PRR.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AhDcWeY78oRiU0SRlTanpq1P2num1%2F5CmarapULeLYE6Tif5w%2Fpj6kx5WZuz38XFSOpkP2ylpzt%2FGlhTgTucmQDTpvJX%2Ftd0Db1xcQfOAynHjksTppWr2Wvy9PR22WJJK"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Número de mortos devido ao sismo na Colômbia subiu para 294",
+      "link": "https://www.noticiasaominuto.com/mundo/3037052/numero-de-mortos-devido-ao-sismo-na-colombia-subiu-para-294#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:11:24",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80816e79e57.webp"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Tudo começou em Ceuta e acabou num conflito dentro de Schengen: Espanha e Itália mantêm controlos mútuos",
-      "link": "https://executivedigest.sapo.pt/explicador-tudo-comecou-em-ceuta-e-acabou-num-conflito-dentro-de-schengen-espanha-e-italia-mantem-controlos-mutuos/",
-      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
-      "description": "Espanha e Itália mantêm este sábado um braço de ferro diplomático desencadeado pelos acontecimentos de Ceuta, com verificações extraordinárias em portos e aeroportos e acusações mútuas que estão longe de desaparecer.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9d8tzATKAWM1ysX%2BxX8Ks5deZ1L%2B5XvHz82ZWw4aXy1y%2FP6HdB4neRyG3S4tN5roJiVYCYcu89YpYSDzf0C0%2FVjHpLbc%2F3vMAggNjiqCqt8XvU%2BeDG8aZtLm33sDWuiZ"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"You don't belong here\" vence Leopardo de Ouro do Festival de Locarno",
+      "link": "https://www.noticiasaominuto.com/cultura/3037047/you-dont-belong-here-vence-leopardo-de-ouro-do-festival-de-locarno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:45:59",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614793.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo0MzgsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Mulheres passam a poder ascender ao trono do Liechtenstein",
+      "link": "https://www.noticiasaominuto.com/fama/3037046/mulheres-passam-a-poder-a-ascender-ao-trono-do-liechtenstein#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 15:44:13",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a807abc2c6f1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzU5LCJjcm9wSGVpZ2h0IjoxMzI3LCJjcm9wWCI6ODIsImNyb3BZIjozNTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc3NCwiY3JvcEhlaWdodCI6MTM3NiwiY3JvcFgiOjQyMywiY3JvcFkiOjMyOX19"
     },
     {
       "sourceId": "nam",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c0282d12152.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Aeroporto italiano reabre após redução do nível de alerta do vulcão Etna",
-      "link": "https://www.noticiasaominuto.com/mundo/3037045/aeroporto-italiano-reabre-apos-reducao-do-nivel-de-alerta-do-vulcao-etna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:35:53",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47605016.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Quase 50 mortos em novo balanço do sismo que atingiu Indonésia",
-      "link": "https://www.noticiasaominuto.com/mundo/3037042/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:29:34",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613928.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "16h? ULS Algarve nega tempos de espera nas urgências de Faro e Portimão",
-      "link": "https://www.noticiasaominuto.com/pais/3037040/16h-uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:27:10",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/23621926.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O que significam afinal estas informações gravadas nos pneus?",
+      "link": "https://pplware.sapo.pt/motores/o-que-significam-afinal-estas-informacoes-gravadas-nos-pneus-2/",
+      "pubDate": "Sat, 15 Aug 2026 15:00:07 +0000",
+      "description": "Os pneus são um dos elementos mais importantes do veículo quando falamos em segurança. No mercado há pneus para todas as necessidades e bolsos, mas há obviamente diferenças entre os produtos. Hoje deixamos uma&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/08/pneu_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 11:00:39 +0000",
       "description": "Um grupo de hackers, suspeito de ter ligações à China, recorreu a agentes de Inteligência Artificial (IA) de código aberto para conduzir um dos ataques informáticos mais sofisticados alguma vez documentados contra um governo.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/china_taiwan_gemini.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Chumbada a lei que ia proibir redes sociais a menores de 15 anos em França",
-      "link": "https://pplware.sapo.pt/redes_sociais/chumbada-a-lei-que-ia-proibir-redes-sociais-a-menores-de-15-anos-em-franca/",
-      "pubDate": "Sat, 15 Aug 2026 10:00:01 +0000",
-      "description": "A pouco mais de duas semanas de entrar em vigor, a lei que ia impedir os jovens de França com menos de 15 anos de terem contas em redes sociais foi chumbada pelo mais&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/crianca-redes-sociais.jpg"
     },
     {
       "sourceId": "autosport",
