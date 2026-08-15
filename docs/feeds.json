@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-15T10:17:53.682765+00:00",
+  "updated": "2026-08-15T10:46:34.362586+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Montenegro vê o país real ou uma \"ilusão laranja\"?",
+      "link": "https://observador.pt/programas/explicador/montenegro-ve-o-pais-real-ou-uma-ilusao-laranja/",
+      "pubDate": "Sat, 15 Aug 2026 11:42:18 +0100",
+      "description": "Pedro Pinto (Chega) e António Mendonça Mendes (PS) acusam o Governo de estar desfasado da realidade. Sebastião Bugalho (PSD) rebate as críticas com os números da habitação e do crescimento económico.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sverre Magnus. Da adolescência discreta a trunfo da coroa",
+      "link": "https://observador.pt/especiais/da-adolescencia-reservada-a-discreto-trunfo-da-coroa-norueguesa-sverre-magnus-o-filho-de-haakon-e-mette-marit-que-vem-estudar-para-lisboa/",
+      "pubDate": "Sat, 15 Aug 2026 11:38:50 +0100",
+      "description": "Aos 20 anos, o filho de Haakon e Mette-Marit vê reforçada a exposição pública em representação da casa real norueguesa, num dos anos mais atribulados. Quem é o príncipe que vem estudar para Lisboa?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1078:nowe:0:703/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10184605/sverre-magnus-prince-norway.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jaime Faria conquista primeira vitória num Masters 1.000",
+      "link": "https://observador.pt/2026/08/15/tenista-jaime-faria-conquista-primeira-vitoria-num-masters-1-000/",
+      "pubDate": "Sat, 15 Aug 2026 11:38:30 +0100",
+      "description": "Além de Jaime Faria, também Nuno Borges, número um português, está na segunda ronda do torneio em Cincinnati, enquanto Henrique Rocha ficou-se pelo derradeiro jogo no 'qualifyiing'.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15102354/47515875.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A rentrée política é apenas uma estratégia de distração?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/a-rentree-politica-e-apenas-uma-estrategia-de-distracao/",
+      "pubDate": "Sat, 15 Aug 2026 11:29:16 +0100",
+      "description": "Discurso do PM é criticado por ignorar problemas que afetam o país. Pressão na fronteira de Ceuta expõe falta de solidariedade na Europa. Impasse com o Irão revela declínio da influência dos EUA.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "IP3. Trânsito cortado nas noites de 2f a 5f em Tondela",
-      "link": "https://observador.pt/2026/08/15/transito-cortado-no-ip3-nas-noites-de-segunda-a-quinta-feira-em-tondela/",
-      "pubDate": "Sat, 15 Aug 2026 11:00:58 +0100",
-      "description": "Mantêm-se os condicionamentos entre as 21h00 e as 05h00, a propósito da empreitada de requalificação e duplicação do IP3, que liga Viseu e Coimbra, no troço entre Santa Comba e Viseu.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15101637/41663178.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Volta a Portugal. GNR pede ao público que assista à prova sempre fora das faixas de rodagem",
+      "link": "https://www.rtp.pt/noticias/volta-a-portugal/volta-a-portugal-gnr-pede-ao-publico-que-assista-a-prova-sempre-fora-das-faixas-de-rodagem_d1759647",
+      "pubDate": "Sat, 15 Aug 2026 12:35:12 +0100",
+      "description": "Depois de um acidente trágico que provocou a morte a um ciclista de 19 anos na Volta a Portugal, a GNR lembrou este sábado que o público que assiste à prova deve posicionar-se sempre atrás das baias de segurança.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c047de35ac3a514ffef9d9ce4439f05c?w=350&amp;q=50&amp;rect=15,0,2160,1184&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ceuta. Marrocos trava nova tentativa de entrada de migrantes",
-      "link": "https://observador.pt/2026/08/15/marrocos-diz-ter-travado-nova-tentativa-de-entrada-de-centenas-de-migrantes-em-ceuta/",
-      "pubDate": "Sat, 15 Aug 2026 10:44:23 +0100",
-      "description": "Madrid e Rabat reforçaram a segurança após apelos para este sábado. Marrocos diz ter travado centenas de migrantes junto a Ceuta. Mas uma jovem de 17 anos terá conseguido furar os controlos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08140401/47572139.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Homem de 45 anos detido por tentativa de violação em Coimbra",
-      "link": "https://observador.pt/2026/08/15/homem-de-45-anos-detido-por-tentativa-de-violacao-em-coimbra/",
-      "pubDate": "Sat, 15 Aug 2026 10:40:22 +0100",
-      "description": "PJ \"identificou e deteve um cidadão estrangeiro, pela presumível prática de um crime de violação, na forma tentada, de que foi vítima uma mulher com 50 anos, com limitações motoras\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1024:575:nowe:0:65/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/17133322/bandeira-pj2.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Calor antecipa vindima que no Alentejo começou em julho",
-      "link": "https://observador.pt/2026/08/15/calor-intenso-antecipa-vindima-que-no-alentejo-comecou-em-julho/",
-      "pubDate": "Sat, 15 Aug 2026 10:26:12 +0100",
-      "description": "No Douro, verificou-se uma antecipação das vindimas na ordem de uma a duas semanas. Já nas regiões mais quentes, como o Tejo e o Alentejo, a colheita começou durante as últimas semanas de julho.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15094932/22602146.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tempos de espera ainda elevados em vários serviços de urgência do país",
+      "link": "https://www.rtp.pt/noticias/pais/tempos-de-espera-ainda-elevados-em-varios-servicos-de-urgencia-do-pais_n1759644",
+      "pubDate": "Sat, 15 Aug 2026 12:19:03 +0100",
+      "description": "À semelhança do que aconteceu na sexta-feira, também este sábado os tempos de espera continuam elevados em vários serviços de urgência dos hospitais do SNS.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/73/7340ceba6b62d90b6697addd4cde5e83?w=350&amp;q=50&amp;rect=0,126,2016,1105&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sismo de magnitude 5 fez tremer cidade espanhola de Granada",
-      "link": "https://www.rtp.pt/noticias/mundo/sismo-de-magnitude-5-fez-tremer-cidade-espanhola-de-granada_n1759637",
-      "pubDate": "Sat, 15 Aug 2026 11:12:00 +0100",
-      "description": "Um sismo de magnitude 5 na escala de Richter atingiu Granada, em Espanha, durante a madrugada deste sábado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fa/fab2382fc67065ad515a8ca332cd07ea?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Autoridades marroquinas travam entrada de centenas de migrantes em Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/autoridades-marroquinas-travam-entrada-de-centenas-de-migrantes-em-ceuta_n1759635",
-      "pubDate": "Sat, 15 Aug 2026 11:02:45 +0100",
-      "description": "As forças de segurança de Marrocos travaram este sábado uma tentativa de centenas de migrantes, na maioria subsarianos, de entrarem irregularmente na cidade espanhola de Ceuta, indicaram à agência de notícias espanhola EFE fontes securitárias marroquinas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c04feac7b84fe01c322b001158d8983?w=350&amp;q=50&amp;rect=1,0,5359,2938&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Atletismo: Vitória Oliveira bate recorde nacional na meia maratona em marcha",
+      "link": "https://maisfutebol.iol.pt/atletismo/europeus-de-atletismo/atletismo-vitoria-oliveira-bate-recorde-nacional-na-meia-maratona-em-marcha",
+      "pubDate": "Sat, 15 Aug 2026 11:30:06 +0100",
+      "description": "Atleta portuguesa concluiu a prova em  01:36.10 horas, retirando quatro minutos e meio ao anterior recorde",
+      "thumbnail": "https://img.iol.pt/image/id/6a803f2fd34ed0733ba7ffa0/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +117,7 @@
       "color": "#4fc48a",
       "title": "Rio Ave-FC Porto: Farioli obrigado a repetir «receita Rosario» (onzes prováveis)",
       "link": "https://maisfutebol.iol.pt/liga/rio-ave/rio-ave-fc-porto-farioli-obrigado-a-repetir-receita-rosario-onzes-provaveis",
-      "pubDate": "Sat, 15 Aug 2026 11:11:10 +0100",
+      "pubDate": "Sat, 15 Aug 2026 11:11:00 +0100",
       "description": "Com a ausência de Alan Varela confirmada, o médio dominicano deverá saltar para o onze inicial",
       "thumbnail": "https://img.iol.pt/image/id/68cdb831d34ee0c2fed050fc/250"
     },
@@ -142,44 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a802d11d34e511da0b336fa/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Gustavo Varela brilha na vitória do Monza",
-      "link": "https://maisfutebol.iol.pt/made-in/internacional/video-gustavo-varela-brilha-na-vitoria-do-monza",
-      "pubDate": "Sat, 15 Aug 2026 09:43:00 +0100",
-      "description": "Ricardo Mangas, ex-Sporting, também foi titular no conjunto italiano",
-      "thumbnail": "https://img.iol.pt/image/id/6a802646d34e511da0b336ea/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Tudo começou em Ceuta e acabou num conflito dentro de Schengen: Espanha e Itália mantêm controlos mútuos",
-      "link": "https://executivedigest.sapo.pt/explicador-tudo-comecou-em-ceuta-e-acabou-num-conflito-dentro-de-schengen-espanha-e-italia-mantem-controlos-mutuos/",
-      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
-      "description": "Espanha e Itália mantêm este sábado um braço de ferro diplomático desencadeado pelos acontecimentos de Ceuta, com verificações extraordinárias em portos e aeroportos e acusações mútuas que estão longe de desaparecer.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9d8tzATKAWM1ysX%2BxX8Ks5deZ1L%2B5XvHz82ZWw4aXy1y%2FP6HdB4neRyG3S4tN5roJiVYCYcu89YpYSDzf0C0%2FVjHpLbc%2F3vMAggNjiqCqt8XvU%2BeDG8aZtLm33sDWuiZ"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Tragédia na Volta choca mundo. O que se sabe da morte de Finlay Tarling?",
-      "link": "https://sapo.pt/artigo/tragedia-na-volta-choca-mundo-o-que-se-sabe-da-morte-de-finlay-tarling-6a801229bec1d8607ed84e6d",
-      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
-      "description": "Finlay Tarling, ciclista galês de apenas 19 anos, foi atropelado mortalmente em plena oitava etapa da Volta a Portugal. Veículo ligeiro de mercadorias terá invadido percurso antes da passagem do carro-vassoura.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AzFQm4xiPOqHDp04Oz5T%2B%2BZhN0uqO42Brruv521sBb8BxroSrf7JiSTxkrUtDl7DS%2FYSjiQtUyYcyUw%2FlRDJPO5rFWqnZ1k4u5VTKI6D6WbjpcLcKj0NIXcSv4CacOxpC"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Cinco anos de poder talibã no Afeganistão marcados por graves violações dos direitos humanos",
-      "link": "https://sapo.pt/artigo/cinco-anos-de-poder-taliba-no-afeganistao-marcados-por-graves-violacoes-dos-direitos-humanos-6a800b627feb5726f86ef885",
-      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
-      "description": "Cinco anos após o regresso ao poder em Cabul, os talibãs mantêm um regime marcado por graves violações dos direitos humanos, com fortes restrições às mulheres e raparigas, repressão da liberdade de expressão e uma crise humanitária que continua a...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AzN79ASqWmO2v22%2B1ElKyQM9Anl9smSKwCPSdvjbUSIXGRfxXd78La%2ByRvQOtJySCGDOV%2FiqvbXQjzE5faMK05mZWVFWmUjpv5kI7iCbG5y4Yoey%2BPIeWHrP4UPju9507"
+      "title": "Passe Ferroviário Verde de 20 euros chega a Lisboa e Porto em setembro",
+      "link": "https://sapo.pt/artigo/passe-ferroviario-verde-de-20-euros-chega-a-lisboa-e-porto-em-setembro-6a7fabe8c50b1ad90495c59e",
+      "pubDate": "Sat, 15 Aug 2026 08:03:07 +0000",
+      "description": "O passe ferroviário verde de 20 euros vai chegar às áreas metropolitanas de Lisboa e do Porto no início de setembro, anunciou Luís Montenegro na Festa do Pontal.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A9CZ9uKQswD2igqxJrIEW14ghCqgu9uhbpAPRmYAYKg9FuAi%2BnKvO8T9gcUTHf83Zf8msiwz09YpdQF%2FNL%2BWAWKXqdx0nrkxWOtpi0CRpitT6Myt%2BZnyrwXqJjwccJRrf"
     },
     {
       "sourceId": "sapo",
@@ -195,11 +175,51 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Sismo de magnitude 5 abala Granada, Espanha, com 40 réplicas mas sem causar feridos",
-      "link": "https://sapo.pt/artigo/sismo-de-magnitude-5-abala-granada-espanha-com-40-replicas-mas-sem-causar-feridos-6a801fed7feb5726f870d4fc",
-      "pubDate": "Sat, 15 Aug 2026 09:07:04 +0000",
-      "description": "Junta da Andaluzia ativou fase de emergência 'situação operacional 1' do Plano de Resposta ao Risco Sísmico.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A%2FLpYMYP5MBXxMYVociDU04xDDYtNeaJmEm7UfIYdKn82yUQjOzDNMI4N6H2LEjv5FjX1jt1xM7R5EAtqPgN8l0GuuT4zmTCqNB5f2P8JXIhhtl784FZElvBE6azcW4Dd"
+      "title": "Tudo começou em Ceuta e acabou num conflito dentro de Schengen: Espanha e Itália mantêm controlos mútuos",
+      "link": "https://executivedigest.sapo.pt/explicador-tudo-comecou-em-ceuta-e-acabou-num-conflito-dentro-de-schengen-espanha-e-italia-mantem-controlos-mutuos/",
+      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
+      "description": "Espanha e Itália mantêm este sábado um braço de ferro diplomático desencadeado pelos acontecimentos de Ceuta, com verificações extraordinárias em portos e aeroportos e acusações mútuas que estão longe de desaparecer.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A9d8tzATKAWM1ysX%2BxX8Ks5deZ1L%2B5XvHz82ZWw4aXy1y%2FP6HdB4neRyG3S4tN5roJiVYCYcu89YpYSDzf0C0%2FVjHpLbc%2F3vMAggNjiqCqt8XvU%2BeDG8aZtLm33sDWuiZ"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Urgências do Algarve registam tempos de espera superiores a 15 horas",
+      "link": "https://sapo.pt/artigo/urgencias-do-algarve-registam-tempos-de-espera-superiores-a-15-horas-6a803c84c50b1ad904a15a30",
+      "pubDate": "Sat, 15 Aug 2026 10:20:15 +0000",
+      "description": "Os constrangimentos surgem num período de elevada pressão sobre os serviços de saúde, numa altura em que o Algarve regista um aumento significativo da população devido à época turística.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ApLV%2BHp7g4F7gSMmo6unH5iCrbc50JA8LwER%2Fjk9lc4Zko4ItmNbkoHF05L3qqW%2BAk65IfqsKxvIs4LLMfDufLai%2Bdsg4X2NtGeL93GmqHzg3rFB1Q7zGKzlVT7vpfpRX"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Tragédia na Volta choca mundo. O que se sabe da morte de Finlay Tarling?",
+      "link": "https://sapo.pt/artigo/tragedia-na-volta-choca-mundo-o-que-se-sabe-da-morte-de-finlay-tarling-6a801229bec1d8607ed84e6d",
+      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
+      "description": "Finlay Tarling, ciclista galês de apenas 19 anos, foi atropelado mortalmente em plena oitava etapa da Volta a Portugal. Veículo ligeiro de mercadorias terá invadido percurso antes da passagem do carro-vassoura.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AzFQm4xiPOqHDp04Oz5T%2B%2BZhN0uqO42Brruv521sBb8BxroSrf7JiSTxkrUtDl7DS%2FYSjiQtUyYcyUw%2FlRDJPO5rFWqnZ1k4u5VTKI6D6WbjpcLcKj0NIXcSv4CacOxpC"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Turista baleada na Baixa de Lisboa já teve alta e regressou à Suécia",
+      "link": "https://www.noticiasaominuto.com/pais/3036975/turista-baleada-na-baixa-de-lisboa-ja-teve-alta-e-regressou-a-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 11:28:17",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6581853c4a750.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNDksImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Cerca de 28 mil casas de habitação pública entregues até ao fim de agosto",
+      "link": "https://www.noticiasaominuto.com/economia/3036974/cerca-de-28-mil-casas-de-habitacao-publica-entregues-ate-ao-fim-de-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 11:19:56",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45445264.webp"
     },
     {
       "sourceId": "nam",
@@ -230,26 +250,6 @@
       "pubDate": "2026-08-15 10:57:49",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8037f2cc367.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Número de mortos em sismo da Indonésia volta a subir. São já 38",
-      "link": "https://www.noticiasaominuto.com/mundo/3036963/numero-de-mortos-em-sismo-da-indonesia-volta-a-subir-sao-ja-38#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:44:31",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a803501f2c51.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rute Cardoso muito acarinhada ao celebrar aniversário. \"Que sejam leves\"",
-      "link": "https://www.noticiasaominuto.com/fama/3036955/rute-cardoso-muito-acarinhada-ao-celebrar-aniversario-que-sejam-leves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:34:35",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802ac3ae3d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDExLCJjcm9wSGVpZ2h0Ijo1NjksImNyb3BYIjo3LCJjcm9wWSI6MjkzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MTAsImNyb3BIZWlnaHQiOjEyNjEsImNyb3BYIjoyNDUsImNyb3BZIjo4fX0="
     },
     {
       "sourceId": "pplware",
