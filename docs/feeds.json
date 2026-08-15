@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-15T05:49:56.059102+00:00",
+  "updated": "2026-08-15T06:30:50.835168+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2475/",
+      "pubDate": "Sat, 15 Aug 2026 07:13:29 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Se sente dor e lhe disseram que é normal, não desista de...",
+      "link": "https://observador.pt/programas/conversas-sobre-dor/se-sente-dor-e-lhe-disseram-que-e-normal-nao-desista-de-procurar-outra-solucao/",
+      "pubDate": "Sat, 15 Aug 2026 07:03:53 +0100",
+      "description": "\"O exercício físico no doente oncológico prolonga a vida\", diz a médica fisiatra Joana Henriques. “Ter dor nunca é normal, nunca desistam de procurar ajuda”, aconselha a fisioterapeuta Tânia Leiria.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/16210620/770-podcastconsulta-informal.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Donald Trump admite declarar Ormuz território dos EUA",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2464/",
       "pubDate": "Sat, 15 Aug 2026 06:16:43 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Presidente dos Estados Unidos diz apenas estar à espera da derrota do Irão para avançar com a decisão. Ainda, quase 900 agentes da polícia e mais de 700 guardas civis espanhóis mobilizados em Ceuta.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. NSN Development Team vai abandonar a Volta a Portugal",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2371/",
-      "pubDate": "Sat, 15 Aug 2026 04:16:40 +0100",
-      "description": "Decisão tomada na sequência da morte do ciclista Finlay Tarling, durante etapa desta sexta-feira. Ainda, sismo de magnitude 7,7 atingiu ilha das Flores na Indonésia, país já emitiu alerta de tsunami.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Indonésia emite alerta de tsunami depois de sismo de 7,7",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2406/",
-      "pubDate": "Sat, 15 Aug 2026 03:16:56 +0100",
-      "description": "Seguiram-se três réplicas. Autoridades pediram aos residentes para se manterem afastados das praias e margens dos rios. Ainda, Luís Montenegro critica censura moderna, em que só se fala de polémicas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "7h Passe ferroviário alargado às áreas metropolitanas de Porto e Lisboa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-passe-ferroviario-alargado-as-areas-metropolitanas-de-porto-e-lisboa_a1_1759621",
+      "pubDate": "Sat, 15 Aug 2026 08:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -88,16 +98,6 @@
       "title": "3h Passe ferroviário alargado às áreas metropolitanas de Porto e Lisboa",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-passe-ferroviario-alargado-as-areas-metropolitanas-de-porto-e-lisboa_a1_1759607",
       "pubDate": "Sat, 15 Aug 2026 05:32:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Sismo na Indonésia. Levantado alerta de tsunami",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismo-na-indonesia-levantado-alerta-de-tsunami_a1_1759601",
-      "pubDate": "Sat, 15 Aug 2026 03:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ministro da Defesa do Japão visita santuário símbolo do militarismo",
-      "link": "https://www.noticiasaominuto.com/mundo/3036881/ministro-da-defesa-do-japao-visita-santuario-simbolo-do-militarismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:40:31",
+      "title": "Sismo de magnitude 5,2 sentido em Granada e Málaga",
+      "link": "https://www.noticiasaominuto.com/mundo/3036915/sismo-de-magnitude-5-2-sentido-em-granada-e-malaga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:59:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47595731.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8000fc1f964.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Seul quer diálogo com Pyongyang para terminar com Guerra da Coreia",
-      "link": "https://www.noticiasaominuto.com/mundo/3036908/seul-quer-dialogo-com-pyongyang-para-terminar-com-guerra-da-coreia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:30:58",
+      "title": "Trump confirma novo porta-aviões. Irá substituir o USS Abraham Lincoln",
+      "link": "https://www.noticiasaominuto.com/mundo/3036865/trump-confirma-novo-porta-avioes-ira-substituir-o-uss-abraham-lincoln#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:50:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47612872.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ffe2d93aee.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Parlamento de Taiwan aprova orçamento para 2026 após atraso recorde",
-      "link": "https://www.noticiasaominuto.com/mundo/3036895/parlamento-de-taiwan-aprova-orcamento-para-2026-apos-atraso-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:27:58",
+      "title": "Rio Ave-FC Porto: Campeão nacional quer evitar eclipse nos Arcos",
+      "link": "https://www.noticiasaominuto.com/desporto/3036464/rio-ave-fc-porto-campeao-nacional-quer-evitar-eclipse-nos-arcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:49:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47600168.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6784fb653bad2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eclipse lunar parcial será visível em toda a Espanha em 28 de agosto",
-      "link": "https://www.noticiasaominuto.com/tech/3036878/eclipse-lunar-parcial-sera-visivel-em-toda-a-espanha-em-28-de-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:24:59",
+      "title": "\"Acreditam em tudo o que leem\". Rui Borges reage aos assobios a Suárez",
+      "link": "https://www.noticiasaominuto.com/desporto/3036909/acreditam-em-tudo-o-que-leem-rui-borges-reage-aos-assobios-a-suarez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:48:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47600731.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ff8084c510.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sismo de magnitude 3,4 na escala de Richter registado na ilha do Faial",
-      "link": "https://www.noticiasaominuto.com/pais/3036893/sismo-de-magnitude-3-4-na-escala-de-richter-registado-na-ilha-do-faial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:17:56",
+      "title": "China apresenta queixa ao Japão após visita de ministros a santuário",
+      "link": "https://www.noticiasaominuto.com/mundo/3036911/china-apresenta-queixa-ao-japao-apos-visita-de-ministros-a-santuario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:43:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45574948.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613022.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O seu próximo smartphone vai durar até 2033? Google garante que sim",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-seu-proximo-smartphone-vai-durar-ate-2033-google-garante-que-sim/",
+      "pubDate": "Sat, 15 Aug 2026 06:00:17 +0000",
+      "description": "A compra de um smartphone envolve sempre ponderar a durabilidade do investimento. A pensar nisso, a Google deu um passo importante com o lançamento do Pixel 11. Para além das atualizações Android por 7&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/pixel_11_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 14 Aug 2026 17:30:13 +0000",
       "description": "A aviação elétrica acaba de alcançar um marco importante. O Heart X1, considerado o maior avião 100% elétrico alguma vez colocado no ar, completou com sucesso o seu primeiro voo experimental. Durante 27 minutos,&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/aviao_eletrico00-1.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Pixel 11 já entende linguagem gestual e converte-a em texto em tempo real",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-pixel-11-ja-entende-linguagem-gestual-e-converte-a-em-texto-em-tempo-real/",
-      "pubDate": "Fri, 14 Aug 2026 17:00:02 +0000",
-      "description": "Os smartphones são uma ferramenta essencial no dia a dia, mas podem ainda ir mais longe. A Google percebeu esta potencialidade e tem trabalhado nesse sentido. A mais recente proposta veio com os novos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/google_linguagem_gestual_1.jpg"
     },
     {
       "sourceId": "autosport",
