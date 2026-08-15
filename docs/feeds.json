@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-15T20:46:43.262066+00:00",
+  "updated": "2026-08-15T21:16:26.163877+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "Pedro queria mostrar que é o melhor, mas não foi o Día(z)",
+      "link": "https://observador.pt/2026/08/15/pedro-so-queria-mostrar-que-e-o-melhor-mas-nao-foi-o-diaz-pichardo-vice-campeao-da-europa-do-triplo-salto/",
+      "pubDate": "Sat, 15 Aug 2026 21:45:05 +0100",
+      "description": "Díaz disse que era o melhor — e é. Pichardo voltou aos treinos para derrotar o amigo e entrou na final em bom plano, mas o italiano respondeu com o quarto melhor salto da história. Fica a prata.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15213557/gettyimages-2290625835-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "21h. Volta regressou à estrada após morte de ciclista",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1729/",
       "pubDate": "Sat, 15 Aug 2026 21:33:26 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Alexis Guérin está cada vez mais perto de vencer a edição deste ano e falou do acidente de ontem. Ainda, incêndio no Parque Natural de Montesinho está a ser combatido por mais de 100 operacionais.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,64 +52,74 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15204742/47614606.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Académico de Viseu perde em casa frente a Santa Clara",
-      "link": "https://observador.pt/2026/08/15/academico-de-viseu-perde-em-casa-frente-a-santa-clara/",
-      "pubDate": "Sat, 15 Aug 2026 20:47:20 +0100",
-      "description": "Santa Clara bateu Académico de Viseu por um golo. Marcador foi Gonçalo Paciência.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15201408/47615775.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Europeus de Atletismo. Isaac Nader 12.º nos 1.500 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-isaac-nader-12o-nos-1500-metros_d1759731",
+      "pubDate": "Sat, 15 Aug 2026 22:58:45 +0100",
+      "description": "O português Isaac Nader terminou hoje no 12.º lugar a final dos 1.500 metros dos Campeonatos da Europa de atletismo, na cidade inglesa de Birmingham, com o tempo de 03.39,80 mimutos, a 3,99 segundos do vencedor, o neerlandês Stefan Nillessen.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb9506484de56818420a42bdbf26c16d?w=350&amp;q=50&amp;rect=0,189,5368,2943&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Veículos dos bombeiros ardeu em Vinhais, cinco operacionais ficaram feridos",
-      "link": "https://www.rtp.pt/noticias/pais/veiculos-dos-bombeiros-ardeu-em-vinhais-cinco-operacionais-ficaram-feridos_n1759726",
-      "pubDate": "Sat, 15 Aug 2026 22:39:25 +0100",
-      "description": "Um veículo florestal de combate a incêndios de Vinhais ardeu no incêndio do concelho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/05/058d5bae955a5ce25ae7abcb69b2e987?w=350&amp;q=50&amp;rect=0,277,4032,2211&amp;auto=format"
+      "title": "Nadadora Kate Douglass fixa recorde mundial dos 50 m livres em 23,49 segundos",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-kate-douglass-fixa-recorde-mundial-dos-50-m-livres-em-2349-segundos_d1759730",
+      "pubDate": "Sat, 15 Aug 2026 22:56:34 +0100",
+      "description": "A nadadora norte-americana Kate Douglass bateu hoje o recorde do mundo dos 50 metros livres, fixando-o em 23,49 segundos, durante as eliminatórias dos Campeonatos Pan-Pacíficos, em Irvine, nos Estados Unidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c40cd9f0da6da8410bf825ef8366395?w=350&amp;q=50&amp;rect=0,275,3140,1721&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Volta a Portugal. Alexis Guerin a um passo de vencer a prova",
-      "link": "https://www.rtp.pt/noticias/desporto/volta-a-portugal-alexis-guerin-a-um-passo-de-vencer-a-prova_v1759724",
-      "pubDate": "Sat, 15 Aug 2026 22:28:47 +0100",
-      "description": "O francês Alexis Guerin voltou a vencer uma etapa nesta Volta a Portugal.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6d/6d9a5d7eaaa2461526e1c62d67569321_N.jpg?"
+      "title": "II Liga. Torreense em inferioridade numérica resgata empate na compensação",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-torreense-em-inferioridade-numerica-resgata-empate-na-compensacao_d1759728",
+      "pubDate": "Sat, 15 Aug 2026 22:54:29 +0100",
+      "description": "O Torreense e o Penafiel empataram hoje 2-2, em encontro da segunda ronda da II Liga de futebol, com o detentor da Taça de Portugal a conseguir o empate aos 90+3 minutos, já reduzido a 10 elementos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Celorico de Basto. Acidente com viatura dos bombeiros provoca um morto",
-      "link": "https://www.rtp.pt/noticias/pais/celorico-de-basto-acidente-com-viatura-dos-bombeiros-provoca-um-morto_n1759723",
-      "pubDate": "Sat, 15 Aug 2026 22:20:45 +0100",
-      "description": "O Ministério da Administração Interna confirmou este sábado a morte de um cidadão na sequência de um acidente que envolveu uma viatura dos Bombeiros de Amarante.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb7a46abeee9cc737f524fc7a47baaef?w=350&amp;q=50&amp;rect=0,152,2048,1123&amp;auto=format"
+      "title": "Europeus de atletismo. Jéssica Barreira termina heptatlo no 12.º lugar",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-jessica-barreira-termina-heptatlo-no-12o-lugar_d1759727",
+      "pubDate": "Sat, 15 Aug 2026 22:52:55 +0100",
+      "description": "Jéssica Barreira conseguiu hoje a melhor classificação de sempre de uma portuguesa no heptatlo em Campeonatos da Europa de atletismo, ao terminar no 12.º lugar, após ter sido 21.ª nos 800 metros.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/45a67e7366f4d86daaf0d664e93618a6?w=350&amp;q=50&amp;rect=0,182,3625,1987&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Excesso de mortalidade. Mais 680 óbitos do meio de junho ao fim de julho",
-      "link": "https://www.rtp.pt/noticias/pais/excesso-de-mortalidade-mais-680-obitos-do-meio-de-junho-ao-fim-de-julho_v1759722",
-      "pubDate": "Sat, 15 Aug 2026 21:57:47 +0100",
-      "description": "Morreram em Portugal mais 680 pessoas do que era esperado entre junho e julho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c8/c8c398e768d068630a63d7d34fbb539c_N.jpg?"
+      "title": "Pichardo conquista prata nos Europeus de Atletismo em Birmingham",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/pichardo-conquista-prata-nos-europeus-de-atletismo-em-birmingham_d1759717",
+      "pubDate": "Sat, 15 Aug 2026 22:46:41 +0100",
+      "description": "O português Pedro Pablo Pichardo voltou hoje a conquistar a medalha de prata do triplo salto nos Campeonatos da Europa de atletismo Birmingham2026, com 17,76 metros, a 39 centímetros do italiano Andy Díaz.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e444f201d2c29e13a310ab4b914163ed?w=350&amp;q=50&amp;rect=0,32,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Há menos turistas a visitar o Algarve em agosto",
-      "link": "https://www.rtp.pt/noticias/pais/ha-menos-turistas-a-visitar-o-algarve-em-agosto_v1759721",
-      "pubDate": "Sat, 15 Aug 2026 21:56:52 +0100",
-      "description": "A descida para já é pequena, mas o aumento dos preços está claramente a afastar portugueses da região algarvia este verão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d5/d599e5ada99b36f3a5cc8f6b446f87ff_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: vitória expressiva do Alavés frente ao Getafe na abertura da LaLiga",
+      "link": "https://maisfutebol.iol.pt/internacional/espanha/espanha-vitoria-expressiva-do-alaves-frente-ao-getafe-no-jogo-de-abertura",
+      "pubDate": "Sat, 15 Aug 2026 21:49:00 +0100",
+      "description": "Equipa do País Basco constrói triunfo por 3-0 nos últimos 20 minutos do encontro",
+      "thumbnail": "https://img.iol.pt/image/id/6a80cffdd34e511da0b3386c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Europeus de Atletismo: Pichardo segura «prata» na final do triplo salto",
+      "link": "https://maisfutebol.iol.pt/atletismo/campeonatos-da-europa/atletismo-pedro-pichardo-segura-prata-na-final-do-triplo-salto",
+      "pubDate": "Sat, 15 Aug 2026 21:45:00 +0100",
+      "description": "Atleta português termina com registo de 17.76 e apenas atrás do italiano Andy Díaz Hernández",
+      "thumbnail": "https://img.iol.pt/image/id/66b697a9d34ea1acf26d30e7/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 21:32:00 +0100",
       "description": "Corrida foi ganha pelo neerlandês Stefan Nillessen",
       "thumbnail": "https://img.iol.pt/image/id/6a80ccd6d34e511da0b33863/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Torreense recupera de dupla desvantagem e empata com o Penafiel",
-      "link": "https://maisfutebol.iol.pt/futebol/ii-liga/ii-liga-torreense-recupera-de-dupla-desvantagem-e-empata-com-o-penafiel",
-      "pubDate": "Sat, 15 Aug 2026 21:22:00 +0100",
-      "description": "Em casa emprestada, a equipa de Torres Vedras recupera de 0-2 nos descontos quando jogava reduzida a dez elementos",
-      "thumbnail": "https://img.iol.pt/image/id/6a6e5708d34e511da0b311a6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Amorim: «Continuo a gostar muito do Man United, mas estou muito feliz no Milan»",
-      "link": "https://maisfutebol.iol.pt/internacional/italia/amorim-continuo-a-gostar-muito-do-man-united-mas-estou-muito-feliz-no-milan",
-      "pubDate": "Sat, 15 Aug 2026 21:09:00 +0100",
-      "description": "Treinador do Milan deixa ainda um aviso sério a Rafael Leão",
-      "thumbnail": "https://img.iol.pt/image/id/6a7742cdd34e511da0b3251f/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Jovens não reconhecem António José Seguro e vídeo é viral. Goucha reage",
+      "link": "https://www.noticiasaominuto.com/fama/3037036/jovens-nao-reconhecem-antonio-jose-seguro-e-video-e-viral-goucha-reage#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 22:00:55",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6765ca4dbcc77.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzcyLCJjcm9wSGVpZ2h0Ijo3NzIsImNyb3BYIjo1NiwiY3JvcFkiOjE5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTAsImNyb3BIZWlnaHQiOjE0NDAsImNyb3BYIjo1OTMsImNyb3BZIjoxNX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Suspense em Vila do Conde. Golo de Kiwior foi anulado ao FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3037125/suspense-em-vila-do-conde-golo-de-kiwior-foi-anulado-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:57:58",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80d2bc7a7d0.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Ceuta reforça vigilância sanitária e ambiental com plano extraordinário",
+      "link": "https://www.noticiasaominuto.com/mundo/3037124/ceuta-reforca-vigilancia-sanitaria-e-ambiental-com-plano-extraordinario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:52:40",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80d11a47f1e.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Titular um ano depois, Nehuén Pérez deixou assim o FC Porto a vencer",
+      "link": "https://www.noticiasaominuto.com/desporto/3037122/titular-um-ano-depois-nehuen-perez-deixou-assim-o-fc-porto-a-vencer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:49:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80d08d86adf.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Alavés bate Getafe no arranque da La Liga",
       "link": "https://www.noticiasaominuto.com/ultima-hora/3037119/alaves-bate-getafe-no-arranque-da-la-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 21:41:41",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ce91994be.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Incêndios. Aldeia de Dine em Vinhais evacuada \"por precaução\"",
-      "link": "https://www.noticiasaominuto.com/pais/3037121/incendios-aldeia-de-dine-em-vinhais-evacuada-por-precaucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:41:12",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e958e92f3c3.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Isaac Nader 12.º nos 1.500 metros dos Europeus de atletismo",
-      "link": "https://www.noticiasaominuto.com/desporto/3037120/isaac-nader-12-nos-1500-metros-dos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:39:10",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45676561.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQyfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Atenção, Benfica. Bayern justifica ausência de Palhinha de particular",
-      "link": "https://www.noticiasaominuto.com/desporto/3037118/atencao-benfica-bayern-justifica-ausencia-de-palhinha-e-assume-saida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:37:19",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ff8250f19a2.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Viatura dos Bombeiros de Amarante despista-se e mata motociclista",
-      "link": "https://www.noticiasaominuto.com/pais/3037117/viatura-dos-bombeiros-de-amarante-despista-se-e-mata-motociclista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:11:04",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc665a5c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjYxNSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
