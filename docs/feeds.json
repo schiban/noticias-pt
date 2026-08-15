@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T18:55:08.608786+00:00",
+  "updated": "2026-08-15T19:18:50.961973+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 20h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2027/",
+      "pubDate": "Sat, 15 Aug 2026 20:14:36 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Zâmbia. UE alerta para restrição das liberdades nas eleições",
+      "link": "https://observador.pt/2026/08/15/ue-alerta-para-restricao-das-liberdades-fundamentais-nas-eleicoes-da-zambia/",
+      "pubDate": "Sat, 15 Aug 2026 20:06:27 +0100",
+      "description": "Missão de observação da UE nas eleições da Zâmbia considerou que decorreram de forma tranquila, mas num contexto de restrição das \"liberdades fundamentais\" e de \"concorrência desleal\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15194549/47604651.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O dia em que Berlim acordou com um Muro",
-      "link": "https://observador.pt/especiais/o-13-de-agosto-abriu-me-os-olhos-ja-nao-queria-pactuar-com-aquilo-o-dia-em-que-berlim-acordou-com-um-muro/",
-      "pubDate": "Sat, 15 Aug 2026 19:04:29 +0100",
-      "description": "Há 65 anos, a RDA construía uma barreira para separar Berlim numa só noite. O Observador falou com quem cresceu ao lado do Muro, quem fugiu e quem ajudou outros a escapar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3732:2098:nowe:0:176/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13181539/gettyimages-515450650.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Rio Ave - FC Porto",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-rio-ave-fc-porto_e1759705",
+      "pubDate": "Sat, 15 Aug 2026 21:09:09 +0100",
+      "description": "O campeão nacional FC Porto, que entrou a vencer na I Liga, defronta esta noite o Rio Ave, que ainda não pontuou, em Vila do Conde, com arbitragem a cargo de Miguel Fonseca, da associação do Porto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d6514ab6d45499fe5dbd7abc5a84167?w=350&amp;q=50&amp;rect=0,62,1487,815&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dados fiscais de 678 mil contribuintes roubados em França",
-      "link": "https://observador.pt/2026/08/15/justica-francesa-investiga-roubo-de-dados-fiscais-de-678-mil-contribuintes/",
-      "pubDate": "Sat, 15 Aug 2026 19:01:32 +0100",
-      "description": "utoridades judiciais francesas abriram investigação a um ciberataque contra o Fisco realizado em junho. Dados fiscais de 678 mil contribuintes (particulares e empresas) foram roubados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/08183452/22589826.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Diogo Ribeiro na final dos 50 metros livres, Camila Rebelo oitava nos 100 costas",
+      "link": "https://www.rtp.pt/noticias/selecao-nacional/diogo-ribeiro-na-final-dos-50-metros-livres-camila-rebelo-oitava-nos-100-costas_d1759714",
+      "pubDate": "Sat, 15 Aug 2026 21:06:55 +0100",
+      "description": "O nadador português Diogo Ribeiro apurou-se hoje para a final da prova dos 50 metros livres dos Europeus de desportos aquáticos de 2026, enquanto Camila Rebelo foi oitava na final dos 100 costas em Paris.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb5fdbb522cf0c74e219409725bd7d09?w=350&amp;q=50&amp;rect=0,107,1799,986&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,74 +102,54 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Incêndio lavra no Parque Natural de Montesinho",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-incendio-lavra-no-parque-natural-de-montesinho_a1_1759709",
-      "pubDate": "Sat, 15 Aug 2026 20:16:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Marrocos ordena expulsão de jornalistas espanhóis que cobriam crise migratória em Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/marrocos-ordena-expulsao-de-jornalistas-espanhois-que-cobriam-crise-migratoria-em-ceuta_n1759708",
-      "pubDate": "Sat, 15 Aug 2026 19:54:48 +0100",
-      "description": "Um representante do Ministério marroquino do Interior ordenou este sábado a saída das equipas da agência de notícias EFE e da televisão pública espanhola TVE de Fnideq, Castillejos, onde se encontravam a fazer a cobertura da situação junto à fronteira de Ceuta.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6d380518e309b6fb14e364564f2cb74a?w=350&amp;q=50&amp;rect=0,337,3602,1975&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Basquetebol: Javian Davis troca FC Porto pelo Sporting",
+      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-javian-davis-troca-o-fc-porto-pelo-sporting",
+      "pubDate": "Sat, 15 Aug 2026 20:11:00 +0100",
+      "description": "Poste norte-americano segue para a terceira temporada em Portugal",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b6cfd34e511da0b33845/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Musiala desmaia em jogo de pré-época do Bayern Munique",
-      "link": "https://maisfutebol.iol.pt/internacional/alemanha/video-musiala-desmaia-em-jogo-de-pre-epoca-do-bayern-munique",
-      "pubDate": "Sat, 15 Aug 2026 19:34:00 +0100",
-      "description": "Internacional alemão sentiu-se mal devido ao calor intenso",
-      "thumbnail": "https://img.iol.pt/image/id/6a80afaad34e511da0b33838/250"
+      "title": "Académico Viseu-Santa Clara, 0-1 (crónica)",
+      "link": "https://maisfutebol.iol.pt/academico-viseu/primeira-liga/academico-viseu-santa-clara-0-1-cronica",
+      "pubDate": "Sat, 15 Aug 2026 20:09:39 +0100",
+      "description": "37 anos se passaram",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b60bd34ed0733ba80087/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: reviravolta garante triunfo ao Swansea de Vítor Matos no Championship",
-      "link": "https://maisfutebol.iol.pt/inglaterra/championship/video-reviravolta-garante-triunfo-ao-swansea-de-vitor-matos-no-championship",
-      "pubDate": "Sat, 15 Aug 2026 19:09:00 +0100",
-      "description": "Galeses abrem o campeonato com uma vitória na casa do Stoke City",
-      "thumbnail": "https://img.iol.pt/image/id/6a80ab40d34e511da0b3382e/250"
+      "title": "Rio Ave-FC Porto (onzes): Nehuen Pérez titular no lugar de Martim Fernandes",
+      "link": "https://maisfutebol.iol.pt/fc-porto/rio-ave/rio-ave-fc-porto-onzes-nehuen-perez-titular-no-lugar-de-martim-fernandes",
+      "pubDate": "Sat, 15 Aug 2026 19:54:09 +0100",
+      "description": "Pablo Rosário e Deniz Gul também entram no onze nas posições de Alan Varela e André Silva",
+      "thumbnail": "https://img.iol.pt/image/id/6a61292dd34ef04b4f3f857f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Escândalo no Championship: golo marcado com a mão é validado",
-      "link": "https://maisfutebol.iol.pt/internacional/championship/escandalo-no-championship-golo-marcado-com-a-mao-e-validado",
-      "pubDate": "Sat, 15 Aug 2026 18:41:31 +0100",
-      "description": "Aune Heggebo foi o protagonista do lance polémico no Norwich-West Brom",
-      "thumbnail": "https://img.iol.pt/image/id/6a80a3dbd34ed0733ba8006c/250"
+      "title": "Liga 3: Paredes e Belenenses vencem e lideram",
+      "link": "https://maisfutebol.iol.pt/futebol/liga-3/liga-3-paredes-e-belenenses-vencem-e-lideram",
+      "pubDate": "Sat, 15 Aug 2026 19:53:54 +0100",
+      "description": "Segunda jornada do terceiro escalão do futebol nacional fica completa no domingo",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b54fd34e511da0b3383f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Pedro Neto titular na vitória do Chelsea no último teste da pré-temporada",
-      "link": "https://maisfutebol.iol.pt/internacional/chelsea/pedro-neto-titular-na-vitoria-do-chelsea-no-ultimo-teste-da-pre-temporada",
-      "pubDate": "Sat, 15 Aug 2026 18:35:00 +0100",
-      "description": "Blues venceram por 3-1 o Real Sociedad, em jogo marcado por assobios ao ex-Benfica Enzo Fernández",
-      "thumbnail": "https://img.iol.pt/image/id/6a809e72d34ed0733ba80063/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Djed Spence deixa Tottenham para reforçar Inter Milão",
-      "link": "https://maisfutebol.iol.pt/mercado/transferencias/oficial-djed-spence-deixa-o-tottenham-para-reforcar-o-inter-milao",
-      "pubDate": "Sat, 15 Aug 2026 18:09:00 +0100",
-      "description": "Defesa inglês custa 35 milhões de euros ao campeão italiano",
-      "thumbnail": "https://img.iol.pt/image/id/6a809ce4d34ed0733ba8005e/250"
+      "title": "Turquia: Salah estreia-se com empate pelo Trabzonspor",
+      "link": "https://maisfutebol.iol.pt/turquia/trabzonspor/turquia-salah-estreia-se-com-empate-pelo-trabzonspor",
+      "pubDate": "Sat, 15 Aug 2026 19:51:27 +0100",
+      "description": "Saviolo assina único golo no empate frente ao Kasimpasa (1-1) da ronda inaugural da Liga Turca",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b100d34ed0733ba8007e/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Polónia inaugura a maior estátua da Virgem Maria na Europa. E há imagens",
+      "link": "https://www.noticiasaominuto.com/mundo/3037099/polonia-inaugura-a-maior-estatua-da-virgem-maria-na-europa-e-ha-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:07:53",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ad8fcc894.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTEsImNyb3BZIjo5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo3OTUsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Família francesa resgatada após 16h à deriva em mota de água na Tailândia",
+      "link": "https://www.noticiasaominuto.com/mundo/3037095/familia-francesa-resgatada-apos-16h-a-deriva-em-mota-de-agua-na-tailandia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 20:05:43",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a86734d21.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Quatro mulheres detidas após assalto a loja em Guimarães na sexta-feira",
+      "link": "https://www.noticiasaominuto.com/pais/3037101/quatro-mulheres-detidas-apos-assalto-a-loja-em-guimaraes-na-sexta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 19:58:29",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd21a4d20ee.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMjl9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Eleições da Zâmbia: UE alerta para restrição das liberdades fundamentais",
       "link": "https://www.noticiasaominuto.com/mundo/3037098/eleicoes-da-zambia-ue-alerta-para-restricao-das-liberdades-fundamentais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 19:39:45",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6208862c693.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "O que foi isto? Golaço de antigo alvo do Benfica promete correr mundo",
-      "link": "https://www.noticiasaominuto.com/desporto/3037096/o-que-foi-isto-golaco-de-antigo-alvo-do-benfica-promete-correr-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 19:20:42",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80adea8847f.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Catarina Gouveia atualiza estado de saúde da mãe e agradece apoio",
-      "link": "https://www.noticiasaominuto.com/fama/3037043/catarina-gouveia-atualiza-estado-de-saude-da-mae-e-agradece-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 19:00:59",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8077391d86b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjIxOCwiY3JvcFkiOjU2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzcwLCJjcm9wSGVpZ2h0Ijo2NTgsImNyb3BYIjo2MTIsImNyb3BZIjo1NTR9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Teerão diz ter acordado com Omã rota segura de navegação por Ormuz",
-      "link": "https://www.noticiasaominuto.com/mundo/3037092/teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:57:45",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a03a7d5228a6.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Windows 10 ganhou mais um ano, mas o Office 2024 custa 17,2€",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-windows-10-goodoffer24/",
+      "pubDate": "Sat, 15 Aug 2026 19:00:42 +0000",
+      "description": "A Microsoft deu mais um ano de vida ao Windows 10, mas sobreviver não é o mesmo que viver. Enquanto o sistema fica em modo de manutenção, na GoodOffer24 é possível comprar chave digital&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/14th-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 16:00:47 +0000",
       "description": "A Apple introduziu uma funcionalidade muito aguardada no iOS 27 que permite remover os botões de gravação e ditado da caixa de texto da aplicação Mensagens. Esta alteração surge após várias reclamações de utilizadores&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/audio_iphone.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O que significam afinal estas informações gravadas nos pneus?",
-      "link": "https://pplware.sapo.pt/motores/o-que-significam-afinal-estas-informacoes-gravadas-nos-pneus-2/",
-      "pubDate": "Sat, 15 Aug 2026 15:00:07 +0000",
-      "description": "Os pneus são um dos elementos mais importantes do veículo quando falamos em segurança. No mercado há pneus para todas as necessidades e bolsos, mas há obviamente diferenças entre os produtos. Hoje deixamos uma&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/08/pneu_2.jpg"
     },
     {
       "sourceId": "autosport",
