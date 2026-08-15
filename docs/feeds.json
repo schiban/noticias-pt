@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-15T18:22:16.541609+00:00",
+  "updated": "2026-08-15T18:55:08.608786+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 19h",
+      "title": "Dragões sem Alan Varela, mas com Nehuen e Gül",
+      "link": "https://observador.pt/liveblogs/rio-ave-fc-porto-dragoes-visitam-arcos-sem-alan-varela-mas-com-nehuen-perez-e-deniz-gul-no-onze/",
+      "pubDate": "Sat, 15 Aug 2026 19:34:27 +0100",
+      "description": "Depois de entrar com o pé direito na temporada e no Campeonato, o FC Porto visita o Rio Ave à procura de manter distâncias para Sporting e Benfica. Farioli obrigado a mexer. Siga aqui em direto.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14151332/47585041.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Camila e a melhor marca de sempre que chegou para tudo",
+      "link": "https://observador.pt/2026/08/15/a-melhor-marca-de-sempre-nao-deu-para-mais-mas-chegou-para-tudo-depois-de-ter-feito-historia-camila-rebelo-e-oitava-nos-100-costas/",
+      "pubDate": "Sat, 15 Aug 2026 19:25:29 +0100",
+      "description": "Depois de ameaçar nas eliminatórias, Camila chegou à meia-final para se tornar na primeira portuguesa a baixar do minuto nos 100 metros costas. Sai de Paris com uma prata e um lugar na história.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2588:1455:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15192330/gettyimages-2289586645.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "19h. Mais de 100 operacionais combatem incêndio em Bragança",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2149/",
       "pubDate": "Sat, 15 Aug 2026 19:15:19 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Incêndio deflagrou por volta das 4 e meia da manhã, havendo dificuldades no combate às chamas. Ainda, GNR alerta para constrangimentos de trânsito na estrada, sobretudo na zona do Algarve.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/08183452/22589826.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Montesinho. Mais de 100 bombeiros combatem fogo",
-      "link": "https://observador.pt/2026/08/15/fogo-no-parque-natural-de-montesinho-combatido-por-mais-de-100-bombeiros/",
-      "pubDate": "Sat, 15 Aug 2026 18:44:17 +0100",
-      "description": "Mais de 100 bombeiros e 40 veículos combatem um incêndio no Parque Natural de Montesinho, em Bragança. Fogo deflagrou de madrugada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30153416/ilacerda-incendio-linda-a-velha-60-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Seleção feminina de basquetebol perde segundo jogo de preparação com Turquia",
+      "link": "https://www.rtp.pt/noticias/selecao-nacional/selecao-feminina-de-basquetebol-perde-segundo-jogo-de-preparacao-com-turquia_d1759712",
+      "pubDate": "Sat, 15 Aug 2026 20:46:47 +0100",
+      "description": "A seleção portuguesa feminina de basquetebol voltou a perder hoje frente à congénere turca, por 56-44, depois da derrota na véspera (63-51), em jogos de preparação para a segunda ronda de qualificação para o EuroBasket feminino 2027.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Índia anuncia plano para formar 10 milhões de jovens em IA",
-      "link": "https://observador.pt/2026/08/15/india-anuncia-plano-para-formar-10-milhoes-de-jovens-em-ia/",
-      "pubDate": "Sat, 15 Aug 2026 18:29:05 +0100",
-      "description": "Primeiro-ministro indiano quer dar formação em IA a jovens no espaço de um ano. Índia quer ser \"polo de inovação\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15174615/47613189.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Félix da Costa no pódio em Londres critica “estratégias feias” da Porsche",
+      "link": "https://www.rtp.pt/noticias/motores/felix-da-costa-no-podio-em-londres-critica-estrategias-feias-da-porsche_d1759711",
+      "pubDate": "Sat, 15 Aug 2026 20:46:08 +0100",
+      "description": "O piloto português António Félix da Costa (Jaguar) terminou hoje no terceiro lugar a penúltima corrida do Mundial de Fórmula E, em Londres, ficando arredado da luta pelo título.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad00c71a333412adc72cf1074160e532?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "II Liga: Sporting B vence Desportivo de Chaves com golo ‘solitário` de Atanásio Cunha",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-sporting-b-vence-desportivo-de-chaves-com-golo-solitario-de-atanasio-cunha_d1759710",
+      "pubDate": "Sat, 15 Aug 2026 20:42:28 +0100",
+      "description": "O Sporting B somou hoje a segunda vitória noutras tantas jornadas da II Liga portuguesa de futebol, após bater o Desportivo de Chaves (1-0), em Alcochete, com um golo &#039;solitário&#039; de Atanásio Cunha.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6d380518e309b6fb14e364564f2cb74a?w=350&amp;q=50&amp;rect=0,337,3602,1975&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h Alexis Guérin vence a nona etapa da Volta a Portugal",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-alexis-guerin-vence-a-nona-etapa-da-volta-a-portugal_a1_1759706",
-      "pubDate": "Sat, 15 Aug 2026 19:18:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "AC Milan vence no reencontro de Ruben Amorim com o Manchester United",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-no-reencontro-de-ruben-amorim-com-o-manchester-united_d1759704",
-      "pubDate": "Sat, 15 Aug 2026 19:11:20 +0100",
-      "description": "O avançado português Gonçalo Ramos contribuiu hoje com um golo para a vitória por 4-2 do AC Milan sobre o Manchester United, em jogo particular de futebol, que marcou o reencontro do treinador Ruben Amorim com a equipa inglesa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/59/590e7c6ae1eb8ae576b8bad8f530ee74?w=350&amp;q=50&amp;rect=0,250,4232,2320&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Duplas de vela portuguesas brilham e sobem a quarto e quinto nos Mundiais de 470",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/duplas-de-vela-portuguesas-brilham-e-sobem-a-quarto-e-quinto-nos-mundiais-de-470_d1759703",
-      "pubDate": "Sat, 15 Aug 2026 19:09:23 +0100",
-      "description": "Os velejadores portugueses Beatriz Gago e Rodolfo Pires subiram hoje ao quarto lugar e os olímpicos Diogo Costa e Carolina João alcançaram o quinto nos mundiais da classe 470, no Japão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc3f12da8a38982fe1b93fcb3c9da55c?w=350&amp;q=50&amp;rect=56,0,1167,640&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Musiala desmaia em jogo de pré-época do Bayern Munique",
+      "link": "https://maisfutebol.iol.pt/internacional/alemanha/video-musiala-desmaia-em-jogo-de-pre-epoca-do-bayern-munique",
+      "pubDate": "Sat, 15 Aug 2026 19:34:00 +0100",
+      "description": "Internacional alemão sentiu-se mal devido ao calor intenso",
+      "thumbnail": "https://img.iol.pt/image/id/6a80afaad34e511da0b33838/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 18:09:00 +0100",
       "description": "Defesa inglês custa 35 milhões de euros ao campeão italiano",
       "thumbnail": "https://img.iol.pt/image/id/6a809ce4d34ed0733ba8005e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sérgio Ferreira: «Passo em frente na ideia, mas estamos frustrados»",
-      "link": "https://maisfutebol.iol.pt/liga/alverca/sergio-ferreira-passo-em-frente-na-ideia-mas-estamos-frustrados",
-      "pubDate": "Sat, 15 Aug 2026 18:05:06 +0100",
-      "description": "Técnico considera que a sua equipa merecia mais do que a igualdade na receção ao Estrela",
-      "thumbnail": "https://img.iol.pt/image/id/6a78cbd0d34e511da0b326c0/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Eleições da Zâmbia: UE alerta para restrição das liberdades fundamentais",
+      "link": "https://www.noticiasaominuto.com/mundo/3037098/eleicoes-da-zambia-ue-alerta-para-restricao-das-liberdades-fundamentais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 19:39:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80b27348acf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODQsImNyb3BIZWlnaHQiOjY4MywiY3JvcFgiOjMzNSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Farioli promove muitas novidades. Os onzes para o Rio Ave-FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3037093/farioli-forcado-a-mexer-no-ataque-os-onzes-para-o-rio-ave-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 19:25:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6208862c693.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "O que foi isto? Golaço de antigo alvo do Benfica promete correr mundo",
+      "link": "https://www.noticiasaominuto.com/desporto/3037096/o-que-foi-isto-golaco-de-antigo-alvo-do-benfica-promete-correr-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 19:20:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80adea8847f.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Catarina Gouveia atualiza estado de saúde da mãe e agradece apoio",
       "link": "https://www.noticiasaominuto.com/fama/3037043/catarina-gouveia-atualiza-estado-de-saude-da-mae-e-agradece-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 19:00:59",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a03a7d5228a6.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Italianos revelam que Rodrigo Mora tomou decisão sobre futuro no FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3037089/italianos-revelam-que-rodrigo-mora-tomou-decisao-sobre-futuro-no-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:55:12",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ca0a73bf70.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Termas da Ribeira Grande promovem estudo sobre tratamentos da pele",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037090/termas-da-ribeira-grande-promovem-estudo-sobre-tratamentos-da-pele#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:52:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65d36844439d1.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Incêndio no Montesinho combatido por mais de 100 operacionais",
-      "link": "https://www.noticiasaominuto.com/pais/3037088/incendio-no-montesinho-combatido-por-mais-de-100-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:39:15",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Inacreditável: Balance Bar da Prozis está apenas por 32 euros",
+      "link": "https://pplware.sapo.pt/zzpublicidade/inacreditavel-balance-bar-da-prozis-esta-apenas-por-32-euros/",
+      "pubDate": "Sat, 15 Aug 2026 18:30:04 +0000",
+      "description": "Há equipamentos que nos permite realizar exercícios diferentes dos que estamos habituados. Nesse segmento, o Balance Bar é um guiador permite-nos desafiar o nosso próprio equilíbrio. Vejam como funciona. Guiador da Prozis tem Giroscópio integrado O&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/08/balance-01.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 15:00:07 +0000",
       "description": "Os pneus são um dos elementos mais importantes do veículo quando falamos em segurança. No mercado há pneus para todas as necessidades e bolsos, mas há obviamente diferenças entre os produtos. Hoje deixamos uma&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/08/pneu_2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Bandeira aos quadrados na praia: sabe o que significa?",
-      "link": "https://pplware.sapo.pt/informacao/bandeira-aos-quadrados-na-praia-sabe-o-que-significa/",
-      "pubDate": "Sat, 15 Aug 2026 13:55:14 +0000",
-      "description": "Se chegar à praia e encontrar uma bandeira aos quadrados, normalmente preta e branca ou azul e branca, deve ter atenção: este sinal indica que a praia está temporariamente sem vigilância de nadadores-salvadores. bandeira&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/bandeira_00.jpg"
     },
     {
       "sourceId": "autosport",
