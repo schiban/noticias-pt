@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-15T15:43:45.885286+00:00",
+  "updated": "2026-08-15T16:18:45.486813+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 17h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2268/",
+      "pubDate": "Sat, 15 Aug 2026 17:15:16 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Locarno. “You don’t belong here” vence Leopardo de Ouro",
+      "link": "https://observador.pt/2026/08/15/locarno-you-dont-belong-here-de-florin-serban-vence-leopardo-de-ouro/",
+      "pubDate": "Sat, 15 Aug 2026 17:03:30 +0100",
+      "description": "Da frustração paterna do filme do romeno Florin Serban à eutanásia doméstica de “Violence du corps de l'autre”, uma réstia de esperança na humanidade circundou os filmes mais fortes deste festival.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2276:1280:nowe:5:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15164031/captura-de-ecra-2026-08-15-as-163901.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O dia em que a minha doença mental passou a ter um nome",
+      "link": "https://observador.pt/especiais/como-a-minha-vida-mudou-para-melhor-quando-a-doenca-mental-passou-a-ter-um-nome/",
+      "pubDate": "Sat, 15 Aug 2026 17:02:07 +0100",
+      "description": "José Estevez tem Perturbação Obsessivo-Compulsiva desde os 18 anos, mas o diagnóstico correto só chegou aos 55. E foi um alívio. Sabia que nome dar aos pensamentos angustiantes. E ao medo do diabo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/04182824/ilacerda-jose-estevez-mental-21-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Quatro desalojados em incêndio em duas casas em Avis",
+      "link": "https://observador.pt/2026/08/15/quatro-desalojados-em-incendio-em-duas-casas-em-avis/",
+      "pubDate": "Sat, 15 Aug 2026 16:45:07 +0100",
+      "description": "Incêndio danificou três casas em Avis. Quatro pessoas ficaram desalojadas, mas não há feridos a registar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2767:1555:nowe:0:145/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30195950/ilacerda-incendio-linda-a-velha-17aa.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -8,57 +48,47 @@
       "title": "O que se sabe sobre o acidente que matou Finlay Tarling",
       "link": "https://observador.pt/2026/08/15/local-sem-militares-por-nao-priorizacao-conjugacao-de-fatores-e-senhor-em-estado-de-choque-o-que-se-sabe-sobre-o-acidente-de-tarling/",
       "pubDate": "Sat, 15 Aug 2026 16:23:09 +0100",
-      "description": "Segundo a GNR, no local do acidente não haviam militares e Tarling circulava sem qualquer acompanhamento. Condutor terá avançado para a estrada depois de ter perguntado a populares se o podia fazer.",
+      "description": "Segundo a GNR, no local do acidente não havia militares e Tarling circulava sem qualquer acompanhamento. Condutor terá avançado para a estrada depois de ter perguntado a populares se o podia fazer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2200:1237:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15161055/doc202608144761122113169637.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Aeroporto da Catânia reabre após redução do nível de alerta",
-      "link": "https://observador.pt/2026/08/15/aeroporto-siciliano-da-catania-reabre-apos-reducao-do-nivel-de-alerta-do-vulcao-etna/",
-      "pubDate": "Sat, 15 Aug 2026 16:15:47 +0100",
-      "description": "Os voos foram retomados às 14h00 (13h00 em Lisboa), após \"a redução do nível de alerta relacionado com a atividade vulcânica de vermelho para laranja\", indicou o aeroporto no seu site.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15152917/47605016.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "16h. Polícia Marroquina interceta mais de 100 migrantes",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2330/",
-      "pubDate": "Sat, 15 Aug 2026 16:11:28 +0100",
-      "description": "Segundo as autoridades, 109 dos migrantes são de países da África Subsaariana e 2 são cidadãos marroquinos. Ainda, tiroteio numa universidade dos Estados Unidos provocou pelo menos 5 feridos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Abutres, falta de dados e tempo fazem cair solar no Alqueva",
-      "link": "https://observador.pt/especiais/corredor-novo-para-poupar-abutres-falta-de-dados-e-demasiado-tempo-porque-cai-o-solar-flutuante-da-edp-no-alqueva/",
-      "pubDate": "Sat, 15 Aug 2026 16:04:36 +0100",
-      "description": "EDP quis mudar corredor da linha elétrica para minimizar impacto no abutre preto, mas proposta veio tarde e sem a necessária fundamentação. Centrais solares flutuantes estão num impasse.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/15214633/jporfirio-report-alqueva-01-17.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PS questiona Governo como adquiriu 13,7% da REN",
-      "link": "https://observador.pt/2026/08/15/ps-questiona-governo-por-que-via-e-com-que-meios-adquiriu-137-da-ren/",
-      "pubDate": "Sat, 15 Aug 2026 15:57:29 +0100",
-      "description": "Se compra decorre do anunciado fundo soberano, PS quer saber — e qual a dotação. Ao Observador, Santos Costa acusa Governo de \"provocar colapso\" nos serviços sociais e \"degradar as contas públicas\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25121523/doc2026032846841414pn4148260328-scaled.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndio na Bélgica já consumiu 1.650 hectares e ameaça habitações",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-consumiu-1650-hectares-e-levou-as-primeiras-evacuacoes_n1759692",
+      "title": "II Liga. Benfica B vence em Leiria com duas grandes penalidades",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-benfica-b-vence-em-leiria-com-duas-grandes-penalidades_d1759697",
+      "pubDate": "Sat, 15 Aug 2026 18:05:56 +0100",
+      "description": "Duas grandes penalidades convertidas por Gonçalo Moreira garantiram hoje a vitória (2-1) do Benfica B sobre a União de Leiria, em jogo da segunda jornada da II Liga de futebol disputado em Leiria.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ricardo Melo Gouveia cai para o 34.º lugar do Open da Dinamarca de golfe",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-melo-gouveia-cai-para-o-34o-lugar-do-open-da-dinamarca-de-golfe_d1759696",
+      "pubDate": "Sat, 15 Aug 2026 18:03:05 +0100",
+      "description": "O português Ricardo Melo Gouveia caiu hoje para o grupo dos golfistas classificados no 34.º lugar do Open da Dinamarca, após a conclusão da terceira volta do torneio do DP World Tour, liderado pelo francês Romain Langasque.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c9edd6f15e282ecfa364f980e22f6f9?w=350&amp;q=50&amp;rect=0,296,5248,2877&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Colômbia. Número de mortos devido ao sismo subiu para 294",
+      "link": "https://www.rtp.pt/noticias/mundo/colombia-numero-de-mortos-devido-ao-sismo-subiu-para-294_n1759694",
+      "pubDate": "Sat, 15 Aug 2026 17:53:41 +0100",
+      "description": "O número de mortos pelo sismo que atingiu a Colômbia na passada segunda-feira subiu para 294, mais seis do que na última contagem de sexta-feira, enquanto o número de desaparecidos aumentou para 320, segundo um boletim divulgado hoje pela Unidade Nacional de Gestão de Riscos de Desastres (UNGRD).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/11/11ec38b2fd3c045fe60a5111feeae021?w=350&amp;q=50&amp;rect=0,246,5500,3015&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio na Bélgica já consumiu 1.650 hectares e ameaça casas em parque natural",
+      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-consumiu-1650-hectares-e-ameaca-casas-em-parque-natural_n1759692",
       "pubDate": "Sat, 15 Aug 2026 17:40:39 +0100",
-      "description": "O fogo de grandes dimensões está a progredir rapidamente num parque natural e a ameaçar habitações, tendo já ardido pelo menos 1.650 hectares.",
+      "description": "O fogo de grandes dimensões em Les Gagnes está a progredir rapidamente num parque natural e a ameaçar habitações, tendo já ardido pelo menos 1.650 hectares.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf72e3b6999f7640bfd7d97b595a2707?w=350&amp;q=50&amp;rect=0,243,4272,2342&amp;auto=format"
     },
     {
@@ -72,34 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f16652d2485ce509ea2b806553dfa68?w=350&amp;q=50&amp;rect=0,144,1920,1053&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Europeus de atletismo. Vitória Oliveira bate recorde na meia maratona em marcha",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-vitoria-oliveira-bate-recorde-na-meia-maratona-em-marcha_d1759689",
-      "pubDate": "Sat, 15 Aug 2026 17:21:10 +0100",
-      "description": "A portuguesa Vitória Oliveira melhorou hoje em quatro minutos e meio o recorde nacional da meia maratona em marcha atlética, ao concluir a prova dos Europeus Birmingham2026 em 01:36.10 horas, no 13.º lugar.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c82fe2685e20cc72c3623b96a2da8f8?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Espanha: jovem de 15 anos pode fazer história no Levante de Luís Castro",
+      "link": "https://maisfutebol.iol.pt/internacional/espanha/espanha-jovem-de-15-anos-pode-fazer-historia-no-levante-de-luis-castro",
+      "pubDate": "Sat, 15 Aug 2026 17:09:49 +0100",
+      "description": "Marc Santos pode tornar-se no jogador mais jovem de sempre a estrear-se na equipa principal dos «granotas»",
+      "thumbnail": "https://img.iol.pt/image/id/6a808ef3d34ed0733ba80041/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Atlético de Madrid contrata argentino Cristián Romero ao Tottenham",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/atletico-de-madrid-contrata-argentino-cristian-romero-ao-tottenham_d1759688",
-      "pubDate": "Sat, 15 Aug 2026 17:19:15 +0100",
-      "description": "O defesa internacional argentino Cristián Romero transferiu-se do Tottenham para o Atlético de Madrid, tendo assinado um contrato de cinco temporadas com os espanhóis, até 2031, anunciaram hoje os dois clubes de futebol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4489de300a6e814929b2ae85841edd8?w=350&amp;q=50&amp;rect=0,200,4617,2531&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Atletismo: Patrícia Silva e Salomé Afonso na final dos 1.500 metros",
+      "link": "https://maisfutebol.iol.pt/atletismo/modalidades/atletismo-patricia-silva-e-salome-afonso-na-final-dos-1-500-metros",
+      "pubDate": "Sat, 15 Aug 2026 16:52:00 +0100",
+      "description": "Atleta do Sporting registou o melhor tempo das eliminatórias (04.08,17 minutos)",
+      "thumbnail": "https://img.iol.pt/image/id/67e02499d34ef72ee443cdd1/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Avançado espanhol Ferran Torres troca FC Barcelona pelo PSG",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/avancado-espanhol-ferran-torres-troca-fc-barcelona-pelo-psg_d1759687",
-      "pubDate": "Sat, 15 Aug 2026 17:16:13 +0100",
-      "description": "O avançado Ferran Torres, autor do golo que consagrou a Espanha como campeã mundial de futebol, trocou o FC Barcelona pelo Paris Saint-Germain, assinando um contrato com os franceses até 2031, anunciaram hoje os dois clubes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/64/64d88519141b25021df6e4b690d893f4?w=350&amp;q=50&amp;rect=0,65,3173,1740&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "João Gião: «Estoril é uma das equipas mais fortes do campeonato»",
+      "link": "https://maisfutebol.iol.pt/nacional/liga/joao-giao-estoril-e-uma-das-equipas-mais-fortes-do-campeonato",
+      "pubDate": "Sat, 15 Aug 2026 16:51:00 +0100",
+      "description": "Treinador do Nacional exige «mesma atitude» que valeu o empate nos Açores",
+      "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Atenção, Benfica: Palhinha ausente em mais uma vitória do Bayern",
+      "link": "https://maisfutebol.iol.pt/bayern-munique/alemanha/atencao-benfica-palhinha-ausente-de-mais-uma-vitoria-do-bayern",
+      "pubDate": "Sat, 15 Aug 2026 16:49:00 +0100",
+      "description": "Bávaros levam a melhor sobre o Leipzig por 3-1 antes da Supertaça da Alemanha",
+      "thumbnail": "https://img.iol.pt/image/id/6a808877d34ed0733ba8002f/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 16:35:58 +0100",
       "description": "Wilson Manafá também foi titular no triunfo por 4-1 do Shanghai Shenhua",
       "thumbnail": "https://img.iol.pt/image/id/6803b69dd34ef72ee444f230/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Volta a Portugal: equipas criam memorial improvisado para Finlay Tarling",
-      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-portugal/volta-a-portugal-equipas-criam-memorial-improvisado-para-finlay-tarling",
-      "pubDate": "Sat, 15 Aug 2026 16:25:00 +0100",
-      "description": "Ciclista de 19 anos faleceu durante a oitava etapa da prova, em Ponte de Lima",
-      "thumbnail": "https://img.iol.pt/image/id/6a807f03d34e511da0b337d6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Matos: «Queremos ser competitivos em todos os campos...»",
-      "link": "https://maisfutebol.iol.pt/liga/estoril/vasco-matos-queremos-ser-competitivos-em-todos-os-campos",
-      "pubDate": "Sat, 15 Aug 2026 16:22:10 +0100",
-      "description": "Treinador do Estoril antevê deslocação à Choupana e destaca qualidade do adversário na segunda jornada da Liga",
-      "thumbnail": "https://img.iol.pt/image/id/6a74860bd34ed0733ba7e90c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Gonçalo Moreira bisa na vitória do Benfica B",
-      "link": "https://maisfutebol.iol.pt/ii-liga/benfica-b/ii-liga-benfica-b-volta-a-vencer-com-bis-de-goncalo-moreira",
-      "pubDate": "Sat, 15 Aug 2026 16:04:00 +0100",
-      "description": "Encarnados foram vencer por 2-1 ao terreno da União de Leiria",
-      "thumbnail": "https://img.iol.pt/image/id/6a80819bd34e511da0b337dd/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Europeus de Atletismo: Agate de Sousa na final de salto em comprimento",
-      "link": "https://maisfutebol.iol.pt/atletismo/europeus-de-atletismo/europeus-de-atletismo-agate-de-sousa-na-final-de-salto-em-comprimento",
-      "pubDate": "Sat, 15 Aug 2026 15:42:43 +0100",
-      "description": "Atleta portuguesa atingiu um salto de sete metros na primeira tentativa, resultado que lhe valeu a passagem para a fase final",
-      "thumbnail": "https://img.iol.pt/image/id/666a0a9fd34ebf9bbb3e905a/250"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +175,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "ULS do Algarve nega tempos de espera em Faro e Portimão divulgados pelo SNS",
+      "link": "https://sapo.pt/artigo/uls-do-algarve-nega-tempos-de-espera-em-faro-e-portimao-divulgados-pelo-sns-6a80884e7b96e183906dee63",
+      "pubDate": "Sat, 15 Aug 2026 15:44:38 +0000",
+      "description": "A Unidade Local de Saúde do Algarve (ULS) negou os tempos de espera divulgados pelo portal do Serviço Nacional de Saúde e atribui os valores a erros informáticos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ARxIlLmM84klQ6JnvmrLChz2SS%2BNp22vFWxDSiLBbvv7imKrSLCgCJYW3dsIalgBW6OJOqPMUiGB4pFRTBnqjq%2FxfORcD%2BLimAnM1p0W8vT4KV%2FQ6iagSvrq1M%2BJBDsHX"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Deixem o Luís fintar. 47 minutos de Luís Montenegro no discurso no Pontal",
       "link": "https://eco.sapo.pt/2026/08/15/deixem-o-luis-fintar-47-minutos-de-luis-montenegro-no-discurso-no-pontal/",
       "pubDate": "Sat, 15 Aug 2026 11:53:06 +0000",
@@ -192,64 +202,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A9CZ9uKQswD2igqxJrIEW14ghCqgu9uhbpAPRmYAYKg9FuAi%2BnKvO8T9gcUTHf83Zf8msiwz09YpdQF%2FNL%2BWAWKXqdx0nrkxWOtpi0CRpitT6Myt%2BZnyrwXqJjwccJRrf"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Quase 50 mortos em novo balanço do sismo que atingiu Indonésia",
-      "link": "https://executivedigest.sapo.pt/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia/",
-      "pubDate": "Sat, 15 Aug 2026 14:25:12 +0000",
-      "description": "Quase 50 pessoas morreram e 2.000 foram deslocadas após um forte sismo de magnitude 7,7 ter atingido hoje a costa da ilha indonésia de Flores, enquanto as autoridades prosseguem as operações de socorro.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AR%2Ff1GICSPK%2FfqU5bVBV0NKQKvWxaprygrXl3adT6z91c3zZhQGcjKYMjVqGlGdnmvuObHdEZnOaXEanjeBrur8qhHMcdWoZQzvZq7OfdclMOmf1Bbp0sg%2Bzo1fcMzxP3"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "10 formas de melhorar a qualidade do esperma naturalmente",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036793/10-formas-de-melhorar-a-qualidade-do-esperma-naturalmente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:05:20",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f6333e76a9.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quatro desalojados em incêndio em duas habitações em Avis. PJ investiga",
-      "link": "https://www.noticiasaominuto.com/pais/3037058/quatro-desalojados-em-incendio-em-duas-habitacoes-em-avis-pj-investiga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:41:35",
+      "title": "\"Está tudo bem\", diz Jessica Athayde após sismo na Indonésia",
+      "link": "https://www.noticiasaominuto.com/fama/3037050/esta-tudo-bem-diz-jessica-athayde-apos-sismo-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:03:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65d4c10649bc4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8082a488f4f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTkxLCJjcm9wSGVpZ2h0Ijo2NzAsImNyb3BYIjo0LCJjcm9wWSI6MzAwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NTMsImNyb3BIZWlnaHQiOjEzMzksImNyb3BYIjo4LCJjcm9wWSI6Mjd9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Seis partidos e uma coligação apresentam-se às legislativas de São Tomé",
-      "link": "https://www.noticiasaominuto.com/mundo/3037056/seis-partidos-e-uma-coligacao-apresentam-se-as-legislativas-de-sao-tome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:37:50",
+      "title": "PS preocupado com situação política na Guiné-Bissau após reunião",
+      "link": "https://www.noticiasaominuto.com/politica/3037062/pspreocupado-com-situacao-politica-na-guine-bissau-apos-reuniao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:49:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47487121.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwOTIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_659c1a0538d58.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica B vence em Leiria com duas grandes penalidades",
-      "link": "https://www.noticiasaominuto.com/desporto/3037057/benfica-b-vence-em-leiria-com-duas-grandes-penalidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:33:17",
+      "title": "Falhada ida para o México, Tiago Gouveia pode trocar Benfica pelo Brasil",
+      "link": "https://www.noticiasaominuto.com/desporto/3037059/falhada-ida-para-o-mexico-tiago-gouveia-pode-trocar-benfica-pelo-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:48:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808670ceb02.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQwNiwiY3JvcEhlaWdodCI6NzIyLCJjcm9wWCI6MjYzLCJjcm9wWSI6M319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a60de4153c37.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "João Gião prevê grau de dificuldade elevado na receção ao Estoril Praia",
-      "link": "https://www.noticiasaominuto.com/desporto/3037053/joao-giao-preve-grau-de-dificuldade-elevado-na-rececao-ao-estoril-praia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:31:27",
+      "title": "Pescador resgatado após ter ficado com uma mão presa no alador de pesca",
+      "link": "https://www.noticiasaominuto.com/pais/3037061/pescador-resgatado-apos-ter-ficado-com-uma-mao-presa-no-alador-de-pesca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:46:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808602469c0.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808525a86a8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMxOSwiY3JvcEhlaWdodCI6NTY3LCJjcm9wWCI6NTUyLCJjcm9wWSI6MH19"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Pastor encontrado morto após ser atingido por um raio em Espanha",
-      "link": "https://www.noticiasaominuto.com/mundo/3037054/pastor-encontrado-morto-apos-ser-atingido-por-um-raio-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:21:39",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8082a501487.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU2NCwiY3JvcEhlaWdodCI6MTAwMywiY3JvcFgiOjExOTUsImNyb3BZIjowfX0="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Dica: como acabar de vez com os áudios acidentais na app Mensagens do iOS 27",
+      "link": "https://pplware.sapo.pt/truques-dicas/dica-como-acabar-de-vez-com-os-audios-acidentais-na-app-mensagens-do-ios-27/",
+      "pubDate": "Sat, 15 Aug 2026 16:00:47 +0000",
+      "description": "A Apple introduziu uma funcionalidade muito aguardada no iOS 27 que permite remover os botões de gravação e ditado da caixa de texto da aplicação Mensagens. Esta alteração surge após várias reclamações de utilizadores&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/audio_iphone.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/android_auto_youtube.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Pela primeira vez, um ciberataque quase totalmente autónomo atingiu um governo",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/pela-primeira-vez-um-ciberataque-quase-totalmente-autonomo-atingiu-um-governo/",
-      "pubDate": "Sat, 15 Aug 2026 11:00:39 +0000",
-      "description": "Um grupo de hackers, suspeito de ter ligações à China, recorreu a agentes de Inteligência Artificial (IA) de código aberto para conduzir um dos ataques informáticos mais sofisticados alguma vez documentados contra um governo.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/china_taiwan_gemini.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Félix da Costa fala em “jogadas sujas”",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-fala-em-jogadas-sujas/",
+      "pubDate": "Sat, 15 Aug 2026 15:46:58 +0000",
+      "description": "António Félix da Costa fez uma recuperação notável do sétimo para o terceiro lugar no E-Prix de Londres, um resultado que ajudou a Jaguar a manter-se na frente do campeonato de equipas, apesar de uma corrida que o próprio português descreveu como difícil de gerir. No final da corrida, questionado so",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Pascal Wehrlein vence corrida 1, Félix da Costa no pódio",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-corrida-1-felix-da-costa-no-podio/",
+      "pubDate": "Sat, 15 Aug 2026 13:45:00 +0000",
+      "description": "Pascal Wehrlein foi o vencedor da corrida 1 e subiu ao primeiro lugar do campeonato. Uma corrida tranquila e perfeitamente gerida pelo alemão e a sua equipa, que o permite entrar na derradeira corrida, no topo das contas do campeonato. A Jaguar viu Mitch Evans ficar sem sorte, apanhado num Full Cour",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-faz-a-pole/",
       "pubDate": "Sat, 15 Aug 2026 10:59:42 +0000",
       "description": "Em Londres, a primeira qualificação do fim de semana da Fórmula E sorriu à Porsche, com Pascal Wehrlein a ficar com a pole. A Porsche conseguiu ficar com as duas primeiras posições da grelha, com Nico Mueller a passar à final, após o confronto nas meias-finais com Mitch Evans sorrir ao piloto da Por",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Portugal Rally Series: Chris Ingram é a primeira presença internacional",
-      "link": "https://www.autosport.pt/ralis/portugal-rally-series-chris-ingram-e-a-primeira-presenca-internacional/",
-      "pubDate": "Sat, 15 Aug 2026 09:41:41 +0000",
-      "description": "Castanheira de Pera prepara-se para receber a Ronda 4 do Castrol Portugal Rally Series, com a prova &#8220;O Neveiro e a Lã&#8221; a afirmar-se no calendário de 2026. As inscrições já estão abertas e a lista de participantes começa a ganhar dimensão internacional, com a confirmação do britânico Chri",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Red Bull sabe o que tem de melhorar na segunda metade da época",
-      "link": "https://www.autosport.pt/formula1/f1-red-bull-sabe-o-que-tem-de-melhorar-na-segunda-metade-da-epoca/",
-      "pubDate": "Sat, 15 Aug 2026 09:20:17 +0000",
-      "description": "A primeira metade da temporada para a Red Bull foi difícil. Max Verstappen reconheceu-o, apesar de alguns bons sinais que se foram verificando pontualmente. A Red Bull conseguiu criar uma boa unidade motriz, mas ficou mais uma vez aquém das expetativas do lado do chassis. O RB22 chegou com com lacun",
       "thumbnail": ""
     }
   ]
