@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-15T03:11:10.829857+00:00",
+  "updated": "2026-08-15T04:02:46.457879+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. NSN Development Team vai abandonar a Volta a Portugal",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2371/",
+      "pubDate": "Sat, 15 Aug 2026 04:16:40 +0100",
+      "description": "Decisão tomada na sequência da morte do ciclista Finlay Tarling, durante etapa desta sexta-feira. Ainda, sismo de magnitude 7,7 atingiu ilha das Flores na Indonésia, país já emitiu alerta de tsunami.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/22183441/42369099.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Coimbra reabilita Centro de Interpretação do Paul de Arzila",
-      "link": "https://observador.pt/2026/08/15/coimbra-reabilita-centro-de-interpretacao-do-paul-de-arzila-com-fundo-ambiental/",
-      "pubDate": "Sat, 15 Aug 2026 00:30:16 +0100",
-      "description": "A Câmara de Coimbra liderou a candidatura aprovada ao Fundo Ambiental. Condeixa-a-Nova obteve igual financiamento para renovar a exposição interpretativa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15001528/paularzila-centro-interpretativo.webp"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Sismo na Indonésia faz um morto e 4 feridos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-sismo-na-indonesia-faz-um-morto-e-4-feridos_a1_1759608",
+      "pubDate": "Sat, 15 Aug 2026 05:33:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Passe ferroviário alargado às áreas metropolitanas de Porto e Lisboa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-passe-ferroviario-alargado-as-areas-metropolitanas-de-porto-e-lisboa_a1_1759607",
+      "pubDate": "Sat, 15 Aug 2026 05:32:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/eclipse-lunar-parcial-sera-visivel-em-toda-a-espanha-em-28-de-agosto_n1759597",
       "pubDate": "Sat, 15 Aug 2026 02:12:28 +0100",
       "description": "Um eclipse lunar parcial será visível em toda a Espanha na noite de 28 de agosto, divulgou o Instituto Geográfico Nacional (IGN) espanhol.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "BBC pretende intimar membros da família Trump em processo por difamação",
-      "link": "https://www.rtp.pt/noticias/mundo/bbc-pretende-intimar-membros-da-familia-trump-em-processo-por-difamacao_n1759596",
-      "pubDate": "Sat, 15 Aug 2026 02:12:14 +0100",
-      "description": "A BBC pretende intimar o filho, a filha e o genro de Donald Trump, no âmbito de um processo de difamação de 10 mil milhões de dólares (8,6 mil milhões de euros) do Presidente norte-americano contra a estação britânica.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ventura considera escandaloso que Montenegro tenha ignorado caso do MAI na rentrée",
-      "link": "https://www.rtp.pt/noticias/politica/ventura-considera-escandaloso-que-montenegro-tenha-ignorado-caso-do-mai-na-rentree_n1759595",
-      "pubDate": "Sat, 15 Aug 2026 02:11:59 +0100",
-      "description": "O presidente do Chega considerou hoje «escandaloso» que o primeiro-ministro tenha ignorado na `rentrée` «os casos que melindram a credibilidade do Governo», como o ministro da Administração Interna, acusando Luís Montenegro de estar «desligado da vida dos portugueses».",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
