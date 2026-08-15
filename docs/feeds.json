@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-15T06:30:50.835168+00:00",
+  "updated": "2026-08-15T07:26:07.129774+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 7h",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2488/",
+      "pubDate": "Sat, 15 Aug 2026 08:13:16 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. 900 agentes da polícia espanhola mobilizados em Ceuta",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2475/",
       "pubDate": "Sat, 15 Aug 2026 07:13:29 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "É a resposta a um novo apelo nas redes sociais para uma nova tentativa de entrada maciça em Ceuta e Melilla. Ainda, Luís Montenegro anunciou que o Estado vai voltar a ser acionista da REN.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,62 +52,52 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Como lhe contámos tudo sobre o eclipse",
-      "link": "https://observador.pt/newsletters/observadores-premium/como-lhe-contamos-tudo-sobre-o-eclipse-e-um-momento-emotivo-em-direto/",
-      "pubDate": "Sat, 15 Aug 2026 05:04:50 +0100",
-      "description": "Um repórter emocionado na rádio no momento da escuridão total. Uma emissão especial num telhado privilegiado junto ao Tejo, em Lisboa. A “expedição” ao fundo da rua para apanhar um momento histórico.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Lula da Silva lidera sondagens mas tem de reconquistar classe trabalhadora",
+      "link": "https://www.rtp.pt/noticias/mundo/lula-da-silva-lidera-sondagens-mas-tem-de-reconquistar-classe-trabalhadora_n1759617",
+      "pubDate": "Sat, 15 Aug 2026 09:25:38 +0100",
+      "description": "O Presidente brasileiro, Lula da Silva, chega ao primeiro ato público da campanha no domingo a liderar as sondagens, mas enfrenta o desafio de renovar o discurso e reconquistar a classe trabalhadora.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8e3f6ee5542812ad24b39da8d18f6d90?w=350&amp;q=50&amp;rect=1,0,2284,1252&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "7h Passe ferroviário alargado às áreas metropolitanas de Porto e Lisboa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-passe-ferroviario-alargado-as-areas-metropolitanas-de-porto-e-lisboa_a1_1759621",
-      "pubDate": "Sat, 15 Aug 2026 08:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Sismo na Venezuela. Cáritas diz que 200 mil pessoas precisam de ajuda",
+      "link": "https://www.rtp.pt/noticias/mundo/sismo-na-venezuela-caritas-diz-que-200-mil-pessoas-precisam-de-ajuda_n1759612",
+      "pubDate": "Sat, 15 Aug 2026 09:24:07 +0100",
+      "description": "A Cáritas alertou que o duplo sismo de 24 de junho afetou seis estados da Venezuela, deixando 200 mil pessoas dependentes de ações de solidariedade, e a precisar de acompanhamento durante pelo menos um ano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/3165a6f13adc27d19e63ee008bc4097e?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "6h Sobe para 20 o número de mortos depois do sismo na Indonésia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-sobe-para-20-o-numero-de-mortos-depois-do-sismo-na-indonesia_a1_1759615",
-      "pubDate": "Sat, 15 Aug 2026 07:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Balanço do sismo na Colômbia sobe 288 mortos com 202 pessoas desaparecidas",
+      "link": "https://www.rtp.pt/noticias/mundo/balanco-do-sismo-na-colombia-sobe-288-mortos-com-202-pessoas-desaparecidas_n1759605",
+      "pubDate": "Sat, 15 Aug 2026 09:22:42 +0100",
+      "description": "O número de mortos devido ao sismo que atingiu a Colômbia na segunda-feira subiu para 288, enquanto o número de desaparecidos diminuiu para 202, disseram as autoridades colombianas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/35/35f704edca90336a029e992bc2fcdcc4?w=350&amp;q=50&amp;rect=1,0,4998,2740&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Volta pedala este sábado por Finlay Tarling",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-volta-pedala-este-sabado-por-finlay-tarling_a1_1759611",
-      "pubDate": "Sat, 15 Aug 2026 06:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Estreito de Ormuz \"é e continuará a ser iraniano\", garante Teerão",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/estreito-de-ormuz-e-e-continuara-a-ser-iraniano-garante-teerao_n1759610",
+      "pubDate": "Sat, 15 Aug 2026 09:21:15 +0100",
+      "description": "O número dois da diplomacia do Irão, Kazem Gharibabadi, afirmou hoje que o estreito de Ormuz &quot;permanecerá iraniano&quot;, em resposta ao Presidente norte-americano, que disse querer tornar a via navegável estratégica &quot;território dos EUA&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/28438f5ed61c02b76581b635e1c3f59b?w=350&amp;q=50&amp;rect=1,0,5943,3258&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Sismo na Indonésia faz um morto e 4 feridos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-sismo-na-indonesia-faz-um-morto-e-4-feridos_a1_1759608",
-      "pubDate": "Sat, 15 Aug 2026 05:33:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Passe ferroviário alargado às áreas metropolitanas de Porto e Lisboa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-passe-ferroviario-alargado-as-areas-metropolitanas-de-porto-e-lisboa_a1_1759607",
-      "pubDate": "Sat, 15 Aug 2026 05:32:02 +0100",
+      "title": "08h As promessas de Montenegro no Pontal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-as-promessas-de-montenegro-no-pontal_a1_1759627",
+      "pubDate": "Sat, 15 Aug 2026 09:18:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sismo de magnitude 5,2 sentido em Granada e Málaga",
-      "link": "https://www.noticiasaominuto.com/mundo/3036915/sismo-de-magnitude-5-2-sentido-em-granada-e-malaga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:59:00",
+      "title": "Robbie Williams diagnosticado com autismo. \"Explica muita coisa\"",
+      "link": "https://www.noticiasaominuto.com/fama/3036923/robbie-williams-diagnosticado-com-autismo-explica-muita-coisa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 08:11:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8000fc1f964.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a801088ef96c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyNiwiY3JvcEhlaWdodCI6MTY0NywiY3JvcFgiOjcxMCwiY3JvcFkiOjQzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump confirma novo porta-aviões. Irá substituir o USS Abraham Lincoln",
-      "link": "https://www.noticiasaominuto.com/mundo/3036865/trump-confirma-novo-porta-avioes-ira-substituir-o-uss-abraham-lincoln#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:50:22",
+      "title": "Eclipse do Sporting quase fazia 'dói-dói', mas ferida levou três pontos",
+      "link": "https://www.noticiasaominuto.com/desporto/3036848/eclipse-do-sporting-quase-fazia-doi-doi-mas-ferida-levou-tres-pontos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 08:11:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ffe2d93aee.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f79f859d17.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImRlc3BvcnRvIiwibGFiZWwiOiJub3Rhc19kb19qb2dvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rio Ave-FC Porto: Campeão nacional quer evitar eclipse nos Arcos",
-      "link": "https://www.noticiasaominuto.com/desporto/3036464/rio-ave-fc-porto-campeao-nacional-quer-evitar-eclipse-nos-arcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:49:20",
+      "title": "\"Grandes transformações\" nas seguradoras auto: \"Ir além da indemnização\"",
+      "link": "https://www.noticiasaominuto.com/auto/3036425/grandes-transformacoes-nas-seguradoras-auto-ir-alem-da-indemnizacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 08:08:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6784fb653bad2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ec6035aa3f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Acreditam em tudo o que leem\". Rui Borges reage aos assobios a Suárez",
-      "link": "https://www.noticiasaominuto.com/desporto/3036909/acreditam-em-tudo-o-que-leem-rui-borges-reage-aos-assobios-a-suarez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:48:10",
+      "title": "Sente-se inchado? 6 alimentos que podem estar a causar gases",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036331/sente-se-inchado-6-alimentos-que-podem-estar-a-causar-gases#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 08:00:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ff8084c510.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e406bf1e0a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "China apresenta queixa ao Japão após visita de ministros a santuário",
-      "link": "https://www.noticiasaominuto.com/mundo/3036911/china-apresenta-queixa-ao-japao-apos-visita-de-ministros-a-santuario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 06:43:07",
+      "title": "Hoje há dois distritos sob aviso devido ao calor. Amanhã serão (bem) mais",
+      "link": "https://www.noticiasaominuto.com/pais/3036921/hoje-ha-dois-distritos-sob-aviso-devido-ao-calor-amanha-serao-bem-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 08:00:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613022.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a800e78c540f.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "VLC demora uma eternidade a abrir no Windows 11? O culpado não é quem pensa",
+      "link": "https://pplware.sapo.pt/microsoft/windows/vlc-demora-uma-eternidade-a-abrir-no-windows-11-o-culpado-nao-e-quem-pensa/",
+      "pubDate": "Sat, 15 Aug 2026 07:00:22 +0000",
+      "description": "O VLC continua a ser uma das ferramentas mais populares para reprodução multimédia. No entanto, muitos utilizadores no Windows 11 têm reportado um comportamento anormal que torna a abertura de ficheiros de áudio num&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/vlc_windows_11_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 14 Aug 2026 18:00:39 +0000",
       "description": "Após termos visto mais de perto os animais, as suas emoções e a importância do seu bem-estar, a Frontier Developments volta a levantar o véu sobre Planet Zoo 2. Desta vez, o foco é&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/PlanetZoo2_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Maior avião 100% elétrico do mundo já voou e gastou apenas 4 euros em energia",
-      "link": "https://pplware.sapo.pt/motores/maior-aviao-100-eletrico-do-mundo-ja-voou-e-gastou-apenas-4-euros-em-energia/",
-      "pubDate": "Fri, 14 Aug 2026 17:30:13 +0000",
-      "description": "A aviação elétrica acaba de alcançar um marco importante. O Heart X1, considerado o maior avião 100% elétrico alguma vez colocado no ar, completou com sucesso o seu primeiro voo experimental. Durante 27 minutos,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/aviao_eletrico00-1.webp"
     },
     {
       "sourceId": "autosport",
