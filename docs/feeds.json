@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-15T08:53:24.967159+00:00",
+  "updated": "2026-08-15T09:21:13.317691+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2438/",
+      "pubDate": "Sat, 15 Aug 2026 10:15:21 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Seul propõe diálogo com Pyongyang para fim formal de Guerra",
-      "link": "https://observador.pt/liveblogs/seul-propoe-dialogo-com-pyongyang-para-terminar-formalmente-guerra-da-coreia/",
-      "pubDate": "Sat, 15 Aug 2026 09:23:55 +0100",
-      "description": "Lee, que já tinha aberto as portas a negociações incondicionais sobre o programa nuclear da Coreia do Norte, fez a nova oferta no 81º aniversário da fim da ocupação japonesa da península (1910-1945).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15062048/47612872.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h Reforço de meios em Vila Pouca de Aguiar",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-reforco-de-meios-em-vila-pouca-de-aguiar_a1_1759638",
+      "pubDate": "Sat, 15 Aug 2026 11:14:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sismo de magnitude 5 fez tremer cidade espanhola de Granada",
+      "link": "https://www.rtp.pt/noticias/mundo/sismo-de-magnitude-5-fez-tremer-cidade-espanhola-de-granada_n1759637",
+      "pubDate": "Sat, 15 Aug 2026 11:12:00 +0100",
+      "description": "Um sismo de magnitude 5 na escala de Richter atingiu Granada, em Espanha, durante a madrugada deste sábado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fa/fab2382fc67065ad515a8ca332cd07ea?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Autoridades marroquinas travam entrada de centenas de migrantes em Ceuta",
+      "link": "https://www.rtp.pt/noticias/mundo/autoridades-marroquinas-travam-entrada-de-centenas-de-migrantes-em-ceuta_n1759635",
+      "pubDate": "Sat, 15 Aug 2026 11:02:45 +0100",
+      "description": "As forças de segurança de Marrocos travaram este sábado uma tentativa de centenas de migrantes, na maioria subsarianos, de entrarem irregularmente na cidade espanhola de Ceuta, indicaram à agência de notícias espanhola EFE fontes securitárias marroquinas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c04feac7b84fe01c322b001158d8983?w=350&amp;q=50&amp;rect=1,0,5359,2938&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio em Vila Pouca de Aguiar mobiliza duas centenas de operacionais",
+      "link": "https://www.rtp.pt/noticias/pais/incendio-em-vila-pouca-de-aguiar-mobiliza-duas-centenas-de-operacionais_n1759636",
+      "pubDate": "Sat, 15 Aug 2026 10:57:25 +0100",
+      "description": "O fogo deflagrou na sexta-feira, pelas 15h20, numa zona de mato na freguesia de Alfarela de Jales.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6c00734d539c0de1569ec7419a8e4bb?w=350&amp;q=50&amp;rect=0,269,2048,1123&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e795936dfd3cfa7e0326cfeaf3503ad?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "\"A corrida continua\". Volta a Portugal retoma em \"profundo luto\" após morte de Finlay Tarling",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/a-corrida-continua-volta-a-portugal-retoma-em-profundo-luto-apos-morte-de-finlay-tarling_d1759634",
-      "pubDate": "Sat, 15 Aug 2026 10:27:15 +0100",
-      "description": "O ciclista de 19 anos Finlay Tarling morreu durante a oitava etapa da Volta a Portugal, entre Melgaço e Fafe, atropelado por um carro que circulava contra o sentido da prova.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8a58c8d411f66bbce4089d13dac67314?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h Incêndio quase dominado em Vila Pouca de Aguiar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-incendio-quase-dominado-em-vila-pouca-de-aguiar_a1_1759632",
-      "pubDate": "Sat, 15 Aug 2026 10:18:02 +0100",
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Ferran Torres deixa o Barcelona e ruma ao PSG",
+      "link": "https://maisfutebol.iol.pt/internacional/psg/oficial-ferran-torres-deixa-o-barcelona-e-ruma-ao-psg",
+      "pubDate": "Sat, 15 Aug 2026 10:16:55 +0100",
       "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "thumbnail": "https://img.iol.pt/image/id/6934828bd34e3caad84c19d0/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Disney vai lançar minissérie \"Oswald\" com coelho que precedeu o Rato Mickey",
-      "link": "https://www.rtp.pt/noticias/cultura/disney-vai-lancar-minisserie-oswald-com-coelho-que-precedeu-o-rato-mickey_n1759629",
-      "pubDate": "Sat, 15 Aug 2026 10:15:56 +0100",
-      "description": "Os estúdios de animação Disney anunciaram este sábado o lançamento de uma minissérie centrada no coelho Oswald, que precedeu a criação do Mickey e cujos direitos Walt Disney perderá em 1928, com estreia marcada para fevereiro de 2027.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f40f8cc1c28d61ff329a4274c2a76eef?w=350&amp;q=50&amp;rect=1,0,2999,1644&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de 20 mil professores colocados nas escolas, a maioria em mobilidade interna",
-      "link": "https://www.rtp.pt/noticias/pais/mais-de-20-mil-professores-colocados-nas-escolas-a-maioria-em-mobilidade-interna_n1759631",
-      "pubDate": "Sat, 15 Aug 2026 10:03:09 +0100",
-      "description": "Mais de 20 mil professores foram colocados na sexta-feira nas escolas em horários para o próximo ano letivo, a larga maioria através da mobilidade interna, anunciou o Ministério da Educação, Ciência e Inovação (MECI).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/03f3fcf7601ec26bf6f0f869fae2435d?w=350&amp;q=50&amp;rect=0,0,1000,548&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: FC Porto segura goleador da formação",
+      "link": "https://maisfutebol.iol.pt/fc-porto/tcherno-jamanca/oficial-fc-porto-segura-goleador-da-formacao",
+      "pubDate": "Sat, 15 Aug 2026 10:13:05 +0100",
+      "description": "Tcherno Jamanca renova contrato com os dragões",
+      "thumbnail": "https://img.iol.pt/image/id/6a802d11d34e511da0b336fa/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 09:00:00 +0100",
       "description": "FC Porto volta a entrar em campo, desta vez com a deslocação ao reduto do Rio Ave, em jogo a contar para a segunda jornada da Liga",
       "thumbnail": "https://img.iol.pt/image/id/6a78c900d34ed0733ba7ef83/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "França: João Ferreira sai de maca na segunda vitória de Ian Cathro",
-      "link": "https://maisfutebol.iol.pt/internacional/franca/franca-joao-fonseca-sai-de-maca-na-segunda-vitoria-de-ian-cathro",
-      "pubDate": "Sat, 15 Aug 2026 00:16:00 +0100",
-      "description": "St. Etienne bateu o Clermont por 3-1, num encontro em que o defesa ex-Benfica teve de abandonar campo de maca, após um choque com a cabeça",
-      "thumbnail": "https://img.iol.pt/image/id/6a7f9f21d34e511da0b336ae/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ténis: rival colapsa fisicamente no fim e Nuno Borges avança em Cincinnati",
-      "link": "https://maisfutebol.iol.pt/modalidades/tenis/tenis-rival-colapsa-fisicamente-no-fim-e-nuno-borges-avanca-em-cincinnati",
-      "pubDate": "Sat, 15 Aug 2026 00:06:29 +0100",
-      "description": "Número um português afasta australiano Kokkinakis num duelo que teve um final dramático",
-      "thumbnail": "https://img.iol.pt/image/id/6a7f9f58d34e511da0b336af/250"
     },
     {
       "sourceId": "sapo",
@@ -185,21 +185,61 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Novo balanço aponta para 20 mortes após sismo de magnitude 7,7 na Indonésia",
-      "link": "https://sapo.pt/artigo/novo-balanco-aponta-para-20-mortes-apos-sismo-de-magnitude-7-7-na-indonesia-6a800708bec1d8607ed794e8",
-      "pubDate": "Sat, 15 Aug 2026 07:51:38 +0000",
-      "description": "Um sismo de magnitude 7,7 na escala de Richter atingiu a costa da Indonésia durante a madrugada e provocou o desabamento de edifícios, matando pelo menos 20 pessoas, disseram hoje os serviços de emergência.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AC6%2Bdh2e%2Fgoxb4DhVO4ZUubQyhytFXORlBCZS2peKgIMkXvDtK28NWOCv%2FAKo3lnSPCJhA7gav12I49FXVwhqKGOD9jBYXoGjieRYdP4LO9hG92XsUiO2Mw1f1iHo5VAj"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Montenegro diz que Governo está \"para durar\" e quer deixar década de desenvolvimento como Cavaco",
       "link": "https://sapo.pt/artigo/montenegro-diz-que-governo-esta-para-durar-e-quer-deixar-decada-de-desenvolvimento-como-cavaco-6a7ffd25c50b1ad9049985dc",
       "pubDate": "Sat, 15 Aug 2026 08:03:07 +0000",
       "description": "O primeiro-ministro, Luís Montenegro, considerou hoje que o Governo está \"para durar\" e sem \"nenhum drama\" por não ter maioria absoluta, apesar de admitir que \"dava jeito\", pretendendo deixar uma década de desenvolvimento como fez Cavaco Silva.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ABRTcL3iH11plHc7YPkJ4GGrzV9iuL3vUtUY6elBRw3WyDFsMIyJ15ETu2aWiYTsn2VYJDiYRLkXzzEMe1l417hF0bIxe1oFwOighICWP2uygJ8yDJ4VeIeBA1vGYs3qy"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Sismo de magnitude 5 abala Granada, Espanha, com 40 réplicas mas sem causar feridos",
+      "link": "https://sapo.pt/artigo/sismo-de-magnitude-5-abala-granada-espanha-com-40-replicas-mas-sem-causar-feridos-6a801fed7feb5726f870d4fc",
+      "pubDate": "Sat, 15 Aug 2026 09:07:04 +0000",
+      "description": "Junta da Andaluzia ativou fase de emergência 'situação operacional 1' do Plano de Resposta ao Risco Sísmico.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A%2FLpYMYP5MBXxMYVociDU04xDDYtNeaJmEm7UfIYdKn82yUQjOzDNMI4N6H2LEjv5FjX1jt1xM7R5EAtqPgN8l0GuuT4zmTCqNB5f2P8JXIhhtl784FZElvBE6azcW4Dd"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Marrocos trava entrada de centenas de migrantes em Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3036953/marrocos-trava-entrada-de-centenas-de-migrantes-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:04:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802b977da7f.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Morreu Mark Rydell, realizador de filme como \"A Casa do Lago\"",
+      "link": "https://www.noticiasaominuto.com/fama/3036951/morreu-mark-rydell-realizador-de-filme-como-a-casa-do-lago#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 09:57:58",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802816c3d53.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDc1LCJjcm9wSGVpZ2h0IjoxMTY3LCJjcm9wWCI6MTQsImNyb3BZIjoyMDl9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Calor intenso antecipa vindima que no Alentejo começou em julho",
+      "link": "https://www.noticiasaominuto.com/economia/3036952/calor-intenso-antecipa-vindima-que-no-alentejo-comecou-em-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 09:53:58",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/22602146.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Próximo filme Star Wars \"Starfighter\" terá história independente da saga",
+      "link": "https://www.noticiasaominuto.com/cultura/3036948/proximo-filme-star-wars-starfighter-tera-historia-independente-da-saga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 09:52:03",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8029c3efffe.webp"
     },
     {
       "sourceId": "nam",
@@ -209,47 +249,17 @@
       "link": "https://www.noticiasaominuto.com/desporto/3036949/southampton-rejeita-proposta-do-benfica-por-taylor-harwood-bellis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 09:41:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802610579ab.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802610579ab.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjY4LCJjcm9wWSI6MTJ9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Centenário de Noémia de Sousa evoca vida e obra da poeta moçambicana",
-      "link": "https://www.noticiasaominuto.com/cultura/3036943/centenario-de-noemia-de-sousa-evoca-vida-e-obra-da-poeta-mocambicana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:37:37",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47604126.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Oficial: Ex-Sporting regressa a Portugal para vestir camisola do FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3036947/oficial-ex-sporting-regressa-a-portugal-para-vestir-camisola-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:30:13",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802376e17f9.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Ruben Amorim sentencia destino de Rafael Leão no AC Milan",
-      "link": "https://www.noticiasaominuto.com/desporto/3036938/ruben-amorim-sentencia-futuro-de-rafael-leao-no-ac-milan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:19:47",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a71c85c24902.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Mais de 20 mil professores colocados. Larga maioria em mobilidade interna",
-      "link": "https://www.noticiasaominuto.com/pais/3036944/mais-de-20-mil-professores-colocados-larga-maioria-em-mobilidade-interna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 09:17:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47200745.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Porsche poderá pôr fim ao Taycan em 2030… e não haverá sucessor direto",
+      "link": "https://pplware.sapo.pt/motores/porsche-podera-por-fim-ao-taycan-em-2030-e-nao-havera-sucessor-direto/",
+      "pubDate": "Sat, 15 Aug 2026 09:00:47 +0000",
+      "description": "O Taycan marcou a entrada da Porsche na era dos automóveis totalmente elétricos. Contudo, apesar das prestações impressionantes e do reconhecimento conquistado desde 2019, a berlina poderá estar a aproximar-se do fim da estrada.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/porsche_taycan_out00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 14 Aug 2026 21:30:56 +0000",
       "description": "Drones com explosivos e uma colisão em pleno voo. O que parecia um cenário de ficção paralisou por completo o Aeroporto de Leipzig/Halle esta noite, colocando em xeque a segurança de um dos maiores&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/dhl_drone00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Milhares de carros de 1996 podem tornar-se “clássicos” este ano. Mas há um pormenor que poucos conhecem",
-      "link": "https://pplware.sapo.pt/motores/milhares-de-carros-de-1996-podem-tornar-se-classicos-este-ano-mas-ha-um-pormenor-que-poucos-conhecem/",
-      "pubDate": "Fri, 14 Aug 2026 20:30:17 +0000",
-      "description": "Se comprou um carro em 1996, talvez não saiba que ele está prestes a ganhar um novo estatuto. Este ano, milhares de veículos matriculados nesse ano completam três décadas de existência, a idade mínima&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/classico00.webp"
     },
     {
       "sourceId": "autosport",
