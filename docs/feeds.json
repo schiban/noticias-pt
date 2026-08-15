@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T19:43:36.600843+00:00",
+  "updated": "2026-08-15T20:17:11.360670+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jéssica Barreira consegue melhor classificação de sempre",
+      "link": "https://observador.pt/2026/08/15/jessica-barreira-consegue-melhor-classificacao-de-sempre-para-portugal-no-heptatlo/",
+      "pubDate": "Sat, 15 Aug 2026 21:05:52 +0100",
+      "description": "Portuguesa conseguiu a melhor classificação de sempre de uma atleta nacional no heptatlo em Campeonatos da Europa. Terminou no 12.º lugar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15204742/47614606.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Académico de Viseu perde em casa frente a Santa Clara",
+      "link": "https://observador.pt/2026/08/15/academico-de-viseu-perde-em-casa-frente-a-santa-clara/",
+      "pubDate": "Sat, 15 Aug 2026 20:47:20 +0100",
+      "description": "Santa Clara bateu Académico de Viseu por um golo. Marcador foi Gonçalo Paciência.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15201408/47615775.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15194549/47604651.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dragões sem Varela, mas com Nehuen e Gül (0-0, 1')",
-      "link": "https://observador.pt/liveblogs/rio-ave-fc-porto-dragoes-visitam-arcos-sem-alan-varela-mas-com-nehuen-perez-e-deniz-gul-no-onze/",
-      "pubDate": "Sat, 15 Aug 2026 19:34:27 +0100",
-      "description": "Depois de entrar com o pé direito na temporada e no Campeonato, o FC Porto visita o Rio Ave à procura de manter distâncias para Sporting e Benfica. Farioli obrigado a mexer. Siga aqui em direto.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14151332/47585041.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Excesso de mortalidade. Mais 680 óbitos do meio de junho ao fim de julho",
+      "link": "https://www.rtp.pt/noticias/pais/excesso-de-mortalidade-mais-680-obitos-do-meio-de-junho-ao-fim-de-julho_v1759722",
+      "pubDate": "Sat, 15 Aug 2026 21:57:47 +0100",
+      "description": "Morreram em Portugal mais 680 pessoas do que era esperado entre junho e julho.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c8/c8c398e768d068630a63d7d34fbb539c_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Camila e a melhor marca de sempre que chegou para tudo",
-      "link": "https://observador.pt/2026/08/15/a-melhor-marca-de-sempre-nao-deu-para-mais-mas-chegou-para-tudo-depois-de-ter-feito-historia-camila-rebelo-e-oitava-nos-100-costas/",
-      "pubDate": "Sat, 15 Aug 2026 19:25:29 +0100",
-      "description": "Depois de ameaçar nas eliminatórias, Camila chegou à meia-final para se tornar na primeira portuguesa a baixar do minuto nos 100 metros costas. Sai de Paris com uma prata e um lugar na história.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2588:1455:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15192330/gettyimages-2289586645.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Há menos turistas a visitar o Algarve em agosto",
+      "link": "https://www.rtp.pt/noticias/pais/ha-menos-turistas-a-visitar-o-algarve-em-agosto_v1759721",
+      "pubDate": "Sat, 15 Aug 2026 21:56:52 +0100",
+      "description": "A descida para já é pequena, mas o aumento dos preços está claramente a afastar portugueses da região algarvia este verão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d5/d599e5ada99b36f3a5cc8f6b446f87ff_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio na Bélgica já é o maior na história do país",
+      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-e-o-maior-na-historia-do-pais_v1759720",
+      "pubDate": "Sat, 15 Aug 2026 21:56:47 +0100",
+      "description": "Um grande incêndio na Bélgica obrigou à retirada dos moradores e turistas. O fogo está ativo há cerca de 24 horas e é já o maior na história do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be6ff87d0aa84c6c484fba47a41258d3_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tráfico de cocaína. Península Ibérica é a principal porta de entrada",
+      "link": "https://www.rtp.pt/noticias/pais/trafico-de-cocaina-peninsula-iberica-e-a-principal-porta-de-entrada_v1759718",
+      "pubDate": "Sat, 15 Aug 2026 21:54:47 +0100",
+      "description": "A Península Ibérica volta a ser a principal porta de entrada de cocaína na Europa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6a/6a8867db6ab8e061be7ae6bbb2e4c52d_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/4e/4e6f969d524b0884125ca02677936451_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Acidente na Volta a Portugal. \"Toda a organização está muito abatida\"",
-      "link": "https://www.rtp.pt/noticias/desporto/acidente-na-volta-a-portugal-toda-a-organizacao-esta-muito-abatida_v1759715",
-      "pubDate": "Sat, 15 Aug 2026 21:24:47 +0100",
-      "description": "O dia de sábado na Volta ficou marcado por várias homenagens ao jovem ciclista que morreu na sexta-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/db/db8d584d74a463eb3ffd6358362dfd34_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Amorim: «Continuo a gostar muito do Man United, mas estou muito feliz no Milan»",
+      "link": "https://maisfutebol.iol.pt/internacional/italia/amorim-continuo-a-gostar-muito-do-man-united-mas-estou-muito-feliz-no-milan",
+      "pubDate": "Sat, 15 Aug 2026 21:09:00 +0100",
+      "description": "Treinador do Milan deixa ainda um aviso sério a Rafael Leão",
+      "thumbnail": "https://img.iol.pt/image/id/6a7742cdd34e511da0b3251f/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga. Rio Ave - FC Porto",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-rio-ave-fc-porto_e1759705",
-      "pubDate": "Sat, 15 Aug 2026 21:09:09 +0100",
-      "description": "O campeão nacional FC Porto, que entrou a vencer na I Liga, defronta esta noite o Rio Ave, que ainda não pontuou, em Vila do Conde, com arbitragem a cargo de Miguel Fonseca, da associação do Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d6514ab6d45499fe5dbd7abc5a84167?w=350&amp;q=50&amp;rect=0,62,1487,815&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Diogo Ribeiro na final dos 50 metros livres, Camila Rebelo oitava nos 100 costas",
-      "link": "https://www.rtp.pt/noticias/selecao-nacional/diogo-ribeiro-na-final-dos-50-metros-livres-camila-rebelo-oitava-nos-100-costas_d1759714",
-      "pubDate": "Sat, 15 Aug 2026 21:06:55 +0100",
-      "description": "O nadador português Diogo Ribeiro apurou-se hoje para a final da prova dos 50 metros livres dos Europeus de desportos aquáticos de 2026, enquanto Camila Rebelo foi oitava na final dos 100 costas em Paris.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb5fdbb522cf0c74e219409725bd7d09?w=350&amp;q=50&amp;rect=0,107,1799,986&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Seleção feminina de basquetebol perde segundo jogo de preparação com Turquia",
-      "link": "https://www.rtp.pt/noticias/selecao-nacional/selecao-feminina-de-basquetebol-perde-segundo-jogo-de-preparacao-com-turquia_d1759712",
-      "pubDate": "Sat, 15 Aug 2026 20:46:47 +0100",
-      "description": "A seleção portuguesa feminina de basquetebol voltou a perder hoje frente à congénere turca, por 56-44, depois da derrota na véspera (63-51), em jogos de preparação para a segunda ronda de qualificação para o EuroBasket feminino 2027.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Al Nassr vence com «show» de Félix e estreia a marcar de Samú Costa",
+      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-nassr/video-al-nassr-vence-com-show-de-felix-e-estreia-a-marcar-de-samu-costa",
+      "pubDate": "Sat, 15 Aug 2026 20:59:00 +0100",
+      "description": "Cristiano Ronaldo não foi opção para Postecoglou e assistiu ao encontro na bancada, juntamente com a noiva, Georgina Rodríguez",
+      "thumbnail": "https://img.iol.pt/image/id/6a80c22dd34ed0733ba800a0/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,24 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a61292dd34ef04b4f3f857f/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga 3: Paredes e Belenenses vencem e lideram",
-      "link": "https://maisfutebol.iol.pt/futebol/liga-3/liga-3-paredes-e-belenenses-vencem-e-lideram",
-      "pubDate": "Sat, 15 Aug 2026 19:53:54 +0100",
-      "description": "Segunda jornada do terceiro escalão do futebol nacional fica completa no domingo",
-      "thumbnail": "https://img.iol.pt/image/id/6a80b54fd34e511da0b3383f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Turquia: Salah estreia-se com empate pelo Trabzonspor",
-      "link": "https://maisfutebol.iol.pt/turquia/trabzonspor/turquia-salah-estreia-se-com-empate-pelo-trabzonspor",
-      "pubDate": "Sat, 15 Aug 2026 19:51:27 +0100",
-      "description": "Saviolo assina único golo no empate frente ao Kasimpasa (1-1) da ronda inaugural da Liga Turca",
-      "thumbnail": "https://img.iol.pt/image/id/6a80b100d34ed0733ba8007e/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Irão. Teerão diz ter acordado com Omã rota segura de navegação por Ormuz",
+      "link": "https://sapo.pt/artigo/irao-teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz-6a80b00833cbe64db3e6d213",
+      "pubDate": "Sat, 15 Aug 2026 19:42:36 +0000",
+      "description": "Regime iraniano não forneceu pormenores sobre a rota acordada, indicando que prosseguem os contactos entre os dois países para encerrar questões pendentes.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AAMTokqDp5yadM6aqeR1fx4A1Yi9Uex985Ihroeg%2Buuft9p0bDr0ZmT%2B5TBR59cNTeK3oITFedRXp8C2E5mERXukhBNZdS%2FYxhLqdI1BICZBvnZAVIbfhqh2cb%2B3qPGLR"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +185,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "ULS do Algarve nega tempos de espera em Faro e Portimão divulgados pelo SNS",
-      "link": "https://sapo.pt/artigo/uls-do-algarve-nega-tempos-de-espera-em-faro-e-portimao-divulgados-pelo-sns-6a80884e7b96e183906dee63",
-      "pubDate": "Sat, 15 Aug 2026 15:44:38 +0000",
-      "description": "A Unidade Local de Saúde do Algarve (ULS) negou os tempos de espera divulgados pelo portal do Serviço Nacional de Saúde e atribui os valores a erros informáticos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ARxIlLmM84klQ6JnvmrLChz2SS%2BNp22vFWxDSiLBbvv7imKrSLCgCJYW3dsIalgBW6OJOqPMUiGB4pFRTBnqjq%2FxfORcD%2BLimAnM1p0W8vT4KV%2FQ6iagSvrq1M%2BJBDsHX"
+      "title": "Ciberataque ao fisco francês expõe dados de mais de meio milhão de contribuintes",
+      "link": "https://sapo.pt/artigo/ciberataque-ao-fisco-frances-expoe-dados-de-mais-de-meio-milhao-contribuintes-6a80adb8c50b1ad904b441bf",
+      "pubDate": "Sat, 15 Aug 2026 19:42:36 +0000",
+      "description": "O alegado autor do ciberataque afirmou ter colocado o ficheiro roubado à venda por vários milhares de euros. A diretora-geral das Finanças Públicas salientou que o pirata ou piratas informáticos não acederam a elementos que permitissem entrar nas...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AB%2BiprUd%2BQsNktKdGjRwtNIUbv2ojZKictXuXp99sfjN64%2FTvuvtNxc8dJm%2F6eY6Ft8H981yGK2Nxr0qikX43z%2F%2BclgbFcw2w8ObsWPkuaaH48gHer%2BpCGUKjgpIYiRVF"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos intercetou 111 migrantes que tentavam chegar à fronteira de Ceuta",
-      "link": "https://sapo.pt/artigo/marrocos-intercetou-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta-6a80749433cbe64db3dd71b9",
-      "pubDate": "Sat, 15 Aug 2026 15:11:55 +0000",
-      "description": "As forças marroquinas intercetaram este sábado 111 migrantes, na sua maioria da África subsaariana, quando tentavam chegar à fronteira de Ceuta, e detiveram 61 pessoas por incitarem à migração ilegal",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACMV3g4ZRDcf2c%2Fy8tI7wC3K7uGUZru8tuEZcAwxCu1QUBsPdYTa2jfbl2VRh4XEH1by1v6pzOGKGaNWTrfWE5%2BVeMwDgQjKRoJHlF3DLYqWJrMCLkE1FzF8bJyfv1pIt"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Deixem o Luís fintar. 47 minutos de Luís Montenegro no discurso no Pontal",
-      "link": "https://eco.sapo.pt/2026/08/15/deixem-o-luis-fintar-47-minutos-de-luis-montenegro-no-discurso-no-pontal/",
-      "pubDate": "Sat, 15 Aug 2026 11:53:06 +0000",
-      "description": "Ao contrário do ano passado, Luís Montenegro não levou novidades ao Pontal, mas tinha várias jogadas de ataque na tática para 47 minutos de discurso. Veja-as aqui.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AIQRj8wHdbVENZWwjT61Pg2HJzOHvrHk4tdmJW8skFhn%2FqE3HEF4mf0TqkzKtlcJ0G8RxpT5WSLsjJmU53qtKi5hP9gmotiqerRMNMOpvoM1LWiOCySFcp6jJmFoxjNmL"
+      "title": "Ministério da Saúde nega recuo nas cirurgias adicionais e admite rever a definição de pequena cirurgia",
+      "link": "https://sapo.pt/artigo/ministerio-da-saude-nega-recuo-nas-cirurgias-adicionais-e-admite-rever-a-definicao-de-pequena-cirurgia-6a80b4607b96e18390756d1c",
+      "pubDate": "Sat, 15 Aug 2026 19:42:36 +0000",
+      "description": "\"Não existe qualquer recuo nas orientações emitidas às Unidades Locais de Saúde (ULS) no âmbito da atividade em produção adicional”, afirma o ministério, em comunicado, acrescentando que “a Portaria relativa à produção adicional, recentemente...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AhMdK6ontPi8XNi52b3Gx3gns1N%2B%2BaWDl8zyMWTDpw339udcOh9I0fyPenFgPnY%2F3YBtmV5cVUiPvg6NPIRSojqaKUV2HQW%2B72L8LkTwuwm%2FvnSw2ghTXpPATOsTpSyBv"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Casa Yala reabre hoje após ter sido fechada devido a queixas de ruído",
-      "link": "https://www.noticiasaominuto.com/pais/3037109/casa-yala-reabre-hoje-apos-ter-sido-fechada-devido-a-queixas-de-ruido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:37:56",
+      "title": "Viatura dos Bombeiros de Amarante despista-se e mata motociclista",
+      "link": "https://www.noticiasaominuto.com/pais/3037117/viatura-dos-bombeiros-de-amarante-despista-se-e-mata-motociclista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:11:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a1a9c592112e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc665a5c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjYxNSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "RTVE e Efe expulsas de Marrocos. Governo espanhol procura solução",
-      "link": "https://www.noticiasaominuto.com/mundo/3037106/rtve-e-efe-expulsas-de-marrocos-governo-espanhol-procura-solucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:29:45",
+      "title": "Torreense em inferioridade numérica resgata empate na compensação",
+      "link": "https://www.noticiasaominuto.com/desporto/3037113/torreense-em-inferioridade-numerica-resgata-empate-na-compensacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:08:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80be14e28df.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80c6b41505e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Santa Clara vence em Viseu, antes do Rio Ave-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:29:36",
+      "title": "Jéssica Barreira termina heptatlo dos Europeus de atletismo no 12.º lugar",
+      "link": "https://www.noticiasaominuto.com/desporto/3037112/jessica-barreira-termina-heptatlo-dos-europeus-de-atletismo-no-12-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:04:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_630bc573648a4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614606.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Gonçalo Paciência de penálti dá a vitória ao Santa Clara em Viseu",
-      "link": "https://www.noticiasaominuto.com/desporto/3037108/goncalo-paciencia-de-penalti-da-a-vitoria-ao-santa-clara-em-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:27:06",
+      "title": "\"Antro de germes\". O item do seu lar que fica quase sempre esquecido",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3034479/antro-de-germes-o-item-do-seu-lar-que-fica-quase-sempre-esquecido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:04:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47615775.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b46beb30667.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MiwiY3JvcFkiOjE1M319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polónia inaugura a maior estátua da Virgem Maria na Europa. E há imagens",
-      "link": "https://www.noticiasaominuto.com/mundo/3037099/polonia-inaugura-a-maior-estatua-da-virgem-maria-na-europa-e-ha-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 20:07:53",
+      "title": "iPhone pode ficar mais caro em breve. Talvez esteja na altura de comprar",
+      "link": "https://www.noticiasaominuto.com/tech/3036254/o-iphone-pode-ficar-mais-caro-em-breve-talvez-esteja-na-altura-de-compra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:02:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ad8fcc894.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTEsImNyb3BZIjo5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo3OTUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d76a5f46351.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjc2LCJjcm9wSGVpZ2h0IjoxMjgwLCJjcm9wWCI6Mjc2LCJjcm9wWSI6NDA2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDUsImNyb3BIZWlnaHQiOjE2ODEsImNyb3BYIjo4NDQsImNyb3BZIjoxM319"
     },
     {
       "sourceId": "pplware",
