@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T04:55:45.788957+00:00",
+  "updated": "2026-08-15T05:21:49.822119+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2464/",
+      "pubDate": "Sat, 15 Aug 2026 06:16:43 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"As viagens tornaram-se a minha vida\"",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/as-viagens-tornaram-se-a-minha-vida/",
+      "pubDate": "Sat, 15 Aug 2026 06:06:10 +0100",
+      "description": "Susana Ribeiro leva anos a escrever sobre o mundo. Primeiro como jornalista em revistas de viagens e mais recentemente no seu site. As viagens são a sua vida! Hoje vive delas - é líder de viagens.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -29,26 +49,6 @@
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2406/",
       "pubDate": "Sat, 15 Aug 2026 03:16:56 +0100",
       "description": "Seguiram-se três réplicas. Autoridades pediram aos residentes para se manterem afastados das praias e margens dos rios. Ainda, Luís Montenegro critica censura moderna, em que só se fala de polémicas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. PM critica censura moderna e que só se fala de polémicas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2380/",
-      "pubDate": "Sat, 15 Aug 2026 02:15:36 +0100",
-      "description": "Posição do Primeiro-Ministro no discurso dos 50 anos da Festa do Pontal, que ficou marcado por grandes novidades. Ainda, Donald Trump admite declarar o Estreito de Ormuz como território dos EUA.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h.André Ventura acusa PM de estar desligado dos portugueses",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2353/",
-      "pubDate": "Sat, 15 Aug 2026 01:16:46 +0100",
-      "description": "Presidente do Chega diz que Luís Montenegro confundiu as grandes reformas do Governo com a realidade do país. Ainda neste noticiário, NSN Development Team vai abandonar Volta a Portugal em Bicicleta.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Pichardo e Nader tentam medalhas nos Europeus de atletismo",
+      "link": "https://www.noticiasaominuto.com/desporto/3036903/pichardo-e-nader-tentam-medalhas-nos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:09:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45689719.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDEsImNyb3BZIjo1NX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Sismo de magnitude 7,7 faz pelo menos 20 mortos na Indonésia",
+      "link": "https://www.noticiasaominuto.com/mundo/3036906/sismo-de-magnitude-7-7-faz-pelo-menos-20-mortos-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:08:46",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47612813.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Volta: Corrida decide-se na Senhora da Graça após morte de Finlay Tarling",
+      "link": "https://www.noticiasaominuto.com/desporto/3036901/volta-corrida-decide-se-na-senhora-da-graca-apos-morte-de-finlay-tarling#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 06:07:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47611161.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTMwLCJjcm9wSGVpZ2h0IjoxMTk4LCJjcm9wWCI6NDcsImNyb3BZIjoxNH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Acordo Líbano-Israel exerce pressão excessiva sobre Exército - Hezbollah",
       "link": "https://www.noticiasaominuto.com/mundo/3036860/acordo-libano-israel-exerce-pressao-excessiva-sobre-exercito-hezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-14 23:58:25",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-14 23:58:09",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/47612300.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MjU3LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3036401/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-14 23:48:22",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7eb0c71dbd0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc0OSwiY3JvcEhlaWdodCI6MTMzMSwiY3JvcFgiOjQzNSwiY3JvcFkiOjI2OH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Montenegro anuncia passe a 20 euros chega a áreas de Lisboa e Porto",
-      "link": "https://www.noticiasaominuto.com/politica/3036856/montenegro-anuncia-passe-a-20-euros-chega-a-areas-de-lisboa-e-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-14 23:47:49",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f9b19b0dbf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjo5OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY1LCJjcm9wWCI6NzU4LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Venezuela anuncia libertação de mais de 130 presos políticos",
-      "link": "https://www.noticiasaominuto.com/mundo/3036855/venezuela-anuncia-libertacao-de-mais-de-130-presos-politicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-14 23:47:10",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a55c0219668.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjMyMCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
