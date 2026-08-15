@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T09:48:37.730115+00:00",
+  "updated": "2026-08-15T10:17:53.682765+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 11h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1310/",
+      "pubDate": "Sat, 15 Aug 2026 11:14:10 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "IP3. Trânsito cortado nas noites de 2f a 5f em Tondela",
+      "link": "https://observador.pt/2026/08/15/transito-cortado-no-ip3-nas-noites-de-segunda-a-quinta-feira-em-tondela/",
+      "pubDate": "Sat, 15 Aug 2026 11:00:58 +0100",
+      "description": "Mantêm-se os condicionamentos entre as 21h00 e as 05h00, a propósito da empreitada de requalificação e duplicação do IP3, que liga Viseu e Coimbra, no troço entre Santa Comba e Viseu.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15101637/41663178.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15094932/22602146.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "10h. FCP. Farioli espera dificuldades frente ao Rio Ave",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2438/",
-      "pubDate": "Sat, 15 Aug 2026 10:15:21 +0100",
-      "description": "Entra hoje em campo (20h30) o campeão nacional de futebol. Na antevisão feita ontem, o técnico italiano lembra as dificuldades que os Dragões passaram frente aos vilacondenses na temporada passada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11H Marrocos travou tentativa de entrada em Ceuta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-marrocos-travou-tentativa-de-entrada-em-ceuta_a1_1759643",
+      "pubDate": "Sat, 15 Aug 2026 12:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais de 20 mil professores colocados nas escolas",
-      "link": "https://observador.pt/2026/08/15/mais-de-20-mil-professores-colocados-nas-escolas-a-maioria-em-mobilidade-interna/",
-      "pubDate": "Sat, 15 Aug 2026 09:52:26 +0100",
-      "description": "Os professores colocados devem agora aceitar a colocação na plataforma da AGSE em 17 e 18 de agosto e apresentar-se nas novas escolas em 1 de setembro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15091239/47200745.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Kiev atacou centro da agência espacial russa a 900 quilómetros da fronteira",
+      "link": "https://www.rtp.pt/noticias/mundo/kiev-atacou-centro-da-agencia-espacial-russa-a-900-quilometros-da-fronteira_n1759640",
+      "pubDate": "Sat, 15 Aug 2026 11:49:29 +0100",
+      "description": "A Ucrânia atacou o centro de foguetões e espaço da agência espacial russa, Roscosmos, a 900 quilómetros da fronteira ucraniana, e uma base aérea em Nizhny Novogorod, a cerca de 700, anunciou hoje o Presidente ucraniano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/60/60f3cb9bcf50091f72ec22cfb4dbc96b?w=350&amp;q=50&amp;rect=2,0,8071,4425&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c04feac7b84fe01c322b001158d8983?w=350&amp;q=50&amp;rect=1,0,5359,2938&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio em Vila Pouca de Aguiar mobiliza duas centenas de operacionais",
-      "link": "https://www.rtp.pt/noticias/pais/incendio-em-vila-pouca-de-aguiar-mobiliza-duas-centenas-de-operacionais_n1759636",
-      "pubDate": "Sat, 15 Aug 2026 10:57:25 +0100",
-      "description": "O fogo deflagrou na sexta-feira, pelas 15h20, numa zona de mato na freguesia de Alfarela de Jales.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6c00734d539c0de1569ec7419a8e4bb?w=350&amp;q=50&amp;rect=0,269,2048,1123&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rio Ave-FC Porto: Farioli obrigado a repetir «receita Rosario» (onzes prováveis)",
+      "link": "https://maisfutebol.iol.pt/liga/rio-ave/rio-ave-fc-porto-farioli-obrigado-a-repetir-receita-rosario-onzes-provaveis",
+      "pubDate": "Sat, 15 Aug 2026 11:11:10 +0100",
+      "description": "Com a ausência de Alan Varela confirmada, o médio dominicano deverá saltar para o onze inicial",
+      "thumbnail": "https://img.iol.pt/image/id/68cdb831d34ee0c2fed050fc/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Governo brasileiro admite que seca pode superar recorde na Amazónia",
-      "link": "https://www.rtp.pt/noticias/mundo/governo-brasileiro-admite-que-seca-pode-superar-recorde-na-amazonia_n1759630",
-      "pubDate": "Sat, 15 Aug 2026 10:42:52 +0100",
-      "description": "O ministro brasileiro do Ambiente admitiu que a Amazónia poderá enfrentar uma seca recorde devido ao El Niño, mas considerou prematuro prever um cenário semelhante a 2024, garantindo estar a trabalhar para evitar problemas de isolamento, abastecimento e incêndios.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e795936dfd3cfa7e0326cfeaf3503ad?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting em conversações para contratar jovem guarda-redes do Palmeiras",
+      "link": "https://maisfutebol.iol.pt/sporting/kaique/sporting-em-conversacoes-para-contratar-jovem-guarda-redes-do-palmeiras",
+      "pubDate": "Sat, 15 Aug 2026 11:07:00 +0100",
+      "description": "Kaique Pereira tem 23 anos e já representou o Nacional e o Farense, ambos por empréstimo",
+      "thumbnail": "https://img.iol.pt/image/id/6a803b8ed34ed0733ba7ff8d/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -128,28 +148,8 @@
       "title": "VÍDEO: Gustavo Varela brilha na vitória do Monza",
       "link": "https://maisfutebol.iol.pt/made-in/internacional/video-gustavo-varela-brilha-na-vitoria-do-monza",
       "pubDate": "Sat, 15 Aug 2026 09:43:00 +0100",
-      "description": "Ricardo Mangas, ex-Sporting, também, foi titular no conjunto italiano",
+      "description": "Ricardo Mangas, ex-Sporting, também foi titular no conjunto italiano",
       "thumbnail": "https://img.iol.pt/image/id/6a802646d34e511da0b336ea/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Cristian Romero é reforço do Atlético de Madrid",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/oficial-cristian-romero-e-reforco-do-atletico-de-madrid",
-      "pubDate": "Sat, 15 Aug 2026 09:18:06 +0100",
-      "description": "Defesa-central argentino chega proveniente do Tottenham e assina contrato até 2031",
-      "thumbnail": "https://img.iol.pt/image/id/6a80203bd34ed0733ba7ff4b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/hoje-e-noticia/hoje-vai-ser-noticia-178678080",
-      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0100",
-      "description": "FC Porto volta a entrar em campo, desta vez com a deslocação ao reduto do Rio Ave, em jogo a contar para a segunda jornada da Liga",
-      "thumbnail": "https://img.iol.pt/image/id/6a78c900d34ed0733ba7ef83/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vaticano. ArtCut reflete sobre como \"permanecer humano\" na era digital",
-      "link": "https://www.noticiasaominuto.com/cultura/3036962/vaticano-artcut-reflete-sobre-como-permanecer-humano-na-era-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:32:31",
+      "title": "O presente do Universo que cada signo recebe durante os próximo dias",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036319/o-presente-do-universo-que-cada-signo-recebe-durante-os-proximo-dias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 11:00:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80323e3e010.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1d5cc32df23.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODc5LCJjcm9wSGVpZ2h0IjoxNTYyLCJjcm9wWCI6ODc2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jaime Faria conquista primeira vitória num Masters 1.000",
-      "link": "https://www.noticiasaominuto.com/desporto/3036960/jaime-faria-conquista-primeira-vitoria-num-masters-1000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:29:15",
+      "title": "O arroz de nabiças de Fátima Lopes. \"É super simples\"",
+      "link": "https://www.noticiasaominuto.com/fama/3036965/o-arroz-de-nabicas-de-fatima-lopes-e-super-simples#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:59:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47515875.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a803839c8b35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MjEsImNyb3BZIjoyMTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExNTIsImNyb3BIZWlnaHQiOjIwNDgsImNyb3BYIjoxMzQ3LCJjcm9wWSI6MTI1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "CP. Tribunal determina integração imediata do 1.º Dezembro",
-      "link": "https://www.noticiasaominuto.com/desporto/3036879/cp-tribunal-determina-integracao-imediata-do-1-dezembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:28:25",
+      "title": "Revelado o discurso de César Peixoto no balneário do Wolverhampton",
+      "link": "https://www.noticiasaominuto.com/desporto/3036967/revelado-o-discurso-de-cesar-peixoto-no-balneario-do-wolverhampton#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:57:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43758252.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDU0LCJjcm9wSGVpZ2h0IjoxMTU1LCJjcm9wWCI6MTUzLCJjcm9wWSI6NDh9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8037f2cc367.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trânsito cortado no IP3 nas noites de segunda a quinta-feira em Tondela",
-      "link": "https://www.noticiasaominuto.com/pais/3036958/transito-cortado-no-ip3-nas-noites-de-segunda-a-quinta-feira-em-tondela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:28:17",
+      "title": "Número de mortos em sismo da Indonésia volta a subir. São já 38",
+      "link": "https://www.noticiasaominuto.com/mundo/3036963/numero-de-mortos-em-sismo-da-indonesia-volta-a-subir-sao-ja-38#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:44:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41663178.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a803501f2c51.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ex-Benfica salva César Peixoto na estreia dos Wolves no Championship",
-      "link": "https://www.noticiasaominuto.com/desporto/3036957/ex-benfica-salva-cesar-peixoto-na-estreia-dos-wolves-no-championship#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 10:27:12",
+      "title": "Rute Cardoso muito acarinhada ao celebrar aniversário. \"Que sejam leves\"",
+      "link": "https://www.noticiasaominuto.com/fama/3036955/rute-cardoso-muito-acarinhada-ao-celebrar-aniversario-que-sejam-leves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 10:34:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802c92cb90f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDAsImNyb3BZIjo1M319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a802ac3ae3d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDExLCJjcm9wSGVpZ2h0Ijo1NjksImNyb3BYIjo3LCJjcm9wWSI6MjkzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MTAsImNyb3BIZWlnaHQiOjEyNjEsImNyb3BYIjoyNDUsImNyb3BZIjo4fX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Chumbada a lei que ia proibir redes sociais a menores de 15 anos em França",
+      "link": "https://pplware.sapo.pt/redes_sociais/chumbada-a-lei-que-ia-proibir-redes-sociais-a-menores-de-15-anos-em-franca/",
+      "pubDate": "Sat, 15 Aug 2026 10:00:01 +0000",
+      "description": "A pouco mais de duas semanas de entrar em vigor, a lei que ia impedir os jovens de França com menos de 15 anos de terem contas em redes sociais foi chumbada pelo mais&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/crianca-redes-sociais.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/pixel_11_2.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Drones com explosivos param Aeroporto de Leipzig: Avião da DHL foi atingido no ar",
-      "link": "https://pplware.sapo.pt/informacao/drones-com-explosivos-param-aeroporto-de-leipzig-aviao-da-dhl-foi-atingido-no-ar/",
-      "pubDate": "Fri, 14 Aug 2026 21:30:56 +0000",
-      "description": "Drones com explosivos e uma colisão em pleno voo. O que parecia um cenário de ficção paralisou por completo o Aeroporto de Leipzig/Halle esta noite, colocando em xeque a segurança de um dos maiores&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/dhl_drone00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Portugal Rally Series: Chris Ingram é a primeira presença internacional",
+      "link": "https://www.autosport.pt/ralis/portugal-rally-series-chris-ingram-e-a-primeira-presenca-internacional/",
+      "pubDate": "Sat, 15 Aug 2026 09:41:41 +0000",
+      "description": "Castanheira de Pera prepara-se para receber a Ronda 4 do Castrol Portugal Rally Series, com a prova &#8220;O Neveiro e a Lã&#8221; a afirmar-se no calendário de 2026. As inscrições já estão abertas e a lista de participantes começa a ganhar dimensão internacional, com a confirmação do britânico Chri",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Red Bull sabe o que tem de melhorar na segunda metade da época",
+      "link": "https://www.autosport.pt/formula1/f1-red-bull-sabe-o-que-tem-de-melhorar-na-segunda-metade-da-epoca/",
+      "pubDate": "Sat, 15 Aug 2026 09:20:17 +0000",
+      "description": "A primeira metade da temporada para a Red Bull foi difícil. Max Verstappen reconheceu-o, apesar de alguns bons sinais que se foram verificando pontualmente. A Red Bull conseguiu criar uma boa unidade motriz, mas ficou mais uma vez aquém das expetativas do lado do chassis. O RB22 chegou com com lacun",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Edoardo Mortara foi o mais rápido no TL2",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-edoardo-mortara-foi-o-mais-rapido-no-tl2/",
+      "pubDate": "Sat, 15 Aug 2026 08:56:07 +0000",
+      "description": "Edoardo Mortara, da Mahindra Racing, foi o mais rápido em pista no TL2 em Londres, seguido de perto pelo Porsche de Pascal Wehrlein e pelo seu companheiro de equipa Nico Müller. Taylor Barnard voltou a mostrar-se rápido pela DS Penske, com Mitch Evans a completar o top cinco pela Jaguar TCS Racing. ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-mitch-evans-comeca-o-fim-de-semana-no-topo-do-tl1/",
       "pubDate": "Fri, 14 Aug 2026 17:46:00 +0000",
       "description": "Mitch Evans, da Jaguar TCS Racing, foi o melhor na primeira sessão de Treino Livre em Londres, registando um tempo de 1m08.175s, um início forte para um fim de semana em que luta pelo seu primeiro título de pilotos. Evans foi o mais rápido do TL1, com o piloto da Jaguar a liderar a primeira [&#8230;",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Porsche preocupada com o futuro dos GT3",
-      "link": "https://www.autosport.pt/velocidade/porsche-preocupada-com-o-futuro-dos-gt3/",
-      "pubDate": "Fri, 14 Aug 2026 16:45:00 +0000",
-      "description": "O futuro dos GT3 está em risco? O responsável máximo da Porsche Motorsport, Thomas Laudenbach acredita que sim, apoiando as últimas declarações do presidente da SRO, Stéphane Ratel, sobre o rumo da categoria GT3. Ratel destacou recentemente que os carros previstos para chegar a partir de 2028, com o",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1, McLaren: o preço de defender os títulos",
-      "link": "https://www.autosport.pt/formula1/f1-mclaren-o-preco-de-defender-os-titulos/",
-      "pubDate": "Fri, 14 Aug 2026 16:00:00 +0000",
-      "description": "Qual o preço do sucesso? Este pode ser, talvez, o tema da McLaren em 2026. Depois de um bicampeonato que já não acontecia desde os anos 90, a equipa entrou na nova era regulamentar a pagar o preço de ter trabalhado até ao fim em busca do título de construtores e de pilotos em 2025. [&#8230;]\nThe pos",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Nove candidatos, um título",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-nove-candidatos-um-titulo/",
-      "pubDate": "Fri, 14 Aug 2026 15:15:00 +0000",
-      "description": "A Fórmula E continua a dar finais tensas, com vários candidatos ao título nas últimas rondas. Em 2025/2026 voltamos a ver uma luta até ao fim e este ano temos 9 candidatos com hipóteses de chegar ao cetro, uns mais do que outros. Desde Jake Dennis, no topo, até Nyck de Vries, em nono lugar, [&#8230;",
       "thumbnail": ""
     }
   ]
