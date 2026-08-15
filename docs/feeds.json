@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-15T17:44:27.001906+00:00",
+  "updated": "2026-08-15T18:22:16.541609+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2149/",
+      "pubDate": "Sat, 15 Aug 2026 19:15:19 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O dia em que Berlim acordou com um Muro",
+      "link": "https://observador.pt/especiais/o-13-de-agosto-abriu-me-os-olhos-ja-nao-queria-pactuar-com-aquilo-o-dia-em-que-berlim-acordou-com-um-muro/",
+      "pubDate": "Sat, 15 Aug 2026 19:04:29 +0100",
+      "description": "Há 65 anos, a RDA construía uma barreira para separar Berlim numa só noite. O Observador falou com quem cresceu ao lado do Muro, quem fugiu e quem ajudou outros a escapar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3732:2098:nowe:0:176/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13181539/gettyimages-515450650.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dados fiscais de 678 mil contribuintes roubados em França",
+      "link": "https://observador.pt/2026/08/15/justica-francesa-investiga-roubo-de-dados-fiscais-de-678-mil-contribuintes/",
+      "pubDate": "Sat, 15 Aug 2026 19:01:32 +0100",
+      "description": "utoridades judiciais francesas abriram investigação a um ciberataque contra o Fisco realizado em junho. Dados fiscais de 678 mil contribuintes (particulares e empresas) foram roubados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/08183452/22589826.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Montesinho. Mais de 100 bombeiros combatem fogo",
+      "link": "https://observador.pt/2026/08/15/fogo-no-parque-natural-de-montesinho-combatido-por-mais-de-100-bombeiros/",
+      "pubDate": "Sat, 15 Aug 2026 18:44:17 +0100",
+      "description": "Mais de 100 bombeiros e 40 veículos combatem um incêndio no Parque Natural de Montesinho, em Bragança. Fogo deflagrou de madrugada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30153416/ilacerda-incendio-linda-a-velha-60-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15174615/47613189.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Volta a Portugal. Guérin vence na Senhora da Graça",
-      "link": "https://observador.pt/2026/08/15/guerin-vence-na-senhora-da-graca-e-encaminha-se-para-o-triunfo-final-na-volta-a-portugal/",
-      "pubDate": "Sat, 15 Aug 2026 18:14:57 +0100",
-      "description": "O ciclista francês Alexis Guérin triunfou isolado na chegada ao alto da Senhora da Graça, ficando assim mais perto da vitória na prova, que está a ser marcada pela morte de Finlay Tarling.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15175239/47615496.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "19h Incêndio lavra no Parque Natural de Montesinho",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-incendio-lavra-no-parque-natural-de-montesinho_a1_1759709",
+      "pubDate": "Sat, 15 Aug 2026 20:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "18h. Sporting anuncia Irankunda como reforço para o ataque",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2121/",
-      "pubDate": "Sat, 15 Aug 2026 18:14:33 +0100",
-      "description": "Atleta assinou um contrato válido até 2031 com uma cláusula de rescisão de 80 milhões. Ainda, Polícia marroquina já intercetou mais de 100 migrantes que tentavam atravessar ilegalmente para Ceuta.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Oposição critica discurso \"desligado da realidade\" no Pontal",
-      "link": "https://observador.pt/2026/08/15/oposicao-critica-montenegro-por-discurso-desligado-da-realidade-no-pontal/",
-      "pubDate": "Sat, 15 Aug 2026 18:05:13 +0100",
-      "description": "Ventura considera \"escandaloso\" que o primeiro-ministro não tenha falado sobre Luís Neves. BE critica a \"rábula do costume\" de Montenegro: \"O país está melhor, as pessoas é que não dão conta.\"",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:295/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14232458/dventura-psd-pontal-2026-22-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fizemos um curso de stand-up: podemos aprender a ter piada?",
-      "link": "https://observador.pt/especiais/e-possivel-aprender-a-ter-piada-fizemos-um-curso-de-stand-up-comedy-para-tentar-descobrir-onde-esta-a-graca/",
-      "pubDate": "Sat, 15 Aug 2026 18:01:03 +0100",
-      "description": "Inscrevemo-nos no 104.º curso da Bang Produções, por onde passou gente como Luana do Bem, Guilherme Duarte ou Joana Gama, e subimos ao palco no final. Será que o humor está ao alcance de qualquer um?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29140305/237a1920.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Marrocos ordena expulsão de jornalistas espanhóis que cobriam crise migratória em Ceuta",
+      "link": "https://www.rtp.pt/noticias/mundo/marrocos-ordena-expulsao-de-jornalistas-espanhois-que-cobriam-crise-migratoria-em-ceuta_n1759708",
+      "pubDate": "Sat, 15 Aug 2026 19:54:48 +0100",
+      "description": "Um representante do Ministério marroquino do Interior ordenou este sábado a saída das equipas da agência de notícias EFE e da televisão pública espanhola TVE de Fnideq, Castillejos, onde se encontravam a fazer a cobertura da situação junto à fronteira de Ceuta.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6d380518e309b6fb14e364564f2cb74a?w=350&amp;q=50&amp;rect=0,337,3602,1975&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc3f12da8a38982fe1b93fcb3c9da55c?w=350&amp;q=50&amp;rect=56,0,1167,640&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Guérin vence na Senhora da Graça e encaminha-se para o triunfo final",
-      "link": "https://www.rtp.pt/noticias/lusa/guerin-vence-na-senhora-da-graca-e-encaminha-se-para-o-triunfo-final_d1759702",
-      "pubDate": "Sat, 15 Aug 2026 18:50:41 +0100",
-      "description": "O ciclista francês Alexis Guérin (Anicolor-Campicarn) encaminhou-se hoje para a vitória na Volta a Portugal, ao triunfar isolado na chegada ao alto da Senhora da Graça, em Mondim de Basto, numa enlutada nona e penúltima etapa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b88702d4fcdd07121ab67b169945369?w=350&amp;q=50&amp;rect=0,175,5592,3066&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga. Académico Viseu - Santa Clara",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-academico-viseu-santa-clara_e1759698",
-      "pubDate": "Sat, 15 Aug 2026 18:48:21 +0100",
-      "description": "O Académico de Viseu-Santa Clara realiza-se este sábado, às 18:00, no renovado Estádio do Fontelo, com arbitragem de João Gonçalves, da Associação de Futebol do Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9bac0eb34d7e71ac072cea255b4d4df6?w=350&amp;q=50&amp;rect=0,175,2937,1610&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: reviravolta garante triunfo ao Swansea de Vítor Matos no Championship",
+      "link": "https://maisfutebol.iol.pt/inglaterra/championship/video-reviravolta-garante-triunfo-ao-swansea-de-vitor-matos-no-championship",
+      "pubDate": "Sat, 15 Aug 2026 19:09:00 +0100",
+      "description": "Galeses abrem o campeonato com uma vitória na casa do Stoke City",
+      "thumbnail": "https://img.iol.pt/image/id/6a80ab40d34e511da0b3382e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a78cbd0d34e511da0b326c0/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Ramos brilha no reencontro de Amorim com o Man. United",
-      "link": "https://maisfutebol.iol.pt/manchester-united/milan/video-amorim-triunfa-no-reencontro-com-man-united-de-bruno-fernandes",
-      "pubDate": "Sat, 15 Aug 2026 18:00:00 +0100",
-      "description": "Internacional português assina um golo e duas assistências na vitória do Milan por 4-2 sobre os red devils",
-      "thumbnail": "https://img.iol.pt/image/id/6a809740d34e511da0b33813/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -175,21 +175,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos intercetou 111 migrantes que tentavam chegar à fronteira de Ceuta",
-      "link": "https://sapo.pt/artigo/marrocos-intercetou-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta-6a80749433cbe64db3dd71b9",
-      "pubDate": "Sat, 15 Aug 2026 15:11:55 +0000",
-      "description": "As forças marroquinas intercetaram este sábado 111 migrantes, na sua maioria da África subsaariana, quando tentavam chegar à fronteira de Ceuta, e detiveram 61 pessoas por incitarem à migração ilegal",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACMV3g4ZRDcf2c%2Fy8tI7wC3K7uGUZru8tuEZcAwxCu1QUBsPdYTa2jfbl2VRh4XEH1by1v6pzOGKGaNWTrfWE5%2BVeMwDgQjKRoJHlF3DLYqWJrMCLkE1FzF8bJyfv1pIt"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "ULS do Algarve nega tempos de espera em Faro e Portimão divulgados pelo SNS",
       "link": "https://sapo.pt/artigo/uls-do-algarve-nega-tempos-de-espera-em-faro-e-portimao-divulgados-pelo-sns-6a80884e7b96e183906dee63",
       "pubDate": "Sat, 15 Aug 2026 15:44:38 +0000",
       "description": "A Unidade Local de Saúde do Algarve (ULS) negou os tempos de espera divulgados pelo portal do Serviço Nacional de Saúde e atribui os valores a erros informáticos.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ARxIlLmM84klQ6JnvmrLChz2SS%2BNp22vFWxDSiLBbvv7imKrSLCgCJYW3dsIalgBW6OJOqPMUiGB4pFRTBnqjq%2FxfORcD%2BLimAnM1p0W8vT4KV%2FQ6iagSvrq1M%2BJBDsHX"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Marrocos intercetou 111 migrantes que tentavam chegar à fronteira de Ceuta",
+      "link": "https://sapo.pt/artigo/marrocos-intercetou-111-migrantes-que-tentavam-chegar-a-fronteira-de-ceuta-6a80749433cbe64db3dd71b9",
+      "pubDate": "Sat, 15 Aug 2026 15:11:55 +0000",
+      "description": "As forças marroquinas intercetaram este sábado 111 migrantes, na sua maioria da África subsaariana, quando tentavam chegar à fronteira de Ceuta, e detiveram 61 pessoas por incitarem à migração ilegal",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACMV3g4ZRDcf2c%2Fy8tI7wC3K7uGUZru8tuEZcAwxCu1QUBsPdYTa2jfbl2VRh4XEH1by1v6pzOGKGaNWTrfWE5%2BVeMwDgQjKRoJHlF3DLYqWJrMCLkE1FzF8bJyfv1pIt"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Catarina Gouveia atualiza estado de saúde da mãe e agradece apoio",
+      "link": "https://www.noticiasaominuto.com/fama/3037043/catarina-gouveia-atualiza-estado-de-saude-da-mae-e-agradece-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 19:00:59",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8077391d86b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjIxOCwiY3JvcFkiOjU2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzcwLCJjcm9wSGVpZ2h0Ijo2NTgsImNyb3BYIjo2MTIsImNyb3BZIjo1NTR9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Teerão diz ter acordado com Omã rota segura de navegação por Ormuz",
+      "link": "https://www.noticiasaominuto.com/mundo/3037092/teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:57:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a03a7d5228a6.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Italianos revelam que Rodrigo Mora tomou decisão sobre futuro no FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3037089/italianos-revelam-que-rodrigo-mora-tomou-decisao-sobre-futuro-no-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:55:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ca0a73bf70.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Termas da Ribeira Grande promovem estudo sobre tratamentos da pele",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3037090/termas-da-ribeira-grande-promovem-estudo-sobre-tratamentos-da-pele#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 18:52:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65d36844439d1.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Incêndio no Montesinho combatido por mais de 100 operacionais",
       "link": "https://www.noticiasaominuto.com/pais/3037088/incendio-no-montesinho-combatido-por-mais-de-100-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 18:39:15",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rui Borges assiste ao triunfo magro do Sporting B ante o Desp. Chaves",
-      "link": "https://www.noticiasaominuto.com/desporto/3037087/rui-borges-assiste-ao-triunfo-magro-do-sporting-b-ante-o-desp-chaves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:36:33",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a3776fd8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjIwLCJjcm9wSGVpZ2h0Ijo5MTEsImNyb3BYIjowLCJjcm9wWSI6MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjA4LCJjcm9wSGVpZ2h0IjoxMDgxLCJjcm9wWCI6MTI1LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Justiça francesa investiga roubo de dados de 678.000 contribuintes",
-      "link": "https://www.noticiasaominuto.com/tech/3037086/justica-francesa-investiga-roubo-de-dados-de-678000-contribuintes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:30:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/22589826.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "O lance da expulsão que retira Chiquinho do jogo frente ao Sporting",
-      "link": "https://www.noticiasaominuto.com/desporto/3037082/o-lance-da-expulsao-que-retira-chiquinho-do-jogo-frente-ao-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:25:46",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80a1048094d.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Jovem de 15 anos esfaqueado em autocarro em Lisboa. Teve de ser operado",
-      "link": "https://www.noticiasaominuto.com/pais/3037084/jovem-de-15-anos-esfaqueado-em-autocarro-em-lisboa-teve-de-ser-operado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 18:24:24",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_61b8aca887c4a.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Battlefield 6 x Top Gun: novos caças e modo Carrier Strike",
+      "link": "https://pplware.sapo.pt/jogos/battlefield-6-x-top-gun-novos-cacas-e-modo-carrier-strike/",
+      "pubDate": "Sat, 15 Aug 2026 18:00:22 +0000",
+      "description": "Há cerca de três semanas, a Electronic Arts e os Battlefield Studios levantaram o véu sobre a Temporada 4 de Battlefield 6 e revelaram uma das suas principais apostas: uma colaboração oficial com Top&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Battlefield6.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,21 +302,21 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/bandeira_00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "5 sites de modelos úteis para imprimir na sua impressora 3D",
-      "link": "https://pplware.sapo.pt/truques-dicas/5-sites-de-modelos-uteis-para-imprimir-na-sua-impressora-3d/",
-      "pubDate": "Sat, 15 Aug 2026 13:00:20 +0000",
-      "description": "A impressão 3D vai muito além dos objetos decorativos e das figuras de fantasia que inundam as redes sociais. O verdadeiro valor desta tecnologia reside na criação de peças úteis e funcionais para o&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/impressora_3D.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "McLaren McL 6GT: o sonho de Bruce",
+      "link": "https://www.autosport.pt/automais/mclaren-mcl-6gt-o-sonho-de-bruce/",
+      "pubDate": "Sat, 15 Aug 2026 16:55:23 +0000",
+      "description": "O McLaren McL 6GT apresentado durante evento na Semana do Automóvel de Monterey, na Califórnia, EUA, recupera o espírito do M6GT de Bruce McLaren, de 1969, e combina a inspiração histórica com tecnologia contemporânea. O novo estudo antecipa automóvel de produção prometido para 2028 e recorre a uma ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
       "title": "ERC, Barum Czech Rally Zlín: Adam Březík na liderança, William Creighton e Liam Regan sem ferimentos graves",
-      "link": "https://www.autosport.pt/sem-categoria/erc-barum-czech-rally-zlin-adam-brezik-na-lideranca-william-creighton-e-liam-regan-sem-ferimentos-graves/",
+      "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-adam-brezik-na-lideranca-william-creighton-e-liam-regan-sem-ferimentos-graves/",
       "pubDate": "Sat, 15 Aug 2026 16:48:26 +0000",
       "description": "Boa notícias chegam do Barum Czech Rally Zlín. A dupla William Creighton / Liam Regan (Citroën C3 Rally2), que sofreu um acidente na PEC 4 não sofreu ferimentos graves, segundo a organização. Creighton e Regan foram levados para o hospital, receber tratamento e fazer exames complementares, mas, de a",
       "thumbnail": ""
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-corrida-1-felix-da-costa-no-podio/",
       "pubDate": "Sat, 15 Aug 2026 13:45:00 +0000",
       "description": "Pascal Wehrlein foi o vencedor da corrida 1 e subiu ao primeiro lugar do campeonato. Uma corrida tranquila e perfeitamente gerida pelo alemão e a sua equipa, que o permite entrar na derradeira corrida, no topo das contas do campeonato. A Jaguar viu Mitch Evans ficar sem sorte, apanhado num Full Cour",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "ERC, Barum Czech Rally Zlín: Manhã marcada por acidente de William Creighton",
-      "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-manha-marcada-por-acidente-de-william-creighton/",
-      "pubDate": "Sat, 15 Aug 2026 12:41:05 +0000",
-      "description": "William Creighton / Liam Regan (Citroën C3 Rally2) terminaram a manhã do Barum Czech Rally Zlín como destaques pelos piores motivos, com um acidente a provocar o cancelamento do troço. Ainda não há mais informações sobre o incidente e a tripulação. O rali começou com Andrea Mabellini / Virginia Lenz",
       "thumbnail": ""
     }
   ]
