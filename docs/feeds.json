@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-15T16:18:45.486813+00:00",
+  "updated": "2026-08-15T16:48:57.196801+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 17h",
+      "title": "Alverca e Estrela da Amadora empatam a dois golos",
+      "link": "https://observador.pt/2026/08/15/alverca-e-estrela-da-amadora-empatam-a-dois-golos/",
+      "pubDate": "Sat, 15 Aug 2026 17:44:00 +0100",
+      "description": "Jogo entre Alverca e Estrela da Amadora acabou 2-2. Equipas estão provisoriamente na 15° e na 6° posição no campeonato, respetivamente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15173812/47615302.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "PR nega que referendo seja para regresso de Embaló",
+      "link": "https://observador.pt/2026/08/15/presidente-de-transicao-nega-que-referendo-seja-para-o-regresso-de-sissoco-embalo/",
+      "pubDate": "Sat, 15 Aug 2026 17:21:53 +0100",
+      "description": "O Presidente da República de Transição da Guiné-Bissau apelou aos guineenses para que votem no referendo sobre a nova Constituição, que disse não ser um meio para garantir o regresso de Embaló.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15171219/27549598.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "17h. GNR alerta para constrangimentos de trânsito na estrada",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2268/",
       "pubDate": "Sat, 15 Aug 2026 17:15:16 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Major da Unidade Nacional de Trânsito da GNR e deixa recomendações a quem vai de férias para o sul do país. Ainda, cerca de 50 pessoas morreram na sequência do sismo que atingiu hoje a Indonésia.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/04182824/ilacerda-jose-estevez-mental-21-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Quatro desalojados em incêndio em duas casas em Avis",
-      "link": "https://observador.pt/2026/08/15/quatro-desalojados-em-incendio-em-duas-casas-em-avis/",
-      "pubDate": "Sat, 15 Aug 2026 16:45:07 +0100",
-      "description": "Incêndio danificou três casas em Avis. Quatro pessoas ficaram desalojadas, mas não há feridos a registar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2767:1555:nowe:0:145/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30195950/ilacerda-incendio-linda-a-velha-17aa.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Alargamento do passe ferroviário em Lisboa e no Porto é \"populista\": há \"problemas de oferta\"",
+      "link": "https://www.rtp.pt/noticias/pais/alargamento-do-passe-ferroviario-em-lisboa-e-no-porto-e-populista-ha-problemas-de-oferta_n1759655",
+      "pubDate": "Sat, 15 Aug 2026 18:34:28 +0100",
+      "description": "Fernando Nunes da Silva, especialista em transportes e antigo autarca, lamenta que o alargamento do passe ferroviário verde nas áreas metropolitanas de Lisboa e do Porto não seja acompanhado de um aumento de oferta. Receia ainda que haja impacto no Navegante e no Andante.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/41/413c60a96d35b2597b8f4ac60c664ec4?w=350&amp;q=50&amp;rect=0,38,5333,2924&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O que se sabe sobre o acidente que matou Finlay Tarling",
-      "link": "https://observador.pt/2026/08/15/local-sem-militares-por-nao-priorizacao-conjugacao-de-fatores-e-senhor-em-estado-de-choque-o-que-se-sabe-sobre-o-acidente-de-tarling/",
-      "pubDate": "Sat, 15 Aug 2026 16:23:09 +0100",
-      "description": "Segundo a GNR, no local do acidente não havia militares e Tarling circulava sem qualquer acompanhamento. Condutor terá avançado para a estrada depois de ter perguntado a populares se o podia fazer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2200:1237:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15161055/doc202608144761122113169637.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "17h Autoridades falam do pior incêndio da história da Bélgica",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-autoridades-falam-do-pior-incendio-da-historia-da-belgica_a1_1759699",
+      "pubDate": "Sat, 15 Aug 2026 18:25:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/11/11ec38b2fd3c045fe60a5111feeae021?w=350&amp;q=50&amp;rect=0,246,5500,3015&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio na Bélgica já consumiu 1.650 hectares e ameaça casas em parque natural",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-consumiu-1650-hectares-e-ameaca-casas-em-parque-natural_n1759692",
-      "pubDate": "Sat, 15 Aug 2026 17:40:39 +0100",
-      "description": "O fogo de grandes dimensões em Les Gagnes está a progredir rapidamente num parque natural e a ameaçar habitações, tendo já ardido pelo menos 1.650 hectares.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf72e3b6999f7640bfd7d97b595a2707?w=350&amp;q=50&amp;rect=0,243,4272,2342&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Alverca-Estrela, 2-2 (crónica)",
+      "link": "https://maisfutebol.iol.pt/estrela-amadora/alverca/alverca-estrela-2-2-cronica",
+      "pubDate": "Sat, 15 Aug 2026 17:37:00 +0100",
+      "description": "Resultado fetiche: estiveram na frente, mas ninguém quis vencer",
+      "thumbnail": "https://img.iol.pt/image/id/6a809258d34e511da0b3380b/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Europeus de atletismo. Pichardo e Nader tentam medalhas, Agate de Sousa a qualificação",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-pichardo-e-nader-tentam-medalhas-agate-de-sousa-a-qualificacao_d1759691",
-      "pubDate": "Sat, 15 Aug 2026 17:29:10 +0100",
-      "description": "Os campeões do mundo Pedro Pablo Pichardo, no triplo salto, e Isaac Nader, nos 1.500 metros, disputam hoje as respetivas finais nos Europeus de atletismo Birmingham2026, depois de Agate de Sousa enfrentar a qualificação no salto em comprimento.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f16652d2485ce509ea2b806553dfa68?w=350&amp;q=50&amp;rect=0,144,1920,1053&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Volta a Portugal: Alexis Guerin vence em dia de homenagens a Tarling",
+      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-portugal/volta-a-portugal-alexis-guerin-vence-em-dia-de-homenagens-a-tarling",
+      "pubDate": "Sat, 15 Aug 2026 17:26:00 +0100",
+      "description": "Ciclista francês triunfa na Senhora da Graça e é mais líder da classificação geral",
+      "thumbnail": "https://img.iol.pt/image/id/6a80933ad34e511da0b3380d/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a58fb7ad34e511da0b2dd31/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atenção, Benfica: Palhinha ausente em mais uma vitória do Bayern",
-      "link": "https://maisfutebol.iol.pt/bayern-munique/alemanha/atencao-benfica-palhinha-ausente-de-mais-uma-vitoria-do-bayern",
-      "pubDate": "Sat, 15 Aug 2026 16:49:00 +0100",
-      "description": "Bávaros levam a melhor sobre o Leipzig por 3-1 antes da Supertaça da Alemanha",
-      "thumbnail": "https://img.iol.pt/image/id/6a808877d34ed0733ba8002f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "China: João Carlos Teixeira assiste na goleada ao Henan de Daniel Ramos",
-      "link": "https://maisfutebol.iol.pt/internacional/china/china-joao-carlos-teixeira-assiste-na-goleada-ao-henan-de-daniel-ramos",
-      "pubDate": "Sat, 15 Aug 2026 16:35:58 +0100",
-      "description": "Wilson Manafá também foi titular no triunfo por 4-1 do Shanghai Shenhua",
-      "thumbnail": "https://img.iol.pt/image/id/6803b69dd34ef72ee444f230/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sat, 15 Aug 2026 15:10:15 +0000",
       "description": "Porta-voz da GNR diz que ainda não pode garantir se havia outro tipo de sinalização que impedisse a entrada de condutores naquela zona do percurso da competição.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ArXbHZAzcJzi29LY2CNu8%2FSaiud9WHJi24x0wn7KLJYAH%2BrqIXSdQ1qq3HFWvkJVWz89GOr7aO%2F3MyD0t8A6VF9NDeamkPtuc%2BKo7mGf5hGnzLjqWGJpSfI7wE8q4rKL5"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Alexis Guérin conquista Graça e Volta a Portugal em festa única",
+      "link": "https://sapo.pt/artigo/alexis-guerin-conquista-graca-e-volta-a-portugal-em-festa-unica-6a80938bbec1d8607eebd841",
+      "pubDate": "Sat, 15 Aug 2026 16:28:48 +0000",
+      "description": "Francês da Anicolor-Campicarn chegou isolado ao topo da etapa rainha, superando José Fernandes e Artem Nych.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A%2Bjg6mcshRCYQFs6ZxUloch89bagviuGjbJ%2FPq11QsSbYZQ%2FTDAjYhYNFLUa%2FYjVLpOn3DvQpWIO75IJxgI%2BGKgpTfWQXd4DblPr7%2FVfE5xA1jE5s7YNptRWC0RbvHFGW"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AIQRj8wHdbVENZWwjT61Pg2HJzOHvrHk4tdmJW8skFhn%2FqE3HEF4mf0TqkzKtlcJ0G8RxpT5WSLsjJmU53qtKi5hP9gmotiqerRMNMOpvoM1LWiOCySFcp6jJmFoxjNmL"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Passe Ferroviário Verde de 20 euros chega a Lisboa e Porto em setembro",
-      "link": "https://sapo.pt/artigo/passe-ferroviario-verde-de-20-euros-chega-a-lisboa-e-porto-em-setembro-6a7fabe8c50b1ad90495c59e",
-      "pubDate": "Sat, 15 Aug 2026 08:03:07 +0000",
-      "description": "O passe ferroviário verde de 20 euros vai chegar às áreas metropolitanas de Lisboa e do Porto no início de setembro, anunciou Luís Montenegro na Festa do Pontal.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A9CZ9uKQswD2igqxJrIEW14ghCqgu9uhbpAPRmYAYKg9FuAi%2BnKvO8T9gcUTHf83Zf8msiwz09YpdQF%2FNL%2BWAWKXqdx0nrkxWOtpi0CRpitT6Myt%2BZnyrwXqJjwccJRrf"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Valeu a pena despedi-lo? Amorim arrasa no reencontro com o Man. United",
+      "link": "https://www.noticiasaominuto.com/desporto/3037070/valeu-a-pena-despedi-lo-amorim-arrasa-no-reencontro-com-o-man-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:42:03",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80950c2f6d1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "10 formas de melhorar a qualidade do esperma naturalmente",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3036793/10-formas-de-melhorar-a-qualidade-do-esperma-naturalmente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:05:20",
+      "title": "Tragédia na Volta. Condutor não ia em contramão e guiou-se por populares",
+      "link": "https://www.noticiasaominuto.com/pais/3037067/tragedia-na-volta-condutor-nao-ia-em-contramao-e-guiou-se-por-populares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:38:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f6333e76a9.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80943346139.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYyLCJjcm9wSGVpZ2h0Ijo1OTgsImNyb3BYIjoxMiwiY3JvcFkiOjY5MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Mzc2LCJjcm9wSGVpZ2h0Ijo2NjgsImNyb3BYIjozNjYsImNyb3BZIjo2ODJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Está tudo bem\", diz Jessica Athayde após sismo na Indonésia",
-      "link": "https://www.noticiasaominuto.com/fama/3037050/esta-tudo-bem-diz-jessica-athayde-apos-sismo-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 17:03:41",
+      "title": "EM DIRETO: Alverca e Estrela empatam. Segue-se o Académico-Santa Clara",
+      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:32:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8082a488f4f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTkxLCJjcm9wSGVpZ2h0Ijo2NzAsImNyb3BYIjo0LCJjcm9wWSI6MzAwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NTMsImNyb3BIZWlnaHQiOjEzMzksImNyb3BYIjo4LCJjcm9wWSI6Mjd9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808b60cc774.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PS preocupado com situação política na Guiné-Bissau após reunião",
-      "link": "https://www.noticiasaominuto.com/politica/3037062/pspreocupado-com-situacao-politica-na-guine-bissau-apos-reuniao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:49:18",
+      "title": "Expulsão, 4 golos e remontada. Alverca e Estrela empatam em jogo 'louco'",
+      "link": "https://www.noticiasaominuto.com/desporto/3037063/expulsao-4-golos-e-remontada-alverca-e-estrela-empatam-em-jogo-louco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:28:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_659c1a0538d58.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808b2fc4596.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUxfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Falhada ida para o México, Tiago Gouveia pode trocar Benfica pelo Brasil",
-      "link": "https://www.noticiasaominuto.com/desporto/3037059/falhada-ida-para-o-mexico-tiago-gouveia-pode-trocar-benfica-pelo-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:48:24",
+      "title": "Número de mortos no naufrágio no Zimbabué subiu para 68",
+      "link": "https://www.noticiasaominuto.com/mundo/3037065/numero-de-mortos-no-naufragio-no-zimbabue-subiu-para-68#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 17:18:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a60de4153c37.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Pescador resgatado após ter ficado com uma mão presa no alador de pesca",
-      "link": "https://www.noticiasaominuto.com/pais/3037061/pescador-resgatado-apos-ter-ficado-com-uma-mao-presa-no-alador-de-pesca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:46:51",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808525a86a8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMxOSwiY3JvcEhlaWdodCI6NTY3LCJjcm9wWCI6NTUyLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80913c63b1a.webp"
     },
     {
       "sourceId": "pplware",
