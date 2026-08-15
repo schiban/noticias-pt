@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-14T23:45:37.608084+00:00",
+  "updated": "2026-08-15T00:59:49.102940+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2353/",
+      "pubDate": "Sat, 15 Aug 2026 01:16:46 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,32 +52,12 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O eclipse do sol e a assunção de Maria",
-      "link": "https://observador.pt/opiniao/o-eclipse-do-sol-e-a-assuncao-de-maria/",
-      "pubDate": "Sat, 15 Aug 2026 00:22:26 +0100",
-      "description": "“Apareceu no Céu um grande sinal: uma Mulher vestida de Sol, com a Lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça” (Ap 12, 1)",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2340%3A2340%3Anowe%3A128%3A631%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpadre-goncalo-almada.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Discurso de Montenegro na Festa do Pontal criticado pela oposição",
-      "link": "https://www.rtp.pt/noticias/politica/discurso-de-montenegro-na-festa-do-pontal-criticado-pela-oposicao_v1759592",
-      "pubDate": "Sat, 15 Aug 2026 01:37:47 +0100",
-      "description": "Nas primeiras reações ao discurso de Luís Montenegro, no Pontal, a oposição acusa o primeiro-ministro de estar desligado da realidade.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/dc/dce19846a2309c3ae7363b10dc4dd64e_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h PM: passe ferroviário alargado a Lisboa e Porto",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-pm-passe-ferroviario-alargado-a-lisboa-e-porto_a1_1759590",
-      "pubDate": "Sat, 15 Aug 2026 01:34:03 +0100",
+      "title": "01h Por interesse estratégico Estado recompra 13.7% da REN",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-por-interesse-estrategico-estado-recompra-137-da-ren_a1_1759598",
+      "pubDate": "Sat, 15 Aug 2026 02:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +65,41 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Trump confirma novo porta-aviões para substituir o posicionado no Médio Oriente há seis meses",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-confirma-novo-porta-avioes-para-substituir-o-posicionado-no-medio-oriente-ha-seis-meses_n1759586",
-      "pubDate": "Sat, 15 Aug 2026 01:19:13 +0100",
-      "description": "O Presidente norte-americano, Donald Trump, confirmou que um novo porta-aviões irá substituir em breve o USS Abraham Lincoln, no Médio Oriente há mais de seis meses, e do qual emergiram relatos de problemas de saúde mental e de abastecimento.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/45be14bee5430e4ea8f775a534f3ef5e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Eclipse lunar parcial será visível em toda a Espanha em 28 de agosto",
+      "link": "https://www.rtp.pt/noticias/mundo/eclipse-lunar-parcial-sera-visivel-em-toda-a-espanha-em-28-de-agosto_n1759597",
+      "pubDate": "Sat, 15 Aug 2026 02:12:28 +0100",
+      "description": "Um eclipse lunar parcial será visível em toda a Espanha na noite de 28 de agosto, divulgou o Instituto Geográfico Nacional (IGN) espanhol.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Venezuela anuncia libertação de mais de 130 presos políticos",
-      "link": "https://www.rtp.pt/noticias/mundo/venezuela-anuncia-libertacao-de-mais-de-130-presos-politicos_n1759585",
-      "pubDate": "Sat, 15 Aug 2026 01:16:01 +0100",
-      "description": "Mais de 130 presos políticos serão libertados na Venezuela ao abrigo da lei de amnistia aprovada em fevereiro, que abre caminho à libertação de quem cometeu delitos desde 1999, anunciaram hoje as autoridades do país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/22/22762a2a7a0ebfc735ae3b03d9fc3d31?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "BBC pretende intimar membros da família Trump em processo por difamação",
+      "link": "https://www.rtp.pt/noticias/mundo/bbc-pretende-intimar-membros-da-familia-trump-em-processo-por-difamacao_n1759596",
+      "pubDate": "Sat, 15 Aug 2026 02:12:14 +0100",
+      "description": "A BBC pretende intimar o filho, a filha e o genro de Donald Trump, no âmbito de um processo de difamação de 10 mil milhões de dólares (8,6 mil milhões de euros) do Presidente norte-americano contra a estação britânica.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Festa do Pontal. Montenegro critica \"censura moderna\" e pede \"menos maledicência\"",
-      "link": "https://www.rtp.pt/noticias/politica/festa-do-pontal-montenegro-critica-censura-moderna-e-pede-menos-maledicencia_n1759579",
-      "pubDate": "Sat, 15 Aug 2026 00:37:57 +0100",
-      "description": "Na tradicional Festa do Pontal, no Algarve, o primeiro-ministro fez um discurso otimista, criticando a &quot;censura moderna&quot; e defendendo que o país tem de falar menos dos problemas da governação, e mais dos êxitos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef6b4ed9c59c65fd79439171d107ce70?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Ventura considera escandaloso que Montenegro tenha ignorado caso do MAI na rentrée",
+      "link": "https://www.rtp.pt/noticias/politica/ventura-considera-escandaloso-que-montenegro-tenha-ignorado-caso-do-mai-na-rentree_n1759595",
+      "pubDate": "Sat, 15 Aug 2026 02:11:59 +0100",
+      "description": "O presidente do Chega considerou hoje «escandaloso» que o primeiro-ministro tenha ignorado na `rentrée` «os casos que melindram a credibilidade do Governo», como o ministro da Administração Interna, acusando Luís Montenegro de estar «desligado da vida dos portugueses».",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Paulo Branco, Scorsese, Noémia Delgado, Azevedo Gomes, Shimizu e Bardot na Cinemateca",
+      "link": "https://www.rtp.pt/noticias/cultura/paulo-branco-scorsese-noemia-delgado-azevedo-gomes-shimizu-e-bardot-na-cinemateca_n1759568",
+      "pubDate": "Sat, 15 Aug 2026 01:44:43 +0100",
+      "description": "A Cinemateca Portuguesa inicia em setembro &quot;um dos maiores ciclos jamais realizados&quot;, dedicado ao produtor Paulo Branco, &quot;figura indelével do cinema português&quot;, ciclo que se vai &quot;estender durante os próximos anos&quot;, anunciou hoje este organismo para salvaguarda do patrim",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
