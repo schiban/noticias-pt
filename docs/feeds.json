@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-15T15:15:46.545485+00:00",
+  "updated": "2026-08-15T15:43:45.885286+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 16h",
+      "title": "O que se sabe sobre o acidente que matou Finlay Tarling",
+      "link": "https://observador.pt/2026/08/15/local-sem-militares-por-nao-priorizacao-conjugacao-de-fatores-e-senhor-em-estado-de-choque-o-que-se-sabe-sobre-o-acidente-de-tarling/",
+      "pubDate": "Sat, 15 Aug 2026 16:23:09 +0100",
+      "description": "Segundo a GNR, no local do acidente não haviam militares e Tarling circulava sem qualquer acompanhamento. Condutor terá avançado para a estrada depois de ter perguntado a populares se o podia fazer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2200:1237:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15161055/doc202608144761122113169637.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Aeroporto da Catânia reabre após redução do nível de alerta",
+      "link": "https://observador.pt/2026/08/15/aeroporto-siciliano-da-catania-reabre-apos-reducao-do-nivel-de-alerta-do-vulcao-etna/",
+      "pubDate": "Sat, 15 Aug 2026 16:15:47 +0100",
+      "description": "Os voos foram retomados às 14h00 (13h00 em Lisboa), após \"a redução do nível de alerta relacionado com a atividade vulcânica de vermelho para laranja\", indicou o aeroporto no seu site.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15152917/47605016.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "16h. Polícia Marroquina interceta mais de 100 migrantes",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2330/",
       "pubDate": "Sat, 15 Aug 2026 16:11:28 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Segundo as autoridades, 109 dos migrantes são de países da África Subsaariana e 2 são cidadãos marroquinos. Ainda, tiroteio numa universidade dos Estados Unidos provocou pelo menos 5 feridos.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,74 +52,84 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25121523/doc2026032846841414pn4148260328-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"O Jantar\": a angústia de estar à mesa com Herman Koch",
-      "link": "https://observador.pt/2026/08/15/o-jantar-a-angustia-de-estar-a-mesa-com-herman-koch/",
-      "pubDate": "Sat, 15 Aug 2026 15:52:34 +0100",
-      "description": "É chocante, tal como a notícia. E conhecer a sinopse não lhe diminui o choque. Pelo contrário, o leitor fica, num ambiente calmo, à espera da explosão, à espera de saber quando, como, porquê.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2730:1532:nowe:0:828/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/05143926/gettyimages-583669152-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "ULS Algarve nega tempos de espera em Faro e Portimão",
-      "link": "https://observador.pt/2026/08/15/uls-algarve-nega-tempos-de-espera-nas-urgencias-de-faro-e-portimao-indicados-pelo-portal-do-sns/",
-      "pubDate": "Sat, 15 Aug 2026 15:24:59 +0100",
-      "description": "Unidade Local de Saúde do Algarve atribuiu os valores a erros no sistema informático. Durante a manhã, os hospitais de Faro e Portimão apareciam com tempos de espera que \"não eram verdadeiros\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15152233/hospital-de-faro.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio na Bélgica já consumiu 1.650 hectares e ameaça habitações",
+      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-consumiu-1650-hectares-e-levou-as-primeiras-evacuacoes_n1759692",
+      "pubDate": "Sat, 15 Aug 2026 17:40:39 +0100",
+      "description": "O fogo de grandes dimensões está a progredir rapidamente num parque natural e a ameaçar habitações, tendo já ardido pelo menos 1.650 hectares.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf72e3b6999f7640bfd7d97b595a2707?w=350&amp;q=50&amp;rect=0,243,4272,2342&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Judocas Miguel Gago e Catarina Costa arrecadam bronze no Grande Prémio de Lima",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/judocas-miguel-gago-e-catarina-costa-arrecadam-bronze-no-grande-premio-de-lima_d1759683",
-      "pubDate": "Sat, 15 Aug 2026 16:58:21 +0100",
-      "description": "Os judocas portugueses Miguel Gago e Catarina Costa conquistaram na sexta-feira as medalhas de bronze nas categorias de -66 kg e -48 kg, respetivamente, do Grande Prémio de Lima, no Peru.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/99/9950f18a48af663d3275c59e79f3afff?w=350&amp;q=50&amp;rect=0,12,1620,888&amp;auto=format"
+      "title": "Europeus de atletismo. Pichardo e Nader tentam medalhas, Agate de Sousa a qualificação",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-pichardo-e-nader-tentam-medalhas-agate-de-sousa-a-qualificacao_d1759691",
+      "pubDate": "Sat, 15 Aug 2026 17:29:10 +0100",
+      "description": "Os campeões do mundo Pedro Pablo Pichardo, no triplo salto, e Isaac Nader, nos 1.500 metros, disputam hoje as respetivas finais nos Europeus de atletismo Birmingham2026, depois de Agate de Sousa enfrentar a qualificação no salto em comprimento.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f16652d2485ce509ea2b806553dfa68?w=350&amp;q=50&amp;rect=0,144,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Europeus de atletismo. Patrícia Silva e Salomé Afonso rumam à final dos 1.500 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-patricia-silva-e-salome-afonso-rumam-a-final-dos-1500-metros_d1759681",
-      "pubDate": "Sat, 15 Aug 2026 16:54:41 +0100",
-      "description": "As portuguesas Patrícia Silva e Salomé Afonso qualificaram-se hoje para a final dos 1.500 metros dos Campeonatos da Europa de atletismo, com o primeiro e terceiro lugares nas séries das eliminatórias, respetivamente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d79f3e36d929574d44508b1c258e741?w=350&amp;q=50&amp;rect=0,21,1607,881&amp;auto=format"
+      "title": "Europeus de atletismo. Vitória Oliveira bate recorde na meia maratona em marcha",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-vitoria-oliveira-bate-recorde-na-meia-maratona-em-marcha_d1759689",
+      "pubDate": "Sat, 15 Aug 2026 17:21:10 +0100",
+      "description": "A portuguesa Vitória Oliveira melhorou hoje em quatro minutos e meio o recorde nacional da meia maratona em marcha atlética, ao concluir a prova dos Europeus Birmingham2026 em 01:36.10 horas, no 13.º lugar.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c82fe2685e20cc72c3623b96a2da8f8?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Europeus de Atletismo. Agate de Sousa na final do salto em comprimento à primeira",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-agate-de-sousa-na-final-do-salto-em-comprimento-a-primeira_d1759680",
-      "pubDate": "Sat, 15 Aug 2026 16:50:07 +0100",
-      "description": "A portuguesa Agate de Sousa, campeã do mundo do salto em comprimento em pista curta, qualificou-se para a final dos Campeonatos da Europa de atletismo Birmingham2026, com os 7,00 metros da primeira tentativa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc922118551e47b872b7a997ab1501ff?w=350&amp;q=50&amp;rect=0,14,1920,1053&amp;auto=format"
+      "title": "Atlético de Madrid contrata argentino Cristián Romero ao Tottenham",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/atletico-de-madrid-contrata-argentino-cristian-romero-ao-tottenham_d1759688",
+      "pubDate": "Sat, 15 Aug 2026 17:19:15 +0100",
+      "description": "O defesa internacional argentino Cristián Romero transferiu-se do Tottenham para o Atlético de Madrid, tendo assinado um contrato de cinco temporadas com os espanhóis, até 2031, anunciaram hoje os dois clubes de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4489de300a6e814929b2ae85841edd8?w=350&amp;q=50&amp;rect=0,200,4617,2531&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Europeus de atletismo. Portugal na final dos 4x100 metros feminina, mas fora da masculina",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-portugal-na-final-dos-4x100-metros-feminina-mas-fora-da-masculina_d1759679",
-      "pubDate": "Sat, 15 Aug 2026 16:47:21 +0100",
-      "description": "A estafeta portuguesa de 4x100 feminina metros qualificou-se hoje para a final dos Campeonatos da Europa de atletismo, em Birmingham, com recorde nacional, enquanto a formação masculina ficou pelas eliminatórias.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6256fc91c4f6529c830d1bacc9784a3?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
+      "title": "Avançado espanhol Ferran Torres troca FC Barcelona pelo PSG",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/avancado-espanhol-ferran-torres-troca-fc-barcelona-pelo-psg_d1759687",
+      "pubDate": "Sat, 15 Aug 2026 17:16:13 +0100",
+      "description": "O avançado Ferran Torres, autor do golo que consagrou a Espanha como campeã mundial de futebol, trocou o FC Barcelona pelo Paris Saint-Germain, assinando um contrato com os franceses até 2031, anunciaram hoje os dois clubes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/64/64d88519141b25021df6e4b690d893f4?w=350&amp;q=50&amp;rect=0,65,3173,1740&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Extremo australiano Nestory Irankunda assina pelo Sporting",
-      "link": "https://www.rtp.pt/noticias/sporting/extremo-australiano-nestory-irankunda-assina-pelo-sporting_d1759678",
-      "pubDate": "Sat, 15 Aug 2026 16:45:11 +0100",
-      "description": "O internacional australiano Nestory Irankunda é o mais recente reforço do Sporting, após deixar os ingleses do Watford para assinar até 2031 com os ‘leões’, confirmou hoje o clube da I Liga portuguesa de futebol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d0e5bbab2e43b751bb65f7adf41467e?w=350&amp;q=50&amp;rect=0,96,1619,888&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "China: João Carlos Teixeira assiste na goleada ao Henan de Daniel Ramos",
+      "link": "https://maisfutebol.iol.pt/internacional/china/china-joao-carlos-teixeira-assiste-na-goleada-ao-henan-de-daniel-ramos",
+      "pubDate": "Sat, 15 Aug 2026 16:35:58 +0100",
+      "description": "Wilson Manafá também foi titular no triunfo por 4-1 do Shanghai Shenhua",
+      "thumbnail": "https://img.iol.pt/image/id/6803b69dd34ef72ee444f230/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Volta a Portugal: equipas criam memorial improvisado para Finlay Tarling",
+      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-portugal/volta-a-portugal-equipas-criam-memorial-improvisado-para-finlay-tarling",
+      "pubDate": "Sat, 15 Aug 2026 16:25:00 +0100",
+      "description": "Ciclista de 19 anos faleceu durante a oitava etapa da prova, em Ponte de Lima",
+      "thumbnail": "https://img.iol.pt/image/id/6a807f03d34e511da0b337d6/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Matos: «Queremos ser competitivos em todos os campos...»",
+      "link": "https://maisfutebol.iol.pt/liga/estoril/vasco-matos-queremos-ser-competitivos-em-todos-os-campos",
+      "pubDate": "Sat, 15 Aug 2026 16:22:10 +0100",
+      "description": "Treinador do Estoril antevê deslocação à Choupana e destaca qualidade do adversário na segunda jornada da Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6a74860bd34ed0733ba7e90c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -109,7 +139,7 @@
       "link": "https://maisfutebol.iol.pt/ii-liga/benfica-b/ii-liga-benfica-b-volta-a-vencer-com-bis-de-goncalo-moreira",
       "pubDate": "Sat, 15 Aug 2026 16:04:00 +0100",
       "description": "Encarnados foram vencer por 2-1 ao terreno da União de Leiria",
-      "thumbnail": "https://img.iol.pt/image/id/6a65354bd34e511da0b2fca7/250"
+      "thumbnail": "https://img.iol.pt/image/id/6a80819bd34e511da0b337dd/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 15:42:43 +0100",
       "description": "Atleta portuguesa atingiu um salto de sete metros na primeira tentativa, resultado que lhe valeu a passagem para a fase final",
       "thumbnail": "https://img.iol.pt/image/id/666a0a9fd34ebf9bbb3e905a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Seabra: «É importante tornarmos a nossa casa marca da nossa fortaleza»",
-      "link": "https://maisfutebol.iol.pt/arouca/liga/vasco-seabra-e-importante-tornarmos-a-nossa-casa-marca-da-nossa-fortaleza",
-      "pubDate": "Sat, 15 Aug 2026 15:34:00 +0100",
-      "description": "Treinador do Arouca perspetiva receção ao Moreirense e pede foco máximo para vencer",
-      "thumbnail": "https://img.iol.pt/image/id/69ebdf96d34e28842c835008/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vasco Botelho da Costa: «Arouca? Queremos ter bola, como nós gostamos»",
-      "link": "https://maisfutebol.iol.pt/moreirense/vasco-botelho-da-costa/vasco-botelho-da-costa-arouca-queremos-ter-bola-como-nos-gostamos",
-      "pubDate": "Sat, 15 Aug 2026 15:28:14 +0100",
-      "description": "Treinador do Moreirense antevê duelo diante dos «lobos»",
-      "thumbnail": "https://img.iol.pt/image/id/69d96f7ad34e28842c82c780/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Benfica: Dedic a caminho do Newcastle",
-      "link": "https://maisfutebol.iol.pt/benfica/dedic/benfica-dedic-a-caminho-do-newcastle",
-      "pubDate": "Sat, 15 Aug 2026 15:09:00 +0100",
-      "description": "Encarnados preparam-se para encaixar cerca de 35 milhões com o lateral bósnio",
-      "thumbnail": "https://img.iol.pt/image/id/6a63a567d34e511da0b2f9b0/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Número de mortos devido ao sismo na Colômbia subiu para 294",
-      "link": "https://www.noticiasaominuto.com/mundo/3037052/numero-de-mortos-devido-ao-sismo-na-colombia-subiu-para-294#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 16:11:24",
+      "title": "Quatro desalojados em incêndio em duas habitações em Avis. PJ investiga",
+      "link": "https://www.noticiasaominuto.com/pais/3037058/quatro-desalojados-em-incendio-em-duas-habitacoes-em-avis-pj-investiga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:41:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80816e79e57.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65d4c10649bc4.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"You don't belong here\" vence Leopardo de Ouro do Festival de Locarno",
-      "link": "https://www.noticiasaominuto.com/cultura/3037047/you-dont-belong-here-vence-leopardo-de-ouro-do-festival-de-locarno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:45:59",
+      "title": "Seis partidos e uma coligação apresentam-se às legislativas de São Tomé",
+      "link": "https://www.noticiasaominuto.com/mundo/3037056/seis-partidos-e-uma-coligacao-apresentam-se-as-legislativas-de-sao-tome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:37:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614793.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo0MzgsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47487121.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwOTIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mulheres passam a poder ascender ao trono do Liechtenstein",
-      "link": "https://www.noticiasaominuto.com/fama/3037046/mulheres-passam-a-poder-a-ascender-ao-trono-do-liechtenstein#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:44:13",
+      "title": "Benfica B vence em Leiria com duas grandes penalidades",
+      "link": "https://www.noticiasaominuto.com/desporto/3037057/benfica-b-vence-em-leiria-com-duas-grandes-penalidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:33:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a807abc2c6f1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzU5LCJjcm9wSGVpZ2h0IjoxMzI3LCJjcm9wWCI6ODIsImNyb3BZIjozNTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc3NCwiY3JvcEhlaWdodCI6MTM3NiwiY3JvcFgiOjQyMywiY3JvcFkiOjMyOX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808670ceb02.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQwNiwiY3JvcEhlaWdodCI6NzIyLCJjcm9wWCI6MjYzLCJjcm9wWSI6M319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo progride rapidamente e ameaça casas em parque natural da Bélgica",
-      "link": "https://www.noticiasaominuto.com/mundo/3037037/fogo-progride-rapidamente-e-ameaca-casas-em-parque-natural-da-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:40:48",
+      "title": "João Gião prevê grau de dificuldade elevado na receção ao Estoril Praia",
+      "link": "https://www.noticiasaominuto.com/desporto/3037053/joao-giao-preve-grau-de-dificuldade-elevado-na-rececao-ao-estoril-praia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:31:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6f1c74c4e63.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a808602469c0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Já há onzes no Ribatejo antes do Rio Ave-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 15:35:59",
+      "title": "Pastor encontrado morto após ser atingido por um raio em Espanha",
+      "link": "https://www.noticiasaominuto.com/mundo/3037054/pastor-encontrado-morto-apos-ser-atingido-por-um-raio-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 16:21:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c0282d12152.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8082a501487.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU2NCwiY3JvcEhlaWdodCI6MTAwMywiY3JvcFgiOjExOTUsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
