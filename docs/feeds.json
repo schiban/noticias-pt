@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-15T20:17:11.360670+00:00",
+  "updated": "2026-08-15T20:46:43.262066+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1729/",
+      "pubDate": "Sat, 15 Aug 2026 21:33:26 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Incêndio em Vinhais. Aldeia evacuada e 4 bombeiros feridos",
+      "link": "https://observador.pt/2026/08/15/quatro-bombeiros-feridos-no-combate-a-incendio-em-vinhais/",
+      "pubDate": "Sat, 15 Aug 2026 21:26:16 +0100",
+      "description": "Incêndio em Vinhais levou a que aldeia de Dine tenha sido evacuada \"por precaução\" e quatro bombeiros tenham ficado feridos. “A noite vai ser de muito trabalho\", diz subcomandante regional.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23090615/47395538.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A fome era tanta que o corpo acabou por rebentar: Nader 12.º",
+      "link": "https://observador.pt/2026/08/15/a-fome-era-tanta-que-o-corpo-acabou-por-rebentar-nader-quebrou-no-fim-e-terminou-final-dos-1-500-metros-no-12-o-lugar/",
+      "pubDate": "Sat, 15 Aug 2026 21:18:19 +0100",
+      "description": "Chegou à final com estatuto e a segunda melhor marca das eliminatórias, mas quebrou quando tentou aumentar o ritmo para responder aos britânicos. Nader acabou ultrapassado por todos, em 12.º.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15211353/gettyimages-2289902695-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15201408/47615775.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Quatro mulheres detidas após assalto a loja em Guimarães",
-      "link": "https://observador.pt/2026/08/15/quatro-mulheres-detidas-apos-assalto-a-loja-em-guimaraes/",
-      "pubDate": "Sat, 15 Aug 2026 20:15:07 +0100",
-      "description": "PSP deteve quatro mulheres na sequência de um assalto a uma loja em Guimarães, que envolveu também uma agressão a uma funcionária. Material furtado foi recuperado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/27013943/44775520.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Veículos dos bombeiros ardeu em Vinhais, cinco operacionais ficaram feridos",
+      "link": "https://www.rtp.pt/noticias/pais/veiculos-dos-bombeiros-ardeu-em-vinhais-cinco-operacionais-ficaram-feridos_n1759726",
+      "pubDate": "Sat, 15 Aug 2026 22:39:25 +0100",
+      "description": "Um veículo florestal de combate a incêndios de Vinhais ardeu no incêndio do concelho.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/05/058d5bae955a5ce25ae7abcb69b2e987?w=350&amp;q=50&amp;rect=0,277,4032,2211&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "20h. Irão diz ter acordado com Omã rota de navegação segura",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2027/",
-      "pubDate": "Sat, 15 Aug 2026 20:14:36 +0100",
-      "description": "Porta-voz do ministério dos Negócios Estrangeiros do Irão afirma que entendimento é um acordo independente entre os dois países. Ainda, Volta a Portugal voltou à estrada após acidente de ontem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Volta a Portugal. Alexis Guerin a um passo de vencer a prova",
+      "link": "https://www.rtp.pt/noticias/desporto/volta-a-portugal-alexis-guerin-a-um-passo-de-vencer-a-prova_v1759724",
+      "pubDate": "Sat, 15 Aug 2026 22:28:47 +0100",
+      "description": "O francês Alexis Guerin voltou a vencer uma etapa nesta Volta a Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6d/6d9a5d7eaaa2461526e1c62d67569321_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Zâmbia. UE alerta para restrição das liberdades nas eleições",
-      "link": "https://observador.pt/2026/08/15/ue-alerta-para-restricao-das-liberdades-fundamentais-nas-eleicoes-da-zambia/",
-      "pubDate": "Sat, 15 Aug 2026 20:06:27 +0100",
-      "description": "Missão de observação da UE nas eleições da Zâmbia considerou que decorreram de forma tranquila, mas num contexto de restrição das \"liberdades fundamentais\" e de \"concorrência desleal\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15194549/47604651.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Celorico de Basto. Acidente com viatura dos bombeiros provoca um morto",
+      "link": "https://www.rtp.pt/noticias/pais/celorico-de-basto-acidente-com-viatura-dos-bombeiros-provoca-um-morto_n1759723",
+      "pubDate": "Sat, 15 Aug 2026 22:20:45 +0100",
+      "description": "O Ministério da Administração Interna confirmou este sábado a morte de um cidadão na sequência de um acidente que envolveu uma viatura dos Bombeiros de Amarante.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb7a46abeee9cc737f524fc7a47baaef?w=350&amp;q=50&amp;rect=0,152,2048,1123&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/d5/d599e5ada99b36f3a5cc8f6b446f87ff_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio na Bélgica já é o maior na história do país",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-e-o-maior-na-historia-do-pais_v1759720",
-      "pubDate": "Sat, 15 Aug 2026 21:56:47 +0100",
-      "description": "Um grande incêndio na Bélgica obrigou à retirada dos moradores e turistas. O fogo está ativo há cerca de 24 horas e é já o maior na história do país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be6ff87d0aa84c6c484fba47a41258d3_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Petit: «Fomos felizes nos últimos minutos»",
+      "link": "https://maisfutebol.iol.pt/petit/santa-clara/petit-fomos-felizes-nos-ultimos-minutos",
+      "pubDate": "Sat, 15 Aug 2026 21:39:56 +0100",
+      "description": "Académico Viseu-Santa Clara, 0-1 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b601d34e511da0b33841/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tráfico de cocaína. Península Ibérica é a principal porta de entrada",
-      "link": "https://www.rtp.pt/noticias/pais/trafico-de-cocaina-peninsula-iberica-e-a-principal-porta-de-entrada_v1759718",
-      "pubDate": "Sat, 15 Aug 2026 21:54:47 +0100",
-      "description": "A Península Ibérica volta a ser a principal porta de entrada de cocaína na Europa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6a/6a8867db6ab8e061be7ae6bbb2e4c52d_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Bruno Pinheiro: «Demos uma parte de avanço»",
+      "link": "https://maisfutebol.iol.pt/academico-viseu/academico-de-viseu/bruno-pinheiro-demos-uma-parte-de-avanco",
+      "pubDate": "Sat, 15 Aug 2026 21:35:42 +0100",
+      "description": "Académico Viseu-Santa Clara, 0-1 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b60bd34ed0733ba80088/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Família quer guarda das crianças. Requerimento para o tribunal está a ser preparado",
-      "link": "https://www.rtp.pt/noticias/pais/familia-quer-guarda-das-criancas-requerimento-para-o-tribunal-esta-a-ser-preparado_v1759716",
-      "pubDate": "Sat, 15 Aug 2026 21:27:47 +0100",
-      "description": "A família do jovem que matou a mãe em Algés vai pedir a guarda da rapaz e da irmã de 4 anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4e/4e6f969d524b0884125ca02677936451_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Europeus de Atletismo: Nader foi último na final dos 1.500 metros",
+      "link": "https://maisfutebol.iol.pt/modalidades/atletismo/europeus-de-atletismo-nader-foi-ultimo-na-final-dos-1-500-metros",
+      "pubDate": "Sat, 15 Aug 2026 21:32:00 +0100",
+      "description": "Corrida foi ganha pelo neerlandês Stefan Nillessen",
+      "thumbnail": "https://img.iol.pt/image/id/6a80ccd6d34e511da0b33863/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: Torreense recupera de dupla desvantagem e empata com o Penafiel",
+      "link": "https://maisfutebol.iol.pt/futebol/ii-liga/ii-liga-torreense-recupera-de-dupla-desvantagem-e-empata-com-o-penafiel",
+      "pubDate": "Sat, 15 Aug 2026 21:22:00 +0100",
+      "description": "Em casa emprestada, a equipa de Torres Vedras recupera de 0-2 nos descontos quando jogava reduzida a dez elementos",
+      "thumbnail": "https://img.iol.pt/image/id/6a6e5708d34e511da0b311a6/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 21:09:00 +0100",
       "description": "Treinador do Milan deixa ainda um aviso sério a Rafael Leão",
       "thumbnail": "https://img.iol.pt/image/id/6a7742cdd34e511da0b3251f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Al Nassr vence com «show» de Félix e estreia a marcar de Samú Costa",
-      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-nassr/video-al-nassr-vence-com-show-de-felix-e-estreia-a-marcar-de-samu-costa",
-      "pubDate": "Sat, 15 Aug 2026 20:59:00 +0100",
-      "description": "Cristiano Ronaldo não foi opção para Postecoglou e assistiu ao encontro na bancada, juntamente com a noiva, Georgina Rodríguez",
-      "thumbnail": "https://img.iol.pt/image/id/6a80c22dd34ed0733ba800a0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Basquetebol: Javian Davis troca FC Porto pelo Sporting",
-      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-javian-davis-troca-o-fc-porto-pelo-sporting",
-      "pubDate": "Sat, 15 Aug 2026 20:11:00 +0100",
-      "description": "Poste norte-americano segue para a terceira temporada em Portugal",
-      "thumbnail": "https://img.iol.pt/image/id/6a80b6cfd34e511da0b33845/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Académico Viseu-Santa Clara, 0-1 (crónica)",
-      "link": "https://maisfutebol.iol.pt/academico-viseu/primeira-liga/academico-viseu-santa-clara-0-1-cronica",
-      "pubDate": "Sat, 15 Aug 2026 20:09:39 +0100",
-      "description": "37 anos se passaram",
-      "thumbnail": "https://img.iol.pt/image/id/6a80b60bd34ed0733ba80087/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rio Ave-FC Porto (onzes): Nehuen Pérez titular no lugar de Martim Fernandes",
-      "link": "https://maisfutebol.iol.pt/fc-porto/rio-ave/rio-ave-fc-porto-onzes-nehuen-perez-titular-no-lugar-de-martim-fernandes",
-      "pubDate": "Sat, 15 Aug 2026 19:54:09 +0100",
-      "description": "Pablo Rosário e Deniz Gul também entram no onze nas posições de Alan Varela e André Silva",
-      "thumbnail": "https://img.iol.pt/image/id/6a61292dd34ef04b4f3f857f/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Alavés bate Getafe no arranque da La Liga",
+      "link": "https://www.noticiasaominuto.com/ultima-hora/3037119/alaves-bate-getafe-no-arranque-da-la-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:41:41",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ce91994be.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Incêndios. Aldeia de Dine em Vinhais evacuada \"por precaução\"",
+      "link": "https://www.noticiasaominuto.com/pais/3037121/incendios-aldeia-de-dine-em-vinhais-evacuada-por-precaucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:41:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e958e92f3c3.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Isaac Nader 12.º nos 1.500 metros dos Europeus de atletismo",
+      "link": "https://www.noticiasaominuto.com/desporto/3037120/isaac-nader-12-nos-1500-metros-dos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:39:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45676561.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQyfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Atenção, Benfica. Bayern justifica ausência de Palhinha de particular",
+      "link": "https://www.noticiasaominuto.com/desporto/3037118/atencao-benfica-bayern-justifica-ausencia-de-palhinha-e-assume-saida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-15 21:37:19",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ff8250f19a2.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Viatura dos Bombeiros de Amarante despista-se e mata motociclista",
       "link": "https://www.noticiasaominuto.com/pais/3037117/viatura-dos-bombeiros-de-amarante-despista-se-e-mata-motociclista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-15 21:11:04",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc665a5c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjYxNSwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Torreense em inferioridade numérica resgata empate na compensação",
-      "link": "https://www.noticiasaominuto.com/desporto/3037113/torreense-em-inferioridade-numerica-resgata-empate-na-compensacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:08:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80c6b41505e.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Jéssica Barreira termina heptatlo dos Europeus de atletismo no 12.º lugar",
-      "link": "https://www.noticiasaominuto.com/desporto/3037112/jessica-barreira-termina-heptatlo-dos-europeus-de-atletismo-no-12-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:04:28",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614606.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "\"Antro de germes\". O item do seu lar que fica quase sempre esquecido",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3034479/antro-de-germes-o-item-do-seu-lar-que-fica-quase-sempre-esquecido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:04:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b46beb30667.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MiwiY3JvcFkiOjE1M319"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "iPhone pode ficar mais caro em breve. Talvez esteja na altura de comprar",
-      "link": "https://www.noticiasaominuto.com/tech/3036254/o-iphone-pode-ficar-mais-caro-em-breve-talvez-esteja-na-altura-de-compra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-15 21:02:32",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d76a5f46351.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjc2LCJjcm9wSGVpZ2h0IjoxMjgwLCJjcm9wWCI6Mjc2LCJjcm9wWSI6NDA2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDUsImNyb3BIZWlnaHQiOjE2ODEsImNyb3BYIjo4NDQsImNyb3BZIjoxM319"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Volkswagen está a “copiar” tecnologia Made in China. E é a XPENG quem manda",
+      "link": "https://pplware.sapo.pt/motores/volkswagen-esta-a-copiar-tecnologia-made-in-china-e-e-a-xpeng-quem-manda/",
+      "pubDate": "Sat, 15 Aug 2026 20:30:11 +0000",
+      "description": "Durante décadas, eram os fabricantes chineses que procuravam na Europa tecnologia e conhecimento. Agora, essa tendência começa a inverter-se. A Volkswagen aprofundou a parceria com a XPENG e prepara-se para colocar cada vez mais&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/vla_xpeng00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 18:00:22 +0000",
       "description": "Há cerca de três semanas, a Electronic Arts e os Battlefield Studios levantaram o véu sobre a Temporada 4 de Battlefield 6 e revelaram uma das suas principais apostas: uma colaboração oficial com Top&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Battlefield6.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Digi cresce em Portugal e já tem mais de meio milhão de clientes móveis",
-      "link": "https://pplware.sapo.pt/informacao/digi-cresce-em-portugal-e-ja-tem-mais-de-meio-milhao-de-clientes-moveis/",
-      "pubDate": "Sat, 15 Aug 2026 17:00:57 +0000",
-      "description": "A Digi continua a ganhar terreno no mercado português. Os resultados financeiros referentes ao segundo trimestre de 2026 mostram um crescimento significativo do número de clientes, sobretudo nos serviços móveis e de Internet fixa.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/digi_fibra00.webp"
     },
     {
       "sourceId": "autosport",
