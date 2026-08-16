@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-16T08:23:34.662072+00:00",
+  "updated": "2026-08-16T08:56:10.704068+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jogo entre Sporting de Braga e Gil Vicente adiado",
+      "link": "https://observador.pt/2026/08/16/jogo-entre-sporting-de-braga-e-gil-vicente-adiado/",
+      "pubDate": "Sun, 16 Aug 2026 09:52:34 +0100",
+      "description": "A contar para a segunda jornada da I Liga de futebol, estava marcado para este domingo, às 20h30, em Braga. Clube bracarense deu conta de um surto gastrointestinal na equipa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091710/47596964.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sobrinho de Carlos III vai para a Universidade Real Agrícola",
+      "link": "https://observador.pt/2026/08/16/depois-de-um-verao-a-conduzir-tratores-filho-mais-novo-de-eduardo-e-sophie-vai-estudar-na-universidade-real-agricola/",
+      "pubDate": "Sun, 16 Aug 2026 09:52:27 +0100",
+      "description": "Aos 18 anos, o Conde de Wessex será o primeiro membro da família real a frequentar a tempo integral a instituição no Gloucestershire, por onde passaram Ernest de Hannover e Gundakar do Liechtenstein.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1621:909:nowe:44:430/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/25112338/gettyimages-2252780496.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Caças espanhóis abatem drone no espaço aéreo romeno",
+      "link": "https://observador.pt/liveblogs/cacas-espanhois-abatem-drone-que-violou-espaco-aereo-da-romenia/",
+      "pubDate": "Sun, 16 Aug 2026 09:42:55 +0100",
+      "description": "Dois caças F-18 espanhóis abateram um drone que invadiu o espaço aéreo romeno na madrugada deste sábado. O alerta foi dado às 02h44 (hora de Lisboa).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/09223940/47224104.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "12 mortos em acidente de autocarro na Hungria",
+      "link": "https://observador.pt/2026/08/16/doze-mortos-em-acidente-de-autocarro-em-autoestrada-na-hungria/",
+      "pubDate": "Sun, 16 Aug 2026 09:42:26 +0100",
+      "description": "Autoridades acreditam que o acidente aconteceu depois de o motorista ter adormecido. Autocarro, de matrícula polaca, tombou pela 00h00 (hora de Lisboa), a cerca de 140 quilómetros da capital.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091512/47617708.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo de Vinhais dominado este domingo de manhã",
-      "link": "https://observador.pt/2026/08/16/fogo-de-vinhais-dominado-este-domingo-de-manha/",
-      "pubDate": "Sun, 16 Aug 2026 08:48:45 +0100",
-      "description": "Pelas 08h00 permaneciam no terreno, em Vinhais, 186 operacionais, apoiados por 71 viaturas. Fogo em Chaves (Vila Real) e Torre de Moncorvo (Bragança) lavravam ainda em \"pequenas frentes\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/18121722/45692123.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Portugal e Espanha recusam mudar rede ferroviária para bitola europeia",
+      "link": "https://www.rtp.pt/noticias/economia/portugal-e-espanha-recusam-mudar-rede-ferroviaria-para-bitola-europeia_n1759767",
+      "pubDate": "Sun, 16 Aug 2026 10:40:03 +0100",
+      "description": "Apesar dos pedidos de Bruxelas, Portugal e Espanha recusam mudar a rede ferroviária para bitola europeia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b20923b3bca4facd930612000f23322f?w=350&amp;q=50&amp;rect=0,171,2880,1579&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "8h. Incêndio em Vinhais foi esta manhã dominado",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2489/",
-      "pubDate": "Sun, 16 Aug 2026 08:12:51 +0100",
-      "description": "População da aldeia de Dine também já pôde regressar a casa. Ainda, Pedro Pablo Pichardo é vice-campeão europeu de triplo salto.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Governo da Venezuela diz que já foram libertados mais de mil presos políticos",
+      "link": "https://www.rtp.pt/noticias/mundo/governo-da-venezuela-diz-que-ja-foram-libertados-mais-de-mil-presos-politicos_n1759743",
+      "pubDate": "Sun, 16 Aug 2026 10:29:22 +0100",
+      "description": "A presidente interina da Venezuela, Delcy Rodríguez, confirmou a libertação de 1.046 presos políticos desde a intervenção dos Estados Unidos, a 03 de janeiro, apesar das dúvidas levantadas por organizações da sociedade civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/84/84dae042a31b83fd9ee71672e2ebeee9?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "7h. MAI lamenta morte em acidente em Amarante",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2476/",
-      "pubDate": "Sun, 16 Aug 2026 07:11:34 +0100",
-      "description": "Motociclista morreu depois de um acidente a envolver um camião dos bombeiros. Ainda, última etapa da Volta a Portugal vai hoje para a estrada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "6h. Ouvidas explosões em Kiev esta madrugada",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2465/",
-      "pubDate": "Sun, 16 Aug 2026 06:17:48 +0100",
-      "description": "Administração militar reportou incêndio num edifício não residencial no distrito de Obolonsky. Ainda, Venezuela diz que foram libertados mais de mil presos políticos desde intervenção dos EUA.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Filipinas exigem explicações à China após detenção de mais de 100 filipinos",
+      "link": "https://www.rtp.pt/noticias/mundo/filipinas-exigem-explicacoes-a-china-apos-detencao-de-mais-de-100-filipinos_n1759745",
+      "pubDate": "Sun, 16 Aug 2026 10:26:57 +0100",
+      "description": "O ministro da Defesa filipino, Gilberto Teodoro Jr, exigiu explicações a Pequim sobre o alegado envolvimento de chineses em atividades ilegais nas Filipinas, bem como sobre a detenção na China de quase 100 filipinos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f3b4d549775847433869d86bf388773?w=350&amp;q=50&amp;rect=1,0,3998,2192&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e9521df4452706b2fd7fa5ae56c5bf3c?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "09h Reforço de meios nos incêndios de Torre de Moncorvo e Chaves",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-reforco-de-meios-nos-incendios-de-torre-de-moncorvo-e-chaves_a1_1759766",
-      "pubDate": "Sun, 16 Aug 2026 10:20:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Explosões ouvidas em Kiev após alerta de mísseis balísticos",
-      "link": "https://www.rtp.pt/noticias/mundo/explosoes-ouvidas-em-kiev-apos-alerta-de-misseis-balisticos_n1759742",
-      "pubDate": "Sun, 16 Aug 2026 10:17:38 +0100",
-      "description": "Explosões foram ouvidas em Kiev durante a madrugada deste domingo, depois de ter sido acionado um alerta de mísseis balísticos na capital da Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4da84a52e677c905be99751c5308212?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Líder da Coreia do Norte elogia \"luta comum\" e relação com a Rússia",
-      "link": "https://www.rtp.pt/noticias/mundo/lider-da-coreia-do-norte-elogia-luta-comum-e-relacao-com-a-russia_n1759746",
-      "pubDate": "Sun, 16 Aug 2026 10:09:21 +0100",
-      "description": "O líder da Coreia do Norte, Kim Jong-un, expressou orgulho pela relação com a Rússia, numa carta enviada ao Presidente russo Vladimir Putin.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/38/38dca8e2332358ecf2623dd253441a6f?w=350&amp;q=50&amp;rect=1,0,4055,2223&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Grujic (lembras-te, FC Porto?) tem novo clube",
+      "link": "https://maisfutebol.iol.pt/internacional/marko-grujic/oficial-grujic-lembras-te-fc-porto-tem-novo-clube",
+      "pubDate": "Sun, 16 Aug 2026 09:40:25 +0100",
+      "description": "Sérvio deixa o AEK e ruma ao campeão da Bulgária",
+      "thumbnail": "https://img.iol.pt/image/id/6a817659d34ed0733ba80126/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Palmeiras sofre nova derrota e Abel não vence há quatro jogos",
-      "link": "https://maisfutebol.iol.pt/brasil/palmeiras/video-palmeiras-sofre-nova-derrota-e-abel-nao-vence-ha-quatro-jogos",
-      "pubDate": "Sat, 15 Aug 2026 23:42:00 +0100",
-      "description": "Desaire no reduto do Fluminense (3-2) não tira Palmeiras da liderança do Brasileirão",
-      "thumbnail": "https://img.iol.pt/image/id/69f30acad34e28842c837f39/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,26 @@
       "pubDate": "Sun, 16 Aug 2026 07:43:00 +0000",
       "description": "A Meo e a Thales em Portugal querem colocar os teleportos de Alfouvar e de Santa Maria ao serviço da constelação europeia IRIS 2. Fomos à localidade de Sintra conhecer o espaço de 12 hectares.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AGX8zUyKuEAkXI1XtPE1vtj9zgB7SZ8C3AoFT1ZK8eeB%2BrPy4L7QPsNE4QZ1vPIup4fKG%2Fa%2FJIoT1ssNReJkFuqvQwz2kxRpBBL3226DnISnhQ%2FZQAaixrxBXXGodBYhy"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ucrânia: Drone que invadiu espaço aéreo da Roménia abatido por caça da NATO",
+      "link": "https://sapo.pt/artigo/ucrania-drone-que-invadiu-espaco-aereo-da-romenia-abatido-por-caca-da-nato-6a8173257b96e18390935936",
+      "pubDate": "Sun, 16 Aug 2026 08:35:05 +0000",
+      "description": "Um drone que entrou no espaço aéreo da Roménia, esta madrugada, foi abatido por um caça espanhol em missão no país membro da NATO, anunciou o Ministro da Defesa romeno",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AQwMxHnSG5ssMflYVzeuRyeZgeFuTHNW3tDe6RMx2iJSEhin55ATw0ZVCc%2FN7ucFKWL7WXQK5VTzttMa4cabWqngmALbYO3tVFQSq9b6PmGrs5J1KVn17g%2FMrIQLunZbz"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Portugal e Espanha recusam mudar bitola ferroviária",
+      "link": "https://eco.sapo.pt/2026/08/16/portugal-e-espanha-recusam-mudar-bitola-ferroviaria/",
+      "pubDate": "Sun, 16 Aug 2026 08:46:38 +0000",
+      "description": "Lisboa e Madrid rejeitam converter as redes convencionais para a bitola europeia, uma mudança que Espanha estima custar 30 mil milhões de euros e exigir três décadas de obras.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Az3LWPWhuZ0ELdUeogTDP0soFcQ%2FY7GPTaglnWcZtQihEixtSH0U%2BC0Wox9I0AdNKQmp810IPJQ%2FVGgrkSqcOfaenvEeTNUrkTp4U%2F6dwlNTekZJQMolTuha8rsKssxRe"
     },
     {
       "sourceId": "sapo",
@@ -182,24 +202,34 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AaXAZ%2F3Ujv7wACQJC568xQmixvfhiUm3smew4P%2FG%2FAUJYbrudeCWcBjlCe6Qx3tGyhCETWHpqkskoSTn605mg%2FEQj1f4yzViRWWXJQHl89Guak9zkLI6rd2VE7jsHt94y"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Um morto em acidente com carro de bombeiros em Amarante",
-      "link": "https://sapo.pt/artigo/um-morto-em-acidente-com-carro-bombeiros-em-amarante-6a80d14cc50b1ad904ba2e76",
-      "pubDate": "Sat, 15 Aug 2026 22:32:31 +0000",
-      "description": "A vítima mortal é um civil, ficaram ainda feridos três bombeiros",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ASYDA7yg1uRSRGVCYIkZiNUucATC0%2FJI5SHHqmAKoO7UCU%2B8IRwf%2BP0ztJlb1ySK2CE3PnjvDR2qppW6QkTcTAEYY2ZLvYrlr2sY68Z%2BXVV31f5Zz5OdxvpZMsyftIV0I"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Ataques causam pelo menos seis mortos na Rússia e um morto na Ucrânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3037227/ataques-causam-pelo-menos-seis-mortos-na-russia-e-um-morto-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:51:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a817a88e2d3e.webp"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Europeus de Atletismo: prata para Pichardo no triplo salto",
-      "link": "https://sapo.pt/artigo/europeus-de-atletismo-prata-para-pichardo-no-triplo-salto-6a80d2ed7feb5726f8958e6c",
-      "pubDate": "Sat, 15 Aug 2026 21:53:06 +0000",
-      "description": "Italiano Andy Díaz Hernández sagra-se campeão europeu",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Ai4qdGgB38jzMIwVQTGMERl0uVBxckNsL4WKltoNuEq7HnpQDctXb73SyGhp9UEiMsMenId%2B5UKG3G8%2BgnoShsaIMKAGKJmtvmkLCbDH5u5EyKVsd%2BgDYS%2Fgsk1UqhMwf"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "CR7, Georgina e filhos na bancada. 1.ª aparição da família após casamento",
+      "link": "https://www.noticiasaominuto.com/fama/3037223/cr7-georgina-e-filhos-na-bancada-1-aparicao-da-familia-apos-casamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:37:13",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a817573b4b32.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MDAsImNyb3BIZWlnaHQiOjM5NCwiY3JvcFgiOjE2LCJjcm9wWSI6NTc3fX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Cerca de 20 réplicas do sismo de sábado sentidas de madrugada em Granada",
+      "link": "https://www.noticiasaominuto.com/mundo/3037224/cerca-de-20-replicas-do-sismo-de-sabado-sentidas-de-madrugada-em-granada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:36:41",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613535.webp"
     },
     {
       "sourceId": "nam",
@@ -215,41 +245,11 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Catarina Furtado e as imagens da \"road trip por Itália\"",
-      "link": "https://www.noticiasaominuto.com/fama/3037209/catarina-furtado-e-as-imagens-da-road-trip-por-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:52:05",
+      "title": "Noémia de Sousa \"sabia tudo\" mas nunca precisou de palco",
+      "link": "https://www.noticiasaominuto.com/cultura/3037215/noemia-de-sousa-sabia-tudo-mas-nunca-precisou-de-palco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:07:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a816ad73f062.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYxOCwiY3JvcEhlaWdodCI6MTA5OSwiY3JvcFgiOjE3MSwiY3JvcFkiOjQ1N319"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo de Vinhais dominado. 2 dos bombeiros feridos estão em estado grave",
-      "link": "https://www.noticiasaominuto.com/pais/3037206/fogo-de-vinhais-dominado-2-dos-bombeiros-feridos-estao-em-estado-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:51:32",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Exercício da caça fiscalizado pela GNR de hoje e até fevereiro de 2027",
-      "link": "https://www.noticiasaominuto.com/pais/3037208/exercicio-da-caca-fiscalizado-pela-gnr-de-hoje-e-ate-fevereiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:40:20",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/29422389.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Explicador da semana: Quem são os herdeiros e que bens podem receber?",
-      "link": "https://www.noticiasaominuto.com/economia/3036492/explicador-da-semana-quem-sao-os-herdeiros-e-que-bens-podem-receber#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:30:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b824ca4b7b5.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47604141.webp"
     },
     {
       "sourceId": "pplware",
