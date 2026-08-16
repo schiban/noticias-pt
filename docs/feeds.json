@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-16T22:16:02.776266+00:00",
+  "updated": "2026-08-16T22:45:26.996241+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Venezuela. Bispo do Funchal faz visita às vítimas do sismo",
+      "link": "https://observador.pt/2026/08/16/venezuela-bispo-do-funchal-faz-visita-as-vitimas-do-sismo/",
+      "pubDate": "Sun, 16 Aug 2026 23:33:30 +0100",
+      "description": "Bispo do Funchal fez visita seis dias à Venezuela. Nuno Brás da Silva pediu ajuda e solidariedade para com as vítimas do sismo onde morreram mais de seis mil pessoas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/24184145/26839965.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 23h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2153/",
+      "pubDate": "Sun, 16 Aug 2026 23:13:50 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16223815/47620420.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alpine voltará ao A110 a gasolina a pedido de um “amigo”?",
-      "link": "https://observador.pt/2026/08/16/alpine-voltara-ao-a110-a-gasolina-a-pedido-de-um-amigo/",
-      "pubDate": "Sun, 16 Aug 2026 22:38:09 +0100",
-      "description": "A Alpine fez saber que 2026 marcará o fim do A110 a combustão, para dar origem ao A110 eléctrico em 2027. Mas, segundo o CEO, é provável que um mercado (onde nunca vendeu) queira um A110 a gasolina.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1652:931:nowe:35:276/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16202531/alpine-a110-future-710-1-2048x1366-1.webp"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ações na Microsoft de 1,5 milhões e um corte anual de 90 mil",
-      "link": "https://observador.pt/especiais/pedro-duarte-tem-um-milhao-em-acoes-da-microsoft-e-abdicou-de-90-mil-euros-por-ano-para-regressar-a-politica/",
-      "pubDate": "Sun, 16 Aug 2026 22:17:42 +0100",
-      "description": "Pedro Duarte auferiu 192 mil euros no último ano completo no privado. Entrou para o Parlamento antes de ter um contrato de trabalho e recebeu salário em stock awards enquanto dirigente da Microsoft.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/19165833/770-rendimentos-pedro-duarte.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Incêndio de Torre de Moncorvo: duas aldeias confinadas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-incendio-de-torre-de-moncorvo-duas-aldeias-confinadas_a1_1759880",
+      "pubDate": "Mon, 17 Aug 2026 00:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aebf3375f3bd4f5e43b0dd5900ccd6ff?w=350&amp;q=50&amp;rect=0,0,3493,1915&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Volta a Portugal. Guerin venceu a prova, Rui Oliveira a etapa",
-      "link": "https://www.rtp.pt/noticias/desporto/volta-a-portugal-guerin-venceu-a-prova-rui-oliveira-a-etapa_v1759870",
-      "pubDate": "Sun, 16 Aug 2026 23:12:47 +0100",
-      "description": "Alexis Guerin venceu a Volta a Portugal em Bicicleta. O francês confirmou no Porto a conquista do título na prova.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f4/f4599f3e47d54c060abf10f0cb27476a_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Europeus de Atletismo: Agate de Sousa fica em quarto lugar no salto em comprimento",
+      "link": "https://maisfutebol.iol.pt/modalidades/agate-de-sousa/europeus-de-atletismo-agate-de-sousa-fica-em-quarto-lugar-no-salto-em-comprimento",
+      "pubDate": "Sun, 16 Aug 2026 23:39:02 +0100",
+      "description": "Atleta portuguesa fixou um salto de 6,96 metros",
+      "thumbnail": "https://img.iol.pt/image/id/69c01d84d34e28842c82097e/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: adversário ignora Neymar e Santos solta provocação... imperdível",
+      "link": "https://maisfutebol.iol.pt/brasil/neymar/video-adversario-ignora-neymar-e-santos-solta-provocacao-imperdivel",
+      "pubDate": "Sun, 16 Aug 2026 23:27:00 +0100",
+      "description": "Thiago Mendes recusou-se a cumprimentar o 10 santista antes do apito inicial",
+      "thumbnail": "https://img.iol.pt/image/id/6a82368ed34e511da0b33a4c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Carlos Carvalhal: «Foram dois erros, dois brindes, que se pagam caro»",
+      "link": "https://maisfutebol.iol.pt/famalicao/liga/carlos-carvalhal-foram-dois-erros-dois-brindes-que-se-pagam-caro",
+      "pubDate": "Sun, 16 Aug 2026 23:17:00 +0100",
+      "description": "Treinador do Famalicão disse que a equipa fez o suficiente para conquistar a vitória",
+      "thumbnail": "https://img.iol.pt/image/id/6a822226d34ed0733ba8026a/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 23:02:00 +0100",
       "description": "Treinador do Marítimo disse que a equipa soube sofrer",
       "thumbnail": "https://img.iol.pt/image/id/6a822227d34ed0733ba8026b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Luís Castro sofre derrota pesada frente ao Atlético Mineiro",
-      "link": "https://maisfutebol.iol.pt/brasil/luis-castro/video-luis-castro-sofre-derrota-pesada-frente-ao-atletico-mineiro",
-      "pubDate": "Sun, 16 Aug 2026 22:55:00 +0100",
-      "description": "Grémio do técnico português perdeu em casa por 3-0",
-      "thumbnail": "https://img.iol.pt/image/id/69db58e7d34e28842c82ce20/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Morreu Durval Moreira, sócio n.º 1 do Sp. Braga",
-      "link": "https://maisfutebol.iol.pt/sp-braga/durval-moreira/morreu-durval-moreira-socio-n-1-do-sp-braga",
-      "pubDate": "Sun, 16 Aug 2026 22:40:00 +0100",
-      "description": "Emblema minhoto emitiu uma nota de pesar a lamentar a morte do adepto de 91 anos",
-      "thumbnail": "https://img.iol.pt/image/id/6a822de4d34e511da0b33a3b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Famalicão-Marítimo, 1-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/famalicao/famalicao-maritimo-1-2-cronica",
-      "pubDate": "Sun, 16 Aug 2026 22:39:34 +0100",
-      "description": "Insulares saem do Minho com dois presentes e no topo da tabela",
-      "thumbnail": "https://img.iol.pt/image/id/6a822daed34e511da0b33a38/250"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +175,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Listas de espera. Ordem dos Médicos congratula-se com adiamento do novo sistema, mas “é  urgente resolver questões técnicas”",
+      "link": "https://sapo.pt/artigo/listas-de-esperas-ordem-dos-medicos-congratula-se-com-adiamento-do-novo-sistema-mas-e-urgente-resolver-questoes-tecnicas-6a822886c50b1ad904ecc2e4",
+      "pubDate": "Sun, 16 Aug 2026 22:31:52 +0000",
+      "description": "Novo sistema de gestão de listas de espera já deveria ter entrado em vigor no SNS a 1 de agosto, mas não. Ordem alertou para “erros” e “insuficiências técnicas” e a ministra, numa carta enviada à Ordem, admite que sistema só deve funcionar quando...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A5SchMMqXexBvX1vcj1Hi1SAYX%2Fc4HtDL467rhnhmJmW0BvZQZkhXC47ELgKzOWmPzrbkXuPkmuEi4rnydk99fP97GTIeVjXxfB0vzakV%2Bu9biAU1I6QkvOMWOxMKix5z"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Carneiro pede a Montenegro para revelar razão, valor e financiamento da compra de 13,7% da REN",
       "link": "https://eco.sapo.pt/2026/08/16/carneiro-pede-a-montenegro-para-revelar-razao-valor-e-financiamento-da-compra-de-137-da-ren/",
       "pubDate": "Sun, 16 Aug 2026 21:06:55 +0000",
@@ -192,14 +202,34 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AyBXV1XhIAiMc55frwFxSoJt%2FgdpKkm11skzYjyPy55d1OAY4bWa2gnit78p0cmL8Gs3f1HZtSnomRG%2BvL8F%2Br68YqLDHiYaf%2BXeKe54bcXK4qN6pptM%2FVM%2Bvn89CSJ2I"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Atletismo: Portugal termina Campeonato da Europa com três medalhas",
-      "link": "https://jornaleconomico.sapo.pt/noticias/atletismo-portugal-termina-campeonato-da-europa-com-tres-medalhas/",
-      "pubDate": "Sun, 16 Aug 2026 21:06:55 +0000",
-      "description": "Portugal terminou a sua participação nos Campeonatos da Europa de Atletismo, ao ar livre, que se realizaram em Birmingham, com três medalhas, uma de prata e duas de bronze. A prata foi para Pedro Pichardo, no triplo salto, e os bronze para...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AY1Ln5f9wHiqEkPrLcyEklXyhly3rua8zxTbmI5Om2YeSJS8MC0gSl9vnwVCNs6v8SHI3eG81RYFz1JLJb6oOwV6uIof3KEZSyCu3SPKprGoCdFq7pnQX5xDM%2BwX5Z7Qr"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Grémio de Luís Castro e Vasco da Gama de Pedro Emanuel derrotados",
+      "link": "https://www.noticiasaominuto.com/desporto/3037389/gremio-de-luis-castro-e-vasco-da-gama-de-pedro-emanuel-derrotados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 23:36:52",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c3e86a12f4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODY1LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Trump ordena ao Pentágono que reduza exercícios com Coreia do Sul",
+      "link": "https://www.noticiasaominuto.com/mundo/3037387/trump-ordena-ao-pentagono-que-reduza-exercicios-com-coreia-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 23:27:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a2f77584b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Bispo do Funchal termina visita à Venezuela pedindo muita proximidade",
+      "link": "https://www.noticiasaominuto.com/pais/3037386/bispo-do-funchal-termina-visita-a-venezuela-pedindo-muita-proximidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 23:15:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6204547adc7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-16 22:37:44",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/47620420.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Lens bate Paris Saint-Germain e conquista Supertaça de França",
-      "link": "https://www.noticiasaominuto.com/desporto/3037373/lens-bate-paris-saint-germain-e-conquista-supertaca-de-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 22:35:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a822d12b2238.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjR9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Carneiro desafia Governo a apresentar \"OE competente\"",
-      "link": "https://www.noticiasaominuto.com/politica/3037372/carneiro-desafia-governo-a-apresentar-oe-competente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 22:20:01",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c6f7ee16d7c.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "PS vai pedir apreciação parlamentar do diploma da lei orgânica do INEM",
-      "link": "https://www.noticiasaominuto.com/politica/3037371/ps-vai-pedir-apreciacao-parlamentar-do-diploma-da-lei-organica-do-inem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 22:17:58",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_659991a6084a8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NywiY3JvcEhlaWdodCI6MTcwMiwiY3JvcFgiOjczNCwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE4LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MjMsImNyb3BZIjoyNzh9fQ=="
     },
     {
       "sourceId": "pplware",
