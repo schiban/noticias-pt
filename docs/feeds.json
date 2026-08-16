@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-16T15:17:10.603052+00:00",
+  "updated": "2026-08-16T15:44:36.558081+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 16h",
+      "title": "Seguro enviou condolências a homólogo indonésio pelo sismo",
+      "link": "https://observador.pt/2026/08/16/presidente-da-republica-enviou-condolencias-a-homologo-indonesio-pelas-vitimas-dos-sismos/",
+      "pubDate": "Sun, 16 Aug 2026 16:34:53 +0100",
+      "description": "Seguro apresentou \"sentidas condolências às famílias das vítimas\" e desejou \"rápida recuperação\" dos feridos e dos danos provocados. E diz que está a acompanhar, \"com particular atenção\", a situação.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16152531/47609596.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sérvulo. \"Saí do PSD porque estava a virar à direita\"",
+      "link": "https://observador.pt/especiais/servulo-correia-sai-do-psd-porque-o-partido-estava-a-virar-a-direita/",
+      "pubDate": "Sun, 16 Aug 2026 16:31:29 +0100",
+      "description": "Marcelo Caetano foi uma referência enquanto jurista. Sá Carneiro levou-o a aderir e a romper com o PSD mas ainda se vê como \"um verdadeiro social-democrata\". Uma entrevista de vida do \"Justiça Cega\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:379/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03225123/jporfirio-entrevista-servulo-03-07-26-01-21-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "16h. Mais de 180 operacionais combatem incêndios em Boticas",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2331/",
       "pubDate": "Sun, 16 Aug 2026 16:15:03 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Um dos incêndios começou ontem à noite em Nogueira e outro começou de madrugada em Ardãos. Ainda, MAI lamenta a morte de motociclista após acidente com viatura dos bombeiros no dia de ontem.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1871:1053:nowe:0:45/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29161627/anibal-cartago.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fernando Aramburu: “Passei 26 anos entre terrorismo e morte\"",
-      "link": "https://observador.pt/especiais/fernando-aramburu-passei-26-anos-no-pais-basco-entre-terrorismo-e-morte-tenho-um-testemunho-para-deixar/",
-      "pubDate": "Sun, 16 Aug 2026 14:24:54 +0100",
-      "description": "\"Maite\" é o novo livro a integrar a série \"Gentes Bascas\". Enquanto a ETA matava Miguel Ángel Blanco, em 1997, acompanhamos a vida ficcional da personagem-título. Em entrevista, o escritor explica-se.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15161733/ilacerda-fernando-aramburu-2-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Golfista Ricardo Melo Gouveia termina Open da Dinamarca no 39.º lugar",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/golfista-ricardo-melo-gouveia-termina-open-da-dinamarca-no-39o-lugar_d1759821",
+      "pubDate": "Sun, 16 Aug 2026 17:32:46 +0100",
+      "description": "O português Ricardo Melo Gouveia terminou hoje o Open da Dinamarca no grupo dos golfistas classificados no 39.º lugar, após a quarta e última volta do torneio do DP World Tour, que foi vencido pelo dinamarquês Jeff Winther.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "14h. Incêndios. Três ocorrências preocupam as autoridades",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2446/",
-      "pubDate": "Sun, 16 Aug 2026 14:16:51 +0100",
-      "description": "Incêndio em Chaves é o mais significativo, com duas frentes ativas e quase 150 operacionais no terreno. Ainda, PS realiza hoje a reentré em Olhão com foco principal no custo de vida.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "16h Dois incêndios em Boticas preocupam autoridades",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-dois-incendios-em-boticas-preocupam-autoridades_a1_1759820",
+      "pubDate": "Sun, 16 Aug 2026 17:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/284f49c3df6e872374cec443f4cff668?w=350&amp;q=50&amp;rect=0,196,3329,1825&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Nadadora Kate Douglass volta a fixar recorde mundial dos 50 metros livres",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-kate-douglass-volta-a-fixar-recorde-mundial-dos-50-metros-livres_d1759812",
-      "pubDate": "Sun, 16 Aug 2026 16:43:48 +0100",
-      "description": "A norte-americana Kate Douglass fixou um novo recorde mundial dos 50 metros livres, no sábado, batendo a marca que a própria tinha imposto horas antes, nos Campeonatos Pan-Pacíficos de natação, em Irvine, nos Estados Unidos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c0fb65f1693046920518922e01bc9b13?w=350&amp;q=50&amp;rect=0,12,1024,561&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga.  Surto gastrointestinal na equipa do Braga obriga ao adiamento do jogo com o Gil Vicente",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-surto-gastrointestinal-na-equipa-do-braga-obriga-ao-adiamento-do-jogo-com-o-gil-vicente_d1759811",
-      "pubDate": "Sun, 16 Aug 2026 16:41:02 +0100",
-      "description": "O jogo de hoje entre Sporting de Braga e Gil Vicente foi adiado, para uma data a combinar, informou a Liga Portuguesa de Futebol Profissional (LPFP), com o clube bracarense a dar conta de um surto gastrointestinal na equipa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/66/6698e50d7c7b5a13d35d8f28fa91c8f9?w=350&amp;q=50&amp;rect=0,117,3465,1900&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: Rio Ave bate recorde histórico na derrota frente ao FC Porto",
+      "link": "https://maisfutebol.iol.pt/liga/rio-ave/liga-rio-ave-bate-recorde-historico-na-derrota-frente-ao-fc-porto",
+      "pubDate": "Sun, 16 Aug 2026 16:23:00 +0100",
+      "description": "Vilacondenses cometeram apenas uma falta, o número mais baixo desde que há registo",
+      "thumbnail": "https://img.iol.pt/image/id/6a80d31ed34e511da0b33877/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -117,7 +127,7 @@
       "color": "#4fc48a",
       "title": "Bélgica: Vítor Bruno soma primeira derrota no comando do Anderlecht",
       "link": "https://maisfutebol.iol.pt/internacional/belgica/belgica-vitor-bruno-soma-primeira-derrota-no-comando-do-anderlecht",
-      "pubDate": "Sun, 16 Aug 2026 15:43:42 +0100",
+      "pubDate": "Sun, 16 Aug 2026 15:43:00 +0100",
       "description": "Yoni Gomis carimba, de cabeça, o triunfo do Beveren",
       "thumbnail": "https://img.iol.pt/image/id/6a81cc4ed34ed0733ba801a8/250"
     },
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 15:17:25 +0100",
       "description": "Filipe Coelho explica ainda os casos de Patrick Sequeira e Jérémy Livolant, que estão de saída do Casa Pia",
       "thumbnail": "https://img.iol.pt/image/id/6a75f8d0d34e511da0b3232e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Cristiano Ronaldo: «Este é, provavelmente, o meu último ano no futebol»",
-      "link": "https://maisfutebol.iol.pt/internacional/cristiano-ronaldo/cristiano-ronaldo-este-e-provavelmente-o-meu-ultimo-ano-no-futebol",
-      "pubDate": "Sun, 16 Aug 2026 14:53:01 +0100",
-      "description": "Internacional português assegura que tem o seu futuro «completamente planeado»",
-      "thumbnail": "https://img.iol.pt/image/id/6a7dffb2d34ed0733ba7fbeb/250"
     },
     {
       "sourceId": "sapo",
@@ -195,11 +195,31 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Com a instabilidade a agitar as águas do Médio Oriente, China explora nova rota do Ártico",
-      "link": "https://sapo.pt/artigo/com-a-instabilidade-a-agitar-as-aguas-do-medio-oriente-china-explora-nova-rota-do-artico-6a81ac6a7feb5726f8bad235",
-      "pubDate": "Sun, 16 Aug 2026 13:15:09 +0000",
-      "description": "O Dubai Tower inaugura uma ligação que reduz para cerca de metade o percurso pelo canal do Suez e evita as águas instáveis do Médio Oriente, mas levanta preocupações ambientais",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A2bDZwhmeSsKP8MHOZCOBPyOcdhJinBC6bMIKBtm8XuwjRUAZPZKjb5vWAzmpdXQsIRA5hb7NnCjwFKPIhGCPd%2FIUhRqEJSekbIamsYUcFIChvDEzcOMVw0NI84VdoJBp"
+      "title": "Ucrânia: Drone que invadiu espaço aéreo da Roménia abatido por caça da NATO",
+      "link": "https://sapo.pt/artigo/ucrania-drone-que-invadiu-espaco-aereo-da-romenia-abatido-por-caca-da-nato-6a8173257b96e18390935936",
+      "pubDate": "Sun, 16 Aug 2026 08:35:05 +0000",
+      "description": "Um drone que entrou no espaço aéreo da Roménia, esta madrugada, foi abatido por um caça espanhol em missão no país membro da NATO, anunciou o Ministro da Defesa romeno",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AQwMxHnSG5ssMflYVzeuRyeZgeFuTHNW3tDe6RMx2iJSEhin55ATw0ZVCc%2FN7ucFKWL7WXQK5VTzttMa4cabWqngmALbYO3tVFQSq9b6PmGrs5J1KVn17g%2FMrIQLunZbz"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Irão dá recompensa de 30 mil a quem matar ou capturar soldados dos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3037298/irao-da-recompensa-de-30-mil-a-quem-matar-ou-capturar-soldados-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 16:28:26",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d65ad653ae8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTcsImNyb3BZIjoxODZ9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Motorista TVDE baleado por grupo dentro do carro em Sintra",
+      "link": "https://www.noticiasaominuto.com/pais/3037297/motorista-tdve-baleado-por-grupo-dentro-do-carro-em-sintra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 16:16:23",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_555a728f319fd.webp"
     },
     {
       "sourceId": "nam",
@@ -230,26 +250,6 @@
       "pubDate": "2026-08-16 15:53:15",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81ce6174308.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjUsImNyb3BYIjotMSwiY3JvcFkiOjc2NX19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Sete apoios de praia em Odemira autuados por irregularidades",
-      "link": "https://www.noticiasaominuto.com/pais/3037287/sete-apoios-de-praia-em-odemira-autuados-por-irregularidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:48:45",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81ca7c35a58.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "\"Está tudo a tremer em todo lado, mas aqui nós estamos bem\"",
-      "link": "https://www.noticiasaominuto.com/fama/3037285/esta-tudo-a-tremer-em-todo-lado-mas-aqui-nos-estamos-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:39:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_663249df4362e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYwLCJjcm9wSGVpZ2h0Ijo1OTYsImNyb3BYIjoxMSwiY3JvcFkiOjE1MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjA4LCJjcm9wSGVpZ2h0IjoxMDgwLCJjcm9wWCI6NzAsImNyb3BZIjo3Nn19"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,16 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "Fórmula E, Londres: Pascal Wehrlein vence o segundo título, Jaguar vence o título por equipas",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-o-segundo-titulo-jaguar-vence-o-titulo-por-equipas/",
+      "pubDate": "Sun, 16 Aug 2026 13:55:00 +0000",
+      "description": "Que final emocionante! Taylor Barnard (DS Penske) venceu a última corrida da GEN3 em Londres e tornou-se no piloto mais jovem a vencer. Mas o foco da corrida esteve um pouco mais atrás. Pascal Wehrlein (Porsche) conquistou o segundo título de pilotos, mas teve de suar, especialmente com um António F",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "Fórmula E, Londres: Pascal Wehrlein responde às críticas sobre as “táticas de equipa”",
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-responde-as-criticas-sobre-as-taticas-de-equipa/",
       "pubDate": "Sun, 16 Aug 2026 12:14:31 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-nyck-de-vries-liderou-ultima-sessao-de-treinos/",
       "pubDate": "Sun, 16 Aug 2026 08:50:00 +0000",
       "description": "Está nos livros a última sessão de treinos da temporada 2025/2026 e, por conseguinte, da GEN3. Nyck de Vries foi o mais rápido pela Mahindra Racing, seguido de perto por Dan Ticktum (CUPRA Kiro) e Sébastien Buemi (Envision Racing). O início foi tranquilo, com a sessão a arrancar às 08h30 locais e am",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Félix da Costa disse à equipa para apostar tudo em Mitch Evans",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-disse-a-equipa-para-apostar-tudo-em-mitch-evans/",
-      "pubDate": "Sun, 16 Aug 2026 08:25:00 +0000",
-      "description": "Há pilotos que valem o seu peso em ouro. Que além de serem rápidos e competitivos, ajudam a equipa a ter um bom ambiente e colocam os interesses da equipa antes dos seus. António Félix da Costa é um dos grandes exemplos desse tipo de pilotos. O português pagou a fatura de ser um piloto [&#8230;]\nThe",
       "thumbnail": ""
     }
   ]
