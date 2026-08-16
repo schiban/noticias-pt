@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-16T10:18:53.524397+00:00",
+  "updated": "2026-08-16T10:48:02.967748+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 11h",
+      "title": "Vanessa Carvalho 24.ª na maratona nos Europeus de atletismo",
+      "link": "https://observador.pt/2026/08/16/vanessa-carvalho-24-a-na-maratona-nos-europeus-de-atletismo/",
+      "pubDate": "Sun, 16 Aug 2026 11:33:48 +0100",
+      "description": "Vanessa Carvalho, que foi 51.ª na meia maratona em Roma2024, cumpriu as oito voltas ao circuito citadino num registo abaixo do seu recorde pessoal (02:32.23) e do seu melhor tempo de 2026 (02h32.43).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16105934/47617817.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Carlos Costa 46.º na maratona nos Europeus de atletismo",
+      "link": "https://observador.pt/2026/08/16/carlos-costa-46-o-na-maratona-nos-europeus-de-atletismo/",
+      "pubDate": "Sun, 16 Aug 2026 11:28:12 +0100",
+      "description": "O atleta e presidente do Vizela Corre, de 40 anos, completou os 42,195 quilómetros do percurso no centro de Birmingham em 02h23.41, uma marca abaixo do seu melhor resultado (02h15.33).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16110058/47618253.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "11h. Dominados os fogos de Vinhais e Torre de Moncorvo",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1311/",
       "pubDate": "Sun, 16 Aug 2026 11:14:37 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Site da Proteção Civil indica que há apenas um incêndio ativo a esta hora na região de Trás-os-Montes. Ainda, Granada registou cerca de 20 réplicas depois do sismo de ontem.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06134900/dventura-gifford-miller-atletico-clube-portugal-tapadinha-32-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "EUA-Irão. \"Não há condições para um acordo definitivo\"",
-      "link": "https://observador.pt/programas/gabinete-de-guerra/eua-irao-nao-ha-condicoes-para-um-acordo-definitivo/",
-      "pubDate": "Sun, 16 Aug 2026 10:52:04 +0100",
-      "description": "Liliana Reis prevê prolongamento do impasse entre EUA e Irão. Afirma que o novo plano de paz ucraniano visa pressionar Washington e alerta que crise migratória em Ceuta está a fraturar a coesão da UE.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "PS ao ataque em rentrée algarvia: \"Governo falhou em toda a linha\"",
+      "link": "https://www.rtp.pt/noticias/politica/ps-ao-ataque-em-rentree-algarvia-governo-falhou-em-toda-a-linha_n1759779",
+      "pubDate": "Sun, 16 Aug 2026 12:37:27 +0100",
+      "description": "Dois dias depois de o PSD ter aberto a época de rentrées partidária no Calçadão da Quarteira com a tradicional Festa do Pontal, o Partido Socialista escolhe também o Algarve como cenário para o regresso à atividade política.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/85/85d2bc662294476ab2a17927413f3c11?w=350&amp;q=50&amp;rect=0,0,1169,641&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Disneyland Paris terá atração aquática de \"O Rei Leão\"",
-      "link": "https://observador.pt/2026/08/16/disneyland-paris-tera-atracao-aquatica-dedicada-ao-filme-de-1994-o-rei-leao/",
-      "pubDate": "Sun, 16 Aug 2026 10:30:47 +0100",
-      "description": "A viagem de barco terá três grandes descidas, a maior das quais de cerca de 16 metros, e incluirá figuras de animação robóticas e as músicas mais conhecidas do filme de 1994.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091059/32658228.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Hospital do Barreiro. Tempo de espera para primeira observação nas urgências ultrapassa as 20 horas",
+      "link": "https://www.rtp.pt/noticias/pais/hospital-do-barreiro-tempo-de-espera-para-primeira-observacao-nas-urgencias-ultrapassa-as-20-horas_n1759774",
+      "pubDate": "Sun, 16 Aug 2026 12:19:04 +0100",
+      "description": "À semelhança do que aconteceu no sábado, os tempos médios de espera continuam elevados em vários serviços de urgência dos hospitais do SNS.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2e0ec8f353c53ad0d56f5febe6c9d77?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11h Incêndio de Torre de Moncorvo dominado",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-incendio-de-torre-de-moncorvo-dominado_a1_1759776",
+      "pubDate": "Sun, 16 Aug 2026 12:17:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1ff5ed91a3ad7529ada0ffb0ed595ab6?w=350&amp;q=50&amp;rect=1,0,4078,2236&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal e Espanha recusam mudar rede ferroviária para bitola europeia",
-      "link": "https://www.rtp.pt/noticias/economia/portugal-e-espanha-recusam-mudar-rede-ferroviaria-para-bitola-europeia_n1759767",
-      "pubDate": "Sun, 16 Aug 2026 10:40:03 +0100",
-      "description": "Apesar dos pedidos de Bruxelas, Portugal e Espanha recusam mudar a rede ferroviária para bitola europeia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b20923b3bca4facd930612000f23322f?w=350&amp;q=50&amp;rect=0,171,2880,1579&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Zé Nando junta-se a Peseiro no Al Ula, mas ao comando da equipa feminina",
+      "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/oficial-ze-nando-junta-se-a-peseiro-no-al-ula-mas-ao-comando-da-equipa-feminina",
+      "pubDate": "Sun, 16 Aug 2026 11:31:00 +0100",
+      "description": "Treinador português deixa o Valadares Gaia e assina contrato de uma época",
+      "thumbnail": "https://img.iol.pt/image/id/6a818fe4d34e511da0b33901/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Governo da Venezuela diz que já foram libertados mais de mil presos políticos",
-      "link": "https://www.rtp.pt/noticias/mundo/governo-da-venezuela-diz-que-ja-foram-libertados-mais-de-mil-presos-politicos_n1759743",
-      "pubDate": "Sun, 16 Aug 2026 10:29:22 +0100",
-      "description": "A presidente interina da Venezuela, Delcy Rodríguez, confirmou a libertação de 1.046 presos políticos desde a intervenção dos Estados Unidos, a 03 de janeiro, apesar das dúvidas levantadas por organizações da sociedade civil.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/84/84dae042a31b83fd9ee71672e2ebeee9?w=350&amp;q=50&amp;rect=0,0,4031,2210&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Filipinas exigem explicações à China após detenção de mais de 100 filipinos",
-      "link": "https://www.rtp.pt/noticias/mundo/filipinas-exigem-explicacoes-a-china-apos-detencao-de-mais-de-100-filipinos_n1759745",
-      "pubDate": "Sun, 16 Aug 2026 10:26:57 +0100",
-      "description": "O ministro da Defesa filipino, Gilberto Teodoro Jr, exigiu explicações a Pequim sobre o alegado envolvimento de chineses em atividades ilegais nas Filipinas, bem como sobre a detenção na China de quase 100 filipinos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f3b4d549775847433869d86bf388773?w=350&amp;q=50&amp;rect=1,0,3998,2192&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Ex-Benfica marca e mancha estreia de Domingos Duarte no Brasileirão",
+      "link": "https://maisfutebol.iol.pt/made-in/brasil/ex-benfica-marca-e-mancha-estreia-de-domingos-duarte-no-brasileirao",
+      "pubDate": "Sun, 16 Aug 2026 11:23:13 +0100",
+      "description": "São Paulo empata a um golo com o Coritiba",
+      "thumbnail": "https://img.iol.pt/image/id/6a818de8d34e511da0b338fe/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 10:03:00 +0100",
       "description": "Astro argentino voltou à titularidade no desaire por 4-1 com o Nashville",
       "thumbnail": "https://img.iol.pt/image/id/6a818021d34e511da0b338df/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Grujic (lembras-te, FC Porto?) tem novo clube",
-      "link": "https://maisfutebol.iol.pt/internacional/marko-grujic/oficial-grujic-lembras-te-fc-porto-tem-novo-clube",
-      "pubDate": "Sun, 16 Aug 2026 09:40:25 +0100",
-      "description": "Sérvio deixa o AEK e ruma ao campeão da Bulgária",
-      "thumbnail": "https://img.iol.pt/image/id/6a817659d34ed0733ba80126/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga: dérbi entre Sp. Braga e Gil Vicente adiado",
-      "link": "https://maisfutebol.iol.pt/liga/sp-braga/liga-derbi-entre-sp-braga-e-gil-vicente-adiado",
-      "pubDate": "Sun, 16 Aug 2026 09:05:00 +0100",
-      "description": "Devido a um surto gastrointestinal nos arsenalistas, que têm disponíveis apenas três guarda-redes e sete jogadores de campo",
-      "thumbnail": "https://img.iol.pt/image/id/68c7308ed34e58bc6795b947/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Gustavo Santos pede desculpa a Joana Marques. \"Não estive ao meu nível\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037242/gustavo-santo-pede-desculpa-a-joana-marques-nao-estive-ao-meu-nivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 11:40:07",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81938a4f0e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjQxNywiY3JvcFgiOjEzLCJjcm9wWSI6ODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMzMSwiY3JvcEhlaWdodCI6NTg5LCJjcm9wWCI6NDA1LCJjcm9wWSI6NDV9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Seguro envia \"sentidas condolências\" à Indonésia após sismos",
+      "link": "https://www.noticiasaominuto.com/pais/3037240/seguro-envia-sentidas-condolencias-a-indonesia-apos-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 11:24:48",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a49676912ecf.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Mais de 200 operacionais combatem três fogos ativos em Chaves e Boticas",
+      "link": "https://www.noticiasaominuto.com/pais/3037241/mais-de-200-operacionais-combatem-tres-fogos-ativos-em-chaves-e-boticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 11:23:47",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689b86e40d848.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"És uma inspiração\". Ainda com incapacidades, Nuno Markl supera desafio",
+      "link": "https://www.noticiasaominuto.com/fama/3037239/es-uma-inspiracao-ainda-com-incapacidades-nuno-markl-supera-desafio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 11:18:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f08b6d135f.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Tiago Torres da Silva estreia \"A Imitação dos Pássaros\" no Variedades",
       "link": "https://www.noticiasaominuto.com/cultura/3037229/tiago-torres-da-silva-estreia-a-imitacao-dos-passaros-no-variedades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 11:16:04",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_668fd083ca2ef.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo em parque natural belga já queimou quase três mil hectares",
-      "link": "https://www.noticiasaominuto.com/mundo/3037236/fogo-em-parque-natural-belga-ja-queimou-quase-tres-mil-hectares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:12:22",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a818d81c9828.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Vanessa Carvalho 24.ª na maratona nos Europeus de atletismo",
-      "link": "https://www.noticiasaominuto.com/desporto/3037235/vanessa-carvalho-24-na-maratona-nos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:11:40",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47617817.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Carlos Costa 46.º na maratona nos Europeus de atletismo",
-      "link": "https://www.noticiasaominuto.com/desporto/3037237/carlos-costa-46-na-maratona-nos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:10:51",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47618253.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo em Torre de Moncorvo em fase resolução",
-      "link": "https://www.noticiasaominuto.com/pais/3037233/fogo-em-torre-de-moncorvo-em-fase-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:04:33",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688b48c434877.webp"
     },
     {
       "sourceId": "pplware",
