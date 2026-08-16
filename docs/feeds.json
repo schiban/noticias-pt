@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-16T11:43:33.802715+00:00",
+  "updated": "2026-08-16T12:30:40.171707+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Papa pede fim da violência contra civis na Cisjordânia",
+      "link": "https://observador.pt/2026/08/16/papa-pede-fim-da-violencia-contra-civis-na-cisjordania/",
+      "pubDate": "Sun, 16 Aug 2026 13:10:54 +0100",
+      "description": "Leão XIV pediu \"urgentemente\" à comunidade internacional \"que garanta o avanço no sentido da solução de dois Estados para uma paz justa e duradoura\" na Palestina.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16122626/47618497.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h. Hamas reafirma o compromisso com o plano de Trump",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2417/",
+      "pubDate": "Sun, 16 Aug 2026 13:09:36 +0100",
+      "description": "O plano dos Estados Unidos inclui 15 pontos e foi recentemente rejeitado por Israel. Ainda, há três incêndios a esta hora no distrito de Vila Real: um em Chaves e dois em Boticas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Morreu o cantor Lucas, da dupla sertaneja Lucas & Matheus",
+      "link": "https://observador.pt/2026/08/16/morreu-o-cantor-lucas-da-dupla-sertaneja-lucas-matheus/",
+      "pubDate": "Sun, 16 Aug 2026 12:52:24 +0100",
+      "description": "Encontrado sem vida no seu apartamento em Portugal, o cantor tinha espetáculo marcado em Esposende com Matheus Júnior. Corpo do artista será sepultado na sua terra natal, Presidente Prudente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1692:950:nowe:0:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16123907/captura-de-ecra-2026-08-16-as-123840.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4089:2312:nowe:0:82/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/15200216/GettyImages-922578640-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "12h. Rentrée do PS deve abordar aumento do custo de vida",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2417/",
-      "pubDate": "Sun, 16 Aug 2026 12:15:20 +0100",
-      "description": "PS assinala novo ano político dois dias depois da Festa do Pontal. António Mendonça Medes garante que não é resposta ao PSD. EUA usam canal secreto para negociar com Guarda Revolucionária do Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "13h 4 dos 5 bombeiros feridos ontem já tiveram alta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-4-dos-5-bombeiros-feridos-ontem-ja-tiveram-alta_a1_1759788",
+      "pubDate": "Sun, 16 Aug 2026 14:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Parlamento do Envelhecimento quer políticas públicas",
-      "link": "https://observador.pt/2026/08/16/parlamento-portugues-do-envelhecimento-quer-propor-politicas-publicas-ao-pais/",
-      "pubDate": "Sun, 16 Aug 2026 12:13:40 +0100",
-      "description": "O Portugal Ageing Parliament tem como objetivo reunir a sociedade civil num formato parlamentar para debater e propor políticas públicas sobre o envelhecimento.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16121235/envelhecimento.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Quatro bombeiros de Vinhais que sofreram queimaduras tiveram alta",
+      "link": "https://www.rtp.pt/noticias/pais/quatro-bombeiros-de-vinhais-que-sofreram-queimaduras-tiveram-alta_n1759783",
+      "pubDate": "Sun, 16 Aug 2026 14:11:16 +0100",
+      "description": "Quatro dos cinco bombeiros de Vinhais, em Bragança, que ficaram feridos no sábado após a viatura em que seguiam ter ardido, já tiveram alta.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f2510d222e8e484f7186658584a76d34?w=350&amp;q=50&amp;rect=0,407,4032,2211&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Três fogos ativos em Chaves e Boticas",
-      "link": "https://observador.pt/2026/08/16/tres-fogos-ativos-em-chaves-e-boticas/",
-      "pubDate": "Sun, 16 Aug 2026 12:01:54 +0100",
-      "description": "O fogo em Ventozelo, concelho de Chaves, deflagrou cerca das 20h26 de sábado e já \"está a ceder aos meios\". No local permaneciam, cerca das 10h45, 170 operacionais e 55 viaturas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30150831/ilacerda-incendio-linda-a-velha-6-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Papa pede fim da violência na Cisjordânia e apela a solução de dois Estados",
+      "link": "https://www.rtp.pt/noticias/mundo/papa-pede-fim-da-violencia-na-cisjordania-e-apela-a-solucao-de-dois-estados_n1759782",
+      "pubDate": "Sun, 16 Aug 2026 13:57:12 +0100",
+      "description": "O Papa Leão XIV apelou hoje ao fim da violência contra a população civil palestiniana na Cisjordânia e instou a comunidade internacional a avançar no sentido da solução de dois Estados, para uma paz justa e duradoura.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fd/fdb41313f2b7801baaad43e24919d0b7?w=350&amp;q=50&amp;rect=1,0,5146,2821&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h Incêndio dominado",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-incendio-dominado_a1_1759784",
+      "pubDate": "Sun, 16 Aug 2026 13:42:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d9e1e4c4a9356096bd6e54f57c7fff3?w=350&amp;q=50&amp;rect=2,0,5897,3233&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Quase todos os concelhos do interior Norte e Centro em perigo máximo de incêndio",
-      "link": "https://www.rtp.pt/noticias/pais/quase-todos-os-concelhos-do-interior-norte-e-centro-em-perigo-maximo-de-incendio_n1759772",
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: ex-Sp. Braga estreia-se com golo e Portimonense volta a vencer",
+      "link": "https://maisfutebol.iol.pt/ii-liga/portimonense/ii-liga-ex-sp-braga-estreia-se-com-golo-e-portimonense-volta-a-vencer",
+      "pubDate": "Sun, 16 Aug 2026 13:02:53 +0100",
+      "description": "Triunfo dos algarvios por 2-0 na receção ao Vizela",
+      "thumbnail": "https://img.iol.pt/image/id/6a81a642d34e511da0b33915/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hjulmand: «O Sporting é um clube muito grande, mas o Atlético também»",
+      "link": "https://maisfutebol.iol.pt/internacional/espanha/hjulmand-a-minha-abertura-fez-com-que-me-vissem-como-um-lider",
       "pubDate": "Sun, 16 Aug 2026 12:47:00 +0100",
-      "description": "A generalidade dos concelhos localizados no interior Norte e Centro de Portugal continental estão este domingo em perigo máximo de incêndio, segundo o Instituto Português do Mar e da Atmosfera (IPMA).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c0d7f79be16dcaa479365ffde6f19fc?w=350&amp;q=50&amp;rect=0,145,2048,1123&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Três fogos ativos em Chaves e Boticas combatidos por centenas de operacionais",
-      "link": "https://www.rtp.pt/noticias/pais/tres-fogos-ativos-em-chaves-e-boticas-combatidos-por-centenas-de-operacionais_n1759778",
-      "pubDate": "Sun, 16 Aug 2026 12:44:33 +0100",
-      "description": "Os concelho de Chaves e Boticas, distrito de Vila Real, estão este domingo a ser atingidos por três incêndios florestais, um dos quais de maior dimensão, em Ventozelo, numa zona de floresta, que se mantêm ativo com duas frentes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/5811db5cdfb4dd1e85d50beb243352b2?w=350&amp;q=50&amp;rect=0,207,2048,1123&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PS ao ataque em rentrée algarvia: \"Governo falhou em toda a linha\"",
-      "link": "https://www.rtp.pt/noticias/politica/ps-ao-ataque-em-rentree-algarvia-governo-falhou-em-toda-a-linha_n1759779",
-      "pubDate": "Sun, 16 Aug 2026 12:37:27 +0100",
-      "description": "Dois dias depois de o PSD ter aberto a época de rentrées partidária no Calçadão da Quarteira com a tradicional Festa do Pontal, o Partido Socialista escolhe também o Algarve como cenário para o regresso à atividade política.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/85/85d2bc662294476ab2a17927413f3c11?w=350&amp;q=50&amp;rect=0,0,1169,641&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Hospital do Barreiro. Tempo de espera para primeira observação nas urgências ultrapassa as 20 horas",
-      "link": "https://www.rtp.pt/noticias/pais/hospital-do-barreiro-tempo-de-espera-para-primeira-observacao-nas-urgencias-ultrapassa-as-20-horas_n1759774",
-      "pubDate": "Sun, 16 Aug 2026 12:19:04 +0100",
-      "description": "À semelhança do que aconteceu no sábado, os tempos médios de espera continuam elevados em vários serviços de urgência dos hospitais do SNS.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2e0ec8f353c53ad0d56f5febe6c9d77?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "description": "Ex-capitão dos leões explicou a mudança para Madrid e mostrou-se entusiasmado com o nível do futebol espanhol",
+      "thumbnail": "https://img.iol.pt/image/id/6a54cf5bd34ef04b4f3f6297/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 11:23:13 +0100",
       "description": "São Paulo empata a um golo com o Coritiba",
       "thumbnail": "https://img.iol.pt/image/id/6a818de8d34e511da0b338fe/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "PSG: João Neves falha Supertaça de França",
-      "link": "https://maisfutebol.iol.pt/made-in/joao-neves/psg-joao-neves-falha-supertaca-de-franca",
-      "pubDate": "Sun, 16 Aug 2026 11:01:00 +0100",
-      "description": "Jogo marcado para este domingo, frente ao Lens",
-      "thumbnail": "https://img.iol.pt/image/id/6a818ca9d34ed0733ba8014d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Abel Ferreira exige calma: «Parece que o Palmeiras está em último!»",
-      "link": "https://maisfutebol.iol.pt/brasil/internacional/abel-ferreira-exige-calma-parece-que-o-palmeiras-esta-em-ultimo",
-      "pubDate": "Sun, 16 Aug 2026 10:52:00 +0100",
-      "description": "Treinador português assume má fase, mas rejeita cenário de crise e confronta as críticas da imprensa",
-      "thumbnail": "https://img.iol.pt/image/id/6a78fd25d34ed0733ba7f01f/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Forças do Iémen realizaram 181 operações militares contra hutis",
-      "link": "https://www.noticiasaominuto.com/mundo/3037254/forcas-do-iemen-realizaram-181-operacoes-militares-contra-hutis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:38:06",
+      "title": "Ataques desativaram os maiores centros de distribuição da Wildberries",
+      "link": "https://www.noticiasaominuto.com/mundo/3037265/ataques-desativaram-os-maiores-centros-de-distribuicao-da-wildberries#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 13:24:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65a0e18d38e35.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81abedb16e2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM1NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quatro bombeiros de Vinhais que sofreram queimaduras tiveram alta",
-      "link": "https://www.noticiasaominuto.com/pais/3037253/quatro-bombeiros-de-vinhais-que-sofreram-queimaduras-tiveram-alta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:37:00",
+      "title": "EM DIRETO: Siga a antevisão de Marco Silva ao Casa Pia-Benfica",
+      "link": "https://www.noticiasaominuto.com/desporto/3037263/em-direto-siga-a-antevisao-de-marco-silva-ao-casa-pia-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 13:15:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6925fbdb97272.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NCwiY3JvcEhlaWdodCI6MTcxNCwiY3JvcFgiOjEzMDcsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a9bd28d88.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais perto do Dragão? Santiago Giménez já deu o 'sim' ao FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3037251/mais-perto-do-dragao-santiago-gimenez-ja-deu-o-sim-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:36:11",
+      "title": "Moçambique prepara incentivos para massificar gás natural veicular",
+      "link": "https://www.noticiasaominuto.com/economia/3037256/mocambique-prepara-incentivos-para-massificar-gas-natural-veicular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 13:12:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a819b3b450b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjMsImNyb3BZIjo3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_618e859f4e334.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Luciana Abreu: O fim das férias e o encontro com Marcelo Rebelo de Sousa",
-      "link": "https://www.noticiasaominuto.com/fama/3037244/luciana-abreu-o-fim-das-ferias-e-o-encontro-com-marcelo-rebelo-de-sousa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:33:48",
+      "title": "Ruben Amorim surpreende após reencontro: \"Ainda amo o Manchester United\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3037259/ruben-amorim-surpreende-apos-reencontro-ainda-amo-o-manchester-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 13:09:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a819495d1942.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM5LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6NiwiY3JvcFkiOjUxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjMsImNyb3BIZWlnaHQiOjE3MTIsImNyb3BYIjoxNDk3LCJjcm9wWSI6MjkwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a8816c271.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Executado homem acusado de ter atropelado vários policias em janeiro",
-      "link": "https://www.noticiasaominuto.com/mundo/3037201/executado-homem-acusado-de-ter-atropelado-varios-policias-em-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:28:25",
+      "title": "Mais de 700 camiões com ajuda chegam ao Afeganistão pelo Paquistão",
+      "link": "https://www.noticiasaominuto.com/mundo/3037260/mais-de-700-camioes-com-ajuda-chegam-ao-afeganistao-pelo-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 13:09:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7b80ab223f3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a872846cb.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Passe Ferroviário Verde chega em setembro: eis tudo o que precisa de saber!",
+      "link": "https://pplware.sapo.pt/motores/passe-ferroviario-verde-chega-em-setembro-eis-tudo-o-que-precisa-de-saber/",
+      "pubDate": "Sun, 16 Aug 2026 12:00:31 +0000",
+      "description": "A partir do início de setembro, quem vive e trabalha nas áreas metropolitanas de Lisboa e do Porto vai poder andar de comboio dentro da cidade pagando os mesmos 20 euros por mês que&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/cp-comboio-portugal-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/honor-robot-phone.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Internet está sob ataque e a Cloudflare repeliu 23 milhões de ataques DDoS em seis meses",
-      "link": "https://pplware.sapo.pt/internet/cloudflare-repeliu-23-milhoes-de-ataques-ddos-em-seis-meses/",
-      "pubDate": "Sun, 16 Aug 2026 07:00:08 +0000",
-      "description": "A Cloudflare está a fazer soar o alarme sobre ataques DDoS com volume recorde na Internet. Em apenas seis meses, a empresa repeliu 23,2 milhões de ataques DDoS e registou um aumento drástico de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ddos_ataque_0.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Pascal Wehrlein responde às críticas sobre as “táticas de equipa”",
+      "link": "https://www.autosport.pt/sem-categoria/formula-e-londres-pascal-wehrlein-responde-as-criticas-sobre-as-taticas-de-equipa/",
+      "pubDate": "Sun, 16 Aug 2026 12:14:31 +0000",
+      "description": "Depois das críticas de António Félix da Costa às táticas da Porsche, surgiu a resposta de Pascal Wehrlein. O alemão defendeu o uso de táticas de equipa por parte da Porsche no sábado, depois de a manobra ter contribuído para a sua vitória no E-Prix de Londres e para reforçar a sua candidatura ao tít",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-disse-a-equipa-para-apostar-tudo-em-mitch-evans/",
       "pubDate": "Sun, 16 Aug 2026 08:25:00 +0000",
       "description": "Há pilotos que valem o seu peso em ouro. Que além de serem rápidos e competitivos, ajudam a equipa a ter um bom ambiente e colocam os interesses da equipa antes dos seus. António Félix da Costa é um dos grandes exemplos desse tipo de pilotos. O português pagou a fatura de ser um piloto [&#8230;]\nThe",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "McLaren McL 6GT: o sonho de Bruce",
-      "link": "https://www.autosport.pt/automais/mclaren-mcl-6gt-o-sonho-de-bruce/",
-      "pubDate": "Sat, 15 Aug 2026 16:55:23 +0000",
-      "description": "O McLaren McL 6GT apresentado durante evento na Semana do Automóvel de Monterey, na Califórnia, EUA, recupera o espírito do M6GT de Bruce McLaren, de 1969, e combina a inspiração histórica com tecnologia contemporânea. O novo estudo antecipa automóvel de produção prometido para 2028 e recorre a uma ",
       "thumbnail": ""
     }
   ]
