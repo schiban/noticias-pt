@@ -1,55 +1,75 @@
 {
-  "updated": "2026-08-16T08:56:10.704068+00:00",
+  "updated": "2026-08-16T09:25:11.171904+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Jogo entre Sporting de Braga e Gil Vicente adiado",
-      "link": "https://observador.pt/2026/08/16/jogo-entre-sporting-de-braga-e-gil-vicente-adiado/",
-      "pubDate": "Sun, 16 Aug 2026 09:52:34 +0100",
-      "description": "A contar para a segunda jornada da I Liga de futebol, estava marcado para este domingo, às 20h30, em Braga. Clube bracarense deu conta de um surto gastrointestinal na equipa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091710/47596964.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sobrinho de Carlos III vai para a Universidade Real Agrícola",
-      "link": "https://observador.pt/2026/08/16/depois-de-um-verao-a-conduzir-tratores-filho-mais-novo-de-eduardo-e-sophie-vai-estudar-na-universidade-real-agricola/",
-      "pubDate": "Sun, 16 Aug 2026 09:52:27 +0100",
-      "description": "Aos 18 anos, o Conde de Wessex será o primeiro membro da família real a frequentar a tempo integral a instituição no Gloucestershire, por onde passaram Ernest de Hannover e Gundakar do Liechtenstein.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1621:909:nowe:44:430/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/25112338/gettyimages-2252780496.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Caças espanhóis abatem drone no espaço aéreo romeno",
-      "link": "https://observador.pt/liveblogs/cacas-espanhois-abatem-drone-que-violou-espaco-aereo-da-romenia/",
-      "pubDate": "Sun, 16 Aug 2026 09:42:55 +0100",
-      "description": "Dois caças F-18 espanhóis abateram um drone que invadiu o espaço aéreo romeno na madrugada deste sábado. O alerta foi dado às 02h44 (hora de Lisboa).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/09223940/47224104.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "12 mortos em acidente de autocarro na Hungria",
-      "link": "https://observador.pt/2026/08/16/doze-mortos-em-acidente-de-autocarro-em-autoestrada-na-hungria/",
-      "pubDate": "Sun, 16 Aug 2026 09:42:26 +0100",
-      "description": "Autoridades acreditam que o acidente aconteceu depois de o motorista ter adormecido. Autocarro, de matrícula polaca, tombou pela 00h00 (hora de Lisboa), a cerca de 140 quilómetros da capital.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091512/47617708.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "9h. Drone que entrou na Roménia é abatido",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2442/",
-      "pubDate": "Sun, 16 Aug 2026 09:14:16 +0100",
-      "description": "Roménia tornou-se um dos membros da NATO mais expostos às consequências da guerra na Ucrânia. Ainda, Francesco Farioli diz que FC Porto poderia ter gerido melhor certos momentos frente ao Rio Ave.",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2439/",
+      "pubDate": "Sun, 16 Aug 2026 10:16:57 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Prisão preventiva para suspeito de fogo florestal no Sabugal",
+      "link": "https://observador.pt/2026/08/16/prisao-preventiva-para-suspeito-de-fogo-florestal-no-sabugal/",
+      "pubDate": "Sun, 16 Aug 2026 10:04:41 +0100",
+      "description": "O incêndio teve início cerca das 20h30 de sexta-feira, tendo o suspeito efetuado a sua ignição com recurso a sobrantes de podas de vegetação que acumulou dentro de uma levada de água seca.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30153425/ilacerda-incendio-linda-a-velha-59-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "14 experiências em castelos, palácios e palacetes",
+      "link": "https://observador.pt/2026/08/16/castelos-palacios-e-palacetes-em-portugal-para-dormir-comer-e-viver-entre-luxo-e-historia/",
+      "pubDate": "Sun, 16 Aug 2026 10:04:08 +0100",
+      "description": "São locais com história em Portugal que oferecem mais do que uma cama confortável. Espaços recuperados que mantêm vivas algumas tradições e que propõe experiências pouco habituais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1078:nowe:0:2/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/03175700/hotel-palacio-estoril.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "“Estamos com a água no pescoço e a achar que é a maré cheia\"",
+      "link": "https://observador.pt/programas/em-40-minutos/ivo-canelas-estamos-com-a-agua-no-pescoco-e-a-achar-que-e-a-mare-cheia/",
+      "pubDate": "Sun, 16 Aug 2026 10:03:54 +0100",
+      "description": "Ivo Canelas conta porque prefere o cinema e a televisão ao teatro, e como se constrói uma personagem. Foi durante um trabalho de pesquisa que descobriu uma paixão: o mergulho.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07104555/770-podcast-em-40-minutos-ivo-canelas.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20 réplicas do sismo sentidas esta madrugada em Granada",
+      "link": "https://observador.pt/2026/08/16/cerca-de-20-replicas-do-sismo-de-sabado-sentidas-este-domingo-de-madrugada-em-granada/",
+      "pubDate": "Sun, 16 Aug 2026 10:03:45 +0100",
+      "description": "Os sismos desta madrugada concentraram-se no sul da área metropolitana, tiveram entre 1,5 e 3,1 de magnitude e epicentro a pouca profundidade. Não há registo de vítimas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1377:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16092838/47613535.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "10h Dois incêndios preocupam Proteção Civil",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-dois-incendios-preocupam-protecao-civil_a1_1759770",
+      "pubDate": "Sun, 16 Aug 2026 11:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Indonésia. Milhares de desalojados aguardam ajuda após sismo que fez 51 mortos",
+      "link": "https://www.rtp.pt/noticias/mundo/indonesia-milhares-de-desalojados-aguardam-ajuda-apos-sismo-que-fez-51-mortos_n1759769",
+      "pubDate": "Sun, 16 Aug 2026 11:08:55 +0100",
+      "description": "Milhares de pessoas retiradas das suas habitações aguardam este domingo ajuda na sequência do forte sismo que abalou a ilha indonésia de Flores, causando 51 mortos, mais de uma centena de feridos e danificando habitações e edifícios públicos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1ff5ed91a3ad7529ada0ffb0ed595ab6?w=350&amp;q=50&amp;rect=1,0,4078,2236&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f3b4d549775847433869d86bf388773?w=350&amp;q=50&amp;rect=1,0,3998,2192&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Chuvas e cortes de energia devido ao primeiro furacão a atingir Havai desde 1992",
-      "link": "https://www.rtp.pt/noticias/mundo/chuvas-e-cortes-de-energia-devido-ao-primeiro-furacao-a-atingir-havai-desde-1992_n1759753",
-      "pubDate": "Sun, 16 Aug 2026 10:22:33 +0100",
-      "description": "O furacão Lala atingiu a Ilha Grande do Havai com chuvas fortes e ventos intensos, com os meteorologistas a alertar para possíveis inundações perigosas em todo o estado insular do Pacífico dos Estados Unidos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/2813e2bb8eb4521feb27adce2f76acbf?w=350&amp;q=50&amp;rect=0,0,1268,695&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Número de mortos no Japão após chuvas torrenciais e inundações sobe para nove",
-      "link": "https://www.rtp.pt/noticias/mundo/numero-de-mortos-no-japao-apos-chuvas-torrenciais-e-inundacoes-sobe-para-nove_n1759758",
-      "pubDate": "Sun, 16 Aug 2026 10:20:40 +0100",
-      "description": "Chuvas torrenciais e inundações fizeram pelo menos nove mortos na província de Chiba, no leste do Japão, perto da metrópole de Tóquio, avançou hoje a emissora pública japonesa NHK.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e9521df4452706b2fd7fa5ae56c5bf3c?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Messi falha penálti na derrota do Inter Miami",
+      "link": "https://maisfutebol.iol.pt/internacional/estados-unidos/video-messi-falha-penalti-na-derrota-do-inter-miami",
+      "pubDate": "Sun, 16 Aug 2026 10:03:00 +0100",
+      "description": "Astro argentino voltou à titularidade no desaire por 4-1 com o Nashville",
+      "thumbnail": "https://img.iol.pt/image/id/6a818021d34e511da0b338df/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 00:01:06 +0100",
       "description": "Andaluzes terminam o jogo reduzidos a dez e marcam o golo da vitória ao minuto 90+7",
       "thumbnail": "https://img.iol.pt/image/id/6a80ef2fd34ed0733ba800ff/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Nuno Campos vence dérbi de Bucareste e Dínamo é líder na Roménia",
-      "link": "https://maisfutebol.iol.pt/romenia/nuno-campos/nuno-campos-vence-derbi-de-bucareste-e-dinamo-e-lider-na-romenia",
-      "pubDate": "Sat, 15 Aug 2026 23:55:00 +0100",
-      "description": "Karamoko assina único golo na vitória sobre o Rapid Bucareste",
-      "thumbnail": "https://img.iol.pt/image/id/6921b4b9d34e2bd5c6d44a36/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,26 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Seis mortos em acidente de autocarro na Argélia. É o quarto este mês",
+      "link": "https://www.noticiasaominuto.com/mundo/3037225/seis-mortos-em-acidente-de-autocarro-na-argelia-e-o-quarto-este-mes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 10:02:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a817c9d48376.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Preventiva para homem que ateou fogo no Sabugal com \"chama direta\"",
+      "link": "https://www.noticiasaominuto.com/pais/3037220/preventiva-para-homem-que-ateou-fogo-no-sabugal-com-chama-direta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:57:39",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3137481ec23.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Ataques causam pelo menos seis mortos na Rússia e um morto na Ucrânia",
       "link": "https://www.noticiasaominuto.com/mundo/3037227/ataques-causam-pelo-menos-seis-mortos-na-russia-e-um-morto-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 09:51:28",
@@ -232,24 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613535.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Disneyland Paris terá atração aquática dedicada ao \"O Rei Leão\"",
-      "link": "https://www.noticiasaominuto.com/cultura/3037216/disneyland-paris-tera-atracao-aquatica-dedicada-ao-o-rei-leao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 09:10:01",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/32658228.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Noémia de Sousa \"sabia tudo\" mas nunca precisou de palco",
-      "link": "https://www.noticiasaominuto.com/cultura/3037215/noemia-de-sousa-sabia-tudo-mas-nunca-precisou-de-palco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 09:07:45",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47604141.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Cuidado com a atualização do Chrome. Pode estar prestes a instalar malware",
+      "link": "https://pplware.sapo.pt/internet/seguranca/cuidado-com-a-atualizacao-do-chrome-pode-estar-prestes-a-instalar-malware/",
+      "pubDate": "Sun, 16 Aug 2026 09:00:32 +0000",
+      "description": "Manter o browser atualizado é uma preocupação que se deve ter constantemente. Por norma estes tratam deste processo sozinhos, mas há ataques que tentam explorar este vetor. O mais recente afeta o Chrome e&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/04/openai_chrome_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -285,21 +295,31 @@
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "James Webb detecta água junto a estrela moribunda perto do buraco negro da Via Láctea",
+      "title": "James Webb deteta água junto a estrela moribunda perto do buraco negro da Via Láctea",
       "link": "https://pplware.sapo.pt/ciencia/james-webb-detecta-agua-junto-a-estrela-moribunda-perto-do-buraco-negro-da-via-lactea/",
       "pubDate": "Sat, 15 Aug 2026 21:30:16 +0000",
       "description": "O telescópio James Webb detetou água e poeira de silicato em torno de IRS 3, uma estrela moribunda a apenas 0,55 anos-luz de Sagittarius A*, o buraco negro supermassivo da Via Láctea. O telescópio&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/irs3_00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Volkswagen está a “copiar” tecnologia Made in China. E é a XPENG quem manda",
-      "link": "https://pplware.sapo.pt/motores/volkswagen-esta-a-copiar-tecnologia-made-in-china-e-e-a-xpeng-quem-manda/",
-      "pubDate": "Sat, 15 Aug 2026 20:30:11 +0000",
-      "description": "Durante décadas, eram os fabricantes chineses que procuravam na Europa tecnologia e conhecimento. Agora, essa tendência começa a inverter-se. A Volkswagen aprofundou a parceria com a XPENG e prepara-se para colocar cada vez mais&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/vla_xpeng00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Nyck de Vries liderou última sessão de treinos",
+      "link": "https://www.autosport.pt/sem-categoria/formula-e-londres-nyck-de-vries-liderou-ultima-sessao-de-treinos/",
+      "pubDate": "Sun, 16 Aug 2026 08:50:00 +0000",
+      "description": "Está nos livros a última sessão de treinos da temporada 2025/2026 e, por conseguinte, da GEN3. Nyck de Vries foi o mais rápido pela Mahindra Racing, seguido de perto por Dan Ticktum (CUPRA Kiro) e Sébastien Buemi (Envision Racing). O início foi tranquilo, com a sessão a arrancar às 08h30 locais e am",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fórmula E, Londres: Félix da Costa disse à equipa para apostar tudo em Mitch Evans",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-disse-a-equipa-para-apostar-tudo-em-mitch-evans/",
+      "pubDate": "Sun, 16 Aug 2026 08:25:00 +0000",
+      "description": "Há pilotos que valem o seu peso em ouro. Que além de serem rápidos e competitivos, ajudam a equipa a ter um bom ambiente e colocam os interesses da equipa antes dos seus. António Félix da Costa é um dos grandes exemplos desse tipo de pilotos. O português pagou a fatura de ser um piloto [&#8230;]\nThe",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/automais/aston-martin-valen-tem-v12-com-850-cv/",
       "pubDate": "Sat, 15 Aug 2026 16:00:26 +0000",
       "description": "A Aston Martin, na Semana do Automóvel de Monterey, na Califórnia, EUA, revelou o Valen, obra-prima assinada pela divisão de personalização Q by Aston Martin. O novo superdesportivo apresenta-se equipado com o motor dianteiro mais potente do mundo: V12 5.2 Twin-Turbo com 850 cv. Segundo o fabricante",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Félix da Costa fala em “jogadas sujas”",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-fala-em-jogadas-sujas/",
-      "pubDate": "Sat, 15 Aug 2026 15:46:58 +0000",
-      "description": "António Félix da Costa fez uma recuperação notável do sétimo para o terceiro lugar no E-Prix de Londres, um resultado que ajudou a Jaguar a manter-se na frente do campeonato de equipas, apesar de uma corrida que o próprio português descreveu como difícil de gerir. No final da corrida, questionado so",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Pascal Wehrlein vence corrida 1, Félix da Costa no pódio",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-corrida-1-felix-da-costa-no-podio/",
-      "pubDate": "Sat, 15 Aug 2026 13:45:00 +0000",
-      "description": "Pascal Wehrlein foi o vencedor da corrida 1 e subiu ao primeiro lugar do campeonato. Uma corrida tranquila e perfeitamente gerida pelo alemão e a sua equipa, que o permite entrar na derradeira corrida, no topo das contas do campeonato. A Jaguar viu Mitch Evans ficar sem sorte, apanhado num Full Cour",
       "thumbnail": ""
     }
   ]
