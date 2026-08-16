@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T18:54:35.268163+00:00",
+  "updated": "2026-08-16T19:18:05.029787+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Félix da Costa ajuda Jaguar a conquistar Mundial de equipas",
+      "link": "https://observador.pt/2026/08/16/felix-da-costa-ajuda-jaguar-a-conquistar-mundial-de-equipas-na-formula-e/",
+      "pubDate": "Sun, 16 Aug 2026 19:58:05 +0100",
+      "description": "O piloto português António Félix da Costa terminou a última corrida em 14.º lugar, ajudando a Jaguar a conquistar o Mundial de equipas na Fórmula E. Félix da Costa terminou Mundial de pilotos em 6.º.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:125/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/31222254/46463445.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/05191410/45428151.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Francisca Martins estabelece novo recorde nacional",
-      "link": "https://observador.pt/2026/08/16/francisca-martins-fica-em-quarto-na-final-europeia-de-400-metros-livres-e-estabelece-novo-recorde-nacional/",
-      "pubDate": "Sun, 16 Aug 2026 18:44:45 +0100",
-      "description": "A nadadora portuguesa conseguiu percorrer os 400 metros em 4:06,93 minutos, atrás das alemãs Werner (terceira) e Gose (segunda), que não conseguiram a medalha de ouro — da italiana Simona Quadarella.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2470:1386:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16181757/gettyimages-2290173657.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Áustria Viena vence no campeonato antes de visitar Sporting de Braga",
+      "link": "https://www.rtp.pt/noticias/liga-europa-conferencia/austria-viena-vence-no-campeonato-antes-de-visitar-sporting-de-braga_d1759845",
+      "pubDate": "Sun, 16 Aug 2026 21:16:14 +0100",
+      "description": "O Áustria Viena, próximo adversário do Sporting de Braga no play-off de acesso à Liga Conferência, bateu hoje o Hartberg, por 2-0, conseguindo o seu primeiro triunfo na Liga austríaca de futebol ao cabo de três jornadas.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Félix da Costa ajuda Jaguar a conquistar Mundial de equipas na Fórmula E",
+      "link": "https://www.rtp.pt/noticias/motores/felix-da-costa-ajuda-jaguar-a-conquistar-mundial-de-equipas-na-formula-e_d1759844",
+      "pubDate": "Sun, 16 Aug 2026 21:15:29 +0100",
+      "description": "O piloto português António Félix da Costa (Jaguar) terminou hoje a última corrida da temporada de Fórmula E no 14.º lugar, ajudando na conquista do Mundial de equipas pela formação britânica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4f/4f3f6f8eb1f8db426f9d0417aece74fd?w=350&amp;q=50&amp;rect=0,81,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Famalicao - Marítimo",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-famalicao-maritimo_e1759838",
+      "pubDate": "Sun, 16 Aug 2026 21:07:11 +0100",
+      "description": "O Famalicão, na 13.ª posição, com um ponto, recebe esta noite o Marítimo, terceiro, com três pontos, no Estádio Municipal de Famalicão, numa partida que será arbitrada por Miguel Nogueira, da AF Lisboa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a339bbced3745bbbc2736e6fd12a576?w=350&amp;q=50&amp;rect=0,91,1536,842&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/8972fc40d62f817d012d3075bbf8a4cd?w=350&amp;q=50&amp;rect=0,152,504,276&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h Alexis Guérin é o vencedor da Volta a Portugal",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-alexis-guerin-e-o-vencedor-da-volta-a-portugal_a1_1759835",
-      "pubDate": "Sun, 16 Aug 2026 19:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli assiste à derrota do FC Porto B diante do Feirense",
+      "link": "https://maisfutebol.iol.pt/fc-porto/fc-porto-b/farioli-assiste-a-derrota-do-fc-porto-b-diante-do-feirense",
+      "pubDate": "Sun, 16 Aug 2026 20:07:00 +0100",
+      "description": "Técnico da equipa principal marca presença no Olival e azuis e brancos sofrem desaire na II Liga (3-1)",
+      "thumbnail": "https://img.iol.pt/image/id/6a8207a6d34ed0733ba80226/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio está próximo de zona industrial em Oliveira de Azeméis",
-      "link": "https://www.rtp.pt/noticias/pais/incendio-esta-proximo-de-zona-industrial-em-oliveira-de-azemeis_n1759832",
-      "pubDate": "Sun, 16 Aug 2026 19:14:36 +0100",
-      "description": "Há um incêndio ativo em Oliveira de Azeméis, no distrito de Aveiro, próximo de uma zona industrial.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d25d7c6e0ee69c7623159128648fc19b?w=350&amp;q=50&amp;rect=0,142,2048,1123&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Diogo Ribeiro sexto europeu dos 50 metros livres com recorde nacional",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/diogo-ribeiro-sexto-europeu-dos-50-metros-livres-com-recorde-nacional_d1759831",
-      "pubDate": "Sun, 16 Aug 2026 19:06:45 +0100",
-      "description": "O nadador português Diogo Ribeiro fixou hoje o novo recorde nacional dos 50 metros livres em 21,59 segundos, que lhe valeram o sexto lugar, ex-aequo, na final dos Europeus de desportos aquáticos, em Paris.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa4cff837e5308f509c34c2f5540465d?w=350&amp;q=50&amp;rect=0,111,683,374&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Arouca-Moreirense, 4-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/primeira-liga/arouca/arouca-moreirense-4-0-cronica",
+      "pubDate": "Sun, 16 Aug 2026 20:03:00 +0100",
+      "description": "Como é boa a vida em Arouca",
+      "thumbnail": "https://img.iol.pt/image/id/6a81f75cd34ed0733ba80208/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,34 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a81fd4bd34e511da0b339c0/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Natação: Francisca Martins bate recorde nacional nos 400 metros livres",
-      "link": "https://maisfutebol.iol.pt/natacao/modalidades/natacao-francisca-martins-bate-recorde-nacional-nos-400-metros-livres",
-      "pubDate": "Sun, 16 Aug 2026 19:05:04 +0100",
-      "description": "Nadadora portuguesa terminou a final dos  Europeus de desportos aquáticos de Paris em quarto lugar",
-      "thumbnail": "https://img.iol.pt/image/id/6a7cd788d34e511da0b330a3/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Escócia escolhe Sébastien Pocognoli como novo selecionador",
-      "link": "https://maisfutebol.iol.pt/mercado/transferencias/oficial-escocia-escolhe-sebastien-pocognoli-como-novo-selecionador",
-      "pubDate": "Sun, 16 Aug 2026 18:55:00 +0100",
-      "description": "Antigo treinador do Mónaco sucede a Steve Clarke no cargo",
-      "thumbnail": "https://img.iol.pt/image/id/6a81f91fd34ed0733ba8020c/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ministro israelita Ben Gvir defende assassinatos seletivos de \"30 a 40 pessoas por noite\" em Gaza",
+      "link": "https://sapo.pt/artigo/ministro-israelita-ben-gvir-defende-assassinatos-seletivos-de-30-a-40-pessoas-por-noite-em-gaza-6a81fa297feb5726f8c62110",
+      "pubDate": "Sun, 16 Aug 2026 18:45:49 +0000",
+      "description": "“Há pessoas ali que não merecem viver. Não deveriam viver. Nem sequer são pessoas”, afirmou o ministro da Segurança Nacional de Israel, num podcast.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AqM4VQTeyO2GlI4JRaFROD%2B3M1D0P%2B7Killa97rwsVq5UUyKDEoc4y%2BpXeVL3xNcl7SSlWeVRRf0mPQpKoYUFaUIEfi6leB9ImfEtJpHbT2CRaERCQt2DWAkb4YoXmDmw"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Tempos de espera nas urgências ainda acima do recomendado em Lisboa e Vale do Tejo e Algarve",
-      "link": "https://sapo.pt/artigo/tempos-de-espera-nas-urgencias-ainda-acima-do-recomendado-em-lisboa-e-vale-do-tejo-e-algarve-6a81af0a7b96e18390a0d934",
-      "pubDate": "Sun, 16 Aug 2026 12:47:47 +0000",
-      "description": "Depois de um semana com tempos muito acima dos recomendados, sobretudo para doentes urgentes, às 12 horas deste domingo só duas regiões registavam tempos médios excessivos para primeira observação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AJizM%2FTNVm%2BGotH1JNx2XzeERGYBYYDdNrJ2DbJkPOML%2B9M4VbFsDb6%2Fn%2BAWwVxys4zp0PLOUILko0VD8be5KkBzfGDRxFgfnYov9UVoOO3rSMkS8woYG8qzitobYq7R5"
+      "title": "Irão oferece recompensa de 26 mil euros a quem matar ou capturar soldados norte-americanos",
+      "link": "https://sapo.pt/artigo/irao-oferece-recompensa-de-26-mil-euros-a-quem-matar-ou-capturar-soldados-norte-americanos-6a82008fc50b1ad904e75a03",
+      "pubDate": "Sun, 16 Aug 2026 18:45:49 +0000",
+      "description": "Não há registos de qualquer destacamento de tropas terrestres norte-americanas no Irão durante a guerra no Médio Oriente, com exceção de uma missão de resgate, em abril, para salvar um piloto norte-americano cujo avião se tinha despenhado.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AuuqUuk85ZlC43yluvRjycpJIWESGKFMw89csUDWhQbQMpZxeQPiSIfCS%2F8OIAkdNY3bGsUSpYgXcZQwRoTkBvtgV0diFPP8UltvFGboFHofpKo8W5XABqAfgmKc%2B3x1n"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Mais de 100 operacionais em incêndio em Oliveira de Azeméis",
+      "link": "https://sapo.pt/artigo/mais-de-100-operacionais-em-incendio-em-oliveira-de-azemeis-6a82037abec1d8607e220355",
+      "pubDate": "Sun, 16 Aug 2026 18:45:49 +0000",
+      "description": "Incêndio com duas frentes deflagrou numa zona florestal em Oliveira de Azeméis. Há mais de 100 bombeiros no local.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AJZToONAAHKxMiu03tj8oQv1jXGevlUilwhMhSBtFI8kAbi2MZsmJvQx%2FY8THb%2FvrCIqBESk2X6Xf9G4P4%2F%2FKV03891KPN9B%2BRCJ7mgJe70oIDnHbO3voGIs9uZfXEKOV"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +195,61 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Combustíveis anulam descida da semana passada e ERSE recusa fixação de margens",
-      "link": "https://sapo.pt/artigo/combustiveis-anulam-descida-da-semana-passada-e-erse-recusa-fixacao-de-margens-6a81ebe3c50b1ad904e4435d",
-      "pubDate": "Sun, 16 Aug 2026 17:23:02 +0000",
-      "description": "A semana abre com nova subida nos combustíveis, atenuada por um aumento no desconto aplicado no ISP. O regulador alerta para a \"elevada concentração\" grossista e afasta ideia de fixar margens.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AkYqHnZyxakrfbDti%2BrIx6xmZRTQixSZSnVZlx7eFVCBgyUmu0T6wdZn8Ofj%2FERTGgGa%2FNOuNPEDl3DsUeveeUqgG1wPrqOYkdXTRtKodEd3MA3GDUjE0H%2BjOsd65ZDKg"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Volta tem app para pôr cêntimos na conta, mas só em eventos",
-      "link": "https://eco.sapo.pt/2026/08/16/volta-tem-app-para-por-centimos-na-conta-mas-so-em-eventos/",
-      "pubDate": "Sun, 16 Aug 2026 14:24:44 +0000",
-      "description": "A app, explica a Volta, foi desenvolvida especificamente para contextos de grande afluência, como festivais e outros eventos de grande dimensão onde estejam disponíveis Pontos Volta adaptados.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6vOV3mV%2Bk3oKOrI2Jp5P%2FzQI%2Bs52F5QP0X%2BWBATO%2F%2FUQSybpt3MEr7kY%2FxSsOPFkwfaxdsvQyC2mXzR4fGjp1PzYxCbJAlyW5wmgcMb8gHV%2BVHoJOZgKEYJyt4IKOUjU"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Volta a Portugal: Rui Oliveira vence nos Aliados, Guerin é o novo rei",
-      "link": "https://sapo.pt/artigo/volta-rui-oliveira-vence-nos-aliados-guerin-e-o-novo-rei-6a81e910bec1d8607e1dd366",
-      "pubDate": "Sun, 16 Aug 2026 16:47:56 +0000",
-      "description": "Português conquistou a primeira vitória da carreira, na última etapa, no Porto, e o francês garantiu o triunfo na Volta a Portugal",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALrzFCMJZq9AIhzOonWNSjHnd%2BOW4e2Cl%2B5sUnq1uSjX3dC2HDTtImBhxRgoipwjiH%2Forq%2FJPnoG20Mx%2F6jruftNzOBSS2eHXFPQKE5kxrIG2BN6Z08q92V6JEjk%2BmEUi"
+      "title": "Diogo Ribeiro melhorou o seu recorde nacional dos 50 metros livres na final dos Europeus",
+      "link": "https://sapo.pt/artigo/diogo-ribeiro-melhorou-o-seu-recorde-nacional-dos-50-metros-livres-na-final-dos-europeus-6a81efdfc50b1ad904e4e59c",
+      "pubDate": "Sun, 16 Aug 2026 18:49:17 +0000",
+      "description": "O atleta de Coimbra, de 19 anos, ficou no 6º lugar da final dos 50 metros livres com o tempo de 21,46 segundos, melhorando a marca nacional que já lhe pertencia",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ApSbTxoDkNvzYRrXK8P%2FlrtPIAIJXB27VhHfsIi41xhPYHJ%2FV0FZg7DJsasIWcNWa2uKz14Cyh65oM9D65T0OjADbVyigQF3FK0Hoiv5%2BMKAqyVfzYekP3urHOt6sSivu"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "João Pedro Sousa conduz Petro de Luanda à conquista da Supertaça angolana",
-      "link": "https://www.noticiasaominuto.com/desporto/3037329/joao-pedro-sousa-conduz-petro-de-luanda-a-conquista-da-supertaca-angolana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 19:50:48",
+      "title": "Fogo em Torre de Moncorvo tem novamente uma frente de fogo ativa",
+      "link": "https://www.noticiasaominuto.com/pais/3037346/fogo-em-torre-de-moncorvo-tem-novamente-uma-frente-de-fogo-ativa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 20:09:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69418d1574fd3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47544429.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Países condenam \"recusa israelita\" de prosseguir plano de Trump para Gaza",
-      "link": "https://www.noticiasaominuto.com/mundo/3037336/paises-condenam-recusa-israelita-de-prosseguir-plano-de-trump-para-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 19:48:51",
+      "title": "Sobrevivente de acidente na Hungria revela: \"Aconteceu em segundos\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3037339/sobrevivente-de-acidente-na-hungria-revela-aconteceu-em-segundos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 20:07:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a820613f24d3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8206a755579.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Félix da Costa ajuda Jaguar a conquistar Mundial de equipas na Fórmula E",
-      "link": "https://www.noticiasaominuto.com/auto/3037337/felix-da-costa-ajuda-jaguar-a-conquistar-mundial-de-equipas-na-formula-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 19:42:23",
+      "title": "Arouca goleia Moreirense e agarra FC Porto no topo da tabela",
+      "link": "https://www.noticiasaominuto.com/desporto/3037342/arouca-goleia-moreirense-e-agarra-fc-porto-no-topo-da-tabela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 20:03:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46463445.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47619887.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDcsImNyb3BZIjoyMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 100 operacionais combatem incêndio em Oliveira de Azeméis",
-      "link": "https://www.noticiasaominuto.com/pais/3037335/mais-de-100-operacionais-combatem-incendio-em-oliveira-de-azemeis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 19:34:07",
+      "title": "EM DIRETO: Nacional sorri na Choupana e Arouca 'atropela' Moreirense",
+      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 19:57:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a4feb9e5c8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64d8735f467d3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bolsonaro abre campanha no Brasil com ataques a Lula e citações do pai",
-      "link": "https://www.noticiasaominuto.com/mundo/3037333/bolsonaro-abre-campanha-no-brasil-com-ataques-a-lula-e-citacoes-do-pai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 19:23:50",
+      "title": "O que se passou com Mourinho? Olho negro não passou despercebido",
+      "link": "https://www.noticiasaominuto.com/desporto/3037338/o-que-se-passou-com-mourinho-olho-negro-nao-passou-despercebido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 19:54:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47619703.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjIwNiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81e7a3a6959.webp"
     },
     {
       "sourceId": "pplware",
