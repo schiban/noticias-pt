@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-16T10:48:02.967748+00:00",
+  "updated": "2026-08-16T11:15:53.388548+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Parlamento do Envelhecimento quer políticas públicas",
+      "link": "https://observador.pt/2026/08/16/parlamento-portugues-do-envelhecimento-quer-propor-politicas-publicas-ao-pais/",
+      "pubDate": "Sun, 16 Aug 2026 12:13:40 +0100",
+      "description": "O Portugal Ageing Parliament tem como objetivo reunir a sociedade civil num formato parlamentar para debater e propor políticas públicas sobre o envelhecimento.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16121235/envelhecimento.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Três fogos ativos em Chaves e Boticas",
+      "link": "https://observador.pt/2026/08/16/tres-fogos-ativos-em-chaves-e-boticas/",
+      "pubDate": "Sun, 16 Aug 2026 12:01:54 +0100",
+      "description": "O fogo em Ventozelo, concelho de Chaves, deflagrou cerca das 20h26 de sábado e já \"está a ceder aos meios\". No local permaneciam, cerca das 10h45, 170 operacionais e 55 viaturas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30150831/ilacerda-incendio-linda-a-velha-6-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Culpar a comunicação social resolve os problemas do país?",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/culpar-a-comunicacao-social-resolve-os-problemas-do-pais/",
-      "pubDate": "Sun, 16 Aug 2026 11:11:38 +0100",
-      "description": "A rentrée política ficou marcada por ataques à comunicação social. O preço das novas fragatas gera dúvidas pela falta de transparência. Recomprar a rede elétrica é um bom negócio para o Estado?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fogo em parque natural belga já queimou quase três mil hectares",
+      "link": "https://www.rtp.pt/noticias/mundo/fogo-em-parque-natural-belga-ja-queimou-quase-tres-mil-hectares_n1759773",
+      "pubDate": "Sun, 16 Aug 2026 12:49:14 +0100",
+      "description": "O incêndio que desde sexta-feira está a atingir um dos maiores parques naturais da Bélgica já consumiu quase três mil hectares e obrigou à evacuação de várias localidades, incluindo na vizinha Alemanha, segundo várias fontes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d9e1e4c4a9356096bd6e54f57c7fff3?w=350&amp;q=50&amp;rect=2,0,5897,3233&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Gifford Miller: na casa do americano à frente do Atlético",
-      "link": "https://observador.pt/especiais/a-casa-e-a-rotina-de-gifford-miller-o-americano-a-frente-do-atletico-e-possivel-o-progresso-em-lisboa-sem-deixar-ninguem-para-tras/",
-      "pubDate": "Sun, 16 Aug 2026 11:01:45 +0100",
-      "description": "Depois de décadas entre a política e o setor imobiliário em Nova Iorque, comprou casa em Lisboa e investiu no Atlético Clube de Portugal. Valoriza viver entre os locais, e \"adora\" o seu estendal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06134900/dventura-gifford-miller-atletico-clube-portugal-tapadinha-32-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Quase todos os concelhos do interior Norte e Centro em perigo máximo de incêndio",
+      "link": "https://www.rtp.pt/noticias/pais/quase-todos-os-concelhos-do-interior-norte-e-centro-em-perigo-maximo-de-incendio_n1759772",
+      "pubDate": "Sun, 16 Aug 2026 12:47:00 +0100",
+      "description": "A generalidade dos concelhos localizados no interior Norte e Centro de Portugal continental estão este domingo em perigo máximo de incêndio, segundo o Instituto Português do Mar e da Atmosfera (IPMA).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c0d7f79be16dcaa479365ffde6f19fc?w=350&amp;q=50&amp;rect=0,145,2048,1123&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Três fogos ativos em Chaves e Boticas combatidos por centenas de operacionais",
+      "link": "https://www.rtp.pt/noticias/pais/tres-fogos-ativos-em-chaves-e-boticas-combatidos-por-centenas-de-operacionais_n1759778",
+      "pubDate": "Sun, 16 Aug 2026 12:44:33 +0100",
+      "description": "Os concelho de Chaves e Boticas, distrito de Vila Real, estão este domingo a ser atingidos por três incêndios florestais, um dos quais de maior dimensão, em Ventozelo, numa zona de floresta, que se mantêm ativo com duas frentes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/5811db5cdfb4dd1e85d50beb243352b2?w=350&amp;q=50&amp;rect=0,207,2048,1123&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Sun, 16 Aug 2026 12:19:04 +0100",
       "description": "À semelhança do que aconteceu no sábado, os tempos médios de espera continuam elevados em vários serviços de urgência dos hospitais do SNS.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2e0ec8f353c53ad0d56f5febe6c9d77?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "11h Incêndio de Torre de Moncorvo dominado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-incendio-de-torre-de-moncorvo-dominado_a1_1759776",
-      "pubDate": "Sun, 16 Aug 2026 12:17:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "10h Dois incêndios preocupam Proteção Civil",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-dois-incendios-preocupam-protecao-civil_a1_1759770",
-      "pubDate": "Sun, 16 Aug 2026 11:18:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Indonésia. Milhares de desalojados aguardam ajuda após sismo que fez 51 mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/indonesia-milhares-de-desalojados-aguardam-ajuda-apos-sismo-que-fez-51-mortos_n1759769",
-      "pubDate": "Sun, 16 Aug 2026 11:08:55 +0100",
-      "description": "Milhares de pessoas retiradas das suas habitações aguardam este domingo ajuda na sequência do forte sismo que abalou a ilha indonésia de Flores, causando 51 mortos, mais de uma centena de feridos e danificando habitações e edifícios públicos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1ff5ed91a3ad7529ada0ffb0ed595ab6?w=350&amp;q=50&amp;rect=1,0,4078,2236&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Gil Vicente, Marítimo e Arouca querem apanhar lider isolado FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3037189/gil-vicente-maritimo-e-arouca-querem-apanhar-lider-isolado-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:12:33",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a613f0e20c80.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3037247/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:06:43",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a798f91cab5c.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Bombeira de Fão denuncia colega por assédio sexual. Aberto inquérito",
+      "link": "https://www.noticiasaominuto.com/pais/3037243/bombeira-de-fao-denuncia-colega-por-assedio-sexual-aberto-inquerito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:00:26",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64dbb154044e4.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Passar de carro em zona de incêndio? Perigo pode chegar antes das chamas",
+      "link": "https://www.noticiasaominuto.com/auto/3036623/passar-de-carro-em-zona-de-incendio-perigo-pode-chegar-antes-das-chamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:00:26",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1e2bb4457.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Gustavo Santos pede desculpa a Joana Marques. \"Não estive ao meu nível\"",
       "link": "https://www.noticiasaominuto.com/fama/3037242/gustavo-santo-pede-desculpa-a-joana-marques-nao-estive-ao-meu-nivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 11:40:07",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81938a4f0e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjQxNywiY3JvcFgiOjEzLCJjcm9wWSI6ODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMzMSwiY3JvcEhlaWdodCI6NTg5LCJjcm9wWCI6NDA1LCJjcm9wWSI6NDV9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Seguro envia \"sentidas condolências\" à Indonésia após sismos",
-      "link": "https://www.noticiasaominuto.com/pais/3037240/seguro-envia-sentidas-condolencias-a-indonesia-apos-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:24:48",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a49676912ecf.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Mais de 200 operacionais combatem três fogos ativos em Chaves e Boticas",
-      "link": "https://www.noticiasaominuto.com/pais/3037241/mais-de-200-operacionais-combatem-tres-fogos-ativos-em-chaves-e-boticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:23:47",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689b86e40d848.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "\"És uma inspiração\". Ainda com incapacidades, Nuno Markl supera desafio",
-      "link": "https://www.noticiasaominuto.com/fama/3037239/es-uma-inspiracao-ainda-com-incapacidades-nuno-markl-supera-desafio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:18:42",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5f08b6d135f.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Tiago Torres da Silva estreia \"A Imitação dos Pássaros\" no Variedades",
-      "link": "https://www.noticiasaominuto.com/cultura/3037229/tiago-torres-da-silva-estreia-a-imitacao-dos-passaros-no-variedades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:16:04",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_668fd083ca2ef.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "5 softwares de cibersegurança que qualquer pessoa devia conhecer",
+      "link": "https://pplware.sapo.pt/internet/seguranca/5-softwares-de-ciberseguranca-que-qualquer-pessoa-devia-conhecer/",
+      "pubDate": "Sun, 16 Aug 2026 11:00:04 +0000",
+      "description": "A cibersegurança não depende apenas de um antivírus. Existem várias ferramentas que permitem detetar ameaças, analisar redes, identificar vulnerabilidades e proteger dispositivos. Deixamos 5 delas. Snort para detetar ameaças na rede O Snort é&#46;&#46;&#46;",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 16 Aug 2026 07:00:08 +0000",
       "description": "A Cloudflare está a fazer soar o alarme sobre ataques DDoS com volume recorde na Internet. Em apenas seis meses, a empresa repeliu 23,2 milhões de ataques DDoS e registou um aumento drástico de&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ddos_ataque_0.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "iPhone X despede-se de vez. Apple declara-o obsoleto 9 anos depois do lançamento",
-      "link": "https://pplware.sapo.pt/apple/iphone-x-despede-se-de-vez-apple-declara-o-obsoleto-9-anos-depois-do-lancamento/",
-      "pubDate": "Sun, 16 Aug 2026 06:00:12 +0000",
-      "description": "Há equipamentos que marcam momentos na história da tecnologia. Todos os conhecem e reconhecem com tudo o que trouxeram de novo. A Apple veio agora criar mais um ícone, ao despedir-se de vez do&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2018/11/pplware_iphonex.jpg"
     },
     {
       "sourceId": "autosport",
