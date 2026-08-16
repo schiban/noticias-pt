@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-16T16:49:06.521933+00:00",
+  "updated": "2026-08-16T17:15:41.194253+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Diogo Ribeiro estabelece novo recorde nacional",
+      "link": "https://observador.pt/2026/08/16/nao-conseguiu-medalha-mas-estabeleceu-um-novo-recorde-nacional-diogo-ribeiro-e-sexto-na-final-europeia-de-50-metros-livres/",
+      "pubDate": "Sun, 16 Aug 2026 17:56:16 +0100",
+      "description": "O ucraniano Nikita Sheremet venceu a medalha de ouro, o russo Egor Kornev ficou na segunda posição e o sérvio Andrej Barna conquistou o bronze. Diogo Ribeiro dividiu o sexto lugar com outro nadador.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:364/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16174726/gettyimages-2289265286-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Nacional soma primeira vitória da época frente ao Estoril",
+      "link": "https://observador.pt/2026/08/16/nacional-soma-primeira-vitoria-da-epoca-frente-ao-estoril/",
+      "pubDate": "Sun, 16 Aug 2026 17:51:18 +0100",
+      "description": "Nacional derrotou o Estoril por 2-0, somando assim a primeira vitória na Liga. Golos foram de Zé Vítor e Léo Santos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16173228/47619168.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16165340/gettyimages-2290206305-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Lisboa. Homem morre após ser esfaqueado no Cais do Sodré",
-      "link": "https://observador.pt/2026/08/16/homem-morre-apos-ser-esfaqueado-no-cais-do-sodre-em-lisboa/",
-      "pubDate": "Sun, 16 Aug 2026 17:18:50 +0100",
-      "description": "Jovem de 25 anos foi esfaqueado no tórax e não resistiu aos ferimentos. Vítima mortal e atacante seriam pessoas em situação de sem-abrigo. Suspeito encontra-se em fuga.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011818/arquivo-diogofariareis-9052-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Diogo Ribeiro sexto europeu dos 50 metros livres com recorde nacional",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/diogo-ribeiro-sexto-europeu-dos-50-metros-livres-com-recorde-nacional_d1759831",
+      "pubDate": "Sun, 16 Aug 2026 19:06:45 +0100",
+      "description": "O nadador português Diogo Ribeiro fixou hoje o novo recorde nacional dos 50 metros livres em 21,59 segundos, que lhe valeram o sexto lugar, ex-aequo, na final dos Europeus de desportos aquáticos, em Paris.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa4cff837e5308f509c34c2f5540465d?w=350&amp;q=50&amp;rect=0,111,683,374&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 17h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2269/",
-      "pubDate": "Sun, 16 Aug 2026 17:18:16 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Beatriz Gago e Rodolfo Pires na medal series dos Mundiais da classe 470 em vela",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/beatriz-gago-e-rodolfo-pires-na-medal-series-dos-mundiais-da-classe-470-em-vela_d1759830",
+      "pubDate": "Sun, 16 Aug 2026 18:59:09 +0100",
+      "description": "s velejadores portugueses Beatriz Gago e Rodolfo Pires vão disputar segunda-feira a medal race dos Mundiais da classe 470, da qual ficaram arredados os olímpicos Diogo Costa e Carolina, João, que terminaram em 11.º no Japão.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Francês Alexis Guérin é o vencedor da 87.ª edição",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/frances-alexis-guerin-e-o-vencedor-da-87a-edicao_d1759828",
+      "pubDate": "Sun, 16 Aug 2026 18:54:55 +0100",
+      "description": "O francês Alexis Guérin (Anicolor-Campicarn) confirmou hoje a conquista da Volta a Portugal em bicicleta, ao ser oitavo na 10.ª e última etapa, vencida ao sprint por Rui Oliveira (UAE Emirates) na Avenida dos Aliados, no Porto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/08/085fc03cea1db39e9fdaf1f0aad5a9b0?w=350&amp;q=50&amp;rect=0,210,3557,1950&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Arouca - Moreirense",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-arouca-moreirense_e1759822",
+      "pubDate": "Sun, 16 Aug 2026 18:48:02 +0100",
+      "description": "O Arouca, no grupo dos segundos classificados, com três pontos, defronta o Moreirense, imediatamente a seguir na tabela, com um, no domingo, no Estádio Municipal de Arouca, às 18:00, em jogo arbitrado por André Narciso, da associação de Setúbal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/17/17f46eadc4b28383f28f6d5974ab6816?w=350&amp;q=50&amp;rect=0,74,1421,779&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/01/0154be4293ad1077bb493df7a21d12a6?w=350&amp;q=50&amp;rect=0,87,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "II Liga. Lusitânia de Lourosa vence Amarante com golo solitário de João Santos",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-lusitania-de-lourosa-vence-amarante-com-golo-solitario-de-joao-santos_d1759827",
-      "pubDate": "Sun, 16 Aug 2026 18:36:32 +0100",
-      "description": "O Lusitânia de Lourosa derrotou hoje o Amarante por 1-0, em encontro da segunda jornada na II Liga portuguesa de futebol, com um golo solitário de João Santos a meio da primeira parte.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Natação: Diogo Ribeiro bate recorde nacional nos 50 metros livres",
+      "link": "https://maisfutebol.iol.pt/natacao/diogo-ribeiro/natacao-diogo-ribeiro-bate-recorde-nacional-nos-50-metros-livres",
+      "pubDate": "Sun, 16 Aug 2026 18:09:00 +0100",
+      "description": "Português fica-se pelo sexto lugar na final da prova nos Campeonatos da Europa",
+      "thumbnail": "https://img.iol.pt/image/id/66acbc6dd34e94b82903c41b/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Rui Oliveira vence a última etapa e frances Alexis Guérin é o novo vencedor da Volta a Portugal em Bicicleta",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/rui-oliveira-vence-a-ultima-etapa-e-frances-alexis-guerin-e-o-novo-vencedor-da-volta-a-portugal-em-bicicleta_d1759825",
-      "pubDate": "Sun, 16 Aug 2026 18:26:04 +0100",
-      "description": "O francês Alexis Guérin (Anicolor-Campicarn) confirmou hoje a conquista da Volta a Portugal em bicicleta, ao ser oitavo na 10.ª e última etapa, vencida ao sprint por Rui Oliveira (UAE Emirates) na Avenida dos Aliados, no Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/96/96fafc89e7ba50939d9d372611bcb250?w=350&amp;q=50&amp;rect=0,12,1063,583&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "João Gião: «Avançado? O Pablo está a trabalhar muito bem»",
+      "link": "https://maisfutebol.iol.pt/liga/nacional/joao-giao-avancado-o-pablo-esta-a-trabalhar-muito-bem",
+      "pubDate": "Sun, 16 Aug 2026 18:07:20 +0100",
+      "description": "Treinador do Nacional mostrou-se feliz pela primeira vitória na temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a81edb8d34ed0733ba801f6/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Incêndio em Oliveira de Azeméis próximo de zona industrial",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-incendio-em-oliveira-de-azemeis-proximo-de-zona-industrial_a1_1759824",
-      "pubDate": "Sun, 16 Aug 2026 18:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Mourinho vê Real Madrid vencer na Alemanha no último teste da pré-época",
+      "link": "https://maisfutebol.iol.pt/internacional/real-madrid/video-mourinho-ve-real-madrid-vencer-na-alemanha-no-ultimo-teste-da-pre-epoca",
+      "pubDate": "Sun, 16 Aug 2026 18:03:25 +0100",
+      "description": "Bernardo Silva foi titular e Carreras assistiu para o último golo dos merengues frente ao Schalke 04",
+      "thumbnail": "https://img.iol.pt/image/id/6a81ec6cd34ed0733ba801f2/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios na ilha grega de Salamina provocam dois mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/incendios-na-ilha-grega-de-salamina-provocam-dois-mortos_n1759813",
-      "pubDate": "Sun, 16 Aug 2026 18:03:11 +0100",
-      "description": "Duas pessoas morreram na ilha grega de Salamina, perto de Atenas, onde dois incêndios eclodiram este domingo quase ao mesmo tempo. Centenas de pessoas foram retiradas do local segundo informações dos bombeiros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/da/da9f3c4296d9cdab584ac1a300668045?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Cláudio Braga salta do banco e marca na goleada do Hearts na Taça da Liga Escocesa",
+      "link": "https://maisfutebol.iol.pt/internacional/escocia/claudio-braga-salta-do-banco-e-marca-na-goleada-do-hearts-na-taca-da-liga-escocesa",
+      "pubDate": "Sun, 16 Aug 2026 17:50:00 +0100",
+      "description": "Triunfo por 6-2 diante do Inverness garante apuramento para os quartos de final da competição",
+      "thumbnail": "https://img.iol.pt/image/id/6a81e6cdd34ed0733ba801e8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,49 +147,9 @@
       "color": "#4fc48a",
       "title": "VÍDEO: Yamal marca e assiste na goleada do Barcelona frente ao Basileia",
       "link": "https://maisfutebol.iol.pt/internacional/barcelona/video-yamal-marca-e-assiste-na-goleada-do-barcelona-frente-ao-basileia",
-      "pubDate": "Sun, 16 Aug 2026 17:47:13 +0100",
+      "pubDate": "Sun, 16 Aug 2026 17:47:00 +0100",
       "description": "Reforço Adeyemi e o jovem Bisiwu (com um bis) também marcaram para a formação espanhola",
       "thumbnail": "https://img.iol.pt/image/id/6a81e539d34ed0733ba801e4/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Bica marca e Stefanovic guarda primeira vitória do Leixões",
-      "link": "https://maisfutebol.iol.pt/futebol/ii-liga/ii-liga-bica-marca-e-stefanovic-guarda-primeira-vitoria-do-leixoes",
-      "pubDate": "Sun, 16 Aug 2026 17:35:32 +0100",
-      "description": "Equipa de Matosinhos estreia-se a ganhar no campeonato frente ao Tondela",
-      "thumbnail": "https://img.iol.pt/image/id/6a81e668d34e511da0b33995/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Nacional-Estoril, 2-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/nacional/nacional-estoril-2-0-cronica",
-      "pubDate": "Sun, 16 Aug 2026 17:34:20 +0100",
-      "description": "Sem Chucho Ramírez, foram os centrais a assumir o papel do goleador",
-      "thumbnail": "https://img.iol.pt/image/id/6a81e0eed34e511da0b33981/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Volta a Portugal: Rui Oliveira «sprinta» para a primeira vitória da carreira",
-      "link": "https://maisfutebol.iol.pt/ciclismo/volta-a-portugal/volta-a-portugal-rui-oliveira-sprinta-para-a-primeira-vitoria-da-carreira",
-      "pubDate": "Sun, 16 Aug 2026 17:32:00 +0100",
-      "description": "Alexis Guerin conquista 99.ª edição da prova, com um minuto de vantagem para Artem Nych",
-      "thumbnail": "https://img.iol.pt/image/id/6a81e5e6d34ed0733ba801e6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Borges entra no empate do Feyenoord, Peixoto no triunfo do Twente",
-      "link": "https://maisfutebol.iol.pt/paises-baixos/internacional/video-borges-entra-no-empate-do-feyenoord-peixoto-no-triunfo-do-twente",
-      "pubDate": "Sun, 16 Aug 2026 17:05:00 +0100",
-      "description": "Equipa de Roterdão desperdiça vantagem de dois golos na receção ao Go Ahead Eagles",
-      "thumbnail": "https://img.iol.pt/image/id/6a81de9fd34ed0733ba801c3/250"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ucrânia: Drone que invadiu espaço aéreo da Roménia abatido por caça da NATO",
-      "link": "https://sapo.pt/artigo/ucrania-drone-que-invadiu-espaco-aereo-da-romenia-abatido-por-caca-da-nato-6a8173257b96e18390935936",
-      "pubDate": "Sun, 16 Aug 2026 08:35:05 +0000",
-      "description": "Um drone que entrou no espaço aéreo da Roménia, esta madrugada, foi abatido por um caça espanhol em missão no país membro da NATO, anunciou o Ministro da Defesa romeno",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AQwMxHnSG5ssMflYVzeuRyeZgeFuTHNW3tDe6RMx2iJSEhin55ATw0ZVCc%2FN7ucFKWL7WXQK5VTzttMa4cabWqngmALbYO3tVFQSq9b6PmGrs5J1KVn17g%2FMrIQLunZbz"
+      "title": "Volta a Portugal: Rui Oliveira vence nos Aliados, Guerin é o novo rei",
+      "link": "https://sapo.pt/artigo/volta-rui-oliveira-vence-nos-aliados-guerin-e-o-novo-rei-6a81e910bec1d8607e1dd366",
+      "pubDate": "Sun, 16 Aug 2026 16:47:56 +0000",
+      "description": "Português conquistou a primeira vitória da carreira, na última etapa, no Porto, e o francês garantiu o triunfo na Volta a Portugal",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALrzFCMJZq9AIhzOonWNSjHnd%2BOW4e2Cl%2B5sUnq1uSjX3dC2HDTtImBhxRgoipwjiH%2Forq%2FJPnoG20Mx%2F6jruftNzOBSS2eHXFPQKE5kxrIG2BN6Z08q92V6JEjk%2BmEUi"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Concelhias do PSD defendem criação de Portal de Transparência do Rio Leça",
-      "link": "https://www.noticiasaominuto.com/politica/3037307/concelhias-do-psd-defendem-criacao-de-portal-de-transparencia-do-rio-leca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 17:38:12",
+      "title": "Frota da moçambicana LAM aumenta para 10 aeronaves a partir de amanhã",
+      "link": "https://www.noticiasaominuto.com/economia/3037318/frota-da-mocambicana-lam-aumenta-para-10-aeronaves-a-partir-de-amanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 18:02:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53d0ee1239958.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDM3LCJjcm9wSGVpZ2h0IjoxMTQ2LCJjcm9wWCI6MjAsImNyb3BZIjozNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjkyLCJjcm9wSGVpZ2h0IjoxMjMxLCJjcm9wWCI6NDMyLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41589885.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Homem procurado por Portugal é detido no Luxemburgo",
-      "link": "https://www.noticiasaominuto.com/pais/3037309/homem-procurado-por-portugal-e-detido-no-luxemburgo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 17:37:38",
+      "title": "A mais recente novidade da Google é uma resposta direta à Apple",
+      "link": "https://www.noticiasaominuto.com/tech/3036286/a-mais-recente-novidade-da-google-e-uma-resposta-direta-a-apple#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 18:00:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68397142c739a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e20bb92b1b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDMzLCJjcm9wSGVpZ2h0Ijo4MDYsImNyb3BYIjoxMywiY3JvcFkiOjg4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0OTYsImNyb3BIZWlnaHQiOjg4MiwiY3JvcFgiOjU1MiwiY3JvcFkiOjh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Expulsão abriu caminho à vitória do Nacional ante Estoril",
-      "link": "https://www.noticiasaominuto.com/desporto/3037305/expulsao-abriu-caminho-a-vitoria-do-nacional-ante-estoril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 17:36:05",
+      "title": "Pelo menos dez mortos em despiste de autocarro no Rio de Janeiro",
+      "link": "https://www.noticiasaominuto.com/mundo/3037315/pelo-menos-dez-mortos-em-despiste-de-autocarro-no-rio-de-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 18:00:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47619168.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81eae51ed73.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMxMiwiY3JvcEhlaWdodCI6NTU0LCJjcm9wWCI6NDkxLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Nacional bate Estoril antes do Arouca-Moreirense",
+      "title": "EM DIRETO: Já se joga o Arouca-Moreirense",
       "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 17:30:59",
+      "pubDate": "2026-08-16 17:59:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6783c32a95142.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64d8735f467d3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sporting tem acordo por Moncef Zekri. Eis os valores do negócio",
-      "link": "https://www.noticiasaominuto.com/desporto/3037303/sporting-tem-acordo-por-moncef-zekri-eis-os-valores-do-negocio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 17:23:56",
+      "title": "Alexis Guérin é o vencedor da 87.ª edição da Volta a Portugal",
+      "link": "https://www.noticiasaominuto.com/desporto/3037313/alexis-guerin-e-o-vencedor-da-87-edicao-da-volta-a-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 17:52:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81df728aa20.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47619486.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Novas regras da UE tornam mais caro às pequenas lojas vender para outros países",
+      "link": "https://pplware.sapo.pt/informacao/novas-regras-da-ue-tornam-mais-caro-as-pequenas-lojas-vender-para-outros-paises/",
+      "pubDate": "Sun, 16 Aug 2026 17:00:55 +0000",
+      "description": "Comprar numa pequena loja online de outro país europeu pode tornar-se mais difícil e até mais caro. As novas regras da União Europeia para as embalagens querem reduzir resíduos e aumentar a reciclagem, mas&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ppwr_04.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 16 Aug 2026 13:00:23 +0000",
       "description": "O nosso planeta está a começar a parecer pequeno para a febre da Inteligência Artificial (IA), com gigantes como a SpaceX, Blue Origin e Google a quererem tirar os centros de dados daqui e&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/centro-de-dados-espaco.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Passe Ferroviário Verde chega em setembro: eis tudo o que precisa de saber!",
-      "link": "https://pplware.sapo.pt/motores/passe-ferroviario-verde-chega-em-setembro-eis-tudo-o-que-precisa-de-saber/",
-      "pubDate": "Sun, 16 Aug 2026 12:00:31 +0000",
-      "description": "A partir do início de setembro, quem vive e trabalha nas áreas metropolitanas de Lisboa e do Porto vai poder andar de comboio dentro da cidade pagando os mesmos 20 euros por mês que&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/cp-comboio-portugal-1.jpg"
     },
     {
       "sourceId": "autosport",
