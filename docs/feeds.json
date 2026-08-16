@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-16T09:25:11.171904+00:00",
+  "updated": "2026-08-16T09:51:01.338160+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Disneyland Paris terá atração aquática de \"O Rei Leão\"",
+      "link": "https://observador.pt/2026/08/16/disneyland-paris-tera-atracao-aquatica-dedicada-ao-filme-de-1994-o-rei-leao/",
+      "pubDate": "Sun, 16 Aug 2026 10:30:47 +0100",
+      "description": "A viagem de barco terá três grandes descidas, a maior das quais de cerca de 16 metros, e incluirá figuras de animação robóticas e as músicas mais conhecidas do filme de 1994.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16091059/32658228.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Coimbra. 21 infratores por depósito indevido de lixo",
+      "link": "https://observador.pt/2026/08/16/camara-de-coimbra-identifica-21-infratores-por-deposito-indevido-de-residuos-urbanos/",
+      "pubDate": "Sun, 16 Aug 2026 10:23:29 +0100",
+      "description": "De acordo com a Câmara Municipal, que realizou operações de fiscalização, os infratores identificados serão alvo de processos de contraordenação, puníveis com coimas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1163:656:nowe:229:729/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/19161622/6193036.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -30,26 +50,6 @@
       "pubDate": "Sun, 16 Aug 2026 10:04:08 +0100",
       "description": "São locais com história em Portugal que oferecem mais do que uma cama confortável. Espaços recuperados que mantêm vivas algumas tradições e que propõe experiências pouco habituais.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1078:nowe:0:2/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/03175700/hotel-palacio-estoril.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "“Estamos com a água no pescoço e a achar que é a maré cheia\"",
-      "link": "https://observador.pt/programas/em-40-minutos/ivo-canelas-estamos-com-a-agua-no-pescoco-e-a-achar-que-e-a-mare-cheia/",
-      "pubDate": "Sun, 16 Aug 2026 10:03:54 +0100",
-      "description": "Ivo Canelas conta porque prefere o cinema e a televisão ao teatro, e como se constrói uma personagem. Foi durante um trabalho de pesquisa que descobriu uma paixão: o mergulho.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/07104555/770-podcast-em-40-minutos-ivo-canelas.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "20 réplicas do sismo sentidas esta madrugada em Granada",
-      "link": "https://observador.pt/2026/08/16/cerca-de-20-replicas-do-sismo-de-sabado-sentidas-este-domingo-de-madrugada-em-granada/",
-      "pubDate": "Sun, 16 Aug 2026 10:03:45 +0100",
-      "description": "Os sismos desta madrugada concentraram-se no sul da área metropolitana, tiveram entre 1,5 e 3,1 de magnitude e epicentro a pouca profundidade. Não há registo de vítimas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1377:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16092838/47613535.jpg"
     },
     {
       "sourceId": "rtp",
@@ -185,21 +185,31 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão. Teerão diz ter acordado com Omã rota segura de navegação por Ormuz",
-      "link": "https://sapo.pt/artigo/irao-teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz-6a80b00833cbe64db3e6d213",
-      "pubDate": "Sat, 15 Aug 2026 19:42:36 +0000",
-      "description": "Regime iraniano não forneceu pormenores sobre a rota acordada, indicando que prosseguem os contactos entre os dois países para encerrar questões pendentes.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AAMTokqDp5yadM6aqeR1fx4A1Yi9Uex985Ihroeg%2Buuft9p0bDr0ZmT%2B5TBR59cNTeK3oITFedRXp8C2E5mERXukhBNZdS%2FYxhLqdI1BICZBvnZAVIbfhqh2cb%2B3qPGLR"
+      "title": "BCE apresenta propostas para notas de euro. Não se esqueça de votar",
+      "link": "https://eco.sapo.pt/2026/08/16/bce-apresenta-propostas-para-notas-de-euro-nao-se-esqueca-de-votar/",
+      "pubDate": "Sun, 16 Aug 2026 09:35:30 +0000",
+      "description": "A instituição sediada em Frankfurt vai dar a conhecer as dez propostas das novas notas de euro, inspiradas nos temas “Cultura europeia” e “Rios e aves”. A escolha final caberá aos cidadãos europeus.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALc0txb%2BHzGyfj9VGRyRjXaZtR8Gh2KPPUegJ4ID9a6VBHNrH7MqYzyo3qvmkWNA9VcPAAUe0qwP4czva90G7TkgLB8fpdMIF2KSQlEnUhIYOaFK0JR6mp642idhpSZQ5"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos ordena a retirada de jornalistas espanhóis da RTVE e da Efe da zona de fronteira em Ceuta",
-      "link": "https://sapo.pt/artigo/marrocos-ordena-a-retirada-de-jornalistas-espanhois-da-rtve-e-da-efe-da-zona-de-fronteira-em-ceuta-6a80c53dc50b1ad904b7bf6a",
-      "pubDate": "Sat, 15 Aug 2026 22:32:31 +0000",
-      "description": "Os média espanhóis RTVE e Efe defenderam o direito à liberdade de informação, depois de Marrocos ter obrigado os seus jornalistas a abandonar a cidade de Castillejos. E batata quente passa para o Governo",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AaXAZ%2F3Ujv7wACQJC568xQmixvfhiUm3smew4P%2FG%2FAUJYbrudeCWcBjlCe6Qx3tGyhCETWHpqkskoSTn605mg%2FEQj1f4yzViRWWXJQHl89Guak9zkLI6rd2VE7jsHt94y"
+      "title": "Incêndio de Vinhais dominado, Chaves e Torre de Moncorvo mobilizam centenas de bombeiros",
+      "link": "https://sapo.pt/artigo/incendio-de-vinhais-dominado-chaves-e-torre-de-moncorvo-mobilizam-centenas-de-bombeiros-6a81849bc50b1ad904d3c26b",
+      "pubDate": "Sun, 16 Aug 2026 09:37:18 +0000",
+      "description": "A região Norte continua a ser a mais afetada pelos incêndios florestais.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACyf%2Foarsf7kudfRSE8yC%2FZ27mTBQ8sSlJaBujHWXglslQHDPeWjkC2ukr%2BLzm%2FacLSZythCk%2FetPQOmSpYIz%2BWNJYFo4CrAxzazqqXcIYsTs1sfxPKOFYfL%2FG9MSYJtV"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Tragédia na Volta a Portugal: \"Esperemos que não torne a suceder\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037230/tragedia-na-volta-a-portugal-esperemos-que-nao-torne-a-suceder#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 10:32:40",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64ef2d44aabe0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzYzLCJjcm9wSGVpZ2h0Ijo3NjYsImNyb3BYIjozODcsImNyb3BZIjozMDF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjgwMSwiY3JvcFkiOjIyNn19"
     },
     {
       "sourceId": "nam",
@@ -240,16 +250,6 @@
       "pubDate": "2026-08-16 09:37:13",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a817573b4b32.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MDAsImNyb3BIZWlnaHQiOjM5NCwiY3JvcFgiOjE2LCJjcm9wWSI6NTc3fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Cerca de 20 réplicas do sismo de sábado sentidas de madrugada em Granada",
-      "link": "https://www.noticiasaominuto.com/mundo/3037224/cerca-de-20-replicas-do-sismo-de-sabado-sentidas-de-madrugada-em-granada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 09:36:41",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47613535.webp"
     },
     {
       "sourceId": "pplware",
