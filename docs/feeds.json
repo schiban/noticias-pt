@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:42:58.129462+00:00",
+  "updated": "2026-08-16T20:16:28.248809+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "Levante, de Luís Castro, perde com Espanyol na estreia na La Liga",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/levante-de-luis-castro-perde-com-espanyol-na-estreia-na-la-liga_d1759856",
+      "pubDate": "Sun, 16 Aug 2026 21:50:59 +0100",
+      "description": "O Levante, treinado pelo português Luís Castro, perdeu hoje fora com o Espanyol por 3-0, na primeira jornada da Liga espanhola de futebol, com o avançado Roberto Fernández, ex-Sporting de Braga, a &#039;bisar&#039; para os catalães.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "Ceuta. Migrantes protestam e reclamam asilo",
       "link": "https://www.rtp.pt/noticias/mundo/ceuta-migrantes-protestam-e-reclamam-asilo_v1759855",
       "pubDate": "Sun, 16 Aug 2026 21:33:47 +0100",
@@ -92,14 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/ec/ec9523214f574ba704e4f36c05b6daef_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pichardo sente a idade mas já tem agenda até Los Angeles2028",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/pichardo-sente-a-idade-mas-ja-tem-agenda-ate-los-angeles2028_d1759850",
-      "pubDate": "Sun, 16 Aug 2026 21:23:18 +0100",
-      "description": "Pedro Pichardo foi hoje o segundo português a subir ao pódio nos Europeus de atletismo Birmingham2026, para receber a medalha de prata do triplo salto, um dia depois das dores na final, que não mudam os planos até Los Angeles2028.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/04892f60a1921ee098c270a763b4eb4f?w=350&amp;q=50&amp;rect=0,47,1024,561&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Botelho da Costa: «O treinador do Arouca foi melhor»",
+      "link": "https://maisfutebol.iol.pt/resultados/resultados-hoje/vasco-botelho-da-costa-o-treinador-do-arouca-foi-melhor",
+      "pubDate": "Sun, 16 Aug 2026 21:13:39 +0100",
+      "description": "Arouca-Moreirense, 4-0 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a820af1d34e511da0b339e3/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Seabra: «Tenho jogadores com carácter muito grande»",
+      "link": "https://maisfutebol.iol.pt/primeira-liga/arouca/vasco-seabra-tenho-jogadores-com-caracter-muito-grande",
+      "pubDate": "Sun, 16 Aug 2026 21:10:35 +0100",
+      "description": "Arouca-Moreirense, 4-0 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a820b79d34ed0733ba80239/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: André Horta é reforço do Al Ula de José Peseiro",
+      "link": "https://maisfutebol.iol.pt/arabia-saudita/andre-horta/oficial-andre-horta-e-reforco-do-al-ula-de-jose-peseiro",
+      "pubDate": "Sun, 16 Aug 2026 20:58:19 +0100",
+      "description": "Médio português muda-se para o conjunto que atua no segundo escalão do futebol saudita",
+      "thumbnail": "https://img.iol.pt/image/id/6a821658d34ed0733ba8024e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 20:07:00 +0100",
       "description": "Técnico da equipa principal marca presença no Olival e azuis e brancos sofrem desaire na II Liga (3-1)",
       "thumbnail": "https://img.iol.pt/image/id/6a8207a6d34ed0733ba80226/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Arouca-Moreirense, 4-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/primeira-liga/arouca/arouca-moreirense-4-0-cronica",
-      "pubDate": "Sun, 16 Aug 2026 20:03:00 +0100",
-      "description": "Como é boa a vida em Arouca",
-      "thumbnail": "https://img.iol.pt/image/id/6a81f75cd34ed0733ba80208/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Angola: Petro de Luanda conquista Supertaça com golo de Ivan Cavaleiro",
-      "link": "https://maisfutebol.iol.pt/angola/supertaca-angola/angola-petro-de-luanda-conquista-supertaca-com-golo-de-ivan-cavaleiro",
-      "pubDate": "Sun, 16 Aug 2026 19:47:30 +0100",
-      "description": "Conjunto de João Pedro Sousa derrota Wiliete por 1-0",
-      "thumbnail": "https://img.iol.pt/image/id/6431c89a0cf2cf9225018759/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atenção, Sp. Braga: Áustria Viena vence antes da deslocação à Pedreira",
-      "link": "https://maisfutebol.iol.pt/internacional/sp-braga/atencao-sp-braga-austria-viena-vence-antes-da-deslocacao-a-pedreira",
-      "pubDate": "Sun, 16 Aug 2026 19:31:56 +0100",
-      "description": "Próximo adversário dos minhotos venceram o Hartberg por 2-0",
-      "thumbnail": "https://img.iol.pt/image/id/6a8201f4d34e511da0b339cd/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carneiro quer rentrée como \"demonstração da força de uma alternativa\"",
-      "link": "https://www.noticiasaominuto.com/politica/3037351/carneiro-quer-rentree-como-demonstracao-da-forcade-uma-alternativa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 20:35:20",
+      "title": "Marrocos detém quase 300 migrantes que tentavam chegar a Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3037360/marrocos-detem-quase-300-migrantes-que-tentavam-chegar-a-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:07:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68796ea8081a0.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614967.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sudão: Líder militar e do Governo reúne-se com delegação da União Africana",
-      "link": "https://www.noticiasaominuto.com/mundo/3037349/sudao-lider-militar-e-do-governo-reune-se-com-delegacao-da-uniao-africana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 20:26:18",
+      "title": "Nininho: O dia em que o baterista desmaiou e cantor foi para hospital",
+      "link": "https://www.noticiasaominuto.com/fama/3037277/nininho-o-dia-em-que-o-baterista-desmaiou-e-cantor-foi-para-hospital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:07:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57bfd82b7df5e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNDY1LCJjcm9wSGVpZ2h0IjoxOTQ5LCJjcm9wWCI6MjAsImNyb3BZIjo3NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6821f3af69a19.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo em Torre de Moncorvo tem novamente uma frente de fogo ativa",
-      "link": "https://www.noticiasaominuto.com/pais/3037346/fogo-em-torre-de-moncorvo-tem-novamente-uma-frente-de-fogo-ativa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 20:09:18",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3037247/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:02:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47544429.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5d6433789c5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sobrevivente de acidente na Hungria revela: \"Aconteceu em segundos\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3037339/sobrevivente-de-acidente-na-hungria-revela-aconteceu-em-segundos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 20:07:12",
+      "title": "Quer aumentar o desejo sexual da sua parceira? Estudo revela dica \"óbvia\"",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3036687/quer-aumentar-o-desejo-sexual-da-sua-parceira-estudo-revela-dica-obvia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:00:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8206a755579.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_680a75c5d9837.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU2LCJjcm9wSGVpZ2h0IjoxNDM4LCJjcm9wWCI6NSwiY3JvcFkiOjY0fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Arouca goleia Moreirense e agarra FC Porto no topo da tabela",
-      "link": "https://www.noticiasaominuto.com/desporto/3037342/arouca-goleia-moreirense-e-agarra-fc-porto-no-topo-da-tabela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 20:03:39",
+      "title": "Levante, de Luís Castro, perde com Espanyol na estreia na La Liga",
+      "link": "https://www.noticiasaominuto.com/desporto/3037357/levante-de-luis-castro-perde-com-espanyol-na-estreia-na-la-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 20:58:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47619887.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDcsImNyb3BZIjoyMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a82160c15a05.webp"
     },
     {
       "sourceId": "pplware",
@@ -257,7 +257,7 @@
       "color": "#5bc4d4",
       "title": "Estamos mesmo em 2026 ou em 1729? A polémica teoria dos 297 anos inventados",
       "link": "https://pplware.sapo.pt/ciencia/estamos-mesmo-em-2026-ou-em-1729-a-polemica-teoria-dos-297-anos-inventados/",
-      "pubDate": "Sun, 16 Aug 2026 19:30:11 +0000",
+      "pubDate": "Sun, 16 Aug 2026 20:00:11 +0000",
       "description": "E se o calendário que usamos estiver errado? Não por alguns dias ou meses, mas por quase três séculos. Segundo uma das teorias históricas mais curiosas das últimas décadas, 297 anos da história europeia&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/297anos_apagados00.webp"
     },
