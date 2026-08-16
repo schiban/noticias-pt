@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T13:27:10.618889+00:00",
+  "updated": "2026-08-16T13:53:00.484620+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Cartago quis o Mediterrâneo, mas \"fez de Roma um império\"",
+      "link": "https://observador.pt/especiais/cartago-a-cidade-que-quis-conquistar-o-mediterraneo-mas-que-fez-de-roma-um-imperio/",
+      "pubDate": "Sun, 16 Aug 2026 14:27:20 +0100",
+      "description": "O mais recente livro de Eve MacDonald destaca a importância da Península Ibérica na história de Cartago, na luta contra os romanos e no destino dos dois impérios. Falámos com a investigadora.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1871:1053:nowe:0:45/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29161627/anibal-cartago.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -29,7 +39,7 @@
       "link": "https://observador.pt/2026/08/16/no-futuro-vamos-fazer-uma-grande-festa-bastidores-da-boda-de-cris-e-gio-e-bencao-em-fatima-fotografados-por-juergen-teller-para-a-vogue/",
       "pubDate": "Sun, 16 Aug 2026 14:01:06 +0100",
       "description": "Num exclusivo, a Vogue avança os looks Gucci dos noivos, a sessão de ginástica de Cristiano e Georgina na manhã do dia em que se casaram \"na sua sala de estar\" e a bênção em Fátima.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1288:725:nowe:0:57/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/10/23192751/865473570.jpg"
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1356:760:nowe:0:5/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16144401/captura-de-ecra-2026-08-16-as-144237.jpg"
     },
     {
       "sourceId": "observador",
@@ -40,16 +50,6 @@
       "pubDate": "Sun, 16 Aug 2026 13:10:54 +0100",
       "description": "Leão XIV pediu \"urgentemente\" à comunidade internacional \"que garanta o avanço no sentido da solução de dois Estados para uma paz justa e duradoura\" na Palestina.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16122626/47618497.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h. Hamas reafirma o compromisso com o plano de Trump",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2417/",
-      "pubDate": "Sun, 16 Aug 2026 13:09:36 +0100",
-      "description": "O plano dos Estados Unidos inclui 15 pontos e foi recentemente rejeitado por Israel. Ainda, há três incêndios a esta hora no distrito de Vila Real: um em Chaves e dois em Boticas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Jovem de 25 anos morre após ser esfaqueado no Cais do Sodré",
+      "link": "https://www.noticiasaominuto.com/pais/3037276/jovem-de-25-anos-morre-apos-ser-esfaqueado-no-cais-do-sodre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 14:49:37",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Pais de Finlay Tarling quebram silêncio após morte do filho na Volta",
+      "link": "https://www.noticiasaominuto.com/desporto/3037274/pais-de-finlay-tarling-quebram-silencio-apos-morte-do-filho-na-volta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 14:35:08",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81bd811ab7d.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Cristiano Ronaldo aponta data para terminar carreira: \"Provavelmente...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3037272/cristiano-ronaldo-aponta-data-para-terminar-carreira-provavelmente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 14:29:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81bae463cdd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOSwiY3JvcEhlaWdodCI6MTY1MiwiY3JvcFgiOjEwNjIsImNyb3BZIjozMH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Casamento de Ronaldo e Georgina foi em casa. Casal revela os detalhes",
       "link": "https://www.noticiasaominuto.com/fama/3037271/casamento-de-ronaldo-e-georgina-foi-em-casa-casal-revela-os-detalhes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 14:22:18",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-16 13:55:44",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a9bd28d88.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Quatro obras de Messina roubadas de museu em Itália: \"Gravíssimo\"",
-      "link": "https://www.noticiasaominuto.com/cultura/3037258/quatro-obras-de-messina-roubadas-de-museu-em-italia-gravissimo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 13:55:16",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a419883e3.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Ceuta e Melilla sem incidentes após incitações para nova entrada em massa",
-      "link": "https://www.noticiasaominuto.com/mundo/3037268/ceuta-e-melilla-sem-incidentes-apos-incitacoes-para-nova-entrada-em-massa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 13:44:05",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81b0b0d6cad.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Ataques desativaram os maiores centros de distribuição da Wildberries",
-      "link": "https://www.noticiasaominuto.com/mundo/3037265/ataques-desativaram-os-maiores-centros-de-distribuicao-da-wildberries#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 13:24:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81abedb16e2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM1NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
