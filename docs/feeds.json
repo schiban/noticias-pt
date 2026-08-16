@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T13:53:00.484620+00:00",
+  "updated": "2026-08-16T14:17:53.872469+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 15h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2427/",
+      "pubDate": "Sun, 16 Aug 2026 15:14:11 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -25,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 14h",
+      "title": "14h. Incêndios. Três ocorrências preocupam as autoridades",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2446/",
       "pubDate": "Sun, 16 Aug 2026 14:16:51 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Incêndio em Chaves é o mais significativo, com duas frentes ativas e quase 150 operacionais no terreno. Ainda, PS realiza hoje a reentré em Olhão com foco principal no custo de vida.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1356:760:nowe:0:5/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16144401/captura-de-ecra-2026-08-16-as-144237.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Papa pede fim da violência contra civis na Cisjordânia",
-      "link": "https://observador.pt/2026/08/16/papa-pede-fim-da-violencia-contra-civis-na-cisjordania/",
-      "pubDate": "Sun, 16 Aug 2026 13:10:54 +0100",
-      "description": "Leão XIV pediu \"urgentemente\" à comunidade internacional \"que garanta o avanço no sentido da solução de dois Estados para uma paz justa e duradoura\" na Palestina.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16122626/47618497.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "15h Cristiano Ronaldo deverá terminar carreira no final da próxima época",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-cristiano-ronaldo-devera-terminar-carreira-no-final-da-proxima-epoca_a1_1759807",
+      "pubDate": "Sun, 16 Aug 2026 16:13:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ronaldo admite que a próxima época `poderá` ser a última como jogador",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/ronaldo-admite-que-a-proxima-temporada-podera-ser-a-sua-ultima-epoca-como-jogador_d1759806",
+      "pubDate": "Sun, 16 Aug 2026 16:11:42 +0100",
+      "description": "Depois do último mundial muito se tem falado sobre quanto tempo mais Cristiano Ronaldo vai continuar a jogar. Este domingo esse assunto foi abordado pelo próprio, em entrevista a revista norte americana Vogue, afirmando o craque português que a temporada 2026/27 &#039;poderá&#039; ser a sua última é",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/27ff4351b61d47cefa0b9c7f92c052e5?w=350&amp;q=50&amp;rect=0,22,4816,2640&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "\"Lições do fogo\". Documentário mostra Portugal e Finlândia juntos no combate às chamas",
-      "link": "https://www.rtp.pt/noticias/cultura/licoes-do-fogo-documentario-mostra-portugal-e-finlandia-juntos-no-combate-as-chamas_v1759801",
-      "pubDate": "Sun, 16 Aug 2026 15:11:47 +0100",
-      "description": "O documentário &quot;Lições do Fogo&quot; (&quot;Lessons in Fire&quot;) é emitido este domingo na RTP Notícias às 22h50. Mostra a cooperação entre Portugal e a Finlândia no combate aos incêndios do verão de 2023-2024.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7b/7b3932f93ccd5f39758e3fc8afd32e35_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Manada de vacas ajuda na prevenção de incêndios na Serra da Estrela com pastor virtual",
-      "link": "https://www.rtp.pt/noticias/pais/manada-de-vacas-ajuda-na-prevencao-de-incendios-na-serra-da-estrela-com-pastor-virtual_v1759800",
-      "pubDate": "Sun, 16 Aug 2026 15:09:47 +0100",
-      "description": "Uma manada de vacas nativas do Gerês está na região da Serra da Estrela a ajudar na prevenção de incêndios florestais. Estão em treino em Gouveia e são controladas por um pastor virtual.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ec/ecbd720d4ccce15893fd549ca668f6bf_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Cristiano Ronaldo: «Este é, provavelmente, o meu último ano no futebol»",
+      "link": "https://maisfutebol.iol.pt/internacional/cristiano-ronaldo/cristiano-ronaldo-este-e-provavelmente-o-meu-ultimo-ano-no-futebol",
+      "pubDate": "Sun, 16 Aug 2026 14:53:01 +0100",
+      "description": "Internacional português assegura que tem o seu futuro «completamente planeado»",
+      "thumbnail": "https://img.iol.pt/image/id/6a7dffb2d34ed0733ba7fbeb/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,7 +117,7 @@
       "color": "#4fc48a",
       "title": "Marco Silva: «Kaminski tem de ganhar a posição ao Prestianni e ao Andreas»",
       "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-kaminski-tem-de-ganhar-a-posicao-ao-prestianni-e-ao-andreas",
-      "pubDate": "Sun, 16 Aug 2026 14:16:08 +0100",
+      "pubDate": "Sun, 16 Aug 2026 14:16:00 +0100",
       "description": "Treinador do Benfica valoriza a competitividade no seio do plantel",
       "thumbnail": "https://img.iol.pt/image/id/6a566105d34ef04b4f3f6804/250"
     },
@@ -117,7 +127,7 @@
       "color": "#4fc48a",
       "title": "Marco Silva espera por reforços: «Há algumas posições urgentes»",
       "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-espera-por-reforcos-ha-algumas-posicoes-urgentes",
-      "pubDate": "Sun, 16 Aug 2026 14:10:43 +0100",
+      "pubDate": "Sun, 16 Aug 2026 14:10:00 +0100",
       "description": "Treinador do Benfica aborda ainda a importância do aspeto comunicacional no seu trabalho",
       "thumbnail": "https://img.iol.pt/image/id/6a79be51d34ed0733ba7f182/250"
     },
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 14:00:00 +0100",
       "description": "Médio ex-Gil Vicente saltou do banco na segunda parte para resolver um jogo com uma expulsão direta e um penálti defendido",
       "thumbnail": "https://img.iol.pt/image/id/6a81ae1ad34e511da0b3391e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Dedic está fora do jogo, era um jogador que não queríamos perder»",
-      "link": "https://maisfutebol.iol.pt/benfica/amar-dedic/dedic-esta-fora-do-jogo-era-um-jogador-que-nao-queriamos-perder",
-      "pubDate": "Sun, 16 Aug 2026 13:41:01 +0100",
-      "description": "Marco Silva confirma que a saída do bósnio para o Newcastle está iminente",
-      "thumbnail": "https://img.iol.pt/image/id/6a63a567d34e511da0b2f9b0/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jovem de 25 anos morre após ser esfaqueado no Cais do Sodré",
-      "link": "https://www.noticiasaominuto.com/pais/3037276/jovem-de-25-anos-morre-apos-ser-esfaqueado-no-cais-do-sodre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 14:49:37",
+      "title": "Número de mortos no naufrágio no Zimbabué subiu para 80",
+      "link": "https://www.noticiasaominuto.com/mundo/3037275/numero-de-mortos-no-naufragio-no-zimbabue-subiu-para-80#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:11:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c52d39e2a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjk5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODQsImNyb3BIZWlnaHQiOjY4MywiY3JvcFgiOjI0OCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pais de Finlay Tarling quebram silêncio após morte do filho na Volta",
-      "link": "https://www.noticiasaominuto.com/desporto/3037274/pais-de-finlay-tarling-quebram-silencio-apos-morte-do-filho-na-volta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 14:35:08",
+      "title": "\"As fragilidades do Benfica são poucas. Pode haver ainda mais pressão...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3037278/as-fragilidades-do-benfica-sao-poucas-pode-haver-ainda-mais-pressao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:09:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81bd811ab7d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69fe76ba8e1.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cristiano Ronaldo aponta data para terminar carreira: \"Provavelmente...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3037272/cristiano-ronaldo-aponta-data-para-terminar-carreira-provavelmente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 14:29:09",
+      "title": "EM DIRETO: Já há onzes para o Nacional-Estoril",
+      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:03:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81bae463cdd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOSwiY3JvcEhlaWdodCI6MTY1MiwiY3JvcFgiOjEwNjIsImNyb3BZIjozMH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6783c32a95142.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Casamento de Ronaldo e Georgina foi em casa. Casal revela os detalhes",
-      "link": "https://www.noticiasaominuto.com/fama/3037271/casamento-de-ronaldo-e-georgina-foi-em-casa-casal-revela-os-detalhes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 14:22:18",
+      "title": "\"EA Sports FC\" (o antigo \"FIFA\") pode ter em breve um novo rival",
+      "link": "https://www.noticiasaominuto.com/tech/3036294/ea-sports-fc-o-antigo-fifa-pode-ter-em-breve-um-novo-rival#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:03:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81b805de46f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQyLCJjcm9wSGVpZ2h0IjoxMzc0LCJjcm9wWCI6NzksImNyb3BZIjoxMjEwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64a0b3f7a3cfd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzQ5LCJjcm9wSGVpZ2h0Ijo3NTksImNyb3BYIjo5LCJjcm9wWSI6OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTAzLCJjcm9wSGVpZ2h0Ijo4OTQsImNyb3BYIjo4MDksImNyb3BZIjo3fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Da saída de Dedic ao histórico com o Casa Pia. O que disse Marco Silva",
-      "link": "https://www.noticiasaominuto.com/desporto/3037263/em-direto-siga-a-antevisao-de-marco-silva-ao-casa-pia-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 13:55:44",
+      "title": "Há um truque para limpar os estores num instante (com um item de cozinha)",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3034586/ha-um-truque-para-limpar-os-estores-num-instante-com-um-item-de-cozinha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:00:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81a9bd28d88.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a79d1782c336.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pplware Classics…",
+      "link": "https://pplware.sapo.pt/multimedia-2/musica/pplware-classics-763/",
+      "pubDate": "Sun, 16 Aug 2026 14:00:37 +0000",
+      "description": "Porque recordar é viver, o Pplware traz aos seus leitores a sua habitual rubrica semanal de música. Apresentamos as músicas que marcaram a nossa juventude ou o nosso passado recente e que ainda ouvimos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Elastica.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 16 Aug 2026 10:00:40 +0000",
       "description": "Uma nova queixa judicial associa a ferramenta de inteligência artificial (IA) Grok, desenvolvida pela xAI de Elon Musk, à criação de milhares de imagens explícitas de uma menor de idade. O impacto da IA&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/grok.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Cuidado com a atualização do Chrome. Pode estar prestes a instalar malware",
-      "link": "https://pplware.sapo.pt/internet/seguranca/cuidado-com-a-atualizacao-do-chrome-pode-estar-prestes-a-instalar-malware/",
-      "pubDate": "Sun, 16 Aug 2026 09:00:32 +0000",
-      "description": "Manter o browser atualizado é uma preocupação que se deve ter constantemente. Por norma estes tratam deste processo sozinhos, mas há ataques que tentam explorar este vetor. O mais recente afeta o Chrome e&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/04/openai_chrome_2.jpg"
     },
     {
       "sourceId": "autosport",
