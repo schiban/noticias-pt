@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T06:33:18.704622+00:00",
+  "updated": "2026-08-16T07:27:09.872493+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2489/",
+      "pubDate": "Sun, 16 Aug 2026 08:12:51 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pós-PRR, vamos andar de cheque em cheque? - Ouvintes",
-      "link": "https://observador.pt/programas/fora-do-baralho/pos-prr-vamos-andar-de-cheque-em-cheque-ouvintes/",
-      "pubDate": "Sun, 16 Aug 2026 06:02:15 +0100",
-      "description": "No Fora do Baralho especial ouvintes, Nuno Garoupa responde a perguntas sobre o Plano de Recuperação e Resiliência (PRR), os erros cometidos e o que se espera quando terminar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Todos os distritos de Portugal continental sob aviso amarelo devido a calor e trovoada",
+      "link": "https://www.rtp.pt/noticias/pais/todos-os-distritos-de-portugal-continental-sob-aviso-amarelo-devido-a-calor-e-trovoada_n1759748",
+      "pubDate": "Sun, 16 Aug 2026 09:22:16 +0100",
+      "description": "Todos os distritos de Portugal continental estão este domingo sob aviso amarelo devido à previsão de temperaturas elevadas, mas também de trovoada, que pode ser acompanhada de aguaceiros fortes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e17e80d98842f7acccf4dab204484ee?w=350&amp;q=50&amp;rect=0,76,5333,2924&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndios em Torre de Moncorvo e Chaves mobilizam centenas de operacionais",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-torre-de-moncorvo-e-chaves-mobilizam-centenas-de-operacionais_n1759762",
+      "pubDate": "Sun, 16 Aug 2026 09:09:10 +0100",
+      "description": "Ao início da manhã deste domingo registavam-se vários incêndios em Portugal. Em Torre de Moncorvo o fogo era, pelas 8h00, combatido por 237 operacionais e 77 meios terrestres.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7e0b579421114a7d866e7a670789cc6?w=350&amp;q=50&amp;rect=0,109,2048,1123&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "7h Incêndio em Chaves com 2 frentes ativas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-em-chaves-com-2-frentes-ativas_a1_1759761",
+      "pubDate": "Sun, 16 Aug 2026 08:56:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Do espaço à Defesa. Laboratório IST NanoSatLab pode e quer ajudar Portugal",
+      "link": "https://www.rtp.pt/noticias/pais/do-espaco-a-defesa-laboratorio-ist-nanosatlab-pode-e-quer-ajudar-portugal_es1759737",
+      "pubDate": "Sun, 16 Aug 2026 08:54:37 +0100",
+      "description": "O espaço deixou de ser apenas um domínio de investigação científica e de exploração tecnológica para assumir um papel central na segurança e defesa das nações. Num contexto internacional marcado por vários cenários de conflito, pela crescente disputa pelas órbitas terrestres e pela dependência dos s",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/89cf8e3c6b66b9da5707d2684ca21c49?w=350&amp;q=50&amp;rect=0,65,1140,507&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -58,46 +98,6 @@
       "title": "6h Quase 160 operacionais combatem incêndio em Chaves",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-quase-160-operacionais-combatem-incendio-em-chaves_a1_1759760",
       "pubDate": "Sun, 16 Aug 2026 07:39:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h Fogo já praticamente controlado em Torre de Moncorvo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-fogo-ja-praticamente-controlado-em-torre-de-moncorvo_a1_1759757",
-      "pubDate": "Sun, 16 Aug 2026 07:12:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h Incêndio em Chaves não dá tréguas aos bombeiros",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-incendio-em-chaves-nao-da-treguas-aos-bombeiros_a1_1759755",
-      "pubDate": "Sun, 16 Aug 2026 06:34:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Braga-Gil Vicente adiado devido a gastroenterite no plantel bracarense",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-braga-gil-vicente-adiado-devido-a-gastroenterite-no-plantel-bracarense_a1_1759750",
-      "pubDate": "Sun, 16 Aug 2026 05:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Incêndios em Torre de Moncorvo e Chaves preocupam esta madrugada",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-incendios-em-torre-de-moncorvo-e-chaves-preocupam-esta-madrugada_a1_1759744",
-      "pubDate": "Sun, 16 Aug 2026 03:31:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Acidente com autocarro na Hungria faz 12 mortos e 10 feridos",
-      "link": "https://www.noticiasaominuto.com/pais/3037199/acidente-com-autocarro-na-hungria-faz-12-mortos-e-10-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 07:19:00",
+      "title": "Brasileiro viaja pelas estradas de 30 países africanos. Eis como correu",
+      "link": "https://www.noticiasaominuto.com/mundo/3037205/brasileiro-viaja-pelas-estradas-de-30-paises-africanos-eis-como-correu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:17:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8157398f28d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47568102.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "'Lei Farioli' chegou e sobrou para FC Porto confirmar déjà vu do campeão",
-      "link": "https://www.noticiasaominuto.com/desporto/3037157/lei-farioli-chegou-e-sobrou-para-fc-porto-confirmar-deja-vu-do-campeao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 07:00:00",
+      "title": "Jogo entre Sporting Clube de Braga e Gil Vicente adiado",
+      "link": "https://www.noticiasaominuto.com/desporto/3037204/jogo-entre-sporting-clube-de-braga-e-gil-vicente-adiado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:06:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80ec38821cf.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImRlc3BvcnRvIiwibGFiZWwiOiJub3Rhc19kb19qb2dvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1sZWZ0In19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69ac985c4060c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Combate a incêndio a \"evoluir favoravelmente\" em Torre de Moncorvo",
-      "link": "https://www.noticiasaominuto.com/pais/3037195/combate-a-incendio-a-evoluir-favoravelmente-em-torre-de-moncorvo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 06:51:25",
+      "title": "Fomos conduzir a primeira berlina elétrica da BMW",
+      "link": "https://www.noticiasaominuto.com/auto/3027799/fomos-conduzir-a-primeira-berlina-eletrica-da-bmw#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:00:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/16215587.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ee627603f3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rentrée do PS: Carneiro foca-se no custo de vida e \"falhas do Governo\"",
-      "link": "https://www.noticiasaominuto.com/politica/3037196/rentree-do-ps-carneiro-foca-se-no-custo-de-vida-e-falhas-do-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 06:40:00",
+      "title": "Hoje é notícia: Filho homicida também agrediu pai; 400 mudaram de sexo",
+      "link": "https://www.noticiasaominuto.com/pais/3037202/hoje-e-noticia-filho-homicida-tambem-agrediu-pai-400-mudaram-de-sexo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:00:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47542721.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a815e099b82e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5ODAsImNyb3BIZWlnaHQiOjU1MSwiY3JvcFgiOjAsImNyb3BZIjo5MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjUxLCJjcm9wSGVpZ2h0IjoxMTU3LCJjcm9wWCI6MTksImNyb3BZIjoyfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica desespera por Palhinha, mas Marco Silva 'reforça-se' na Escócia",
-      "link": "https://www.noticiasaominuto.com/desporto/3036441/benfica-desespera-por-palhinha-mas-marco-silva-reforca-se-na-escocia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 06:30:00",
+      "title": "Os preguiçosos têm razão: Não deve fazer a cama assim que acorda",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3033447/os-preguicosos-tem-razao-nao-deve-fazer-a-cama-assim-que-acorda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:00:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ed80b3d553.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6MzYsImNyb3BZIjozMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75b2296c2cd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyMjksImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Internet está sob ataque e a Cloudflare repeliu 23 milhões de ataques DDoS em seis meses",
+      "link": "https://pplware.sapo.pt/internet/cloudflare-repeliu-23-milhoes-de-ataques-ddos-em-seis-meses/",
+      "pubDate": "Sun, 16 Aug 2026 07:00:08 +0000",
+      "description": "A Cloudflare está a fazer soar o alarme sobre ataques DDoS com volume recorde na Internet. Em apenas seis meses, a empresa repeliu 23,2 milhões de ataques DDoS e registou um aumento drástico de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ddos_ataque_0.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 19:30:52 +0000",
       "description": "Esta é uma dúvida que não será só de uma pessoa. Até porque é normal, cada vez mais, as pessoas deixarem água nas garrafas dentro dos carros. Mas&#8230; será que se pode beber a&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/agua_carro00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows 10 ganhou mais um ano, mas o Office 2024 custa 17,2€",
-      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-windows-10-goodoffer24/",
-      "pubDate": "Sat, 15 Aug 2026 19:00:42 +0000",
-      "description": "A Microsoft deu mais um ano de vida ao Windows 10, mas sobreviver não é o mesmo que viver. Enquanto o sistema fica em modo de manutenção, na GoodOffer24 é possível comprar chave digital&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/14th-1.jpg"
     },
     {
       "sourceId": "autosport",
