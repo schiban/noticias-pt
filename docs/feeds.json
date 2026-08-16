@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-16T11:15:53.388548+00:00",
+  "updated": "2026-08-16T11:43:33.802715+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Nova época, velho FC Porto? Dragões não sabem sofrer golos",
+      "link": "https://observador.pt/programas/e-o-campeao-e/nova-epoca-velho-fc-porto-dragoes-nao-sabem-sofrer-golos/",
+      "pubDate": "Sun, 16 Aug 2026 12:31:28 +0100",
+      "description": "FC Porto à imagem do ano passado: em equipa que ganha não se mexe. Irankunda é o 'Michael Jackson' que o Sporting precisa? No Benfica, Dedić de malas feitas e ainda a novela João Palhinha.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O travão depois dos gastos milionários das empresas com a IA",
+      "link": "https://observador.pt/especiais/primeiro-era-ver-quem-gastava-mais-agora-e-por-travao-nos-gastos-em-inteligencia-artificial-empresas-querem-acabar-com-a-queima-de-tokens/",
+      "pubDate": "Sun, 16 Aug 2026 12:16:14 +0100",
+      "description": "Depois do entusiasmo com os modelos de IA mais avançados vieram as surpresas nas contas. Em Portugal, já há empresas a gerir consumos e a serem criteriosas na utilização desta tecnologia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4089:2312:nowe:0:82/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/15200216/GettyImages-922578640-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "12h. Rentrée do PS deve abordar aumento do custo de vida",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2417/",
+      "pubDate": "Sun, 16 Aug 2026 12:15:20 +0100",
+      "description": "PS assinala novo ano político dois dias depois da Festa do Pontal. António Mendonça Medes garante que não é resposta ao PSD. EUA usam canal secreto para negociar com Guarda Revolucionária do Irão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -20,36 +50,6 @@
       "pubDate": "Sun, 16 Aug 2026 12:01:54 +0100",
       "description": "O fogo em Ventozelo, concelho de Chaves, deflagrou cerca das 20h26 de sábado e já \"está a ceder aos meios\". No local permaneciam, cerca das 10h45, 170 operacionais e 55 viaturas.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30150831/ilacerda-incendio-linda-a-velha-6-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vanessa Carvalho 24.ª na maratona nos Europeus de atletismo",
-      "link": "https://observador.pt/2026/08/16/vanessa-carvalho-24-a-na-maratona-nos-europeus-de-atletismo/",
-      "pubDate": "Sun, 16 Aug 2026 11:33:48 +0100",
-      "description": "Vanessa Carvalho, que foi 51.ª na meia maratona em Roma2024, cumpriu as oito voltas ao circuito citadino num registo abaixo do seu recorde pessoal (02:32.23) e do seu melhor tempo de 2026 (02h32.43).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16105934/47617817.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Carlos Costa 46.º na maratona nos Europeus de atletismo",
-      "link": "https://observador.pt/2026/08/16/carlos-costa-46-o-na-maratona-nos-europeus-de-atletismo/",
-      "pubDate": "Sun, 16 Aug 2026 11:28:12 +0100",
-      "description": "O atleta e presidente do Vizela Corre, de 40 anos, completou os 42,195 quilómetros do percurso no centro de Birmingham em 02h23.41, uma marca abaixo do seu melhor resultado (02h15.33).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16110058/47618253.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "11h. Dominados os fogos de Vinhais e Torre de Moncorvo",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1311/",
-      "pubDate": "Sun, 16 Aug 2026 11:14:37 +0100",
-      "description": "Site da Proteção Civil indica que há apenas um incêndio ativo a esta hora na região de Trás-os-Montes. Ainda, Granada registou cerca de 20 réplicas depois do sismo de ontem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
@@ -105,6 +105,16 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Fortaleza no Dragão: FC Porto não sofreu em mais de metade dos jogos na era Farioli",
+      "link": "https://maisfutebol.iol.pt/futebol/fc-porto/fortaleza-no-dragao-fc-porto-nao-sofreu-em-mais-de-metade-dos-jogos-na-era-farioli",
+      "pubDate": "Sun, 16 Aug 2026 12:32:03 +0100",
+      "description": "Em toda a carreira, o treinador italiano viu as suas equipas manterem a baliza a zeros em 89 encontros",
+      "thumbnail": "https://img.iol.pt/image/id/6a089a65d34e28842c841c24/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "OFICIAL: Zé Nando junta-se a Peseiro no Al Ula, mas ao comando da equipa feminina",
       "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/oficial-ze-nando-junta-se-a-peseiro-no-al-ula-mas-ao-comando-da-equipa-feminina",
       "pubDate": "Sun, 16 Aug 2026 11:31:00 +0100",
@@ -142,14 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a78fd25d34ed0733ba7f01f/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Messi falha penálti na derrota do Inter Miami",
-      "link": "https://maisfutebol.iol.pt/internacional/estados-unidos/video-messi-falha-penalti-na-derrota-do-inter-miami",
-      "pubDate": "Sun, 16 Aug 2026 10:03:00 +0100",
-      "description": "Astro argentino voltou à titularidade no desaire por 4-1 com o Nashville",
-      "thumbnail": "https://img.iol.pt/image/id/6a818021d34e511da0b338df/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Porto 2050: mapa imagina cidade \"mais verde e azul\" com zonas livres de carros",
+      "link": "https://sapo.pt/artigo/porto-2050-mapa-imagina-cidade-mais-verde-e-azul-com-zonas-livres-de-carros-6a81993b33cbe64db30b16ed",
+      "pubDate": "Sun, 16 Aug 2026 11:19:20 +0000",
+      "description": "As pessoas mostraram querer \"uma cidade mais verde e azul\" e com “mais pontos de acesso às margens do rio\", refere a antiga ministra da Cultura.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AsYHMtSzI0nF%2BRW60Ki2BluBqngUajChCq4gKONjJigQeHOoomm7Dwq3ZM0s%2FAg%2B14lVKkYt5tfxd3FjhKg5fWF9ie9jkZwdsTfrJ9LGH%2FprLEUmL7nTRAjVAOXWfEoHI"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALc0txb%2BHzGyfj9VGRyRjXaZtR8Gh2KPPUegJ4ID9a6VBHNrH7MqYzyo3qvmkWNA9VcPAAUe0qwP4czva90G7TkgLB8fpdMIF2KSQlEnUhIYOaFK0JR6mp642idhpSZQ5"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Incêndio de Vinhais dominado, Chaves e Torre de Moncorvo mobilizam centenas de bombeiros",
-      "link": "https://sapo.pt/artigo/incendio-de-vinhais-dominado-chaves-e-torre-de-moncorvo-mobilizam-centenas-de-bombeiros-6a81849bc50b1ad904d3c26b",
-      "pubDate": "Sun, 16 Aug 2026 09:37:18 +0000",
-      "description": "A região Norte continua a ser a mais afetada pelos incêndios florestais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ACyf%2Foarsf7kudfRSE8yC%2FZ27mTBQ8sSlJaBujHWXglslQHDPeWjkC2ukr%2BLzm%2FacLSZythCk%2FetPQOmSpYIz%2BWNJYFo4CrAxzazqqXcIYsTs1sfxPKOFYfL%2FG9MSYJtV"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Forças do Iémen realizaram 181 operações militares contra hutis",
+      "link": "https://www.noticiasaominuto.com/mundo/3037254/forcas-do-iemen-realizaram-181-operacoes-militares-contra-hutis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:38:06",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65a0e18d38e35.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Gil Vicente, Marítimo e Arouca querem apanhar lider isolado FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3037189/gil-vicente-maritimo-e-arouca-querem-apanhar-lider-isolado-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:12:33",
+      "title": "Quatro bombeiros de Vinhais que sofreram queimaduras tiveram alta",
+      "link": "https://www.noticiasaominuto.com/pais/3037253/quatro-bombeiros-de-vinhais-que-sofreram-queimaduras-tiveram-alta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:37:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a613f0e20c80.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6925fbdb97272.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NCwiY3JvcEhlaWdodCI6MTcxNCwiY3JvcFgiOjEzMDcsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3037247/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:06:43",
+      "title": "Mais perto do Dragão? Santiago Giménez já deu o 'sim' ao FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3037251/mais-perto-do-dragao-santiago-gimenez-ja-deu-o-sim-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:36:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a798f91cab5c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a819b3b450b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjMsImNyb3BZIjo3fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bombeira de Fão denuncia colega por assédio sexual. Aberto inquérito",
-      "link": "https://www.noticiasaominuto.com/pais/3037243/bombeira-de-fao-denuncia-colega-por-assedio-sexual-aberto-inquerito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:00:26",
+      "title": "Luciana Abreu: O fim das férias e o encontro com Marcelo Rebelo de Sousa",
+      "link": "https://www.noticiasaominuto.com/fama/3037244/luciana-abreu-o-fim-das-ferias-e-o-encontro-com-marcelo-rebelo-de-sousa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:33:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64dbb154044e4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a819495d1942.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM5LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6NiwiY3JvcFkiOjUxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjMsImNyb3BIZWlnaHQiOjE3MTIsImNyb3BYIjoxNDk3LCJjcm9wWSI6MjkwfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Passar de carro em zona de incêndio? Perigo pode chegar antes das chamas",
-      "link": "https://www.noticiasaominuto.com/auto/3036623/passar-de-carro-em-zona-de-incendio-perigo-pode-chegar-antes-das-chamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 12:00:26",
+      "title": "Executado homem acusado de ter atropelado vários policias em janeiro",
+      "link": "https://www.noticiasaominuto.com/mundo/3037201/executado-homem-acusado-de-ter-atropelado-varios-policias-em-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 12:28:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1e2bb4457.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Gustavo Santos pede desculpa a Joana Marques. \"Não estive ao meu nível\"",
-      "link": "https://www.noticiasaominuto.com/fama/3037242/gustavo-santo-pede-desculpa-a-joana-marques-nao-estive-ao-meu-nivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 11:40:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81938a4f0e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjQxNywiY3JvcFgiOjEzLCJjcm9wWSI6ODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMzMSwiY3JvcEhlaWdodCI6NTg5LCJjcm9wWCI6NDA1LCJjcm9wWSI6NDV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7b80ab223f3.webp"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,16 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "Fórmula E, Londres: Qualificação tensa dá pole a Nyck de Vries. Porsche e Jaguar próximos na grelha de partida",
+      "link": "https://www.autosport.pt/velocidade/formula-e-londres-qualificacao-tensa-da-pole-a-nyck-de-vries-porsche-e-jaguar-proximos-na-grelha-de-partida/",
+      "pubDate": "Sun, 16 Aug 2026 10:55:00 +0000",
+      "description": "Nyck de Vries foi o homem mais rápido na última qualificação no ExCeL em Londres, rubricando a melhor volta alguma vez feita neste traçado. A Mahindra destacou-se ao colocar dois carros na final, com de Vries a ser o mais rápido e Edoardo Mortara a fazer um pequeno milagre de levar um carro danifica",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "ERC, Barum Czech Rally Zlín: Adam Březík com liderança consolidada no final da manhã",
       "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-adam-brezik-com-lideranca-consolidada-no-final-da-manha/",
       "pubDate": "Sun, 16 Aug 2026 09:42:51 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/automais/mclaren-mcl-6gt-o-sonho-de-bruce/",
       "pubDate": "Sat, 15 Aug 2026 16:55:23 +0000",
       "description": "O McLaren McL 6GT apresentado durante evento na Semana do Automóvel de Monterey, na Califórnia, EUA, recupera o espírito do M6GT de Bruce McLaren, de 1969, e combina a inspiração histórica com tecnologia contemporânea. O novo estudo antecipa automóvel de produção prometido para 2028 e recorre a uma ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "ERC, Barum Czech Rally Zlín: Adam Březík na liderança, William Creighton e Liam Regan sem ferimentos graves",
-      "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-adam-brezik-na-lideranca-william-creighton-e-liam-regan-sem-ferimentos-graves/",
-      "pubDate": "Sat, 15 Aug 2026 16:48:26 +0000",
-      "description": "Boa notícias chegam do Barum Czech Rally Zlín. A dupla William Creighton / Liam Regan (Citroën C3 Rally2), que sofreu um acidente na PEC 4 não sofreu ferimentos graves, segundo a organização. Creighton e Regan foram levados para o hospital, receber tratamento e fazer exames complementares, mas, de a",
       "thumbnail": ""
     }
   ]
