@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-15T23:43:09.684142+00:00",
+  "updated": "2026-08-16T01:03:17.260918+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Incêndio em Torre de Moncorvo mobiliza 175 operacionais",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2354/",
+      "pubDate": "Sun, 16 Aug 2026 01:11:56 +0100",
+      "description": "Tem duas frentes ativas e está a ser combatido por 175 bombeiros e 58 viaturas. Não há  bens ou pessoas em perigo. Ainda, FC Porto vence Rio Ave, em Vila do Conde, e continua invicto no campeonato.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -25,6 +35,16 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
+      "title": "Senhoras conservadoras",
+      "link": "https://observador.pt/opiniao/senhoras-conservadoras/",
+      "pubDate": "Sun, 16 Aug 2026 00:24:32 +0100",
+      "description": "Que um conservador prefira distanciar-se disto a saudá-lo só tem um nome: pedantismo. Em última análise, trata-se de um almoço inofensivo cujo grande pecado é ser apenas um pouco ridículo.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2644%3A2644%3Anowe%3A661%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23150527%2Fjporfirio-retratos-redacao-2026-01-16.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
       "title": "O Chega não tem nojo de mim",
       "link": "https://observador.pt/opiniao/o-chega-nao-tem-nojo-de-mim/",
       "pubDate": "Sun, 16 Aug 2026 00:21:56 +0100",
@@ -32,24 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O Estado no papel e o cidadão à porta do Estado",
-      "link": "https://observador.pt/opiniao/o-estado-no-papel-e-o-cidadao-a-porta-do-estado/",
-      "pubDate": "Sun, 16 Aug 2026 00:20:50 +0100",
-      "description": "Mais do que novas leis ou plataformas digitais, a Administração Pública precisa de garantir que os direitos dos cidadãos existem também na realidade",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1128%3A1128%3Anowe%3A413%3A200%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F02%2F09212710%2Fvfs-2020.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h FC Porto vence Rio Ave por 2-0",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-fc-porto-vence-rio-ave-por-2-0_a1_1759741",
+      "pubDate": "Sun, 16 Aug 2026 02:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Liberalismo e conservadorismo",
-      "link": "https://observador.pt/opiniao/liberalismo-e-conservadorismo/",
-      "pubDate": "Sun, 16 Aug 2026 00:15:44 +0100",
-      "description": "Poderá o conservadorismo passar sem o liberalismo? Não. O conservador pouco ou nada tem a esperar do Estado. A tarefa de regeneração da sociedade civil cabe ao exercício das liberdades individuais.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A57%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F25135204%2F20260515-101426.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "00h Europeus atletismo: Pichardo conquista prata no triplo salto",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-europeus-atletismo-pichardo-conquista-prata-no-triplo-salto_a1_1759739",
+      "pubDate": "Sun, 16 Aug 2026 01:44:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Sat, 15 Aug 2026 23:26:48 +0100",
       "description": "O filme &quot;You don&#039;t belong here&quot;, do realizador romeno Florin Serban, venceu hoje o Leopardo de Ouro, no 79.º Festival de Cinema de Locarno, na Suíça, que também premiou a atriz italiana Monica Bellucci.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1e0d827b14cc00f1fe8cbabc1b5f8e5c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndio na Bélgica já consumiu mais de 2.700 hectares de floresta",
-      "link": "https://www.rtp.pt/noticias/mundo/incendio-na-belgica-ja-consumiu-mais-de-2700-hectares-de-floresta_n1759732",
-      "pubDate": "Sat, 15 Aug 2026 23:18:31 +0100",
-      "description": "As autoridades belgas confirmaram este sábado que a área ardida saltou para 2.700 hectares nas últimas horas, naquele que é já considerado o pior incêndio florestal da história recente do país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e20e8dcab7b1e0b91b6279d53de0582e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Europeus de Atletismo. Isaac Nader 12.º nos 1.500 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-isaac-nader-12o-nos-1500-metros_d1759731",
-      "pubDate": "Sat, 15 Aug 2026 22:58:45 +0100",
-      "description": "O português Isaac Nader terminou hoje no 12.º lugar a final dos 1.500 metros dos Campeonatos da Europa de atletismo, na cidade inglesa de Birmingham, com o tempo de 03.39,80 mimutos, a 3,99 segundos do vencedor, o neerlandês Stefan Nillessen.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb9506484de56818420a42bdbf26c16d?w=350&amp;q=50&amp;rect=0,189,5368,2943&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
