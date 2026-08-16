@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T07:27:09.872493+00:00",
+  "updated": "2026-08-16T07:54:22.498399+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogo de Vinhais dominado este domingo de manhã",
+      "link": "https://observador.pt/2026/08/16/fogo-de-vinhais-dominado-este-domingo-de-manha/",
+      "pubDate": "Sun, 16 Aug 2026 08:48:45 +0100",
+      "description": "Pelas 08h00 permaneciam no terreno, em Vinhais, 186 operacionais, apoiados por 71 viaturas. Fogo em Chaves (Vila Real) e Torre de Moncorvo (Bragança) lavravam ainda em \"pequenas frentes\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/18121722/45692123.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Diz-se \"Argélia\" ou \"Algéria\"? E usar \"você\" é má educação?",
-      "link": "https://observador.pt/programas/portugues-suave/diz-se-argelia-ou-algeria-e-usar-voce-e-ma-educacao/",
-      "pubDate": "Sun, 16 Aug 2026 06:03:44 +0100",
-      "description": "Da influência do castelhano em \"Argélia\" à célebre expressão \"você é de estrebaria\", Marco Neves abre o \"consultório de verão\" do Português Suave para responder às dúvidas dos ouvintes.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Doze mortos em acidente de autocarro em autoestrada na Hungria",
+      "link": "https://www.rtp.pt/noticias/mundo/doze-mortos-em-acidente-de-autocarro-em-autoestrada-na-hungria_n1759765",
+      "pubDate": "Sun, 16 Aug 2026 09:51:20 +0100",
+      "description": "Doze pessoas morreram e pelo menos dez ficaram gravemente feridas no acidente de um autocarro durante a madrugada deste domingo numa autoestrada da Hungria, informou o primeiro-ministro húngaro, Péter Magyar, nas redes sociais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/722198bdaa0a51c01e8492f46b8c0081?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Sun, 16 Aug 2026 08:54:37 +0100",
       "description": "O espaço deixou de ser apenas um domínio de investigação científica e de exploração tecnológica para assumir um papel central na segurança e defesa das nações. Num contexto internacional marcado por vários cenários de conflito, pela crescente disputa pelas órbitas terrestres e pela dependência dos s",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/89cf8e3c6b66b9da5707d2684ca21c49?w=350&amp;q=50&amp;rect=0,65,1140,507&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "6h Quase 160 operacionais combatem incêndio em Chaves",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-quase-160-operacionais-combatem-incendio-em-chaves_a1_1759760",
-      "pubDate": "Sun, 16 Aug 2026 07:39:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,6 +155,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "‘Girassóis de metal’ de Alfouvar apontam antenas à constelação europeia IRIS 2",
+      "link": "https://eco.sapo.pt/reportagem/girassois-de-metal-de-alfouvar-apontam-antenas-a-constelacao-europeia-iris-2/",
+      "pubDate": "Sun, 16 Aug 2026 07:43:00 +0000",
+      "description": "A Meo e a Thales em Portugal querem colocar os teleportos de Alfouvar e de Santa Maria ao serviço da constelação europeia IRIS 2. Fomos à localidade de Sintra conhecer o espaço de 12 hectares.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AGX8zUyKuEAkXI1XtPE1vtj9zgB7SZ8C3AoFT1ZK8eeB%2BrPy4L7QPsNE4QZ1vPIup4fKG%2Fa%2FJIoT1ssNReJkFuqvQwz2kxRpBBL3226DnISnhQ%2FZQAaixrxBXXGodBYhy"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Irão. Teerão diz ter acordado com Omã rota segura de navegação por Ormuz",
       "link": "https://sapo.pt/artigo/irao-teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz-6a80b00833cbe64db3e6d213",
       "pubDate": "Sat, 15 Aug 2026 19:42:36 +0000",
@@ -192,14 +202,24 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Ai4qdGgB38jzMIwVQTGMERl0uVBxckNsL4WKltoNuEq7HnpQDctXb73SyGhp9UEiMsMenId%2B5UKG3G8%2BgnoShsaIMKAGKJmtvmkLCbDH5u5EyKVsd%2BgDYS%2Fgsk1UqhMwf"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "FC Porto volta a vencer na I Liga 2026/27, agora frente ao Rio Ave",
-      "link": "https://sapo.pt/artigo/fc-porto-volta-a-vencer-na-i-liga-2026-27-agora-frente-ao-rio-ave-6a80da49c50b1ad904bbb17c",
-      "pubDate": "Sat, 15 Aug 2026 21:30:18 +0000",
-      "description": "FC Porto venceu em Vila do Conde, por dois golos sem resposta, na segunda ronda do campeonato",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AuwlHnIsBBcjaQ95q7JlOrtH7CAHFwSf32G4Iu26MtGaYP8ML3Ap0lA0pmPaYhUXSexwYlw6%2BkMCl6fal601JJVpkjHrHrOUjnNw5lQOpDx7kO96QtWjwYvWhVdCR%2BSFN"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Fogo de Vinhais dominado. 2 dos bombeiros feridos estão em estado grave",
+      "link": "https://www.noticiasaominuto.com/pais/3037206/fogo-de-vinhais-dominado-2-dos-bombeiros-feridos-estao-em-estado-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:51:32",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Explicador da semana: Quem são os herdeiros e que bens podem receber?",
+      "link": "https://www.noticiasaominuto.com/economia/3036492/explicador-da-semana-quem-sao-os-herdeiros-e-que-bens-podem-receber#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:30:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b824ca4b7b5.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
     },
     {
       "sourceId": "nam",
@@ -230,26 +250,6 @@
       "pubDate": "2026-08-16 08:00:43",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ee627603f3.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Hoje é notícia: Filho homicida também agrediu pai; 400 mudaram de sexo",
-      "link": "https://www.noticiasaominuto.com/pais/3037202/hoje-e-noticia-filho-homicida-tambem-agrediu-pai-400-mudaram-de-sexo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:00:40",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a815e099b82e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5ODAsImNyb3BIZWlnaHQiOjU1MSwiY3JvcFgiOjAsImNyb3BZIjo5MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjUxLCJjcm9wSGVpZ2h0IjoxMTU3LCJjcm9wWCI6MTksImNyb3BZIjoyfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Os preguiçosos têm razão: Não deve fazer a cama assim que acorda",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3033447/os-preguicosos-tem-razao-nao-deve-fazer-a-cama-assim-que-acorda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:00:32",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a75b2296c2cd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyMjksImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
