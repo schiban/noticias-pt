@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-16T20:45:49.896110+00:00",
+  "updated": "2026-08-16T21:15:16.821636+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A prova de Duplantis também teve um português nas alturas",
+      "link": "https://observador.pt/2026/08/16/a-prova-de-duplantis-tambem-teve-um-portugues-nas-alturas-pedro-buaro-sexto-na-final-do-salto-com-vara-desta-vez-sem-recorde-do-mundo/",
+      "pubDate": "Sun, 16 Aug 2026 21:47:42 +0100",
+      "description": "Depois de ter batido o recorde nacional, Buaró estreou-se em Europeus com a chegada à final, mas não conseguiu repetir os 5,85 metros e acabou com 5,70. Duplantis bateu recorde dos Europeus.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16205310/gettyimages-2290752151-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mais de 200 bombeiros combatem fogo em Boticas",
+      "link": "https://observador.pt/2026/08/16/mais-de-200-bombeiros-combatem-fogo-em-boticas/",
+      "pubDate": "Sun, 16 Aug 2026 21:43:57 +0100",
+      "description": "Incêndio em Boticas (Vila Real) deflagrou na madrugada de domingo. Há mais de 200 bombeiros no terreno.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/15164049/doc202508134547509912297544-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,7 +35,7 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Patrícia quis tanto ir à frente que acabou a repetir o feito",
+      "title": "Patrícia quis tanto ir à frente que acabou como o pai",
       "link": "https://observador.pt/2026/08/16/patricia-quis-tanto-ir-a-frente-que-acabou-a-repetir-o-feito-do-pai-portugal-conquista-medalha-de-bronze-nos-1-500-metros/",
       "pubDate": "Sun, 16 Aug 2026 21:23:44 +0100",
       "description": "Com uma prova em crescendo, Patrícia Silva alcançou a medalha de bronze na final dos 1.500 metros ao sprint, repetindo o que o pai Rui fez no passado. Salomé Afonso foi 11.ª.",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08180227/47579328.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "“Os homens são todos iguais”",
-      "link": "https://observador.pt/opiniao/os-homens-sao-todos-iguais/",
-      "pubDate": "Sun, 16 Aug 2026 21:16:52 +0100",
-      "description": "Um homem não tem que, por inerência, não chorar, não falar nem não se agitar. Para se fazer homem, não pode estar inquinado, como se fosse uma fatalidade que o limita para sempre",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mais de 470 casos de abandono e maus-tratos de animais em seis meses",
+      "link": "https://www.rtp.pt/noticias/pais/mais-de-470-casos-de-abandono-e-maus-tratos-de-animais-em-seis-meses_v1759868",
+      "pubDate": "Sun, 16 Aug 2026 23:09:53 +0100",
+      "description": "Nos primeiros seis meses do ano, a GNR registou 471 crimes de maus-tratos e de abandono de animais de companhia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/1c/1c6abac99c5f9601ff752e8771910dae_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 21h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1730/",
-      "pubDate": "Sun, 16 Aug 2026 21:16:51 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Regressar a Portugal. Milhares de emigrantes voltam todos os anos",
+      "link": "https://www.rtp.pt/noticias/pais/regressar-a-portugal-milhares-de-emigrantes-voltam-todos-os-anos_v1759867",
+      "pubDate": "Sun, 16 Aug 2026 23:09:48 +0100",
+      "description": "Há muitos emigrantes portugueses que começam agora a regressar a Portugal. Os últimos dados apontam para cerca de 30 mil por ano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/fa/fa0cf91b54670795a51e862e5d6a371a_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Europeus de atletismo. Agate de Sousa `cai` do bronze para o quarto lugar no salto em comprimento",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-agate-de-sousa-cai-do-bronze-para-o-quarto-lugar-no-salto-em-comprimento_d1759865",
+      "pubDate": "Sun, 16 Aug 2026 22:54:08 +0100",
+      "description": "A portuguesa Agate de Sousa terminou hoje no quarto lugar a final no salto em comprimento nos Campeonatos da Europa de atletismo Birmingham2026, com 6,96 metros da sua terceira tentativa, depois da medalha de bronze conquistada na edição anterior.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3cc104f286c9df74801d1f786b352a86?w=350&amp;q=50&amp;rect=0,252,4260,2336&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Rentrée do PS. Carneiro aponta para país \"sem rumo estratégico\" e Governo \"desligado da realidade\"",
+      "link": "https://www.rtp.pt/noticias/politica/rentree-do-ps-carneiro-aponta-para-pais-sem-rumo-estrategico-e-governo-desligado-da-realidade_n1759864",
+      "pubDate": "Sun, 16 Aug 2026 22:47:43 +0100",
+      "description": "Em Olhão, na rentrée do Partido Socialista, o secretário-geral do PS acusou o Governo de não conseguir reagir às crises que o país tem enfrentado, mencionando sobretudo a situação dos exames nacionais. José Luís Carneiro questionou ainda os termos da compra de ações da REN pelo Governo e anunciou um",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/72f30d1b3bd6213c4ce41201ea06e804?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Patrícia Silva conquista Bronze nos 1500 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/patricia-silva-conquista-bronze-nos-1500-metros_d1759861",
-      "pubDate": "Sun, 16 Aug 2026 22:31:12 +0100",
-      "description": "A atleta portuguesa Patrícia Silva conquistou esta noite a medalha de Bronze nos 1500 metros no Campeonato Europeu de atletismo em Birmingham. Uma prova onde também participou a portuguesa Salomé Afonso tendo terminado esta final no 11.º lugar.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd38062fd4e30f0be9391775bd269a95?w=350&amp;q=50&amp;rect=0,40,5376,2947&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Farense derrota fora o FC Porto B e soma segunda vitória",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/farense-derrota-fora-o-fc-porto-b-e-soma-segunda-vitoria_d1759859",
-      "pubDate": "Sun, 16 Aug 2026 22:25:38 +0100",
-      "description": "O Farense venceu hoje fora o FC Porto B, por 3-1, num jogo relativo à segunda jornada da II Liga portuguesa de futebol, e alcançou assim o segundo triunfo na prova.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Europeus de atletismo. Pedro Buaró sexto no salto com vara",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-pedro-buaro-sexto-no-salto-com-vara_d1759858",
-      "pubDate": "Sun, 16 Aug 2026 22:24:56 +0100",
-      "description": "O português Pedro Buaró terminou hoje no sexto lugar a final do salto com vara dos Campeonatos da Europa de atletismo, na cidade inglesa de Birmingham, com a marca de 5,70 metros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/51/519971bf6ff732b20033586d90a41ee8?w=350&amp;q=50&amp;rect=0,156,4106,2251&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Levante, de Luís Castro, perde com Espanyol na estreia na La Liga",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/levante-de-luis-castro-perde-com-espanyol-na-estreia-na-la-liga_d1759856",
-      "pubDate": "Sun, 16 Aug 2026 21:50:59 +0100",
-      "description": "O Levante, treinado pelo português Luís Castro, perdeu hoje fora com o Espanyol por 3-0, na primeira jornada da Liga espanhola de futebol, com o avançado Roberto Fernández, ex-Sporting de Braga, a &#039;bisar&#039; para os catalães.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Lens bate PSG e conquista Supertaça na estreia de Ivanovic",
+      "link": "https://maisfutebol.iol.pt/franca/lens/video-lens-bate-psg-e-conquista-supertaca-na-estreia-de-ivanovic",
+      "pubDate": "Sun, 16 Aug 2026 21:46:00 +0100",
+      "description": "Avançado emprestado pelo Benfica alinhou de início, Nuno Mendes acabou expulso",
+      "thumbnail": "https://img.iol.pt/image/id/6a822111d34ed0733ba80267/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 21:10:35 +0100",
       "description": "Arouca-Moreirense, 4-0 (reportagem)",
       "thumbnail": "https://img.iol.pt/image/id/6a820b79d34ed0733ba80239/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: André Horta é reforço do Al Ula de José Peseiro",
-      "link": "https://maisfutebol.iol.pt/arabia-saudita/andre-horta/oficial-andre-horta-e-reforco-do-al-ula-de-jose-peseiro",
-      "pubDate": "Sun, 16 Aug 2026 20:58:19 +0100",
-      "description": "Médio português muda-se para o conjunto que atua no segundo escalão do futebol saudita",
-      "thumbnail": "https://img.iol.pt/image/id/6a821658d34ed0733ba8024e/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Patrícia Silva medalha de bronze nos 1.500 metros dos Europeus de Atletismo",
+      "link": "https://www.noticiasaominuto.com/desporto/3037369/patricia-silva-medalha-de-bronze-nos-1500-metros-dos-europeus-de-atletismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:47:51",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47620616.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjMwOSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Agate de Sousa 'cai' do bronze para quarto lugar no salto em comprimento",
+      "link": "https://www.noticiasaominuto.com/desporto/3037368/agate-de-sousa-cai-do-bronze-para-quarto-lugar-no-salto-em-comprimento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:46:16",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47620326.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxMCwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Brilhante Dias diz que Montenegro está esgotado e sem projeto para o país",
+      "link": "https://www.noticiasaominuto.com/politica/3037366/brilhante-dias-diz-que-montenegro-esta-esgotado-e-sem-projeto-para-o-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 21:43:04",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65df5d2b9cb39.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Mais de duas centenas de operacionais combatem fogo em Boticas",
       "link": "https://www.noticiasaominuto.com/pais/3037365/mais-de-duas-centenas-de-operacionais-combatem-fogo-em-boticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 21:38:41",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66b7a49fdc43b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjUzMCwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Farense derrota fora o FC Porto B e soma segunda vitória",
-      "link": "https://www.noticiasaominuto.com/desporto/3037364/farense-derrota-fora-o-fc-porto-b-e-soma-segunda-vitoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 21:25:34",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4591de5886e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODI2LCJjcm9wSGVpZ2h0IjoxMDI3LCJjcm9wWCI6LTEsImNyb3BZIjo3NDV9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "IVG \"descontinuadas\" no Garcia de Orta? Hospital indica que é temporário",
-      "link": "https://www.noticiasaominuto.com/pais/3037352/ivg-descontinuadas-no-garcia-de-orta-hospital-indica-que-e-temporario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 21:23:25",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_58a1c4edcf9b4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1NjIwLCJjcm9wSGVpZ2h0IjozMTYxLCJjcm9wWCI6LTIsImNyb3BZIjo0NjF9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Marrocos detém quase 300 migrantes que tentavam chegar a Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3037360/marrocos-detem-quase-300-migrantes-que-tentavam-chegar-a-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 21:07:58",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47614967.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Tesla começa a levar V2L ao Model Y. Bateria pode agora alimentar equipamentos",
+      "link": "https://pplware.sapo.pt/motores/tesla-comeca-a-levar-v2l-ao-model-y-bateria-pode-agora-alimentar-equipamentos/",
+      "pubDate": "Sun, 16 Aug 2026 21:00:44 +0000",
+      "description": "A Tesla começou a expandir uma das funcionalidades mais pedidas para o Model Y. Alguns dos modelos mais recentes passam a suportar V2L através do Powershare, permitindo utilizar a bateria do carro para alimentar&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/tesla_modely_v2l_00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 16 Aug 2026 18:00:58 +0000",
       "description": "A Sony já revelou quais os jogos que se juntam ao catálogo de jogos do PlayStation Plus Extra e Premium neste mês de agosto. Venham saber quais os eleitos! A Sony anunciou recentemente quais&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/PSPLus.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novas regras da UE tornam mais caro às pequenas lojas vender para outros países",
-      "link": "https://pplware.sapo.pt/informacao/novas-regras-da-ue-tornam-mais-caro-as-pequenas-lojas-vender-para-outros-paises/",
-      "pubDate": "Sun, 16 Aug 2026 17:00:55 +0000",
-      "description": "Comprar numa pequena loja online de outro país europeu pode tornar-se mais difícil e até mais caro. As novas regras da União Europeia para as embalagens querem reduzir resíduos e aumentar a reciclagem, mas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ppwr_04.webp"
     },
     {
       "sourceId": "autosport",
