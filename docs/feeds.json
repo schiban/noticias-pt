@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T07:54:22.498399+00:00",
+  "updated": "2026-08-16T08:23:34.662072+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. Drone que entrou na Roménia é abatido",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2442/",
+      "pubDate": "Sun, 16 Aug 2026 09:14:16 +0100",
+      "description": "Roménia tornou-se um dos membros da NATO mais expostos às consequências da guerra na Ucrânia. Ainda, Francesco Farioli diz que FC Porto poderia ter gerido melhor certos momentos frente ao Rio Ave.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,10 +25,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
+      "title": "8h. Incêndio em Vinhais foi esta manhã dominado",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2489/",
       "pubDate": "Sun, 16 Aug 2026 08:12:51 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "População da aldeia de Dine também já pôde regressar a casa. Ainda, Pedro Pablo Pichardo é vice-campeão europeu de triplo salto.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,52 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Que bateria dura mais tempo antes de ter de ser substituída?",
-      "link": "https://observador.pt/programas/operacao-stop/que-bateria-dura-mais-tempo-antes-de-ter-de-ser-substituida/",
-      "pubDate": "Sun, 16 Aug 2026 06:07:13 +0100",
-      "description": "O tempo de vida útil das baterias é um dos motivos que leva muitos a não confiarem nos carros eléctricos. Estudo afirma que as melhores mantêm 95% de capacidade após 100.000 km.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Chuvas e cortes de energia devido ao primeiro furacão a atingir Havai desde 1992",
+      "link": "https://www.rtp.pt/noticias/mundo/chuvas-e-cortes-de-energia-devido-ao-primeiro-furacao-a-atingir-havai-desde-1992_n1759753",
+      "pubDate": "Sun, 16 Aug 2026 10:22:33 +0100",
+      "description": "O furacão Lala atingiu a Ilha Grande do Havai com chuvas fortes e ventos intensos, com os meteorologistas a alertar para possíveis inundações perigosas em todo o estado insular do Pacífico dos Estados Unidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/2813e2bb8eb4521feb27adce2f76acbf?w=350&amp;q=50&amp;rect=0,0,1268,695&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Doze mortos em acidente de autocarro em autoestrada na Hungria",
-      "link": "https://www.rtp.pt/noticias/mundo/doze-mortos-em-acidente-de-autocarro-em-autoestrada-na-hungria_n1759765",
-      "pubDate": "Sun, 16 Aug 2026 09:51:20 +0100",
-      "description": "Doze pessoas morreram e pelo menos dez ficaram gravemente feridas no acidente de um autocarro durante a madrugada deste domingo numa autoestrada da Hungria, informou o primeiro-ministro húngaro, Péter Magyar, nas redes sociais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/722198bdaa0a51c01e8492f46b8c0081?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
+      "title": "Número de mortos no Japão após chuvas torrenciais e inundações sobe para nove",
+      "link": "https://www.rtp.pt/noticias/mundo/numero-de-mortos-no-japao-apos-chuvas-torrenciais-e-inundacoes-sobe-para-nove_n1759758",
+      "pubDate": "Sun, 16 Aug 2026 10:20:40 +0100",
+      "description": "Chuvas torrenciais e inundações fizeram pelo menos nove mortos na província de Chiba, no leste do Japão, perto da metrópole de Tóquio, avançou hoje a emissora pública japonesa NHK.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e9521df4452706b2fd7fa5ae56c5bf3c?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Todos os distritos de Portugal continental sob aviso amarelo devido a calor e trovoada",
-      "link": "https://www.rtp.pt/noticias/pais/todos-os-distritos-de-portugal-continental-sob-aviso-amarelo-devido-a-calor-e-trovoada_n1759748",
-      "pubDate": "Sun, 16 Aug 2026 09:22:16 +0100",
-      "description": "Todos os distritos de Portugal continental estão este domingo sob aviso amarelo devido à previsão de temperaturas elevadas, mas também de trovoada, que pode ser acompanhada de aguaceiros fortes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e17e80d98842f7acccf4dab204484ee?w=350&amp;q=50&amp;rect=0,76,5333,2924&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios em Torre de Moncorvo e Chaves mobilizam centenas de operacionais",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-torre-de-moncorvo-e-chaves-mobilizam-centenas-de-operacionais_n1759762",
-      "pubDate": "Sun, 16 Aug 2026 09:09:10 +0100",
-      "description": "Ao início da manhã deste domingo registavam-se vários incêndios em Portugal. Em Torre de Moncorvo o fogo era, pelas 8h00, combatido por 237 operacionais e 77 meios terrestres.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7e0b579421114a7d866e7a670789cc6?w=350&amp;q=50&amp;rect=0,109,2048,1123&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "7h Incêndio em Chaves com 2 frentes ativas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-em-chaves-com-2-frentes-ativas_a1_1759761",
-      "pubDate": "Sun, 16 Aug 2026 08:56:01 +0100",
+      "title": "09h Reforço de meios nos incêndios de Torre de Moncorvo e Chaves",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-reforco-de-meios-nos-incendios-de-torre-de-moncorvo-e-chaves_a1_1759766",
+      "pubDate": "Sun, 16 Aug 2026 10:20:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,11 +85,41 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Do espaço à Defesa. Laboratório IST NanoSatLab pode e quer ajudar Portugal",
-      "link": "https://www.rtp.pt/noticias/pais/do-espaco-a-defesa-laboratorio-ist-nanosatlab-pode-e-quer-ajudar-portugal_es1759737",
-      "pubDate": "Sun, 16 Aug 2026 08:54:37 +0100",
-      "description": "O espaço deixou de ser apenas um domínio de investigação científica e de exploração tecnológica para assumir um papel central na segurança e defesa das nações. Num contexto internacional marcado por vários cenários de conflito, pela crescente disputa pelas órbitas terrestres e pela dependência dos s",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/89cf8e3c6b66b9da5707d2684ca21c49?w=350&amp;q=50&amp;rect=0,65,1140,507&amp;auto=format"
+      "title": "Explosões ouvidas em Kiev após alerta de mísseis balísticos",
+      "link": "https://www.rtp.pt/noticias/mundo/explosoes-ouvidas-em-kiev-apos-alerta-de-misseis-balisticos_n1759742",
+      "pubDate": "Sun, 16 Aug 2026 10:17:38 +0100",
+      "description": "Explosões foram ouvidas em Kiev durante a madrugada deste domingo, depois de ter sido acionado um alerta de mísseis balísticos na capital da Ucrânia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4da84a52e677c905be99751c5308212?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Líder da Coreia do Norte elogia \"luta comum\" e relação com a Rússia",
+      "link": "https://www.rtp.pt/noticias/mundo/lider-da-coreia-do-norte-elogia-luta-comum-e-relacao-com-a-russia_n1759746",
+      "pubDate": "Sun, 16 Aug 2026 10:09:21 +0100",
+      "description": "O líder da Coreia do Norte, Kim Jong-un, expressou orgulho pela relação com a Rússia, numa carta enviada ao Presidente russo Vladimir Putin.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/38/38dca8e2332358ecf2623dd253441a6f?w=350&amp;q=50&amp;rect=1,0,4055,2223&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga: dérbi entre Sp. Braga e Gil Vicente adiado",
+      "link": "https://maisfutebol.iol.pt/liga/sp-braga/liga-derbi-entre-sp-braga-e-gil-vicente-adiado",
+      "pubDate": "Sun, 16 Aug 2026 09:05:00 +0100",
+      "description": "Devido a um surto gastrointestinal nos arsenalistas, que têm disponíveis apenas três guarda-redes e sete jogadores de campo",
+      "thumbnail": "https://img.iol.pt/image/id/68c7308ed34e58bc6795b947/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/agenda/hoje-vai-ser-noticia-178686720",
+      "pubDate": "Sun, 16 Aug 2026 09:00:00 +0100",
+      "description": "Armada lusa do PSG em ação na Supertaça de França e Arsenal-Man. City na Supertaça Inglesa",
+      "thumbnail": "https://img.iol.pt/image/id/6a7ccbb4d34e511da0b3307c/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 15 Aug 2026 23:42:00 +0100",
       "description": "Desaire no reduto do Fluminense (3-2) não tira Palmeiras da liderança do Brasileirão",
       "thumbnail": "https://img.iol.pt/image/id/69f30acad34e28842c837f39/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Silaidopoulos: «As bolas paradas voltaram a penalizar-nos»",
-      "link": "https://maisfutebol.iol.pt/rio-ave/fc-porto/silaidopoulos-as-bolas-paradas-voltaram-a-penalizar-nos",
-      "pubDate": "Sat, 15 Aug 2026 23:39:00 +0100",
-      "description": "Treinador do Rio Ave gostou da energia que os jogadores colocaram em jogo",
-      "thumbnail": "https://img.iol.pt/image/id/6a80d327d34ed0733ba800c4/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Francesco Farioli: «Não é fácil ganhar de forma espetacular em jogos como este»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/rio-ave/franceso-farioli-nao-e-facil-ganhar-de-forma-espetacular-em-jogos-como-este",
-      "pubDate": "Sat, 15 Aug 2026 23:32:00 +0100",
-      "description": "Treinador do FC Porto contrariou a ideia de que esta época a equipa está menos avassaladora",
-      "thumbnail": "https://img.iol.pt/image/id/6a80e2a2d34ed0733ba800ee/250"
     },
     {
       "sourceId": "sapo",
@@ -205,11 +205,41 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Disneyland Paris terá atração aquática dedicada ao \"O Rei Leão\"",
+      "link": "https://www.noticiasaominuto.com/cultura/3037216/disneyland-paris-tera-atracao-aquatica-dedicada-ao-o-rei-leao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 09:10:01",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/32658228.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Catarina Furtado e as imagens da \"road trip por Itália\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037209/catarina-furtado-e-as-imagens-da-road-trip-por-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:52:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a816ad73f062.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYxOCwiY3JvcEhlaWdodCI6MTA5OSwiY3JvcFgiOjE3MSwiY3JvcFkiOjQ1N319"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Fogo de Vinhais dominado. 2 dos bombeiros feridos estão em estado grave",
       "link": "https://www.noticiasaominuto.com/pais/3037206/fogo-de-vinhais-dominado-2-dos-bombeiros-feridos-estao-em-estado-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 08:51:32",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Exercício da caça fiscalizado pela GNR de hoje e até fevereiro de 2027",
+      "link": "https://www.noticiasaominuto.com/pais/3037208/exercicio-da-caca-fiscalizado-pela-gnr-de-hoje-e-ate-fevereiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 08:40:20",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/29422389.webp"
     },
     {
       "sourceId": "nam",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b824ca4b7b5.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Brasileiro viaja pelas estradas de 30 países africanos. Eis como correu",
-      "link": "https://www.noticiasaominuto.com/mundo/3037205/brasileiro-viaja-pelas-estradas-de-30-paises-africanos-eis-como-correu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:17:37",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47568102.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Jogo entre Sporting Clube de Braga e Gil Vicente adiado",
-      "link": "https://www.noticiasaominuto.com/desporto/3037204/jogo-entre-sporting-clube-de-braga-e-gil-vicente-adiado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:06:18",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69ac985c4060c.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fomos conduzir a primeira berlina elétrica da BMW",
-      "link": "https://www.noticiasaominuto.com/auto/3027799/fomos-conduzir-a-primeira-berlina-eletrica-da-bmw#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 08:00:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ee627603f3.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Robot Phone: novo smartphone da HONOR tem um robot dentro e vai mudar tudo",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/robot-phone-novo-smartphone-da-honor-tem-um-robot-dentro-e-vai-mudar-tudo/",
+      "pubDate": "Sun, 16 Aug 2026 08:00:45 +0000",
+      "description": "Os novos conceitos no mundo da tecnologia nem sempre são consensuais. Podem quebrar regras ou simplesmente mudar a forma como se vê a tecnologia. A Honor conseguiu fazer isso e traz agora de forma&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/honor-robot-phone.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 15 Aug 2026 20:30:11 +0000",
       "description": "Durante décadas, eram os fabricantes chineses que procuravam na Europa tecnologia e conhecimento. Agora, essa tendência começa a inverter-se. A Volkswagen aprofundou a parceria com a XPENG e prepara-se para colocar cada vez mais&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/vla_xpeng00.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Pode beber a água que ficou vários dias dentro do carro?",
-      "link": "https://pplware.sapo.pt/ciencia/pode-beber-a-agua-que-ficou-varios-dias-dentro-do-carro/",
-      "pubDate": "Sat, 15 Aug 2026 19:30:52 +0000",
-      "description": "Esta é uma dúvida que não será só de uma pessoa. Até porque é normal, cada vez mais, as pessoas deixarem água nas garrafas dentro dos carros. Mas&#8230; será que se pode beber a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/agua_carro00.webp"
     },
     {
       "sourceId": "autosport",
