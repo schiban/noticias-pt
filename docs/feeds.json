@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-16T05:23:33.455982+00:00",
+  "updated": "2026-08-16T05:52:20.476262+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
+      "title": "6h. Ouvidas explosões em Kiev esta madrugada",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2465/",
       "pubDate": "Sun, 16 Aug 2026 06:17:48 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Administração militar reportou incêndio num edifício não residencial no distrito de Obolonsky. Ainda, Venezuela diz que foram libertados mais de mil presos políticos desde intervenção dos EUA.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "6h Quase 160 operacionais combatem incêndio em Chaves",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-quase-160-operacionais-combatem-incendio-em-chaves_a1_1759760",
+      "pubDate": "Sun, 16 Aug 2026 07:39:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "5h Fogo já praticamente controlado em Torre de Moncorvo",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-fogo-ja-praticamente-controlado-em-torre-de-moncorvo_a1_1759757",
       "pubDate": "Sun, 16 Aug 2026 07:12:02 +0100",
@@ -88,16 +98,6 @@
       "title": "2h Incêndios em Torre de Moncorvo e Chaves preocupam esta madrugada",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-incendios-em-torre-de-moncorvo-e-chaves-preocupam-esta-madrugada_a1_1759744",
       "pubDate": "Sun, 16 Aug 2026 03:31:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h FC Porto vence Rio Ave por 2-0",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-fc-porto-vence-rio-ave-por-2-0_a1_1759741",
-      "pubDate": "Sun, 16 Aug 2026 02:18:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Venezuela liberta mais de mil presos políticos. \"Continuaremos a avançar\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3037169/venezuela-liberta-mais-de-mil-presos-politicos-continuaremos-a-avancar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 06:21:11",
+      "title": "Benfica desespera por Palhinha, mas Marco Silva 'reforça-se' na Escócia",
+      "link": "https://www.noticiasaominuto.com/desporto/3036441/benfica-desespera-por-palhinha-mas-marco-silva-reforca-se-na-escocia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 06:30:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47612458.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ed80b3d553.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6MzYsImNyb3BZIjozMX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Drone que invadiu espaço aéreo da Roménia abatido por caça da NATO",
-      "link": "https://www.noticiasaominuto.com/mundo/3037191/drone-que-invadiu-espaco-aereo-da-romenia-abatido-por-caca-da-nato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 05:48:52",
+      "title": "Biblioteca sobre rodas leva livros e combate isolamento em Redondo",
+      "link": "https://www.noticiasaominuto.com/cultura/3037180/biblioteca-sobre-rodas-leva-livros-e-combate-isolamento-em-redondo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 06:25:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47611780.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47563402.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo com 4 frentes ativas em Chaves combatido por quase 160 bombeiros",
-      "link": "https://www.noticiasaominuto.com/pais/3037179/fogo-com-4-frentes-ativas-em-chaves-combatido-por-quase-160-bombeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 04:54:24",
+      "title": "Líder da Coreia do Norte elogia \"luta comum\" e relação com a Rússia",
+      "link": "https://www.noticiasaominuto.com/mundo/3037173/lider-da-coreia-do-norte-elogia-luta-comum-e-relacao-com-a-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 06:23:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/6207845.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47439335.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Calor e trovoada deixam Portugal sob aviso. Termómetros chegam aos 39ºC",
-      "link": "https://www.noticiasaominuto.com/pais/3037175/calor-e-trovoada-deixam-portugal-sob-aviso-termometros-chegam-aos-39c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 03:59:50",
+      "title": "Filipinas exigem explicações à China após detenção de 100 filipinos",
+      "link": "https://www.noticiasaominuto.com/mundo/3037171/filipinas-exigem-explicacoes-a-china-apos-detencao-de-100-filipinos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 06:22:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47391217.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47207384.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Explosões ouvidas na capital da Ucrânia após alerta de mísseis balísticos",
-      "link": "https://www.noticiasaominuto.com/mundo/3037167/explosoes-ouvidas-na-capital-da-ucrania-apos-alerta-de-misseis-balisticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 01:53:20",
+      "title": "Nove mortos no Japão após chuva torrencial e inundações",
+      "link": "https://www.noticiasaominuto.com/mundo/3037193/nove-mortos-no-japao-apos-chuva-torrencial-e-inundacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 06:21:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47592301.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47608747.webp"
     },
     {
       "sourceId": "pplware",
