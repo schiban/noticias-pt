@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-16T14:17:53.872469+00:00",
+  "updated": "2026-08-16T14:47:26.038063+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 15h",
+      "title": "15h. Ronaldo admite possível fim da carreira já este ano",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2427/",
       "pubDate": "Sun, 16 Aug 2026 15:14:11 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Capitão da Seleção Nacional assegura que tem o \"futuro todo planeado”. Ainda, quatro dos cinco bombeiros feridos no incêndio de Vinhais já tiveram alta hospitalar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -55,51 +55,71 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "15h Cristiano Ronaldo deverá terminar carreira no final da próxima época",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-cristiano-ronaldo-devera-terminar-carreira-no-final-da-proxima-epoca_a1_1759807",
-      "pubDate": "Sun, 16 Aug 2026 16:13:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Nadadora Kate Douglass volta a fixar recorde mundial dos 50 metros livres",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-kate-douglass-volta-a-fixar-recorde-mundial-dos-50-metros-livres_d1759812",
+      "pubDate": "Sun, 16 Aug 2026 16:43:48 +0100",
+      "description": "A norte-americana Kate Douglass fixou um novo recorde mundial dos 50 metros livres, no sábado, batendo a marca que a própria tinha imposto horas antes, nos Campeonatos Pan-Pacíficos de natação, em Irvine, nos Estados Unidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c0fb65f1693046920518922e01bc9b13?w=350&amp;q=50&amp;rect=0,12,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ronaldo admite que a próxima época `poderá` ser a última como jogador",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/ronaldo-admite-que-a-proxima-temporada-podera-ser-a-sua-ultima-epoca-como-jogador_d1759806",
-      "pubDate": "Sun, 16 Aug 2026 16:11:42 +0100",
-      "description": "Depois do último mundial muito se tem falado sobre quanto tempo mais Cristiano Ronaldo vai continuar a jogar. Este domingo esse assunto foi abordado pelo próprio, em entrevista a revista norte americana Vogue, afirmando o craque português que a temporada 2026/27 &#039;poderá&#039; ser a sua última é",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/27ff4351b61d47cefa0b9c7f92c052e5?w=350&amp;q=50&amp;rect=0,22,4816,2640&amp;auto=format"
+      "title": "I Liga.  Surto gastrointestinal na equipa do Braga obriga ao adiamento do jogo com o Gil Vicente",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-surto-gastrointestinal-na-equipa-do-braga-obriga-ao-adiamento-do-jogo-com-o-gil-vicente_d1759811",
+      "pubDate": "Sun, 16 Aug 2026 16:41:02 +0100",
+      "description": "O jogo de hoje entre Sporting de Braga e Gil Vicente foi adiado, para uma data a combinar, informou a Liga Portuguesa de Futebol Profissional (LPFP), com o clube bracarense a dar conta de um surto gastrointestinal na equipa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/66/6698e50d7c7b5a13d35d8f28fa91c8f9?w=350&amp;q=50&amp;rect=0,117,3465,1900&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Lotação esgotada no terceiro dia do Sol da Caparica",
-      "link": "https://www.rtp.pt/noticias/cultura/lotacao-esgotada-no-terceiro-dia-do-sol-da-caparica_v1759804",
-      "pubDate": "Sun, 16 Aug 2026 15:20:47 +0100",
-      "description": "Milhares de pessoas encheram o recinto do festival Sol da Caparica para assistirem à diversidade musical de Vizinhos, Nininho Vaz Maia e Kevinho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f2/f29f4b83f621c7d06b4a7575b3088690_N.jpg?"
+      "title": "Em Lisboa. Jovem de 25 anos morreu após ter sido esfaqueado no Cais do Sodré",
+      "link": "https://www.rtp.pt/noticias/pais/em-lisboa-jovem-de-25-anos-morreu-apos-ter-sido-esfaqueado-no-cais-do-sodre_n1759810",
+      "pubDate": "Sun, 16 Aug 2026 16:39:47 +0100",
+      "description": "Um jovem de 25 anos morreu hoje após ter sido esfaqueado no tórax no Cais do Sodré, em Lisboa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f47595847b76f2927102149c1dcff1a7?w=350&amp;q=50&amp;rect=170,121,1029,564&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Festival Paredes de Coura recebeu 115 mil pessoas e regressa no próximo ano",
-      "link": "https://www.rtp.pt/noticias/cultura/festival-paredes-de-coura-recebeu-115-mil-pessoas-e-regressa-no-proximo-ano_v1759803",
-      "pubDate": "Sun, 16 Aug 2026 15:19:47 +0100",
-      "description": "O rock já baixou o volume no festival de Paredes de Coura. A última noite voltou a encher o recinto. Por lá passaram mais de 115.000 pessoas e 66 bandas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/01/01074e32a2caa86db42c73bded330383_N.jpg?"
+      "title": "Volta a Portugal. Ruas empedradas do Porto acolhem encerramento que deve consagrar Guérin",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/volta-a-portugal-ruas-empedradas-do-porto-acolhem-encerramento-que-deve-consagrar-guerin_d1759809",
+      "pubDate": "Sun, 16 Aug 2026 16:35:26 +0100",
+      "description": "As ruas empedradas do Porto são hoje o palco da 10.ª e última etapa da 87.ª Volta a Portugal em bicicleta, que deve consagrar o francês Alexis Guérin (Anicolor-Campicarn) como vencedor, num dia que pode ser imprevisível quanto à discussão da tirada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/02/020560a25128d68edbccb38e1b46629c?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "14h Volta a Portugal : começou a última etapa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-volta-a-portugal-comecou-a-ultima-etapa_a1_1759802",
-      "pubDate": "Sun, 16 Aug 2026 15:17:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "I Liga. CD Nacional - Estoril",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-cd-nacional-estoril_e1759808",
+      "pubDate": "Sun, 16 Aug 2026 16:22:56 +0100",
+      "description": "Nacional e Estoril Praia medem forças este domingo, no Estádio da Madeira, no Funchal, sob arbitragem de Bruno Costa, da associação de Viana do Castelo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c5d35504dc5bf5cd7e18ff9dcd6bc23?w=350&amp;q=50&amp;rect=0,30,1536,842&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Basquetebol: Benfica segura jovem promessa até 2028",
+      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/basquetebol-benfica-segura-jovem-promessa-ate-2028",
+      "pubDate": "Sun, 16 Aug 2026 15:39:00 +0100",
+      "description": "Jhonathan Andrade estreou-se na equipa principal na última temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a81c9c7d34ed0733ba801a2/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Benfica gosta de apertar o adversário, mas vamos querer dividir o jogo»",
+      "link": "https://maisfutebol.iol.pt/casa-pia/liga/benfica-gosta-de-apertar-o-adversario-mas-vamos-querer-dividir-o-jogo",
+      "pubDate": "Sun, 16 Aug 2026 15:17:25 +0100",
+      "description": "Filipe Coelho explica ainda os casos de Patrick Sequeira e Jérémy Livolant, que estão de saída do Casa Pia",
+      "thumbnail": "https://img.iol.pt/image/id/6a75f8d0d34e511da0b3232e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a79be51d34ed0733ba7f182/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marco Silva confirma ausência de Aursnes e avisa: «Todos os jogos são finais»",
-      "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-confirma-ausencia-de-aursnes-e-avisa-todos-os-jogos-sao-finais",
-      "pubDate": "Sun, 16 Aug 2026 14:04:00 +0100",
-      "description": "Treinador do Benfica desvaloriza ainda o impacto de jogar depois de Sporting e FC Porto nesta jornada",
-      "thumbnail": "https://img.iol.pt/image/id/6a6a29a3d34ed0733ba7d060/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Luís Esteves estreia-se a marcar e «frango» dá vitória ao Atlas",
-      "link": "https://maisfutebol.iol.pt/internacional/mexico/video-luis-esteves-estreia-se-a-marcar-e-frango-da-vitoria-ao-atlas",
-      "pubDate": "Sun, 16 Aug 2026 14:00:00 +0100",
-      "description": "Médio ex-Gil Vicente saltou do banco na segunda parte para resolver um jogo com uma expulsão direta e um penálti defendido",
-      "thumbnail": "https://img.iol.pt/image/id/6a81ae1ad34e511da0b3391e/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -160,6 +160,16 @@
       "pubDate": "Sun, 16 Aug 2026 12:47:47 +0000",
       "description": "Depois de um semana com tempos muito acima dos recomendados, sobretudo para doentes urgentes, às 12 horas deste domingo só duas regiões registavam tempos médios excessivos para primeira observação.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AJizM%2FTNVm%2BGotH1JNx2XzeERGYBYYDdNrJ2DbJkPOML%2B9M4VbFsDb6%2Fn%2BAWwVxys4zp0PLOUILko0VD8be5KkBzfGDRxFgfnYov9UVoOO3rSMkS8woYG8qzitobYq7R5"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Volta tem app para pôr cêntimos na conta, mas só em eventos",
+      "link": "https://eco.sapo.pt/2026/08/16/volta-tem-app-para-por-centimos-na-conta-mas-so-em-eventos/",
+      "pubDate": "Sun, 16 Aug 2026 14:24:44 +0000",
+      "description": "A app, explica a Volta, foi desenvolvida especificamente para contextos de grande afluência, como festivais e outros eventos de grande dimensão onde estejam disponíveis Pontos Volta adaptados.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6vOV3mV%2Bk3oKOrI2Jp5P%2FzQI%2Bs52F5QP0X%2BWBATO%2F%2FUQSybpt3MEr7kY%2FxSsOPFkwfaxdsvQyC2mXzR4fGjp1PzYxCbJAlyW5wmgcMb8gHV%2BVHoJOZgKEYJyt4IKOUjU"
     },
     {
       "sourceId": "sapo",
@@ -192,64 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A2bDZwhmeSsKP8MHOZCOBPyOcdhJinBC6bMIKBtm8XuwjRUAZPZKjb5vWAzmpdXQsIRA5hb7NnCjwFKPIhGCPd%2FIUhRqEJSekbIamsYUcFIChvDEzcOMVw0NI84VdoJBp"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "‘Girassóis de metal’ de Alfouvar apontam antenas à constelação europeia IRIS 2",
-      "link": "https://eco.sapo.pt/reportagem/girassois-de-metal-de-alfouvar-apontam-antenas-a-constelacao-europeia-iris-2/",
-      "pubDate": "Sun, 16 Aug 2026 07:43:00 +0000",
-      "description": "A Meo e a Thales em Portugal querem colocar os teleportos de Alfouvar e de Santa Maria ao serviço da constelação europeia IRIS 2. Fomos à localidade de Sintra conhecer o espaço de 12 hectares.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AGX8zUyKuEAkXI1XtPE1vtj9zgB7SZ8C3AoFT1ZK8eeB%2BrPy4L7QPsNE4QZ1vPIup4fKG%2Fa%2FJIoT1ssNReJkFuqvQwz2kxRpBBL3226DnISnhQ%2FZQAaixrxBXXGodBYhy"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"Está tudo a tremer em todo lado, mas aqui nós estamos bem\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037285/esta-tudo-a-tremer-em-todo-lado-mas-aqui-nos-estamos-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:39:44",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_663249df4362e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYwLCJjcm9wSGVpZ2h0Ijo1OTYsImNyb3BYIjoxMSwiY3JvcFkiOjE1MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjA4LCJjcm9wSGVpZ2h0IjoxMDgwLCJjcm9wWCI6NzAsImNyb3BZIjo3Nn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Número de mortos no naufrágio no Zimbabué subiu para 80",
-      "link": "https://www.noticiasaominuto.com/mundo/3037275/numero-de-mortos-no-naufragio-no-zimbabue-subiu-para-80#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:11:58",
+      "title": "Portimonense soma segunda vitória seguida na receção ao Vizela",
+      "link": "https://www.noticiasaominuto.com/desporto/3037267/portimonense-soma-segunda-vitoria-seguida-na-rececao-ao-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:38:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c52d39e2a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjk5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODQsImNyb3BIZWlnaHQiOjY4MywiY3JvcFgiOjI0OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81cb4f20bd6.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"As fragilidades do Benfica são poucas. Pode haver ainda mais pressão...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3037278/as-fragilidades-do-benfica-sao-poucas-pode-haver-ainda-mais-pressao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:09:09",
+      "title": "Milan entra na corrida por Rodrigo Mora. Giménez pode ser moeda de troca",
+      "link": "https://www.noticiasaominuto.com/desporto/3037282/milan-entra-na-corrida-por-rodrigo-mora-gimenez-pode-ser-moeda-de-troca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:31:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a69fe76ba8e1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c91e22b28.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOSwiY3JvcEhlaWdodCI6MTY1MiwiY3JvcFgiOjEyMzMsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MjE0OSwiY3JvcEhlaWdodCI6MTIwOSwiY3JvcFgiOjM5MywiY3JvcFkiOjMzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Já há onzes para o Nacional-Estoril",
-      "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:03:44",
+      "title": "Homem detido após disparar espingarda pela janela na Ameixoeira",
+      "link": "https://www.noticiasaominuto.com/pais/3037281/homem-detido-apos-disparar-espingarda-pela-janela-na-ameixoeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:28:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6783c32a95142.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c6962df45.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"EA Sports FC\" (o antigo \"FIFA\") pode ter em breve um novo rival",
-      "link": "https://www.noticiasaominuto.com/tech/3036294/ea-sports-fc-o-antigo-fifa-pode-ter-em-breve-um-novo-rival#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:03:08",
+      "title": "Menina tem ataque de riso de mais de 3h (que esconde problema de saúde)",
+      "link": "https://www.noticiasaominuto.com/mundo/3037273/menina-tem-ataque-de-riso-de-mais-de-3h-que-esconde-problema-de-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:25:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64a0b3f7a3cfd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzQ5LCJjcm9wSGVpZ2h0Ijo3NTksImNyb3BYIjo5LCJjcm9wWSI6OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTAzLCJjcm9wSGVpZ2h0Ijo4OTQsImNyb3BYIjo4MDksImNyb3BZIjo3fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Há um truque para limpar os estores num instante (com um item de cozinha)",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3034586/ha-um-truque-para-limpar-os-estores-num-instante-com-um-item-de-cozinha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:00:41",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a79d1782c336.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81b66c8b07c.webp"
     },
     {
       "sourceId": "pplware",
