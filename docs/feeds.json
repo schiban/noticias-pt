@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T14:47:26.038063+00:00",
+  "updated": "2026-08-16T15:17:10.603052+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 16h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2331/",
+      "pubDate": "Sun, 16 Aug 2026 16:15:03 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os noivos Cris e Gio por Juergen Teller em Cascais e Fátima",
-      "link": "https://observador.pt/2026/08/16/no-futuro-vamos-fazer-uma-grande-festa-bastidores-da-boda-de-cris-e-gio-e-bencao-em-fatima-fotografados-por-juergen-teller-para-a-vogue/",
-      "pubDate": "Sun, 16 Aug 2026 14:01:06 +0100",
-      "description": "Num exclusivo, a Vogue avança os looks Gucci dos noivos, a sessão de ginástica de Cristiano e Georgina na manhã do dia em que se casaram \"na sua sala de estar\" e a bênção em Fátima.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1356:760:nowe:0:5/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16144401/captura-de-ecra-2026-08-16-as-144237.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Maviram de saída do Tondela rumo ao futebol da Letónia",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/maviram-de-saida-do-tondela-rumo-ao-futebol-da-letonia_d1759817",
+      "pubDate": "Sun, 16 Aug 2026 16:51:05 +0100",
+      "description": "O lateral esquerdo nigeriano Nor Maviram está de saída do Tondela rumo à Letónia, anunciou hoje a SAD do clube beirão que disputa a II Liga portuguesa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "II Liga. Portimonense soma segunda vitória seguida na receção ao Vizela",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-portimonense-soma-segunda-vitoria-seguida-na-rececao-ao-vizela_d1759816",
+      "pubDate": "Sun, 16 Aug 2026 16:50:22 +0100",
+      "description": "O Portimonense somou hoje a segunda vitória consecutiva na II Liga de futebol, ao bater em casa, por 2-0, o Vizela, que esteve em inferioridade numérica a partir dos 24 minutos do jogo da segunda jornada.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Francisca Martins apura-se para a final de 400 metros livres dos Europeus de natação",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/francisca-martins-apura-se-para-a-final-de-400-metros-livres-dos-europeus-de-natacao_d1759814",
+      "pubDate": "Sun, 16 Aug 2026 16:49:49 +0100",
+      "description": "A nadadora portuguesa Francisca Martins qualificou-se hoje para a final da prova de 400 metros livres dos Europeus de desportos aquáticos de 2026, a quarta que vai disputar na competição que decorre em Paris.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/284f49c3df6e872374cec443f4cff668?w=350&amp;q=50&amp;rect=0,196,3329,1825&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/66/6698e50d7c7b5a13d35d8f28fa91c8f9?w=350&amp;q=50&amp;rect=0,117,3465,1900&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Em Lisboa. Jovem de 25 anos morreu após ter sido esfaqueado no Cais do Sodré",
-      "link": "https://www.rtp.pt/noticias/pais/em-lisboa-jovem-de-25-anos-morreu-apos-ter-sido-esfaqueado-no-cais-do-sodre_n1759810",
-      "pubDate": "Sun, 16 Aug 2026 16:39:47 +0100",
-      "description": "Um jovem de 25 anos morreu hoje após ter sido esfaqueado no tórax no Cais do Sodré, em Lisboa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f47595847b76f2927102149c1dcff1a7?w=350&amp;q=50&amp;rect=170,121,1029,564&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Lourosa aproveita erro para vencer em Amarante e é líder na II Liga",
+      "link": "https://maisfutebol.iol.pt/futebol/ii-liga/video-lourosa-aproveita-erro-para-vencer-em-amarante-e-e-lider-na-ii-liga",
+      "pubDate": "Sun, 16 Aug 2026 16:03:11 +0100",
+      "description": "João Santos resolve a partida com um golo muito consentido pelos amarantinos",
+      "thumbnail": "https://img.iol.pt/image/id/6a81d0bdd34ed0733ba801ac/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Volta a Portugal. Ruas empedradas do Porto acolhem encerramento que deve consagrar Guérin",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/volta-a-portugal-ruas-empedradas-do-porto-acolhem-encerramento-que-deve-consagrar-guerin_d1759809",
-      "pubDate": "Sun, 16 Aug 2026 16:35:26 +0100",
-      "description": "As ruas empedradas do Porto são hoje o palco da 10.ª e última etapa da 87.ª Volta a Portugal em bicicleta, que deve consagrar o francês Alexis Guérin (Anicolor-Campicarn) como vencedor, num dia que pode ser imprevisível quanto à discussão da tirada.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/02/020560a25128d68edbccb38e1b46629c?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga. CD Nacional - Estoril",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-cd-nacional-estoril_e1759808",
-      "pubDate": "Sun, 16 Aug 2026 16:22:56 +0100",
-      "description": "Nacional e Estoril Praia medem forças este domingo, no Estádio da Madeira, no Funchal, sob arbitragem de Bruno Costa, da associação de Viana do Castelo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c5d35504dc5bf5cd7e18ff9dcd6bc23?w=350&amp;q=50&amp;rect=0,30,1536,842&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Bélgica: Vítor Bruno soma primeira derrota no comando do Anderlecht",
+      "link": "https://maisfutebol.iol.pt/internacional/belgica/belgica-vitor-bruno-soma-primeira-derrota-no-comando-do-anderlecht",
+      "pubDate": "Sun, 16 Aug 2026 15:43:42 +0100",
+      "description": "Yoni Gomis carimba, de cabeça, o triunfo do Beveren",
+      "thumbnail": "https://img.iol.pt/image/id/6a81cc4ed34ed0733ba801a8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 16 Aug 2026 14:53:01 +0100",
       "description": "Internacional português assegura que tem o seu futuro «completamente planeado»",
       "thumbnail": "https://img.iol.pt/image/id/6a7dffb2d34ed0733ba7fbeb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marco Silva: «Kaminski tem de ganhar a posição ao Prestianni e ao Andreas»",
-      "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-kaminski-tem-de-ganhar-a-posicao-ao-prestianni-e-ao-andreas",
-      "pubDate": "Sun, 16 Aug 2026 14:16:00 +0100",
-      "description": "Treinador do Benfica valoriza a competitividade no seio do plantel",
-      "thumbnail": "https://img.iol.pt/image/id/6a566105d34ef04b4f3f6804/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marco Silva espera por reforços: «Há algumas posições urgentes»",
-      "link": "https://maisfutebol.iol.pt/benfica/marco-silva/marco-silva-espera-por-reforcos-ha-algumas-posicoes-urgentes",
-      "pubDate": "Sun, 16 Aug 2026 14:10:00 +0100",
-      "description": "Treinador do Benfica aborda ainda a importância do aspeto comunicacional no seu trabalho",
-      "thumbnail": "https://img.iol.pt/image/id/6a79be51d34ed0733ba7f182/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "\"Menopausa não é obstáculo\". Mulher argentina dá à luz aos 62 anos",
+      "link": "https://www.noticiasaominuto.com/mundo/3037293/menopausa-nao-e-obstaculo-mulher-argentina-da-a-luz-aos-62-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 16:12:18",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4fdf7578f03.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMjksImNyb3BIZWlnaHQiOjE4MjksImNyb3BYIjozNzcsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Oposição moçambicana pede investigação a disparos a apoiantes de Mondlane",
+      "link": "https://www.noticiasaominuto.com/mundo/3037295/oposicao-mocambicana-pede-investigacao-a-disparos-a-apoiantes-de-mondlane#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 16:07:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45358450.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Incêndios na ilha grega de Salamina provocam dois mortos",
+      "link": "https://www.noticiasaominuto.com/mundo/3037288/incendios-na-ilha-grega-de-salamina-provocam-dois-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:53:15",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81ce6174308.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjUsImNyb3BYIjotMSwiY3JvcFkiOjc2NX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Sete apoios de praia em Odemira autuados por irregularidades",
+      "link": "https://www.noticiasaominuto.com/pais/3037287/sete-apoios-de-praia-em-odemira-autuados-por-irregularidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-16 15:48:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81ca7c35a58.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "\"Está tudo a tremer em todo lado, mas aqui nós estamos bem\"",
       "link": "https://www.noticiasaominuto.com/fama/3037285/esta-tudo-a-tremer-em-todo-lado-mas-aqui-nos-estamos-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-16 15:39:44",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_663249df4362e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYwLCJjcm9wSGVpZ2h0Ijo1OTYsImNyb3BYIjoxMSwiY3JvcFkiOjE1MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjA4LCJjcm9wSGVpZ2h0IjoxMDgwLCJjcm9wWCI6NzAsImNyb3BZIjo3Nn19"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Portimonense soma segunda vitória seguida na receção ao Vizela",
-      "link": "https://www.noticiasaominuto.com/desporto/3037267/portimonense-soma-segunda-vitoria-seguida-na-rececao-ao-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:38:04",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81cb4f20bd6.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Milan entra na corrida por Rodrigo Mora. Giménez pode ser moeda de troca",
-      "link": "https://www.noticiasaominuto.com/desporto/3037282/milan-entra-na-corrida-por-rodrigo-mora-gimenez-pode-ser-moeda-de-troca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:31:13",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c91e22b28.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOSwiY3JvcEhlaWdodCI6MTY1MiwiY3JvcFgiOjEyMzMsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MjE0OSwiY3JvcEhlaWdodCI6MTIwOSwiY3JvcFgiOjM5MywiY3JvcFkiOjMzfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Homem detido após disparar espingarda pela janela na Ameixoeira",
-      "link": "https://www.noticiasaominuto.com/pais/3037281/homem-detido-apos-disparar-espingarda-pela-janela-na-ameixoeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:28:46",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81c6962df45.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Menina tem ataque de riso de mais de 3h (que esconde problema de saúde)",
-      "link": "https://www.noticiasaominuto.com/mundo/3037273/menina-tem-ataque-de-riso-de-mais-de-3h-que-esconde-problema-de-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 15:25:34",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81b66c8b07c.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Caça espanhol da NATO abate drone que invadiu espaço aéreo europeu",
+      "link": "https://pplware.sapo.pt/informacao/caca-espanhol-da-nato-abate-drone-que-invadiu-espaco-aereo-europeu/",
+      "pubDate": "Sun, 16 Aug 2026 15:00:16 +0000",
+      "description": "Um caça F-18 da Força Aérea Espanhola, integrado numa missão de policiamento aéreo da NATO, abateu este domingo um drone que entrou no espaço aéreo da Roménia. O incidente aconteceu durante a madrugada, numa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/drone_x00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 16 Aug 2026 11:00:04 +0000",
       "description": "A cibersegurança não depende apenas de um antivírus. Existem várias ferramentas que permitem detetar ameaças, analisar redes, identificar vulnerabilidades e proteger dispositivos. Deixamos 5 delas. Snort para detetar ameaças na rede O Snort é&#46;&#46;&#46;",
       "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Mulher acusa padrasto de utilizar o Grok para transformar fotos suas em imagens explícitas",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/mulher-acusa-padrasto-de-utilizar-o-grok-para-transformar-fotos-suas-em-imagens-explicitas/",
-      "pubDate": "Sun, 16 Aug 2026 10:00:40 +0000",
-      "description": "Uma nova queixa judicial associa a ferramenta de inteligência artificial (IA) Grok, desenvolvida pela xAI de Elon Musk, à criação de milhares de imagens explícitas de uma menor de idade. O impacto da IA&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/grok.jpg"
     },
     {
       "sourceId": "autosport",
