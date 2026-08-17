@@ -1,55 +1,85 @@
 {
-  "updated": "2026-08-17T11:26:41.779487+00:00",
+  "updated": "2026-08-17T11:50:30.780502+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 12h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2418/",
-      "pubDate": "Mon, 17 Aug 2026 12:19:56 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "IPMA registou queda da radiação solar durante o eclipse",
+      "link": "https://observador.pt/2026/08/17/estacoes-meteorologicas-registam-queda-acentuada-da-radiacao-solar-durante-o-eclipse/",
+      "pubDate": "Mon, 17 Aug 2026 12:48:22 +0100",
+      "description": "O IPMA avança que a radiação solar caiu a pique durante o fenómeno astronómico visível em Portugal Continental na quarta-feira. O local mais afetado foi Castelo Branco. Em Lisboa, queda de até 99%.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12212842/jporfirio-reportagem-eclipse-solar-total-portugal-12-08-2026-01-50-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Irão coloca soldados norte-americanos com cabeça a prémio",
-      "link": "https://observador.pt/programas/a-guerra-traduzida/irao-coloca-soldados-norte-americanos-com-cabeca-a-premio/",
-      "pubDate": "Mon, 17 Aug 2026 12:12:29 +0100",
-      "description": "Por cada soldado norte-americano capturado ou morto o exército iraniano promete pagar 30 mil dólares. O valor duplica para mulheres iranianas. Ainda, Irão e Omã anunciam (até ver) acordo para Ormuz.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+      "title": "Política de regresso. O que podemos esperar? — Debate",
+      "link": "https://observador.pt/programas/contra-corrente/politica-de-regresso-o-que-podemos-esperar-debate/",
+      "pubDate": "Mon, 17 Aug 2026 12:43:37 +0100",
+      "description": "Após festa do Pontal do PSD e o arraial do PS em Olhão, os partidos estão oficialmente de regresso ao trabalho, mas o que podemos esperar deste ano político?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Dois mortos e quatro feridos em colisão frontal no IC5",
-      "link": "https://observador.pt/2026/08/17/dois-mortos-e-quatro-feridos-em-colisao-frontal-no-ic5-junto-a-vila-flor/",
-      "pubDate": "Mon, 17 Aug 2026 11:59:11 +0100",
-      "description": "Colisão frontal entre dois veículos ligeiros perto de Vila Flor causou a morte a duas pessoas. Outras quatro ficaram feridas, uma delas em estado grave.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:196/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/28092302/44097714.jpg"
+      "title": "Sobe para 68 o número de mortos no sismo na Indonésia",
+      "link": "https://observador.pt/2026/08/17/indonesia-eleva-para-68-e-213-numero-de-mortos-e-feridos-devido-ao-sismo-de-sabado/",
+      "pubDate": "Mon, 17 Aug 2026 12:31:14 +0100",
+      "description": "Anterior balanço dava conta de 53 mortos, com os distritos de Manggarai e Oriental a serem os mais afetados. O evento obrigou à retirada de mais de cinco mil pessoas para abrigos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17113207/47622192.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Trump quer menos exercícios com Coreia do Sul, um \"desastre\"",
-      "link": "https://observador.pt/2026/08/17/um-desastre-diplomatico-trump-invoca-muito-boa-relacao-com-kim-jong-un-para-reduzir-exercicios-militares-com-coreia-do-sul/",
-      "pubDate": "Mon, 17 Aug 2026 11:50:43 +0100",
-      "description": "Trump deu instruções a Hegseth para reduzir exercícios militares que decorrem há mais de 70 anos entre Washington e Seul. Presidência sul-coreana avalia caso e oposição fala em \"desastre diplomático\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17114046/gettyimages-2266087024-scaled.jpg"
+      "title": "Câmara de Penafiel corta taxas de construção para um euro",
+      "link": "https://observador.pt/programas/boa-moeda-ma-moeda/camara-de-penafiel-corta-taxas-de-construcao-para-um-euro/",
+      "pubDate": "Mon, 17 Aug 2026 12:31:01 +0100",
+      "description": "O município de Penafiel prescindiu da Taxa Municipal de Urbanização, passando a cobrar apenas o valor simbólico de um euro. O objectivo é ajudar a impulsionar a construção de habitação.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ordem saúda adiamento de novo sistema de acesso a consultas",
-      "link": "https://observador.pt/2026/08/17/ordem-dos-medicos-sauda-adiamento-do-novo-sistema-de-acesso-a-consultas-e-cirurgias/",
-      "pubDate": "Mon, 17 Aug 2026 11:20:56 +0100",
-      "description": "Ordem aprecia adiamento, que considera \"decisão prudente e responsável\", visto que o sistema ainda se encontra em fase de testes. Assinala que reforma só funciona quando preparada com rigor.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/14094023/45223831.jpg"
+      "title": "Chega pede dados às autarquias sobre casas vazias e rendas",
+      "link": "https://observador.pt/2026/08/17/chega-pede-dados-as-autarquias-sobre-casas-publicas-vazias-e-rendas-em-divida/",
+      "pubDate": "Mon, 17 Aug 2026 12:29:06 +0100",
+      "description": "Partido quer \"obter uma radiografia\" da habitação pública municipal – quantas casas existem e quantas estão vazias, dinheiro para recuperar em rendas não pagas e ação das autarquias para cobrança.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02180021/47393281.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Nova lei em DR clarifica regras do IVA de 6% na reabilitação urbana desde 2009",
+      "link": "https://www.rtp.pt/noticias/economia/nova-lei-em-dr-clarifica-regras-do-iva-de-6-na-reabilitacao-urbana-desde-2009_n1759944",
+      "pubDate": "Mon, 17 Aug 2026 13:44:48 +0100",
+      "description": "A nova lei que garante o IVA de 6% nos projetos de renovação em áreas de reabilitação urbana (ARU), mesmo quando não há uma operação de reabilitação (ORU), foi hoje publicada em Diário da República, tendo efeitos a 2009.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Dois mortos e quatro feridos em colisão frontal no IC5 junto a Vila Flor",
+      "link": "https://www.rtp.pt/noticias/pais/dois-mortos-e-quatro-feridos-em-colisao-frontal-no-ic5-junto-a-vila-flor_n1759941",
+      "pubDate": "Mon, 17 Aug 2026 13:44:32 +0100",
+      "description": "Duas pessoas morreram e quatro ficaram feridas, uma delas em estado grave, numa colisão frontal entre dois veículos ligeiros que ocorreu hoje no Itinerário Complementar 5 (IC5) em Vila Flor, disse fonte da Proteção Civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h Incêndio de Ponte de Lima passa para Viana do Castelo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-incendio-de-ponte-de-lima-passa-para-viana-do-castelo_a1_1759949",
+      "pubDate": "Mon, 17 Aug 2026 13:31:08 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,40 +102,10 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/031f975dc6ee256db1ce44b1577a9098?w=350&amp;q=50&amp;rect=0,152,1389,762&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump anuncia \"redução significativa\" dos exercícios militares com a Coreia do Sul",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-anuncia-reducao-significativa-dos-exercicios-militares-com-a-coreia-do-sul_n1759935",
-      "pubDate": "Mon, 17 Aug 2026 12:06:57 +0100",
-      "description": "O presidente norte-americano cita a sua &quot;ótima relação&quot; com o líder norte-coreano e lembra a recusa de Seul em ajudar na desnuclearização do Irão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4ab2d092f2b21742c8458be3a84da30?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Alternativa a Ormuz. Novo oleoduto Síria-Iraque vai levar anos a ser concluído",
-      "link": "https://www.rtp.pt/noticias/mundo/alternativa-a-ormuz-novo-oleoduto-siria-iraque-vai-levar-anos-a-ser-concluido_n1759934",
-      "pubDate": "Mon, 17 Aug 2026 12:02:58 +0100",
-      "description": "A infraestrutura, que exige a construção de novos oleodutos, demorará quatro anos a ficar pronta e tem um custo estimado de 15 mil milhões de dólares.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/da/dadd7660034019e6b39e008635881502?w=350&amp;q=50&amp;rect=0,66,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ministério Público acusa presidente da Câmara de Albufeira de discriminação e incitamento ao ódio",
-      "link": "https://www.rtp.pt/noticias/politica/ministerio-publico-acusa-presidente-da-camara-de-albufeira-de-discriminacao-e-incitamento-ao-odio_n1759931",
-      "pubDate": "Mon, 17 Aug 2026 11:40:31 +0100",
-      "description": "O Ministério Público (MP) acusou o presidente da Câmara de Albufeira, Rui Cristina (Chega), de discriminação e incitamento ao ódio e à violência, por declarações proferidas numa Assembleia Municipal, revelou hoje a Procuradoria Regional de Évora.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a0f4e5c94f88f43375212a215b6ef595?w=350&amp;q=50&amp;rect=0,121,1231,675&amp;auto=format"
-    },
-    {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Sergio Busquets regressa ao Barcelona como treinador adjunto da equipa B",
+      "title": "Sergio Busquets regressa ao Barcelona como adjunto da equipa B",
       "link": "https://maisfutebol.iol.pt/espanha/internacional/sergio-busquets-regressa-ao-barcelona-como-treinador-adjunto-da-equipa-b",
       "pubDate": "Mon, 17 Aug 2026 12:26:00 +0100",
       "description": "Apenas oito meses depois de pendurar as chuteiras, a lenda dos «culés» inicia uma nova etapa profissional",
@@ -155,6 +155,36 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Irão promete ter “surpresas estratégicas” para os EUA, no dia em que termina o prazo para um acordo de paz",
+      "link": "https://sapo.pt/artigo/irao-promete-ter-surpresas-estrategicas-para-os-eua-no-dia-em-que-termina-o-prazo-para-um-acordo-de-paz-6a82db7bbec1d8607e42d921",
+      "pubDate": "Mon, 17 Aug 2026 11:33:03 +0000",
+      "description": "Alto comandante da Guarda Revolucionária iraniana anuncia reorganização, modernização e desenvolvimento da doutrina de defesa do Irão. Forças militares afirmam que não cederão a Trump até derrotarem os Estados Unidos",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=538&W=956&crop=center&delay_optim=1&epic=V2%3AXcwamTROxEdYFES6EAwSEZuj6sMoVEHotL9KyYa3NDAKcp5by%2Fla%2FQNvnsgFgkAejpK7N5VRJSsrphPF1rqG1feEKWY3SYrBTYyOh7xCf6f7zro%2FGR5qedcpkL3fkZXO"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "PSP esclarece vídeo da Volta a Portugal e rejeita ligação à morte de Finlay Tarling",
+      "link": "https://sapo.pt/artigo/psp-esclarece-video-da-volta-a-portugal-e-rejeita-ligacao-a-morte-de-finlay-tarling-6a82e5047b96e18390d4ca03",
+      "pubDate": "Mon, 17 Aug 2026 11:33:03 +0000",
+      "description": "A Polícia de Segurança Pública (PSP) esclareceu que um vídeo que circula nas redes sociais, associado ao acidente que vitimou o ciclista Finlay Tarling, não tem qualquer relação com as circunstâncias ou o local da tragédia. As imagens mostram a...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AeQvkT9CaigqGmSJonyqRjJ%2FRvARHw2SNbWIvpBu6Cv%2FoWDZWQjeIB7qweJhCO86MxZsjGYdRFFgCXf42nW0dW%2FDdQIibLr%2BlqTqhHDMPsbwnvyRck2MJGEg7l84qaG4%2B"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Espanha: Três mortos, incluindo grávida e menor, após tiroteio na Isla Cristina",
+      "link": "https://sapo.pt/artigo/tres-mortos-incluindo-gravida-e-menor-apos-tiroteio-na-isla-cristina-6a82e158bec1d8607e445f9f",
+      "pubDate": "Mon, 17 Aug 2026 11:33:03 +0000",
+      "description": "Três pessoas morreram, incluindo uma mulher grávida e um menor - que passava pelo local -, depois de um tiroteio que ocorreu no bairro de El Rocío, na Isla Cristina, em Espanha. Os suspeitos, que estavam encapuzados, colocaram-se em fuga.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3As5KNBqVKYMuTBLJynvNck1Wl1Mtjqd0mRE1FG7%2Bx1kiZ0oqUZJ%2BZu4Xqn1Ua80Dz2XYU0j%2Fb%2FZBUAak9lbD0JSJEUva3N96GpRkq6mT4VO3%2FgyfQfmcatO1qS7%2BEGTNH"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Nove distritos do continente sob aviso laranja até terça-feira devido ao calor",
       "link": "https://executivedigest.sapo.pt/nove-distritos-do-continente-sob-aviso-laranja-ate-terca-feira-devido-ao-calor/",
       "pubDate": "Mon, 17 Aug 2026 09:43:53 +0000",
@@ -165,41 +195,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Turismo em Portugal abranda, mas não “quebra”. Setor navega nova fase focada em valor",
-      "link": "https://eco.sapo.pt/especiais/turismo-em-portugal-abranda-mas-nao-quebra-setor-navega-nova-fase-focada-em-valor/",
-      "pubDate": "Mon, 17 Aug 2026 06:23:23 +0000",
-      "description": "Durante anos, Portugal habituou-se a ver o turismo bater recordes. Agora, com o crescimento a abrandar, os líderes do setor ouvidos pelo ECO defendem que o desafio passa por gerar mais valor.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6bXL0YPxJJhE0xAK%2BjC3iiIgpXY%2Bwxgf7vKspPFdvudYaricrYkhL8eh5NRAdE%2Fb3MgRIDvI1GpiWssXVQTAyQmnykCKlCAgG9evAXTXUssJj4b2wxa2hThoTribg0RV"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ataque ucraniano em Belgorod provoca seis mortos, Rússia atinge maior porto da Ucrânia no rio Danúbio",
-      "link": "https://sapo.pt/artigo/ataque-ucraniano-em-belgorod-provoca-seis-mortos-russia-atinge-maior-porto-da-ucrania-no-rio-danubio-6a82b4787feb5726f8e28231",
-      "pubDate": "Mon, 17 Aug 2026 07:37:45 +0000",
-      "description": "A Ucrânia e a Rússia têm intensificado os seus ataques há vários meses, provocando um número crescente de vítimas civis, mais de quatro anos após o início da ofensiva russa.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AWkAQn9eMuRrBOZneQZei90ptTFDhhv5ITvqmd%2BMfPImsH3hthYCql%2F5ggfbeGzK0e8WcC1A1608FcKvvB3YVw7y%2FW102wgQraEE%2Bq2IX9FQ4KXaJJucoCYvBiDFQhVMH"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Gigantes europeus da defesa aumentam lucros em 26% e acumulam mais de 83 mil milhões em novas encomendas",
-      "link": "https://executivedigest.sapo.pt/gigantes-europeus-da-defesa-aumentam-lucros-em-26-e-acumulam-mais-de-83-mil-milhoes-em-novas-encomendas/",
-      "pubDate": "Mon, 17 Aug 2026 09:20:52 +0000",
-      "description": "As grandes empresas europeias da indústria da defesa continuam a beneficiar do forte aumento da despesa militar e fecharam o primeiro semestre de 2026 com novos máximos em encomendas, faturação e resultados operacionais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3AC7VtJJjj27h5cJgr5HorSecJ8cM4bdOzEzJ8ortAnTn2LocVLawMG7lxdbij%2FFuMqAy3iIF61CwTAF2QqDxZl8rP5wWU9gjIDvLM09YF6qsYQIwkmm%2FdM8ch0x0Iy2eF"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Irão: Teerão ameaça EUA com “surpresas estratégicas” e postura “ofensiva”",
-      "link": "https://jornaleconomico.sapo.pt/noticias/irao-teerao-ameaca-eua-com-surpresas-estrategicas-e-postura-ofensiva/",
-      "pubDate": "Mon, 17 Aug 2026 07:37:45 +0000",
-      "description": "Numa entrevista à televisão iraniana realizada hoje pela agência IRNA, um alto comandante da Guarda Revolucionária do Irão (IRGC, na sigla em inglês) defendeu uma \"reorganização, modernização e desenvolvimento da doutrina de defesa da República...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A5OkWkUfq4JVjbR%2FTo3rcR68v4z8Ul9KaX5ghXL4qjhwGn9rWj1SQ%2Fjb1Yx4RiJodVYASx%2BRyuPsH81N4NJgcuwi3CEU7pL%2FTlngsSm0%2BJqvAA%2F7OQi72X0kxEsw%2FdAOp"
+      "title": "Presidente da câmara de Albufeira, eleito pelo Chega, acusado de discriminação e incitamento ao ódio",
+      "link": "https://sapo.pt/artigo/presidente-da-camara-de-albufeira-eleito-pelo-chega-acusado-de-discriminacao-e-incitamento-ao-odio-6a82ddcac50b1ad904075f95",
+      "pubDate": "Mon, 17 Aug 2026 11:33:03 +0000",
+      "description": "O Ministério Público acusou o presidente da Câmara de Albufeira, Rui Cristina, eleito pelo Chega, de discriminação e incitamento ao ódio e à violência por declarações proferidas numa Assembleia Municipal.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AbhbTjhOhOP7SoEnoILi%2B3atIEkNHBccb2SlU3%2BJdO%2BkyyNw6ilBrIA7NWtLnlNCLHNk%2BUnX%2BEOnVM%2B8TS1m056wCF9zwWKS293tumT2fGpa6fS1jTomycO6XWh0BSDyo"
     },
     {
       "sourceId": "nam",
