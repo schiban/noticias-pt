@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-17T10:57:06.340346+00:00",
+  "updated": "2026-08-17T11:26:41.779487+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 12h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2418/",
+      "pubDate": "Mon, 17 Aug 2026 12:19:56 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Irão coloca soldados norte-americanos com cabeça a prémio",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/irao-coloca-soldados-norte-americanos-com-cabeca-a-premio/",
+      "pubDate": "Mon, 17 Aug 2026 12:12:29 +0100",
+      "description": "Por cada soldado norte-americano capturado ou morto o exército iraniano promete pagar 30 mil dólares. O valor duplica para mulheres iranianas. Ainda, Irão e Omã anunciam (até ver) acordo para Ormuz.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dois mortos e quatro feridos em colisão frontal no IC5",
+      "link": "https://observador.pt/2026/08/17/dois-mortos-e-quatro-feridos-em-colisao-frontal-no-ic5-junto-a-vila-flor/",
+      "pubDate": "Mon, 17 Aug 2026 11:59:11 +0100",
+      "description": "Colisão frontal entre dois veículos ligeiros perto de Vila Flor causou a morte a duas pessoas. Outras quatro ficaram feridas, uma delas em estado grave.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:196/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/28092302/44097714.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -20,36 +50,6 @@
       "pubDate": "Mon, 17 Aug 2026 11:20:56 +0100",
       "description": "Ordem aprecia adiamento, que considera \"decisão prudente e responsável\", visto que o sistema ainda se encontra em fase de testes. Assinala que reforma só funciona quando preparada com rigor.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/14094023/45223831.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Liechtenstein muda regras de sucessão ao trono",
-      "link": "https://observador.pt/2026/08/17/liechtenstein-passa-a-permitir-mulheres-no-trono-era-o-ultimo-pais-europeu-em-que-imperava-a-lei-agnatica/",
-      "pubDate": "Mon, 17 Aug 2026 11:10:15 +0100",
-      "description": "Era o único país europeu onde o trono era exclusivo dos homens. A câmara aprovou a alteração com maioria de dois terços, mas o impacto real só se sentirá daqui a pelo menos duas gerações.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17100847/gettyimages-2290043448-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "MP acusa Rui Cristina de discriminação e incitamento ao ódio",
-      "link": "https://observador.pt/2026/08/17/ministerio-publico-acusa-rui-cristina-presidente-da-camara-de-albufeira-de-discriminacao-e-incitamento-ao-odio/",
-      "pubDate": "Mon, 17 Aug 2026 11:08:12 +0100",
-      "description": "Caso remonta a novembro de 2025, quando Rui Cristina afirmou não destinar qualquer quantia para dar habitação a \"cidadãos locais pertencentes a uma determinada etnia\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/25140003/23602786.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PM britânico troca mensagens com falsa conselheira de Trump",
-      "link": "https://observador.pt/2026/08/17/primeiro-ministro-britanico-troca-mensagens-com-falsa-chefe-de-gabinete-da-casa-branca/",
-      "pubDate": "Mon, 17 Aug 2026 11:03:02 +0100",
-      "description": "Andy Burnham contactou uma pessoa que se fez passar por Susie Wiles, a quem enviou algumas mensagens \"sem importância\". O telemóvel da republicana já fora pirateado em maio de 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1837:1030:nowe:100:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02130202/47526836.jpg"
     },
     {
       "sourceId": "rtp",
@@ -105,6 +105,16 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Sergio Busquets regressa ao Barcelona como treinador adjunto da equipa B",
+      "link": "https://maisfutebol.iol.pt/espanha/internacional/sergio-busquets-regressa-ao-barcelona-como-treinador-adjunto-da-equipa-b",
+      "pubDate": "Mon, 17 Aug 2026 12:26:00 +0100",
+      "description": "Apenas oito meses depois de pendurar as chuteiras, a lenda dos «culés» inicia uma nova etapa profissional",
+      "thumbnail": "https://img.iol.pt/image/id/6a82eb3cd34ed0733ba80346/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "Ciclismo: Jonas Vingegaard confirma que só regressa em 2027",
       "link": "https://maisfutebol.iol.pt/modalidades/ciclismo/ciclismo-jonas-vingegaard-confirma-que-so-regressa-em-2027",
       "pubDate": "Mon, 17 Aug 2026 11:49:04 +0100",
@@ -140,16 +150,6 @@
       "pubDate": "Mon, 17 Aug 2026 10:58:12 +0100",
       "description": "Santos Laguna acertou por duas vezes nos ferros na derrota frente ao Chivas",
       "thumbnail": "https://img.iol.pt/image/id/6a0d8e9fd34e28842c843e74/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Avançado do Cagliari nos cuidados intensivos após incidente em piscina",
-      "link": "https://maisfutebol.iol.pt/italia/cagliari/avancado-do-cagliari-nos-cuidados-intensivos-apos-incidente-em-piscina",
-      "pubDate": "Mon, 17 Aug 2026 10:48:59 +0100",
-      "description": "Yael Trepy correu risco de afogamento e teve de ser levado de helicóptero",
-      "thumbnail": "https://img.iol.pt/image/id/6a82d832d34e511da0b33ada/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "A verdadeira (e cremosa) massa tailandesa. Temos uma receita rápida",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037504/a-verdadeira-e-cremosa-massa-tailandesa-temos-uma-receita-rapida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 11:54:24",
+      "title": "Nova lei clarifica regras do IVA de 6% na reabilitação urbana desde 2009",
+      "link": "https://www.noticiasaominuto.com/economia/3037553/nova-lei-clarifica-regras-do-iva-de-6-na-reabilitacao-urbana-desde-2009#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 12:19:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a82d8f758e12.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDE1LCJjcm9wSGVpZ2h0IjoxMzU4LCJjcm9wWCI6NDgsImNyb3BZIjoyMTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_540062595babb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Seis petrolíferas duplicam lucros na UE com crise em Ormuz",
-      "link": "https://www.noticiasaominuto.com/economia/3037545/seis-petroliferas-duplicam-lucros-na-ue-com-crise-em-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 11:53:25",
+      "title": "Festival de ópera leva \"Luz e Trevas\" a Óbidos em setembro",
+      "link": "https://www.noticiasaominuto.com/cultura/3037561/festival-de-opera-leva-luz-e-trevas-a-obidos-em-setembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 12:19:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46770222.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/23795656.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6OTEsImNyb3BZIjozNTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjI3NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Chega pede dados às autarquias sobre casas públicas vazias e rendas em dívida",
-      "link": "https://www.noticiasaominuto.com/politica/3037541/chega-pede-dados-as-autarquias-sobre-casas-publicas-vazias-e-rendas-em-divida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 11:48:53",
+      "title": "Aveiro. Estudantes desenvolvem drone autónomo para missões humanitárias",
+      "link": "https://www.noticiasaominuto.com/tech/3032958/aveiro-estudantes-desenvolvem-drone-autonomo-para-missoes-humanitarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 12:16:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67eef03b9e78b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMzMsImNyb3BIZWlnaHQiOjE4MzcsImNyb3BYIjo5OTUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5aa6e0c23bd2a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTIyLCJjcm9wSGVpZ2h0IjoxMDgxLCJjcm9wWCI6OTUsImNyb3BZIjoxMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTQyLCJjcm9wSGVpZ2h0Ijo5NjQsImNyb3BYIjoxMTI4LCJjcm9wWSI6N319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Diploma das horas extra: Trabalho nas VMER e urgências internas incluído",
-      "link": "https://www.noticiasaominuto.com/pais/3037542/diploma-das-horas-extra-trabalho-nas-vmer-e-urgencias-internas-incluido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 11:48:24",
+      "title": "Teerão considera \"irrelevante\" fim do prazo para acordo com EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3037546/teerao-considera-irrelevante-fim-do-prazo-para-acordo-com-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 12:03:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_579ddc6008a17.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MTQ3LCJjcm9wSGVpZ2h0IjoyMzMzLCJjcm9wWCI6NzMsImNyb3BZIjo5ODh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE5NDQsImNyb3BIZWlnaHQiOjM0NTYsImNyb3BYIjoyNzYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a16c3e4c0f7c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo em Ponte de Lima passou para Viana do Castelo e tem 3 frentes ativas",
-      "link": "https://www.noticiasaominuto.com/pais/3037543/fogo-em-ponte-de-lima-passou-para-viana-do-castelo-e-tem-3-frentes-ativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 11:46:24",
+      "title": "Os melhores auscultadores e auriculares de 2026 (que não custam um rim)",
+      "link": "https://www.noticiasaominuto.com/tech/3037544/os-melhores-auscultadores-e-auriculares-de-2026-que-nao-custam-um-rim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 11:57:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5d3885cb37be8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a82e8684aca8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NDgsImNyb3BIZWlnaHQiOjUzMywiY3JvcFgiOjEsImNyb3BZIjoxMTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUzNSwiY3JvcEhlaWdodCI6OTUxLCJjcm9wWCI6MTY2LCJjcm9wWSI6NH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Depois do Sol, é a vez da Lua: eclipse parcial profundo marcado para 28 de agosto",
+      "link": "https://pplware.sapo.pt/ciencia/depois-do-sol-e-a-vez-da-lua-eclipse-parcial-profundo-marcado-para-28-de-agosto/",
+      "pubDate": "Mon, 17 Aug 2026 11:00:03 +0000",
+      "description": "Pouco tempo depois de o eclipse solar total ter maravilhado a Península Ibérica, há um novo espetáculo celeste marcado. No dia 28 de agosto, a Lua vai entrar na sombra da Terra e, desta&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/eclipse-lunar-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/07/Calor-LC-1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "A utilização do Ubuntu no Windows 11 está a crescer e a atingir novos recordes",
-      "link": "https://pplware.sapo.pt/linux/a-utilizacao-do-ubuntu-no-windows-11-esta-a-crescer-e-a-atingir-novos-recordes/",
-      "pubDate": "Mon, 17 Aug 2026 08:30:20 +0000",
-      "description": "Com o fim do Windows 10, os utilizadores começaram a olhar para o Windows 11 e para o Linux de forma diferente. Agora, a Canonical prevê que o número de instalações do Ubuntu via&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ubuntu-wsl-windows-11-1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: George Russell ainda tem as cicatrizes da estreia com a Mercedes",
+      "link": "https://www.autosport.pt/formula1/f1-george-russell-ainda-tem-as-cicatrizes-da-estreia-com-a-mercedes/",
+      "pubDate": "Mon, 17 Aug 2026 11:15:00 +0000",
+      "description": "George Russell revelou que a sua primeira corrida pela Mercedes no Grande Prémio de Sakhir de 2020 lhe deixou marcas físicas duradouras nas ancas, quase seis anos depois do episódio. O piloto britânico fez as declarações no programa Significant Figures, da SAP, divulgado durante a pausa de verão. O ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/automais/nissan-qashqai-quatro-milhoes-vendidos-na-europa/",
       "pubDate": "Mon, 17 Aug 2026 08:50:00 +0000",
       "description": "O Nissan Qashqai ultrapassou a fasquia das quatro milhões de unidades vendidas na Europa desde o lançamento, em 2006, o que representa uma das histórias de maior sucesso da marca japonesa no segmento dos “crossovers” e dos Sport Utility Vehicles (SUV). Ao longo de três gerações, o modelo recebeu mai",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Troféu Easykart Portugal: Os vencedores em Palmela",
-      "link": "https://www.autosport.pt/sem-categoria/trofeu-easykart-portugal-os-vencedores-em-palmela/",
-      "pubDate": "Mon, 17 Aug 2026 08:17:00 +0000",
-      "description": "O Troféu Easykart Portugal disputou no fim de semana a sua quarta jornada da temporada, desta vez no Kartódromo Internacional de Palmela, sob organização da ACDME. A competição, que conta com a chancela da Federação Portuguesa de Automobilismo e Karting, repetiu o formato do ano anterior, com parte ",
       "thumbnail": ""
     }
   ]
