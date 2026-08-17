@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-17T16:21:52.447224+00:00",
+  "updated": "2026-08-17T16:53:50.485293+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Trânsito condicionado na A2 no sentido Algarve-Lisboa",
+      "link": "https://observador.pt/2026/08/17/transito-condicionado-na-a2-em-alcacer-do-sal-por-reparacao-urgente-de-junta-de-dilatacao-no-sentido-algarve-lisboa/",
+      "pubDate": "Mon, 17 Aug 2026 17:30:08 +0100",
+      "description": "Circulação reduzida a uma faixa ao km 80 da Autoestrada do Sul. Brisa pede precaução aos condutores que circulem no sentido sul-norte.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:93/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/08/01111604/14664306.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 17h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2270/",
+      "pubDate": "Mon, 17 Aug 2026 17:23:44 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Quarta-feira há descidas de temperatura de cerca de 10ºC\"",
+      "link": "https://observador.pt/programas/resposta-pronta/quarta-feira-ha-descidas-de-temperatura-de-cerca-de-10oc/",
+      "pubDate": "Mon, 17 Aug 2026 17:23:08 +0100",
+      "description": "Jorge Ponte, chefe de divisão de previsão meteorológica e vigilância do IPMA, explica o aviso laranja em 9 distritos devido ao calor e revela descida da temperatura a partir de quarta-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01162126/47386677.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14123332/47578341.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O dilema do \"ovo e da galinha\" entre Israel e o Hamas",
-      "link": "https://observador.pt/programas/gabinete-de-guerra/o-dilema-do-ovo-e-da-galinha-entre-israel-e-o-hamas/",
-      "pubDate": "Mon, 17 Aug 2026 17:10:05 +0100",
-      "description": "Israel e Hamas em desacordo sobre quem deve desmobilizar primeiro. Major-General João Vieira Borges defende primeiro passo da \"potência ocupante\". Trump ameaça Omã? É manobra de dissuasão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "PGR abre inquérito à morte de ciclista na Volta a Portugal",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/pgr-vai-abrir-inquerito-a-morte-de-ciclista-na-volta-a-portugal_d1759984",
+      "pubDate": "Mon, 17 Aug 2026 18:47:33 +0100",
+      "description": "A Procuradoria-Geral da República abriu um inquérito à morte do ciclista Finlay Tarling, durante a Volta a Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6ec2de6ad4063f13b7bf5680fb93e546?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Trump ameaça Omã se fizer acordo com Teerão sobre Ormuz",
-      "link": "https://observador.pt/2026/08/17/trump-ameaca-bombardear-oma-se-pais-se-entender-com-teerao-sobre-estreito-de-ormuz/",
-      "pubDate": "Mon, 17 Aug 2026 17:09:48 +0100",
-      "description": "Presidente norte-americano ameaçou Omã se o país \"se intrometer\" nas negociações sobre o Estreito de Ormuz. Teerão e Mascate têm vindo a debater rotas marítimas sem os EUA.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:14/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17140521/47589897.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ir sozinho para a escola: a partir de que idade?",
-      "link": "https://observador.pt/programas/porque-sim-nao-e-resposta/ir-sozinho-para-a-escola-a-partir-de-que-idade/",
-      "pubDate": "Mon, 17 Aug 2026 17:09:06 +0100",
-      "description": "Uma mãe escreveu-nos: quer que a filha vá sozinha de autocarro para a escola, mas as notícias de raptos e assédio deixam-na dividida entre a autonomia e o medo. Onde fica o equilíbrio?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Passe ferroviário Verde em Lisboa e Porto pode dispensar compra do Navegante e Andante",
+      "link": "https://www.rtp.pt/noticias/economia/passe-ferroviario-verde-em-lisboa-e-porto-pode-dispensar-compra-do-navegante-e-andante_n1759982",
+      "pubDate": "Mon, 17 Aug 2026 18:32:57 +0100",
+      "description": "O Passe Ferroviário Verde (PFV) vai ser alargado às linhas de comboio urbanas abrangidas pelos passes Navegante e Andante, nas áreas metropolitanas de Lisboa e Porto, permitindo a quem apenas usa o comboio passar a comprar só este título.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef7d8cca51930908248d73a4f365ed5c?w=350&amp;q=50&amp;rect=0,171,2880,1579&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a0f4e5c94f88f43375212a215b6ef595?w=350&amp;q=50&amp;rect=0,121,1231,675&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Duas crianças de Gaza já estão em Portugal para receberem tratamentos médicos",
-      "link": "https://www.rtp.pt/noticias/mundo/duas-criancas-de-gaza-ja-estao-em-portugal-para-receberem-tratamentos-medicos_n1759975",
-      "pubDate": "Mon, 17 Aug 2026 17:02:26 +0100",
-      "description": "São duas meninas, Malak, de 7 anos, e Dima, de 16 anos, que ficaram amputadas. Chegaram esta segunda-feira ao Aeroporto Francisco Sá Carneiro, no Porto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b8466073c0f08ed7ef43aae229541859?w=350&amp;q=50&amp;rect=0,330,5500,3015&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: João Novais troca de clube na Arábia Saudita",
+      "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/oficial-joao-novais-troca-de-clube-na-arabia-saudita",
+      "pubDate": "Mon, 17 Aug 2026 17:50:00 +0100",
+      "description": "Médio português reforça Al Najma, do segundo escalão do futebol saudita",
+      "thumbnail": "https://img.iol.pt/image/id/6a8339b0d34e511da0b33bdf/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "15h Incêndios: Torre de Moncorvo com poucos meios, diz autarca",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-incendios-torre-de-moncorvo-com-poucos-meios-diz-autarca_a1_1759974",
-      "pubDate": "Mon, 17 Aug 2026 16:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Quatro portugueses entre os melhores jogadores do EAFC 27",
+      "link": "https://maisfutebol.iol.pt/made-in/esports/quatro-portugueses-entre-os-melhores-jogadores-do-eafc-27",
+      "pubDate": "Mon, 17 Aug 2026 17:21:38 +0100",
+      "description": "Bruno Fernandes junta-se ao trio do PSG",
+      "thumbnail": "https://img.iol.pt/image/id/6a1b58a2d34edcee7c64c627/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a7c2b57d34ed0733ba7f5eb/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Dortmund reforça-se com antigo alvo de Benfica e Sporting",
-      "link": "https://maisfutebol.iol.pt/internacional/borussia-dortmund/oficial-dortmund-reforca-se-com-antigo-alvo-de-benfica-e-sporting",
-      "pubDate": "Mon, 17 Aug 2026 15:32:40 +0100",
-      "description": "Giannis Konstantelias chega do PAOK por mais de 30 milhões",
-      "thumbnail": "https://img.iol.pt/image/id/6a831ae3d34e511da0b33b8c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Santa Clara contrata guarda-redes que se estreou na Liga com 17 anos",
-      "link": "https://maisfutebol.iol.pt/liga/santa-clara/oficial-santa-clara-contrata-guarda-redes-que-se-estreou-na-liga-com-17-anos",
-      "pubDate": "Mon, 17 Aug 2026 15:10:58 +0100",
-      "description": "Tomé Sousa, formado no Boavista, esteve nos sub-23 do Farense na época passada",
-      "thumbnail": "https://img.iol.pt/image/id/6a831590d34e511da0b33b72/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,11 +165,31 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão promete ter “surpresas estratégicas” para os EUA, no dia em que termina o prazo para um acordo de paz",
-      "link": "https://sapo.pt/artigo/irao-promete-ter-surpresas-estrategicas-para-os-eua-no-dia-em-que-termina-o-prazo-para-um-acordo-de-paz-6a82db7bbec1d8607e42d921",
-      "pubDate": "Mon, 17 Aug 2026 11:33:03 +0000",
-      "description": "Alto comandante da Guarda Revolucionária iraniana anuncia reorganização, modernização e desenvolvimento da doutrina de defesa do Irão. Forças militares afirmam que não cederão a Trump até derrotarem os Estados Unidos",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=538&W=956&crop=center&delay_optim=1&epic=V2%3AXcwamTROxEdYFES6EAwSEZuj6sMoVEHotL9KyYa3NDAKcp5by%2Fla%2FQNvnsgFgkAejpK7N5VRJSsrphPF1rqG1feEKWY3SYrBTYyOh7xCf6f7zro%2FGR5qedcpkL3fkZXO"
+      "title": "Presidente de Ceuta ameaça recorrer à justiça e acusa Sánchez de \"passividade absoluta\"",
+      "link": "https://sapo.pt/artigo/presidente-de-ceuta-ameaca-recorrer-a-justica-e-acusa-sanchez-de-passividade-absoluta-6a8332e3bec1d8607e534f09",
+      "pubDate": "Mon, 17 Aug 2026 16:14:17 +0000",
+      "description": "Juan Jesús Vivas intensificou críticas contra Pedro Sánchez, ameaçando recorrer à justiça se a crise migratória não for resolvida em 30 dias. Bruxelas, por outro lado, elogia o trabalho de Espanha nas fronteiras.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AaxstApvih4m%2BC3X3DE5XcUyItd4cbUJUZzdKle4y7XYNoL5qKfNh7wrzpZ1Ve17490hkb7ZHGOmODVbxjLTOXvCp2i4ZYdySOmO5iGnG6oSKwAnkn%2FzuvXoadnuDraJl"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Extrema-direita do Reino Unido quer retirar benefícios sociais a todos os estrangeiros, incluindo cidadãos da UE",
+      "link": "https://executivedigest.sapo.pt/extrema-direita-do-reino-unido-quer-retirar-beneficios-sociais-a-todos-os-estrangeiros-incluindo-cidadaos-da-ue/",
+      "pubDate": "Mon, 17 Aug 2026 16:24:02 +0000",
+      "description": "O partido britânico de direita radical Reform UK propõe limitar o acesso aos apoios sociais a cidadãos britânicos, numa medida que abrangeria também cidadãos da União Europeia com estatuto de residência no Reino Unido.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Abd%2BoVGOissBbdpYa%2Fq3kjJVClufYcJt4v3cfAfaDclBXe%2FCtHEwGJtHFDp0KspKcAymZSjBDPL9OC6zfVtV4nppCFtmxdWY7gZo6oslp%2FsMucyf7oigyJkZIQY%2BPFvYS"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ministro israelita sugere matar palestinianos diariamente",
+      "link": "https://sapo.pt/artigo/ministro-israelita-sugere-matar-palestinianos-diariamente-6a83342d33cbe64db34dc722",
+      "pubDate": "Mon, 17 Aug 2026 16:25:49 +0000",
+      "description": "O ministro da Segurança Nacional de Israel sugeriu matar entre 30 a 40 palestinos todas as noites na Faixa de Gaza argumentando que os moradores \"nem sequer são pessoas\" e que \"não merecem viver lá\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AgnubskIVLo%2F2OCdwgvGbMEc3Mr7sJ0GNZhD%2BUTnCQe8K%2B1pW8wngZBzNJ1%2BHWYTPMzXUv5R0ld%2FHnm%2BSD%2BgoFD4UwDOVDWp8X2hdPpxCONYmbL9Y6kxWA44lgmSBzTiP"
     },
     {
       "sourceId": "sapo",
@@ -179,77 +199,57 @@
       "link": "https://sapo.pt/artigo/trump-ameaca-rebentar-oma-caso-pais-se-atravesse-no-caminho-dos-eua-6a831e85bec1d8607e503b0b",
       "pubDate": "Mon, 17 Aug 2026 14:47:35 +0000",
       "description": "Presidente dos Estados Unidos ameaçou atacar o Omã caso o país interfira nos esforços norte-americanos no Estreito de Ormuz.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=385&W=684&crop=center&delay_optim=1&epic=V2%3A%2FtyBVehotDKUV%2BGFRvB3BVLJbEA6Jc35j5S3edr5XN4p24F0k33ikrubh8ySgX1c6FIR1iF87Y2i8RDPe2z1HuH6C81pHXwD9jHYXpyLVannPScjsyCxNT7Yt5V7t5at"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "EUA ameaçam Bruxelas com “quaisquer ações necessárias” se UE não aliviar regras de sustentabilidade",
-      "link": "https://sapo.pt/artigo/eua-ameacam-bruxelas-com-quaisquer-acoes-necessarias-se-ue-nao-aliviar-regras-de-sustentabilidade-6a8326c67b96e18390e358d9",
-      "pubDate": "Mon, 17 Aug 2026 15:27:08 +0000",
-      "description": "Washington exige que diretivas CSDDD e CSRD deixem de abranger empresas norte-americanas sem presença física na UE, alegando incumprimento de compromissos assumidos no acordo comercial de Turnberry.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=672&W=1195&crop=center&delay_optim=1&epic=V2%3AlXw8aIJUJEkUOsZCGKdutBwl3EWw2Ti%2BJJKdUkqoAbkoheM%2BsB5RjQ5LVDi%2FSPY5tPOHgMslCt%2Bc0tjmTHzE%2BRhFslET%2FxWRIvDMCo4PbzhuWbeP93X4JISwdz3hr352"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Morte de Hayden Panettiere. Suspeita de overdose ganha força após chamada para a linha de emergência",
-      "link": "https://sapo.pt/artigo/morte-de-hayden-panettiere-suspeita-de-overdose-ganha-forca-apos-chamada-para-a-linha-de-emergencia-6a8317577b96e18390e0c6ab",
-      "pubDate": "Mon, 17 Aug 2026 14:28:38 +0000",
-      "description": "A atriz de “Heroes” e “Nashville” foi encontrada sem vida em casa, na Carolina do Sul. Uma chamada para o 911 feita por uma amiga referia uma mulher inconsciente e em paragem cardíaca. A causa da morte ainda não foi oficialmente determinada.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Ao0tokTeHOtSqJTZZNP%2B8whkzkkXTQLmeFwWfG4kxlalcW03ucDCS8fuB96%2B3X32SXCa9SVCXi6fNN3T51dprRIv9d7FqhW%2FL6a2ZSa9QcFcN2%2B0tX0npGxZyUfw7BpYs"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AQxDKg8Vy%2FYEgOspgY8xYlxDJe2ZN%2BNi7I68VsxUk%2FIRdqWlG0tdp6FYTirbkE1E4NhPYwP%2BMAtZMpEi5wysLbQBF8v5hWOq3KMuhtl%2Br3I8YAbJ%2Bk%2F38%2BIoUNAOJR0zv"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Reparação \"urgente\" na A2 causa trânsito lento do Algarve para Lisboa",
-      "link": "https://www.noticiasaominuto.com/pais/3037705/reparacao-urgente-na-a2-causa-transito-lento-do-algarve-para-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 17:16:07",
+      "title": "Lamine Yamal gozou com o penteado dos colegas e a reação foi esta",
+      "link": "https://www.noticiasaominuto.com/desporto/3037724/lamine-yamal-gozou-com-o-penteado-dos-colegas-e-a-reacao-foi-esta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 17:35:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_58b6cd9267e33.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a833845297b0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Festival MOTELX cumpre 20 edições com mais de 170 filmes em setembro",
-      "link": "https://www.noticiasaominuto.com/cultura/3037710/festival-motelx-cumpre-20-edicoes-com-mais-de-170-filmes-em-setembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 17:13:54",
+      "title": "Despiste de betoneira mata condutor e corta EN380 em Vendas Novas",
+      "link": "https://www.noticiasaominuto.com/pais/3037722/despiste-de-betoneira-mata-condutor-e-corta-en380-em-vendas-novas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 17:35:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6314771248ba3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc665a5c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6LTEsImNyb3BZIjoxNTh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Exército alemão atinge quase 190 mil efetivos (n.º mais alto em 13 anos)",
-      "link": "https://www.noticiasaominuto.com/mundo/3037614/exercito-alemao-atinge-quase-190-mil-efetivos-n-mais-alto-em-13-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 17:13:26",
+      "title": "Supremo russo rejeita recurso e mantém exclusão de partido antiguerra",
+      "link": "https://www.noticiasaominuto.com/mundo/3037717/supremo-russo-rejeita-recurso-e-mantem-exclusao-de-partido-antiguerra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 17:22:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8333f12e717.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47623600.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgwLCJjcm9wSGVpZ2h0IjoxMzk1LCJjcm9wWCI6MTAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Princesa Eugenie revela nome e fotos da filha (com homenagem a Portugal)",
-      "link": "https://www.noticiasaominuto.com/fama/3037699/princesa-eugenie-revela-nome-e-fotos-da-filha-com-homenagem-a-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 17:13:25",
+      "title": "Oficial: Hugo Oliveira 'rouba' jovem a Mourinho. Real Madrid faz história",
+      "link": "https://www.noticiasaominuto.com/desporto/3037718/oficial-hugo-oliveira-rouba-jovem-a-mourinho-real-madrid-faz-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 17:22:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65a0e143c0f22.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTg1MSwiY3JvcEhlaWdodCI6MzI5MSwiY3JvcFgiOjM3NSwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8334fa832ff.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Homem detido por posse e uso de documento falso no aeroporto do Porto",
-      "link": "https://www.noticiasaominuto.com/pais/3037707/homem-detido-por-posse-e-uso-de-documento-falso-no-aeroporto-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 17:12:58",
+      "title": "Fogo em Valongo corta EN209 e mobiliza uma centena de operacionais",
+      "link": "https://www.noticiasaominuto.com/pais/3037715/fogo-em-valongo-corta-en209-e-mobiliza-uma-centena-de-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 17:20:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_696618e12112c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/29221231.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6OTQwLCJjcm9wWSI6MzQyfX0="
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,26 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "Estoril Classics: Horário definido e bilhetes à venda",
+      "link": "https://www.autosport.pt/velocidade/estoril-classics-horario-definido-e-bilhetes-a-venda/",
+      "pubDate": "Mon, 17 Aug 2026 16:45:00 +0000",
+      "description": "O Estoril Classics regressa ao Autódromo do Estoril entre os dias 18 e 20 de setembro de 2026, para celebrar a sua décima edição, com o programa oficial já definido. Durante três dias, o evento volta a reunir algumas das mais importantes competições de automóveis históricos, num formato que combina ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Morreu Alex Fiorio",
+      "link": "https://www.autosport.pt/ralis/morreu-alex-fiorio/",
+      "pubDate": "Mon, 17 Aug 2026 16:09:19 +0000",
+      "description": "O motorsport italiano e mundial está de luto. Alex Fiorio, antigo piloto de ralis e uma das figuras da era dourada da Lancia, morreu esta segunda-feira, 17 de agosto de 2026, aos 61 anos, em Ceglie Messapica, na região da Puglia. Lutou contra um cancro no estômago diagnosticado poucos meses antes, c",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "WEC: Hypercar da Ford já se viu… e ouviu",
       "link": "https://www.autosport.pt/velocidade/wec-hypercar-da-ford-ja-se-viu-e-ouviu/",
       "pubDate": "Mon, 17 Aug 2026 15:45:00 +0000",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-ceo-da-cadillac-nao-quer-mudar-de-pilotos/",
       "pubDate": "Mon, 17 Aug 2026 14:15:00 +0000",
       "description": "O mercado começa a fervilhar com rumores e parece que Carlos Sainz vai ser um dos alvos de maior atenção. O espanhol está descontente com a atual forma da equipa e aparentemente está a sondar outras oportunidades. Assim surgem também rumores sobre um potencial candidato ao seu lugar. Sérgio Pérez é ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WRC: Thierry Neuville focado em manter-se na Hyundai, apesar das incertezas",
-      "link": "https://www.autosport.pt/ralis/wrc-thierry-neuville-focado-em-manter-se-na-hyundai-apesar-das-incertezas/",
-      "pubDate": "Mon, 17 Aug 2026 13:30:00 +0000",
-      "description": "Thierry Neuville afirmou que o seu &#8220;foco claro&#8221; é permanecer na Hyundai no Campeonato do Mundo de Ralis para a próxima temporada, apesar de ainda não ter um programa confirmado para 2027. O piloto belga está ligado ao fabricante sul-coreano desde o regresso deste ao WRC em 2014, e as sua",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E: António Félix da Costa deixou um aviso claro aos adversários",
-      "link": "https://www.autosport.pt/velocidade/formula-e-antonio-felix-da-costa-deixou-um-aviso-claro-aos-adversarios/",
-      "pubDate": "Mon, 17 Aug 2026 12:45:00 +0000",
-      "description": "Vivemos tempos de extremos. Em que é moda falar grosso e alto, apontar o dedo sem segundas ponderações. Destacam-se os que, por usarem esse truque, são considerados diretos, frontais, sem medo de dizerem o que pensam, e das consequências. Com isso, o bom senso, o meio-termo e a convivência salutar, ",
       "thumbnail": ""
     }
   ]
