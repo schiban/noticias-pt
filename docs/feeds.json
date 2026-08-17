@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-17T07:48:32.021646+00:00",
+  "updated": "2026-08-17T08:37:24.225581+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Nove distritos sob aviso laranja até terça-feira",
+      "link": "https://observador.pt/2026/08/17/nove-distritos-do-continente-sob-aviso-laranja-ate-terca-feira-devido-ao-calor/",
+      "pubDate": "Mon, 17 Aug 2026 09:26:37 +0100",
+      "description": "O IPMA colocou também vários distritos sob aviso amarelo até às 18h00 de terça-feira e prevê uma continuação de tempo quente com céu pouco nublado no continente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03180119/47386678.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2443/",
+      "pubDate": "Mon, 17 Aug 2026 09:17:05 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Exportações ajudam economia a crescer no segundo trimestre",
+      "link": "https://observador.pt/2026/08/17/exportacoes-ajudam-economia-japonesa-a-crescer-03-no-segundo-trimestre/",
+      "pubDate": "Mon, 17 Aug 2026 08:55:16 +0100",
+      "description": "Produto Interno Bruto da quarta maior economia mundial aumentou 0,3% entre abril e junho face ao trimestre anterior, segundo dados oficiais divulgados esta segunda-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/10235521/GettyImages-1234402407-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jovem de 16 anos atingido com arma de fogo em Corroios",
+      "link": "https://observador.pt/2026/08/17/jovem-de-16-anos-atingido-com-arma-de-fogo-em-corroios-suspeitos-encapuzados-continuam-em-fuga/",
+      "pubDate": "Mon, 17 Aug 2026 08:49:43 +0100",
+      "description": "Vítima foi abordada na noite de domingo por dois homens de cara tapada que disparam de seguida. Menor foi transportado para os cuidados intensivos do Hospital D. Estefânia, em Lisboa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1296:729:nowe:518:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/04/19094204/2389676.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/29102001/770-podcast-o-bom-o-mau-e-o-vilao-2025.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Política: acabaram as férias. O que vem aí?",
-      "link": "https://observador.pt/programas/contra-corrente/politica-acabaram-as-ferias-o-que-vem-ai/",
-      "pubDate": "Mon, 17 Aug 2026 08:39:23 +0100",
-      "description": "No Algarve, os políticos já voltaram ao trabalho. Montenegro repetiu ritual de 50 anos na vida do PSD, a Festa do Pontal. José Luís Carneiro antecipou o regresso do PS à agenda em Olhão. O que vem aí?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "9h Incêndios em Torre de Moncorvo e Boticas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-incendios-em-torre-de-moncorvo-e-boticas_a1_1759921",
+      "pubDate": "Mon, 17 Aug 2026 10:23:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os rendimentos de Pedro Duarte e os avisos de Carneiro",
-      "link": "https://observador.pt/newsletters/360/os-rendimentos-de-pedro-duarte-os-avisos-de-carneiro-e-o-dia-especial-de-ronaldo-e-georgina/",
-      "pubDate": "Mon, 17 Aug 2026 08:31:04 +0100",
-      "description": "O presidente da câmara do Porto abdicou de mais de metade do salário ao entrar para o Governo e acumulou ações da Microsoft. Em Olhão, Carneiro lembrou Guterres e atacou Montenegro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndios na Europa. Casal de idosos morre na Grécia e chuva ajuda no combate ao fogo na Bélgica",
+      "link": "https://www.rtp.pt/noticias/mundo/incendios-na-europa-casal-de-idosos-morre-na-grecia-e-chuva-ajuda-no-combate-ao-fogo-na-belgica_n1759920",
+      "pubDate": "Mon, 17 Aug 2026 10:13:55 +0100",
+      "description": "A Europa continua a ser devastada por vários incêndios, depois das sucessivas ondas de calor. Na Grécia, um casal de idosos morreu, enquanto a Bélgica respira de alívio com a chegada da chuva.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/719b81840792c40f20a7418ec1735109?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Peladinha PSD: Muita união, mas a culpa é do árbitro",
-      "link": "https://observador.pt/programas/momentos-de-glria/peladinha-psd-muita-uniao-mas-a-culpa-e-do-arbitro/",
-      "pubDate": "Mon, 17 Aug 2026 08:25:19 +0100",
-      "description": "O PSD culpa o árbitro no futebol como quem culpa o Parlamento. Pelo meio, o tuga faz do lixo o novo El Dorado (com fraude à mistura) e terminamos a marchar pelos direitos das televisões \"LGTV\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O futebol do povo regressou com nova \"salgalhada\"",
-      "link": "https://observador.pt/programas/tres-toques/o-futebol-do-povo-regressou-com-nova-salgalhada/",
-      "pubDate": "Mon, 17 Aug 2026 08:18:45 +0100",
-      "description": "Está de volta o Campeonato de Portugal, a 4.ª divisão do futebol português, que só teve o quadro final definido na véspera (e ainda pode mudar). Ainda, o casamento e a possível despedida de Ronaldo",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "As más notícias são notícia",
+      "link": "https://www.rtp.pt/noticias/opiniao/felisbela-lopes/as-mas-noticias-sao-noticia_1759873",
+      "pubDate": "Mon, 17 Aug 2026 10:12:24 +0100",
+      "description": "Por estes dias, as rentrées políticas constituem-se como pseudoacontecimentos cuidadosamente encenados para favorecer narrativas dos partidos que as promovem. Foi assim com a Festa do Pontal, que este ano assinalou 50 anos. A primeira edição realizou-se em 1976, a 29 de agosto, numa data em que se p",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -66,40 +96,40 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Ministro israelita Ben Gvir sugere matar palestinianos de forma seletiva",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/ministro-israelita-ben-gvir-sugere-matar-palestinianos-de-forma-seletiva_n1759918",
+      "link": "https://www.rtp.pt/noticias/mundo/ministro-israelita-ben-gvir-sugere-matar-palestinianos-de-forma-seletiva_n1759918",
       "pubDate": "Mon, 17 Aug 2026 09:35:35 +0100",
-      "description": "O ministro da Segurança Nacional de Israel, Itamar Ben Gvir, figura da extrema-direita, sugeriu que o exército israelita deveria matar seletivamente entre 30 e 40 palestinos todas as noites na Faixa de Gaza, porque &quot;não merecem viver lá&quot;.",
+      "description": "O ministro da Segurança Nacional de Israel, Itamar Ben Gvir, figura da extrema-direita, sugeriu que o exército israelita deveria matar seletivamente entre 30 e 40 palestinianos todas as noites na Faixa de Gaza, porque &quot;não merecem viver lá&quot;.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/76/76e8ad2c4ded40e181896421f694327c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "8h Incêndio de Ponte de Lima com 3 frentes ativas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/8h-incendio-de-ponte-de-lima-com-3-frentes-ativas_a1_1759917",
-      "pubDate": "Mon, 17 Aug 2026 09:21:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Brasil: adeptos do Botafogo pedem a saída de Franclim Carvalho",
+      "link": "https://maisfutebol.iol.pt/internacional/brasil/brasil-adeptos-do-botafogo-pedem-a-saida-de-franclim-carvalho",
+      "pubDate": "Mon, 17 Aug 2026 09:34:39 +0100",
+      "description": "Contestação no aeroporto após a derrota frente ao Vitória para o Brasileirão",
+      "thumbnail": "https://img.iol.pt/image/id/6a66790ad34ef04b4f3f914f/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ébola. Atual surto na RDCongo já é o segundo mais letal da história",
-      "link": "https://www.rtp.pt/noticias/mundo/ebola-atual-surto-na-rdcongo-ja-e-o-segundo-mais-letal-da-historia_n1759907",
-      "pubDate": "Mon, 17 Aug 2026 09:17:11 +0100",
-      "description": "O atual surto do vírus Ébola na República democrática do Congo (RDCongo), já é o mais letal desta doença em registo, com 2.325 mortes confirmadas, de acordo com os últimos dados das autoridades congolesas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/da/da346f7c864d26de5c6633f1e0317003?w=350&amp;q=50&amp;rect=0,111,1024,561&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Juventus contrata central colombiano ao Bolonha",
+      "link": "https://maisfutebol.iol.pt/internacional/juventus/oficial-juventus-contrata-central-colombiano-ao-bolonha",
+      "pubDate": "Mon, 17 Aug 2026 09:25:37 +0100",
+      "description": "Jhon Lucumí defrontou Portugal no Mundial",
+      "thumbnail": "https://img.iol.pt/image/id/6a82c439d34e511da0b33a9f/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Atriz Hayden Panettiere morre aos 36 anos",
-      "link": "https://www.rtp.pt/noticias/lusa/atriz-hayden-panettiere-morre-aos-36-anos_n1759915",
-      "pubDate": "Mon, 17 Aug 2026 09:04:09 +0100",
-      "description": "A atriz, modelo e cantora norte-americana Hayden Panettiere, conhecida pelos seus papéis nas séries &quot;Heróis&quot; e &quot;Nashville&quot;, morreu aos 36 anos, confirmou à emissora ABC News o seu representante.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4daecf6a0f1daa552fee4dafbd21c4b0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Brasil: Jardim goleia, Artur Jorge ganha fora e Franclim Carvalho sofre derrota",
+      "link": "https://maisfutebol.iol.pt/internacional/brasil/brasil-jardim-goleia-artur-jorge-ganha-fora-e-franclim-carvalho-sofre-derrota",
+      "pubDate": "Mon, 17 Aug 2026 09:06:33 +0100",
+      "description": "Com menos um jogo realizado, o Flamengo fica a três pontos do líder Palmeiras",
+      "thumbnail": "https://img.iol.pt/image/id/6a82bff6d34ed0733ba802e9/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Mon, 17 Aug 2026 08:06:52 +0100",
       "description": "Nuno Borges também garantiu uma vaga na terceira ronda do Masters 1.000 norte-americano",
       "thumbnail": "https://img.iol.pt/image/id/6a15f75ad34e28842c84800b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Hoje vai ser notícia",
-      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/benfica/hoje-vai-ser-noticia-178695000",
-      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0100",
-      "description": "Benfica e Casa Pia jogam para a Liga",
-      "thumbnail": "https://img.iol.pt/image/id/69d421bad34edcee7c62b9fb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Feminino: guarda-redes do Benfica conquista CAN e luva de ouro",
-      "link": "https://maisfutebol.iol.pt/futebol-feminino/michaely-bihina/feminino-guarda-redes-do-benfica-conquista-can-e-luva-de-ouro",
-      "pubDate": "Mon, 17 Aug 2026 00:03:00 +0100",
-      "description": "Michaely Bihina, dos Camarões, foi ainda considerada a melhor guardiã do torneio",
-      "thumbnail": "https://img.iol.pt/image/id/6a7d8a61d34ed0733ba7fa2f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Europeus de Atletismo: Agate de Sousa fica em quarto lugar no salto em comprimento",
-      "link": "https://maisfutebol.iol.pt/modalidades/agate-de-sousa/europeus-de-atletismo-agate-de-sousa-fica-em-quarto-lugar-no-salto-em-comprimento",
-      "pubDate": "Sun, 16 Aug 2026 23:39:02 +0100",
-      "description": "Atleta portuguesa fixou um salto de 6,96 metros",
-      "thumbnail": "https://img.iol.pt/image/id/69c01d84d34e28842c82097e/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Líder da Anthropic quer que IA seja capaz de \"curar cancro\"",
-      "link": "https://www.noticiasaominuto.com/tech/3037451/lider-da-anthropic-quer-que-ia-seja-capaz-de-curar-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 08:45:49",
+      "title": "Euro ultrapassa 1,16 dólares: É um máximo de dois meses",
+      "link": "https://www.noticiasaominuto.com/economia/3037473/euro-ultrapassa-1-16-dolares-e-um-maximo-de-dois-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 09:33:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69aaf0bb5ca15.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjYsImNyb3BZIjoxMTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/18969632.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atenção! Calor coloca 9 distritos do continente a laranja até terça-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3037447/atencao-calor-coloca-9-distritos-do-continente-a-laranja-ate-terca-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 08:41:25",
+      "title": "As 5 coisas que deve fazer ao comprar uma nova consola de jogos",
+      "link": "https://www.noticiasaominuto.com/tech/3037472/as-5-coisas-que-deve-fazer-ao-comprar-uma-nova-consola-de-jogos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 09:33:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a476bcbbd142.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_675054591fbc6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTIsImNyb3BZIjoyMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5NywiY3JvcFgiOjgzMiwiY3JvcFkiOjEwfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ministro israelita Ben Gvir sugere matar palestinianos de forma seletiva",
-      "link": "https://www.noticiasaominuto.com/mundo/3037446/ministro-israelita-ben-gvir-sugere-matar-palestinianos-de-forma-seletiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 08:38:40",
+      "title": "Governo de Taiwan vai propor gasto recorde na Defesa para 2027",
+      "link": "https://www.noticiasaominuto.com/mundo/3037469/governo-de-taiwan-vai-propor-gasto-recorde-na-defesa-para-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 09:32:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_665b8d9e069b4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_643ed598b583d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jovem pediu ajuda antes de matar mãe e Estado ignorou: \"Ninguém fez nada\"",
-      "link": "https://www.noticiasaominuto.com/pais/3037436/cpcj-psp-justica-os-pedidos-de-ajuda-do-jovem-que-matou-a-mae-e-que-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 08:38:00",
+      "title": "Milhares aguardavam ainda por assistência dias após sismo na Indonésia",
+      "link": "https://www.noticiasaominuto.com/mundo/3037422/milhares-aguardavam-ainda-por-assistencia-dias-apos-sismo-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 09:23:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a82b0b746127.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a803414a9cc5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MzUsImNyb3BZIjo4OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NTkzLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Adeus, dores na lombar! O exercício que melhora 50% das dores de costas",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037439/adeus-dores-na-lombar-o-exercicio-que-melhora-50-das-dores-de-costas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 08:35:07",
+      "title": "ONU aponta para até 500 combatentes insurgentes em Cabo Delgado",
+      "link": "https://www.noticiasaominuto.com/mundo/3037468/onu-aponta-para-ate-500-combatentes-insurgentes-em-cabo-delgado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 09:22:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64dc7e6875530.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzY2LCJjcm9wSGVpZ2h0IjoxMzMxLCJjcm9wWCI6NTgsImNyb3BZIjoyNjJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/31200376.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjgyNiwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "A utilização do Ubuntu no Windows 11 está a crescer e a atingir novos recordes",
+      "link": "https://pplware.sapo.pt/linux/a-utilizacao-do-ubuntu-no-windows-11-esta-a-crescer-e-a-atingir-novos-recordes/",
+      "pubDate": "Mon, 17 Aug 2026 08:30:20 +0000",
+      "description": "Com o fim do Windows 10, os utilizadores começaram a olhar para o Windows 11 e para o Linux de forma diferente. Agora, a Canonical prevê que o número de instalações do Ubuntu via&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ubuntu-wsl-windows-11-1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Venda de carros elétricos usados dispara em Portugal! A razão vai surpreender",
+      "link": "https://pplware.sapo.pt/motores/venda-de-carros-eletricos-usados-dispa-em-portugal-a-razao-vai-surpreender/",
+      "pubDate": "Mon, 17 Aug 2026 08:00:47 +0000",
+      "description": "Os elétricos já conquistaram os portugueses e cada vez mais se vê estes veículos nas estradas. Se o foco vai para os novos, há também um mercado de usados muito interessante. Estas vendas dispararam&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/bateria_usados_eletrico_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/tesla_modely_v2l_00.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Estamos mesmo em 2026 ou em 1729? A polémica teoria dos 297 anos inventados",
-      "link": "https://pplware.sapo.pt/ciencia/estamos-mesmo-em-2026-ou-em-1729-a-polemica-teoria-dos-297-anos-inventados/",
-      "pubDate": "Sun, 16 Aug 2026 20:00:11 +0000",
-      "description": "E se o calendário que usamos estiver errado? Não por alguns dias ou meses, mas por quase três séculos. Segundo uma das teorias históricas mais curiosas das últimas décadas, 297 anos da história europeia&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/297anos_apagados00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Combustíveis: aumento do desconto no ISP! Saiba quanto paga amanhã",
-      "link": "https://pplware.sapo.pt/motores/combustiveis-aumento-do-desconto-no-isp-saiba-quanto-paga-amanha/",
-      "pubDate": "Sun, 16 Aug 2026 19:20:04 +0000",
-      "description": "Os preços dos combustíveis voltam a subir esta segunda-feira, 17 de agosto, mas o Governo decidiu reforçar o desconto aplicado através do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP). A medida pretende atenuar&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/03/gasoleo_00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Troféu Easykart Portugal: Os vencedores em Palmela",
+      "link": "https://www.autosport.pt/sem-categoria/trofeu-easykart-portugal-os-vencedores-em-palmela/",
+      "pubDate": "Mon, 17 Aug 2026 08:17:00 +0000",
+      "description": "O Troféu Easykart Portugal disputou no fim de semana a sua quarta jornada da temporada, desta vez no Kartódromo Internacional de Palmela, sob organização da ACDME. A competição, que conta com a chancela da Federação Portuguesa de Automobilismo e Karting, repetiu o formato do ano anterior, com parte ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-adam-brezik-e-zdenek-belak-venceram-em-casa/",
       "pubDate": "Sun, 16 Aug 2026 16:39:11 +0000",
       "description": "Adam Březík / Zdeněk Bělák jun. celebraram a primeira vitória da carreira no ERC, alcançada precisamente em casa, no Barum Czech Rally Zlín. A conquista surge dez anos depois da estreia do piloto checo nesta mesma prova. Ao volante de um Škoda Fabia RS Rally2 equipado com pneus Hankook, Březík selou",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Fórmula E, Londres: Pascal Wehrlein diz que título foi “contra todos”",
-      "link": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-diz-que-titulo-foi-contra-todos/",
-      "pubDate": "Sun, 16 Aug 2026 15:58:38 +0000",
-      "description": "E no final, Pascal Wehrlein fez a festa! O piloto da Porsche conquistou o segundo título mundial, após uma derradeira corrida atribulada, caótica (como esperado) e com um antigo colega de equipa a dificultar-lhe a vida. Wehrlein esteve em luta com António Félix da Costa, com o português a ter a miss",
       "thumbnail": ""
     }
   ]
