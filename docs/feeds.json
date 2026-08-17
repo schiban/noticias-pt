@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-17T03:45:43.601998+00:00",
+  "updated": "2026-08-17T04:36:29.208962+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 5h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1557/",
+      "pubDate": "Mon, 17 Aug 2026 05:14:49 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As faturas milionárias das empresas com a IA",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/as-faturas-milionarias-das-empresas-com-a-ia/",
+      "pubDate": "Mon, 17 Aug 2026 05:02:47 +0100",
+      "description": "Muitas empresas começaram a incentivar os funcionários a usar a Inteligência Artificial ao máximo, até começarem a receber faturas astronómicas. Uma conversa com a jornalista Cátia Rocha.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Brilhante Dias acusa Montenegro de ser \"esgotado\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2355/",
-      "pubDate": "Mon, 17 Aug 2026 01:14:27 +0100",
-      "description": "Eurico Brilhante Dias criticou a intervenção do primeiro-ministro na Festa do Pontal. Ainda, o incêndio em Torre de Moncorvo já chegou ao município vizinho: Carrazeda de Ansiães.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Exportações ajudam economia japonesa crescer 0,3% no segundo trimestre",
+      "link": "https://www.rtp.pt/noticias/economia/exportacoes-ajudam-economia-japonesa-crescer-03-no-segundo-trimestre_n1759883",
+      "pubDate": "Mon, 17 Aug 2026 06:35:06 +0100",
+      "description": "A economia japonesa cresceu, mas menos do que o esperado, no segundo trimestre de 2026, com medidas de apoio de Tóquio e exportações sólidas a atenuarem o impacto da guerra no Médio Oriente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcac1b2f58052fbac5fdfb5e2919ddcf?w=350&amp;q=50&amp;rect=0,102,960,526&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os nossos tempos: Mudar: método",
-      "link": "https://observador.pt/opiniao/os-nossos-tempos-mudar-metodo/",
-      "pubDate": "Mon, 17 Aug 2026 00:25:06 +0100",
-      "description": "Quanto mais mergulhamos nas nossas memórias e quanto mais exploramos intenções e comportamentos, mais encontramos o homem hobbesiano.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bispo do Funchal termina visita pedindo muita proximidade com as vítimas",
+      "link": "https://www.rtp.pt/noticias/mundo/bispo-do-funchal-termina-visita-pedindo-muita-proximidade-com-as-vitimas_n1759879",
+      "pubDate": "Mon, 17 Aug 2026 06:29:10 +0100",
+      "description": "O bispo do Funchal terminou hoje uma visita seis dias à Venezuela pedindo solidariedade e ajuda para as vítimas do duplo sismo de 24 de junho que afetou seis estados do país, principalmente a La Guaira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc1ea12cc3c84bbfbc05da941d5ea6b9?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Tenistas Jaime Faria e Nuno Borges apurados em Cincinnati",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-tenistas-jaime-faria-e-nuno-borges-apurados-em-cincinnati_a1_1759897",
+      "pubDate": "Mon, 17 Aug 2026 06:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fogo em Torre de Moncorvo alastrou para Carrazeda de Ansiães em duas frentes",
+      "link": "https://www.rtp.pt/noticias/pais/fogo-em-torre-de-moncorvo-alastrou-para-carrazeda-de-ansiaes-em-duas-frentes_n1759878",
+      "pubDate": "Mon, 17 Aug 2026 06:23:53 +0100",
+      "description": "O incêndio que deflagrou no sábado na freguesia de Cabeça Boa, concelho de Torre de Moncorvo, distrito de Bragança, alastrou hoje para o município vizinho de Carrazeda de Ansiães e tem duas frentes ativas, indicou fonte da Proteção Civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7a40da7078a7a6f02396b7023ae8b0f9?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -58,46 +98,6 @@
       "title": "4h Cimeira da ONU sobre desertificação começa hoje na Mongólia",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-cimeira-da-onu-sobre-desertificacao-comeca-hoje-na-mongolia_a1_1759892",
       "pubDate": "Mon, 17 Aug 2026 05:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Carneiro desafia PM a fazer revisão constitucional com o PS",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-carneiro-desafia-pm-a-fazer-revisao-constitucional-com-o-ps_a1_1759889",
-      "pubDate": "Mon, 17 Aug 2026 04:17:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Mais de 600 bombeiros combatem incêndios de Boticas e Moncorvo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-mais-de-600-bombeiros-combatem-incendios-de-boticas-e-moncorvo_a1_1759885",
-      "pubDate": "Mon, 17 Aug 2026 03:27:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h Torre de Moncorvo: mais de 370 bombeiros combatem as chamas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-torre-de-moncorvo-mais-de-370-bombeiros-combatem-as-chamas_a1_1759882",
-      "pubDate": "Mon, 17 Aug 2026 02:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h PS quer rentrée como demonstração de força da alternativa",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ps-quer-rentree-como-demonstracao-de-forca-da-alternativa_a1_1759881",
-      "pubDate": "Mon, 17 Aug 2026 01:23:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
