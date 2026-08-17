@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-17T04:36:29.208962+00:00",
+  "updated": "2026-08-17T05:31:35.014849+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 5h",
+      "title": "5h. Termina hoje o prazo de negociações entre EUA e Irão",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1557/",
       "pubDate": "Mon, 17 Aug 2026 05:14:49 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Em junho, os dois países assinaram um memorando de entendimento, para alcançar um acordo de paz até hoje. Ainda, Carneiro considera que PM é o principal foco de instabilidade em Portugal.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -55,29 +55,19 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Exportações ajudam economia japonesa crescer 0,3% no segundo trimestre",
-      "link": "https://www.rtp.pt/noticias/economia/exportacoes-ajudam-economia-japonesa-crescer-03-no-segundo-trimestre_n1759883",
-      "pubDate": "Mon, 17 Aug 2026 06:35:06 +0100",
-      "description": "A economia japonesa cresceu, mas menos do que o esperado, no segundo trimestre de 2026, com medidas de apoio de Tóquio e exportações sólidas a atenuarem o impacto da guerra no Médio Oriente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcac1b2f58052fbac5fdfb5e2919ddcf?w=350&amp;q=50&amp;rect=0,102,960,526&amp;auto=format"
+      "title": "Polícia chinesa desmantela três redes criminosas por extorsão a celebridades",
+      "link": "https://www.rtp.pt/noticias/mundo/policia-chinesa-desmantela-tres-redes-criminosas-por-extorsao-a-celebridades_n1759899",
+      "pubDate": "Mon, 17 Aug 2026 07:28:04 +0100",
+      "description": "A polícia chinesa desmantelou três redes criminosas e deteve 24 indivíduos suspeitos de utilizarem inteligência artificial (IA) e contas com milhões de seguidores nas redes sociais para extorquir produtoras de televisão e celebridades, reportaram meios de comunicação estatais chineses.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/02/021bee6834b02db8361c2b217aa23f95?w=350&amp;q=50&amp;rect=0,0,1440,789&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Bispo do Funchal termina visita pedindo muita proximidade com as vítimas",
-      "link": "https://www.rtp.pt/noticias/mundo/bispo-do-funchal-termina-visita-pedindo-muita-proximidade-com-as-vitimas_n1759879",
-      "pubDate": "Mon, 17 Aug 2026 06:29:10 +0100",
-      "description": "O bispo do Funchal terminou hoje uma visita seis dias à Venezuela pedindo solidariedade e ajuda para as vítimas do duplo sismo de 24 de junho que afetou seis estados do país, principalmente a La Guaira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc1ea12cc3c84bbfbc05da941d5ea6b9?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h Tenistas Jaime Faria e Nuno Borges apurados em Cincinnati",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-tenistas-jaime-faria-e-nuno-borges-apurados-em-cincinnati_a1_1759897",
-      "pubDate": "Mon, 17 Aug 2026 06:26:02 +0100",
+      "title": "6h Mais de 600 bombeiros combatem incêndios de Boticas e Moncorvo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-mais-de-600-bombeiros-combatem-incendios-de-boticas-e-moncorvo_a1_1759900",
+      "pubDate": "Mon, 17 Aug 2026 07:22:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,21 +75,31 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Fogo em Torre de Moncorvo alastrou para Carrazeda de Ansiães em duas frentes",
-      "link": "https://www.rtp.pt/noticias/pais/fogo-em-torre-de-moncorvo-alastrou-para-carrazeda-de-ansiaes-em-duas-frentes_n1759878",
-      "pubDate": "Mon, 17 Aug 2026 06:23:53 +0100",
-      "description": "O incêndio que deflagrou no sábado na freguesia de Cabeça Boa, concelho de Torre de Moncorvo, distrito de Bragança, alastrou hoje para o município vizinho de Carrazeda de Ansiães e tem duas frentes ativas, indicou fonte da Proteção Civil.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7a40da7078a7a6f02396b7023ae8b0f9?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
+      "title": "Teerão ameaça EUA com \"surpresas estratégicas\" e postura \"ofensiva\"",
+      "link": "https://www.rtp.pt/noticias/mundo/teerao-ameaca-eua-com-surpresas-estrategicas-e-postura-ofensiva_n1759898",
+      "pubDate": "Mon, 17 Aug 2026 07:20:35 +0100",
+      "description": "O Irão garantiu ter &quot;surpresas estratégicas&quot; para os Estados Unidos, com o acordo que estabelecia um cessar-fogo e um período de 60 dias para resolver questões pendentes, a expirar hoje.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bfbce74af7fa5873a0d5bcac4cef071?w=350&amp;q=50&amp;rect=0,25,1203,660&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Cimeira da ONU sobre desertificação começa hoje na Mongólia",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-cimeira-da-onu-sobre-desertificacao-comeca-hoje-na-mongolia_a1_1759892",
-      "pubDate": "Mon, 17 Aug 2026 05:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Kallas quer aumentar em um terço número de entidades russas sancionadas",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kallas-quer-aumentar-em-um-terco-numero-de-entidades-russas-sancionadas_n1759896",
+      "pubDate": "Mon, 17 Aug 2026 07:10:42 +0100",
+      "description": "A chefe da diplomacia europeia, Kaja Kallas, anunciou hoje no jornal alemão Die Welt que pretende aumentar em um terço o número de entidades russas sancionadas devido à guerra na Ucrânia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/43/437be7b9192256e4a200df3448f0a099?w=350&amp;q=50&amp;rect=0,15,932,511&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Xi destaca papel de Jiang Zemin na abertura da China no centenário de seu nascimento",
+      "link": "https://www.rtp.pt/noticias/mundo/xi-destaca-papel-de-jiang-zemin-na-abertura-da-china-no-centenario-de-seu-nascimento_n1759895",
+      "pubDate": "Mon, 17 Aug 2026 07:08:34 +0100",
+      "description": "O Presidente chinês, Xi Jinping, elogiou hoje o legado do falecido ex-presidente Jiang Zemin (1993-2003) como uma figura-chave na continuidade da reforma e abertura da China, durante um evento em Pequim pelo centenário do seu nascimento.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e9e1b5a417a5cc66fb68430905a7bfbe?w=350&amp;q=50&amp;rect=0,57,960,526&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "País sob aviso amarelo... e Évora sob trovoada de granizo. Eis as imagens",
-      "link": "https://www.noticiasaominuto.com/pais/3037392/pais-sob-aviso-amarelo-e-evora-sob-trovoada-de-granizo-eis-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 00:00:25",
+      "title": "Ilha indonésia atingida por novo sismo após abalo que causou 53 mortos",
+      "link": "https://www.noticiasaominuto.com/mundo/3037404/ilha-indonesia-atingida-por-novo-sismo-apos-abalo-que-causou-53-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 06:23:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8240392cd49.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a80341cca137.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lazio eliminada da Taça italiana por modesto Mântua na estreia de Gattuso",
-      "link": "https://www.noticiasaominuto.com/desporto/3037391/lazio-eliminada-da-taca-italiana-por-modesto-mantua-na-estreia-de-gattuso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 00:00:15",
+      "title": "Presidente do Equador começa visita de Estado de oito dias à China",
+      "link": "https://www.noticiasaominuto.com/mundo/3037405/presidente-do-equador-comeca-visita-de-estado-de-oito-dias-a-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 06:22:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a824148bb372.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI2LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjE0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozNTgsImNyb3BIZWlnaHQiOjYzNiwiY3JvcFgiOjEyMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64df5dfb07d74.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump saúda pacto de defesa entre Arábia Saudita, Turquia e Paquistão",
-      "link": "https://www.noticiasaominuto.com/mundo/3037390/trump-sauda-pacto-de-defesa-entre-arabia-saudita-turquia-e-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 23:52:25",
+      "title": "Teerão ameaça EUA com \"surpresas estratégicas\" e postura \"ofensiva\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3037417/teerao-ameaca-eua-com-surpresas-estrategicas-e-postura-ofensiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 06:21:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f842b7025f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6OTYzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a233f5eb9b96.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Grémio de Luís Castro e Vasco da Gama de Pedro Emanuel derrotados",
-      "link": "https://www.noticiasaominuto.com/desporto/3037389/gremio-de-luis-castro-e-vasco-da-gama-de-pedro-emanuel-derrotados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 23:36:52",
+      "title": "Polícia chinesa desmantela três redes criminosas por extorsão a celebridades",
+      "link": "https://www.noticiasaominuto.com/mundo/3037418/policia-chinesa-desmantela-tres-redes-criminosas-por-extorsao-a-celebridades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 06:21:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6c3e86a12f4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODY1LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68da6dba29d35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6OTEsImNyb3BZIjoxNzB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjI2MSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump ordena ao Pentágono que reduza exercícios com Coreia do Sul",
-      "link": "https://www.noticiasaominuto.com/mundo/3037387/trump-ordena-ao-pentagono-que-reduza-exercicios-com-coreia-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-16 23:27:10",
+      "title": "Exportações ajudam economia japonesa crescer 0,3% no segundo trimestre",
+      "link": "https://www.noticiasaominuto.com/economia/3037400/exportacoes-ajudam-economia-japonesa-crescer-0-3-no-segundo-trimestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 06:17:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7a2f77584b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41844856.webp"
     },
     {
       "sourceId": "pplware",
