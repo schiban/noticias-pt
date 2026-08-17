@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-17T20:21:00.483239+00:00",
+  "updated": "2026-08-17T20:52:40.172287+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Turista americano morre atingido por raio no Etna",
+      "link": "https://observador.pt/2026/08/17/turista-norte-americano-morto-por-raio-no-etna-enquanto-escalava-zona-de-acesso-restrito/",
+      "pubDate": "Mon, 17 Aug 2026 21:35:41 +0100",
+      "description": "O turista escalava uma zona de acesso restrito do vulcão mais alto da Europa quando foi apanhado por uma tempestade. Norte de Itália regista mais mortos e resgates.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06192212/gettyimages-2283730874-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mais de 239 mil soldados russos mortos pela Ucrânia",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/mais-de-239-mil-soldados-russos-mortos-pela-ucrania/",
+      "pubDate": "Mon, 17 Aug 2026 21:33:25 +0100",
+      "description": "A imprensa ucraniana dá destaque a uma investigação independente, que indica que mais de 239 mil soldados russos foram mortos. Ainda, Ucrânia investiga um milhão e meio de desertores da guerra.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Quem for traidor na Rússia, já não vota",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/quem-for-traidor-na-russia-ja-nao-vota/",
+      "pubDate": "Mon, 17 Aug 2026 21:29:56 +0100",
+      "description": "Em destaque, está a decisão da Comissão de Eleições russa de não permitir quem considerarem ser traidor da pátria, de votar nas próximas eleições. Ainda, novo pacote de sanções da UE.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais de 100 migrantes em Ceuta em greve de fome",
-      "link": "https://observador.pt/2026/08/17/ceuta-mais-de-100-migrantes-em-greve-de-fome-exigem-asilo-em-espanha-apos-18-dias-acampados-na-praia/",
-      "pubDate": "Mon, 17 Aug 2026 21:15:32 +0100",
-      "description": "Mais de 100 migrantes acampados na praia de Trampolín desde 30 de julho recusam regressar a Marrocos. O Governo espanhol anuncia 1.500 lugares de acolhimento temporário.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17204909/47624548.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Associação quer ser assistente no processo contra Cristina",
-      "link": "https://observador.pt/2026/08/17/associacao-cigana-quer-ser-assistente-no-processo-contra-presidente-da-camara-de-albufeira-acusado-de-incitamento-ao-odio/",
-      "pubDate": "Mon, 17 Aug 2026 21:10:14 +0100",
-      "description": "O presidente da Câmara de Albufeira, eleito pelo Chega, é alvo de um processo do Ministério Público por alegados crimes de discriminação e incitamento ao ódio e à violência.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:152/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/04044441/2025-10-02-observador-autarquicas-rui-cristina-albufeira-dd-16.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Porque quer o Estado voltar à REN",
-      "link": "https://observador.pt/especiais/porque-quer-o-estado-voltar-a-ren-as-explicacoes-e-as-perguntas-sem-resposta/",
-      "pubDate": "Mon, 17 Aug 2026 21:05:24 +0100",
-      "description": "Estado vendeu em 2014 as últimas ações na empresa que gere as redes de energia. Montenegro já tinha sinalizado que queria voltar, mas há ainda muito por explicar sobre a compra de 13,7% da REN.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17144413/gettyimages-141704372.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Desertificação. Portugal é o quinto país da UE com mais solo afetado",
+      "link": "https://www.rtp.pt/noticias/pais/desertificacao-portugal-e-o-quinto-pais-da-ue-com-mais-solo-afetado_v1760014",
+      "pubDate": "Mon, 17 Aug 2026 22:31:47 +0100",
+      "description": "A Agência Portuguesa do Ambiente anunciou que um terço do território português já apresenta solos muito degradados.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b4/b4df0a82f519d3e1da4fb637c80e3f42_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/a1/a13363bdaf502f17c82d1f9e9ba84e5a_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de 1.600.000 pensionistas vivem com menos 870 euros por mês",
-      "link": "https://www.rtp.pt/noticias/pais/mais-de-1600000-pensionistas-vivem-com-menos-870-euros-por-mes_v1760006",
-      "pubDate": "Mon, 17 Aug 2026 21:40:47 +0100",
-      "description": "Três em cada quatro reformados recebem pensões abaixo do salário mínimo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e6/e6ffb92be81013175fe666630a492681_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto chega a princípio de acordo com a Roma por Rodrigo Mora",
+      "link": "https://maisfutebol.iol.pt/transferencias/fc-porto/fc-porto-chega-a-principio-de-acordo-com-a-roma-por-rodrigo-mora",
+      "pubDate": "Mon, 17 Aug 2026 21:39:00 +0100",
+      "description": "Objetivo é fazer com que os dragões recebam 50 milhões de euros ao mesmo tempo que os italianos cumprem o fair-play financeiro",
+      "thumbnail": "https://img.iol.pt/image/id/69223575d34e2bd5c6d44da0/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Depois de criticar Infantino, diretor de operações da FIFA deixa cargo",
+      "link": "https://maisfutebol.iol.pt/fifa/kevin-lamour/depois-de-criticar-infantino-diretor-de-operacoes-da-fifa-deixa-o-cargo",
+      "pubDate": "Mon, 17 Aug 2026 21:27:00 +0100",
+      "description": "Kevin Lamour não poupou nas críticas ao italiano sobre a polémica relativamente à privatização do Campeonato do Mundo",
+      "thumbnail": "https://img.iol.pt/image/id/69bc8c77d34edcee7c6216ca/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Mon, 17 Aug 2026 20:07:53 +0100",
       "description": "Keita (54m) e Ventura (88m) marcaram os golos do encontro",
       "thumbnail": "https://img.iol.pt/image/id/6a835bdfd34ed0733ba80478/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rodri já está em Barcelona: «É um sonho, estou muito feliz»",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/rodri-ja-fala-a-barcelona-e-um-sonho",
-      "pubDate": "Mon, 17 Aug 2026 19:43:00 +0100",
-      "description": "Médio chegou esta tarde a Espanha e prepara-se para assinar com o bicampeão espanhol",
-      "thumbnail": "https://img.iol.pt/image/id/6a83579cd34ed0733ba8046f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Casa Pia-Benfica (ONZES): Marco Silva repete onze da jornada inaugural",
-      "link": "https://maisfutebol.iol.pt/liga/benfica/casa-pia-benfica-onzes-marco-silva-repete-onze-da-jornada-inaugural",
-      "pubDate": "Mon, 17 Aug 2026 19:36:41 +0100",
-      "description": "Águias procuram primeira vitória na Liga após empate caseiro frente ao Académico de Viseu",
-      "thumbnail": "https://img.iol.pt/image/id/6a79be51d34ed0733ba7f182/250"
     },
     {
       "sourceId": "sapo",
@@ -195,11 +195,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Casa Pia 0-2 Benfica (2ª parte): Prestianni e Rafa Silva colocam as águias na frente do marcador",
+      "title": "Casa Pia 0-7 Benfica (2ª parte): Jhon Durán aumenta a vantagem das águias",
       "link": "https://sapo.pt/desporto/sapo-score?tab=liga-portugal,1550/70785/live?eventId=6585376",
       "pubDate": "Mon, 17 Aug 2026 19:41:07 +0000",
       "description": "O Casa Pia recebe o Benfica na 2ª Jornada da I Liga.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Aad8h%2B0Lz2jtUXU6%2FucK%2BxNF5JegrmTlJmSLRhQ5Wk2EbDOBN30tyGsrgpHa540dBGQ0OZeNAsnjwBa9r71tdubPB6sNPO2eoZZXnFK4hdpCLdT0v2sykLyesSHwTMRge"
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AeatrIGkeMr7eg9slfl9dlyGogjNScjjNjjOM63LWipwUnoSMA%2Fb4%2BfvM7LBDN8BLu24qV63reZKAgIi%2FVPNL6XiXqmOEWhKomeMOIHTUjMJDwTqQ2UgafN6RuGpCoeAS"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "FC Porto e Sporting na corrida por ponta de lança que esteve no Mundial",
+      "link": "https://www.noticiasaominuto.com/desporto/3037797/fc-porto-e-sporting-na-corrida-por-ponta-de-lanca-que-esteve-no-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-17 21:21:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a836674b8224.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyOH19"
     },
     {
       "sourceId": "nam",
@@ -240,16 +250,6 @@
       "pubDate": "2026-08-17 21:08:16",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a836a3a697dd.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Se sofre de insónias, este é o hábito mais importante para dormir melhor",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037757/se-sofre-de-insonias-este-e-o-habito-mais-importante-para-dormir-melhor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 21:04:23",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a834974805cf.webp"
     },
     {
       "sourceId": "pplware",
