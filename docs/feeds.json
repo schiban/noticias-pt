@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16T23:42:56.887190+00:00",
+  "updated": "2026-08-17T01:00:45.670877+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2355/",
+      "pubDate": "Mon, 17 Aug 2026 01:14:27 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A reconfiguração do pacto militar no Médio Oriente",
-      "link": "https://observador.pt/opiniao/a-reconfiguracao-do-pacto-militar-no-medio-oriente/",
-      "pubDate": "Mon, 17 Aug 2026 00:15:55 +0100",
-      "description": "Incoerência da Turquia ou uma resposta realista às limitações norte-americanas?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F10%2F03231404%2Fbento-png.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Torre de Moncorvo: mais de 370 bombeiros combatem as chamas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-torre-de-moncorvo-mais-de-370-bombeiros-combatem-as-chamas_a1_1759882",
+      "pubDate": "Mon, 17 Aug 2026 02:13:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Sun, 16 Aug 2026 23:29:07 +0100",
       "description": "O Lens conquistou hoje a sua primeira Supertaça francesa de futebol, vencendo o favorito Paris Saint-Germain (PSG) por 1-0, num jogo em que apenas Vitinha foi titular entre os portugueses do pentacampeão gaulês, e Nuno Mendes foi expulso.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c7569e0aec83a1f5b4867857cae3cb95?w=350&amp;q=50&amp;rect=0,82,1200,658&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Medalha de prata para Patrícia Silva nos 1.500 metros",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-medalha-de-prata-para-patricia-silva-nos-1500-metros_a1_1759872",
-      "pubDate": "Sun, 16 Aug 2026 23:22:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
