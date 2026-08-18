@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-18T05:01:45.228544+00:00",
+  "updated": "2026-08-18T05:53:56.716204+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Pavlidis vira Ulisses na Odisseia por Rio Maior",
+      "link": "https://observador.pt/programas/vamos-a-bola/pavlidis-vira-ulisses-na-odisseia-por-rio-maior/",
+      "pubDate": "Tue, 18 Aug 2026 06:43:28 +0100",
+      "description": "Meia dúzia +1, três foram do avançado grego, na goleada (7-0) do Benfica em Rio Maior. Águias somam primeira vitória no campeonato. Ainda, antes de começar a época Barcelona já vence no \"El Clásico\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Só o Livre, o PCP e o BE queriam o regresso do Estado à REN",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/so-o-livre-o-pcp-e-o-be-queriam-o-regresso-do-estado-a-ren/",
+      "pubDate": "Tue, 18 Aug 2026 06:41:00 +0100",
+      "description": "O DN escreve que só nos programas eleitorais dos três partidos mais à esquerda no hemiciclo é que se encontram referências à recompra da REN. No Brasil, Lula da Silva aplaude descoberta de petróleo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Sete incêndios a Norte combatidos por 2.000 operacionais",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2467/",
+      "pubDate": "Tue, 18 Aug 2026 06:13:46 +0100",
+      "description": "Há cinco fogos ativos e outros dois em fase de resolução. É em Torre de Moncorvo (Bragança) onde se concentram mais bombeiros. Ainda, Federação de Ciclismo saúda PGRn por abertura de inquérito.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Três reformas que tentaram mudar Portugal",
+      "link": "https://observador.pt/programas/e-o-resto-e-historia/tres-reformas-que-tentaram-mudar-portugal/",
+      "pubDate": "Tue, 18 Aug 2026 06:05:14 +0100",
+      "description": "Já que muito se fala em reformas estruturais, um ouvinte lançou-nos este desafio: olhar para a História de Portugal e analisar as reformas que maior impacto tiveram no país. Nós escolhemos três delas",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110039/770-podcast-e-o-resto-e-historia.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -9,97 +49,57 @@
       "link": "https://observador.pt/programas/a-hist-ria-do-dia/qual-o-plano-do-governo-com-a-reentrada-na-ren/",
       "pubDate": "Tue, 18 Aug 2026 05:02:44 +0100",
       "description": "Portugal regressa ao capital da REN com a aquisição de 13,7% da energética. Os objetivos do governo podem ser cumpridos com esta participação? Uma conversa com a jornalista Ana Suspiro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Federação Ciclismo aplaude inquérito sobre Tarling",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2374/",
-      "pubDate": "Tue, 18 Aug 2026 04:17:21 +0100",
-      "description": "O presidente da Federação Portuguesa de Ciclismo, Cândido Barbosa, fala de uma boa notícia. Ainda, há a esta hora 7 incêndios considerados mais significativos pela proteção civil.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Erdogan pede que Trump continue negociações com o Irão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2409/",
-      "pubDate": "Tue, 18 Aug 2026 03:16:54 +0100",
-      "description": "O presidente turco oferece ainda o apoio de Ancara aos esforços de paz. Ainda, o incêndio de Valongo já está em fase de resolução.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Incêndio de Valongo já entrou em fase de resolução",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2383/",
-      "pubDate": "Tue, 18 Aug 2026 02:13:57 +0100",
-      "description": "Por esta hora o fogo é combatido por 120 operacionais, apoiados por 40 meios terrestres. Ainda, no Médio Oriente vivem-se momentos de tensão entre os aliados árabes dos EUA e Donald Trump,",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Benfica vence Casa Pia por 7-0, em Rio Maior",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2356/",
-      "pubDate": "Tue, 18 Aug 2026 01:14:00 +0100",
-      "description": "As águias venceram em Rio Maior com golos de Prestianni, Rafa, Pavlidis e Duran. Ainda, o Presidente da Câmara de Albufeira garante que nenhum grupo étnico é excluído do acesso à habitação social.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "ONU alerta para a necessidade de doações para atender milhares de afetados",
-      "link": "https://www.rtp.pt/noticias/mundo/onu-alerta-para-a-necessidade-de-doacoes-para-atender-milhares-de-afetados_n1760055",
-      "pubDate": "Tue, 18 Aug 2026 06:51:50 +0100",
-      "description": "A Organização das Nações Unidas (ONU) alertou hoje para a necessidade de doações económicas para atender milhares de pessoas afetadas pelo duplo sismo que em 24 de junho abalou o país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5a9eafe81bfd38cb0ea5428f93aa8f3?w=350&amp;q=50&amp;rect=0,96,1390,762&amp;auto=format"
+      "title": "Hyundai retoma negociações salariais com sindicato após múltiplas greves na Coreia do Sul",
+      "link": "https://www.rtp.pt/noticias/economia/hyundai-retoma-negociacoes-salariais-com-sindicato-apos-multiplas-greves-na-coreia-do-sul_n1760064",
+      "pubDate": "Tue, 18 Aug 2026 07:53:22 +0100",
+      "description": "O principal fabricante automóvel da Coreia do Sul, Hyundai Motor, retomou hoje negociações salariais com o principal sindicato da empresa, após três paralisações parciais realizadas na semana passada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1cedd9bf380f418e365ce45a558dced2?w=350&amp;q=50&amp;rect=0,47,770,422&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Taiwan propõe ajuda universal de 271 euros graças a impulso económico da IA",
-      "link": "https://www.rtp.pt/noticias/economia/taiwan-propoe-ajuda-universal-de-271-euros-gracas-a-impulso-economico-da-ia_n1760053",
-      "pubDate": "Tue, 18 Aug 2026 06:50:32 +0100",
-      "description": "O Presidente de Taiwan, William Lai Ching-te, anunciou um plano para distribuir no próximo ano 10 mil dólares taiwaneses (271 euros) por pessoa, graças ao forte crescimento económico impulsionado pelo boom da inteligência artificial (IA).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/37/37cedd3261185b2ae4706c80dbed50e8?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+      "title": "Benfica goleia Casa Pia por 7-0 em Rio Maior com hat-trick de Pavlidis",
+      "link": "https://www.rtp.pt/noticias/desporto/benfica-goleia-casa-pia-por-7-0-em-rio-maior-com-hat-trick-de-pavlidis_v1760067",
+      "pubDate": "Tue, 18 Aug 2026 07:48:47 +0100",
+      "description": "Resposta em força do Benfica ao empate da ronda de abertura.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/97/97a84e07b272e69389607e7397833b57_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Reconstrução após sismo custará oito mil milhões de euros",
-      "link": "https://www.rtp.pt/noticias/economia/reconstrucao-apos-sismo-custara-oito-mil-milhoes-de-euros_n1760052",
-      "pubDate": "Tue, 18 Aug 2026 06:39:18 +0100",
-      "description": "O Presidente da Colômbia, Abelardo de la Espriella, afirmou que a reconstrução das zonas afetadas pelo sismo de 10 de agosto poderá custar pelo menos 30 biliões de pesos (8,27 mil milhões de euros).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7faf34a5d6641b7938423d0f60eac01?w=350&amp;q=50&amp;rect=0,55,1200,658&amp;auto=format"
+      "title": "Taiwan detém empresário por tentar vender drones com componentes chineses ao Exército",
+      "link": "https://www.rtp.pt/noticias/mundo/taiwan-detem-empresario-por-tentar-vender-drones-com-componentes-chineses-ao-exercito_n1760063",
+      "pubDate": "Tue, 18 Aug 2026 07:24:54 +0100",
+      "description": "A Justiça taiwanesa decretou uma medida de prisão preventiva a um empresário acusado de tentar vender ao Exército drones montados secretamente com componentes chinesas, informaram hoje as autoridades da ilha.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c58b6c37f10ad128c06b53e45f14f0d?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Zâmbia reelege Hakainde Hichilema como Presidente",
-      "link": "https://www.rtp.pt/noticias/mundo/zambia-reelege-hakainde-hichilema-como-presidente_n1760050",
-      "pubDate": "Tue, 18 Aug 2026 06:33:07 +0100",
-      "description": "O Presidente cessante da Zâmbia, Hakainde Hichilema, foi reeleito com cerca de 60% dos votos, anunciou hoje a comissão eleitoral do país africano, após um escrutínio realizado na semana passada e marcado pela detenção de opositores.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/52/52ac33b1c29ba7e29b9a75250af2eec8?w=350&amp;q=50&amp;rect=0,61,1233,676&amp;auto=format"
+      "title": "Dois estudantes mortos em ataque a tiro contra liceu no sul das Filipinas",
+      "link": "https://www.rtp.pt/noticias/mundo/dois-estudantes-mortos-em-ataque-a-tiro-contra-liceu-no-sul-das-filipinas_n1760062",
+      "pubDate": "Tue, 18 Aug 2026 07:19:26 +0100",
+      "description": "Dois estudantes filipinos morreram hoje num ataque a tiro contra um liceu católico das Filipinas, com o presumível autor dos disparos entre as vítimas, informaram as autoridades.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/00/000e0bc132c4e055f9205f0831ccc686?w=350&amp;q=50&amp;rect=0,11,1720,943&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Relatório sobre a reforma da segurança social apresentado hoje",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-relatorio-sobre-a-reforma-da-seguranca-social-apresentado-hoje_a1_1760059",
-      "pubDate": "Tue, 18 Aug 2026 06:31:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Macau facilita passagem fronteiriça de automóvel para residentes não chineses",
+      "link": "https://www.rtp.pt/noticias/mundo/macau-facilita-passagem-fronteirica-de-automovel-para-residentes-nao-chineses_n1760061",
+      "pubDate": "Tue, 18 Aug 2026 07:17:07 +0100",
+      "description": "Os residentes não chineses de Macau - incluindo os portugueses - podem, a partir de hoje, atravessar três fronteiras para a China continental de automóvel com maior facilidade, utilizando apenas um documentos em vez de dois.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/68/68475437df3d8dd7fe54afe9af942ea0?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "REN? \"Somos o único Estado da UE sem participação na sua rede nacional\"",
-      "link": "https://www.noticiasaominuto.com/politica/3037840/ren-somos-o-unico-estado-da-ue-sem-participacao-na-sua-rede-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 23:59:06",
+      "title": "\"A dor da tua partida não permite encontrar as palavras certas\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037892/a-dor-da-tua-partida-nao-permite-encontrar-as-palavras-certas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 06:32:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66d0edcd15913.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTg2LCJjcm9wSGVpZ2h0IjoxMTE3LCJjcm9wWCI6MjYsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjUsImNyb3BYIjo3MDIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a83edc970eda.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Descoberta de petróleo no Amazonas é \"passaporte do futuro\" do Brasil",
-      "link": "https://www.noticiasaominuto.com/economia/3037847/descoberta-de-petroleo-no-amazonas-e-passaporte-do-futuro-do-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 23:53:57",
+      "title": "África do Sul pede união regional em cimeira após marcha anti-imigração",
+      "link": "https://www.noticiasaominuto.com/mundo/3037873/africa-do-sul-pede-uniao-regional-em-cimeira-apos-marcha-anti-imigracao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 06:26:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63b1ba2c91b70.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47623436.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk1NywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Imbróglio desfeito. FC Porto e AS Roma com princípio de acordo por Mora",
-      "link": "https://www.noticiasaominuto.com/desporto/3037846/imbroglio-desfeito-fc-porto-e-as-roma-com-principio-de-acordo-por-mora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 23:53:36",
+      "title": "Vilar de Mouros regressa com cinco dias de concertos e YUNGBLUD a abrir",
+      "link": "https://www.noticiasaominuto.com/cultura/3037884/vilar-de-mouros-regressa-com-cinco-dias-de-concertos-e-yungblud-a-abrir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 06:25:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ca0a73bf70.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45512833.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjUxNCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EUA intercetaram mais de 60 navios desde novo bloqueio a portos iranianos",
-      "link": "https://www.noticiasaominuto.com/mundo/3037843/eua-intercetaram-mais-de-60-navios-desde-novo-bloqueio-a-portos-iranianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 23:42:45",
+      "title": "Riqueza é dos atributos das pessoas que Trump mais aprecia: Perceba",
+      "link": "https://www.noticiasaominuto.com/mundo/3037861/riqueza-e-dos-atributos-das-pessoas-que-trump-mais-aprecia-perceba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 06:20:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66d6b2ba37fbe.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69fa191bf365c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2OSwiY3JvcEhlaWdodCI6MTcyMywiY3JvcFgiOjUyOSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3037650/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-17 23:39:36",
+      "title": "Trump manda calar repórter da CNN que lhe perguntou sobre Coreia do Norte",
+      "link": "https://www.noticiasaominuto.com/mundo/3037865/trump-manda-calar-reporter-da-cnn-que-lhe-perguntou-sobre-coreia-do-norte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 06:19:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a2d6a1b9b925.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e0ab056596.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExNTksImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
