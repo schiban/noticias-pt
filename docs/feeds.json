@@ -1,105 +1,75 @@
 {
-  "updated": "2026-08-18T12:36:45.515398+00:00",
+  "updated": "2026-08-18T13:38:26.766833+00:00",
   "articles": [
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Morreram Mathilde Favier e Nicolas Altmeyer",
-      "link": "https://observador.pt/2026/08/18/mathilde-favier-e-nicolas-altmeyer-rp-das-celebridades-e-produtor-de-cinema-morrem-em-tragico-acidente-em-franca/",
-      "pubDate": "Tue, 18 Aug 2026 13:33:18 +0100",
-      "description": "O carro em que seguiam a RP da Dior, responsável por conectar a maison com as principais estrelas da atualidade, e o marido, foi abalroado por um camião esta segunda-feira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3447:1940:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/02125121/gettyimages-1147898870.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Évora. Detido por maus-tratos à ex-companheira perante filho",
-      "link": "https://observador.pt/2026/08/18/homem-detido-em-evora-por-maus-tratos-a-ex-companheira-perante-filho/",
-      "pubDate": "Tue, 18 Aug 2026 13:26:23 +0100",
-      "description": "Está fortemente indiciado que o suspeito manteve maus-tratos psicológicos e físicos à ex-mulher, praticados na presença do filho. Os factos ocorreram inicialmente num país estrangeiro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/06/05110308/28628581.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h. REN. IL quer ouvir ministro das Finanças no Parlamento",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2419/",
-      "pubDate": "Tue, 18 Aug 2026 13:16:58 +0100",
-      "description": "A Iniciativa Liberal defende que pode estar em causa o \"sacrifício de dinheiro dos contribuintes de forma irrefletida\". Ainda, estão mobilizados mais de 400 operacionais no fogo em Torre de Moncorvo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Bruxelas promete plano para reforçar resiliência climática",
-      "link": "https://observador.pt/2026/08/18/bruxelas-promete-proposta-para-reforcar-resiliencia-climatica-apos-verao-extremo/",
-      "pubDate": "Tue, 18 Aug 2026 13:14:55 +0100",
-      "description": "A porta-voz da Comissão Europeia salientou que a Europa está a \"aquecer duas vezes mais rápido\" do que os outros continentes. Vários membros da UE registaram este verão novos recordes de temperatura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1137:nowe:0:153/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03205759/gco-dincendio-vouzela-3-julho-2026-004.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "IL quer ouvir ministro sobre reentrada do Estado na REN",
-      "link": "https://observador.pt/2026/08/18/iniciativa-liberal-quer-ouvir-ministro-das-financas-no-parlamento-sobre-reentrada-do-estado-no-capital-da-ren/",
-      "pubDate": "Tue, 18 Aug 2026 13:07:41 +0100",
-      "description": "Liberais dizem que efeito mais problemático da reentrada é a \"decisão resultante da estratégia do Governo para reduzir o preço da energia\" e alertam para descida de ações da empresa depois do anúncio.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3666:2061:nowe:0:191/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/15152711/jporfirio-debate-quinzenal-15-04-26-01-6.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Museu dedicado à presença portuguesa no Oriente em Pernes",
+      "link": "https://www.rtp.pt/noticias/cultura/museu-dedicado-a-presenca-portuguesa-no-oriente-em-pernes_v1760157",
+      "pubDate": "Tue, 18 Aug 2026 15:34:47 +0100",
+      "description": "Há um museu na Freguesia de Pernes, em Santarém, dedicado à presença portuguesa no Oriente. O acervo, recolhido ao longo de várias décadas, foi doado pelo professor Cândido Azevedo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/3c/3c059cbcc213284a5dc077f49d363e41_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndios em Portugal. A situação ao minuto",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
-      "pubDate": "Tue, 18 Aug 2026 14:27:58 +0100",
-      "description": "Ao início da tarde desta terça-feira, mais de dois mil bombeiros combatiam incêndios no país. A apoiar os operacionais no terreno estavam cerca de 700 viaturas e 13 meios aéreos. Atualizamos aqui, ao minuto, o evoluir da situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5cf5df5902e681e1915ee61b4c6b0568?w=350&amp;q=50&amp;rect=0,21,1510,828&amp;auto=format"
+      "title": "Taxa de ocupação no Pico mantém-se estável mas falta mão-de-obra",
+      "link": "https://www.rtp.pt/noticias/economia/taxa-de-ocupacao-turistica-na-ilha-do-pico-mantem-se-estavel_v1760156",
+      "pubDate": "Tue, 18 Aug 2026 15:24:47 +0100",
+      "description": "Os hotéis da Ilha do Pico, nos Açores, enfrentam, em época alta, problemas de falta de mão-de-obra e de acesso à ilha.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/fe/fe91d2e4651ccb1d7b2c3ab2ccca0215_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "13h Calor e ar seco dificultam combate aos incêndios",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-calor-e-ar-seco-dificultam-combate-aos-incendios_a1_1760138",
-      "pubDate": "Tue, 18 Aug 2026 14:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "ReCircular em Matosinhos recuperou 15 toneladas de resíduos",
+      "link": "https://www.rtp.pt/noticias/pais/recircular-em-matosinhos-recuperou-15-toneladas-de-residuos_v1760155",
+      "pubDate": "Tue, 18 Aug 2026 15:22:47 +0100",
+      "description": "Foram recuperadas 15 toneladas de produtos e resíduos em Matosinhos, no último ano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/80/8081268234059dd806e971e5109e8e99_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Arderam mais de 900 hectares de terreno em Santo Tirso",
-      "link": "https://www.rtp.pt/noticias/pais/arderam-mais-de-900-hectares-de-terreno-em-santo-tirso_v1760136",
-      "pubDate": "Tue, 18 Aug 2026 14:21:47 +0100",
-      "description": "O incêndio em Santo Tirso tem neste momento três frentes. Não há casas em risco, mas as chamas chegaram muito perto.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d619fc487cf336b800e4ecf9268a11cb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Três feridos ligeiros em sismo registado no sul de Espanha",
+      "link": "https://www.rtp.pt/noticias/mundo/tres-feridos-ligeiros-em-sismo-registado-no-sul-de-espanha_n1760154",
+      "pubDate": "Tue, 18 Aug 2026 15:17:41 +0100",
+      "description": "Três pessoas ficaram esta terça-feira ligeiramente feridas na sequência de um sismo registado em Granada, no sul de Espanha, disse o responsável para as Emergências da região da Andaluzia, António Sanz.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6de35d1b7f7efb9bedde295e36d60b2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Fogo esteve perto de aldeias de Torre de Moncorvo e Carrazeda de Ansiães",
-      "link": "https://www.rtp.pt/noticias/pais/fogo-esteve-perto-de-aldeias-de-torre-de-moncorvo-e-carrazeda-de-ansiaes_v1760134",
-      "pubDate": "Tue, 18 Aug 2026 14:12:47 +0100",
-      "description": "Os habitantes de algumas aldeias de Torre de Moncorvo e Carrazeda de Ansiães ainda não descansaram.  O incêndio dura desde sábado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e1/e1fbd807f738b440028eb3a8c68c48f0?w=350&amp;q=50&amp;rect=0,26,1920,1053&amp;auto=format"
+      "title": "Crianças de Gaza recebem tratamento médico em Portugal",
+      "link": "https://www.rtp.pt/noticias/mundo/criancas-de-gaza-recebem-tratamento-medico-em-portugal_v1760153",
+      "pubDate": "Tue, 18 Aug 2026 15:10:47 +0100",
+      "description": "Já estão em Portugal para tratamento médico, as duas crianças palestinianas feridas nos bombardeamentos israelitas na Faixa de Gaza. As despesas dos cuidados de saúde vão ser suportadas pelas unidades privadas que aceitaram receber as menores.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7e/7e66ad747e3322ea6e5f6b5c72c6c551_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "12h30m saída de Mora não é consensual, Circati alvo do Benfica",
-      "link": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-saida-de-mora-nao-e-consensual-circati-alvo-do-benfica_a1_1760132",
-      "pubDate": "Tue, 18 Aug 2026 13:59:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Patrick Vieira é o novo selecionador do Senegal",
+      "link": "https://maisfutebol.iol.pt/internacional/patrick-vieira/oficial-patrick-vieira-e-o-novo-selecionador-do-senegal",
+      "pubDate": "Tue, 18 Aug 2026 14:30:00 +0100",
+      "description": "Antigo internacional francês de 50 anos treinará o pais natal",
+      "thumbnail": "https://img.iol.pt/image/id/6905e75ed34e3caad84ac970/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto: Rodrigo Mora foi ao Olival, mas já não treinou",
+      "link": "https://maisfutebol.iol.pt/fc-porto/rodrigo-mora/fc-porto-mora-foi-ao-olival-mas-ja-nao-treinou",
+      "pubDate": "Tue, 18 Aug 2026 13:38:00 +0100",
+      "description": "Jovem médio segue viagem para Itália, para assinar pela Roma",
+      "thumbnail": "https://img.iol.pt/image/id/6a456317d34e28842c85d26e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,26 +102,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a4d6450d34e511da0b2bc83/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Diego Moreira aterra em Itália para reforçar o Milan",
-      "link": "https://maisfutebol.iol.pt/transferencias/18-08-2026/video-diego-moreira-aterra-em-italia-para-reforcar-o-milan",
-      "pubDate": "Tue, 18 Aug 2026 11:42:00 +0100",
-      "description": "Extremo formado no Benfica vai reforçar a equipa treinada por Ruben Amorim",
-      "thumbnail": "https://img.iol.pt/image/id/6a8435b6d34e511da0b33d7f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "A palestra marcante de Guardiola: «Estou divorciado da mulher mais bonita...»",
-      "link": "https://maisfutebol.iol.pt/inglaterra/pep-guardiola/a-valente-dura-de-guardiola-estou-divorciado-e-o-que-recebo-em-troca-a-p-da-exibicao",
-      "pubDate": "Tue, 18 Aug 2026 11:19:00 +0100",
-      "description": "Documentário do treinador espanhol relata um dos momentos mais tensos da passagem no Manchester City",
-      "thumbnail": "https://img.iol.pt/image/id/6950fa70d34e2bd5c6d590e3/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,21 +115,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Novo sismo de magnitude 4,7 faz três feridos em Granada",
-      "link": "https://sapo.pt/artigo/novo-sismo-de-magnitude-4-7-faz-tres-feridos-em-granada-6a842edcbec1d8607e6c57a0",
-      "pubDate": "Tue, 18 Aug 2026 12:00:06 +0000",
-      "description": "Um sismo de magnitude 4,7 na escala de Richter atingiu, esta terça-feira, a província espanhola de Granada e provocou três feridos ligeiros. Uma menor foi transportada para o hospital. O epicentro foi localizado no município de Gójar, a poucos...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=410&W=728&crop=center&delay_optim=1&epic=V2%3ASZAO%2BECG0VC1MZnLWSsOowFzRkhYItYL%2F2jALXFhhRJwNXlpMzFfSZJdNrH8KdSgvRmctEf4nURhhgmSYQVNSKfT6E6ipp3uFB%2BlZlHAbldDMMrVcyw1Cb%2FYSIeu5Lx6"
+      "title": "Idosos vão enfrentar calor perigoso mais cedo do que se pensava: estudo alerta para 290 milhões em risco",
+      "link": "https://executivedigest.sapo.pt/idosos-vao-enfrentar-calor-perigoso-mais-cedo-do-que-se-pensava-estudo-alerta-para-290-milhoes-em-risco/",
+      "pubDate": "Tue, 18 Aug 2026 12:57:48 +0000",
+      "description": "O aumento das temperaturas globais poderá expor centenas de milhões de pessoas idosas a níveis de calor que o organismo já não consegue compensar.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=217&W=386&crop=center&delay_optim=1&epic=V2%3A%2FG59RM0LF4Y9xYm8xS7cqk8YQ0LeHWSTzJgtS5ysibCNXyGmwhuP8Iqqs5f0ZIj%2FeuKY6Y1DgMvIQi%2F9lJqRccJh6QDgkXOt5YbAgIpAU2wdxNnU1wSvfbZg5urCteMH"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Crime em Algés. Família também era seguida pela Santa Casa",
-      "link": "https://sapo.pt/artigo/alges-familia-tambem-era-seguida-pela-santa-casa-6a84366f33cbe64db367f7b2",
-      "pubDate": "Tue, 18 Aug 2026 12:00:06 +0000",
-      "description": "O Núcleo de Infância e Juventude de Oeiras prestava \"apoio económico, psicoterapêutico e psiquiátrico\" e articulava-se com outras instituições antes do crime.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A1N1pncU7PE%2BCEh0LRco4EuI2onHAabaz7NC%2BBpv9ssHHTIJeX2ARBvbMC13mBxiL85Cic6bzQgGkYQSq26BIpG%2FlDsZ1XZz986NtlQXTHkDLjFSfRtqO1wdeO8gXT3Fp"
+      "title": "Comissão Europeia prepara nova estratégia após verão de calor extremo, secas e incêndios",
+      "link": "https://sapo.pt/artigo/comissao-europeia-prepara-nova-estrategia-apos-verao-de-calor-extremo-secas-e-incendios-6a84541b2aeb6d4c8f913988",
+      "pubDate": "Tue, 18 Aug 2026 12:57:48 +0000",
+      "description": "\"Estamos a preparar uma estratégia europeia integrada para a resiliência climática, que será apresentada ainda este ano\", anunciou Eva Hrncirova.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ABGF6lVqs6P%2FA8twZyHPTccIm4Lor5XIXENpGGZXzjxqLD%2F6KbB4HNub%2FFiSg55wVzkUZpy2VCnsLiiGXDziRXenY3ASz%2BqlYBvfpSrdta7wYccBf90YhEzIzVvVDzM9D"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +155,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ex-casal condenado a 17 anos no Brasil por tortura vivia cá há 10. O caso",
-      "link": "https://www.noticiasaominuto.com/pais/3038030/ex-casal-condenado-a-17-anos-no-brasil-por-tortura-vivia-ca-ha-10-o-caso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 13:26:28",
+      "title": "França investiga interferência russa contra três figuras políticas",
+      "link": "https://www.noticiasaominuto.com/mundo/3038106/franca-investiga-interferencia-russa-contra-tres-figuras-politicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 14:25:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a843f4825254.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NTUsImNyb3BIZWlnaHQiOjUzNywiY3JvcFgiOjMsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUzMywiY3JvcEhlaWdodCI6OTQ3LCJjcm9wWCI6MjY2LCJjcm9wWSI6MTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6821caa965f41.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg1LCJjcm9wSGVpZ2h0IjoxMzk4LCJjcm9wWCI6NzUsImNyb3BZIjoyMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTE2NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo em Arouca com três frentes (311 operacionais e cinco meios aéreos)",
-      "link": "https://www.noticiasaominuto.com/pais/3038083/fogo-em-arouca-com-tres-frentes-311-operacionais-e-cinco-meios-aereos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 13:24:15",
+      "title": "Pelo menos 13 mortos após inundações no Japão",
+      "link": "https://www.noticiasaominuto.com/mundo/3038120/pelo-menos-13-mortos-apos-inundacoes-no-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 14:23:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47544539.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6NDAxLCJjcm9wWSI6MTl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47604712.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6MTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQxOSwiY3JvcEhlaWdodCI6NzQ1LCJjcm9wWCI6MTkxLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Segurança Social: Peritos propõem planos de pensões automáticos",
-      "link": "https://www.noticiasaominuto.com/economia/3038084/seguranca-social-peritos-propoem-planos-de-pensoes-automaticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 13:24:11",
+      "title": "Sem adeptos... nem jornalistas. Mourinho apresentado no Real Madrid",
+      "link": "https://www.noticiasaominuto.com/desporto/3038105/sem-adeptos-nem-jornalistas-mourinho-apresentado-no-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 14:21:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63ca4b6f59785.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84574eadb1b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Será desta? Benfica em negociações avançadas por Alessandro Circati",
-      "link": "https://www.noticiasaominuto.com/desporto/3038086/sera-desta-benfica-em-negociacoes-avancadas-por-alessandro-circati#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 13:23:31",
+      "title": "Epidemia por Ébola na RDCongo está \"longe de estar controlada\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3038113/epidemia-por-ebola-na-rdcongo-esta-longe-de-estar-controlada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 14:18:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a844e92e3485.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47504488.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ4fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Títulos de dívida sobem 4,3% para 333,7 mil milhões até julho",
-      "link": "https://www.noticiasaominuto.com/economia/3038078/titulos-de-divida-sobem-4-3-para-333-7-mil-milhoes-ate-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 13:21:33",
+      "title": "Arderam já 900 hectares em fogo de Santo Tirso com três frentes ativas",
+      "link": "https://www.noticiasaominuto.com/pais/3038102/arderam-ja-900-hectares-em-fogo-de-santo-tirso-com-tres-frentes-ativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 14:17:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_52541cca80ef8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MTQsImNyb3BIZWlnaHQiOjUxNCwiY3JvcFgiOjAsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozNTYsImNyb3BIZWlnaHQiOjYzMiwiY3JvcFgiOjE2OCwiY3JvcFkiOjF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62fa6641790b1.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Ninguém esperava este sucesso! Xiaomi SU7 atinge marca dos 500 mil carros elétricos",
+      "link": "https://pplware.sapo.pt/motores/ninguem-esperava-este-sucesso-xiaomi-su7-atinge-marca-dos-500-mil-carros-eletricos/",
+      "pubDate": "Tue, 18 Aug 2026 13:30:05 +0000",
+      "description": "A divisão automóvel da Xiaomi acaba de alcançar um marco histórico ao superar as 500 mil unidades entregues da série SU7. Este feito impressionante surge apenas 28 meses e meio após o início das&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/fabrica_xiaomi_su7_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Este pequeno gadget transforma o smartphone num alcoolímetro",
+      "link": "https://pplware.sapo.pt/gadgets/este-pequeno-gadget-transforma-o-smartphone-num-alcoolimetro/",
+      "pubDate": "Tue, 18 Aug 2026 12:45:29 +0000",
+      "description": "A tecnologia pode ser uma aliada na prevenção de comportamentos de risco. Um exemplo curioso é este pequeno alcoolímetro que se liga ao smartphone e permite fazer uma estimativa da taxa de álcool depois&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/alcolimetro_00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -282,24 +252,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/911_GT3_90_FA_Porsche_01.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Regresso às aulas: Windows 11 Pro + Office 2024 por 31,25€",
-      "link": "https://pplware.sapo.pt/zzpublicidade/regresso-aulas-windows-11-office-2024-godeal24/",
-      "pubDate": "Tue, 18 Aug 2026 10:30:57 +0000",
-      "description": "O regresso às aulas está a chegar e há um clássico que se repete: o portátil que precisa de ficar pronto antes do primeiro dia. Para isso, não é preciso gastar uma fortuna. Na&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/gd24_imagem.jpeg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Portugal já tem câmaras nos autocarros a fiscalizar o uso indevido da faixa BUS?",
-      "link": "https://pplware.sapo.pt/internet/portugal-ja-tem-camaras-nos-autocarros-a-fiscalizar-o-uso-indevido-da-faixa-bus/",
-      "pubDate": "Tue, 18 Aug 2026 10:00:53 +0000",
-      "description": "Um vídeo publicado nas redes sociais, gravado dentro de um autocarro da Carris, mostra dois dispositivos colados ao para-brisas e levanta a questão: será que Portugal já tem câmaras a multar quem invade as&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/carris-camaras-faixa-bus3.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Mercedes diz que é cedo para apostar tudo num piloto apenas",
+      "link": "https://www.autosport.pt/formula1/f1-mercedes-diz-que-e-cedo-para-apostar-tudo-num-piloto-apenas/",
+      "pubDate": "Tue, 18 Aug 2026 12:45:00 +0000",
+      "description": "Kimi Antonelli está prestes a retomar a sua caminhada rumo ao título, com 50 pontos de avanço sobre o seu mais direto adversário, Lewis Hamilton, e com 59 pontos de vantagem para o seu colega de equipa, George Russell. No entanto, a Mercedes não vai começar a aplicar ordens de equipa e apostar tudo ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +299,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-o-mais-jovem-vencedor-de-sempre-nao-tem-lugar-garantido-na-gen4/",
       "pubDate": "Tue, 18 Aug 2026 09:49:54 +0000",
       "description": "A última corrida da GEN3 foi marcada pela polémica disputa entre Porsche e Jaguar, que lutavam entre si pelos títulos de pilotos e equipas. Com isso o feito de Taylor Barnard acabou por ficar para segundo plano. Tornou-se o piloto mais jovem de sempre a vencer na competição, na última corrida desta ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: A última dança de Verstappen perante o seu público",
-      "link": "https://www.autosport.pt/formula1/f1-a-ultima-danca-de-verstappen-perante-o-seu-publico/",
-      "pubDate": "Tue, 18 Aug 2026 09:18:53 +0000",
-      "description": "O próximo fim de semana marca o regresso da F1 após a pausa de verão, mas será também a última corrida da competição em Zandvoort. A prova neerlandesa vai sair do calendário depois deste fim de semana, que conta com corrida Sprint. Verstappen já venceu três vezes no circuito de Zandvoort, mas, sem q",
       "thumbnail": ""
     }
   ]
