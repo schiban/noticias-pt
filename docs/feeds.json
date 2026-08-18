@@ -1,24 +1,34 @@
 {
-  "updated": "2026-08-18T03:22:09.736216+00:00",
+  "updated": "2026-08-18T04:05:53.655208+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "Qual o plano do governo com a reentrada na REN?",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/qual-o-plano-do-governo-com-a-reentrada-na-ren/",
+      "pubDate": "Tue, 18 Aug 2026 05:02:44 +0100",
+      "description": "Portugal regressa ao capital da REN com a aquisição de 13,7% da energética. Os objetivos do governo podem ser cumpridos com esta participação? Uma conversa com a jornalista Ana Suspiro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Federação Ciclismo aplaude inquérito sobre Tarling",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2374/",
       "pubDate": "Tue, 18 Aug 2026 04:17:21 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O presidente da Federação Portuguesa de Ciclismo, Cândido Barbosa, fala de uma boa notícia. Ainda, há a esta hora 7 incêndios considerados mais significativos pela proteção civil.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "3h. Erdogan pede que Trump continue negociações com o Irão",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2409/",
       "pubDate": "Tue, 18 Aug 2026 03:16:54 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O presidente turco oferece ainda o apoio de Ancara aos esforços de paz. Ainda, o incêndio de Valongo já está em fase de resolução.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -40,16 +50,6 @@
       "pubDate": "Tue, 18 Aug 2026 01:14:00 +0100",
       "description": "As águias venceram em Rio Maior com golos de Prestianni, Rafa, Pavlidis e Duran. Ainda, o Presidente da Câmara de Albufeira garante que nenhum grupo étnico é excluído do acesso à habitação social.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"O Benfica não posto à prova pelo Casa Pia.\"",
-      "link": "https://observador.pt/programas/a-forca-da-tecnica-e-a-tecnica-da-forca/o-benfica-nao-posto-a-prova-pelo-casa-pia/",
-      "pubDate": "Tue, 18 Aug 2026 01:00:27 +0100",
-      "description": "Casa Pia \"sem estratégia\" goleado por um Benfica \"eficaz\" que \"aproveitou bem\" o entrosamento entre Rafa e Pavlidis. Gabriel Alves destaca ainda a excelência de Prestianni no um para um.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01161110/770-podcast-a-forca-da-tecnica.jpg"
     },
     {
       "sourceId": "rtp",
