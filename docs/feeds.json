@@ -1,55 +1,95 @@
 {
-  "updated": "2026-08-18T15:56:08.810881+00:00",
+  "updated": "2026-08-18T16:28:41.865522+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "BCE revoga autorização de subsidiária do Banco Montepio",
-      "link": "https://observador.pt/2026/08/18/bce-revoga-autorizacao-de-subsidiaria-que-banco-montepio-queria-vender/",
-      "pubDate": "Tue, 18 Aug 2026 16:41:30 +0100",
-      "description": "O Banco Central Europeu (BCE) revogou a autorização do Banco Empresas Montepio (BEM), subsidiária do Banco Montepio que estava a ser vendida desde 2023 à Rauva.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:68/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/25200219/arquivo-bancos-e-farmacias-diogofariareis-2099-scaled.jpg"
+      "title": "Tribunal de Contas já está a analisar compra de ações da REN",
+      "link": "https://observador.pt/2026/08/18/tribunal-de-contas-ja-esta-a-analisar-entrada-no-capital-da-ren-pedido-de-visto-previo-tem-sido-raro-em-compra-de-empresas-no-estado/",
+      "pubDate": "Tue, 18 Aug 2026 17:24:52 +0100",
+      "description": "Já foi aberto o processo de visto prévio para aquisição de ações da REN. No passado recente, e nos governos de António Costa, o Tribunal de Contas não avaliou previamente compras feitas pelo Estado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2245:nowe:0:422/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/04192853/gettyimages-141704377.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Pais de Zelensky encontrados com 11 milhões de dólares?",
-      "link": "https://observador.pt/factchecks/fact-check-foram-encontrados-11-milhoes-de-dolares-na-casa-dos-pais-de-volodymyr-zelensky/",
-      "pubDate": "Tue, 18 Aug 2026 16:41:22 +0100",
-      "description": "Vídeo com o logótipo da Euronews e publicações nas redes sociais alegam que foram descobertos 11 milhões de dólares na conta dos pais de Zelensky após alegado caso de \"evasão fiscal\". É verdade?",
+      "title": "Banda Desenhada ilustrada por André Lima finalista em França",
+      "link": "https://observador.pt/2026/08/18/banda-desenhada-ilustrada-por-portugues-andre-lima-araujo-finalista-de-premio-em-franca/",
+      "pubDate": "Tue, 18 Aug 2026 17:22:34 +0100",
+      "description": "A Associação de Críticos e Jornalistas de BD de França (ACBD) escolheu cinco finalistas entre 87 títulos. O vencedor é anunciado em outubro, em Saint-Malo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/29150635/9761049_770x433_acf_cropped-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Governo afasta reforma das pensões. Estudo é \"um contributo\"",
+      "link": "https://observador.pt/especiais/governo-diz-que-estudo-sobre-seguranca-social-e-mais-um-contributo-e-garante-que-nao-vai-avancar-com-reforma/",
+      "pubDate": "Tue, 18 Aug 2026 17:18:45 +0100",
+      "description": "Fonte do Governo diz que conclusões do estudo são da \"exclusiva responsabilidade\" do estudo de Jorge Bravo e que este é apenas mais um contributo, sem querer reabrir dossiê. Pelo menos, até 2029.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/29154347/47016264.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Vídeo mostra orcas a partilharem ondas com surfistas?",
+      "link": "https://observador.pt/factchecks/fact-check-video-mostra-orcas-a-partilharem-ondas-com-surfistas-na-nova-zelandia/",
+      "pubDate": "Tue, 18 Aug 2026 16:51:39 +0100",
+      "description": "Teria sido um momento \"raro\" com orcas. Na Nova Zelândia, teriam sido filmados surfistas a \"partilharem ondas\" com um dos maiores mamíferos do mundo. Será mesmo assim?",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Síria. AIEA encontra toneladas de material nuclear escondido",
-      "link": "https://observador.pt/2026/08/18/aiea-descobre-toneladas-de-materiais-nucleares-na-siria-apos-alerta-de-damasco/",
-      "pubDate": "Tue, 18 Aug 2026 16:40:30 +0100",
-      "description": "Damasco alertou a agência da ONU para o \"legado\" nuclear do regime deposto. Rafael Grossi confirmou o acesso ao local após carta síria enviada a 17 de julho.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:79/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18154814/47627771.jpg"
+      "title": "\"A minha infância foi dramática, violenta e pobre\"",
+      "link": "https://observador.pt/programas/justica-cega/a-minha-infancia-foi-dramatica-violenta-e-pobre/",
+      "pubDate": "Tue, 18 Aug 2026 16:51:32 +0100",
+      "description": "Agostinho Pereira de Miranda recorda a infância entre Angola e o Alto Minho, o crime que denunciou aos 9 anos e o amor pela música que lhe deu sustento. 1.ª parte de uma longa conversa com Luís Rosa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/29144757/770-podcast-justica-cega.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Açores trabalha de \"forma séria\" na criação de rotas aéreas",
-      "link": "https://observador.pt/2026/08/18/governo-dos-acores-trabalha-de-forma-seria-na-criacao-do-fundo-de-rotas-aereas/",
-      "pubDate": "Tue, 18 Aug 2026 16:30:51 +0100",
-      "description": "Um grupo de trabalho multidisciplinar criado pelo Governo dos Açores vai avaliar um fundo \"mais adequado à realidade açoriana\", tendo em conta o setor do turismo e a mobilidade dos residentes.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/01/23093644/14909176_770x433_acf_cropped.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "João Marcelino é o novo diretor do Jornal Económico",
+      "link": "https://www.rtp.pt/noticias/economia/joao-marcelino-e-o-novo-diretor-do-jornal-economico_n1760174",
+      "pubDate": "Tue, 18 Aug 2026 18:28:16 +0100",
+      "description": "João Marcelino regressa ao Jornal Económico, agora como diretor, anunciou hoje a administração da Media9Par, que indica que Ricardo Santos Ferreira e Lígia Simões ficam como diretores-adjuntos, num comunicado interno a que a Lusa teve acesso.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Viana do Castelo prepara anel viário junto a Santa Luzia",
-      "link": "https://observador.pt/2026/08/18/viana-do-castelo-quer-construir-nova-via-por-tras-do-santuario-de-santa-luzia/",
-      "pubDate": "Tue, 18 Aug 2026 16:30:04 +0100",
-      "description": "O presidente da Câmara, Luís Nobre, revelou o projeto e garantiu que a antiga solução — que \"esventraria o monte\" de Santa Luzia — foi afastada.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1700:954:nowe:0:119/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/09231939/luis-nobre-1-600-2500.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndios em Portugal. A situação ao minuto",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
+      "pubDate": "Tue, 18 Aug 2026 18:25:24 +0100",
+      "description": "Mais de dois mil bombeiros combatiam incêndios no país durante a tarde desta terça-feira. A apoiar os operacionais no terreno estavam cerca de 700 viaturas e 21 meios aéreos. Atualizamos aqui, ao minuto, o evoluir da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/de/dec9fdc1c52b9038dbd603ddee58bbee?w=350&amp;q=50&amp;rect=0,325,4899,2686&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Entrada do Estado na REN dá influência, mas não baixa diretamente tarifas, diz o ex-presidente da ERSE",
+      "link": "https://www.rtp.pt/noticias/economia/entrada-do-estado-na-ren-da-influencia-mas-nao-baixa-diretamente-tarifas-diz-o-ex-presidente-da-erse_n1760169",
+      "pubDate": "Tue, 18 Aug 2026 18:06:50 +0100",
+      "description": "A entrada do Estado no capital da REN, através de uma participação de 13,7%, poderá reforçar a influência sobre decisões estratégicas, mas não lhe dará o controlo da empresa e não baixará diretamente as tarifas, considera Vítor Santos, antigo presidente da ERSE.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9ad8fd99c1584a903f85224f2444ecbe?w=350&amp;q=50&amp;rect=0,390,4899,2686&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sophie Adenot tornou-se na primeira mulher francesa a sair para o espaço",
+      "link": "https://www.rtp.pt/noticias/mundo/sophie-adenot-tornou-se-na-primeira-mulher-francesa-a-sair-para-o-espaco_n1760173",
+      "pubDate": "Tue, 18 Aug 2026 18:00:47 +0100",
+      "description": "A astronauta francesa da Agência Espacial Europeia (ESA), Sophie Adenot, tornou-se, esta terça-feira, a primeira mulher francesa a realizar uma saída para o espaço e a segunda da Europa, depois da estreia da italiana Samantha Cristoforetti, em 2022.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c8/c8d869decec05d6d465a5a2b48b1eec0?w=350&amp;q=50&amp;rect=0,18,2048,1123&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios em Portugal. A situação ao minuto",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
-      "pubDate": "Tue, 18 Aug 2026 17:12:17 +0100",
-      "description": "Ao início da tarde desta terça-feira, mais de dois mil bombeiros combatiam incêndios no país. A apoiar os operacionais no terreno estavam cerca de 700 viaturas e 13 meios aéreos. Atualizamos aqui, ao minuto, o evoluir da situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/de/dec9fdc1c52b9038dbd603ddee58bbee?w=350&amp;q=50&amp;rect=0,325,4899,2686&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Recluso morre depois de ter sido assistido no hospital",
-      "link": "https://www.rtp.pt/noticias/pais/recluso-morre-depois-de-ter-sido-assistido-no-hospital_n1760165",
-      "pubDate": "Tue, 18 Aug 2026 16:57:13 +0100",
-      "description": "Homem recebeu tratamento médico no Hospital de Vila Franca de Xira, mas regressou para o estabelecimento de Vale do Judeu onde estava a cumprir pena.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e6692645503d285f2091bd4fa0602c9?w=350&amp;q=50&amp;rect=0,139,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "15h Segurança Social: modelo é insustentável, diz grupo de trabalho",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-seguranca-social-modelo-e-insustentavel-diz-grupo-de-trabalho_a1_1760167",
-      "pubDate": "Tue, 18 Aug 2026 16:40:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Roglic vai mesmo alinhar na 81ª Vuelta para tentar isolar-se como recordista",
-      "link": "https://www.rtp.pt/noticias/ciclismo/roglic-vai-mesmo-alinhar-na-81a-vuelta-para-tentar-isolar-se-como-recordista_d1760160",
-      "pubDate": "Tue, 18 Aug 2026 15:58:34 +0100",
-      "description": "O ciclista Primoz Roglic vai alinhar na 81ª Volta a Espanha, confirmou esta terça-feira a Red Bull-BORA-hansgrohe, acabando com as dúvidas sobre a participação do esloveno, que procura tornar-se recordista solitário de vitórias na prova.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a2/a225939f72fc73262476fa22ffeb7a45?w=350&amp;q=50&amp;rect=0,148,2889,1584&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Ricardo Velho deixa o Farense e reforça o Aris",
+      "link": "https://maisfutebol.iol.pt/made-in/ricardo-velho/oficial-ricardo-velho-deixa-o-farense-e-reforca-o-aris",
+      "pubDate": "Tue, 18 Aug 2026 17:01:00 +0100",
+      "description": "Guardião português assina contrato válido por quatro temporadas",
+      "thumbnail": "https://img.iol.pt/image/id/6a8481cfd34ed0733ba8067e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Tue, 18 Aug 2026 16:27:00 +0100",
       "description": "Avançado brasileiro assina com o Kansas City e protagoniza transferência recorde",
       "thumbnail": "https://img.iol.pt/image/id/6a8477eed34e511da0b33e2e/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting: Vagiannidis treina integrado com restante plantel",
-      "link": "https://maisfutebol.iol.pt/liga/sporting/atencao-sporting-vagiannidis-treina-integrado-com-restante-plantel",
-      "pubDate": "Tue, 18 Aug 2026 16:17:00 +0100",
-      "description": "Lateral saiu de maca frente ao V. Guimarães mas deve estar apto para receção dos leões ao Alverca",
-      "thumbnail": "https://img.iol.pt/image/id/6a84756dd34e511da0b33e2a/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Veríssimo e João Pinheiro nomeados. Já há árbitros para a 3.ª jornada",
-      "link": "https://www.noticiasaominuto.com/desporto/3038205/verissimo-e-pinheiros-nomeados-ja-ha-arbitros-para-a-3-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 16:48:52",
+      "title": "PCP desafia Governo a \"vencer preconceitos\" e assumir controlo público da REN",
+      "link": "https://www.noticiasaominuto.com/politica/3038220/pcp-desafia-governo-a-vencer-preconceitos-e-assumir-controlo-publico-da-ren#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 17:24:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a50d54d6ad66.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_562b8c20680ed.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Área ardida quatro vezes menor este ano, mas número de fogos aumenta",
-      "link": "https://www.noticiasaominuto.com/pais/3038198/area-ardida-quatro-vezes-menor-este-ano-mas-numero-de-fogos-aumenta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 16:44:24",
+      "title": "João Marcelino é o novo diretor do Jornal Económico",
+      "link": "https://www.noticiasaominuto.com/economia/3038223/joao-marcelino-e-o-novo-diretor-do-jornal-economico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 17:22:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47627487.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/13487374.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjEzMTcsImNyb3BYIjoyODksImNyb3BZIjoxOH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Moçambique quer levar vítimas de xenofobia para trabalhar em Portugal",
-      "link": "https://www.noticiasaominuto.com/mundo/3038199/mocambique-quer-levar-vitimas-de-xenofobia-para-trabalhar-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 16:43:58",
+      "title": "Morte em Algés: PSP foi 5 vezes à residência e relatou \"crescente tensão\"",
+      "link": "https://www.noticiasaominuto.com/pais/3038196/morte-de-mae-em-alges-psp-foi-5-vezes-ao-local-e-a-crescente-tensao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 17:22:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47458836.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_555a728f319fd.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pedro Duarte culpa \"falhanço do Estado\" pela violência no Porto",
-      "link": "https://www.noticiasaominuto.com/pais/3038192/pedro-duarte-culpa-falhanco-do-estado-pela-violencia-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 16:36:58",
+      "title": "Tiago Bandeira defende-se de ataques homofóbicos: \"São gritos de raiva\"",
+      "link": "https://www.noticiasaominuto.com/fama/3038197/tiago-bandeira-defende-se-de-ataques-homofobicos-sao-gritos-de-raiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 17:15:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_696618f5d40dd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjg0MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a847b1476d72.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjYxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTAsImNyb3BIZWlnaHQiOjE0NDAsImNyb3BYIjoyMDcsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois reclusos morrem em Vale de Judeus: Um tinha \"doença contagiosa\"",
-      "link": "https://www.noticiasaominuto.com/pais/3038191/dois-reclusos-morrem-em-vale-de-judeus-um-tinha-doenca-contagiosa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 16:35:08",
+      "title": "Fogo em Arouca \"está para durar\" e tem quatro aldeias \"na linha de fogo\"",
+      "link": "https://www.noticiasaominuto.com/pais/3038213/fogo-em-arouca-esta-para-durar-e-tem-quatro-aldeias-na-linha-de-fogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 17:12:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_674097a358fcd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e773690.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "OpenAI lança ChatGPT para adolescentes: menos humano e mais controlo para os pais",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/openai-lanca-chatgpt-para-adolescentes-menos-humano-e-mais-controlo-para-os-pais/",
+      "pubDate": "Tue, 18 Aug 2026 16:00:50 +0000",
+      "description": "A OpenAI começou hoje a distribuir globalmente o ChatGPT for Teens, uma versão da sua Inteligência Artificial (IA) pensada especificamente para adolescentes, com menos &#8220;personalidade humana&#8221; e mais ferramentas de controlo parental. Numa altura&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/adolescente-redes-sociais.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/alcolimetro_00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novo recall da Stellantis afeta quase um milhão de veículos",
-      "link": "https://pplware.sapo.pt/motores/novo-recall-da-stellantis-afeta-quase-um-milhao-de-veiculos/",
-      "pubDate": "Tue, 18 Aug 2026 11:54:18 +0000",
-      "description": "A Stellantis lançou um aviso a cerca de 955 mil veículos devido a um problema de software. O caso volta a colocar em causa a credibilidade do grupo, que já soma vários recalls nos&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/11/stellantis_fabrica00.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Nissan na Fórmula E: o peso do simulador",
+      "link": "https://www.autosport.pt/velocidade/nissan-na-formula-e-o-peso-do-simulador/",
+      "pubDate": "Tue, 18 Aug 2026 15:37:10 +0000",
+      "description": "A Época 12 da Fórmula E não foi a mais bem-sucedida da Nissan na história do campeonato de monolugares elétricos, que teve início na quinta temporada da categoria, em 2018-19 – prova-o tanto a sexta posição entre as equipas, como o facto de ter conseguido só cinco pódios e uma vitória em 17 corridas",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/velocidade/elms-spa-jose-cautela-segue-na-lideranca-e-quer-gerir-vantagem/",
       "pubDate": "Tue, 18 Aug 2026 13:30:00 +0000",
       "description": "José Cautela prepara-se para disputar a quarta ronda da European Le Mans Series, com a participação nas 4 Horas de Spa-Francorchamps, competição agendada para o fim de semana de 21 a 23 de agosto, na Bélgica. A corrida principal está marcada para domingo, dia 23, às 13h00, e será disputada no Circui",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Mercedes diz que é cedo para apostar tudo num piloto apenas",
-      "link": "https://www.autosport.pt/formula1/f1-mercedes-diz-que-e-cedo-para-apostar-tudo-num-piloto-apenas/",
-      "pubDate": "Tue, 18 Aug 2026 12:45:00 +0000",
-      "description": "Kimi Antonelli está prestes a retomar a sua caminhada rumo ao título, com 50 pontos de avanço sobre o seu mais direto adversário, Lewis Hamilton, e com 59 pontos de vantagem para o seu colega de equipa, George Russell. No entanto, a Mercedes não vai começar a aplicar ordens de equipa e apostar tudo ",
       "thumbnail": ""
     }
   ]
