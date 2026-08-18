@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-18T21:19:17.189424+00:00",
+  "updated": "2026-08-18T21:46:14.827218+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Livre \"frontalmente contra\" privatização da Segurança Social",
+      "link": "https://observador.pt/2026/08/18/livre-frontalmente-contra-tentativa-de-privatizar-seguranca-social/",
+      "pubDate": "Tue, 18 Aug 2026 22:45:05 +0100",
+      "description": "Livre afirma que atual sistema é o que melhor defende os cidadãos, manifestando-se contra qualquer tentativa de privatizar a Segurança Social. Acusa os governos de direita de previsões catastrofistas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011720/arquivo-3080-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rússia chama embaixador japonês após polémica das Curilhas",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/russia-chama-embaixador-japones-apos-polemica-das-curilhas/",
+      "pubDate": "Tue, 18 Aug 2026 22:41:03 +0100",
+      "description": "Em destaque nos jornais russos está a chamada do embaixador japonês por parte da Rússia. Depois do Japão ter criticado a viagem de Putin às ilhas japonesas, proclamadas pela Rússia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Zelensky aponta novo ministro da defesa",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/zelensky-aponta-novo-ministro-da-defesa/",
+      "pubDate": "Tue, 18 Aug 2026 22:36:33 +0100",
+      "description": "O presidente ucraniano apresentou o novo ministro da defesa e aproveitou o anúncio para afastar categoricamente o regresso de Mykhailo Fedorov ao governo, apesar dos protestos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "RTP diz que estão reunidas condições para manter subsídios",
+      "link": "https://observador.pt/2026/08/18/rtp-diz-que-estao-reunidas-condicoes-para-manter-subsidios-criticados-pela-inspecao-geral-de-financas/",
+      "pubDate": "Tue, 18 Aug 2026 22:31:28 +0100",
+      "description": "A estação pública e os sindicatos chegaram a acordo esta terça-feira após a IGF ter identificado vários pagamentos como indevidos numa auditoria ao período 2018-2024.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/07/17542789.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25005628/ilacerda-quadros-penalva-do-castelo13-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 22h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1849/",
-      "pubDate": "Tue, 18 Aug 2026 22:14:52 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "TPI diz que sanções dos EUA contra seus responsáveis \"minam o Estado de Direito\"",
+      "link": "https://www.rtp.pt/noticias/mundo/tpi-diz-que-sancoes-dos-eua-contra-seus-responsaveis-minam-o-estado-de-direito_n1760226",
+      "pubDate": "Tue, 18 Aug 2026 23:37:01 +0100",
+      "description": "O Tribunal Penal Internacional (TPI) afirmou hoje que as sanções norte-americanas contra altos responsáveis da instância judicial &quot;minam o estado de direito&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/65/65dbd8b5db2bd2432afae2fccbd85dc8?w=350&amp;q=50&amp;rect=0,92,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Brent ultrapassa 91 dólares com as negociações paralisadas",
-      "link": "https://observador.pt/2026/08/18/cotacao-do-brent-ultrapassa-91-dolares-com-paralisacao-de-negociacoes-eua-irao/",
-      "pubDate": "Tue, 18 Aug 2026 22:13:03 +0100",
-      "description": "O Irão mantém o estreito de Ormuz fechado enquanto Washington não cumprir as suas condições. Pelo canal passa 20% do fluxo mundial de crude.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/29222204/47083019.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ex-ministro da Defesa ucraniano Mikhail Fedorov pede condições para convocar eleições",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ex-ministro-da-defesa-ucraniano-mikhail-fedorov-pede-condicoes-para-convocar-eleicoes_n1760219",
+      "pubDate": "Tue, 18 Aug 2026 23:22:16 +0100",
+      "description": "O ex-ministro da Defesa ucraniano Mikhail Fedorov, demitido em julho, apelou hoje para a criação de condições para a realização de eleições, apesar da invasão russa, como forma de &quot;restaurar um processo democrático pleno&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "ONU alerta para segurança \"precária\" na Líbia",
-      "link": "https://observador.pt/2026/08/18/onu-alerta-para-seguranca-precaria-na-libia-e-pede-avanco-no-processo-politico/",
-      "pubDate": "Tue, 18 Aug 2026 22:10:03 +0100",
-      "description": "A chefe da UNSMIL alertou o Conselho de Segurança da ONU para a fragmentação institucional, ataques a infraestruturas e competição entre grupos armados no país.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18193329/47628094.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Antigo ministro ucraniano da Defesa pede eleições no país",
-      "link": "https://observador.pt/2026/08/18/ex-ministro-da-defesa-ucraniano-pede-eleicoes-durante-a-guerra-a-democracia-nao-pode-ser-feita-refem-da-russia/",
-      "pubDate": "Tue, 18 Aug 2026 22:00:25 +0100",
-      "description": "Fedorov, demitido em julho, defende que a complexidade de votar em tempo de guerra \"não significa impossibilidade\" e denuncia corrupção baseada em lealdades pessoais.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:143/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/24164647/46349646.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "22h Morreu a atriz brasileira Gloria Menezes",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-morreu-a-atriz-brasileira-gloria-menezes_a1_1760223",
+      "pubDate": "Tue, 18 Aug 2026 23:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Morreu a atriz Glória Menezes",
-      "link": "https://www.rtp.pt/noticias/mundo/morreu-a-atriz-gloria-menezes_n1760221",
-      "pubDate": "Tue, 18 Aug 2026 23:07:08 +0100",
-      "description": "Morreu, aos 91 anos, a atriz brasileira Glória Menezes, depois de mais de seis décadas de carreira na dramaturgia. A informação foi avançada pela sua assessoria.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e8e6551b3ac98d4acf78400b8ff4bbf5?w=350&amp;q=50&amp;rect=13,0,792,434&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Português Ruben Prey confirma presença no draft da NBA",
+      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/portugues-ruben-prey-confirma-presenca-no-draft-da-nba",
+      "pubDate": "Tue, 18 Aug 2026 22:28:00 +0100",
+      "description": "Extremo/ poste de 21 anos, que atua no St. John´s Red Storm, falou à margem do estágio da Seleção Nacional de basquetebol",
+      "thumbnail": "https://img.iol.pt/image/id/6a84cc78d34e511da0b33f27/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios em Portugal. A situação ao minuto",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
-      "pubDate": "Tue, 18 Aug 2026 22:54:48 +0100",
-      "description": "Ao final da tarde de terça-feira, as autoridades descartavam a necessidade de evacuar localidades em Arouca apesar das quatro frentes ativas do fogo. Atualizamos aqui, ao minuto, o evoluir da situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a85c7d09931ace4512a9ff42e7d9fb?w=350&amp;q=50&amp;rect=0,0,8064,4421&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Emirados Árabes Unidos suspendem relações comerciais com o Irão até nova ordem",
-      "link": "https://www.rtp.pt/noticias/mundo/emirados-arabes-unidos-suspendem-relacoes-comerciais-com-o-irao-ate-nova-ordem_n1760218",
-      "pubDate": "Tue, 18 Aug 2026 22:46:32 +0100",
-      "description": "Todas as atividades comerciais, trocas e transações financeiras com o Irão estão suspensas até novas ordens, anunciou o Ministério dos Negócios Estrangeiros dos Emirados em comunicado, esta quarta-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/34/34d662358206acbabcbeb44ad49e24cc?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Champions: Lyon de Paulo Fonseca empata na visita ao Fenerbahçe",
+      "link": "https://maisfutebol.iol.pt/liga-campeoes/fenerbahce/champions-lyon-de-paulo-fonseca-empata-na-visita-ao-fenerbahce",
+      "pubDate": "Tue, 18 Aug 2026 22:17:01 +0100",
+      "description": "Openda dá vantagem aos franceses, Greenwood deixa tudo em aberto para a segunda mão da pré-eliminatória",
+      "thumbnail": "https://img.iol.pt/image/id/6a84c7ddd34e511da0b33f14/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Tue, 18 Aug 2026 20:40:00 +0100",
       "description": "Em jogo estão 31 milhões de euros",
       "thumbnail": "https://img.iol.pt/image/id/61bceacb0cf2cc58e7d83686/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Musiala desmaia (outra vez) e equipa médica do Bayern já descobriu o problema",
-      "link": "https://maisfutebol.iol.pt/alemanha/bayern-munique/musiala-desmaia-outra-vez-e-equipa-medica-do-bayern-ja-descobriu-o-problema",
-      "pubDate": "Tue, 18 Aug 2026 20:25:20 +0100",
-      "description": "Kompany fala numa «situação preocupante» e garante que pode piorar caso o jogador seja exposto a muitos minutos de alta intensidade em breve",
-      "thumbnail": "https://img.iol.pt/image/id/6a84acb3d34e511da0b33ee9/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Depay renova com o Corinthians",
-      "link": "https://maisfutebol.iol.pt/internacional/brasil/oficial-depay-renova-com-o-corinthians",
-      "pubDate": "Tue, 18 Aug 2026 20:23:22 +0100",
-      "description": "Avançado neerlandês assina contrato até 2028",
-      "thumbnail": "https://img.iol.pt/image/id/6a84b066d34ed0733ba80721/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois detidos por furtarem 220 quilos de metais não preciosos em Alcochete",
-      "link": "https://www.noticiasaominuto.com/pais/3038333/dois-detidos-por-furtarem-220-quilos-de-metais-nao-preciosos-em-alcochete#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 22:13:52",
+      "title": "Livre \"frontalmente contra\" tentativa de \"privatizar\" Segurança Social",
+      "link": "https://www.noticiasaominuto.com/politica/3038337/livre-frontalmente-contra-tentativa-de-privatizar-seguranca-social#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 22:41:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84c6d44d8ea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MzMxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MzUsImNyb3BIZWlnaHQiOjExMjgsImNyb3BYIjoyNTgsImNyb3BZIjotMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f6af06e65fe8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ministro israelita anuncia execução de palestinianos condenados à morte",
-      "link": "https://www.noticiasaominuto.com/mundo/3038331/ministro-israelita-anuncia-execucao-de-palestinianos-condenados-a-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 22:07:19",
+      "title": "Israel lança concurso para 1.234 casas do plano que divide Cisjordânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3038335/israel-lanca-concurso-para-1234-casas-do-plano-que-divide-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 22:38:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47331763.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69977f0c0813e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Al Nassr nos oitavos da Taça saudita com bis e assistência de João Félix",
-      "link": "https://www.noticiasaominuto.com/desporto/3038327/al-nassr-nos-oitavos-da-taca-saudita-com-bis-e-assistencia-de-joao-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 21:56:29",
+      "title": "Curilas do Sul? Rússia acusa EUA de apoiarem \"revanchismo\" japonês",
+      "link": "https://www.noticiasaominuto.com/mundo/3038332/curilas-do-sul-russia-acusa-eua-de-apoiarem-revanchismo-japones#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 22:33:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84c7027666d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84cf963eda5.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Moçambique quer investir 1.400 milhões para mais produtividade agrícola",
-      "link": "https://www.noticiasaominuto.com/mundo/3038326/mocambique-quer-investir-1400-milhoes-para-mais-produtividade-agricola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 21:49:13",
+      "title": "3 hábitos após o jantar que o ajudam a sentir-se mais calmo e sem stress",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3038334/3-habitos-apos-o-jantar-que-o-ajudam-a-sentir-se-mais-calmo-e-sem-stress#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 22:30:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/39884526.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84c7b39f8f0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQ0MSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ninguém conquistou o jackpot do Euromilhões. E para Portugal, o que veio?",
-      "link": "https://www.noticiasaominuto.com/pais/3038328/ninguem-conquistou-o-jackpot-do-euromilhoes-e-para-portugal-o-que-veio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 21:35:07",
+      "title": "Lyon de Paulo Fonseca empata fora com Fenerbahçe na 1.ª mão do play-off",
+      "link": "https://www.noticiasaominuto.com/desporto/3038339/lyon-de-paulo-fonseca-empata-fora-com-fenerbahce-na-1-mao-do-play-off#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 22:22:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63403ca9e07d7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84d0569a747.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google prepara-se para dar ao Android 17 algo que era exclusivo dos Pixel",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-vai-dar-ao-android-17-algo-que-era-exclusivo-dos-pixel/",
+      "pubDate": "Tue, 18 Aug 2026 21:30:46 +0000",
+      "description": "Com o Android 17, a Google quer trazer muitas novidades. Estas abarcam muitas áreas, mas uma quer destacar-se, a da usabiliade. Para isso, a Google vai implementar um novo gesto no Android que pode&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/now_playing_android_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Tue, 18 Aug 2026 17:20:59 +0000",
       "description": "Se passeou ou até fez férias em Espanha e agora está de regresso, talvez valha a pena olhar para as garrafas de plástico e latas antes de as colocar no ecoponto. Algumas embalagens compradas&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/sistema-volta.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "GPMI já não é apenas uma promessa: rival chinês do HDMI chega a quase um milhão de TVs",
-      "link": "https://pplware.sapo.pt/gadgets/hardware/gpmi-ja-nao-e-apenas-uma-promessa-rival-chines-do-hdmi-chega-a-quase-um-milhao-de-tvs/",
-      "pubDate": "Tue, 18 Aug 2026 16:42:49 +0000",
-      "description": "Quando a China apresentou o GPMI, poucos acreditariam que pudesse ameaçar o domínio do HDMI e DisplayPort. Pouco mais de um ano depois, já existem normas, chips e produtos comerciais, colocando a China na&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/gpmi_china01.webp"
     },
     {
       "sourceId": "autosport",
