@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:23:36.574067+00:00",
+  "updated": "2026-08-18T19:47:53.382169+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,51 +55,81 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "20h Seguro promulga a \"lei das burcas\"",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/20h-seguro-promulga-a-lei-das-burcas_a1_1760199",
-      "pubDate": "Tue, 18 Aug 2026 21:18:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Incêndios em Portugal. A situação ao minuto",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
+      "pubDate": "Tue, 18 Aug 2026 21:39:48 +0100",
+      "description": "Ao final da tarde de terça-feira, as autoridades descartavam a necessidade de evacuar localidades em Arouca apesar das quatro frentes ativas do fogo. Atualizamos aqui, ao minuto, o evoluir da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a85c7d09931ace4512a9ff42e7d9fb?w=350&amp;q=50&amp;rect=0,0,8064,4421&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Aditamento ao Acordo de Empresa. RTP e sindicatos assinam acordo sobre subsídios",
-      "link": "https://www.rtp.pt/noticias/economia/aditamento-ao-acordo-de-empresa-rtp-e-sindicatos-assinam-acordo-sobre-subsidios_n1760197",
-      "pubDate": "Tue, 18 Aug 2026 21:15:39 +0100",
-      "description": "Os sindicatos que representam os trabalhadores da RTP e a administração assinaram um aditamento ao Acordo de Empresa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d832b0230ff1a83588d024fe9d8fe31c?w=350&amp;q=50&amp;rect=0,59,1500,822&amp;auto=format"
+      "title": "Incendiários em Portugal. Perfil ficou mais velho e com mais mulheres",
+      "link": "https://www.rtp.pt/noticias/pais/incendiarios-em-portugal-perfil-ficou-mais-velho-e-com-mais-mulheres_v1760204",
+      "pubDate": "Tue, 18 Aug 2026 21:37:47 +0100",
+      "description": "Este ano foram abertos menos inquéritos a incêndios provocados intencionalmente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/cd/cdcfe8fad262eb002c6c7fcc19b6c370_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Presidente da República promulga \"lei das burcas\"",
-      "link": "https://www.rtp.pt/noticias/pais/presidente-da-republica-promulga-lei-das-burcas_n1760195",
-      "pubDate": "Tue, 18 Aug 2026 20:31:00 +0100",
-      "description": "António José Seguro promulgou a lei das burcas, apesar de considerar tratar-se de uma &quot;matéria de grande sensibilidade social e cultural&quot; em que é difícil definir fronteiras.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f64633c7cb0bd42801b19915c5ccdfac?w=350&amp;q=50&amp;rect=0,97,1500,822&amp;auto=format"
+      "title": "Santo Tirso. Fogo ameaçou várias casas em São Tomé de Negrelos",
+      "link": "https://www.rtp.pt/noticias/pais/santo-tirso-fogo-ameacou-varias-casas-em-sao-tome-de-negrelos_v1760203",
+      "pubDate": "Tue, 18 Aug 2026 21:36:47 +0100",
+      "description": "O incêndio de Santo Tirso agravou-se ao longo do dia de terça-feira. As chamas aproximaram-se de casas e obrigaram a várias evacuações de precaução.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/31/31a5e80002ae94e17dce11408c140295_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "19h Arouca. Combate difícil mesmo com o início da noite",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-arouca-combate-dificil-mesmo-com-o-inicio-da-noite_a1_1760193",
-      "pubDate": "Tue, 18 Aug 2026 20:25:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Torre de Moncorvo. Uma das três frentes ativas inspira preocupação",
+      "link": "https://www.rtp.pt/noticias/pais/torre-de-moncorvo-uma-das-tres-frentes-ativas-inspira-preocupacao_v1760202",
+      "pubDate": "Tue, 18 Aug 2026 21:33:48 +0100",
+      "description": "O incêndio em Torre de Moncorvo soma três frentes ativas. A que inspira maior preocupação situa-se em Vilarinho da Castanheira, no concelho de Carrazeda de Ansiães.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0c/0c2b5799b1217d6d5732d8e0da90b33d_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Dona do Facebook e Instagram enfrenta julgamento histórico sobre dependência infantil das redes sociais",
-      "link": "https://www.rtp.pt/noticias/mundo/dona-do-facebook-e-instagram-enfrenta-julgamento-historico-sobre-dependencia-infantil-das-redes-sociais_n1760189",
-      "pubDate": "Tue, 18 Aug 2026 19:54:34 +0100",
-      "description": "A Meta enfrenta, esta terça-feira, o primeiro dia de julgamento relativo a uma acusação sobre os danos causados pelas redes sociais às crianças. A decisão final poderá redefinir o modo de funcionamento de Facebook e Instagram.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ec/eccef8435d7c65c1f1e66d7ba4de529b?w=350&amp;q=50&amp;rect=0,386,6500,3564&amp;auto=format"
+      "title": "Sete aldeias ameaçadas pelo fogo em Arouca",
+      "link": "https://www.rtp.pt/noticias/pais/sete-aldeias-ameacadas-pelo-fogo-em-arouca_v1760201",
+      "pubDate": "Tue, 18 Aug 2026 21:31:47 +0100",
+      "description": "As autoridades descartam a evacuação de qualquer localidade para já, apesar de o incêndio avançar em quatro frentes ativas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/df/df4b82d236c191c022b877d12629135e_N.jpg?"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Euromilhões: a chave do sorteio desta terça-feira",
+      "link": "https://maisfutebol.iol.pt/euromilhoes/euromilhoes-terca-feira/euromilhoes-a-chave-do-sorteio-desta-terca-feira-178708203",
+      "pubDate": "Tue, 18 Aug 2026 20:40:36 +0100",
+      "description": "Em jogo estão 31 milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/61bceacb0cf2cc58e7d83686/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Musiala desmaia (outra vez) e equipa médica do Bayern já descobriu o problema",
+      "link": "https://maisfutebol.iol.pt/alemanha/bayern-munique/musiala-desmaia-outra-vez-e-equipa-medica-do-bayern-ja-descobriu-o-problema",
+      "pubDate": "Tue, 18 Aug 2026 20:25:20 +0100",
+      "description": "Kompany fala numa «situação preocupante» e garante que pode piorar caso o jogador seja exposto a muitos minutos de alta intensidade em breve",
+      "thumbnail": "https://img.iol.pt/image/id/6a84acb3d34e511da0b33ee9/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Depay renova com o Corinthians",
+      "link": "https://maisfutebol.iol.pt/internacional/brasil/oficial-depay-renova-com-o-corinthians",
+      "pubDate": "Tue, 18 Aug 2026 20:23:22 +0100",
+      "description": "Avançado neerlandês assina contrato até 2028",
+      "thumbnail": "https://img.iol.pt/image/id/6a84b066d34ed0733ba80721/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,34 +152,24 @@
       "thumbnail": "https://img.iol.pt/image/id/6a7c2b57d34ed0733ba7f5eb/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: JP reforça o meio-campo do Casa Pia",
-      "link": "https://maisfutebol.iol.pt/casa-pia/liga/oficial-jp-reforca-o-meio-campo-do-casa-pia",
-      "pubDate": "Tue, 18 Aug 2026 18:54:41 +0100",
-      "description": "Brasileiro chega proveniente do Vasco da Gama",
-      "thumbnail": "https://img.iol.pt/image/id/6a849c43d34ed0733ba806e5/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Seguro promulga ‘lei das burcas’",
+      "link": "https://eco.sapo.pt/2026/08/18/seguro-promulga-lei-das-burcas/",
+      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
+      "description": "Para o Presidente da República, esta é uma \"matéria de grande sensibilidade social e cultural, onde é de extrema dificuldade definir fronteiras e valorizar de forma equilibrada direitos e deveres\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AanFs4WOyDhGFMk9jffnfLuA0P19MKLTN9HqCHxuUaJX%2B6SoreyHx0QFKIqDvs7fdwxcKE8TyokPaiM001xq9NvDUguWD0bmybvEyZZ5fKdqqXICpmMC1cT26ZQIPhmFS"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ténis: Francisco Cabral eliminado de pares em Cincinnati",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-francisco-cabral-eliminado-de-pares-em-cincinnati",
-      "pubDate": "Tue, 18 Aug 2026 18:36:51 +0100",
-      "description": "Português fez dupla com o norte-americano James Tracy",
-      "thumbnail": "https://img.iol.pt/image/id/6867d536d34e3f0baea020d8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ténis: Nuno Borges bate Rublev e faz história em Cincinnati",
-      "link": "https://maisfutebol.iol.pt/tenis/modalidades/tenis-nuno-borges-bate-rublev-e-faz-historia-em-cincinnati",
-      "pubDate": "Tue, 18 Aug 2026 18:22:32 +0100",
-      "description": "Tenista tornou-se no primeiro português a chegar aos oitavos de final do torneio",
-      "thumbnail": "https://img.iol.pt/image/id/6a84943bd34ed0733ba806c8/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Incêndios: Mais de 1.100 operacionais nos três maiores fogos ativos",
+      "link": "https://executivedigest.sapo.pt/incendios-mais-de-1-100-operacionais-nos-tres-maiores-fogos-ativos/",
+      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
+      "description": "Mais de 1.100 operacionais combatiam hoje pelas 18:00 os três maiores incêndios ativos em Portugal, em Torre de Moncorvo, Santo Tirso e Arouca, apoiados por 345 viaturas e 10 meios aéreos, de acordo com a Proteção Civil.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AWyVPdS21aTfUAP3uTm2N0a6n1RgQ7i96jvKpD9Lp0ch%2BGwOxj%2Fv1poSojettwywhuuwhipY021swrZHN%2B3w44pW0QbjwEvmiWZ1Z%2FeWzZJ2oT0Z7izZ7iaoCBXa3WYTW"
     },
     {
       "sourceId": "sapo",
@@ -165,31 +185,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Seguro promulga ‘lei das burcas’",
-      "link": "https://eco.sapo.pt/2026/08/18/seguro-promulga-lei-das-burcas/",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "Para o Presidente da República, esta é uma \"matéria de grande sensibilidade social e cultural, onde é de extrema dificuldade definir fronteiras e valorizar de forma equilibrada direitos e deveres\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AanFs4WOyDhGFMk9jffnfLuA0P19MKLTN9HqCHxuUaJX%2B6SoreyHx0QFKIqDvs7fdwxcKE8TyokPaiM001xq9NvDUguWD0bmybvEyZZ5fKdqqXICpmMC1cT26ZQIPhmFS"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "É falso que a Guardia Civil tenha confirmado 15 violações de raparigas e mulheres de Ceuta",
       "link": "https://executivedigest.sapo.pt/lusa-verifica-e-falso-que-a-guardia-civil-tenha-confirmado-15-violacoes-de-raparigas-e-mulheres-de-ceuta/",
       "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
       "description": "Há relatos de violência sexual no enclave espanhol de Ceuta, mas é falso que a Guardia Civil tenha confirmado 15 violações de raparigas e mulheres espanholas, como está a ser divulgado nas redes sociais com base em notícias pouco rigorosas.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AqP9AVaoVdIPJ0iF4C9BhCobdhWhGmhP1E%2B9gor9ftGnGqlUq9i5YkmmHT4gX%2Btn5aF1wevdQlmSetRjUxHg%2FxJQSVpTZEtguuXeprPhCXKiUuMQv3Mw6iPHc%2FkEbdSep"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Supremo Tribunal da Áustria obriga Booking.com a revelar identidade dos proprietários",
-      "link": "https://sapo.pt/artigo/supremo-tribunal-da-austria-obriga-booking-com-a-revelar-identidade-dos-proprietarios-6a84983084f850b171d54f4f",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "O tribunal determinou que a plataforma deve fornecer os dados dos anfitriões imediatamente após a conclusão da reserva, quando até agora esses dados só eram disponibilizados caso o cliente os solicitasse expressamente.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ALI27YQTt7IgwS9yNsjVzvpC4lmITH9e7MeiX0b3Z%2FKz14NK0PO36q2hihk94mgFYw%2BjKJq9nlEIo2FkyhMmnPCW1NT7UIYSyCLhT92pVBOJIfZCaoMxSnUdddyysjW4%2F"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Temporada final de \"Outer Banks\" estreia esta semana. Recorde a história",
+      "link": "https://www.noticiasaominuto.com/tech/3038090/temporada-final-de-outer-banks-estreia-esta-semana-recorde-a-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 20:30:37",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8453198f677.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTAxLCJjcm9wSGVpZ2h0IjoxMDY5LCJjcm9wWCI6MTEsImNyb3BZIjo2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDEsImNyb3BIZWlnaHQiOjEwNjgsImNyb3BYIjoxMjM3LCJjcm9wWSI6N319"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Quatro meios aéreos e 120 operacionais combatem fogo em Arcos de Valdevez",
+      "link": "https://www.noticiasaominuto.com/pais/3038314/quatro-meios-aereos-e-120-operacionais-combatem-fogo-em-arcos-de-valdevez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 20:29:51",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5d3885cb37be8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjUxLCJjcm9wWSI6NDY2fX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Vai ficar excêntrico? Confira a chave do Euromilhões desta terça-feira",
+      "link": "https://www.noticiasaominuto.com/pais/3038311/vai-ficar-excentrico-confira-a-chave-do-euromilhoes-desta-terca-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 20:28:19",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5564e9f137ae7.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "IGAS aponta falhas no planeamento da urgência obstétrica em Almada",
+      "link": "https://www.noticiasaominuto.com/pais/3038315/igas-aponta-falhas-no-planeamento-da-urgencia-obstetrica-em-almada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 20:28:01",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6908b92b14847.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Guardia Civil confirmou 15 violações de residentes em Ceuta? É falso",
       "link": "https://www.noticiasaominuto.com/mundo/3038255/guardia-civil-confirmou-15-violacoes-de-residentes-em-ceuta-e-falso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-18 20:21:44",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8073a4e4c88.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Shakira visita região abalada pelo sismo da Colômbia e promete doações",
-      "link": "https://www.noticiasaominuto.com/fama/3038308/shakira-visita-regiao-abalada-pelo-sismo-da-colombia-e-promete-doacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:14:42",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84a9bcc23b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MCwiY3JvcFkiOjExfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo2MTEsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Facas e garrafas: Seguranças alertam para violência na noite do Porto",
-      "link": "https://www.noticiasaominuto.com/pais/3038275/facas-e-garrafas-segurancas-alertam-para-violencia-na-noite-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:11:08",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6928358143612.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MjAsImNyb3BZIjoxNTI1fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "PSP identifica mais de 70 pessoas e apreende arma e droga em Sintra",
-      "link": "https://www.noticiasaominuto.com/pais/3038309/psp-identifica-mais-de-70-pessoas-e-apreende-arma-e-droga-em-sintra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:08:22",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84ac70a9af6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQwLCJjcm9wSGVpZ2h0IjoxMTQ4LCJjcm9wWCI6MCwiY3JvcFkiOjMxNn19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Xiaomi SU7. Berlina elétrica chinesa já vendeu meio milhão de exemplares",
-      "link": "https://www.noticiasaominuto.com/auto/3038112/xiaomi-su7-berlina-eletrica-chinesa-ja-vendeu-meio-milhao-de-exemplares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:06:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8459bb752ea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mzk0LCJjcm9wWSI6NDU2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjcsImNyb3BIZWlnaHQiOjE2NDcsImNyb3BYIjo3MjUsImNyb3BZIjo4fX0="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "WARDOGS, uma guerra onde cada decisão pode custar caro",
+      "link": "https://pplware.sapo.pt/jogos/wardogs-uma-guerra-onde-cada-decisao-pode-custar-caro/",
+      "pubDate": "Tue, 18 Aug 2026 19:30:53 +0000",
+      "description": "WARDOGS prepara-se para levar ao PC, em Acesso Antecipado (no Steam) uma nova abordagem aos FPS táticos de grande escala. A guerra está a chegar&#8230; venham conhecê-la. Os shooters multijogador já nos habituaram a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/WarDogs_4.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Tue, 18 Aug 2026 16:00:50 +0000",
       "description": "A OpenAI começou hoje a distribuir globalmente o ChatGPT for Teens, uma versão da sua Inteligência Artificial (IA) pensada especificamente para adolescentes, com menos &#8220;personalidade humana&#8221; e mais ferramentas de controlo parental. Numa altura&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/03/adolescente-redes-sociais.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Um AirTag escondido num livro revelou um segredo da Amazon",
-      "link": "https://pplware.sapo.pt/internet/um-airtag-escondido-num-livro-revelou-um-segredo-da-amazon/",
-      "pubDate": "Tue, 18 Aug 2026 15:00:19 +0000",
-      "description": "Um jornalista escondeu um AirTag da Apple dentro de um livro raro para descobrir o destino das encomendas em massa de livros usados feitas pela Amazon. Avançada pela 404 Media, uma investigação recente tem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/04/airtage2_firmware00.webp"
     },
     {
       "sourceId": "autosport",
