@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-18T22:18:16.347467+00:00",
+  "updated": "2026-08-18T22:48:53.276888+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Lucélia Santos estreia-se em Portugal em setembro",
+      "link": "https://observador.pt/2026/08/18/lucelia-santos-estreia-se-em-portugal-em-setembro-com-peca-sobre-ativista-chico-mendes/",
+      "pubDate": "Tue, 18 Aug 2026 23:47:51 +0100",
+      "description": "Lucélia Santos, conhecida como a protagonista da telenovela A Escrava Isaura, estreia-se nos palcos portugueses com peça sobre Chico Mendes, um ativista que defendeu a Amazónia e a natureza.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/24195504/jporfirio-visita-obras-d-maria-ii-24-06-01-14-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ilusionista espanhol Juan Tamariz morre aos 83 anos",
+      "link": "https://observador.pt/2026/08/18/morreu-juan-tamariz-o-ilusionista-que-fez-de-espanha-a-capital-mundial-da-magia-magico-tinha-83-anos/",
+      "pubDate": "Tue, 18 Aug 2026 23:46:49 +0100",
+      "description": "David Blaine chamou-lhe \"o maior e mais influente mágico de cartas vivo\". O ilusionista espanhol morreu esta madrugada num hospital de Madrid, \"sorrindo e em paz\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:901:nowe:0:35/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18231720/whatsapp-image-2026-08-18-at-231653.jpeg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3041:1715:nowe:690:364/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18230836/gettyimages-2179691732-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Luce ia ser licitado por 1 milhão, mas foi arrematado por 35",
-      "link": "https://observador.pt/2026/08/18/ferrari-luce-deveria-ser-licitado-por-1-milhao-mas-foi-arrematado-por-35-milhoes-de-euros/",
-      "pubDate": "Tue, 18 Aug 2026 23:00:52 +0100",
-      "description": "O primeiro Ferrari Luce produzido foi a leilão, com a Sotheby's a antecipar uma licitação equivalente a 1 milhão de euros. Mas o Luce acabou por ser arrematado por quase 35 milhões.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:463/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18223401/ferrari-luce-40-million-at-monterey.webp"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndios em Portugal. A situação ao minuto",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
+      "pubDate": "Wed, 19 Aug 2026 00:24:42 +0100",
+      "description": "Ao final da tarde de terça-feira, as autoridades descartavam a necessidade de evacuar localidades em Arouca apesar das quatro frentes ativas do fogo. Atualizamos aqui, ao minuto, o evoluir da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a85c7d09931ace4512a9ff42e7d9fb?w=350&amp;q=50&amp;rect=0,0,8064,4421&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ben Gvir constrói centro de execução para palestinianos",
-      "link": "https://observador.pt/2026/08/18/ben-gvir-anuncia-construcao-de-camara-de-execucao-para-palestinianos-condenados-a-morte-em-israel/",
-      "pubDate": "Tue, 18 Aug 2026 22:53:25 +0100",
-      "description": "Ministro da Segurança Nacional anunciou o início da construção de um centro de execução para palestinianos condenados à morte — lei aprovada em março no parlamento israelita.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18214901/47331763.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Mykhailo Fedorov lança apelo para eleições na Ucrânia",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-mykhailo-fedorov-lanca-apelo-para-eleicoes-na-ucrania_a1_1760237",
+      "pubDate": "Wed, 19 Aug 2026 00:23:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Neemias Queta promete \"focar\" atenção nos jogos da seleção e iniciar \"boa época\"",
+      "link": "https://www.rtp.pt/noticias/basquetebol/neemias-queta-promete-focar-atencao-nos-jogos-da-selecao-e-iniciar-boa-epoca_d1760233",
+      "pubDate": "Wed, 19 Aug 2026 00:21:35 +0100",
+      "description": "O poste Neemias Queta prometeu hoje &quot;focar&quot; a atenção na seleção portuguesa de basquetebol, mais precisamente nos dois primeiros jogos da segunda fase de qualificação para o Mundial de 2027, e iniciar &quot;uma boa época&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Português de 20 anos assassinado na Albânia e 11 pessoas detidas",
+      "link": "https://www.rtp.pt/noticias/mundo/portugues-de-20-anos-assassinado-na-albania-e-11-pessoas-detidas_n1760230",
+      "pubDate": "Wed, 19 Aug 2026 00:20:15 +0100",
+      "description": "Um português de 20 anos morreu na madrugada de hoje em Ksamil, no sul da Albânia, tendo 11 pessoas sido detidas por ligação ao crime, segundo vários meios de comunicação social albaneses.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Tue, 18 Aug 2026 23:47:21 +0100",
       "description": "Em entrevista à RTP, o coordenador do relatório sobre a Segurança Social divulgado esta terça-feira explica como se chegou aos valores de défice que constam no documento.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/73/73aae919880d7ebc5cbb71bee48f090b?w=350&amp;q=50&amp;rect=0,20,1000,548&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Al Nassr nos `oitavos` da Taça saudita com bis e assistência de João Félix",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/al-nassr-nos-oitavos-da-taca-saudita-com-bis-e-assistencia-de-joao-felix_d1760225",
-      "pubDate": "Tue, 18 Aug 2026 23:41:22 +0100",
-      "description": "O Al Nassr confirmou a passagem aos oitavos-de-final da Taça do Rei saudita, ao vencer fora de portas o Al Diriyah por 4-1, treinado pelo português Bruno Lage, com dois golos e uma assistência de João Félix.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/50/5000715917c6444c684e99601b4eb798?w=350&amp;q=50&amp;rect=0,5,1959,1074&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "TPI diz que sanções dos EUA contra seus responsáveis \"minam o Estado de Direito\"",
-      "link": "https://www.rtp.pt/noticias/mundo/tpi-diz-que-sancoes-dos-eua-contra-seus-responsaveis-minam-o-estado-de-direito_n1760226",
-      "pubDate": "Tue, 18 Aug 2026 23:37:01 +0100",
-      "description": "O Tribunal Penal Internacional (TPI) afirmou hoje que as sanções norte-americanas contra altos responsáveis da instância judicial &quot;minam o estado de direito&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/65/65dbd8b5db2bd2432afae2fccbd85dc8?w=350&amp;q=50&amp;rect=0,92,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ex-ministro da Defesa ucraniano Mikhail Fedorov pede condições para convocar eleições",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ex-ministro-da-defesa-ucraniano-mikhail-fedorov-pede-condicoes-para-convocar-eleicoes_n1760219",
-      "pubDate": "Tue, 18 Aug 2026 23:22:16 +0100",
-      "description": "O ex-ministro da Defesa ucraniano Mikhail Fedorov, demitido em julho, apelou hoje para a criação de condições para a realização de eleições, apesar da invasão russa, como forma de &quot;restaurar um processo democrático pleno&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Morreu a atriz brasileira Gloria Menezes",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-morreu-a-atriz-brasileira-gloria-menezes_a1_1760223",
-      "pubDate": "Tue, 18 Aug 2026 23:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -165,26 +165,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios: Quatro meios aéreos e 120 operacionais combatem fogo em Arcos de Valdevez",
-      "link": "https://executivedigest.sapo.pt/incendios-quatro-meios-aereos-e-120-operacionais-combatem-fogo-em-arcos-de-valdevez/",
-      "pubDate": "Tue, 18 Aug 2026 19:54:25 +0000",
-      "description": "O incêndio que deflagrou hoje às 15:40 na freguesia de Rio Frio, concelho de Arcos de Valdevez, mobilizava, às 19:55, três meios aéreos, 120 operacionais e 37 viaturas, disse o presidente da Câmara.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Auzyn%2Bt90dyDInuxB4i6IIaGk5RrE3j6gOexsOcx%2FaptiF9QwQnDu4MLgV49kDTd2%2BRT3imYGCy1gAeCNgSX4CrLscs6Og0Ia1XzqW0PNwEWgoST6qXXtWu6j60%2BqPtGH"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Emirados Árabes Unidos detetam dois mísseis lançados a partir do Irão",
-      "link": "https://sapo.pt/artigo/emirados-arabes-unidos-detetam-dois-misseis-lancados-a-partir-do-irao-6a84a90603b4ab80f0e3c8a5",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "O Ministério da Defesa dos Emirados Árabes Unidos confirmou que o Irão disparou dois mísseis balísticos contra o país. Um caiu fora das águas territoriais e outro dentro, sem causar danos ou vítimas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ao09aw%2FX7sIytpYbSRFgzNI8dyfIzI5eR4XWbtS7FQL7IB%2BH43WiUjBq4sKu09blqgpyU9h4E5ccc1lSlXIjKwCgCMubiONBslBS5yEOe3mxLSEolmC8GvGkNJl7dkMf2"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Da falta de “surpresa” ao “truque contabilístico”: Partidos reagem ao estudo sobre Segurança Social",
       "link": "https://eco.sapo.pt/2026/08/18/da-falta-de-surpresa-ao-truque-contabilistico-partidos-reagem-ao-estudo-sobre-seguranca-social/",
       "pubDate": "Tue, 18 Aug 2026 19:54:25 +0000",
@@ -195,11 +175,41 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Morreu a atriz brasileira Glória Menezes",
-      "link": "https://sapo.pt/artigo/morreu-a-atriz-brasileira-gloria-menezes-6a84c00c03ed206251305733",
-      "pubDate": "Tue, 18 Aug 2026 20:55:45 +0000",
-      "description": "A atriz brasileira tinha 91 anos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A8E5F1kD5f7DKQzhEWtybdItOqFEWdcpihveeE5TWi3JTp7unDrIAxeLHptEwGOUBIODrZr6haC3mcfeQZ1MYl8JWqcl2prZTAPmDWqvEuUcxbjaFggcLsjsyitiY%2Beho"
+      "title": "Trump nega diálogo com o Irão apesar da ameaça sobre o “novo território dos EUA”: Ormuz",
+      "link": "https://sapo.pt/artigo/trump-nega-dialogo-com-o-irao-apesar-da-ameaca-sobre-o-novo-territorio-dos-eua-ormuz-6a84d4b8652124dd4273d9d7",
+      "pubDate": "Tue, 18 Aug 2026 22:00:27 +0000",
+      "description": "Teerão apelida de “delírio” mensagem do presidente norte-americano a reivindicar o estreito. Emirados Árabes Unidos acusam iranianos de lançar dois mísseis.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AD%2BMBd1paC9jmKEuvZqWp3qY5dH5L3hWpho8UAEvKuhRaNTITRORXbKXR251IGn8hlUF8JBYeIzh8l%2BH4uZRlzyhhv%2BBvI9rbpoG%2Fb%2BeZhEuTLB0%2FJMMAdiI%2BW%2FS%2Bc%2Fsi"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Equatoriana Ivonne A-Baki entra na corrida para suceder a Guterres à frente da ONU",
+      "link": "https://sapo.pt/artigo/equatoriana-ivonne-a-baki-entra-na-corrida-para-suceder-a-guterres-a-frente-da-onu-6a84bf4c03b4ab80f0e61089",
+      "pubDate": "Tue, 18 Aug 2026 22:00:27 +0000",
+      "description": "Diplomata diz estar preparada para \"contribuir para a renovação da promessa fundamental da Carta da ONU: salvar as gerações futuras do flagelo da guerra\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=376&W=669&crop=center&delay_optim=1&epic=V2%3AFIQmuckRnCQdshs6U4X789fERBePiyxM5UopF2bD1UzwaKCQGW9PxLv6NRRG%2BktkLgtcSyCNth4yEO2j7Du6VwIHBwP4vktDs%2F9sfVaQGsWrOf0EYQgxgGcCfwJRiZ3%2B"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Incêndios: Arcos de Valdevez, Arouca, e Santo Tirso ainda com frentes ativas",
+      "link": "https://sapo.pt/artigo/incendios-arcos-de-valdevez-arouca-e-santo-tirso-ainda-com-frentes-ativas-6a84da0084f850b171dccc34",
+      "pubDate": "Tue, 18 Aug 2026 22:20:18 +0000",
+      "description": "Intensidade das chamas exigiu o reposicionamento dos meios. Situação menos preocupante em Ponte de Lima, onde alguns fogos já entraram em fase de rescaldo",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AK8JUTFqKUnrLKUM7yK6ab8C1IFirvHvod5kvvD%2FZQVzWnWCOclFNzMGwu%2F5e%2FYE5SZk3K0hUoL42tRkX%2BYQi7%2FshXF7hz8QF6D41pwRAodmo%2FttQZBqdgU6oAmWWVf1U"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Quase 500 combatem chamas em Bragança com frente de difícil acesso",
+      "link": "https://www.noticiasaominuto.com/pais/3038353/quase-500-combatem-chamas-em-braganca-com-frente-de-dificil-acesso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 23:33:55",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689d181f82952.webp"
     },
     {
       "sourceId": "nam",
@@ -240,16 +250,6 @@
       "pubDate": "2026-08-18 22:57:45",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_624ef7edcb8fe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjMxLCJjcm9wSGVpZ2h0IjoxMjU1LCJjcm9wWCI6LTEsImNyb3BZIjozMzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE4MzksImNyb3BIZWlnaHQiOjMyNjksImNyb3BYIjozMDUsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "TPI: Sanções dos EUA contra seus responsáveis \"minam o Estado de Direito\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3038341/tpi-sancoes-dos-eua-contra-seus-responsaveis-minam-o-estado-de-direito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 22:44:28",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67a63cb7da2ca.webp"
     },
     {
       "sourceId": "pplware",
