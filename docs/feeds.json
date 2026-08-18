@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-18T00:59:18.078829+00:00",
+  "updated": "2026-08-18T02:17:39.917999+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2409/",
+      "pubDate": "Tue, 18 Aug 2026 03:16:54 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Incêndio de Valongo já entrou em fase de resolução",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2383/",
+      "pubDate": "Tue, 18 Aug 2026 02:13:57 +0100",
+      "description": "Por esta hora o fogo é combatido por 120 operacionais, apoiados por 40 meios terrestres. Ainda, no Médio Oriente vivem-se momentos de tensão entre os aliados árabes dos EUA e Donald Trump,",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Estamos a censurar o sucesso de Montenegro?",
-      "link": "https://observador.pt/opiniao/estamos-a-censurar-o-sucesso-de-montenegro/",
-      "pubDate": "Tue, 18 Aug 2026 00:25:11 +0100",
-      "description": "O primeiro-ministro mostrou-se desapontado com o retrato que se dá do país e escolheu os grandes números da economia para mostrar que tudo vai bem. Esqueceu-se do resto.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Crónica estival ou uma definição política",
-      "link": "https://observador.pt/opiniao/cronica-estival-ou-uma-definicao-politica/",
-      "pubDate": "Tue, 18 Aug 2026 00:24:51 +0100",
-      "description": "Chegados a meio de Agosto, sentei-me ao computador e achei que, ao fim de cinco anos de crónicas, devia ao leitor uma apresentação e um enquadramento político. Para a semana volto à maçadoria habitual",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Cerca de 500 bombeiros nos fogos de Moncorvo e Vila Flor",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-cerca-de-500-bombeiros-nos-fogos-de-moncorvo-e-vila-flor_a1_1760047",
+      "pubDate": "Tue, 18 Aug 2026 03:43:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -66,7 +76,7 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Macron promulga lei que permite investimento de 36.000 ME em defesa",
-      "link": "https://www.rtp.pt/noticias/economia/macron-promulga-lei-que-permite-investimento-de-36000-me-em-defesa_n1760031",
+      "link": "https://www.rtp.pt/noticias/mundo/macron-promulga-lei-que-permite-investimento-de-36000-me-em-defesa_n1760031",
       "pubDate": "Tue, 18 Aug 2026 01:38:22 +0100",
       "description": "O Presidente francês, Emmanuel Macron, promulgou a lei de programação militar aprovada pelo parlamento, que permitirá um investimento de 36.000 milhões de euros nas Forças Armadas do país até 2030.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/633cdf42299dceee8565dc78ea55f5b8?w=350&amp;q=50&amp;rect=0,72,1500,822&amp;auto=format"
@@ -90,16 +100,6 @@
       "pubDate": "Tue, 18 Aug 2026 01:34:13 +0100",
       "description": "O julgamento no tribunal do Estado de Nova Iorque do jovem norte-americano Luigi Mangione, homicida confesso de um executivo de seguros de saúde, foi adiado na segunda-feira.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/60/60c1cca10373e67ac285a2e68fea6f3e?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Número de vítimas mortais nos terramotos na Venezuela elevado para 6.438",
-      "link": "https://www.rtp.pt/noticias/lusa/numero-de-vitimas-mortais-nos-terramotos-na-venezuela-elevado-para-6438_n1760033",
-      "pubDate": "Tue, 18 Aug 2026 01:28:52 +0100",
-      "description": "O balanço de mortes causadas pelo terramoto duplo de 24 de junho, no norte da Venezuela, foi elevado para 6.438, depois de as autoridades terem registado mais 137 vítimas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e783bdf44942a628934ab02a7f1a19c?w=350&amp;q=50&amp;rect=0,88,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
