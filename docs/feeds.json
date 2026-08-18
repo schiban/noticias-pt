@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-18T19:47:53.382169+00:00",
+  "updated": "2026-08-18T20:18:18.489000+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1732/",
+      "pubDate": "Tue, 18 Aug 2026 21:13:55 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "BE pede audição de ministra sobre suspensão da IVG no HGO",
+      "link": "https://observador.pt/2026/08/18/be-pede-audicao-de-ministra-da-saude-sobre-suspensao-da-ivg-no-garcia-de-orta/",
+      "pubDate": "Tue, 18 Aug 2026 21:07:49 +0100",
+      "description": "O Bloco pediu audição urgente de Ana Paula Martins em setembro. Hospital Garcia de Orta suspendeu IVG e encaminha mulheres para privado, sem prazo claro para retomar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/31160802/20241031filipeamorim3734.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Peritos propõem mesada pública e poupar através do consumo",
+      "link": "https://observador.pt/especiais/chegar-a-reforma-com-dinheiro-alem-da-pensao-estudo-propoe-mesada-publica-para-criancas-e-conta-que-torna-consumo-em-poupanca/",
+      "pubDate": "Tue, 18 Aug 2026 21:06:18 +0100",
+      "description": "Estudo pedido pelo governo promete polémica até porque diagnóstico vai contra o que tem sido afirmado. Sistema de pensões é deficitário e deve haver medidas para se garantir a equidade entre gerações.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/19192159/7o0b6473.jpeg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sindicato denuncia noite mais violenta no Porto",
+      "link": "https://observador.pt/2026/08/18/sindicato-denuncia-noite-mais-violenta-no-porto-e-mais-ataques-a-segurancas-privados/",
+      "pubDate": "Tue, 18 Aug 2026 20:57:33 +0100",
+      "description": "O presidente do Sindicato Unificado da Segurança Privada avisa que os seguranças privados estão \"completamente vulneráveis\", alertando para o aumento do número de crimes e para a sua gravidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/06094946/dventura-eleicoes-eua-noite-eleitoral-7-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,94 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1964:nowe:0:343/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18201544/gettyimages-2290385726.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "INEM e sindicato reúnem-se para clarificar questões de greve",
-      "link": "https://observador.pt/2026/08/18/inem-e-sindicato-reunem-se-dia-26-para-clarificar-questoes-na-base-da-greve/",
-      "pubDate": "Tue, 18 Aug 2026 20:14:39 +0100",
-      "description": "O INEM reúne-se na próxima semana com o sindicato dos técnicos de emergência e o Ministério da Saúde para esclarecer as razões das greves marcadas para setembro e a alegada redução de ambulâncias.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/21121111/46348860.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 20h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2030/",
-      "pubDate": "Tue, 18 Aug 2026 20:14:04 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fenprof exige fim da precariedade no ensino artístico",
-      "link": "https://observador.pt/2026/08/18/fenprof-exige-concurso-de-vinculacao-para-professores-precarios-do-ensino-artistico-previsto-desde-2023-mas-ainda-por-realizar/",
-      "pubDate": "Tue, 18 Aug 2026 20:03:41 +0100",
-      "description": "Fenprof alerta para docentes das componentes técnico-artísticas que são chamados todos os anos para voltar às escolas, mas sem contrato vinculativo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18184803/19733285.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Oliveira do Hospital. Retirados 241 ninhos de vespa asiática",
-      "link": "https://observador.pt/2026/08/18/eliminados-241-ninhos-de-vespa-asiatica-em-oliveira-do-hospital-desde-inicio-do-ano/",
-      "pubDate": "Tue, 18 Aug 2026 20:02:32 +0100",
-      "description": "A vespa velutina (asiática) é uma espécie invasora que prejudica a apicultura, o ambiente e a biodiversidade. Desde janeiro foram retirados 241 ninhos, mais 31 do que no período homólogo em 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:154/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18171341/26889580.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "\"O Lobo no Inverno\" conta vida e carreira de Novak Djokovic",
+      "link": "https://www.rtp.pt/noticias/cultura/o-lobo-no-inverno-conta-vida-e-carreira-de-novak-djokovic_v1760212",
+      "pubDate": "Tue, 18 Aug 2026 22:08:47 +0100",
+      "description": "Novak Djokovic vai ser protagonista de um documentário sobre a sua vida e carreira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e5/e5d450e6c9dd99faec50f3f5a70e4893_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incêndios em Portugal. A situação ao minuto",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
-      "pubDate": "Tue, 18 Aug 2026 21:39:48 +0100",
-      "description": "Ao final da tarde de terça-feira, as autoridades descartavam a necessidade de evacuar localidades em Arouca apesar das quatro frentes ativas do fogo. Atualizamos aqui, ao minuto, o evoluir da situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a85c7d09931ace4512a9ff42e7d9fb?w=350&amp;q=50&amp;rect=0,0,8064,4421&amp;auto=format"
+      "title": "Turfa e rede eletrica contribuem para incêndios na Bélgica e Grécia",
+      "link": "https://www.rtp.pt/noticias/mundo/turfa-e-rede-eletrica-contribuem-para-incendios-na-belgica-e-grecia_v1760211",
+      "pubDate": "Tue, 18 Aug 2026 22:03:47 +0100",
+      "description": "A Bélgica ainda não conseguiu controlar o maior incêndio de que há memória no país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/02/022ae1c20224b989a6ec1a30bdf5b987_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Incendiários em Portugal. Perfil ficou mais velho e com mais mulheres",
-      "link": "https://www.rtp.pt/noticias/pais/incendiarios-em-portugal-perfil-ficou-mais-velho-e-com-mais-mulheres_v1760204",
-      "pubDate": "Tue, 18 Aug 2026 21:37:47 +0100",
-      "description": "Este ano foram abertos menos inquéritos a incêndios provocados intencionalmente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/cd/cdcfe8fad262eb002c6c7fcc19b6c370_N.jpg?"
+      "title": "Moscovo ameaça Londres após alegados ataques ucranianos com drones britânicos",
+      "link": "https://www.rtp.pt/noticias/mundo/moscovo-ameaca-londres-apos-alegados-ataques-ucranianos-com-drones-britanicos_v1760210",
+      "pubDate": "Tue, 18 Aug 2026 22:02:47 +0100",
+      "description": "A Rússia acusou Londres de fornecer à Ucrânia drones usados nos ataque contra território russo e avisou que haverá consequências.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/46/467bb752134d7a70cbbd1e9cef6382a9_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Santo Tirso. Fogo ameaçou várias casas em São Tomé de Negrelos",
-      "link": "https://www.rtp.pt/noticias/pais/santo-tirso-fogo-ameacou-varias-casas-em-sao-tome-de-negrelos_v1760203",
-      "pubDate": "Tue, 18 Aug 2026 21:36:47 +0100",
-      "description": "O incêndio de Santo Tirso agravou-se ao longo do dia de terça-feira. As chamas aproximaram-se de casas e obrigaram a várias evacuações de precaução.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/31/31a5e80002ae94e17dce11408c140295_N.jpg?"
+      "title": "Donald Trump declara que não há negocições com o Irão",
+      "link": "https://www.rtp.pt/noticias/mundo/donald-trump-declara-que-nao-ha-negocicoes-com-o-irao_v1760209",
+      "pubDate": "Tue, 18 Aug 2026 22:00:47 +0100",
+      "description": "O Irão avisou que o Estreito de Ormuz vai continuar encerrado até os Estados Unidos cumprirem os compromissos assumidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0a/0ad8ffb3aedb5d912e04db3c2922547c_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Torre de Moncorvo. Uma das três frentes ativas inspira preocupação",
-      "link": "https://www.rtp.pt/noticias/pais/torre-de-moncorvo-uma-das-tres-frentes-ativas-inspira-preocupacao_v1760202",
-      "pubDate": "Tue, 18 Aug 2026 21:33:48 +0100",
-      "description": "O incêndio em Torre de Moncorvo soma três frentes ativas. A que inspira maior preocupação situa-se em Vilarinho da Castanheira, no concelho de Carrazeda de Ansiães.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0c/0c2b5799b1217d6d5732d8e0da90b33d_N.jpg?"
+      "title": "Morte de mãe em Algés. Família materna e paterna querem guardas",
+      "link": "https://www.rtp.pt/noticias/pais/morte-de-mae-em-alges-familia-materna-e-paterna-querem-guardas_v1760208",
+      "pubDate": "Tue, 18 Aug 2026 21:59:47 +0100",
+      "description": "Chegaram a Portugal familiares da mulher morta pelo filho em Algés. Tanto a família materna como a paterna querem ficar com a guarda do rapaz e da menina de 4 anos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/84/84d2a1e26426c5073df8794f608940c4_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sete aldeias ameaçadas pelo fogo em Arouca",
-      "link": "https://www.rtp.pt/noticias/pais/sete-aldeias-ameacadas-pelo-fogo-em-arouca_v1760201",
-      "pubDate": "Tue, 18 Aug 2026 21:31:47 +0100",
-      "description": "As autoridades descartam a evacuação de qualquer localidade para já, apesar de o incêndio avançar em quatro frentes ativas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/df/df4b82d236c191c022b877d12629135e_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Félix «bisa» frente a Lage e Al Nassr segue em frente na Taça",
+      "link": "https://maisfutebol.iol.pt/arabia-saudita/taca-do-rei-saudita/video-felix-bisa-frente-a-lage-e-al-nassr-segue-em-frente-na-taca",
+      "pubDate": "Tue, 18 Aug 2026 20:57:00 +0100",
+      "description": "Internacional português ainda assistiu na vitória por 4-1 sobre o Al Diriyah",
+      "thumbnail": "https://img.iol.pt/image/id/6a84b372d34ed0733ba80726/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a84a2dcd34ed0733ba806f1/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
-      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
-      "pubDate": "Tue, 18 Aug 2026 18:55:00 +0100",
-      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a7c2b57d34ed0733ba7f5eb/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,11 +165,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios: Mais de 1.100 operacionais nos três maiores fogos ativos",
-      "link": "https://executivedigest.sapo.pt/incendios-mais-de-1-100-operacionais-nos-tres-maiores-fogos-ativos/",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "Mais de 1.100 operacionais combatiam hoje pelas 18:00 os três maiores incêndios ativos em Portugal, em Torre de Moncorvo, Santo Tirso e Arouca, apoiados por 345 viaturas e 10 meios aéreos, de acordo com a Proteção Civil.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AWyVPdS21aTfUAP3uTm2N0a6n1RgQ7i96jvKpD9Lp0ch%2BGwOxj%2Fv1poSojettwywhuuwhipY021swrZHN%2B3w44pW0QbjwEvmiWZ1Z%2FeWzZJ2oT0Z7izZ7iaoCBXa3WYTW"
+      "title": "Incêndios: Quatro meios aéreos e 120 operacionais combatem fogo em Arcos de Valdevez",
+      "link": "https://executivedigest.sapo.pt/incendios-quatro-meios-aereos-e-120-operacionais-combatem-fogo-em-arcos-de-valdevez/",
+      "pubDate": "Tue, 18 Aug 2026 19:54:25 +0000",
+      "description": "O incêndio que deflagrou hoje às 15:40 na freguesia de Rio Frio, concelho de Arcos de Valdevez, mobilizava, às 19:55, três meios aéreos, 120 operacionais e 37 viaturas, disse o presidente da Câmara.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Auzyn%2Bt90dyDInuxB4i6IIaGk5RrE3j6gOexsOcx%2FaptiF9QwQnDu4MLgV49kDTd2%2BRT3imYGCy1gAeCNgSX4CrLscs6Og0Ia1XzqW0PNwEWgoST6qXXtWu6j60%2BqPtGH"
     },
     {
       "sourceId": "sapo",
@@ -185,11 +185,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "É falso que a Guardia Civil tenha confirmado 15 violações de raparigas e mulheres de Ceuta",
-      "link": "https://executivedigest.sapo.pt/lusa-verifica-e-falso-que-a-guardia-civil-tenha-confirmado-15-violacoes-de-raparigas-e-mulheres-de-ceuta/",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "Há relatos de violência sexual no enclave espanhol de Ceuta, mas é falso que a Guardia Civil tenha confirmado 15 violações de raparigas e mulheres espanholas, como está a ser divulgado nas redes sociais com base em notícias pouco rigorosas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AqP9AVaoVdIPJ0iF4C9BhCobdhWhGmhP1E%2B9gor9ftGnGqlUq9i5YkmmHT4gX%2Btn5aF1wevdQlmSetRjUxHg%2FxJQSVpTZEtguuXeprPhCXKiUuMQv3Mw6iPHc%2FkEbdSep"
+      "title": "Da falta de “surpresa” ao “truque contabilístico”: Partidos reagem ao estudo sobre Segurança Social",
+      "link": "https://eco.sapo.pt/2026/08/18/da-falta-de-surpresa-ao-truque-contabilistico-partidos-reagem-ao-estudo-sobre-seguranca-social/",
+      "pubDate": "Tue, 18 Aug 2026 19:54:25 +0000",
+      "description": "Conclusões do grupo de trabalho para reforma da Segurança Social foram divulgadas esta terça-feira. Iniciativa Liberal dá nota positiva à \"direção\" de algumas propostas, BE e PCP criticam.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AzglA64JmHha1vkvos6QhXQAqlksnq%2FryE%2BgLAYtr06BS9RoCzKlBbwcc%2Bd%2BmnlRGT3H2MEEXNB%2B30nBxwLoUUbJLGKq5IdPk2j67wBPrV0UdRX%2BotT1xgKoDeCYgyyt9"
     },
     {
       "sourceId": "sapo",
@@ -200,6 +200,36 @@
       "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
       "description": "Um acidente entre dois veículos pesados de mercadorias está a provocar fortes constrangimentos no trânsito na A8, no sentido Sul-Norte, depois da saída de Sobral de Monte Agraço.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=648&W=1152&crop=center&delay_optim=1&epic=V2%3AsMe%2BsXGuW5oSgD3QEKMSYqoeqUbgMlpsOmwKp1YJuVabBuiyd1sH2iwj7qZgz0rGHJdWdheYoyuqWoQcTMidXijllrPcD2bdhNE8Bz8WbSJAmtf6M0OVDu8m8K2fRhHF"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Síria: Material nuclear encontrado no país ficará à guarda de Damasco",
+      "link": "https://www.noticiasaominuto.com/mundo/3038233/siria-material-nuclear-encontrado-no-pais-ficara-a-guarda-de-damasco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 21:06:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84bb3408bdc.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EUA sancionam presidente do TPI e procurador-adjunto",
+      "link": "https://www.noticiasaominuto.com/mundo/3038312/eua-sancionam-presidente-do-tpi-e-procurador-adjunto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 21:00:03",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68fa611cd6d91.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Sabe o que fazer num local de crime? GNR explica, mas \"não toque em nada\"",
+      "link": "https://www.noticiasaominuto.com/pais/3038316/sabe-o-que-fazer-num-local-de-crime-gnr-explica-mas-nao-toque-em-nada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-18 20:48:27",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84b22c5eacd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MzExfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NTAsImNyb3BIZWlnaHQiOjExNTUsImNyb3BYIjoyNzcsImNyb3BZIjoxMTZ9fQ=="
     },
     {
       "sourceId": "nam",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-18 20:29:51",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5d3885cb37be8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjUxLCJjcm9wWSI6NDY2fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Vai ficar excêntrico? Confira a chave do Euromilhões desta terça-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3038311/vai-ficar-excentrico-confira-a-chave-do-euromilhoes-desta-terca-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:28:19",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5564e9f137ae7.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "IGAS aponta falhas no planeamento da urgência obstétrica em Almada",
-      "link": "https://www.noticiasaominuto.com/pais/3038315/igas-aponta-falhas-no-planeamento-da-urgencia-obstetrica-em-almada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:28:01",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6908b92b14847.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Guardia Civil confirmou 15 violações de residentes em Ceuta? É falso",
-      "link": "https://www.noticiasaominuto.com/mundo/3038255/guardia-civil-confirmou-15-violacoes-de-residentes-em-ceuta-e-falso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 20:21:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8073a4e4c88.webp"
     },
     {
       "sourceId": "pplware",
