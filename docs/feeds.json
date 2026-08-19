@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-18T23:45:09.323844+00:00",
+  "updated": "2026-08-19T01:00:11.088723+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2357/",
+      "pubDate": "Wed, 19 Aug 2026 01:11:45 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ser burro e querer sê-lo",
-      "link": "https://observador.pt/opiniao/ser-burro-e-querer-se-lo/",
-      "pubDate": "Wed, 19 Aug 2026 00:20:30 +0100",
-      "description": "A verdade é que se pensarmos no real valor dos exames do 12º ano do qual se montou uma telenovela mexicana que durou meses, esse valor é profundamente negativo. Esses exames não valem nada.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A473%3A473%3Anowe%3A38%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F20205557%2Fjoaopirescruz-1.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Morre aos 77 anos Frank Beard baterista dos ZZ Top",
+      "link": "https://www.rtp.pt/noticias/cultura/morre-aos-77-anos-frank-beard-baterista-dos-zz-top_n1760248",
+      "pubDate": "Wed, 19 Aug 2026 01:54:03 +0100",
+      "description": "Frank Beard, o lendário baterista do icónico trio de blues-rock texano ZZ Top, morreu aos 77 anos, anunciou na terça-feira a banda norte-americana.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Incêndios em Portugal. A situação ao minuto",
-      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760070",
-      "pubDate": "Wed, 19 Aug 2026 01:13:42 +0100",
-      "description": "Ao final da tarde de terça-feira, as autoridades descartavam a necessidade de evacuar localidades em Arouca apesar das quatro frentes ativas do fogo. Atualizamos aqui, ao minuto, o evoluir da situação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a85c7d09931ace4512a9ff42e7d9fb?w=350&amp;q=50&amp;rect=0,0,8064,4421&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Botafogo demite Franclim Carvalho",
+      "link": "https://maisfutebol.iol.pt/brasil/botafogo/oficial-botafogo-demite-franclim-carvalho",
+      "pubDate": "Wed, 19 Aug 2026 01:26:00 +0100",
+      "description": "Técnico português deixa o comando do clube carioca",
+      "thumbnail": "https://img.iol.pt/image/id/6a66790ad34ef04b4f3f914f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Wed, 19 Aug 2026 00:52:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Wed, 19 Aug 2026 00:52:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Depois de Nuno Borges, Jaime Faria também faz história em Cincinnati",
+      "link": "https://maisfutebol.iol.pt/tenis/jaime-faria/depois-de-nuno-borges-jaime-faria-tambem-faz-historia-em-cincinnati",
+      "pubDate": "Wed, 19 Aug 2026 00:44:00 +0100",
+      "description": "Tenista português derrota australiano Adam Walton e apura-se para os oitavos de final do Masters 1000 norte-americano",
+      "thumbnail": "https://img.iol.pt/image/id/6a82c208d34ed0733ba802ed/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Wed, 19 Aug 2026 00:06:29 +0100",
       "description": "Médio ex-Benfica ruma ao futebol francês aos 37 anos",
       "thumbnail": "https://img.iol.pt/image/id/6377b8810cf2254fb282e873/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rodri: «Tinha várias propostas, mas a minha primeira escolha foi o Barcelona»",
-      "link": "https://maisfutebol.iol.pt/espanha/barcelona/rodri-tinha-varias-propostas-mas-a-minha-primeira-escolha-foi-o-barcelona",
-      "pubDate": "Wed, 19 Aug 2026 00:06:00 +0100",
-      "description": "Reforço «Blaugrana» fala num dia «especial» na carreira e revela o processo até se mudar para o emblema catalão",
-      "thumbnail": "https://img.iol.pt/image/id/6a84e35cd34e511da0b33f55/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Inglaterra: homem encontrado morto no estádio do Charlton Athletic",
-      "link": "https://maisfutebol.iol.pt/inglaterra/charlton-athletic/inglaterra-homem-encontrado-morto-no-estadio-do-charlton-athletic",
-      "pubDate": "Tue, 18 Aug 2026 23:49:51 +0100",
-      "description": "Clube que atua no Championship garante estar a colaborar com as autoridades nas investigações",
-      "thumbnail": "https://img.iol.pt/image/id/6a84de91d34ed0733ba8077a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Central do Parma fechado como reforço do Benfica",
-      "link": "https://maisfutebol.iol.pt/italia/parma/central-do-parma-fechado-como-reforco-do-benfica",
-      "pubDate": "Tue, 18 Aug 2026 23:07:00 +0100",
-      "description": "Águias preparam-se para investir cerca de 20 milhões de euros por Alessandro Circati, avança a imprensa italiana",
-      "thumbnail": "https://img.iol.pt/image/id/6a84d2d8d34ed0733ba8076a/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "João Mário vai ser pai pela primeira vez",
-      "link": "https://maisfutebol.iol.pt/mf-social/joao-mario/joao-mario-vai-ser-pai-pela-primeira-vez",
-      "pubDate": "Tue, 18 Aug 2026 23:02:00 +0100",
-      "description": "Ex-FC Porto fez o anúncio através das redes sociais",
-      "thumbnail": "https://img.iol.pt/image/id/6a84d63bd34e511da0b33f48/250"
     },
     {
       "sourceId": "sapo",
