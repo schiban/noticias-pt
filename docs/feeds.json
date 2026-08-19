@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-19T01:00:11.088723+00:00",
+  "updated": "2026-08-19T02:36:29.750104+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2410/",
+      "pubDate": "Wed, 19 Aug 2026 03:16:40 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2384/",
+      "pubDate": "Wed, 19 Aug 2026 02:13:45 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F10%2F11100759%2Fandrecc81-azevedo-alves-11_467x467_acf_cropped.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Artur Baptista da Silva passeia-se por Cambridge",
-      "link": "https://observador.pt/opiniao/artur-baptista-da-silva-passeia-se-por-cambridge/",
-      "pubDate": "Wed, 19 Aug 2026 00:23:33 +0100",
-      "description": "Questionar a biografia de alguém identificado com uma narrativa de superação e marginalização deixou de ser lido como rigor e passou a ser lido como hostilidade estrutural",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2464%3A2463%3Anowe%3A103%3A513%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170550%2Fjorge-fernandes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Emirados suspendem relações comerciais com o Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-emirados-suspendem-relacoes-comerciais-com-o-irao_a1_1760258",
+      "pubDate": "Wed, 19 Aug 2026 04:13:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Só faltava mesmo uma migração caótica de javalis",
-      "link": "https://observador.pt/opiniao/so-faltava-mesmo-uma-migracao-caotica-de-javalis/",
-      "pubDate": "Wed, 19 Aug 2026 00:21:26 +0100",
-      "description": "De Albufeira a Viseu, passando pelas praias de Setúbal, os bácoros estão a aparecer em todo o lado. E ninguém está preocupado em pôr ordem nisto, pelo menos até os suínos irem passear ao Martim Moniz",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Fogos em Arouca, Moncorvo e Santo Tirso preocupam bombeiros",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-fogos-em-arouca-moncorvo-e-santo-tirso-preocupam-bombeiros_a1_1760256",
+      "pubDate": "Wed, 19 Aug 2026 03:57:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/liberia-aceita-receber-1200-deportados-dos-eua_n1760243",
       "pubDate": "Wed, 19 Aug 2026 01:17:09 +0100",
       "description": "A Libéria aceitou receber até 1.200 deportados provenientes dos Estados Unidos, revelaram as autoridades do país africano, num dos maiores acordos deste tipo no âmbito da política migratória do governo de Donald Trump.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Novo sismo de magnitude 3,4 sentido na região espanhola de Granada",
-      "link": "https://www.rtp.pt/noticias/mundo/novo-sismo-de-magnitude-34-sentido-na-regiao-espanhola-de-granada_n1760241",
-      "pubDate": "Wed, 19 Aug 2026 01:16:12 +0100",
-      "description": "O Instituto Geográfico Nacional (IGN) espanhol registou hoje um sismo de magnitude 3,4 com epicentro em Ogíjares, sentido pela população, somando-se a outros na área metropolitana da cidade de Granada (sul).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Quase 500 operacionais no fogo no distrito de Bragança com frente de difícil acesso",
-      "link": "https://www.rtp.pt/noticias/pais/quase-500-operacionais-no-fogo-no-distrito-de-braganca-com-frente-de-dificil-acesso_n1760239",
-      "pubDate": "Wed, 19 Aug 2026 01:14:17 +0100",
-      "description": "O incêndio que deflagrou no sábado em Torre de Moncorvo e alastrou para Carrazeda de Ansiães mobilizava hoje à noite quase 500 operacionais, que combatiam uma frente ativa de difícil acesso e tinham como preocupação preservar populações e infraestruturas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
