@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-19T04:32:33.955587+00:00",
+  "updated": "2026-08-19T05:24:53.960530+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2468/",
+      "pubDate": "Wed, 19 Aug 2026 06:14:52 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Morreu a atriz brasileira Glória Menezes aos 91 anos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2357/",
-      "pubDate": "Wed, 19 Aug 2026 01:11:45 +0100",
-      "description": "O Brasil perde mais um dos rostos marcantes da televisão Brasileira com uma carreira de mais de seis décadas. Ainda, o PS acusa o Governo de abrir a porta à privatização de parte da Segurança Social.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h Fogos em Arouca e Moncorvo são os que mobilizam mais bombeiros",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogos-em-arouca-e-moncorvo-sao-os-que-mobilizam-mais-bombeiros_a1_1760272",
+      "pubDate": "Wed, 19 Aug 2026 07:14:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h APRE E MURPI não querem saldo da CGA na Segurança Social",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-apre-e-murpi-nao-querem-saldo-da-cga-na-seguranca-social_a1_1760269",
+      "pubDate": "Wed, 19 Aug 2026 06:34:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Wed, 19 Aug 2026 04:13:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Fogos em Arouca, Moncorvo e Santo Tirso preocupam bombeiros",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-fogos-em-arouca-moncorvo-e-santo-tirso-preocupam-bombeiros_a1_1760256",
-      "pubDate": "Wed, 19 Aug 2026 03:57:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Morre aos 77 anos Frank Beard baterista dos ZZ Top",
-      "link": "https://www.rtp.pt/noticias/cultura/morre-aos-77-anos-frank-beard-baterista-dos-zz-top_n1760248",
-      "pubDate": "Wed, 19 Aug 2026 01:54:03 +0100",
-      "description": "Frank Beard, o lendário baterista do icónico trio de blues-rock texano ZZ Top, morreu aos 77 anos, anunciou na terça-feira a banda norte-americana.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vila Real: Descarga de águas residuais poderá ter causado morte de peixes",
-      "link": "https://www.noticiasaominuto.com/pais/3038351/vila-real-descarga-de-aguas-residuais-podera-ter-causado-morte-de-peixes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 23:59:33",
+      "title": "ONU pede a Israel que cesse ataques na Síria",
+      "link": "https://www.noticiasaominuto.com/mundo/3038387/onu-pede-a-israel-que-cesse-ataques-na-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 06:17:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60e46f4de7e03.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64133bf0e4b3b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MjYsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY3OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Três principais fogos mobilizavam pelas 23h30 mais de 1.100 operacionais",
-      "link": "https://www.noticiasaominuto.com/pais/3038358/tres-principais-fogos-mobilizavam-pelas-23h30-mais-de-1100-operacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 23:59:00",
+      "title": "Trump suspende temporariamente tarifas ao Canadá após avanços em acordo",
+      "link": "https://www.noticiasaominuto.com/mundo/3038386/trump-suspende-temporariamente-tarifas-ao-canada-apos-avancos-em-acordo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 06:17:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62d06dbbe0708.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a60c5954ca2a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Novo sismo de magnitude 3,4 sentido na região espanhola de Granada",
-      "link": "https://www.noticiasaominuto.com/mundo/3038357/novo-sismo-de-magnitude-3-4-sentido-na-regiao-espanhola-de-granada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 23:55:59",
+      "title": "Casal que preside à Nicarágua pretende \"ditadura dinástica\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3038377/casal-que-preside-a-nicaragua-pretende-ditadura-dinastica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 06:15:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84e301cc5e7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5b0f95c12abd8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Glória Menezes: Uma vida dedicada aos palcos, à televisão e ao cinema",
-      "link": "https://www.noticiasaominuto.com/fama/3038355/gloria-menezes-uma-vida-dedicada-aos-palcos-a-televisao-e-ao-cinema#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 23:49:17",
+      "title": "Morre aos 97 anos ministra que garantiu abortos subsidiados em França",
+      "link": "https://www.noticiasaominuto.com/mundo/3038365/morre-aos-97-anos-ministra-que-garantiu-abortos-subsidiados-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 06:14:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84e14b75893.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjAsImNyb3BIZWlnaHQiOjQwNSwiY3JvcFgiOjAsImNyb3BZIjo0MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTQwLCJjcm9wSGVpZ2h0Ijo5NjAsImNyb3BYIjoxMjAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a853b7a60818.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NiwiY3JvcEhlaWdodCI6MTcwMCwiY3JvcFgiOjk5MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Estamos a ficar mais pobres. Um Estado pobre não investe na REN\"",
-      "link": "https://www.noticiasaominuto.com/politica/3038354/estamos-a-ficar-mais-pobres-um-estado-pobre-nao-investe-na-ren#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-18 23:48:45",
+      "title": "Israel acusa Turquia de ser \"ameaça\" após ataque a base síria",
+      "link": "https://www.noticiasaominuto.com/mundo/3038364/israel-acusa-turquia-de-ser-ameaca-apos-ataque-a-base-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 06:12:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_658372b61c316.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI2LCJjcm9wSGVpZ2h0IjoxNDIxLCJjcm9wWCI6MzUsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjoxMzc5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892ecc8d003.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg1LCJjcm9wSGVpZ2h0IjoxMzk4LCJjcm9wWCI6MjgsImNyb3BZIjozN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUyLCJjcm9wSGVpZ2h0IjoxNjkzLCJjcm9wWCI6NTExLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
