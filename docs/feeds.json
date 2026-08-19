@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-19T05:54:53.109223+00:00",
+  "updated": "2026-08-19T06:36:21.506905+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2479/",
+      "pubDate": "Wed, 19 Aug 2026 07:15:49 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Libéria aceita receber 1.200 deportados dos EUA",
+      "link": "https://observador.pt/2026/08/19/liberia-aceita-receber-1-200-deportados-dos-eua/",
+      "pubDate": "Wed, 19 Aug 2026 07:04:50 +0100",
+      "description": "Na próxima quinta-feira chegarão 20 deportados à Libéria. Washington estabeleceu com países africanos vários acordos de deportação de imigrantes oriundos de países terceiros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:166/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19030609/46505637.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rodrigo já lá Mora. Faria e Borges continuam american dream",
+      "link": "https://observador.pt/programas/vamos-a-bola/rodrigo-ja-la-mora-na-roma-faria-e-borges-continuam-american-dream-em-cincinnati/",
+      "pubDate": "Wed, 19 Aug 2026 06:59:43 +0100",
+      "description": "Jovem de 19 anos deixa a Invicta e chega a Roma como um gladiador que entra no Coliseu: aplaudido como um herói. Ainda, a noite histórica do ténis nacional e a possibilidade de novo português na NBA.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Quatro bombeiros feridos em despiste de veículo em Arouca",
+      "link": "https://observador.pt/liveblogs/mais-de-2-mil-bombeiros-continuam-a-combater-incendios-por-todo-o-pais-fogo-de-torre-de-moncorvo-e-o-que-reune-mais-meios/",
+      "pubDate": "Wed, 19 Aug 2026 06:56:06 +0100",
+      "description": "Fogo em Arouca lavra desde segunda-feira. Bombeiros ficaram feridos após despiste de viatura. Incêndios de Arouca e Torre de Moncorvo, são os mais preocupantes a nível nacional.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1138:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100038/gco-incendio-vouzela-4-julho-2026-011.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,72 +52,42 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/23030452/44632480.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Criar uma empresa demora mais de dois mil dias",
-      "link": "https://observador.pt/programas/conferencia-de-imprensa/criar-uma-empresa-demora-mais-de-dois-mil-dias/",
-      "pubDate": "Wed, 19 Aug 2026 06:47:16 +0100",
-      "description": "O Diário de Notícias revela que há um atraso de dois mil dias nos Registos Comerciais. O The Guardian revela que o primeiro-ministro britânico quer tirar todos os sem abrigos das ruas até ao Natal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "6h. Jaime Faria nos oitavos do Masters de Cincinnati",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2468/",
-      "pubDate": "Wed, 19 Aug 2026 06:14:52 +0100",
-      "description": "O tenista português junta-se agora a Nuno Borges na próxima fase da competição. Aindam, um jovem português foi assassinado, ontem à noite, numa praia da Albânia.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As nossas pensões estão em risco. Ainda podem ser salvas?",
-      "link": "https://observador.pt/programas/a-hist-ria-do-dia/as-nossas-pensoes-estao-em-risco-ainda-podem-ser-salvas/",
-      "pubDate": "Wed, 19 Aug 2026 05:03:23 +0100",
-      "description": "O relatório encomendado pelo governo sobre a sustentabilidade da Segurança Social aponta para um défice contínuo e apresenta soluções para o problema. Uma conversa com a jornalista Alexandra Machado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. André Ventura saúda promulgação da lei das burcas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2375/",
-      "pubDate": "Wed, 19 Aug 2026 04:16:02 +0100",
-      "description": "O líder do Chega afirma que é uma decisão feita pelo bem do país. Ainda, o Governo garante que só pretende reabrir o debate sobre a reforma da Segurança Social na próxima legislatura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Venezuela assina acordo com petrolífera dos EUA para explorar dois campos",
+      "link": "https://www.rtp.pt/noticias/mundo/venezuela-assina-acordo-com-petrolifera-dos-eua-para-explorar-dois-campos_n1760264",
+      "pubDate": "Wed, 19 Aug 2026 08:34:15 +0100",
+      "description": "A Venezuela assinou um contrato com a empresa norte-americana Hunt Oil para o desenvolvimento de dois campos de petróleo e gás no leste do país sul-americano, anunciou a ministra dos Hidrocarbonetos, Paula Henao.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/82/82008587468ea1da813bb46eec990719?w=350&amp;q=50&amp;rect=0,15,984,539&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Amnistia Internacional denuncia uso crescente de tecnologias de vigilância na Argentina",
-      "link": "https://www.rtp.pt/noticias/mundo/amnistia-internacional-denuncia-uso-crescente-de-tecnologias-de-vigilancia-na-argentina_n1760253",
-      "pubDate": "Wed, 19 Aug 2026 07:48:44 +0100",
-      "description": "A Amnistia Internacional denunciou um &quot;recurso crescente às tecnologias de vigilância&quot; na Argentina sob o Governo do ultraliberal Javier Milei, que diz ter gerado um &quot;efeito dissuasor&quot; sobre as liberdades de expressão ou de reunião.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/40/40c05a648d0a8dc70f811506877e47b5?w=350&amp;q=50&amp;rect=0,102,1233,676&amp;auto=format"
+      "title": "Incêndios em Portugal. A situação ao minuto",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760277",
+      "pubDate": "Wed, 19 Aug 2026 08:29:50 +0100",
+      "description": "Ao início da manhã, havia quatro incêndios ativos em Portugal continental - os fogos com maior dimensão lavravam no norte. Atualizamos aqui, ao minuto, o evoluir da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e43cc39322bcadd7c75fa965fe96716?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Independentistas do Quebeque adiam referendo até Trump deixar presidência dos EUA",
-      "link": "https://www.rtp.pt/noticias/mundo/independentistas-do-quebeque-adiam-referendo-ate-trump-deixar-presidencia-dos-eua_n1760252",
-      "pubDate": "Wed, 19 Aug 2026 07:41:51 +0100",
-      "description": "O líder do separatista Partido Quebequiano (PQ) anunciou que, se ganhar as eleições provinciais de 05 de outubro, não convocará um referendo sobre separação do Quebeque do Canadá enquanto Donald Trump estiver na presidência norte-americana.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cc/ccd7da4f4d6d19bada2946ad3a8ca16b?w=350&amp;q=50&amp;rect=0,0,1179,646&amp;auto=format"
+      "title": "Fabricante chinesa de robôs Unitree estreia-se na Bolsa de Xangai a ganhar 629%",
+      "link": "https://www.rtp.pt/noticias/economia/fabricante-chinesa-de-robos-unitree-estreia-se-na-bolsa-de-xangai-a-ganhar-629_n1760263",
+      "pubDate": "Wed, 19 Aug 2026 08:29:10 +0100",
+      "description": "A Unitree Robotics estreou-se hoje na Bolsa de Xangai, numa sessão que as ações da fabricante de robôs humanoides mais conhecida da China chegaram a estar a subir 629,4%.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/87/874a1803bea65c0e80b4619c334f7a64?w=350&amp;q=50&amp;rect=0,71,640,351&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "6h Fogos em Arouca e Moncorvo são os que mobilizam mais bombeiros",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogos-em-arouca-e-moncorvo-sao-os-que-mobilizam-mais-bombeiros_a1_1760272",
-      "pubDate": "Wed, 19 Aug 2026 07:14:02 +0100",
+      "title": "7h Incêndio Arouca. Quatro bombeiros ficaram feridos em despiste",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-incendio-arouca-quatro-bombeiros-ficaram-feridos-em-despiste_a1_1760279",
+      "pubDate": "Wed, 19 Aug 2026 08:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,21 +95,11 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h APRE E MURPI não querem saldo da CGA na Segurança Social",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-apre-e-murpi-nao-querem-saldo-da-cga-na-seguranca-social_a1_1760269",
-      "pubDate": "Wed, 19 Aug 2026 06:34:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h Exercícios militares entre Coreia do Sul e EUA encurtados",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-exercicios-militares-entre-coreia-do-sul-e-eua-encurtados_a1_1760268",
-      "pubDate": "Wed, 19 Aug 2026 06:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Pelo menos cinco mortos após desabamento de muro durante banquete na China",
+      "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-cinco-mortos-apos-desabamento-de-muro-durante-banquete-na-china_n1760262",
+      "pubDate": "Wed, 19 Aug 2026 08:25:56 +0100",
+      "description": "Pelo menos cinco pessoas morreram e outras 17 ficaram feridas na sequência da derrocada de um muro durante um banquete na província central chinesa de Sichuan para celebrar a entrada de jovens na universidade.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,101 +155,111 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Seguro promulga ‘lei das burcas’",
-      "link": "https://eco.sapo.pt/2026/08/18/seguro-promulga-lei-das-burcas/",
-      "pubDate": "Tue, 18 Aug 2026 18:55:05 +0000",
-      "description": "Para o Presidente da República, esta é uma \"matéria de grande sensibilidade social e cultural, onde é de extrema dificuldade definir fronteiras e valorizar de forma equilibrada direitos e deveres\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AanFs4WOyDhGFMk9jffnfLuA0P19MKLTN9HqCHxuUaJX%2B6SoreyHx0QFKIqDvs7fdwxcKE8TyokPaiM001xq9NvDUguWD0bmybvEyZZ5fKdqqXICpmMC1cT26ZQIPhmFS"
+      "title": "Seis incêndios ativos no norte do país com Arouca a concentrar maiores preocupações",
+      "link": "https://sapo.pt/artigo/seis-incendios-ativos-no-norte-do-pais-com-arouca-a-concentrar-maiores-preocupacoes-6a854539652124dd427ce1cb",
+      "pubDate": "Wed, 19 Aug 2026 06:03:45 +0000",
+      "description": "No combate a este fogo estão empenhados quase 500 operacionais, apoiados por mais de 160 meios terrestres, sendo que em Torre de Moncorvo o cenário permanece igualmente difícil.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AOfC%2Fq7kDvmqIBc4UwDShjVejdPOmYP%2BVLBUcvQ6Amym8kjH2uKdOYphWJPtFnibHv%2FRxvCdw4v7wRINzIm4fNA0B149i4W8K%2Bf2obcmjuBjnPHR5by1VArT5NDeYPLDU"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Da falta de “surpresa” ao “truque contabilístico”: Partidos reagem ao estudo sobre Segurança Social",
-      "link": "https://eco.sapo.pt/2026/08/18/da-falta-de-surpresa-ao-truque-contabilistico-partidos-reagem-ao-estudo-sobre-seguranca-social/",
-      "pubDate": "Tue, 18 Aug 2026 19:54:25 +0000",
-      "description": "Conclusões do grupo de trabalho para reforma da Segurança Social foram divulgadas esta terça-feira. Iniciativa Liberal dá nota positiva à \"direção\" de algumas propostas, BE e PCP criticam.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AzglA64JmHha1vkvos6QhXQAqlksnq%2FryE%2BgLAYtr06BS9RoCzKlBbwcc%2Bd%2BmnlRGT3H2MEEXNB%2B30nBxwLoUUbJLGKq5IdPk2j67wBPrV0UdRX%2BotT1xgKoDeCYgyyt9"
+      "title": "Peixes mortos no Corgo: APA aponta para descarga residual",
+      "link": "https://sapo.pt/artigo/peixes-mortos-no-corgo-apa-aponta-para-descarga-residual-6a84e563652124dd427629f9",
+      "pubDate": "Wed, 19 Aug 2026 06:03:45 +0000",
+      "description": "A APA divulgou avaliação preliminar sobre a mortandade de peixes no rio Corgo. A descarga terá ocorrido entre sábado e domingo, agravada pelas altas temperaturas e baixo caudal.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AVSuXX%2F1YGDkDvmVvccQzIGfxKqiFfLeOZW6%2F24YqMwPTFloJNlX8vvzQSzYckaNYnlTxQ6XE2FA5FC3aXbVIDU2UHTVorgSP1fbOu7ZzSCtO8bsh9gQFCGmLzkW8RSXQ"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Trump nega diálogo com o Irão apesar da ameaça sobre o “novo território dos EUA”: Ormuz",
-      "link": "https://sapo.pt/artigo/trump-nega-dialogo-com-o-irao-apesar-da-ameaca-sobre-o-novo-territorio-dos-eua-ormuz-6a84d4b8652124dd4273d9d7",
-      "pubDate": "Tue, 18 Aug 2026 22:00:27 +0000",
-      "description": "Teerão apelida de “delírio” mensagem do presidente norte-americano a reivindicar o estreito. Emirados Árabes Unidos acusam iranianos de lançar dois mísseis.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AD%2BMBd1paC9jmKEuvZqWp3qY5dH5L3hWpho8UAEvKuhRaNTITRORXbKXR251IGn8hlUF8JBYeIzh8l%2BH4uZRlzyhhv%2BBvI9rbpoG%2Fb%2BeZhEuTLB0%2FJMMAdiI%2BW%2FS%2Bc%2Fsi"
+      "title": "Ginecologia em Almada fechada 60% dos dias, diz Inspeção-Geral das Atividades em Saúde",
+      "link": "https://sapo.pt/artigo/ginecologia-em-almada-fechada-60-dos-dias-diz-igas-6a84d9bf03b4ab80f0e95da2",
+      "pubDate": "Wed, 19 Aug 2026 06:03:45 +0000",
+      "description": "Inspeção aponta escassez de especialistas, ausência de diretor de serviço e articulação regional \"pouco eficaz\". Quatro médicos saíram em 2025 e não foram substituídos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A0ww6%2F3LdPvwhaBEMShLEwShBcKFeWaZY8LFyBdQt9zTQCrbqIvU4%2BS1XeEX0fCcRuCskXHmf3olN7knLOafXGm73t9GqY2S9WXALTSJuWzplC%2Bzojfp7tTAFDgf4e6FM"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Incêndios: Arcos de Valdevez, Arouca, e Santo Tirso ainda com frentes ativas",
-      "link": "https://sapo.pt/artigo/incendios-arcos-de-valdevez-arouca-e-santo-tirso-ainda-com-frentes-ativas-6a84da0084f850b171dccc34",
-      "pubDate": "Tue, 18 Aug 2026 22:20:18 +0000",
-      "description": "Intensidade das chamas exigiu o reposicionamento dos meios. Situação menos preocupante em Ponte de Lima, onde alguns fogos já entraram em fase de rescaldo",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AK8JUTFqKUnrLKUM7yK6ab8C1IFirvHvod5kvvD%2FZQVzWnWCOclFNzMGwu%2F5e%2FYE5SZk3K0hUoL42tRkX%2BYQi7%2FshXF7hz8QF6D41pwRAodmo%2FttQZBqdgU6oAmWWVf1U"
+      "title": "Médio Oriente: Turquia rejeita alegações de Israel sobre envio de tropas para Síria",
+      "link": "https://executivedigest.sapo.pt/medio-oriente-turquia-rejeita-alegacoes-de-israel-sobre-envio-de-tropas-para-siria/",
+      "pubDate": "Wed, 19 Aug 2026 06:03:45 +0000",
+      "description": "A Turquia rejeitou hoje as alegações de Israel de que Ancara está a preparar-se para enviar tropas para uma base na Síria, bombardeada por Telavive no dia anterior.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A5V6BHWhMaq9vHXJTrX7xPKqgKoyAz2sEuJGxIiEq9rphCtXynaXosfxUo%2Fy7fC5wJKRAzQ6MhMnH0mxVWXFEFwl%2FpOGyPAvSpXeBEojrjJJxBgFqnfPtNKr4cGS8knpf"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Morreu a atriz brasileira Glória Menezes",
-      "link": "https://sapo.pt/artigo/morreu-a-atriz-brasileira-gloria-menezes-6a84c00c03ed206251305733",
-      "pubDate": "Tue, 18 Aug 2026 20:55:45 +0000",
-      "description": "A atriz brasileira tinha 91 anos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A8E5F1kD5f7DKQzhEWtybdItOqFEWdcpihveeE5TWi3JTp7unDrIAxeLHptEwGOUBIODrZr6haC3mcfeQZ1MYl8JWqcl2prZTAPmDWqvEuUcxbjaFggcLsjsyitiY%2Beho"
+      "title": "Meta rejeita acusações de deliberadamente viciar jovens em redes sociais",
+      "link": "https://executivedigest.sapo.pt/meta-rejeita-acusacoes-de-deliberadamente-viciar-jovens-em-redes-sociais/",
+      "pubDate": "Wed, 19 Aug 2026 06:03:45 +0000",
+      "description": "Advogados da gigante tecnológica Meta rejeitaram as acusações de 29 estados norte-americanos de ter procurado deliberadamente viciar crianças e adolescentes nas redes sociais Facebook e Instagram.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A4wVZyo6SZ7C%2Fck7g%2BWTeOfZ1uffm4j%2FYCKHe%2BsG9p%2B32d4UVK0vI5roph6C%2BDsJcTH%2F9Z3X4QSv8bOSc2MervTZuLrdaJiqxJyYuUPsYagrGy2Nxbj9YsEQZGdU8J4NU"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Nuno Lopes lembra trabalho com Laura Cardoso \"quando ainda era um menino\"",
-      "link": "https://www.noticiasaominuto.com/fama/3038391/nuno-lopes-lembra-trabalho-com-laura-cardoso-quando-ainda-era-um-menino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 06:41:04",
+      "title": "Sabe que há apoios sociais para quem está na reforma? Conheça-os aqui",
+      "link": "https://www.noticiasaominuto.com/economia/3038130/sabe-que-ha-apoios-sociais-para-quem-esta-na-reforma-conheca-os-aqui#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 07:34:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_58c0fa6f2d1f7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0Mzc3LCJjcm9wSGVpZ2h0IjoyNDYyLCJjcm9wWCI6MTY0LCJjcm9wWSI6MzExfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMzgwLCJjcm9wSGVpZ2h0IjoyNDUzLCJjcm9wWCI6MTY5OCwiY3JvcFkiOjQyN319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a846110de34c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Benfica: Confiança total. Marco Silva não deixa cair Sudakov",
-      "link": "https://www.noticiasaominuto.com/desporto/3037991/benfica-confianca-total-marco-silva-nao-deixa-cair-sudakov#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 06:37:46",
+      "title": "Líder de rede de tráfico detido pela GNR. Estava foragido há 13 meses",
+      "link": "https://www.noticiasaominuto.com/pais/3038400/lider-de-rede-de-trafico-detido-pela-gnr-estava-foragido-ha-13-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 07:34:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a842a28907be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDQsImNyb3BZIjoyMH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a0daf8a5fddc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMjd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExOTgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turquia rejeita alegações de Israel sobre envio de tropas para Síria",
-      "link": "https://www.noticiasaominuto.com/mundo/3038370/turquia-rejeita-alegacoes-de-israel-sobre-envio-de-tropas-para-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 06:29:05",
+      "title": "Maria Cerqueira Gomes voltou para o pai do filho? \"Estão juntos\"",
+      "link": "https://www.noticiasaominuto.com/fama/3038399/maria-cerqueira-gomes-voltou-para-o-pai-do-filho-estao-juntos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 07:33:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_586a0e4928232.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEzMDcsImNyb3BIZWlnaHQiOjIzMjQsImNyb3BYIjoyNzksImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ca5c57014d8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDI0LCJjcm9wSGVpZ2h0IjoxMzYzLCJjcm9wWCI6MTAwLCJjcm9wWSI6ODEzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxNzI4LCJjcm9wSGVpZ2h0IjozMDcyLCJjcm9wWCI6NjE0LCJjcm9wWSI6NzMxfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU pede a Israel que cesse ataques na Síria",
-      "link": "https://www.noticiasaominuto.com/mundo/3038387/onu-pede-a-israel-que-cesse-ataques-na-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 06:17:49",
+      "title": "Novela Suárez ganha protagonista grego. Ioannidis vira 'reforço'",
+      "link": "https://www.noticiasaominuto.com/desporto/3038123/novela-suarez-ganha-protagonista-grego-ioannidis-vira-reforco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 07:20:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64133bf0e4b3b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MjYsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY3OSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a845eeed1af0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDUsImNyb3BZIjoyNX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump suspende temporariamente tarifas ao Canadá após avanços em acordo",
-      "link": "https://www.noticiasaominuto.com/mundo/3038386/trump-suspende-temporariamente-tarifas-ao-canada-apos-avancos-em-acordo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 06:17:07",
+      "title": "Cláudia Raia: A morte da mãe na ficção, \"vovó Goia\", e de Laura Cardoso",
+      "link": "https://www.noticiasaominuto.com/fama/3038396/claudia-raia-a-morte-da-mae-na-ficcao-vovo-goia-e-de-laura-cardoso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 07:09:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a60c5954ca2a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYxMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_643eb51dea5c6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDUwLCJjcm9wSGVpZ2h0Ijo1OTAsImNyb3BYIjoxNiwiY3JvcFkiOjE2Nn19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "China descontinua o Windows 10 nas máquinas governamentais meses antes do previsto",
+      "link": "https://pplware.sapo.pt/microsoft/windows/china-descontinua-o-windows-10-nas-maquinas-governamentais-meses-antes-do-previsto/",
+      "pubDate": "Wed, 19 Aug 2026 06:00:40 +0000",
+      "description": "O Windows 10 está já terminado, mas aparentemente recusa-se a desaparecer. A Microsoft alargou o seu suporte básico, mas nem isso convence os utilizadores. A sua base parece agora ir diminuir drasticamente, com o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/wnidows_11_china.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Tue, 18 Aug 2026 18:30:52 +0000",
       "description": "O regresso às aulas aproxima-se e, com ele, regressam as rotinas, os horários e os desafios de um novo ano letivo. Além de preparar mochilas, livros e material escolar, há outro espaço que merece&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/estudar-casa-estudo-secretaria-jovem-aulas.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Trouxe garrafas e latas de Espanha? Podem valer dinheiro em Portugal",
-      "link": "https://pplware.sapo.pt/informacao/trouxe-garrafas-e-latas-de-espanha-podem-valer-dinheiro-em-portugal/",
-      "pubDate": "Tue, 18 Aug 2026 17:20:59 +0000",
-      "description": "Se passeou ou até fez férias em Espanha e agora está de regresso, talvez valha a pena olhar para as garrafas de plástico e latas antes de as colocar no ecoponto. Algumas embalagens compradas&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/sistema-volta.jpg"
     },
     {
       "sourceId": "autosport",
