@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-19T20:21:32.392051+00:00",
+  "updated": "2026-08-19T20:52:59.014803+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "Tijjani Reijnders troca Manchester City pelo Al Qadsiah",
+      "link": "https://observador.pt/2026/08/19/reijnders-deixa-o-manchester-city-ao-fim-de-uma-epoca-e-assina-cinco-anos-com-o-al-qadsiah-por-61-milhoes/",
+      "pubDate": "Wed, 19 Aug 2026 21:35:35 +0100",
+      "description": "O médio neerlandês, de 28 anos, rumou à Arábia Saudita um dia depois de Rodri ter saído para o Barcelona. O City perde mais um titular.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19201705/47285964.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "21h. Incêndio em Boticas está agora com 4 frentes ativas",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1733/",
       "pubDate": "Wed, 19 Aug 2026 21:16:53 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O incêndio que deflagrou ontem no concelho teve durante a tarde de hoje uma reativação. Ainda, começou a Reentre do Chega.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,64 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19202314/41388525.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Viana do Castelo: mordomas e ouro enchem as ruas da cidade",
-      "link": "https://observador.pt/2026/08/19/mil-mulheres-desfilaram-em-viana-do-castelo-no-desfile-da-mordomia-da-romaria-dagonia-vagas-esgotaram-em-dois-dias/",
-      "pubDate": "Wed, 19 Aug 2026 20:58:50 +0100",
-      "description": "Da Serra d'Arga a New Jersey, da neta de 16 anos à avó de 78, as mordomas encheram as ruas de Viana do Castelo de ouro, traje e emoção nesta quarta-feira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19194839/47634011.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "FC Barcelona conquista Joan Gamper ao bater Al Ahly no fecho da pré-temporada",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-conquista-joan-gamper-ao-bater-al-ahly-no-fecho-da-pre-temporada_d1760466",
+      "pubDate": "Wed, 19 Aug 2026 22:43:17 +0100",
+      "description": "O FC Barcelona conquistou hoje a 61.ª edição do Troféu Joan Gamper, no último jogo da pré-temporada, ao vencer os egípcios do Al Ahly por 2-1, num jogo em que Rodri foi apresentado em Nou Camp.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/56/569eea66499d07dab98f6b4acdccba31?w=350&amp;q=50&amp;rect=0,120,4931,2703&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Avião da Air France regressou ao Porto após ter chocado com aves",
-      "link": "https://www.rtp.pt/noticias/pais/aviao-da-air-france-regressou-ao-porto-apos-ter-chocado-com-aves_n1760453",
-      "pubDate": "Wed, 19 Aug 2026 21:56:00 +0100",
-      "description": "O aparelho tinha descolado do Porto com destino a Paris, mas solicitou o retorno ao Aeroporto Francisco Sá Carneiro alegando motivos técnicos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/25/250dc5ff4260e11515500025a0f68eb0?w=350&amp;q=50&amp;rect=0,151,3216,1763&amp;auto=format"
+      "title": "Incêndios em Portugal. A situação ao minuto",
+      "link": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760277",
+      "pubDate": "Wed, 19 Aug 2026 22:40:08 +0100",
+      "description": "Mais de 1.200 operacionais estão, nesta altura, a tentar travar as chamas no país. A maior parte dos operacionais está nos incêndios que lavram nos concelhos de Arouca, Santo Tirso e Torre de Moncorvo. Atualizamos aqui, ao minuto, o evoluir da situação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/72/7265873365eb83a7f1c82aa72afccf78?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Colisão no sul do Brasil provocou 23 mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/colisao-no-sul-do-brasil-provocou-23-mortos_v1760452",
-      "pubDate": "Wed, 19 Aug 2026 21:54:47 +0100",
-      "description": "Um camião chocou de frente com um mini-autocarro que transportava doentes, como constatou o Correspondente da RTP no Rio de Janeiro, Daniel Catalão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ce/ce95449889a06ace7ef050a0522d2abe_N.jpg?"
+      "title": "Nuno Mendes suspenso por três jogos após expulsão na Supertaça francesa",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/nuno-mendes-suspenso-por-tres-jogos-apos-expulsao-na-supertaca-francesa_d1760461",
+      "pubDate": "Wed, 19 Aug 2026 22:29:58 +0100",
+      "description": "O defesa esquerdo internacional português Nuno Mendes, do Paris Saint-Germain, foi suspenso por três jogos, após ter sido expulso na derrota frente ao Lens na Supertaça de França, anunciou hoje a Liga de Futebol Profissional (LFP) gaulesa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/4514955a3c2a5ab164660186c3117bfe?w=350&amp;q=50&amp;rect=0,30,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Kiev e Moscovo trocaram 103 prisioneiros de guerra",
-      "link": "https://www.rtp.pt/noticias/mundo/kiev-e-moscovo-trocaram-103-prisioneiros-de-guerra_v1760451",
-      "pubDate": "Wed, 19 Aug 2026 21:53:48 +0100",
-      "description": "A Rússia negou que os ataques ucranianos estejam a causar prejuízos graves à economia russa. As duas partes voltaram a trocar ataques.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2c/2ce10e570e6314f9d5071c7534eb2901_N.jpg?"
+      "title": "21h PS queria ter sido ouvido sobre compra de capital da REN",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ps-queria-ter-sido-ouvido-sobre-compra-de-capital-da-ren_a1_1760460",
+      "pubDate": "Wed, 19 Aug 2026 22:28:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ministro israelita apela a 30 a 40 palestinianos assassinados por dia",
-      "link": "https://www.rtp.pt/noticias/mundo/ministro-israelita-apela-a-30-a-40-palestinianos-assassinados-por-dia_v1760450",
-      "pubDate": "Wed, 19 Aug 2026 21:51:47 +0100",
-      "description": "Um governante israelita apelou ao assassinato de &quot;30 a 40 pessoas por noite&quot; em Gaza.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4c/4cd39a2626e6e2bc34333db223756bdc_N.jpg?"
+      "title": "Tijjani Reijnders troca Manchester City pelo Al Qadsiah",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/tijjani-reijnders-troca-manchester-city-pelo-al-qadsiah_d1760459",
+      "pubDate": "Wed, 19 Aug 2026 22:27:02 +0100",
+      "description": "O futebolista internacional neerlandês Tijjani Reijnders assinou um contrato de cinco anos com os sauditas do Al Qadsiah, até 2031, saindo dos ingleses do Manchester City ao fim de uma época, anunciaram hoje os dois clubes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef5b5b3b9628786c64cde79481ea7d83?w=350&amp;q=50&amp;rect=0,18,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Irão ameaça atacar alvos norte-americanos na Europa",
-      "link": "https://www.rtp.pt/noticias/mundo/irao-ameaca-atacar-alvos-norte-americanos-na-europa_v1760449",
-      "pubDate": "Wed, 19 Aug 2026 21:49:47 +0100",
-      "description": "O aviso foi feito para o caso de Donald Trump decidir intensificar a guerra, mas a NATO disse que está pronta para &quot;defender todos os aliados&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/07/07fb2686a9db81115609f46ac69b4834_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Diego Moreira reforça Milan de Ruben Amorim",
+      "link": "https://maisfutebol.iol.pt/italia/milan/oficial-diego-moreira-reforca-milan-de-ruben-amorim",
+      "pubDate": "Wed, 19 Aug 2026 21:37:00 +0100",
+      "description": "Internacional belga assina contrato válido até junho de 2031",
+      "thumbnail": "https://img.iol.pt/image/id/6a8613e4d34ed0733ba80bca/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Wed, 19 Aug 2026 19:58:54 +0100",
       "description": "Treinador do Áustria Viena salienta a vontade de levar um «bom resultado» para a segunda mão",
       "thumbnail": "https://img.iol.pt/image/id/6a74e50ed34ed0733ba7ea1b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Jakob Poulsen: «Benfica? Não podemos dormir, senão o Pavlidis...»",
-      "link": "https://maisfutebol.iol.pt/liga-europa/benfica/jakob-poulsen-benfica-nao-podemos-dormir-senao-o-pavlidis",
-      "pubDate": "Wed, 19 Aug 2026 19:40:00 +0100",
-      "description": "Treinador do Aarhus deixou rasgados elogios à formação encarnada, mas avisa que vai a jogo para discutir o resultado",
-      "thumbnail": "https://img.iol.pt/image/id/6a837379d34ed0733ba804ab/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,26 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Incêndio de Arouca já consumiu 1.300 hectares. Aldeias fora de perigo",
+      "link": "https://www.noticiasaominuto.com/pais/3038864/incendio-de-arouca-ja-consumiu-1300-hectares-aldeias-fora-de-perigo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 21:33:43",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_688a32f412ae3.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "FC Barcelona conquista Gamper ao bater Al Ahly no fecho da pré-temporada",
+      "link": "https://www.noticiasaominuto.com/desporto/3038863/fc-barcelona-conquista-gamper-ao-bater-al-ahly-no-fecho-da-pre-temporada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 21:31:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8612992760e.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "ONG pede ao TPI para monitorizar o Quénia face a aumento da violência",
       "link": "https://www.noticiasaominuto.com/mundo/3038851/ong-pede-ao-tpi-para-monitorizar-o-quenia-face-a-aumento-da-violencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-19 21:12:20",
@@ -232,24 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85ef44c0f4e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MjMsImNyb3BZIjoxNTh9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Avançado internacional português Nelson Oliveira assina pelo Farense",
-      "link": "https://www.noticiasaominuto.com/desporto/3038855/avancado-internacional-portugues-nelson-oliveira-assina-pelo-farense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 21:08:29",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6960fbd1999c9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEzLCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Netanyahu avisa Turquia que não permitirá reforço militar na Síria",
-      "link": "https://www.noticiasaominuto.com/mundo/3038854/netanyahu-avisa-turquia-que-nao-permitira-reforco-militar-na-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 21:04:27",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47292419.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA4LCJjcm9wSGVpZ2h0IjoxMzU0LCJjcm9wWCI6MTUyLCJjcm9wWSI6MH19"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Cursor lança plataforma de alojamento de código para competir com o GitHub",
+      "link": "https://pplware.sapo.pt/software/cursor-lanca-plataforma-de-alojamento-de-codigo-para-competir-com-o-github/",
+      "pubDate": "Wed, 19 Aug 2026 20:30:01 +0000",
+      "description": "A startup de inteligência artificial (IA) Cursor lançou uma nova plataforma de alojamento de código chamada Origin, aproveitando o descontentamento crescente dos programadores com as constantes falhas do GitHub da Microsoft. Origin da Cursor&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/origin_cursor_github.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Wed, 19 Aug 2026 18:02:45 +0000",
       "description": "Nos últimos 11 anos, o Serviço de Regulação e Inspeção de Jogos (SRIJ) enviou 1834 notificações de encerramento a operadores de jogo online que atuavam fora da lei em Portugal. O regulador aproveita o&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/jogo-online-casino-online-apostas-1-1-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "E-goi reforça ligação ao mercado brasileiro com nova edição do Business Connection",
-      "link": "https://pplware.sapo.pt/internet/e-goi-reforca-ligacao-ao-mercado-brasileiro-com-nova-edicao-do-business-connection/",
-      "pubDate": "Wed, 19 Aug 2026 17:42:55 +0000",
-      "description": "Iniciativa que nasceu em Portugal voltou a São Paulo e reuniu 64 profissionais de mais de 30 empresas de e-commerce. De Matosinhos para São Paulo, o Business Connection está a ganhar dimensão internacional. A&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/business-onnection-egoi6.jpg"
     },
     {
       "sourceId": "autosport",
