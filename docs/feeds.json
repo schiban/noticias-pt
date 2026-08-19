@@ -1,34 +1,44 @@
 {
-  "updated": "2026-08-19T02:36:29.750104+00:00",
+  "updated": "2026-08-19T03:41:51.656003+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "4h. André Ventura saúda promulgação da lei das burcas",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2375/",
+      "pubDate": "Wed, 19 Aug 2026 04:16:02 +0100",
+      "description": "O líder do Chega afirma que é uma decisão feita pelo bem do país. Ainda, o Governo garante que só pretende reabrir o debate sobre a reforma da Segurança Social na próxima legislatura.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Incêndio de Arouca com quatro frentes ativas",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2410/",
       "pubDate": "Wed, 19 Aug 2026 03:16:40 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Fonte da PROCIV explica que nenhuma aldeia foi evacuada e que não foi necessário cortar nenhuma estrada. Ainda, o Presidente da República promulgou a chamada lei das burcas.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
+      "title": "2h. PROCIV: 10 incêndios considerados mais significativos",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2384/",
       "pubDate": "Wed, 19 Aug 2026 02:13:45 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Destaque para o incêndio de Arouca que mobiliza neste momento quase 500 operacionais e 160 meios terrestres. Ainda, o Presidente da República promulgou a chamada lei das burcas.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
+      "title": "1h. Morreu a atriz brasileira Glória Menezes aos 91 anos",
       "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2357/",
       "pubDate": "Wed, 19 Aug 2026 01:11:45 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O Brasil perde mais um dos rostos marcantes da televisão Brasileira com uma carreira de mais de seis décadas. Ainda, o PS acusa o Governo de abrir a porta à privatização de parte da Segurança Social.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -40,16 +50,6 @@
       "pubDate": "Wed, 19 Aug 2026 00:39:50 +0100",
       "description": "Julgamento na Califórnia arrancou com manifestação de pais do lado de fora do tribunal e declarações de um antigo funcionário da empresa de Mark Zuckerberg, com quem tinha contacto próximo.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/04/01204016/GettyImages-962120488.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Jason Arday e a crise da Universidade",
-      "link": "https://observador.pt/opiniao/jason-arday-e-a-crise-da-universidade/",
-      "pubDate": "Wed, 19 Aug 2026 00:25:09 +0100",
-      "description": "A Universidade transformou-se num sistema no qual muitos processos de avaliação, e financiamento são capturados por grupos associados a agendas ideológicas radicais.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F10%2F11100759%2Fandrecc81-azevedo-alves-11_467x467_acf_cropped.jpg"
     },
     {
       "sourceId": "rtp",
