@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-19T14:28:33.708999+00:00",
+  "updated": "2026-08-19T15:02:50.714294+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Presidente da junta de Marvila renuncia por motivos de saúde",
+      "link": "https://observador.pt/2026/08/19/presidente-da-junta-lisboeta-de-marvila-renuncia-ao-cargo/",
+      "pubDate": "Wed, 19 Aug 2026 15:41:25 +0100",
+      "description": "A Junta de Freguesia de Marvila agradeceu \"o trabalho e a dedicação de José António Videira ao serviço da freguesia\". A presidência da junta será, assim, assumida por Joaquim Cerqueira de Brito do PS.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/09/23150348/8277425_770x433_acf_cropped.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/02044924/45072521.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O \"american dream\" de Borges e Faria ainda não acabou",
-      "link": "https://observador.pt/2026/08/19/o-american-dream-de-borges-e-faria-ainda-nao-acabou-portugal-tem-dois-tenistas-nos-oitavos-de-um-masters-1000/",
-      "pubDate": "Wed, 19 Aug 2026 14:41:10 +0100",
-      "description": "Para chegarem aqui, Nuno Borges venceu o número 18 do mundo, Sergey Rublev, com parciais de 6-4 e 6-4, enquanto Faria bateu um top 10 do mundo. Esta quarta-feira, ambos os tenistas voltam a atuar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4066:2282:nowe:0:82/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19132117/gettyimages-2290784569.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "15h Incêndio de Arouca não dá tréguas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/15h-incendio-de-arouca-nao-da-treguas_a1_1760389",
+      "pubDate": "Wed, 19 Aug 2026 16:35:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,64 +102,54 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2bc372fdce8c61e3e65a13db4c6fa3aa?w=350&amp;q=50&amp;rect=0,31,1208,662&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Colapso de grua em Belas. Obra onde morreram dois trabalhadores não tinha licença",
-      "link": "https://www.rtp.pt/noticias/pais/colapso-de-grua-em-belas-obra-onde-morreram-dois-trabalhadores-nao-tinha-licenca_n1760380",
-      "pubDate": "Wed, 19 Aug 2026 16:07:33 +0100",
-      "description": "A Câmara Municipal de Sintra confirmou que o dono da empresa não comunicou o arranque dos trabalhos. A autarquia vai participar o caso ao Ministério Público.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f85cbebaa00b0783e013de27d1956223?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Circati tem capacidade de liderança e o perfil que queríamos...»",
+      "link": "https://maisfutebol.iol.pt/liga-europa/benfica/circati-tem-capacidade-de-lideranca-e-o-perfil-que-queriamos",
+      "pubDate": "Wed, 19 Aug 2026 15:57:00 +0100",
+      "description": "Marco Silva fala sobre o próximo reforço do Benfica para a temporada de 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a6a29a2d34ed0733ba7d05f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Itália: avançado do Cagliari já saiu do coma",
-      "link": "https://maisfutebol.iol.pt/italia/cagliari/italia-avancado-do-cagliari-ja-saiu-do-coma",
-      "pubDate": "Wed, 19 Aug 2026 15:23:15 +0100",
-      "description": "Após incidente numa piscina",
-      "thumbnail": "https://img.iol.pt/image/id/6a82d832d34e511da0b33ada/250"
+      "title": "Marco Silva confirma Aursnes nos convocados: «Será muito importante para nós»",
+      "link": "https://maisfutebol.iol.pt/benfica/fredrik-aursnes/marco-silva-confirma-aursnes-nos-convocados-sera-muito-importante-para-nos",
+      "pubDate": "Wed, 19 Aug 2026 15:45:11 +0100",
+      "description": "Médio norueguês está totalmente recuperado, mas ainda sem o nível físico para disputar 90 minutos",
+      "thumbnail": "https://img.iol.pt/image/id/6a85928ed34ed0733ba808ad/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Mora despede-se: «O FC Porto será sempre o clube do meu coração»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/rodrigo-mora/mora-despede-se-do-fc-porto-um-sonho-que-ainda-hoje-nao-consigo-descrever",
-      "pubDate": "Wed, 19 Aug 2026 14:58:00 +0100",
-      "description": "Jovem pérola dos dragões rumou a Itália para ser reforço da Roma",
-      "thumbnail": "https://img.iol.pt/image/id/69223575d34e2bd5c6d44da0/250"
+      "title": "Vítor Carvalho e o surto que afetou o Sp. Braga: «Não pode ser desculpa»",
+      "link": "https://maisfutebol.iol.pt/sp-braga/vitor-carvalho/nao-pode-ser-desculpa-vitor-carvalho-e-o-surto-que-afetou-o-sp-braga",
+      "pubDate": "Wed, 19 Aug 2026 15:30:00 +0100",
+      "description": "Jogador brasileiro antevê a receção ao Áustria de Viena, relativa à primeira mão do play-off da Liga Conferência, e garante que, apesar das dificuldades na preparação, a equipa vai a jogo para «vencer»",
+      "thumbnail": "https://img.iol.pt/image/id/6a85b5aed34e511da0b340d3/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Já depois da estreia... Bernardo Silva é apresentado no Real Madrid",
-      "link": "https://maisfutebol.iol.pt/made-in/real-madrid/ja-depois-da-estreia-bernardo-silva-e-apresentado-no-real-madrid",
-      "pubDate": "Wed, 19 Aug 2026 14:52:00 +0100",
-      "description": "Internacional português foi recebido por Florentino Pérez numa cerimónia discreta no Santiago Bernabéu",
-      "thumbnail": "https://img.iol.pt/image/id/6a85af6bd34ed0733ba808fc/250"
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Wed, 19 Aug 2026 15:27:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a8579d3d34e511da0b33fde/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "SONDAGEM: transferência de Rodrigo Mora foi um bom negócio para o FC Porto?",
-      "link": "https://maisfutebol.iol.pt/sondagem/rodrigo-mora/sondagem-transferencia-de-rodrigo-mora-foi-um-bom-negocio-para-o-fc-porto",
-      "pubDate": "Wed, 19 Aug 2026 14:48:00 +0100",
-      "description": "Médio deixou os dragões e assinou pela Roma",
-      "thumbnail": "https://img.iol.pt/image/id/6a8579dfd34ed0733ba80821/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Carlos Sainz renova com a Williams",
-      "link": "https://maisfutebol.iol.pt/formula-1/carlos-sainz/oficial-carlos-sainz-renova-com-a-williams",
-      "pubDate": "Wed, 19 Aug 2026 14:41:39 +0100",
-      "description": "Piloto espanhol assinou um contrato de longa duração",
-      "thumbnail": "https://img.iol.pt/image/id/6a85afd0d34ed0733ba808fe/250"
+      "title": "OFICIAL: Noah Madsen deixa Marítimo e muda-se para a Alemanha",
+      "link": "https://maisfutebol.iol.pt/liga/maritimo/oficial-noah-madsen-deixa-maritimo-e-muda-se-para-a-alemanha",
+      "pubDate": "Wed, 19 Aug 2026 15:24:25 +0100",
+      "description": "Defesa dinamarquês assina pelo Holstein Kiel e insulares ficam com percentagem de futura transferência",
+      "thumbnail": "https://img.iol.pt/image/id/6a85ba90d34e511da0b340da/250"
     },
     {
       "sourceId": "sapo",
@@ -160,6 +160,16 @@
       "pubDate": "Wed, 19 Aug 2026 14:11:41 +0000",
       "description": "Peritos alertam que fator de sustentabilidade, embora tenha sido inovador, é hoje um mecanismo com coerência reduzida. Recomendam fim da dupla penalização e reforço da idade pessoal da reforma.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AImVzKf1O1j%2ByM9i7h1HSOAL8SIbvm0MLf9vnDmGawyNfT%2Bb3ahIq1Vxw78oua%2BvaeGy5eJbGxdyuz51ZsbR5vqKd2o%2Fecq7k2ru8Bpq90bLAD0aLMs4fLn99fB6i3gtl"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Dívida externa de Portugal em percentagem do PIB é a mais baixa em 25 anos",
+      "link": "https://sapo.pt/artigo/divida-externa-de-portugal-em-percentagem-do-pib-e-a-mais-baixa-em-25-anos-6a85c21c03b4ab80f00c2414",
+      "pubDate": "Wed, 19 Aug 2026 14:51:03 +0000",
+      "description": "Dívida externa de Portugal baixou para 33,9% do PIB em junho. É o valor mais baixo desde setembro de 2001.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=672&W=1195&crop=center&delay_optim=1&epic=V2%3Ac4xGMKfjcT%2BJVItXjPO0Pd1eInrzQ1RVN3EudZ3bY%2FilrGerp3nUYJZC1SvOBV9otR5ylhoQuT9A2GGkoTcGcOzTJ%2F9%2BYAeBZSVX7W286bxFZub0W80gordt9ouyBoGi"
     },
     {
       "sourceId": "sapo",
@@ -185,71 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Atum, farinha e feijão estão entre os produtos que mais encareceram na última semana",
-      "link": "https://sapo.pt/artigo/atum-farinha-e-feijao-estao-entre-os-produtos-que-mais-encareceram-na-ultima-semana-6a85a17d03b4ab80f0069911",
-      "pubDate": "Wed, 19 Aug 2026 12:52:41 +0000",
-      "description": "O cabaz alimentar com 63 bens essenciais acompanhado semanalmente pela DECO PROteste voltou a encarecer. Entre 12 e 19 de agosto, o preço aumentou 1,48 euros, passando dos 252,07 para os 253,55 euros.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AqFGG7Cd0zE3TyggmTk274NpmwaJKb%2F1DTqNj%2BbcfC06ZAG83gChynblimOShlRhDyFkLPP8GC%2BX9KD2kbibC8a9iaEIdW7xGvBT%2Fa0hvORTYUgTEkXa5cJG9XD6QAwZG"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Mais emprego, menos desempregados e 1,15 milhões em teletrabalho: o retrato do mercado laboral português",
-      "link": "https://executivedigest.sapo.pt/mais-emprego-menos-desempregados-e-115-milhoes-em-teletrabalho-o-retrato-do-mercado-laboral-portugues/",
-      "pubDate": "Wed, 19 Aug 2026 10:51:19 +0000",
-      "description": "O mercado de trabalho português atingiu novos máximos no segundo trimestre de 2026, com a população ativa a ultrapassar pela primeira vez os 5,7 milhões de pessoas e o emprego a aproximar-se dos 5,4 milhões.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Aca3xaR63W8CQP0uEYRtqgK6AsIywFdFRUn1oGfqY6feY%2BCzMgi%2FrqA%2BeOTiMzYH8uX0ZsUnHreqASqvZaEWWZGsXnp53Ru2HVBqqsl7Xs4P0g3AVIzAfMaiA7pCiY8BF"
+      "title": "Ministério da Educação confirma 38 casos de crianças sem colocação no Seixal",
+      "link": "https://sapo.pt/artigo/ministerio-da-educacao-confirma-38-casos-de-criancas-sem-colocacao-no-seixal-6a85c28a84f850b171fa86fe",
+      "pubDate": "Wed, 19 Aug 2026 14:51:03 +0000",
+      "description": "Dos 38 menores sem vagas, nove são situações de alunos da escolaridade obrigatória que iriam frequentar o 7.º ano no próximo ano letivo. Os restantes são crianças da Educação Pré-Escolar.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AnR2AA%2FbZeapaY42i3s1r1NRDJylVhtAxHjoCmEjX5DefDNJXNEMq%2Bx7DUCH4X5ujL2ulRhC5JTRZltc5RU1HqTKUYSnBavKS0%2FYde%2BalyQQ6ZtF%2BBgVlmQt23zBsWhrl"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Braga. Mãe que abandonou filhos de 3 e 15 anos localizada pela PSP",
-      "link": "https://www.noticiasaominuto.com/pais/3038683/braga-mae-que-abandonou-filhos-de-3-e-15-anos-localizada-pela-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 15:25:04",
+      "title": "Oriente. Detido após esmurrar ex-namorada, usar faca e abandoná-la na rua",
+      "link": "https://www.noticiasaominuto.com/pais/3038707/oriente-detido-apos-esmurrar-ex-namorada-usar-faca-e-abandona-la-na-rua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 15:56:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd21a4d20ee.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57ee48213eba2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQyLCJjcm9wSGVpZ2h0Ijo4MTEsImNyb3BYIjowLCJjcm9wWSI6MTU5fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Estée Lauder passa de prejuízo a lucro de 156 milhões no último ano",
-      "link": "https://www.noticiasaominuto.com/economia/3038670/estee-lauder-passa-de-prejuizo-a-lucro-de-156-milhoes-no-ultimo-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 15:17:05",
+      "title": "Aursnes de volta e o que traz Circati. Tudo o que disse Marco Silva",
+      "link": "https://www.noticiasaominuto.com/desporto/3038560/em-direto-siga-a-antevisao-de-marco-silva-ao-benfica-aarhus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 15:55:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63750b6d48425.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a858d98ddfc0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Yael Trepy saiu do coma após incidente numa piscina",
-      "link": "https://www.noticiasaominuto.com/desporto/3038671/yael-trepy-saiu-do-coma-apos-incidente-numa-piscina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 15:15:15",
+      "title": "Buscas por português desaparecido na Croácia foram suspensas",
+      "link": "https://www.noticiasaominuto.com/pais/3038705/buscas-por-portugues-desaparecido-na-croacia-foram-suspensas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 15:50:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85ba6420b7c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7de09ddccc0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzUxLCJjcm9wSGVpZ2h0Ijo3NjAsImNyb3BYIjo0NiwiY3JvcFkiOjIzMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTYzLCJjcm9wSGVpZ2h0IjoxMDAxLCJjcm9wWCI6NjQ2LCJjcm9wWSI6LTF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Zelensky demite vice-chefe do gabinete durante investigação por corrupção",
-      "link": "https://www.noticiasaominuto.com/mundo/3038668/zelensky-demite-vice-chefe-do-gabinete-durante-investigacao-por-corrupcao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 15:12:17",
+      "title": "Familiares que morreram afogados em praia de Sussex eram pai, mãe e filha",
+      "link": "https://www.noticiasaominuto.com/mundo/3038698/familiares-que-morreram-afogados-praia-de-sussex-eram-pai-mae-e-filha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 15:49:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85b70e906bf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85bf2483a20.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Colisão entre mota e dois carros condiciona Marginal em Lisboa",
-      "link": "https://www.noticiasaominuto.com/pais/3038674/acidente-de-transito-condiciona-marginal-sentido-lisboa-cascais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 15:10:36",
+      "title": "Ucrânia: Parlamento aprova Yevgeny Khmara como novo ministro da Defesa",
+      "link": "https://www.noticiasaominuto.com/mundo/3038620/ucrania-parlamento-aprova-yevgeny-khmara-como-novo-ministro-da-defesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-19 15:46:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85b8be59995.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjI0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODU3LCJjcm9wSGVpZ2h0IjoxNTI0LCJjcm9wWCI6MTM0LCJjcm9wWSI6MTJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_629a175f2d2eb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0NX19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Pensões em risco: e se a reforma começasse a ser construída aos 6 anos?",
+      "link": "https://pplware.sapo.pt/informacao/pensoes-em-risco-e-se-a-reforma-comecasse-a-ser-construida-aos-6-anos/",
+      "pubDate": "Wed, 19 Aug 2026 15:00:31 +0000",
+      "description": "Um grupo de trabalho nomeado pelo Governo apresentou um conjunto de propostas para o futuro da Segurança Social, defendendo maior flexibilidade na transição para a reforma e uma série de mecanismos voluntários de poupança.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/adulto-crianca-dinheiro-poupanca.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/09/trovoada_00.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Crise na indústria automóvel ameaça mais de 1000 empregos em Portugal",
-      "link": "https://pplware.sapo.pt/motores/crise-na-industria-automovel-ameaca-mais-de-1000-empregos-em-portugal/",
-      "pubDate": "Wed, 19 Aug 2026 09:53:04 +0000",
-      "description": "A quebra da produção automóvel na Alemanha e em Espanha está a gerar preocupação entre os fabricantes portugueses de componentes. Mais de mil postos de trabalho poderão estar em risco nos próximos três anos.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/leiloes-automoveis.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Novo Mini Cooper poderá adotar tração traseira",
+      "link": "https://www.autosport.pt/automais/novo-mini-cooper-podera-adotar-tracao-traseira/",
+      "pubDate": "Wed, 19 Aug 2026 14:14:49 +0000",
+      "description": "O Grupo BMW já trabalhar na definição das especificações da próxima geração da berlina compacta de 3 portas da Mini, mesmo se a atual, a quarta, ainda é nova no mercado – as versões elétricas, fabricadas na China, foram introduzidas em 2023, enquanto as térmicas, produzidas no Reino Unido, surgiram ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Circuito do Estoril: “Se estamos a falar do presente, está melhor. Se estamos a falar do futuro, está tudo mal”",
+      "link": "https://www.autosport.pt/velocidade/circuito-do-estoril-se-estamos-a-falar-do-presente-esta-melhor-se-estamos-a-falar-do-futuro-esta-tudo-mal/",
+      "pubDate": "Wed, 19 Aug 2026 14:02:02 +0000",
+      "description": "O Autódromo do Estoril vive um momento contraditório. Segundo Ni Amorim, presidente da Federação Portuguesa de Automobilismo e Karting (FPAK), a gestão atual trouxe uma &#8220;evolução positiva&#8221; ao circuito, mas o futuro da infraestrutura permanece em risco sem um investimento sério e de longo",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "F1: Carlos Sainz renova e alinhamento da Williams está confirmado para 2027",
+      "link": "https://www.autosport.pt/formula1/f1-carlos-sainz-renova-e-alinhamento-da-williams-esta-confirmado-para-2027/",
+      "pubDate": "Wed, 19 Aug 2026 13:56:31 +0000",
+      "description": "A Williams confirmou a sua dupla de pilotos para a temporada de 2027 da Fórmula 1, ao anunciar a renovação de Carlos Sainz com um contrato plurianual. A notícia surge um dia depois de o companheiro de equipa Alex Albon ter acordado uma extensão de uma temporada para o próximo ano, que será a sua [&#",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-red-bull-confirma-ausencia-de-isack-hadjar-liam-lawson-corre-pela-equipa-em-zandvoort/",
       "pubDate": "Wed, 19 Aug 2026 11:21:53 +0000",
       "description": "Está confirmada a ausência de Isack Hadjar do GP dos Países Baixos. A Red Bull lançou um comunicado explicando que o piloto francês vai estar ausente da próxima prova do Campeonato do Mundo de F1, em Zandvoort, motivado por uma lesão no pulso. Hadjar ocupa atualmente o oitavo lugar na classificação ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali de Castelo Branco: ECB interpôs ação em tribunal após invasão de troço, condutor confessou tudo à GNR",
-      "link": "https://www.autosport.pt/ralis/rali-de-castelo-branco-ecb-interpos-acao-em-tribunal-apos-invasao-de-troco-condutor-confessou-tudo-a-gnr/",
-      "pubDate": "Wed, 19 Aug 2026 10:52:54 +0000",
-      "description": "Na sequência do enorme susto que sucedeu no Rali de Castelo Branco quando um carro particular invadiu um troço e se cruzou com João Barros, a Escuderia Castelo Branco moveu uma ação em tribunal ao condutor, um senhor idoso que viajava com a sua mulher ao lado e que confessou toda a situação à GNR, [",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Luís Miguel Rego ergue 5º título e aponta desafios: “eventos como Rali dos Açores são fundamentais para a nossa economia”",
-      "link": "https://www.autosport.pt/ralis/luis-miguel-rego-ergue-5o-titulo-e-aponta-desafios-eventos-como-rali-dos-acores-sao-fundamentais-para-a-nossa-economia/",
-      "pubDate": "Wed, 19 Aug 2026 10:12:48 +0000",
-      "description": "Consagrado antecipadamente como campeão dos Açores de Ralis de 2026, Luís Miguel Rego alcançou o quinto título da carreira no automobilismo regional. Em entrevista à RTP Açores, o piloto açoriano abordou a conquista da temporada, o futuro das viaturas Rally2 no arquipélago e a delicada conjuntura ec",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Algarve Pro Racing e mais duas equipas juntam-se à Ligier para a nova era LMP2, em 2028",
-      "link": "https://www.autosport.pt/velocidade/algarve-pro-racing-e-mais-duas-equipas-juntam-se-a-ligier-para-a-nova-era-lmp2-em-2028/",
-      "pubDate": "Wed, 19 Aug 2026 09:54:32 +0000",
-      "description": "A nova era LMP2, com começo marcado para 2028, já começa a ganhar forma e a Ligier Automotive confirmou os seus primeiros clientes para a próxima geração, com três das equipas de referência da categoria. Algarve Pro Racing, Inter Europol Competition e Panis Racing, escolheram o Ligier JS P228 para o",
       "thumbnail": ""
     }
   ]
