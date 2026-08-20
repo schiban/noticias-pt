@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-20T05:03:30.216018+00:00",
+  "updated": "2026-08-20T05:55:33.791439+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Portuguese dream\" chega ao fim. Jaime e Nuno fazem as malas",
+      "link": "https://observador.pt/programas/vamos-a-bola/portuguese-dream-chega-ao-fim-jaime-e-nuno-fazem-as-malas/",
+      "pubDate": "Thu, 20 Aug 2026 06:50:43 +0100",
+      "description": "A chuva adiou fim da campanha histórica do ténis português no Masters 1000 de Cincinnati, nos EUA. Ainda, Benfica começa a derradeira Missão Europa: suíços, escoceses, agora é a vez dos dinamarqueses.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ataque russo a Kiev causa 12 mortos e 32 feridos",
+      "link": "https://observador.pt/liveblogs/ataque-russo-a-kiev-causa-pelo-menos-12-mortos-e-32-feridos/",
+      "pubDate": "Thu, 20 Aug 2026 06:38:35 +0100",
+      "description": "Forças de Moscovo lançaram um ataque em larga escala à capital ucraniana, onde foram ouvidas várias explosões. Presidente do Líbano está hoje em Roma para debater futuro da força da ONU no país.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12103006/47592304.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Há 125 mil portugueses a receber mais de 3000 € mensais",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/ha-125-mil-portugueses-a-receber-mais-de-3000-e-mensais/",
+      "pubDate": "Thu, 20 Aug 2026 06:38:35 +0100",
+      "description": "O DN escreve que o salário médio líquido de políticos e gestores disparou mais de 17% no segundo trimestre deste ano. E lá fora, o The Guardian destaca o regresso do príncipe Harry e de Meghan.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2469/",
+      "pubDate": "Thu, 20 Aug 2026 06:16:26 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -9,97 +49,57 @@
       "link": "https://observador.pt/programas/a-hist-ria-do-dia/irao-e-russia-ameacam-a-europa-a-nato-esta-preparada/",
       "pubDate": "Thu, 20 Aug 2026 05:02:55 +0100",
       "description": "Há um plano da NATO para responder a um ataque russo nos bálticos e prontidão para um eventual ataque iraniano. A NATO prepara-se para uma guerra na Europa? Uma conversa com o coronel José do Carmo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Ténis. Nuno Borges e Jaime Faria perdem em Cincinnati",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2376/",
-      "pubDate": "Thu, 20 Aug 2026 04:12:59 +0100",
-      "description": "Nuno Borges perdeu frente a Brandon Nakashima, e Jaime Faria frente a Lorenzo Musetti. Ainda, André Ventura acusa Montenegro de querer cortar pensões e garante estar preparado para governar o país.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Câmara do Porto quer polícias nas ruas durante a noite",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2411/",
-      "pubDate": "Thu, 20 Aug 2026 03:13:02 +0100",
-      "description": "Pedro Duarte assinou um requerimento para que a PSP passe a estar em permanência em algumas zonas do Porto durante a noite. Ainda, o PS ameaça não viabilizar o próximo Orçamento de Estado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Incêndio de Arouca tem três frentes ativas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2385/",
-      "pubDate": "Thu, 20 Aug 2026 02:12:17 +0100",
-      "description": "Fonte da PROCIV explica que a maior dificuldade no combate às chamas são os acessos. Ainda, PS ameaça não viabilizar o próximo OE caso não haja uma garantia da segurança das pensões dos portugueses.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Incêndio de Alijó provoca 5 feridos ligeiros",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2358/",
-      "pubDate": "Thu, 20 Aug 2026 01:12:41 +0100",
-      "description": "O incêndio tem por esta hora uma frente ativa. Ainda, André Ventura acusa o Governo de estar a abrir caminho para cortar pensões com o novo estudo sobre a segurança social.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Príncipe Harry e Meghan Markle vão voltar para o Reino Unido",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-principe-harry-e-meghan-markle-vao-voltar-para-o-reino-unido_a1_1760509",
-      "pubDate": "Thu, 20 Aug 2026 06:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Trump anuncia \"guerra económica\" inédita contra Teerão",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-anuncia-guerra-economica-inedita-contra-teerao_n1760493",
+      "pubDate": "Thu, 20 Aug 2026 07:48:52 +0100",
+      "description": "O Presidente dos Estados Unidos, Donald Trump, anunciou esta quarta-feira uma nova ofensiva económica contra o Irão, classificando-a como a &quot;operação económica mais devastadora alguma vez empreendida contra qualquer país&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8cafdff1c2af0335c062a86ca98e5df5?w=350&amp;q=50&amp;rect=0,73,1232,675&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Ventura diz estar pronto para governar mas não quer crise",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ventura-diz-estar-pronto-para-governar-mas-nao-quer-crise_a1_1760504",
-      "pubDate": "Thu, 20 Aug 2026 05:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Príncipe Harry e Meghan voltam a viver no Reino Unido",
+      "link": "https://www.rtp.pt/noticias/mundo/principe-harry-e-meghan-voltam-a-viver-no-reino-unido_n1760491",
+      "pubDate": "Thu, 20 Aug 2026 07:47:32 +0100",
+      "description": "O príncipe Harry e a sua esposa Meghan, que viviam na Califórnia desde a sua conturbada separação da família real britânica em 2020, vão voltar ao Reino Unido, noticiaram vários meios de comunicação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/54/5455e6f5bf49f7223959b8a3f981f0b8?w=350&amp;q=50&amp;rect=0,61,1230,674&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Tenista Nuno Borges eliminado nos oitavos de Cincinnati",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-tenista-nuno-borges-eliminado-nos-oitavos-de-cincinnati_a1_1760500",
-      "pubDate": "Thu, 20 Aug 2026 04:38:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Restos mortais de pelo menos 23 pessoas exumados de três valas comuns no Kosovo",
+      "link": "https://www.rtp.pt/noticias/mundo/restos-mortais-de-pelo-menos-23-pessoas-exumados-de-tres-valas-comuns-no-kosovo_n1760490",
+      "pubDate": "Thu, 20 Aug 2026 07:41:12 +0100",
+      "description": "Os restos mortais de pelo menos 23 pessoas foram exumados de três valas comuns recentemente descobertas no norte do Kosovo, provavelmente vítimas kosovares albanesas desaparecidas desde 1999, anunciaram as autoridades.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/71/71ccdb2de65d3edfc61a856b365b1be5?w=350&amp;q=50&amp;rect=0,13,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Incêndios ativos em Arouca e Boticas. Combate está favorável",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-incendios-ativos-em-arouca-e-boticas-combate-esta-favoravel_a1_1760499",
-      "pubDate": "Thu, 20 Aug 2026 04:36:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Síria recebe ex-general de Bashar al-Assad extraditado do Líbano",
+      "link": "https://www.rtp.pt/noticias/mundo/siria-recebe-ex-general-de-bashar-al-assad-extraditado-do-libano_n1760489",
+      "pubDate": "Thu, 20 Aug 2026 07:25:07 +0100",
+      "description": "O Ministério do Interior sírio anunciou que um antigo general do ex-Presidente, Bashar al-Assad, foi extraditado para o país pelo Líbano e acusado de &quot;assassínios e crimes contra a humanidade&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f433e79f90e96b8ca27dfdc1e3abc0eb?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h André Ventura diz que está pronto para governar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-andre-ventura-diz-que-esta-pronto-para-governar_a1_1760492",
-      "pubDate": "Thu, 20 Aug 2026 02:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Trump escolhe assessora da Casa Branca para agência de Alimentação e Medicamentos",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-escolhe-assessora-da-casa-branca-para-agencia-de-alimentacao-e-medicamentos_n1760487",
+      "pubDate": "Thu, 20 Aug 2026 07:19:32 +0100",
+      "description": "A médica Heidi Overton, uma das principais assessoras da Casa Branca, foi escolhida para liderar a agência de alimentação e medicamentos dos Estados Unidos (FDA, na sigla em inglês), anunciou o Presidente Donald Trump.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/32/3211e45b75d8c588cf936eaa7bf181c4?w=350&amp;q=50&amp;rect=0,37,1200,658&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quem são as vítimas mortais da queda de helicóptero em safari no Quénia?",
-      "link": "https://www.noticiasaominuto.com/mundo/3038896/quem-sao-as-vitimas-mortais-da-queda-de-helicoptero-em-safari-no-quenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 23:59:30",
+      "title": "China ameaça retaliação por investigação comercial da UE à JD.com",
+      "link": "https://www.noticiasaominuto.com/mundo/3038913/china-ameaca-retaliacao-por-investigacao-comercial-da-ue-a-jdcom#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 06:49:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a86357cdda39.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64b0e7f8eee21.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY1NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo de Arouca com três frentes ativas, duas com mais intensidade",
-      "link": "https://www.noticiasaominuto.com/pais/3038897/fogo-de-arouca-com-tres-frentes-ativas-duas-com-mais-intensidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 23:59:00",
+      "title": "Trump escolhe assessora da Casa Branca para agência de Alimentação",
+      "link": "https://www.noticiasaominuto.com/mundo/3038903/trump-escolhe-assessora-da-casa-branca-para-agencia-de-alimentacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 06:48:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5d3885cb37be8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ffe2d93aee.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExMzEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Aumento sem precedentes de protestos em Cuba na primeira metade de 2026",
-      "link": "https://www.noticiasaominuto.com/mundo/3038891/aumento-sem-precedentes-de-protestos-em-cuba-na-primeira-metade-de-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 23:56:57",
+      "title": "Síria recebe ex-general de Bashar al-Assad extraditado do Líbano",
+      "link": "https://www.noticiasaominuto.com/mundo/3038904/siria-recebe-ex-general-de-bashar-al-assad-extraditado-do-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 06:41:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60ebd1ed2a2d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI4LCJjcm9wSGVpZ2h0IjoxNDIyLCJjcm9wWCI6MTMsImNyb3BZIjozN319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_675f3853aac1e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pai do jovem que matou a mãe já teria incentivado adolescente a agredi-la",
-      "link": "https://www.noticiasaominuto.com/pais/3038895/pai-do-jovem-que-matou-a-mae-ja-teria-incentivado-adolescente-a-agredi-la#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 23:55:36",
+      "title": "Restos mortais de 23 pessoas exumados de três valas comuns no Kosovo",
+      "link": "https://www.noticiasaominuto.com/mundo/3038905/restos-mortais-de-23-pessoas-exumados-de-tres-valas-comuns-no-kosovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 06:31:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f63316f11b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NzQsImNyb3BIZWlnaHQiOjI2NywiY3JvcFgiOjEzNSwiY3JvcFkiOjU4fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6213b5127565a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk1NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Incêndio que deflagrou em Torre de Moncorvo dominado desde as 21h50",
-      "link": "https://www.noticiasaominuto.com/pais/3038884/incendio-que-deflagrou-em-torre-de-moncorvo-dominado-desde-as-21h50#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-19 23:44:59",
+      "title": "Bombardeamentos russos deixam seis mortos na região de Kyiv",
+      "link": "https://www.noticiasaominuto.com/mundo/3038914/bombardeamentos-russos-deixam-seis-mortos-na-regiao-de-kyiv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 06:31:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e773690.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a132e9d72d62.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDczLCJjcm9wSGVpZ2h0IjoxMzkxLCJjcm9wWCI6NDgsImNyb3BZIjoyMTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc2NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
