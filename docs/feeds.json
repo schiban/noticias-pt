@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:06:41.543944+00:00",
+  "updated": "2026-08-20T05:03:30.216018+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "5h Príncipe Harry e Meghan Markle vão voltar para o Reino Unido",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-principe-harry-e-meghan-markle-vao-voltar-para-o-reino-unido_a1_1760509",
+      "pubDate": "Thu, 20 Aug 2026 06:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "4h Ventura diz estar pronto para governar mas não quer crise",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ventura-diz-estar-pronto-para-governar-mas-nao-quer-crise_a1_1760504",
       "pubDate": "Thu, 20 Aug 2026 05:17:02 +0100",
@@ -88,16 +98,6 @@
       "title": "01h André Ventura diz que está pronto para governar",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-andre-ventura-diz-que-esta-pronto-para-governar_a1_1760492",
       "pubDate": "Thu, 20 Aug 2026 02:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Cisjordânia: Palestinianos detidos e marcados com números",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-cisjordania-palestinianos-detidos-e-marcados-com-numeros_a1_1760488",
-      "pubDate": "Thu, 20 Aug 2026 01:25:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
