@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-20T01:00:12.969526+00:00",
+  "updated": "2026-08-20T02:19:36.765444+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2411/",
+      "pubDate": "Thu, 20 Aug 2026 03:13:02 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2385/",
+      "pubDate": "Thu, 20 Aug 2026 02:12:17 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -30,26 +50,6 @@
       "pubDate": "Thu, 20 Aug 2026 00:24:27 +0100",
       "description": "Dois episódios esfregam nos nossos narizes uma catástrofe: as academias ocidentais estão pior que estragadas.",
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2396/",
-      "pubDate": "Thu, 20 Aug 2026 00:23:21 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Segues esta conta desde que est@ gaj@ pediu para te seguir",
-      "link": "https://observador.pt/opiniao/segues-esta-conta-desde-que-est-gaj-pediu-para-te-seguir/",
-      "pubDate": "Thu, 20 Aug 2026 00:23:14 +0100",
-      "description": "Deixar de seguir, fazer “unfollow” ou “dessubscrever” podem ser dos mais lúcidos gestos contemporâneos, mas aplicam-se como defesa do cidadão inundado por coisas que não subscreveu",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg"
     },
     {
       "sourceId": "rtp",
