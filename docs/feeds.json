@@ -1,11 +1,31 @@
 {
-  "updated": "2026-08-20T20:24:55.178304+00:00",
+  "updated": "2026-08-20T20:55:35.212613+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Mapa verde limitado a 1% da área de 147 municípios",
+      "title": "Diretor de compras da defesa ucraniana apresenta demissão",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/diretor-de-compras-da-defesa-ucraniana-apresenta-demissao/",
+      "pubDate": "Thu, 20 Aug 2026 21:51:29 +0100",
+      "description": "De acordo com o jornal The Kyiv Independent, o responsável máximo pela agência de compras de defesa da Ucrânia, Arsen Zhumadilov, anunciou hoje a sua demissão antecipada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Voyah apanhada a ser criativa na manobra Schumacher",
+      "link": "https://observador.pt/2026/08/20/chineses-da-voyah-apanhados-a-ser-criativos-na-manobra-schumacher/",
+      "pubDate": "Thu, 20 Aug 2026 21:28:57 +0100",
+      "description": "O construtor chinês Voyah publicou um vídeo promocional em que era possível ver um dos seus modelos recriar a manobra Schumacher, um \"loop\" de 360º num túnel. Mas houve acidentes e (alguns) calafrios.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20195704/voyah-passion-s-360-degree-tunnel-loop-stunt-screenshot.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mapa das renováveis limitado a 1% da área de 147 municípios",
       "link": "https://observador.pt/2026/08/20/mapa-verde-para-acelerar-renovaveis-limitado-a-1-do-territorio-de-147-municipios/",
       "pubDate": "Thu, 20 Aug 2026 21:16:36 +0100",
       "description": "Programa de aceleração de energias renováveis identifica 147 municípios aptos a receber novos projetos solares e eólicos. Mas fixa em 1% do território de cada um deles a área a ocupar pelas centrais.",
@@ -15,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "21h. Revisão Constituição. PS quer pré-acordo com PSD",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1734/",
       "pubDate": "Thu, 20 Aug 2026 21:03:07 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Pedido feito para garantir que uma eventual revisão constitucional não seja feita somente à direita. Ainda, terramoto de magnitude 6,7 atingiu a cordilheira dos Andes, no sul do Peru.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,74 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/25152001/36912018.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Madeira reforça serviço de saúde com 45 milhões de euros",
-      "link": "https://observador.pt/2026/08/20/governo-da-madeira-reforca-capital-do-servico-regional-de-saude-com-45-milhoes-de-euros/",
-      "pubDate": "Thu, 20 Aug 2026 21:00:10 +0100",
-      "description": "O Governo da Madeira aprovou o reforço do Serviço de Saúde da Região Autónoma da Madeira em 45 milhões de euros. Na mesma reunião foram ainda aprovados contratos-programa para a educação e desporto.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/01/31210947/30542358.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Irão: pressão dos EUA é ato de \"terrorismo económico\"",
-      "link": "https://observador.pt/2026/08/20/teerao-considera-pressao-dos-eua-como-ato-de-terrorismo-economico/",
-      "pubDate": "Thu, 20 Aug 2026 20:59:16 +0100",
-      "description": "Teerão respondeu ao \"Dia D\" económico de Trump com linguagem dura. Bessent avisou aliados: quem não apoiar as sanções está \"contra Washington\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:199/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20190530/47630811.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Rabo de Peixe. Agentes da PSP atacados enquanto cumpriam mandados de busca",
+      "link": "https://www.rtp.pt/noticias/pais/rabo-de-peixe-agentes-da-psp-atacados-enquanto-cumpriam-mandados-de-busca_n1760683",
+      "pubDate": "Thu, 20 Aug 2026 22:44:14 +0100",
+      "description": "Vários agentes da PSP foram atacados enquanto cumpriam mandados de busca em Rabo de Peixe, nos Açores.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ea/ea2ce5c260b8ca14549de2c09f23168e?w=350&amp;q=50&amp;rect=51,0,943,517&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Golfista Daniel Rodrigues começa Nexo Championship entre os 62.ºs classificados",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/golfista-daniel-rodrigues-comeca-nexo-championship-entre-os-62os-classificados_d1760666",
-      "pubDate": "Thu, 20 Aug 2026 21:57:35 +0100",
-      "description": "O golfista português Daniel Rodrigues terminou hoje no grupo dos 62.ºs classificados a primeira volta do Nexo Championship, prova do DP World Tour, na Escócia, enquanto o compatriota Ricardo Melo Gouveia está entre os 120.ºs.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Procissão do Mar. Milhares de fiéis assistem nas margens do rio Lima",
+      "link": "https://www.rtp.pt/noticias/pais/procissao-do-mar-milhares-de-fieis-assistem-nas-margens-do-rio-lima_v1760681",
+      "pubDate": "Thu, 20 Aug 2026 22:40:47 +0100",
+      "description": "A Romaria d&#039;Agonia vive o dia mais forte em Viana do Castelo. A tradicional procissão ao mar junta milhares de fiéis nas margens do rio Lima.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6d/6de2be6d5923d3e41f39857fee2b04f3_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Tenista espanhol Carlos Alcaraz regressa no Open dos Estados Unidos",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/tenista-espanhol-carlos-alcaraz-regressa-no-open-dos-estados-unidos_d1760665",
-      "pubDate": "Thu, 20 Aug 2026 21:54:41 +0100",
-      "description": "O tenista espanhol Carlos Alcaraz, segundo do ranking mundial, anunciou hoje que jogará o Open dos Estados Unidos, quarto Grand Slam do ano, que se disputa de 30 de agosto a 13 de setembro, em Nova Iorque.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/2789457eef57cfb34d38a53819a756b1?w=350&amp;q=50&amp;rect=0,166,4759,2609&amp;auto=format"
+      "title": "Torre de Moncorvo. Incêndio entrou em resolução ao fim de quatro dias",
+      "link": "https://www.rtp.pt/noticias/pais/torre-de-moncorvo-incendio-entrou-em-resolucao-ao-fim-de-quatro-dias_v1760674",
+      "pubDate": "Thu, 20 Aug 2026 22:29:47 +0100",
+      "description": "O incêndio que durou cinco dias em Torre de Moncorvo entrou em resolução.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/dc/dc83d88d0ca5e4a9f4a1e743b4bba0c3_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Anderlecht, de Vítor Bruno, aproxima-se do play-off com vitória sobre Kairat",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/anderlecht-de-vitor-bruno-aproxima-se-do-play-off-com-vitoria-sobre-kairat_d1760663",
-      "pubDate": "Thu, 20 Aug 2026 21:24:02 +0100",
-      "description": "O Anderlecht, treinado pelo português Vítor Bruno, aproximou-se hoje da fase de liga da Liga Europa de futebol, ao vencer fora o Kairat Almaty (3-0), na primeira mão do play-off.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Arouca. Bombeiros dominaram as chamas após três dias de incêndio",
+      "link": "https://www.rtp.pt/noticias/pais/arouca-bombeiros-dominaram-as-chamas-apos-tres-dias-de-incendio_v1760673",
+      "pubDate": "Thu, 20 Aug 2026 22:28:47 +0100",
+      "description": "O incêndio em Arouca consumiu 1300 hectares. Nenhuma casa foi afetada, mas sete aldeias chegaram a estar em risco.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e8/e86bb5b450ae710c64801fff071d4df3_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Portugal vence Egito em teste para qualificação para o Mundial de basquetebol",
-      "link": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vence-egito-em-teste-para-qualificacao-para-o-mundial-de-basquetebol_d1760662",
-      "pubDate": "Thu, 20 Aug 2026 21:13:32 +0100",
-      "description": "A seleção portuguesa de basquetebol venceu hoje o Egito por 91-87, no primeiro de dois particulares que vai realizar em Istambul, na Turquia, de preparação para o arranque da segunda fase de qualificação para o Mundial de 2027.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8ac9b14ae8126f09494fcba4ae7c498e?w=350&amp;q=50&amp;rect=13,0,2023,1109&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trezza orgulhoso pelos 100 jogos ao serviço do Arouca",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/trezza-orgulhoso-pelos-100-jogos-ao-servico-do-arouca_d1760660",
-      "pubDate": "Thu, 20 Aug 2026 20:53:05 +0100",
-      "description": "O futebolista ítalo-uruguaio Alfonso Trezza assumiu hoje o orgulho por atingir os 100 jogos pelo Arouca, clube que representa pela quarta temporada consecutiva, garantindo que ainda tem muito para dar.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Mais de 80 pessoas morreram em acidentes de trabalho desde o início do ano",
+      "link": "https://www.rtp.pt/noticias/pais/mais-de-80-pessoas-morreram-em-acidentes-de-trabalho-desde-o-inicio-do-ano_v1760671",
+      "pubDate": "Thu, 20 Aug 2026 22:26:47 +0100",
+      "description": "O número de mortes em trabalho atingiu o valor mais alto dos últimos 10 anos. Este ano já morrem 81 pessoas, com o maior número de casos a ocorrer no setor da construção civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/83/8333833c0dd2c308fab2a04542915648_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,51 +155,81 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Das contas individuais às reformas antecipadas. Nove respostas sobre o polémico relatório sobre Segurança Social",
-      "link": "https://eco.sapo.pt/descodificador/das-contas-individuais-as-reformas-antecipadas-nove-respostas-sobre-o-polemico-relatorio-sobre-seguranca-social/",
-      "pubDate": "Thu, 20 Aug 2026 16:25:25 +0000",
-      "description": "Ano e meio após ter sido criado, grupo de trabalho para a reforma da Segurança Social apresentou um relatório onde desfaz a \"ilusão\" dos excedentes do sistema. O ECO sistematiza-o, em nove respostas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ASM3ZF1gB3bGhYGhLaommGwW7cns9%2FvEnr9D1VKFAxzfOQkCgxMGywx5BLL19mlRkAgOWu5%2By9J%2B7DnlFrUshEpbjzg3XD0kyAHpYCAz4oAbWKCJNlnp99esepgiWm7nM"
+      "title": "Irão desvaloriza ameaças económicas de Trump",
+      "link": "https://sapo.pt/artigo/irao-desvaloriza-ameacas-economicas-de-trump-6a8742b271773bd5d1592e26",
+      "pubDate": "Thu, 20 Aug 2026 20:36:13 +0000",
+      "description": "Scott Bessent acredita que pressão económica diminui hipótese de um conflito em grande escala no Médio Oriente.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AKR5C7ndN6pRmsj4GYbU9Yqhvt37HmqQTkFB1EFlpoYoyZ0Gu%2B06ArujnKg9Ey7Y614pp9tIFP91AvDTZTYnQjxGofAqZPXcXeznejll%2B6DSBTjcfXq4fSH0tLNduDnMg"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Depressão \"pouco habitual\" em agosto pode trazer chuva persistente e vento forte no domingo",
-      "link": "https://sapo.pt/artigo/depressao-pouco-habitual-em-agosto-pode-trazer-chuva-persistente-e-vento-forte-no-domingo-6a8713ebe58eb3a3e6386827",
-      "pubDate": "Thu, 20 Aug 2026 15:12:12 +0000",
-      "description": "Uma depressão com características típicas de outono pode afetar Portugal Continental a partir de domingo, trazendo chuva persistente, vento forte e agitação marítima. O IPMA está a monitorizar a situação, prevendo impactos maiores no norte e...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A1PZjM74MyhCgWfBLRh%2B6MO3vh8PhgJEsmUPk4abdKwG3lvaNViJmLd1ns5%2BsJH48nD9kZHNzihXOQ0s2pVr25quVlsO25HtDcsOjEbNn1DunhkJimIPrXd9hNOgFYhuf"
+      "title": "Governo saúda disponibilidade \"sincera e responsável\" do PS para discutir viabilização do OE",
+      "link": "https://sapo.pt/artigo/governo-sauda-disponibilidade-sincera-e-responsavel-do-ps-para-discutir-viabilizacao-do-oe-6a87384071773bd5d157dff4",
+      "pubDate": "Thu, 20 Aug 2026 20:36:13 +0000",
+      "description": "António Leitão Amaro assegura que haverá diálogo com os partidos antes da entrega da proposta orçamental para 2027, sobretudo com os partidos que o poderão viabilizar, ou seja, Chega e PS.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AtTxv%2F71MgO8c6CvvD80tGvMM%2BILtLKmTsJxXk7%2FCaLufDCFUY8pVww9bcT1hSgD57vm7YrliayLEYv5dRCuot%2F3aMxRea5vbJA1hcli0w%2FlSfyKCLCFIsUsiFxtkC%2FT2"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão avisa que usará armas mais destrutivas se a guerra recomeçar",
-      "link": "https://eco.sapo.pt/2026/08/20/irao-avisa-que-usara-armas-mais-destrutivas-se-a-guerra-recomecar/",
-      "pubDate": "Thu, 20 Aug 2026 17:59:35 +0000",
-      "description": "A Guarda Revolucionária do Irão avisou que usará mísseis com maior poder destrutivo \"completamente diferentes das do passado em todos os aspetos\" se a guerra intensificar na região do golfo Pérsico.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AQ1i3WJsOVAfQ200qew7N%2BAEj9XGnMnl3tq9H%2Bp35NeON9QkLeXI7j%2Fi%2BtwEefyrRnInKAkQXz3%2BWSk14Sac1SnksGKo8HxKU9VvOyfyjrUqKTtcUnKrRH5RqzAXMwTVn"
+      "title": "Benfica inaugura 50 novas habitações de renda acessível com investimento de quase 6 milhões de euros",
+      "link": "https://jornaleconomico.sapo.pt/noticias/benfica-inaugura-50-novas-habitacoes-de-renda-acessivel-com-investimento-de-quase-6-milhoes-de-euros/",
+      "pubDate": "Thu, 20 Aug 2026 20:36:13 +0000",
+      "description": "O novo edifício representa um investimento de quase seis milhões de euros, integralmente financiado pelo Plano de Recuperação e Resiliência (PRR), através do Programa 1.º Direito. O projeto insere-se na estratégia da Junta de Freguesia para...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3At8j8pxwMu%2FM5J1AS2vXr%2BIVz3C9R69L7ddrN8H8g1vZWVHGlURm4MHXo2mqZFD7CUjxysYBvBi%2Fjhszkegq6%2B3S%2BemheKgBr%2FX4wdnMPP6GB3Jpk1uYdjsaBZFU2%2Bzdb"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Trump não vai a lado nenhum sem ela, nem em fugas secretas. Quem é Natalie Harp?",
-      "link": "https://sapo.pt/artigo/trump-nao-vai-a-lado-nenhum-sem-ela-nem-em-fugas-secretas-quem-e-natalie-harp-6a872d3671773bd5d156adb5",
-      "pubDate": "Thu, 20 Aug 2026 17:59:35 +0000",
-      "description": "É uma das pessoas que mais tempo passa ao lado de Donald Trump e uma das poucas com acesso direto ao Presidente nos momentos de maior tensão. Natalie Harp tornou-se uma presença constante na Casa Branca, mas só agora começa a sair das sombras....",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AMVNDUaWsJyfnz8TzyXbr0HRehPweqqpW7xfRE9ubLafCG8l26vG8g7O%2F%2FXtXU8CBSpAbP0t9D6tTnTaWYx5B%2BYP853EYgB3OICZ5AksZtTrY8vFjI5t%2FovUMIHk5j1pn"
+      "title": "Líder de Ceuta: ”A este ritmo os migrantes não vão sair nem daqui a um ano”",
+      "link": "https://sapo.pt/artigo/lider-de-ceuta-a-este-ritmo-os-migrantes-nao-vao-sair-nem-daqui-a-um-ano-6a875630d0cbd78bc7322801",
+      "pubDate": "Thu, 20 Aug 2026 20:36:13 +0000",
+      "description": "Juan Jesús Vivas pede “recursos suficientes” para agilizar as expulsões. Cerca de 500 migrantes que tinham sido realojados voltaram ao acampamento da praia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AELgez%2BkxZ59HgPpM4a%2FABMhCe8Lg2dKO8SH8RsJaz6oZ2DL7CJBeIjNREWf5xlb0HMkn07VHvWAxfOO0vBjCNbOae3H3M4BAAL1B%2BsznMKm%2BAsk%2BK0Ajt54PJauWew3Y"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Sismo de magnitude 7,2 sacode região andina de Ayacucho, no sul do Peru",
-      "link": "https://sapo.pt/artigo/sismo-de-magnitude-7-2-sacode-regiao-andina-de-ayacucho-no-sul-do-peru-6a8751b79b79793efae8dd0c",
-      "pubDate": "Thu, 20 Aug 2026 19:50:00 +0000",
-      "description": "Epicentro se localizou 35 quilómetros a norte da cidade de Coracora, situada a cerca de 650 quilómetros a sul da capital peruana, Lima, onde também foi sentido o abalo, embora de forma leve.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=392&W=696&crop=center&delay_optim=1&epic=V2%3AzIXK9nxacyO5t5P5jgMS8lnlZ3ilMOq9aS40aylGmI0B3P6iWATyclEJx4EgHoSqQ3xbJk%2F%2BBE8XrAjAeL5SwsI775oA2GXwvQIXbJqB9wxawB%2By5JKfPma9Gdb1v%2Fmu"
+      "title": "Petróleo soma e segue com guerra a aquecer",
+      "link": "https://sapo.pt/artigo/petroleo-soma-e-segue-com-guerra-a-aquecer-6a87491671773bd5d15a0783",
+      "pubDate": "Thu, 20 Aug 2026 20:36:13 +0000",
+      "description": "O preço do Brent crude subia mais de 3% na terça-feira e tocou os 94 dólares por barril, em linha com o ouro, que alcançou máximos de três meses, ao mesmo tempo que o dólar recua.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AIJGz7WNcghcfWEy5Ann8hWE3JicszyoATirC7sX%2B%2BAJUCSK5L5RMJgNpAT7b41P6Z9K1qRm%2BS%2BViQ5i5FJ8dd3lL21ExqGSW7XG9agGq%2FVCXjFiqme6wQeHkg7GXlItw"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Menina de 4 anos morre afogada em piscina em Vila Real",
+      "link": "https://www.noticiasaominuto.com/pais/3039374/menina-de-4-anos-morre-afogada-em-piscina-em-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 21:44:16",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6916612d9b428.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYxMiwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Três dos quatro bombeiros feridos em Arouca estão em estado crítico",
+      "link": "https://www.noticiasaominuto.com/pais/3039372/tres-dos-quatro-bombeiros-feridos-em-arouca-estao-em-estado-critico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 21:37:36",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45404686.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Finlândia suspeita que avião russo tenha violado o seu espaço aéreo",
+      "link": "https://www.noticiasaominuto.com/mundo/3039369/finlandia-suspeita-que-aviao-russo-tenha-violado-o-seu-espaco-aereo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 21:27:59",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f3997a4c5f1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE2NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MjkyLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-20 21:08:08",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65f4049bcecc4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY3LCJjcm9wSGVpZ2h0IjoxMzg3LCJjcm9wWCI6NDgsImNyb3BZIjoyMzV9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Vénus opõe-se a Saturno. 4 signos vão atrair abundância e sorte amanhã!",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3039312/venus-opoe-se-a-saturno-4-signos-vao-atrair-abundancia-e-sorte-amanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 21:06:25",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a873c663f49d.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg4MCwiY3JvcEhlaWdodCI6MTU2NCwiY3JvcFgiOjEzNDAsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Temos a solução para uma das maiores frustrações do Google Maps",
-      "link": "https://www.noticiasaominuto.com/tech/3039200/temos-a-solucao-para-uma-das-maiores-frustracoes-do-google-maps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 21:02:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a871326806dd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTIsImNyb3BZIjoyMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MiwiY3JvcEhlaWdodCI6MTY3NSwiY3JvcFgiOjU1NCwiY3JvcFkiOjE2fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "\"Reencarnação não é prova\": Ouro de 9 milhões gera insólito na Bélgica",
-      "link": "https://www.noticiasaominuto.com/mundo/3039357/dono-procura-se-adolescente-encontra-tesouro-de-ouro-perdido-na-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:51:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8755413f52b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjAxLCJjcm9wSGVpZ2h0Ijo2NzYsImNyb3BYIjowLCJjcm9wWSI6MTcyfX0="
     },
     {
       "sourceId": "pplware",
