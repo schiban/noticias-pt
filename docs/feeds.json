@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-20T19:27:15.678218+00:00",
+  "updated": "2026-08-20T19:55:52.068657+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Revisão Constitucional é condição para o OE?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/revisao-constitucional-e-condicao-para-o-oe/",
+      "pubDate": "Thu, 20 Aug 2026 20:39:28 +0100",
+      "description": "Exigência de um pré-acordo é vista como artifício para justificar viabilização orçamental. A rentrée política trouxe a promessa de baixar a idade da reforma: é uma proposta viável ou medida populista?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Governo: mais 3,5 milhões para danos em zona ribeirinhas",
-      "link": "https://observador.pt/2026/08/20/governo-aprova-mais-35-milhoes-de-euros-para-danos-em-zonas-ribeirinhas-e-costeiras/",
-      "pubDate": "Thu, 20 Aug 2026 19:46:44 +0100",
-      "description": "Governo aprova mais verbas e alarga o número de concelhos apoiados na sequência do \"comboio de tempestades\" de janeiro e fevereiro, que causou pelo menos 19 mortos e centenas de feridos e desalojados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/05170249/jporfirio-tempestade-leonardo-alcacer-do-sal-05-02-03-4-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tenista espanhol Carlos Alcaraz regressa no Open dos Estados Unidos",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/tenista-espanhol-carlos-alcaraz-regressa-no-open-dos-estados-unidos_d1760665",
+      "pubDate": "Thu, 20 Aug 2026 21:54:41 +0100",
+      "description": "O tenista espanhol Carlos Alcaraz, segundo do ranking mundial, anunciou hoje que jogará o Open dos Estados Unidos, quarto Grand Slam do ano, que se disputa de 30 de agosto a 13 de setembro, em Nova Iorque.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/2789457eef57cfb34d38a53819a756b1?w=350&amp;q=50&amp;rect=0,166,4759,2609&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e374cf939faa2e05714e257df6f704c7?w=350&amp;q=50&amp;rect=0,46,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Fragatas. Empresa NTGroup esclarece participação no negócio",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-fragatas-empresa-ntgroup-esclarece-participacao-no-negocio_a1_1760658",
-      "pubDate": "Thu, 20 Aug 2026 20:51:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Thu, 20 Aug 2026 20:52:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a85f514d34e511da0b3432c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Manuel Mendonça deixa o Sporting e assina com o Moreirense",
+      "link": "https://maisfutebol.iol.pt/liga/sporting/oficial-manuel-mendonca-deixa-o-sporting-e-assina-com-o-moreirense",
+      "pubDate": "Thu, 20 Aug 2026 20:50:06 +0100",
+      "description": "Médio assina contrato até 2030",
+      "thumbnail": "https://img.iol.pt/image/id/6a875a4ed34e511da0b3459f/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Liga Europa: duelo de portugueses termina empatado, Salah perde na estreia a titular",
+      "link": "https://maisfutebol.iol.pt/liga-europa/made-in/liga-europa-duelo-de-portugueses-termina-empatado-salah-perde-na-estreia-a-titular",
+      "pubDate": "Thu, 20 Aug 2026 20:34:49 +0100",
+      "description": "Universitatea Craiova, orientado por Filipe Coelho, e o Ararat, de Tulipa, empataram por 1-1 e adiam as decisões para a segunda mão",
+      "thumbnail": "https://img.iol.pt/image/id/6a0a1bf9d34edcee7c6441e0/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Thu, 20 Aug 2026 19:57:00 +0100",
       "description": "Anúncio do jogo inaugural feito pela FIFA esta quinta-feira, depois de, em maio, já ter sido conhecido o palco do jogo decisivo",
       "thumbnail": "https://img.iol.pt/image/id/691b6e6ed34e2bd5c6d41bc1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Seleção da Argélia faz contacto por Paulo Bento, mas ainda sem acordo",
-      "link": "https://maisfutebol.iol.pt/mercado/argelia/selecao-da-argelia-faz-contacto-por-paulo-bento-mas-ainda-sem-oferta",
-      "pubDate": "Thu, 20 Aug 2026 19:15:00 +0100",
-      "description": "Antigo selecionador de Portugal nem sequer recebeu uma proposta oficial dos argelinos",
-      "thumbnail": "https://img.iol.pt/image/id/6668d089d34e04989221d762/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga Europa: Vítor Bruno vence e fica com um pé na fase de liga",
-      "link": "https://maisfutebol.iol.pt/liga-europa/vitor-bruno/liga-europa-vitor-bruno-vence-e-fica-com-um-pe-na-fase-de-liga",
-      "pubDate": "Thu, 20 Aug 2026 19:06:01 +0100",
-      "description": "Anderlecht bateu o Kairat Almaty por 3-0 na primeira mão do play-off. Rodrigo Conceição também esteve em destaque na vitória do Jagiellonia",
-      "thumbnail": "https://img.iol.pt/image/id/6a81cc4ed34ed0733ba801a8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Quatro mexidas e Navarro na vaga de Horta: os onzes do Sp. Braga-Áustria Viena",
-      "link": "https://maisfutebol.iol.pt/liga-conferencia/sp-braga/quatro-mexidas-e-navarro-na-vaga-de-horta-os-onzes-do-sp-braga-austria-viena",
-      "pubDate": "Thu, 20 Aug 2026 19:05:14 +0100",
-      "description": "A primeira mão do play-off de acesso à Liga Conferência arranca às 20h00, no Minho",
-      "thumbnail": "https://img.iol.pt/image/id/688be502d34e3f0baea12b02/250"
     },
     {
       "sourceId": "sapo",
@@ -195,61 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Confira os onzes do Benfica-Aarhus do play-off da Liga Europa",
-      "link": "https://sapo.pt/artigo/confira-os-onzes-do-benfica-aarhus-do-play-off-da-liga-europa-6a873f519b79793efae6cd56",
-      "pubDate": "Thu, 20 Aug 2026 17:59:35 +0000",
-      "description": "O Benfica recebe esta quinta-feira (20h00) o Aarhus na primeira mão do play-off de acesso à Liga Europa",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AYl0cWeZQNmyS8k%2B%2F81xzeldNmgj4N1zX%2BUJUuppPmm8wZCWSE9tqpU%2F%2F%2FkfrmDghl9Nj2UZfBZNTwhZ3yI%2F5U2dCx0cPEGRfYl8%2Bfaxk3SLxbVedWfGW2MrNxNksAfo%2B"
+      "title": "Sismo de magnitude 7,2 sacode região andina de Ayacucho, no sul do Peru",
+      "link": "https://sapo.pt/artigo/sismo-de-magnitude-7-2-sacode-regiao-andina-de-ayacucho-no-sul-do-peru-6a8751b79b79793efae8dd0c",
+      "pubDate": "Thu, 20 Aug 2026 19:50:00 +0000",
+      "description": "Epicentro se localizou 35 quilómetros a norte da cidade de Coracora, situada a cerca de 650 quilómetros a sul da capital peruana, Lima, onde também foi sentido o abalo, embora de forma leve.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=392&W=696&crop=center&delay_optim=1&epic=V2%3AzIXK9nxacyO5t5P5jgMS8lnlZ3ilMOq9aS40aylGmI0B3P6iWATyclEJx4EgHoSqQ3xbJk%2F%2BBE8XrAjAeL5SwsI775oA2GXwvQIXbJqB9wxawB%2By5JKfPma9Gdb1v%2Fmu"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Anderlecht, de Vítor Bruno, vence Kairat e aproxima-se da fase de liga",
-      "link": "https://www.noticiasaominuto.com/desporto/3039351/anderlecht-de-vitor-bruno-vence-kairat-e-aproxima-se-da-fase-de-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:19:29",
+      "title": "Dono procura-se: Adolescente encontra tesouro de ouro perdido na Bélgica",
+      "link": "https://www.noticiasaominuto.com/mundo/3039357/dono-procura-se-adolescente-encontra-tesouro-de-ouro-perdido-na-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 20:51:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8752f7c2380.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8755413f52b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Compra da REN 17% acima do mercado? Governo justifica prémio",
-      "link": "https://www.noticiasaominuto.com/economia/3039295/compra-da-ren-17-acima-do-mercado-governo-justifica-premio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:15:52",
+      "title": "Trump ameaça parceiros do Irão. Quem mantém negócios com Teerão?",
+      "link": "https://www.noticiasaominuto.com/mundo/3039301/trump-ameaca-parceiros-do-irao-quem-mantem-negocios-com-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 20:49:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5657508375855.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MTQ3LCJjcm9wSGVpZ2h0IjoyMzMzLCJjcm9wWCI6MTAzNywiY3JvcFkiOjExMjR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8759f539f62.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjM0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MzIwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governo abre caminho a linha de montagem dos Super Tucano em Beja",
-      "link": "https://www.noticiasaominuto.com/pais/3039317/governo-abre-caminho-a-linha-de-montagem-dos-super-tucano-em-beja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:12:43",
+      "title": "Apelo a eleições antes do fim da guerra gera críticas na Ucrânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3039328/apelo-a-eleicoes-antes-do-fim-da-guerra-gera-criticas-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 20:44:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a875198499aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwNn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6442ef6763fd6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDEzLCJjcm9wSGVpZ2h0IjoxMzU3LCJjcm9wWCI6MywiY3JvcFkiOjMxfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Reclamações sobre carros elétricos sobem em flecha em Portugal",
-      "link": "https://www.noticiasaominuto.com/auto/3039125/reclamacoes-sobre-carros-eletricos-sobem-em-flecha-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:12:29",
+      "title": "Rutura pode deixar várias zonas de Vila do Bispo sem água",
+      "link": "https://www.noticiasaominuto.com/pais/3039360/rutura-pode-deixar-varias-zonas-de-vila-do-bispo-sem-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 20:40:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a86fb76319d2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY3NCwiY3JvcEhlaWdodCI6MTE5OSwiY3JvcFgiOjYyMiwiY3JvcFkiOjc3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_591ef7c6bc60d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "E esta? Ronaldinho Gaúcho aterra Itália... para voltar a jogar futebol",
-      "link": "https://www.noticiasaominuto.com/desporto/3039348/e-esta-ronaldinho-gaucho-aterra-italia-para-voltar-a-jogar-futebol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-20 20:11:59",
+      "title": "Mercado nacional absorve madeira retirada após tempestade Kristin",
+      "link": "https://www.noticiasaominuto.com/pais/3039311/mercado-nacional-absorve-madeira-retirada-apos-tempestade-kristin#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-20 20:39:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a87512911029.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69219e3f60afc.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Não vale a pena estar quatro anos na faculdade, diz criador do ChatGPT",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/nao-vale-a-pena-estar-quatro-anos-na-faculdade-diz-criador-do-chatgpt/",
+      "pubDate": "Thu, 20 Aug 2026 19:30:35 +0000",
+      "description": "O diretor-executivo da OpenAI, a empresa responsável pelo ChatGPT, defende que dois anos de universidade podem ser suficientes para a maioria das pessoas, e explica porque é que, no seu caso, foram &#8220;a quantidade&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/sam-altman-openai-chatgpt-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Thu, 20 Aug 2026 15:59:06 +0000",
       "description": "A tecnologia de mRNA poderá estar prestes a dar um dos seus maiores saltos desde as vacinas contra a COVID-19. Desta vez, o alvo é o cancro e os primeiros resultados de fase 3&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/mrna_cancro00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Médicos alertam para os danos físicos do smartphone. Esteja atento aos sinais!",
-      "link": "https://pplware.sapo.pt/ciencia/medicos-alertam-para-os-danos-fisicos-do-smartphone-esteja-atento-aos-sinais/",
-      "pubDate": "Thu, 20 Aug 2026 15:00:50 +0000",
-      "description": "Já sabemos que os ecrãs roubam horas de sono e de atenção. Contudo, há um outro custo, menos falado, que os médicos começam agora a documentar com mais detalhe: o impacto físico direto de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/jovem_telefone_smartphone-1.jpg"
     },
     {
       "sourceId": "autosport",
