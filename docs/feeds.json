@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-21T19:22:29.112394+00:00",
+  "updated": "2026-08-21T19:46:47.640054+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 20h",
+      "title": "Estudo sobre segurança social vai ficar fechado no baú?",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/estudo-sobre-seguranca-social-vai-ficar-fechado-no-bau/",
+      "pubDate": "Fri, 21 Aug 2026 20:12:38 +0100",
+      "description": "O executivo prefere ignorar as propostas para a segurança social nesta legislatura. A polémica sobre viaturas de serviço e a falta de escolta do MAI levanta dúvidas sobre a autoridade governativa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "20h MAI. Adalberto Campos Fernandes admite desconforto do PR",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2032/",
       "pubDate": "Fri, 21 Aug 2026 20:11:42 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Coordenador do pacto para a saúde de Seguro assume que desconforto é evidente. Ainda nesta edição, quase 50 mil estudantes colocados na primeira fase de acesso ao ensino superior.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/07/10220804/19374782.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PCP: caso Luís Neves é \"problema do Governo todo\"",
-      "link": "https://observador.pt/2026/08/21/pcp-diz-que-caso-de-luis-neves-ja-nao-responsabiliza-so-o-ministro-e-um-problema-do-governo-todo/",
-      "pubDate": "Fri, 21 Aug 2026 19:55:41 +0100",
-      "description": "Paulo Raimundo recusa pedir demissão do ministro, mas avisa: com Montenegro, o ministro das Infraestruturas e a ministra da Saúde também em causa, \"não sobra ninguém\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20213522/47297080.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "\"Ministro já não existe\". Ventura pede a demissão de Luís Neves",
+      "link": "https://www.rtp.pt/noticias/politica/ministro-ja-nao-existe-ventura-pede-a-demissao-de-luis-neves_v1760874",
+      "pubDate": "Fri, 21 Aug 2026 21:44:47 +0100",
+      "description": "André Ventura acredita que o ministro da Administração Interna está sem autoridade política e pede ao primeiro-ministro para agir.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/0c/0cf3e1e0e5e0e354879717056b8df7d2_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministro da Agricultura anunciou mais 20 milhões de euros de apoios",
+      "link": "https://www.rtp.pt/noticias/politica/ministro-da-agricultura-anunciou-mais-20-milhoes-de-euros-de-apoios_v1760871",
+      "pubDate": "Fri, 21 Aug 2026 21:36:47 +0100",
+      "description": "Os agricultores do Vale do Sousa pediram mais apoios ao Governo para fazer face ao aumento dos custos de produção.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/05/05e74f34474e9a876c6ae3b7ee456673_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Combustíveis. Preços voltam a aumentar na próxima segunda-feira",
+      "link": "https://www.rtp.pt/noticias/economia/combustiveis-precos-voltam-a-aumentar-na-proxima-segunda-feira_v1760870",
+      "pubDate": "Fri, 21 Aug 2026 21:32:47 +0100",
+      "description": "Devido à subida do petróleo, os preços dos combustíveis vão voltar a aumentar na próxima segunda-feira.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6a/6a982b96aef29b286757de2144c2462c_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Exames nacionais. Professores ainda não receberam suplemento",
+      "link": "https://www.rtp.pt/noticias/pais/exames-nacionais-professores-ainda-nao-receberam-suplemento_v1760869",
+      "pubDate": "Fri, 21 Aug 2026 21:30:47 +0100",
+      "description": "Os professores ainda não receberam o suplemento por terem classificado exames nacionais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/f6/f66caf2c9545d2e1bfd4a6a5f8b2072d_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "João Félix e Cristiano Ronaldo marcam na vitória do Al Nassr frente ao Al Riyadh",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/joao-felix-e-cristiano-ronaldo-marcam-na-vitoria-do-al-nassr-frente-ao-al-riyadh_d1760865",
-      "pubDate": "Fri, 21 Aug 2026 21:06:56 +0100",
-      "description": "Os futebolistas internacionais portugueses João Félix e Cristiano Ronaldo, na estreia em 2026/27, marcaram hoje na vitória fora do campeão Al Nassr sobre o Al Riyadh (4-0), em jogo da segunda jornada do campeonato saudita.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/20/20c5b81bcf8c514888a81a82513cdc53?w=350&amp;q=50&amp;rect=0,68,2368,1298&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Euromilhões: a chave que vale 49 milhões de euros",
+      "link": "https://maisfutebol.iol.pt/euromilhoes/euromilhoes-hoje/euromilhoes-a-chave-que-vale-49-milhoes-de-euros",
+      "pubDate": "Fri, 21 Aug 2026 20:31:00 +0100",
+      "description": "Os números e as estrelas do sorteio desta sexta-feira",
+      "thumbnail": "https://img.iol.pt/image/id/627570b70cf2ea367d3a5627/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal bate Islândia em teste para qualificação do Eurobasket feminino",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/portugal-bate-islandia-em-teste-para-qualificacao-do-eurobasket-feminino_d1760864",
-      "pubDate": "Fri, 21 Aug 2026 21:04:57 +0100",
-      "description": "A seleção portuguesa feminina de basquetebol ganhou hoje à congénere da Islândia por 66-53, no primeiro de dois jogos de preparação para a segunda ronda de qualificação para o Eurobasket de 2027.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/78/7820bd73b0c8606fa1e20921746fc42b?w=350&amp;q=50&amp;rect=0,249,4288,2351&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Ensino Superior. Quase 50 mil colocados na primeira fase",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-ensino-superior-quase-50-mil-colocados-na-primeira-fase_a1_1760862",
-      "pubDate": "Fri, 21 Aug 2026 20:33:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h30 Derrota lusa no Europeu Feminino de Voleibol",
-      "link": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-derrota-lusa-no-europeu-feminino-de-voleibol_a1_1760858",
-      "pubDate": "Fri, 21 Aug 2026 19:56:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Curtis Jones reforça contingente inglês do Inter de Milão",
+      "link": "https://maisfutebol.iol.pt/transferencias/oficial/oficial-curtis-jones-reforca-contingente-ingles-do-inter-de-milao",
+      "pubDate": "Fri, 21 Aug 2026 20:22:00 +0100",
+      "description": "Médio deixa em definitivo o clube que o formou, o Liverpool",
+      "thumbnail": "https://img.iol.pt/image/id/6a88a52dd34ed0733ba810bd/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -117,7 +137,7 @@
       "color": "#4fc48a",
       "title": "II Liga: Benfica B resgata um ponto diante do Portimonense",
       "link": "https://maisfutebol.iol.pt/ii-liga/benfica-b/ii-liga-benfica-b-resgata-um-ponto-diante-do-portimonense",
-      "pubDate": "Fri, 21 Aug 2026 20:05:24 +0100",
+      "pubDate": "Fri, 21 Aug 2026 20:05:00 +0100",
       "description": "Tomás «Pastel» marcou o golo do empate para o encarnados aos 83 minutos",
       "thumbnail": "https://img.iol.pt/image/id/6a88a15bd34ed0733ba810b2/250"
     },
@@ -130,26 +150,6 @@
       "pubDate": "Fri, 21 Aug 2026 19:59:00 +0100",
       "description": "Philippe Clement, técnico do Norwich City, lamenta que o Championship não disponha dessa tecnologia",
       "thumbnail": "https://img.iol.pt/image/id/6a889fd2d34e511da0b3484c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Bruno Lage teve um momento de «guarda-redes» e acabou expulso",
-      "link": "https://maisfutebol.iol.pt/insolito/arabia-saudita/video-bruno-lage-teve-um-momento-de-guarda-redes-e-acabou-expulso",
-      "pubDate": "Fri, 21 Aug 2026 19:43:33 +0100",
-      "description": "Treinador português do Al Diriyah protagonizou um momento insólito na vitória por 1-0 sobre o Al Hazem",
-      "thumbnail": "https://img.iol.pt/image/id/68b48b85d34ef72ee449ff24/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Fórmula 1: Russell garante «pole» para a corrida sprint por 41 milésimas",
-      "link": "https://maisfutebol.iol.pt/modalidades/formula-1/formula-1-russell-garante-pole-para-a-corrida-sprint-por-41-milesimas",
-      "pubDate": "Fri, 21 Aug 2026 19:29:00 +0100",
-      "description": "Qualificação bastante disputada valeu primeiro lugar ao piloto da Mercedes",
-      "thumbnail": "https://img.iol.pt/image/id/6a88891bd34ed0733ba8106e/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"São tão fofos\". Rebeca Caldeira mostra a reação do marido à gravidez",
-      "link": "https://www.noticiasaominuto.com/fama/3039839/rebeca-caldeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 20:06:36",
+      "title": "Pelo menos uma pessoa morreu no ataque com espada em escola da Suécia",
+      "link": "https://www.noticiasaominuto.com/mundo/3039862/pelo-menos-uma-pessoa-morreu-no-ataque-com-espada-em-escola-na-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 20:35:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88a0846e821.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQxLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6OTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwODAsImNyb3BIZWlnaHQiOjE5MjAsImNyb3BYIjoyMTUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a887c98b761e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O Ferrari raro que vai acelerar em Portugal já em setembro",
-      "link": "https://www.noticiasaominuto.com/auto/3039574/o-ferrari-raro-que-vai-acelerar-em-portugal-ja-em-setembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 20:03:41",
+      "title": "Ciclista Julian Alaphilippe termina carreira aos 34 anos",
+      "link": "https://www.noticiasaominuto.com/desporto/3039860/ciclista-julian-alaphilippe-termina-carreira-aos-34-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 20:32:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8833de27cd8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47394386.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Navio Gilberto Mariano da Atlânticoline imobilizado após anomalia técnica",
-      "link": "https://www.noticiasaominuto.com/economia/3039841/navio-gilberto-mariano-da-atlanticoline-imobilizado-apos-anomalia-tecnica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 19:58:19",
+      "title": "Antes da chuva, 49 milhões na carteira? Confira a chave do Euromilhões",
+      "link": "https://www.noticiasaominuto.com/pais/3039849/antes-da-chuva-49-milhoes-na-carteira-confira-a-chave-do-euromilhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 20:27:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ac825a80e89.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5797d276262ce.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Organizações de ambiente querem plano de restauro da natureza mais claro",
-      "link": "https://www.noticiasaominuto.com/pais/3039837/organizacoes-de-ambiente-querem-plano-de-restauro-da-natureza-mais-claro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 19:57:37",
+      "title": "Sobe para 14 número de mortos em ataque contra terra natal de Zelensky",
+      "link": "https://www.noticiasaominuto.com/mundo/3039856/sobe-para-14-numero-de-mortos-em-ataque-contra-terra-natal-de-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 20:27:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_590c370384c86.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47636231.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMxMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTMzLCJjcm9wSGVpZ2h0IjoxNjU4LCJjcm9wWCI6MTYxNCwiY3JvcFkiOjg5fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governo aumenta desconto no ISP para gasóleo e gasolina",
-      "link": "https://www.noticiasaominuto.com/economia/3039848/governo-aumenta-desconto-no-isp-para-gasoleo-e-gasolina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 19:56:43",
+      "title": "Marozau deixa Arouca e ruma à Dinamarca",
+      "link": "https://www.noticiasaominuto.com/desporto/3039854/marozau-deixa-arouca-e-ruma-a-dinamarca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 20:25:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/39673153.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/43487873.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzMzIsImNyb3BZIjo0M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Office 2024 por 17,2€: o que mudou realmente desde o Office 2021?",
+      "link": "https://pplware.sapo.pt/zzpublicidade/office-2024-novidades-goodoffer24-17-2-euros/",
+      "pubDate": "Fri, 21 Aug 2026 19:30:10 +0000",
+      "description": "O Office 2024 não mudou apenas de nome e de aparência. Há funções novas no Excel, uma recuperação de sessão mais útil no Word e ferramentas adicionais no PowerPoint que, para quem vem do&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/21st-1-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 21 Aug 2026 16:00:47 +0000",
       "description": "E Porque Hoje é Sexta, neste verão de agosto, traz um cardápio de coisas boas, que não engordam. Comam, que está fresquinho o humor. Bom fim de semana e, se for o caso, boas&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/33-2.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Já pode ir escolhendo: o que se sabe sobre as cores do iPhone 18?",
-      "link": "https://pplware.sapo.pt/gadgets/ja-pode-ir-escolhendo-o-que-se-sabe-sobre-as-cores-do-iphone-18/",
-      "pubDate": "Fri, 21 Aug 2026 15:30:04 +0000",
-      "description": "A Apple prepara-se para surpreender com uma nova cor para os iPhones topo de gama. Depois do Cosmic Orange do ano passado, deverá chegar agora o Dark Cherry, que promete ser o grande destaque&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/dark-cherry-iphone18-pro-1.jpg"
     },
     {
       "sourceId": "autosport",
