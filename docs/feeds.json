@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-20T23:49:12.256691+00:00",
+  "updated": "2026-08-21T01:03:15.429230+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Israel.MNE condena projeto para construir na Cisjordânia",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2359/",
+      "pubDate": "Fri, 21 Aug 2026 01:13:28 +0100",
+      "description": "MNE considera que a expansão dos colonatos afasta ainda mais israelitas e palestinianos de uma solução de dois Estados. Ainda, Luís Neves tem conduzido um carro emprestado pela PJ.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A0%3A173%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F09152750%2Fjoao-basto.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A IA e o óbvio",
-      "link": "https://observador.pt/opiniao/a-ia-e-o-obvio/",
-      "pubDate": "Fri, 21 Aug 2026 00:22:29 +0100",
-      "description": "O elemento mais importante, e mais óbvio relativamente ao computador é o que ensinou Francis Bacon relativamente ao dinheiro: ele é um bom servo, mas um péssimo mestre.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A660%3A661%3Anowe%3A443%3A250%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F12%2F23122439%2Fjoao-cesar-das-neves-250.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h CICDR bloqueada há dois anos e meio",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-cicdr-bloqueada-ha-dois-anos-e-meio_a1_1760709",
+      "pubDate": "Fri, 21 Aug 2026 02:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Thu, 20 Aug 2026 23:33:02 +0100",
       "description": "A empresa NTGroup (NTG) assegurou esta quinta-feira que não integrou a &quot;equipa formal de negociação intergovernamental&quot;, nem participou nas reuniões finais para aquisição de três fragatas por Portugal a Itália, frisando que não reclama qualquer pagamento ao Estado português.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4a11fbd7b9f49dad2d69779cd903b95b?w=350&amp;q=50&amp;rect=0,0,5333,2924&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Contraponto. A saúde da democracia e o fantasma dos corte nas pensões",
-      "link": "https://www.rtp.pt/noticias/opiniao/nuno-silva-e-ana-augusto/contraponto-a-saude-da-democracia-e-o-fantasma-dos-corte-nas-pensoes_1760688",
-      "pubDate": "Thu, 20 Aug 2026 23:16:49 +0100",
-      "description": "Ana Pedrosa Augusto e Nuno Artur Silva discutem o relatório sobre a democracia em 2026 e o discurso de André Ventura na rentrée do Chega.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
