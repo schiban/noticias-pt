@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-21T05:28:06.846830+00:00",
+  "updated": "2026-08-21T05:58:44.514393+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Atenção, Palhinha! Benfica está a um passo (90') da Europa",
+      "link": "https://observador.pt/programas/vamos-a-bola/atencao-palhinha-benfica-esta-a-um-passo-90-da-europa/",
+      "pubDate": "Fri, 21 Aug 2026 06:53:57 +0100",
+      "description": "Vitória frente ao Aarhus consumada logo na primeira parte (3-1). SC Braga leva vantagem de dois golos para visita ao Áustria Viena. Ainda, Carlos Alcaraz de regresso aos courts e aponta ao US Open.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rússia ataca região de Kharkiv. Há registo de quatro mortos",
+      "link": "https://observador.pt/liveblogs/forcas-russas-atacam-regiao-ucraniana-de-kharkiv-ha-registo-de-quatro-mortos/",
+      "pubDate": "Fri, 21 Aug 2026 06:37:23 +0100",
+      "description": "Exército russo atacou, durante a madrugada, as regiões ucranianas de Zaporíjia e Kharkiv. No Irão, mais de 750 soldados norte-americanos ficaram feridos desde início da guerra, lançada em fevereiro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/18054042/44758865.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Argentina. Milei culpa aborto pela queda de natalidade",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/argentina-milei-culpa-aborto-pela-queda-de-natalidade/",
+      "pubDate": "Fri, 21 Aug 2026 06:34:50 +0100",
+      "description": "O La Nacion destaca as declarações do presidente argentino que volta a culpar a IGV pela queda de natalidade. Por cá, o Expresso escreve sobre a crescente obsessão dos jovens por cirurgias estéticas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2470/",
+      "pubDate": "Fri, 21 Aug 2026 06:16:10 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,94 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Liga Europa. Benfica venceu o AGF Aarhus por 3-1",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2377/",
-      "pubDate": "Fri, 21 Aug 2026 04:11:47 +0100",
-      "description": "Os encarnados venceram com golos de Rafa, Leandro Barreiro e Pavlidis. Ainda, Luís Neves tem conduzido um carro apreendido pela PJ que já utilizava enquanto diretor nacional da Judiciária.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Incêndio de Arouca está novamente ativo",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2412/",
-      "pubDate": "Fri, 21 Aug 2026 03:13:45 +0100",
-      "description": "Incêndio é combatido por quase 300 operacionais e perto de uma centena de meios terrestres. Ainda, no Peru um terramoto de magnitude 6,7 atingiu a cordilheira dos Andes.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Luís Neves tem conduzido um carro emprestado pela PJ",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2386/",
-      "pubDate": "Fri, 21 Aug 2026 02:12:48 +0100",
-      "description": "MAI conduz o Volkswagen Golf sem ser acompanhado por motoristas ou elementos das forças de segurança. Sobre o Orçamento do Estado, Governo saúda a \"disponibilidade responsável\" do PS.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Israel.MNE condena projeto para construir na Cisjordânia",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2359/",
-      "pubDate": "Fri, 21 Aug 2026 01:13:28 +0100",
-      "description": "MNE considera que a expansão dos colonatos afasta ainda mais israelitas e palestinianos de uma solução de dois Estados. Ainda, Luís Neves tem conduzido um carro emprestado pela PJ.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Canal do Panamá reduz trânsito diário de navios de 36 para 32 para enfrentar El Niño",
+      "link": "https://www.rtp.pt/noticias/economia/canal-do-panama-reduz-transito-diario-de-navios-de-36-para-32-para-enfrentar-el-nino_n1760704",
+      "pubDate": "Fri, 21 Aug 2026 07:55:03 +0100",
+      "description": "A administração do Canal do Panamá anunciou que restringirá o tráfego diário de navios para 34 a partir de setembro, menos dois do que atualmente, além da redução da calagem já em vigor, devido à seca causada pelo fenómeno El Niño.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/83/839d7c978a072a35b9245c54e9dd1431?w=350&amp;q=50&amp;rect=0,47,800,439&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Canadá defende tratado comercial com México enquanto ultima acordo com EUA",
-      "link": "https://www.rtp.pt/noticias/economia/canada-defende-tratado-comercial-com-mexico-enquanto-ultima-acordo-com-eua_n1760695",
-      "pubDate": "Fri, 21 Aug 2026 07:23:55 +0100",
-      "description": "O primeiro-ministro canadiano, Mark Carney, e a Presidente do México, Claudia Sheinbaum, defenderam hoje a rápida renovação do tratado comercial norte-americano T-MEC, enquanto o Canadá ultima um acordo tarifário com os Estados Unidos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a12422acea25b7618977f1550262d3ff?w=350&amp;q=50&amp;rect=0,0,1720,943&amp;auto=format"
+      "title": "Google concorda pagar quase 600 ME por práticas anti concorrenciais",
+      "link": "https://www.rtp.pt/noticias/mundo/google-concorda-pagar-quase-600-me-por-praticas-anti-concorrenciais_n1760702",
+      "pubDate": "Fri, 21 Aug 2026 07:53:17 +0100",
+      "description": "A Google concordou pagar 700 milhões de dólares (cerca de 600 milhões de euros) para resolver um processo por práticas anti concorrenciais, apresentado por dezenas de estados, informou a Procuradoria do Arizona, coautora da ação.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/26/26b5b51a54920208155cb8ab58a8a0f2?w=350&amp;q=50&amp;rect=0,51,728,399&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Suécia passou também a transferir migrantes ilegais para Itália",
-      "link": "https://www.rtp.pt/noticias/mundo/suecia-passou-tambem-a-transferir-migrantes-ilegais-para-italia_n1760694",
-      "pubDate": "Fri, 21 Aug 2026 07:11:08 +0100",
-      "description": "A Suécia decidiu transferir migrantes ilegais para Itália ao abrigo do novo Pacto Europeu para a Migração e Asilo, seguindo os passos da Alemanha, Suíça, Áustria e Finlândia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/09/09c4615f68e0a20549f5b5e6f8adaaba?w=350&amp;q=50&amp;rect=0,122,1550,850&amp;auto=format"
+      "title": "MSF critica Israel por arquivar casos de 4 trabalhadores mortos em Gaza",
+      "link": "https://www.rtp.pt/noticias/mundo/msf-critica-israel-por-arquivar-casos-de-4-trabalhadores-mortos-em-gaza_n1760701",
+      "pubDate": "Fri, 21 Aug 2026 07:51:52 +0100",
+      "description": "Os Médicos Sem Fronteiras (MSF) condenaram a decisão da Procuradoria Militar de Israel de arquivar, sem instaurar inquérito criminal, os casos apresentados pela organização não-governamental (ONG) sobre as mortes de quatro funcionários seus em Gaza.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec6ee988a753a52c45f820ca32bfa26e?w=350&amp;q=50&amp;rect=0,10,1000,548&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "EUA passam a designar Hezbollah representante do Irão",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eua-passam-a-designar-hezbollah-representante-do-irao_n1760693",
-      "pubDate": "Fri, 21 Aug 2026 07:07:27 +0100",
-      "description": "O governo dos Estados Unidos anunciou que vai passar a designar o Hezbollah como representante libanês da Guarda Revolucionária do Irão, avançando com novas sanções a uma rede de financiamento do movimento xiita.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/29/29e504ebd974800c386269b11a42fac4?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format"
+      "title": "Controlado na Bélgica pior incêndio desde 1911",
+      "link": "https://www.rtp.pt/noticias/mundo/controlado-na-belgica-pior-incendio-desde-1911_n1760700",
+      "pubDate": "Fri, 21 Aug 2026 07:42:50 +0100",
+      "description": "O incêndio no parque natural belga das Hautes Fagnes, que começou na sexta-feira e é considerado o maior do país desde 1911, está &quot;agora controlado na sua totalidade&quot;, mas ainda requer vigilância ativa, anunciaram autoridades locais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/67/6716852d68de321a9576a964b4498cb6?w=350&amp;q=50&amp;rect=0,0,767,421&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Segunda ronda de votações para eleger o novo líder da ONU",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-segunda-ronda-de-votacoes-para-eleger-o-novo-lider-da-onu_a1_1760720",
-      "pubDate": "Fri, 21 Aug 2026 06:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h SNS do futuro passa por respostas ao envelhecimento",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-sns-do-futuro-passa-por-respostas-ao-envelhecimento_a1_1760717",
-      "pubDate": "Fri, 21 Aug 2026 05:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Guterres condena ataque russo contra Kiev e pede desescalada urgente",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/guterres-condena-ataque-russo-contra-kiev-e-pede-desescalada-urgente_n1760699",
+      "pubDate": "Fri, 21 Aug 2026 07:37:26 +0100",
+      "description": "O secretário-geral da ONU, António Guterres, condenou hoje o mais recente ataque em grande escala com mísseis e drones lançado pela Rússia contra a capital ucraniana e outros centros urbanos, e instou a uma &quot;desescalada urgente&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/32/3281fa1abd91bab117ae3f9b39781d33?w=350&amp;q=50&amp;rect=0,20,800,439&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cuba acusa EUA de bloquearem serviços básicos à população com sanções",
-      "link": "https://www.noticiasaominuto.com/mundo/3039427/cuba-acusa-eua-de-bloquearem-servicos-basicos-a-populacao-com-sancoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 06:23:00",
+      "title": "Cristina Ferreira reage a namoro de Pedro Teixeira com Matilde Reymão",
+      "link": "https://www.noticiasaominuto.com/fama/3039446/cristina-ferreira-reage-a-namoro-de-pedro-teixeira-com-matilde-reymao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 06:52:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47606323.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3bbb917087f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDMwLCJjcm9wSGVpZ2h0Ijo1ODAsImNyb3BYIjo0NCwiY3JvcFkiOjg4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NDgsImNyb3BIZWlnaHQiOjExNTIsImNyb3BYIjoyNzMsImNyb3BZIjo1OH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Feira do Livro do Porto abre hoje portas com mais de 200 iniciativas",
-      "link": "https://www.noticiasaominuto.com/cultura/3039438/feira-do-livro-do-porto-abre-hoje-portas-com-mais-de-200-iniciativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 06:17:52",
+      "title": "Austrália acusa homem de tentar informar Rússia sobre exército ucraniano",
+      "link": "https://www.noticiasaominuto.com/mundo/3039445/australia-acusa-homem-de-tentar-informar-russia-sobre-exercito-ucraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 06:50:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45522693.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a79f3d500e7f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU já prestou assistência alimentar a 286.000 afetados na Venezuela",
-      "link": "https://www.noticiasaominuto.com/mundo/3039430/onu-ja-prestou-assistencia-alimentar-a-286000-afetados-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 06:17:16",
+      "title": "Número de mortos em inundações na região de Guangxi aumenta para 159",
+      "link": "https://www.noticiasaominuto.com/mundo/3039443/numero-de-mortos-em-inundacoes-na-regiao-de-guangxi-aumenta-para-159#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 06:45:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47639112.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDM5LCJjcm9wSGVpZ2h0IjoxMzcyLCJjcm9wWCI6NzAsImNyb3BZIjoxMTN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6889118c1e583.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ativistas condenados em Hong Kong por organizarem vigílias de Tiananmen",
-      "link": "https://www.noticiasaominuto.com/mundo/3039431/ativistas-condenados-em-hong-kong-por-organizarem-vigilias-de-tiananmen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 06:16:31",
+      "title": "Carneiro começa rota pela valorização do interior e cooperação com Espanha",
+      "link": "https://www.noticiasaominuto.com/politica/3039444/carneiro-comeca-rota-pela-valorizacao-do-interior-e-cooperacao-com-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 06:44:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47640885.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc0MywiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQwLCJjcm9wSGVpZ2h0IjoxMzcyLCJjcm9wWCI6NzMsImNyb3BZIjoxMzR9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6974db3cac51d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Primeiro ano da unidade de fronteiras da PSP foi \"muito atribulado\"",
-      "link": "https://www.noticiasaominuto.com/pais/3039435/primeiro-ano-da-unidade-de-fronteiras-da-psp-foi-muito-atribulado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 06:16:03",
+      "title": "Lula terá mais tempo de propaganda eleitoral gratuita do que Flávio",
+      "link": "https://www.noticiasaominuto.com/mundo/3039421/lula-tera-mais-tempo-de-propaganda-eleitoral-gratuita-do-que-flavio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 06:39:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/25901717.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQxMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81f342e9193.webp"
     },
     {
       "sourceId": "pplware",
