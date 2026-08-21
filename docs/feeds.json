@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-21T20:20:39.940826+00:00",
+  "updated": "2026-08-21T20:48:31.850578+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sérgio Ferreira quer Alverca empenhado em Alvalade",
+      "link": "https://observador.pt/2026/08/21/a-ambicao-e-irmos-em-busca-de-pontos-sergio-ferreira-quer-alverca-empenhado-em-alvalade/",
+      "pubDate": "Fri, 21 Aug 2026 21:29:58 +0100",
+      "description": "Sérgio Ferreira aposta num \"bom plano coletivo\" para travar as individualidades do Sporting. Chiquinho e três lesionados são baixas no ataque dos ribatejanos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14144305/47585158.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -28,7 +38,7 @@
       "title": "Neutrogena admite ter deixado Panettiere \"desamparada\"",
       "link": "https://observador.pt/2026/08/21/neutrogena-emite-comunicado-quatro-dias-apos-a-morte-de-hayden-panettiere-e-admite-ter-feito-a-atriz-sentir-se-desamparada/",
       "pubDate": "Fri, 21 Aug 2026 20:47:02 +0100",
-      "description": "Marca de cosméticos reconhece ter deixado a atriz, que morreu há quatro dias, \"desamparada\" ao cortar o contrato em 2015 após ela revelar a luta contra depressão pós-parto.",
+      "description": "Marca de cosméticos reconhece ter deixado a atriz, que morreu há quatro dias, \"desamparada\" ao cortar o contrato em 2015 após Panettiere revelar a luta contra depressão pós-parto.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17090834/47621667.jpg"
     },
     {
@@ -42,64 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "20h MAI. Adalberto Campos Fernandes admite desconforto do PR",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2032/",
-      "pubDate": "Fri, 21 Aug 2026 20:11:42 +0100",
-      "description": "Coordenador do pacto para a saúde de Seguro assume que desconforto é evidente. Ainda nesta edição, quase 50 mil estudantes colocados na primeira fase de acesso ao ensino superior.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "21h Paulo Raimundo acusa Governo de estar a desmantelar o SNS",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-paulo-raimundo-acusa-governo-de-estar-a-desmantelar-o-sns_a1_1760891",
+      "pubDate": "Fri, 21 Aug 2026 22:26:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sporting recebe um Alverca à procura da primeira vitória",
-      "link": "https://www.rtp.pt/noticias/desporto/sporting-recebe-um-alverca-a-procura-da-primeira-vitoria_v1760886",
-      "pubDate": "Fri, 21 Aug 2026 22:17:48 +0100",
-      "description": "Rui Borges assume que o Sporting está felizes com o atual plantel para esta época 2026/27 e não se mostra %u201Cpreocupado com a casa do vizinho%u201D [Benfica]. Já o treinador do Alverca quer conquistar a primeira vitória em Alvalade, e colher três pontos em casa adversária.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/cd/cd779ff5df1dffa0ca7945ed623b6b93_N.jpg?"
+      "title": "Feira do Livro do Porto decorre até 6 de setembro",
+      "link": "https://www.rtp.pt/noticias/cultura/feira-do-livro-do-porto-decorre-ate-6-de-setembro_v1760890",
+      "pubDate": "Fri, 21 Aug 2026 22:22:47 +0100",
+      "description": "O certame junta mais de 140 stands nos Jardins do Palácio de Cristal, e tem previstas duas centenas de iniciativas culturais, incluindo teatro, concertos, cinema e debates.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/36/36cec2b51b51b75e2fe0b933a9c432d5_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Russell na ‘pole’ para corrida sprint do GP dos Países Baixos de Fórmula 1",
-      "link": "https://www.rtp.pt/noticias/motores/russell-na-pole-para-corrida-sprint-do-gp-dos-paises-baixos-de-formula-1_d1760885",
-      "pubDate": "Fri, 21 Aug 2026 22:17:19 +0100",
-      "description": "O britânico George Russell (Mercedes) conquistou hoje a ‘pole position’ para a corrida sprint do Grande Prémio dos Países Baixos de Fórmula 1, ao superar o compatriota Lando Norris (McLaren) por 41 milésimos de segundo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8cadd898745510d7b9a41af6709d94cb?w=350&amp;q=50&amp;rect=0,356,6000,3289&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pescadores resgatados após cinco disa à deriva numa geleira",
-      "link": "https://www.rtp.pt/noticias/mundo/pescadores-resgatados-apos-cinco-disa-a-deriva-numa-geleira_v1760884",
-      "pubDate": "Fri, 21 Aug 2026 22:16:47 +0100",
-      "description": "Dois pescadores foram resgatados dentro de uma caixa térmica no mar. Estiveram cinco dias à deriva e foram encontrados a 240 quilómetros da costa do México.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6a/6aa57276caf4d00f9e4e2dfa76e04615_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Plataforma russa de comércio eletrónico alvo de ataques da Ucrânia",
-      "link": "https://www.rtp.pt/noticias/mundo/plataforma-russa-de-comercio-eletronico-alvo-de-ataques-da-ucrania_v1760883",
-      "pubDate": "Fri, 21 Aug 2026 22:15:47 +0100",
-      "description": "A Ucrânia intensificou os ataques contra a maior plataforma de comércio eletrónico da Rússia. Os bombardeamentos estão a provocar prejuízos significativos, incluindo para grupos influentes próximos do Kremlin.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/86/862cf1c49418221fcfa9a9173c7932b5_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Marozau deixa Arouca e ruma à Dinamarca",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/marozau-deixa-arouca-e-ruma-a-dinamarca_d1760882",
-      "pubDate": "Fri, 21 Aug 2026 22:15:45 +0100",
-      "description": "O avançado Uladzislau Marozau, internacional pela Bielorrússia, deixou o Arouca e vai rumar ao Kolding IF, da Dinamarca, numa transferência definitiva que garante ao clube da I Liga portuguesa de futebol uma percentagem de futura venda.",
+      "title": "II Liga. Benfica B e Portimonense empatam na abertura da terceira jornada",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-benfica-b-e-portimonense-empatam-na-abertura-da-terceira-jornada_d1760889",
+      "pubDate": "Fri, 21 Aug 2026 22:19:49 +0100",
+      "description": "Benfica B e Portimonense empataram hoje (1-1) no Seixal, na partida inaugural da terceira jornada da II Liga portuguesa de futebol, prova em que os dois clubes repartem à condição a liderança, com sete pontos.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ciclista Julian Alaphilippe termina carreira com efeito imediato aos 34 anos",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/ciclista-julian-alaphilippe-termina-carreira-com-efeito-imediato-aos-34-anos_d1760888",
+      "pubDate": "Fri, 21 Aug 2026 22:19:12 +0100",
+      "description": "O ciclista francês Julian Alaphilippe, bicampeão mundial de fundo em 2020 e 2021, terminou a carreira profissional com efeito imediato aos 34 anos, anunciou hoje o corredor, que representava a equipa suíça Tudor.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b897fee4f67b9115cbb5f38c17eddbce?w=350&amp;q=50&amp;rect=0,255,5420,2971&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "PSP alerta para possíveis fraudes com falsos alojamentos para férias ou para estudantes",
+      "link": "https://www.rtp.pt/noticias/pais/psp-alerta-para-possiveis-fraudes-com-falsos-alojamentos-para-ferias-ou-para-estudantes_v1760887",
+      "pubDate": "Fri, 21 Aug 2026 22:18:47 +0100",
+      "description": "As burlas digitais aumentaram 30 por cento no primeiro semestre do ano. A PSP usou as redes sociais para prevenir e explicar este tipo de crime.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e3c627a27fa4e7498ee9b44975a6909f_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "ONU: Diplomata da Guiana supera costa-riquenha em 2.ª votação para líder",
-      "link": "https://www.noticiasaominuto.com/mundo/3039867/onu-diplomata-da-guiana-supera-costa-riquenha-em-2-votacao-para-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 21:14:09",
+      "title": "Segue o baile: Supremo permite que trabalhos no salão de Trump continuem",
+      "link": "https://www.noticiasaominuto.com/mundo/3039874/segue-o-baile-supremo-permite-que-trabalhos-no-salao-de-trump-continuem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 21:45:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88b197cd8ee.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88b8e114c85.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6NiwiY3JvcFkiOjEwMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6ODQ0LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cazaquistão: Partido no poder Adilet parte como favorito nas legislativas",
-      "link": "https://www.noticiasaominuto.com/mundo/3039864/cazaquistao-partido-no-poder-adilet-parte-como-favorito-nas-legislativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 21:10:00",
+      "title": "Há uma especiaria que ajuda a proteger a Espada de São Jorge de fungos",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3039875/ha-uma-especiaria-que-ajuda-a-proteger-a-espada-de-sao-jorge-de-fungos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 21:44:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6113c29578881.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88b8886a57e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NCwiY3JvcEhlaWdodCI6MTY5NiwiY3JvcFgiOjEyODAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "II Liga: Benfica B e Portimonense empatam na abertura da terceira jornada",
-      "link": "https://www.noticiasaominuto.com/desporto/3039859/ii-liga-benfica-b-e-portimonense-empatam-na-abertura-da-terceira-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 21:07:50",
+      "title": "Bálticos celebram 35 anos de independência sob receio de invasão russa",
+      "link": "https://www.noticiasaominuto.com/mundo/3039869/balticos-celebram-35-anos-de-independencia-sob-receio-de-invasao-russa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 21:44:32",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53281dc621b7e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY3MiwiY3JvcEhlaWdodCI6MTE5NSwiY3JvcFgiOjI0NiwiY3JvcFkiOjE4Mn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6722c67d0c291.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "App do ChatGPT para Mac consegue ler as suas mensagens no iMessage",
-      "link": "https://www.noticiasaominuto.com/tech/3039716/app-do-chatgpt-para-mac-consegue-ler-as-suas-mensagens-no-imessage#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 21:01:10",
+      "title": "Abbas pede que Ocidente passe das palavras à ação contra colonatos de Israel",
+      "link": "https://www.noticiasaominuto.com/mundo/3039873/abbas-pede-que-ocidente-passe-das-palavras-a-acao-contra-colonatos-de-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 21:37:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69ae7cc6e07b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDg5LCJjcm9wWSI6MjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzMzAsImNyb3BZIjoxOH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47598760.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Acidente em Arouca: Um bombeiro teve alta e outro deixou Intensivos",
-      "link": "https://www.noticiasaominuto.com/pais/3039863/acidente-em-arouca-um-bombeiro-teve-alta-e-outro-deixou-intensivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 20:51:45",
+      "title": "Jackpot do Euromilhões volta a \"engordar\". Que prémios vêm para Portugal?",
+      "link": "https://www.noticiasaominuto.com/pais/3039871/jackpot-do-euromilhoes-volta-a-engordar-que-premios-vem-para-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 21:33:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_62d6ebf60f3e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMzLCJjcm9wSGVpZ2h0IjoxNDI1LCJjcm9wWCI6MCwiY3JvcFkiOjIyNH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5564e9f137ae7.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Dispositivos vestíveis inteligentes vão faturar mais de um bilião de dólares até 2032",
+      "link": "https://pplware.sapo.pt/gadgets/dispositivos-vestiveis-inteligentes-vao-faturar-mais-de-um-biliao-de-dolares-ate-2032/",
+      "pubDate": "Fri, 21 Aug 2026 20:30:30 +0000",
+      "description": "O mercado global de dispositivos vestíveis inteligentes está prestes a atingir valores históricos de faturação nos próximos anos. Segundo um estudo recente, este setor deverá ultrapassar a fasquia de 1 bilião de dólares, impulsionado&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/11/smartwatch-desporto.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 21 Aug 2026 18:00:51 +0000",
       "description": "A aplicação gov.pt passou a disponibilizar uma nova área dedicada à contratação pública, permitindo às empresas acompanhar de forma mais simples os seus contratos com o Estado e ficar a par de novas oportunidades&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/gov_x01-2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "ChatGPT já consegue ler e responder às suas mensagens do iMessage no Mac",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/chatgpt-ja-consegue-ler-e-responder-as-suas-mensagens-do-imessage-no-mac/",
-      "pubDate": "Fri, 21 Aug 2026 17:00:50 +0000",
-      "description": "A OpenAI lançou uma nova integração que permite ao ChatGPT aceder diretamente à aplicação Mensagens da Apple nos computadores Mac. Esta funcionalidade facilita a gestão de conversas, mas traz também sérias questões de privacidade&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/chatgpt_macbook_mensagensa_apple.webp"
     },
     {
       "sourceId": "autosport",
