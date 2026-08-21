@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-21T01:03:15.429230+00:00",
+  "updated": "2026-08-21T02:42:21.128658+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Incêndio de Arouca está novamente ativo",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2412/",
+      "pubDate": "Fri, 21 Aug 2026 03:13:45 +0100",
+      "description": "Incêndio é combatido por quase 300 operacionais e perto de uma centena de meios terrestres. Ainda, no Peru um terramoto de magnitude 6,7 atingiu a cordilheira dos Andes.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Luís Neves tem conduzido um carro emprestado pela PJ",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2386/",
+      "pubDate": "Fri, 21 Aug 2026 02:12:48 +0100",
+      "description": "MAI conduz o Volkswagen Golf sem ser acompanhado por motoristas ou elementos das forças de segurança. Sobre o Orçamento do Estado, Governo saúda a \"disponibilidade responsável\" do PS.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,14 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Milei culpa aborto pela queda de natalidade na Argentina",
-      "link": "https://observador.pt/2026/08/21/esta-a-custar-nos-caro-milei-culpa-aborto-pela-queda-de-natalidade-na-argentina/",
-      "pubDate": "Fri, 21 Aug 2026 00:23:58 +0100",
-      "description": "Presidente argentino afirma que o aborto \"está a custar caro\" ao crescimento económico do país. Nascimentos diminuíram 47% numa década, mas já estavam em queda antes da aprovação da lei da IVG.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/20043750/44082162.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Carta de amor ao Minho e à Romaria",
-      "link": "https://observador.pt/opiniao/carta-de-amor-ao-minho-e-a-romaria/",
-      "pubDate": "Fri, 21 Aug 2026 00:23:20 +0100",
-      "description": "Se a morte anunciasse a um vianense que o fim da sua vida estava próximo, qualquer um de nós pediria a mesma coisa: ao menos que seja depois das festas.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A0%3A173%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F09152750%2Fjoao-basto.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Governo condena desacatos durante ação da PSP em Rabo de Peixe",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-governo-condena-desacatos-durante-acao-da-psp-em-rabo-de-peixe_a1_1760711",
+      "pubDate": "Fri, 21 Aug 2026 03:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Thu, 20 Aug 2026 23:39:05 +0100",
       "description": "Alemanha, França, Itália, Países Baixos, Reino Unido, Noruega e Canadá divulgaram esta quinta-feira uma declaração conjunta contra o &quot;Plano E1&quot; de Israel e pedem a revogação &quot;imediata da expansão de colonatos na Cisjordânia&quot;.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d4cc6014764dffb63b460434b6ccf81?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "NTGroup diz que não participou nas reuniões finais sobre compra de fragatas",
-      "link": "https://www.rtp.pt/noticias/economia/ntgroup-diz-que-nao-participou-nas-reunioes-finais-sobre-compra-de-fragatas_n1760691",
-      "pubDate": "Thu, 20 Aug 2026 23:33:02 +0100",
-      "description": "A empresa NTGroup (NTG) assegurou esta quinta-feira que não integrou a &quot;equipa formal de negociação intergovernamental&quot;, nem participou nas reuniões finais para aquisição de três fragatas por Portugal a Itália, frisando que não reclama qualquer pagamento ao Estado português.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4a11fbd7b9f49dad2d69779cd903b95b?w=350&amp;q=50&amp;rect=0,0,5333,2924&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
