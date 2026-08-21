@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-21T14:30:05.360006+00:00",
+  "updated": "2026-08-21T15:05:08.587313+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Incêndio na Alta de Lisboa obrigou a corte no Eixo Norte-Sul",
+      "link": "https://observador.pt/2026/08/21/incendio-na-alta-de-lisboa-obrigou-a-corte-no-eixo-norte-sul/",
+      "pubDate": "Fri, 21 Aug 2026 15:45:14 +0100",
+      "description": "O Eixo-Norte Sul esteve cortado junto à saída para Camarate, devido a um incêndio que surgiu entre a zona da Ameixoeira e Telheiras. A circulação foi restabelecida às 15h00.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/14131103/dventura-bombeiros-ajuda-barricados-1-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Um dia todos vamos dizer onde estávamos quando Mora saiu",
+      "link": "https://observador.pt/newsletters/desporto/um-dia-todos-vamos-dizer-onde-estavamos-quando-rodrigo-mora-saiu-o-american-dream-de-borges-e-faria-as-estreias-de-amorim-e-mourinho-e-as-tres-medalhas-no-atletismo/",
+      "pubDate": "Fri, 21 Aug 2026 15:32:13 +0100",
+      "description": "Sem espaço no onze e no banco, Rodrigo Mora deixou o FC Porto onde parecia ter destino para ir à procura da sorte. Amorim e Mourinho vão estrear-se, houve medalhas no atletismo e sonhos no ténis.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:867:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120257/des-16x9-1.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,10 +35,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 15h",
+      "title": "15h. Livre e Bloco de Esquerda querem alterar PSU",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2432/",
       "pubDate": "Fri, 21 Aug 2026 15:16:32 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Os três partidos entregaram pedido de apreciação parlamentar para que o diploma seja discutido na Assembleia da República. Ainda, morreram dois militares do Exército atropelados na A1, na Mealhada.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/12/05161816/gettyimages-1496455062-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Como planear as cidades do futuro?",
-      "link": "https://observador.pt/programas/portugal-em-obras/como-planear-as-cidades-do-futuro/",
-      "pubDate": "Fri, 21 Aug 2026 14:38:47 +0100",
-      "description": "Neste episódio, discutimos como as cidades são desenhadas e de que forma a habitação e os desafios climáticos definem o futuro do território.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12144251/peo-appc-1540.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Jogos do Mediterrâneo. Itália acolhe competição com 168 atletas portugueses",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/jogos-do-mediterraneo-italia-acolhe-competicao-com-168-atletas-portugueses_d1760821",
+      "pubDate": "Fri, 21 Aug 2026 17:04:20 +0100",
+      "description": "A Itália acolhe, pela quarta vez na sua história, os Jogos do Mediterrâneo. Também Portugal marca presença nesta competição com uma comitiva de 168 atletas, distribuídos por 30 modalidades.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/46/460a63f80fff05b34241219fe39130ef?w=350&amp;q=50&amp;rect=0,8,1170,641&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Suécia. Vários feridos em ataque com espada numa escola",
-      "link": "https://observador.pt/2026/08/21/suecia-varios-feridos-em-ataque-com-espada-numa-escola-um-suspeito-foi-detido/",
-      "pubDate": "Fri, 21 Aug 2026 14:30:46 +0100",
-      "description": "Polícia sueca recebeu alerta de \"violência mortal em curso\" na cidade de Fagersta. Um suspeito foi detido e a população está a seguir instruções das autoridades para se manter afastada do local.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/06/20115006/ultima-hora-imagem-principal.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Enfermeiros do hospital Amadora-Sintra entregam declaração de escusa de responsabilidade",
+      "link": "https://www.rtp.pt/noticias/pais/enfermeiros-do-hospital-amadora-sintra-entregam-declaracao-de-escusa-de-responsabilidade_n1760819",
+      "pubDate": "Fri, 21 Aug 2026 16:59:23 +0100",
+      "description": "Dezenas de enfermeiros entregaram à administração do hospital uma declaração de escusa de responsabilidades. Alegam falta de condições para prestar cuidados de saúde e adequados aos utentes em urgência.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/48/4822f7c7ec60b92f465ebf42020c4510?w=350&amp;q=50&amp;rect=0,17,2364,1296&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Voleibol. Campeonato da Europa Feminino de Voleibol 2026",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/voleibol-campeonato-da-europa-feminino-de-voleibol-2026_d1760817",
+      "pubDate": "Fri, 21 Aug 2026 16:40:30 +0100",
+      "description": "Entre 21 de agosto e 6 de setembro de 2026, a Turquia, a Chéquia, a Suécia e o Azerbaijão partilham a organização de um torneio que promete espetáculo, emoção e voleibol ao mais alto nível, culminando com a fase decisiva e a grande final em Istambul.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2fe8c7506a24828dfd6e8372b3cc3ef2?w=350&amp;q=50&amp;rect=0,12,1672,917&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,43 +102,33 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3a93c1f9897143e54a4fcdc487d52bbc?w=350&amp;q=50&amp;rect=0,20,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ataque com espada em escola secundária na Suécia faz vários feridos",
-      "link": "https://www.rtp.pt/noticias/mundo/ataque-com-espada-em-escola-secundaria-na-suecia-faz-varios-feridos_n1760810",
-      "pubDate": "Fri, 21 Aug 2026 15:40:32 +0100",
-      "description": "Várias pessoas ficaram feridas após uma pessoa armada com uma espada ter entrado numa escola secundária no centro da Suécia esta sexta-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/21/21f31695adb9dfba445427897f3050e2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Organização Médicos sem Fronteiras descreve privação em Gaza e mais violência na Cisjordânia",
-      "link": "https://www.rtp.pt/noticias/mundo/organizacao-medicos-sem-fronteiras-descreve-privacao-em-gaza-e-mais-violencia-na-cisjordania_n1760809",
-      "pubDate": "Fri, 21 Aug 2026 15:34:35 +0100",
-      "description": "Está quase a cumprir-se meio ano do impedimento imposto por Israel para a entrada de organizações médicas e humanitárias na Faixa de Gaza. A Médicos sem Fronteiras é um dos organismos que está sem documentação para entrar no território e esse constrangimento tem dificultado muito o seu trabalho. Joa",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4dcf888bf236a2fc0a68b3a38903bae8?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Academia de Cinema desvenda seis filmes pré-selecionados para candidatura a Óscar",
-      "link": "https://www.rtp.pt/noticias/cultura/academia-de-cinema-desvenda-seis-filmes-pre-selecionados-para-candidatura-a-oscar_n1760799",
-      "pubDate": "Fri, 21 Aug 2026 15:30:39 +0100",
-      "description": "A Academia Portuguesa de Cinema (APC) revelou hoje os seis filmes pré-selecionados no processo de candidatura ao Óscar de Melhor Filme Internacional, iniciando-se agora a votação pelo escolhido.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Silaidopoulos: «Queremos juntar pontos a uma boa exibição no Estoril»",
+      "link": "https://maisfutebol.iol.pt/rio-ave/sotiris-silaidopoulos/silaidopoulos-queremos-juntar-pontos-a-uma-boa-exibicao-no-estoril",
+      "pubDate": "Fri, 21 Aug 2026 15:58:27 +0100",
+      "description": "Treinador do Rio Ave diz-se agradado com a qualidade exibicional da equipa neste arranque de temporada, apesar de ainda não ter pontuado na Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6a78e64fd34e511da0b32709/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Final do Mundial 2026: Paredes suspenso dez jogos e mais quatro castigados",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Fri, 21 Aug 2026 15:50:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a85f514d34e511da0b3432c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Final do Mundial 2026: Paredes suspenso dez jogos e AFA com multa pesada",
       "link": "https://maisfutebol.iol.pt/internacional/21-08-2026/final-do-mundial-2026-paredes-suspenso-dez-jogos-e-mais-quatro-castigados",
-      "pubDate": "Fri, 21 Aug 2026 15:28:16 +0100",
-      "description": "",
+      "pubDate": "Fri, 21 Aug 2026 15:28:00 +0100",
+      "description": "Molina, Thiago Almada, Gavi e Roberto Ayala também foram castigados",
       "thumbnail": "https://img.iol.pt/image/id/6a5d4eb6d34ef04b4f3f7a25/250"
     },
     {
@@ -132,34 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/6a885c13d34ed0733ba8100a/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sérgio Ferreira: «A ambição passa por irmos em busca de pontos, seja onde for»",
-      "link": "https://maisfutebol.iol.pt/alverca/liga/sergio-ferreira-a-ambicao-passa-por-irmos-em-busca-de-pontos-seja-onde-for",
-      "pubDate": "Fri, 21 Aug 2026 15:03:34 +0100",
-      "description": "Depois de ter visitado o Estádio do Dragão na primeira jornada, o Alverca joga em Alvalade, na terceira ronda da Liga. O seu treinador avisa que, apesar das dificuldades, «este início de campeonato não é para despachar»",
-      "thumbnail": "https://img.iol.pt/image/id/6a78cbd7d34ed0733ba7ef8f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Seleção: Jorge Jesus faz a primeira antevisão no Portugal Football Summit",
-      "link": "https://maisfutebol.iol.pt/selecao/jorge-jesus/selecao-jorge-jesus-faz-a-primeira-antevisao-no-portugal-football-summit",
-      "pubDate": "Fri, 21 Aug 2026 15:00:00 +0100",
-      "description": "Selecionador Nacional fará a antevisão do jogo com o País de Gales no evento em Oeiras",
-      "thumbnail": "https://img.iol.pt/image/id/6a5109f1d34ef04b4f3f5a88/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "\"Transformação da Segurança Social\" é uma das \"linhas vermelhas\" do PS em relação ao Orçamento do Estado",
-      "link": "https://sapo.pt/artigo/transformacao-da-seguranca-social-e-uma-das-linhas-vermelhas-do-ps-em-relacao-ao-oe2027-6a8829c971773bd5d16eddd0",
-      "pubDate": "Fri, 21 Aug 2026 11:25:02 +0000",
-      "description": "José Luís Carneiro quer ouvir essa garantia por parte de Luís Montenegro, apesar de o ministro-adjunto e da Presidência, Leitão Amaro, já ter afastado o cenário de uma reforma na Segurança Social.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A%2BthLpoMFO0dUuUUPLUY9a3Wf92kUZ8E9mwZodcXzJcHj6KQzauvemM4%2F5fmRN%2Bb20v2ePpIs8X%2F21ya8RrpeJ%2FI0Pq%2FrLJJS451s%2BcElNaFiet1vs2M%2Fjuu0ohhMTCRS"
+      "title": "Álvaro Santos Pereira: \"É importante que o país saia do seu retangulozinho\"",
+      "link": "https://sapo.pt/artigo/e-importante-que-o-pais-saia-do-seu-retangulozinho-6a885f81d0cbd78bc754024f",
+      "pubDate": "Fri, 21 Aug 2026 14:28:29 +0000",
+      "description": "País deve \"deixar de ideologia\" e ver o que os outros países estão a fazer no que diz respeito a mecanismos para complementar o sistema de pensões público, defende Álvaro Santos Pereira.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3A6xquONb26xEZzKXOhsOUDmgUacnj0MTF5ZE2Fp8J%2F1LDu7zlwzFv0A3llZDw2kLK8aAWpUX5TgMQKADU721R6GjZmkYpU6dN61bfVqXMPVVPRPYc4N67hX09mx4QWgof"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Amadora-Sintra: Enfermeiros com declaração de escusa de responsabilidade",
-      "link": "https://www.noticiasaominuto.com/pais/3039665/amadora-sintra-enfermeiros-com-declaracao-de-escusa-de-responsabilidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 15:26:51",
+      "title": "Mulher de 63 anos detida por atear incêndio urbano em Vila Real",
+      "link": "https://www.noticiasaominuto.com/pais/3039673/mulher-de-63-anos-detida-por-atear-incendio-urbano-em-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 16:00:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46348861.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Feira do Livro do Porto abre portas com centenas nos primeiros minutos",
-      "link": "https://www.noticiasaominuto.com/cultura/3039672/feira-do-livro-do-porto-abre-portas-com-centenas-nos-primeiros-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 15:25:15",
+      "title": "Cabo Verde recebe prémio internacional pelo desenvolvimento do futebol",
+      "link": "https://www.noticiasaominuto.com/desporto/3039694/cabo-verde-recebe-premio-internacional-pelo-desenvolvimento-do-futebol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 16:00:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47642770.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a485886c8237.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FIFA arrasa após final do Mundial. Paredes suspenso 10 jogos (e há mais)",
-      "link": "https://www.noticiasaominuto.com/desporto/3039676/fifa-arrasa-apos-final-do-mundial-paredes-suspenso-10-jogos-e-ha-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 15:23:29",
+      "title": "Oficial: Sp. Braga contrata médio ao Barcelona por verba milionária",
+      "link": "https://www.noticiasaominuto.com/desporto/3039674/oficial-sp-braga-contrata-medio-ao-barcelona-por-verba-milionaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 15:59:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a66598bdeac8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88678f0c1e5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump quer lançar mais de mil foguetões por ano até 2030",
-      "link": "https://www.noticiasaominuto.com/tech/3039632/trump-quer-lancar-mais-de-mil-foguetoes-por-ano-ate-2030#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 15:19:35",
+      "title": "Vasco Matos pede reforços para o Estoril: \"Não posso fazer as coisas...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3039671/vasco-matos-pede-reforcos-para-o-estoril-nao-posso-fazer-as-coisas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 15:56:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a885e335a77f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjMsImNyb3BZIjoyMDR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MiwiY3JvcEhlaWdodCI6MTY3NSwiY3JvcFgiOjY2MSwiY3JvcFkiOjEyfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66bf9c13a780b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turquia pede detenção de Benjamin Netanyahu através da Interpol",
-      "link": "https://www.noticiasaominuto.com/mundo/3039647/turquia-pede-detencao-de-benjamin-netanyahu-atraves-da-interpol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-21 15:17:41",
+      "title": "Número de mortos sobe para 83 em ilha indonésia após sismo",
+      "link": "https://www.noticiasaominuto.com/mundo/3039691/numero-de-mortos-sobe-para-83-em-ilha-indonesia-apos-sismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-21 15:55:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47623672.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MzMsImNyb3BZIjoxMDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjQ4MSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8866f6ccfda.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "eSIM para viajar: internet no estrangeiro sem roaming caro",
+      "link": "https://pplware.sapo.pt/informacao/esim-para-viajar-internet-estrangeiro/",
+      "pubDate": "Fri, 21 Aug 2026 15:00:01 +0000",
+      "description": "Sair da Europa e ficar sem internet no telemóvel já não faz sentido. Com um eSIM para viajar, os dados móveis ficam tratados antes do voo. Sem filas, sem lojas e sem sustos na&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/imagem-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/condutor_volante_spotify_carro.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Esta novidade do Spotify no Android vai mudar completamente os treinos",
-      "link": "https://pplware.sapo.pt/multimedia-2/musica/esta-novidade-do-spotify-no-android-vai-mudar-completamente-os-treinos/",
-      "pubDate": "Fri, 21 Aug 2026 11:00:33 +0000",
-      "description": "Ainda que seja usado para ouvir música em todo o lado, o Spotify tem utilidades que o ultrapassam. Um exemplo é nos treinos, onde pode ditar o ritmo ou simplesmente acompanhar os atletas. Agora,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/spotify_corrida_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1: Ferrari com novas atualizações",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-ferrari-com-novas-atualizacoes/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:40 +0000",
+      "description": "A Ferrari introduziu várias atualizações no seu monolugar para o Grande Prémio dos Países Baixos deste fim de semana. A Scuderia introduziu um total de cinco atualizações no SF-26 para a corrida deste fim de semana, conforme confirmado pela FIA, concentradas em três áreas fundamentais do carro: o fu",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/maismotores/fia-alvo-de-protestos-da-ucrania-apos-levantamento-de-castigo-a-pilotos-russos-e-bielorrussos/",
       "pubDate": "Fri, 21 Aug 2026 09:23:20 +0000",
       "description": "O governo da Ucrânia enviou uma carta formal à Federação Internacional do Automóvel para contestar a decisão de levantar a proibição de participação a concorrentes da Rússia e da Bielorrússia. A medida anterior tinha sido implementada em fevereiro de 2022, na sequência da invasão da Ucrânia. Posição",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "ELMS: Manuel Espírito Santo empenhado para Spa-Francorchamps: “é um circuito incrível”",
-      "link": "https://www.autosport.pt/velocidade/elms-manuel-espirito-santo-empenhado-para-spa-francorchamps-e-um-circuito-incrivel/",
-      "pubDate": "Fri, 21 Aug 2026 09:16:17 +0000",
-      "description": "O piloto português Manuel Espírito Santo compete este fim de semana, 22 e 23 de agosto, na etapa do European Le Mans Series (ELMS) no circuito de Spa-Francorchamps, na Bélgica. Aos comandos do Oreca da equipa Rossa Racing by Virage, o jovem talento português partilha o volante com John Falb e Rik Ko",
       "thumbnail": ""
     }
   ]
