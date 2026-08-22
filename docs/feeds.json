@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-22T05:33:21.087564+00:00",
+  "updated": "2026-08-22T06:32:28.648570+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 6h",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2482/",
+      "pubDate": "Sat, 22 Aug 2026 07:16:52 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "6h. Acesso ao Ensino Superior. Ainda há mais 6 mil vagas",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2471/",
       "pubDate": "Sat, 22 Aug 2026 06:13:23 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "A 2.ª fase do concurso decorre entre 24 de agosto e 20 de setembro. Ainda, a Rússia voltou a atacar Kiev durante a madrugada com recurso a mísseis balísticos.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Sporting recebe hoje o Alverca",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2413/",
-      "pubDate": "Sat, 22 Aug 2026 03:15:13 +0100",
-      "description": "Na antevisão, Rui Borges deixa elogios à equipa ribatejana. Ainda, mais de 30 mil mortes em excesso na Europa devido às vagas de calor dos últimos dois meses.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "7h Lula aconselha Trump a levar Putin e Xi Jinping a Mar-a-Lago",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-lula-aconselha-trump-a-levar-putin-e-xi-jinping-a-mar-a-lago_a1_1760939",
+      "pubDate": "Sat, 22 Aug 2026 08:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -88,16 +98,6 @@
       "title": "3h Ensino superior: maioria ficou na primeira opção",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ensino-superior-maioria-ficou-na-primeira-opcao_a1_1760928",
       "pubDate": "Sat, 22 Aug 2026 04:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Engenharia Aeroespacial no Porto volta a ter média mais alta",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-engenharia-aeroespacial-no-porto-volta-a-ter-media-mais-alta_a1_1760925",
-      "pubDate": "Sat, 22 Aug 2026 03:19:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sérvia pede ajuda à UE para combater dezenas de incêndios florestais",
-      "link": "https://www.noticiasaominuto.com/mundo/3039914/servia-pede-ajuda-a-ue-para-combater-dezenas-de-incendios-florestais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 06:31:09",
+      "title": "Sporting-Alverca: Leão em busca de dar a volta a início de época difícil",
+      "link": "https://www.noticiasaominuto.com/desporto/3039649/sporting-alverca-leao-em-busca-de-dar-a-volta-a-inicio-de-epoca-dificil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 07:04:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89341a7b045.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68b1b4733e2bd.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lendas do futebol participam em jogo de apoio após sismo na Colômbia",
-      "link": "https://www.noticiasaominuto.com/desporto/3039928/lendas-do-futebol-participam-em-jogo-de-apoio-apos-sismo-na-colombia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 06:29:46",
+      "title": "Entrada em bolsa da Anthropic poderá bater recorde da Spacex",
+      "link": "https://www.noticiasaominuto.com/tech/3039939/entrada-em-bolsa-da-anthropic-podera-bater-recorde-da-spacex#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 07:04:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8932e733440.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a893be53949e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Detido em Salvaterra de Magos por violência psicológica à ex-namorada",
-      "link": "https://www.noticiasaominuto.com/pais/3039915/detido-em-salvaterra-de-magos-por-violencia-psicologica-a-ex-namorada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 06:28:50",
+      "title": "Pentágono demite dirigentes de jornal militar por \"insubordinação\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3039926/pentagono-demite-dirigentes-de-jornal-militar-por-insubordinacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 06:47:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_683576a51eb34.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6986d8fee3f11.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Colapso de negociações. EUA impõem tarifas de 50% a produtos canadianos",
-      "link": "https://www.noticiasaominuto.com/economia/3039938/colapso-de-negociacoes-eua-impoem-tarifas-de-50-a-produtos-canadianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 06:23:11",
+      "title": "Desmantelado esquema de lavagem de dinheiro para cartel mexicano",
+      "link": "https://www.noticiasaominuto.com/mundo/3039925/desmantelado-esquema-de-lavagem-de-dinheiro-para-cartel-mexicano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 06:45:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47643402.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6646241297f3f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quer aprender a fazer a típica barreta do Corvo? Ecomuseu tem 'workshop'",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3039930/quer-aprender-a-fazer-a-tipica-barreta-do-corvo-ecomuseu-tem-workshop#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 06:20:43",
+      "title": "HRW insta Governo espanhol a oferecer opção de asilo a ilegais em Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3039919/hrw-insta-governo-espanhol-a-oferecer-opcao-de-asilo-a-ilegais-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 06:42:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8931b48dc44.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjQzMiwiY3JvcFgiOjAsImNyb3BZIjo0MjF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8936cd7a392.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Google corrigiu finalmente dois dos bugs mais irritantes do Android Auto",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-corrigiu-finalmente-dois-dos-bugs-mais-irritantes-do-android-auto/",
+      "pubDate": "Sat, 22 Aug 2026 06:00:16 +0000",
+      "description": "A experiência de condução com o sistema da Google nem sempre é perfeita. Quem utiliza o Android Auto sabe que pequenos erros no software conseguem transformar viagens em verdadeiras dores de cabeça. Recentemente, a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/android_auto_pplware_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 21 Aug 2026 19:30:10 +0000",
       "description": "O Office 2024 não mudou apenas de nome e de aparência. Há funções novas no Excel, uma recuperação de sessão mais útil no Word e ferramentas adicionais no PowerPoint que, para quem vem do&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/21st-1-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Passe Ferroviário Verde já tem data para chegar aos comboios urbanos de Lisboa e Porto",
-      "link": "https://pplware.sapo.pt/motores/passe-ferroviario-verde-ja-tem-data-para-chegar-aos-comboios-urbanos-de-lisboa-e-porto/",
-      "pubDate": "Fri, 21 Aug 2026 18:30:22 +0000",
-      "description": "A partir de setembro, quem viaja só de comboio entre Lisboa e Porto vai poder trocar os passes Navegante e Andante pelo Passe Ferroviário Verde, de 20 euros. O Governo promete poupanças até 480&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/12/passe-ferroviario-verde.jpg"
     },
     {
       "sourceId": "autosport",
