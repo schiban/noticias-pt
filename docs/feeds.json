@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-22T08:56:13.826053+00:00",
+  "updated": "2026-08-22T09:24:36.179237+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2445/",
+      "pubDate": "Sat, 22 Aug 2026 10:16:44 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sérvia contra saída de tropas da NATO de zona no Kosovo",
+      "link": "https://observador.pt/2026/08/22/servia-contra-saida-de-tropas-da-nato-de-zona-no-kosovo/",
+      "pubDate": "Sat, 22 Aug 2026 09:56:04 +0100",
+      "description": "O Presidente sérvio enviou uma carta a Mark Rutte citando mais de 800 ataques étnicos contra sérvios entre 2021 e 2026. A NATO garante \"presença visível\" na cidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22092829/47457563.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -29,26 +49,6 @@
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2448/",
       "pubDate": "Sat, 22 Aug 2026 09:03:05 +0100",
       "description": "O dirigente desvaloriza as novas polémicas e garante que Luís Neves não é o primeiro MAI a usar um carro apreendido pela PJ. Ainda, relatório final do acidente do Elevador da Glória só em março.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Se contasse histórias, as aulas corriam lindamente\"",
-      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/se-contasse-historias-as-aulas-corriam-lindamente/",
-      "pubDate": "Sat, 22 Aug 2026 08:26:48 +0100",
-      "description": "Professora durante 36 anos, Cristina Oliveira considera que viajar devia ser obrigatório. Apaixonada pelo Brasil, Cristina usou, ao longo da carreira, as histórias de viagem para sossegar os alunos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "8h. Engenharia Aeroespacial na UP tem a média mais alta",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2495/",
-      "pubDate": "Sat, 22 Aug 2026 08:11:43 +0100",
-      "description": "Já pelo terceiro ano consecutivo. As 30 vagas para esta licenciatura estão ocupadas e a nota mínima de acesso foi de 19,5 valores. Ainda, o Chega exige a exoneração do ministro Luís Neves.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -105,6 +105,26 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "OFICIAL: Chelsea renova com João Pedro até 2034",
+      "link": "https://maisfutebol.iol.pt/mercado/chelsea/oficial-chelsea-renova-com-joao-pedro-ate-2034",
+      "pubDate": "Sat, 22 Aug 2026 10:18:00 +0100",
+      "description": "Londrinos estendem ligação com o atacante internacional brasileiro",
+      "thumbnail": "https://img.iol.pt/image/id/68dbb824d34ee0c2fed0b455/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: campeão do mundo sub-17 deixa o Benfica e reforça o Girona",
+      "link": "https://maisfutebol.iol.pt/benfica/22-08-2026/oficial-campeao-do-mundo-sub-17-deixa-o-benfica-e-reforca-o-girona",
+      "pubDate": "Sat, 22 Aug 2026 09:56:00 +0100",
+      "description": "Mauro Furtado termina ligação de 13 épocas aos encarnados. Assina até 2031 pelos espanhóis",
+      "thumbnail": "https://img.iol.pt/image/id/6a8964f1d34e511da0b348f1/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "Marítimo lança documentário sobre a subida: «Valeu cada segundo»",
       "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-lanca-documentario-sobre-a-subida-valeu-cada-segundo",
       "pubDate": "Sat, 22 Aug 2026 09:46:00 +0100",
@@ -132,24 +152,14 @@
       "thumbnail": "https://img.iol.pt/image/id/69c04731d34edcee7c622a2b/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Sat, 22 Aug 2026 00:30:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Sat, 22 Aug 2026 00:25:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Engenharia Aeroespacial lidera acesso ao ensino superior com 19,5 valores",
+      "link": "https://eco.sapo.pt/2026/08/22/engenharia-aeroespacial-lidera-acesso-ao-ensino-superior-com-195-valores/",
+      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
+      "description": "Engenharia Aeroespacial da FEUP tem a nota mais alta da primeira fase, com 19,5 valores. No extremo oposto, Gestão e Informática em Lamego fecha nos 9,7, segundo os dados oficiais de colocação.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7zb99%2BusOnd845xXRSwKmNzjsLVwavNYCI5KnSgGahlz5heZg%2FnIKeSrPEUKZw97KPL10qXSw5m54imCdKN4YZKuDJDmce8XH2AZAfuWgLDUSr6BjHuNhmwgjkNCDgom"
     },
     {
       "sourceId": "sapo",
@@ -160,16 +170,6 @@
       "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
       "description": "A decisão surge após três dias de conversas em Washington entre representantes do governo dos dois países que acabaram suspensas e com o primeiro-ministro do Canadá a justificar que os EUA apresentaram mudanças \"injustas e economicamente...",
       "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AwlUbIOizgOOHxw9wF3KTajuTnbzW1JJZ7lwhMWm4D1%2BdoCZ7n2isbwz1UMF11vXK%2B011I5hmmh6dxrjCMOpTKrsSZtV2NzPIUHmsJgKcpVOVv0ZXQNdY7EkQzsDGIczZ"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Engenharia Aeroespacial lidera acesso ao ensino superior com 19,5 valores",
-      "link": "https://eco.sapo.pt/2026/08/22/engenharia-aeroespacial-lidera-acesso-ao-ensino-superior-com-195-valores/",
-      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
-      "description": "Engenharia Aeroespacial da FEUP tem a nota mais alta da primeira fase, com 19,5 valores. No extremo oposto, Gestão e Informática em Lamego fecha nos 9,7, segundo os dados oficiais de colocação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7zb99%2BusOnd845xXRSwKmNzjsLVwavNYCI5KnSgGahlz5heZg%2FnIKeSrPEUKZw97KPL10qXSw5m54imCdKN4YZKuDJDmce8XH2AZAfuWgLDUSr6BjHuNhmwgjkNCDgom"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Companhia de Teatro de Almada estreia \"Medida por Medida\" de Shakespeare",
-      "link": "https://www.noticiasaominuto.com/cultura/3039958/companhia-de-teatro-de-almada-estreia-medida-por-medida-de-shakespeare#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:47:07",
+      "title": "Avançado Jaiminho reforça União de Leiria",
+      "link": "https://www.noticiasaominuto.com/desporto/3039960/avancado-jaiminho-reforca-uniao-de-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 10:17:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f3fa7d5dd20a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8968eb14145.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTIxLCJjcm9wSGVpZ2h0IjoxMDgxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bancos centrais têm dificuldades com processo de renovar ou mudar sede",
-      "link": "https://www.noticiasaominuto.com/economia/3039959/bancos-centrais-tem-dificuldades-com-processo-de-renovar-ou-mudar-sede#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:42:23",
+      "title": "Entrevista Seat/Cupra: O carro que \"fará muito barulho\" em Portugal",
+      "link": "https://www.noticiasaominuto.com/auto/3037445/entrevista-seatcupra-o-carro-que-fara-muito-barulho-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 10:06:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f0acd73a61c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a87f6b74ca06.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkxOSwiY3JvcEhlaWdodCI6MTYzMywiY3JvcFgiOjg3NywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Veterinários e associações defendem investimento na esterilização de animais",
-      "link": "https://www.noticiasaominuto.com/pais/3039950/veterinarios-e-associacoes-defendem-investimento-na-esterilizacao-de-animais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:38:07",
+      "title": "\"Sou alcoólico. Quando tenho recaída, a minha mãe fica 7 dias no sofá\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037570/sou-alcoolico-quando-tenho-recaida-a-minha-mae-fica-7-dias-no-sofa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 10:05:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67f77cd3cc025.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6226123ae3e13.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mzc4LCJjcm9wWSI6NDM0fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Intensos bombardeamentos sacodem sul do Líbano",
-      "link": "https://www.noticiasaominuto.com/mundo/3039956/intensos-bombardeamentos-sacodem-sul-do-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:33:47",
+      "title": "Mensagens enviadas por pombos-correio? Há uma app para si",
+      "link": "https://www.noticiasaominuto.com/tech/3039299/mensagens-enviadas-por-pombos-correio-ha-uma-app-para-si#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 10:03:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895ee6704ab.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8739473c084.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzQyLCJjcm9wSGVpZ2h0Ijo5ODAsImNyb3BYIjo5LCJjcm9wWSI6MTMyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1NTEsImNyb3BIZWlnaHQiOjk4MCwiY3JvcFgiOjYxNywiY3JvcFkiOjEzfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sérvia contra saída de tropas da NATO de zona no Kosovo",
-      "link": "https://www.noticiasaominuto.com/mundo/3039954/servia-contra-saida-de-tropas-da-nato-de-zona-no-kosovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:29:11",
+      "title": "Fim do abate era necessário, mas canis estão \"completamente abarrotados\"",
+      "link": "https://www.noticiasaominuto.com/pais/3039953/fim-do-abate-era-necessario-mas-canis-estao-completamente-abarrotados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 10:02:53",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895dd30ec83.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_578b6b3fd54a6.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Não embarque na sua próxima viagem de avião sem este acessório",
+      "link": "https://pplware.sapo.pt/informacao/nao-embarque-na-sua-proxima-viagem-de-aviao-sem-este-acessorio/",
+      "pubDate": "Sat, 22 Aug 2026 09:00:22 +0000",
+      "description": "São pequenas, discretas, cabem facilmente na mala de cabine e podem fazer toda a diferença num voo longo: as meias de compressão têm cada vez mais adeptos entre quem viaja de avião, e a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/aviao_lugares_viagem_viajar-2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,44 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/starship_mar_01.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dispositivos vestíveis inteligentes vão faturar mais de um bilião de dólares até 2032",
-      "link": "https://pplware.sapo.pt/gadgets/dispositivos-vestiveis-inteligentes-vao-faturar-mais-de-um-biliao-de-dolares-ate-2032/",
-      "pubDate": "Fri, 21 Aug 2026 20:30:30 +0000",
-      "description": "O mercado global de dispositivos vestíveis inteligentes está prestes a atingir valores históricos de faturação nos próximos anos. Segundo um estudo recente, este setor deverá ultrapassar a fasquia de 1 bilião de dólares, impulsionado&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/11/smartwatch-desporto.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Fumo sem fogo: nova falsa partida da Aston Martin/Honda com o motor Spec2 na F1",
+      "link": "https://www.autosport.pt/formula1/fumo-sem-fogo-nova-falsa-partida-da-aston-martin-honda-com-o-motor-spec2-na-f1/",
+      "pubDate": "Sat, 22 Aug 2026 09:09:27 +0000",
+      "description": "Fernando Alonso terminou em 22º e último na qualificação sprint do Grande Prémio dos Países Baixos, enquanto Lance Stroll ficou em 19º, deixando a Aston Martin-Honda fora da SQ2 em Zandvoort. A equipa chegara ao circuito neerlandês com expectativas renovadas, depois dos sinais positivos da atualizaç",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Sébastien Ogier regressa no Rally do Paraguai após acidente na Finlândia",
+      "link": "https://www.autosport.pt/ralis/sebastien-ogier-regressa-no-rally-do-paraguai-apos-acidente-na-finlandia/",
+      "pubDate": "Sat, 22 Aug 2026 08:49:55 +0000",
+      "description": "Sébastien Ogier confirmou que está apto a regressar ao Campeonato do Mundo de Ralis, no Rally do Paraguai, na próxima semana, depois do acidente sofrido no Rally da Finlândia. O piloto da Toyota pretende ajudar a equipa a conquistar o décimo título mundial de construtores, resultado que igualaria o ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rally do Chile apresenta percurso renovado com 40% de troços inéditos",
+      "link": "https://www.autosport.pt/ralis/rally-do-chile-apresenta-percurso-renovado-com-40-de-trocos-ineditos/",
+      "pubDate": "Sat, 22 Aug 2026 08:45:10 +0000",
+      "description": "O Rally Chile Bio Bío terá um percurso significativamente renovado na edição de 2026, com quase 40% das estradas sem utilização anterior no Campeonato do Mundo de Ralis. A prova realiza-se de 10 a 13 de setembro e será a quinta presença do Chile no calendário do campeonato.A maior mudança acontece n",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Hayden Paddon regressa à terra no WRC: “melhor resultado possível para a equipa”",
+      "link": "https://www.autosport.pt/ralis/hayden-paddon-regressa-a-terra-no-wrc-melhor-resultado-possivel-para-a-equipa/",
+      "pubDate": "Sat, 22 Aug 2026 08:41:59 +0000",
+      "description": "Hayden Paddon vai disputar o Ueno Rally del Paraguay, na próxima semana, ao volante do terceiro Hyundai i20 N Rally1, naquele que será o seu primeiro rali de topo do Campeonato do Mundo de Ralis (WRC) em pisos de terra desde o Rally da Austrália, em 2018.O piloto neozelandês, de 39 anos, regressa à ",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-fernando-alonso-larga-da-via-das-boxes/",
       "pubDate": "Sat, 22 Aug 2026 08:37:36 +0000",
       "description": "George Russell vai liderar o pelotão na partida do Sprint do Grande Prémio da Holanda, em Zandvoort, depois de ter conquistado a pole position na qualificação sprint com o tempo de 1:11.567. O piloto da Mercedes bateu Lando Norris por apenas 0,041 segundos, com o piloto da McLaren a alinhar ao seu l",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rally dos Sertões promete disputas equilibradas nos carros e UTVs",
-      "link": "https://www.autosport.pt/todooterreno/rally-dos-sertoes-promete-disputas-equilibradas-nos-carros-e-utvs/",
-      "pubDate": "Fri, 21 Aug 2026 23:01:00 +0000",
-      "description": "O Rally dos Sertões Petrobras 2026 arranca com um dos mais competitivos alinhamentos da sua história, tanto entre os carros como nos UTVs. A prova, que decorre entre 22 e 30 de agosto, terá 4.020 quilómetros cronometrados e liga Goiânia a diferentes regiões de Goiás, Bahia, Maranhão e Tocantins. Ent",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP dos Países Baixos F1, Lando Norris: “Foi uma volta razoável”",
-      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-lando-norris-foi-uma-volta-razoavel/",
-      "pubDate": "Fri, 21 Aug 2026 17:24:23 +0000",
-      "description": "Lando Norris terminou a Qualificação Sprint do GP dos Países Baixos em segundo lugar, a apenas 0.041s de George Russell, num resultado que o próprio classificou como positivo, ainda que reconhecendo alguma desilusão por não ter conseguido a pole position em Zandvoort. Norris destacou a igualdade gen",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP dos Países Baixos F1, horários, Sprint-11h00, Qualificação, 15h00",
-      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-horarios-tl1-11h30-qualificacao-sprint-15h30/",
-      "pubDate": "Fri, 21 Aug 2026 17:19:00 +0000",
-      "description": "A Fórmula 1 regressa este fim de semana com um fim de semana no formato Sprint em Zandvoort, que recebe pela última vez o Grande Prémio dos Países Baixos. O circuito, localizado junto ao Mar do Norte, tem 4,259 quilómetros de extensão e 14 curvas, sendo a sua característica mais distintiva as duas c",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1, Lewis Hamilton: “Quando entrámos na qualificação o carro ficou completamente diferente”",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lewis-hamilton-quando-entramos-na-qualificacao-o-carro-ficou-completamente-diferente/",
-      "pubDate": "Fri, 21 Aug 2026 17:01:54 +0000",
-      "description": "Lewis Hamilton viveu uma Qualificação Sprint frustrante em Zandvoort, terminando apenas em sétimo lugar, a meio segundo do companheiro de equipa Charles Leclerc, que foi terceiro. O britânico da Ferrari admitiu não compreender a queda de rendimento do carro entre o primeiro treino livre e a qualific",
       "thumbnail": ""
     }
   ]
