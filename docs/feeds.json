@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-22T21:17:11.587909+00:00",
+  "updated": "2026-08-22T21:44:31.506168+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "No caso deMaxi, o braço despido era só uma questão de tempo",
+      "link": "https://observador.pt/2026/08/22/no-caso-do-capitao-maxi-o-braco-despido-era-so-mesmo-uma-questao-de-tempo-a-cronica-do-sporting-alverca/",
+      "pubDate": "Sat, 22 Aug 2026 22:39:11 +0100",
+      "description": "Falhou o objetivo de não sofrer golos, cumpriu o objetivo de voltar a ganhar: o Sporting venceu o Alverca em Alvalade à boleia de um golo e uma boa exibição de Maxi Araújo, que foi o capitão (3-1).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:98/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22223525/gettyimages-2291043652-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,64 +52,74 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19092622/47627488.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Explicador. Fragatas, papão dos submarinos e explicações",
-      "link": "https://observador.pt/especiais/explicador-as-fragatas-italianas-o-fantasma-dos-submarinos-e-as-explicacoes-do-governo/",
-      "pubDate": "Sat, 22 Aug 2026 20:19:13 +0100",
-      "description": "Governo acredita que negócio é necessário para modernizar Forças Armadas e chegar aos 2% do investimento do PIB em Defesa. Empresa portuguesa reclama papel mas não pede pagamento ao Estado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12131050/47597547.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Kevin De Bruyne salta do banco para desbloquear triunfo do Nápoles",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/kevin-de-bruyne-salta-do-banco-para-desbloquear-triunfo-do-napoles_d1761044",
+      "pubDate": "Sat, 22 Aug 2026 23:39:30 +0100",
+      "description": "O Nápoles venceu hoje por 2-0 em casa do Génova, na estreia na Liga italiana de futebol, com um golo e uma assistência nos minutos finais do belga Kevin De Bruyne, que começou no banco dos suplentes.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcda4db95ba4c9cf18825169ec051121?w=350&amp;q=50&amp;rect=0,35,2379,1304&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Abrantes. Incêndio florestal combatido por 500 bombeiros",
-      "link": "https://www.rtp.pt/noticias/pais/abrantes-incendio-florestal-combatido-por-500-bombeiros_n1761033",
-      "pubDate": "Sat, 22 Aug 2026 22:31:19 +0100",
-      "description": "Pelas 22:00 de sábado, o incêndio florestal iniciado na aldeia de Mouriscas, no concelho de Abrantes dava sinais de abrandamento, com possibilidade de ser dominado nas próximas horas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/40/405832ff807977e7009ef523349dc9be?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
+      "title": "Bayern Munique conquista Supertaça alemã com vitória sobre Borussia Dortmund",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/bayern-munique-conquista-supertaca-alema-com-vitoria-sobre-borussia-dortmund_d1761043",
+      "pubDate": "Sat, 22 Aug 2026 23:39:09 +0100",
+      "description": "O Bayern Munique, bicampeão e detentor da Taça, conquistou hoje a Supertaça alemã de futebol pela 12.ª vez, ao vencer o Borussia Dortmund por 2-1, tendo o português Fábio Silva marcado o único golo dos anfitriões.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aeb641f963dd3ec23d55d16b2f80d005?w=350&amp;q=50&amp;rect=0,173,4222,2315&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Portugal soma quatro medalhas nos jogos do Mediterrâneo",
-      "link": "https://www.rtp.pt/noticias/desporto/portugal-soma-quatro-medalhas-nos-jogos-do-mediterraneo_v1761031",
-      "pubDate": "Sat, 22 Aug 2026 22:00:47 +0100",
-      "description": "Portugal conquistou hoje as primeiras medalhas nos jogos do Mediterrâneo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c8/c83819245e58521de7be3ceb34c17363_N.jpg?"
+      "title": "Benfica empresta João Rego ao Casa Pia até final da temporada",
+      "link": "https://www.rtp.pt/noticias/benfica/benfica-empresta-joao-rego-ao-casa-pia-ate-final-da-temporada_d1761042",
+      "pubDate": "Sat, 22 Aug 2026 23:38:23 +0100",
+      "description": "O Benfica emprestou o jovem extremo João Rego ao Casa Pia, num acordo válido até ao final da presente temporada, informaram hoje os dois clubes que atuam na I Liga portuguesa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "El Niño. Canal do Panamá reage com redução de navios e de carga",
-      "link": "https://www.rtp.pt/noticias/mundo/el-nino-canal-do-panama-reage-com-reducao-de-navios-e-de-carga_v1761030",
-      "pubDate": "Sat, 22 Aug 2026 21:57:47 +0100",
-      "description": "O canal do Panamá reage ao El Niño, com a redução do número de navios mas também da dimensão das embarcações que por ali passam.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/98/98309b3ffa165709fcd3dd2e369793d2_N.jpg?"
+      "title": "Lyon de Paulo Fonseca vence em casa do Toulouse no arranque da liga francesa",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/lyon-de-paulo-fonseca-vence-em-casa-do-toulouse-no-arranque-da-liga-francesa_d1761041",
+      "pubDate": "Sat, 22 Aug 2026 23:38:04 +0100",
+      "description": "O Lyon, do treinador português Paulo Fonseca, venceu hoje por 2-0 em casa do Toulouse, no arranque da Liga francesa de futebol, antes de defrontar na quarta-feira o Fenerbahçe na qualificação para a Liga dos Campeões.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6fd7d8a240bf2a7a94628095df94b87?w=350&amp;q=50&amp;rect=0,96,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Brasil. Combate ao crime organizado domina campanha eleitoral",
-      "link": "https://www.rtp.pt/noticias/mundo/brasil-combate-ao-crime-organizado-domina-campanha-eleitoral_v1761029",
-      "pubDate": "Sat, 22 Aug 2026 21:55:47 +0100",
-      "description": "O combate aos grupos criminosos é central na campanha eleitoral do Brasil.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ab/abb429340a300faa4e521a84a4b6addf?w=350&amp;q=50&amp;rect=0,33,1500,822&amp;auto=format"
+      "title": "Seleção portuguesa de basquetebol bate Líbano liderada por Neemias Queta",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/selecao-portuguesa-de-basquetebol-bate-libano-liderada-por-neemias-queta_d1761037",
+      "pubDate": "Sat, 22 Aug 2026 23:18:19 +0100",
+      "description": "A seleção portuguesa de basquetebol venceu hoje o Líbano por 90-82, no segundo de dois particulares em Istambul, na Turquia, de preparação para o arranque da segunda fase de qualificação para o Mundial de 2027.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9260b17c3153cb17a93006882094579?w=350&amp;q=50&amp;rect=0,29,2048,1123&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Troca de ataques de drones entre Rússia e Ucrânia faz 22 mortos",
-      "link": "https://www.rtp.pt/noticias/mundo/troca-de-ataques-de-drones-entre-russia-e-ucrania-faz-22-mortos_v1761027",
-      "pubDate": "Sat, 22 Aug 2026 21:50:47 +0100",
-      "description": "Dezasseis pessoas morreram e mais de 100 ficaram feridas num ataque russo a um centro comercial na Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3d09a6b2136c83c5d6bf53a36233c48?w=350&amp;q=50&amp;rect=0,164,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting-Alverca, 3-1 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/cronica/sporting-alverca-3-1-cronica",
+      "pubDate": "Sat, 22 Aug 2026 22:39:00 +0100",
+      "description": "Varas verdes que já tremeram mais",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a126ad34ed0733ba812bf/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: golo ao cair do pano de salva Mourinho no regresso a Espanha",
+      "link": "https://maisfutebol.iol.pt/espanha/internacional/video-golo-ao-cair-do-pano-de-salva-mourinho-no-regresso-a-espanha",
+      "pubDate": "Sat, 22 Aug 2026 22:36:00 +0100",
+      "description": "Reforço Carlos Espí faturou aos 90 minutos para garantir o triunfo do Real Madrid sobre o Espanhol de Barcelona",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a0374d34ed0733ba81299/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 21:30:00 +0100",
       "description": "Estoril-Rio Ave, 0-2 (reportagem)",
       "thumbnail": "https://img.iol.pt/image/id/6a89ed37d34ed0733ba81274/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Silaidopoulos: «Diogo Nascimento é muito inteligente»",
-      "link": "https://maisfutebol.iol.pt/liga/resultados/silaidopoulos-diogo-nascimento-e-muito-inteligente",
-      "pubDate": "Sat, 22 Aug 2026 21:27:09 +0100",
-      "description": "Estoril-Rio Ave, 0-2 (reportagem)",
-      "thumbnail": "https://img.iol.pt/image/id/6a89eda7d34ed0733ba81276/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Benfica empresta João Rego ao Casa Pia",
-      "link": "https://maisfutebol.iol.pt/benfica/joao-rego/oficial-benfica-empresta-joao-rego-ao-casa-pia",
-      "pubDate": "Sat, 22 Aug 2026 21:15:00 +0100",
-      "description": "Médio-ofensivo é cedido aos «gansos» até ao final da temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a0613d34e511da0b34a54/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Motociclista morre após colisão entre motociclo e carro em Alfeizerão",
-      "link": "https://www.noticiasaominuto.com/pais/3040130/motociclista-morre-apos-colisao-entre-motociclo-e-carro-em-alfeizerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:09:59",
+      "title": "Lula e Flávio Bolsonaro realizam comícios simultâneos no Rio de Janeiro",
+      "link": "https://www.noticiasaominuto.com/mundo/3040138/lula-e-flavio-bolsonaro-realizam-comicios-simultaneos-no-rio-de-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:37:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc316314.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMzN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a168843b62.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNDAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Há mais uma surpresa (e homenagem) no nome da filha da princesa Eugenie",
-      "link": "https://www.noticiasaominuto.com/fama/3037842/ha-mais-uma-surpresa-e-homenagem-no-nome-da-filha-da-princesa-eugenie#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:08:04",
+      "title": "Fogo em Abrantes mobiliza 578 operacionais. Há três feridos ligeiros",
+      "link": "https://www.noticiasaominuto.com/pais/3040135/fogo-em-abrantes-mobiliza-578-operacionais-ha-tres-feridos-ligeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:30:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a838c3167daf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg3OCwiY3JvcEhlaWdodCI6MTU2MiwiY3JvcFgiOjE2OCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68bf4c67b8383.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Jovem procura mãe que desapareceu há 24 anos nos Estados Unidos",
-      "link": "https://www.noticiasaominuto.com/mundo/3040128/jovem-procura-mae-que-desapareceu-ha-24-anos-nos-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:07:57",
+      "title": "EM DIRETO: Sporting vence diante do Alverca. FC Porto joga no domingo",
+      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:29:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0fb1adac5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTExMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89ffa0f1ac5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjl9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lusitânia de Lourosa e Torreense não vão além de um empate",
-      "link": "https://www.noticiasaominuto.com/desporto/3040113/lusitania-de-lourosa-e-torreense-nao-vao-alem-de-um-empate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:56:37",
+      "title": "Suárez faz as pazes com os adeptos e Sporting sobe ao trono... à condição",
+      "link": "https://www.noticiasaominuto.com/desporto/3040132/suarez-faz-as-pazes-com-os-adeptos-e-sporting-sobe-ao-trono-a-condicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:28:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0cdae8cf7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0e9d95d80.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fábio Silva marca, mas Bayern conquista Supertaça frente ao Dortmund",
-      "link": "https://www.noticiasaominuto.com/desporto/3040124/fabio-silva-marca-mas-bayern-conquista-supertaca-frente-ao-dortmund#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:51:55",
+      "title": "Efeito Mourinho aparece. Real Madrid evita tropeção com vitória tardia",
+      "link": "https://www.noticiasaominuto.com/desporto/3040133/efeito-mourinho-aparece-real-madrid-evita-tropecao-com-vitoria-tardia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:27:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0bb249166.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0d1b9fbb3.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Poderemos viver até aos 200 anos? Ciência encontra um novo limite para a vida humana",
+      "link": "https://pplware.sapo.pt/ciencia/poderemos-viver-ate-aos-200-anos-ciencia-encontra-um-novo-limite-para-a-vida-humana/",
+      "pubDate": "Sat, 22 Aug 2026 21:30:39 +0000",
+      "description": "Viver até aos 100 anos é excecional, mas um novo estudo sugere que o ser humano poderia, num cenário extremo, viver entre 146 e 194 anos. Há, contudo, um enorme &#8220;mas&#8221;. O que aconteceria&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/recorde_idade00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 18:00:45 +0000",
       "description": "Há empregos em que um erro pode custar dinheiro. Em The Money Man, pode custar a própria vida. O novo jogo narrativo da Fenyx Digital já tem uma demo disponível na Steam. The Money&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/TheMoneyMan_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Git: a importância do ficheiro .gitconfig e como pode ajudar",
-      "link": "https://pplware.sapo.pt/tutoriais/git-a-importancia-do-ficheiro-gitconfig-e-como-pode-ajudar/",
-      "pubDate": "Sat, 22 Aug 2026 17:00:03 +0000",
-      "description": "Quem desenvolve ou gere projetos de código sabe que manter o código organizado e controlar as alterações é fundamental. É neste contexto que ferramentas como o Git assumem um papel importante, permitindo acompanhar alterações,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/git_capa.png"
     },
     {
       "sourceId": "autosport",
