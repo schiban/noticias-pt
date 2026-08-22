@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-22T02:18:14.546757+00:00",
+  "updated": "2026-08-22T03:14:32.437998+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2378/",
+      "pubDate": "Sat, 22 Aug 2026 04:14:09 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,10 +25,10 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
+      "title": "2h. Ensino Superior. Maioria entrou na primeira opção",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2387/",
       "pubDate": "Sat, 22 Aug 2026 02:17:21 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Foram admitidos quase 50 mil estudantes. Ainda, foi prolongado por mais 6 meses a publicação do relatório final sobre o acidente com o Elevador da Glória.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -35,21 +45,21 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
+      "title": "1h. Divulgados resultados da 1.ª fase acesso Ensino Superior",
       "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2360/",
       "pubDate": "Sat, 22 Aug 2026 01:14:22 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O curso de Engenharia Aeroespacial na Universidade do Porto é o que tem média mais alta. Ainda, o Chega pediu a demissão do MAI numa iniciativa parlamentar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Boris Johnson quer Harry e Meghan de volta à realeza",
-      "link": "https://observador.pt/2026/08/22/boris-johnson-quer-harry-e-meghan-na-realeza-tragam-de-volta-os-seis-grandes/",
-      "pubDate": "Sat, 22 Aug 2026 00:46:56 +0100",
-      "description": "O antigo primeiro-ministro britânico defende a reintegração total dos Sussex na família real e considera que Harry e Meghan \"têm muito a oferecer\" ao completar a lista dos \"Seis Grandes\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/05/06132054/gettyimages-1252743397-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Ensino superior: maioria ficou na primeira opção",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ensino-superior-maioria-ficou-na-primeira-opcao_a1_1760928",
+      "pubDate": "Sat, 22 Aug 2026 04:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Fri, 21 Aug 2026 23:37:27 +0100",
       "description": "O juiz-presidente do Supremo Tribunal dos Estados Unidos, John Roberts, permitiu que o Presidente Donald Trump continue a construção do salão de baile da Casa Branca, avaliado em 400 milhões de dólares (342,4 milhões de euros).",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d778fbf0dc331a7f07894adbf7d29c96?w=350&amp;q=50&amp;rect=0,343,4014,2201&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Diplomata da Guiana supera costa-riquenha Grynspan em segunda votação para líder da ONU",
-      "link": "https://www.rtp.pt/noticias/mundo/diplomata-da-guiana-supera-costa-riquenha-grynspan-em-segunda-votacao-para-lider-da-onu_n1760880",
-      "pubDate": "Fri, 21 Aug 2026 23:35:54 +0100",
-      "description": "A diplomata da Guiana Carolyn Rodrigues-Birkett ultrapassou hoje a costa-riquenha Rebeca Grynspan na segunda votação do Conselho de Segurança das Nações Unidas sobre os candidatos a secretário-geral da organização, segundo fontes diplomáticas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/90/90341493793b76f60ec1f95d06cf6bd3?w=350&amp;q=50&amp;rect=0,221,6000,3289&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
