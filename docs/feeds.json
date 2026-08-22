@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-22T16:18:27.948497+00:00",
+  "updated": "2026-08-22T16:48:18.478840+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Seguro avisa: \"As reformas em Portugal são sagradas\"",
+      "link": "https://observador.pt/2026/08/22/seguro-diz-que-as-reformas-em-portugal-sao-sagradas/",
+      "pubDate": "Sat, 22 Aug 2026 17:34:21 +0100",
+      "description": "O Presidente da República diz que alterações à lei competem \"ao Parlamento ou ao Governo\", mas avisa que \"as reformas em Portugal são sagradas\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22172224/47646955.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mais de 200 operacionais combatem fogo em Abrantes",
+      "link": "https://observador.pt/2026/08/22/mais-de-200-operacionais-combatem-fogo-em-abrantes/",
+      "pubDate": "Sat, 22 Aug 2026 17:31:20 +0100",
+      "description": "O incêndio, cujo alerta foi dado pelas 15:11, iniciou-se \"com grande intensidade, com duas frentes ativas e várias projeções\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:170/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20180656/47627432-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fogo em Santa Marta de Penaguião com 133 operacionais",
+      "link": "https://observador.pt/2026/08/22/fogo-em-santa-marta-de-penaguiao-tem-133-operacionais-no-terreno/",
+      "pubDate": "Sat, 22 Aug 2026 17:30:54 +0100",
+      "description": "O fogo, que começou pelas 13:54, tem duas frentes ativas a consumir uma zona de mato. O incêndio não ameaça, para já, qualquer habitação.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05060715/45470724.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,52 +52,32 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22162442/47646657.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Leão XIV: \"Antes das fronteiras estão sempre as pessoas\"",
-      "link": "https://observador.pt/2026/08/22/leao-xiv-avisa-que-antes-das-fronteiras-e-das-instituicoes-estao-sempre-as-pessoas-2/",
-      "pubDate": "Sat, 22 Aug 2026 17:04:29 +0100",
-      "description": "Perante cinco mil participantes, o pontífice encorajou-os a entrar em contacto \"com aquilo que une, de forma originária, os seres humanos, para além de toda a diversidade, separação ou conflito\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:185/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22162413/47647070.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pedro Duarte: \"Quem manda na cidade não são os delinquentes\"",
-      "link": "https://observador.pt/2026/08/22/pedro-duarte-pede-resposta-forte-do-estado-para-estancar-violencia-quem-manda-na-cidade-nao-sao-os-delinquentes-sao-as-autoridades/",
-      "pubDate": "Sat, 22 Aug 2026 16:58:21 +0100",
-      "description": "Autarca do Porto defende que a cidade não tem um problema grave de segurança, mas pede ações rápidas para estancar violência. Segurança rodoviária? \"Automóvel tem que passar para segundo lugar\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/24213531/46537187.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Farioli: saída de Mora para a Roma \"foi financeira\"",
-      "link": "https://observador.pt/2026/08/22/a-saida-do-rodrigo-mora-foi-uma-decisao-financeira-diz-farioli/",
-      "pubDate": "Sat, 22 Aug 2026 16:36:40 +0100",
-      "description": "Treinador do FC Porto rejeita ter influenciado saída de Mora e revela episódio no balneário antes do Rio Ave: jogador discursou sobre \"o seu amor pelo Porto\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22152008/47616440.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Estoril Praia- Rio Ave",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-praia-rio-ave_e1760995",
+      "pubDate": "Sat, 22 Aug 2026 18:39:09 +0100",
+      "description": "A equipa do Estoril Praia, 14.º classificado, com um ponto, e Rio Ave, 17.º, ainda sem pontos, medem forças este sábado, no Estádio António Coimbra da Mota, no Estoril, sob arbitragem de Carlos Macedo, da associação de Braga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8ea0e47c0090d1b5239449dfca8b9f28?w=350&amp;q=50&amp;rect=0,104,1420,779&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
-      "link": "https://www.rtp.pt/noticias/mundo/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios_n1760993",
-      "pubDate": "Sat, 22 Aug 2026 18:14:03 +0100",
-      "description": "O Canadá vai retaliar contra as novas tarifas norte-americanas, impondo direitos aduaneiros sobre o aço, equipamentos eletrónicos e produtos lácteos comprados aos Estados Unidos da América a partir de 08 de setembro, anunciou hoje o primeiro-ministro, Mark Carney.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Taranto2026. Nadadora Francisca Martins conquista ouro nos 400 metros livres",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-nadadora-francisca-martins-conquista-ouro-nos-400-metros-livres_d1760999",
+      "pubDate": "Sat, 22 Aug 2026 18:30:46 +0100",
+      "description": "A nadadora portuguesa Francisca Martins conquistou hoje a medalha de ouro na prova dos 400 metros livres dos Jogos do Mediterrâneo Taranto2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3b0480b7656c39a894e32bad625fa507?w=350&amp;q=50&amp;rect=0,37,1170,641&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "16h Palhinha em Portugal diz que ainda é jogador do Bayern",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-palhinha-em-portugal-diz-que-ainda-e-jogador-do-bayern_a1_1760994",
-      "pubDate": "Sat, 22 Aug 2026 17:56:02 +0100",
+      "title": "17h Incêndio em Abrantes envolve 12 meios aéreos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-incendio-em-abrantes-envolve-12-meios-aereos_a1_1760998",
+      "pubDate": "Sat, 22 Aug 2026 18:28:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +85,61 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Tribunal federal dos EUA anula suspensão de vistos imposta por Trump a 75 países",
-      "link": "https://www.rtp.pt/noticias/lusa/tribunal-federal-dos-eua-anula-suspensao-de-vistos-imposta-por-trump-a-75-paises_n1760985",
-      "pubDate": "Sat, 22 Aug 2026 17:55:45 +0100",
-      "description": "Um tribunal federal norte-americano anulou a suspensão dos vistos de imigrantes de 75 países, considerando que o secretário de Estado, Marco Rubio, excedeu a sua autoridade legal ao tomar esta medida no início de 2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/891766dc622e0057cea4b24fe1c0282a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+      "title": "Seguro diz que as reformas em Portugal são sagradas",
+      "link": "https://www.rtp.pt/noticias/economia/seguro-diz-que-as-reformas-em-portugal-sao-sagradas_n1760996",
+      "pubDate": "Sat, 22 Aug 2026 18:26:42 +0100",
+      "description": "O Presidente da República, António José Seguro, considerou hoje que &quot;as reformas em Portugal são sagradas&quot;, lembrando que eventuais alterações às leis relativa aos sistemas de pensões competem ao Parlamento ou ao Governo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5626300bcbf1eaa60a50cafbf714304?w=350&amp;q=50&amp;rect=0,128,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Síria endurece o tom e acusa Israel de \"violação flagrante\" da sua soberania",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/siria-endurece-o-tom-e-acusa-israel-de-violacao-flagrante-da-sua-soberania_n1760992",
-      "pubDate": "Sat, 22 Aug 2026 17:51:09 +0100",
-      "description": "Um ataque israelita com drone este sábado, no sul da Síria, dias depois do bombardeamento de uma base militar no noroeste, levou Damasco a endurecer as críticas contra Israel e a falar em &quot;padrão&quot; na estratégia ofensiva israelita.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/808f925e5f185326288ac846eeb9b3a3?w=350&amp;q=50&amp;rect=0,143,1500,822&amp;auto=format"
+      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
+      "link": "https://www.rtp.pt/noticias/economia/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios_n1760993",
+      "pubDate": "Sat, 22 Aug 2026 18:14:03 +0100",
+      "description": "O Canadá vai retaliar contra as novas tarifas norte-americanas, impondo direitos aduaneiros sobre o aço, equipamentos eletrónicos e produtos lácteos comprados aos Estados Unidos da América a partir de 08 de setembro, anunciou hoje o primeiro-ministro, Mark Carney.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5a/5a0a5479cc80afceab8202d59175f863?w=350&amp;q=50&amp;rect=0,76,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "II Liga. Amarante conquista primeiro ponto nos campeonatos profissionais em Vizela",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-amarante-conquista-primeiro-ponto-nos-campeonatos-profissionais-em-vizela_d1760991",
-      "pubDate": "Sat, 22 Aug 2026 17:28:26 +0100",
-      "description": "O Amarante conquistou hoje o primeiro ponto da sua história nos campeonatos profissionais de futebol, ao empatar 0-0 no terreno do Vizela, em encontro da terceira jornada da II Liga.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: será o golo do ano? Jogador do Bristol City aponta golaço de calcanhar",
+      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/video-sera-o-golo-do-ano-jogador-do-bristol-city-aponta-golaco-de-calcanhar",
+      "pubDate": "Sat, 22 Aug 2026 17:42:00 +0100",
+      "description": "Dom Ballard assinou um momento de pura magia no Birmingham-Bristol City no Championship",
+      "thumbnail": "https://img.iol.pt/image/id/6a89d12fd34e511da0b349ea/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Gasperini: «Mora tem todas as características para ter sucesso»",
+      "link": "https://maisfutebol.iol.pt/made-in/italia/gasperini-mora-tem-todas-as-caracteristicas-para-ter-sucesso",
+      "pubDate": "Sat, 22 Aug 2026 17:41:00 +0100",
+      "description": "Treinador da Roma diz que o jovem ainda não é um líder da equipa, mas pode vir a sê-lo",
+      "thumbnail": "https://img.iol.pt/image/id/6a8579dfd34ed0733ba80822/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Voleibol: Pelegrín Vargas é reforço do Benfica",
+      "link": "https://maisfutebol.iol.pt/voleibol/voleibol-benfica/voleibol-pelegrin-vargas-e-reforco-do-benfica",
+      "pubDate": "Sat, 22 Aug 2026 17:33:29 +0100",
+      "description": "Internacional porto-riquenho assina contrato válido por uma temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a89cf2dd34e511da0b349e2/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Premier: Leeds, Ipswich e Everton de Beto vencem na primeira jornada",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/premier-leeds-ipswich-e-everton-de-beto-vencem-na-primeira-jornada",
+      "pubDate": "Sat, 22 Aug 2026 17:17:00 +0100",
+      "description": "Os dois primeiros conseguiram ganhar somente nos instantes finais",
+      "thumbnail": "https://img.iol.pt/image/id/6a89caced34e511da0b349db/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 17:13:28 +0100",
       "description": "Treinador do Famalicão antevê um jogo difícil diante do Santa Clara e destacou a evolução da equipa após a derrota com o Marítimo",
       "thumbnail": "https://img.iol.pt/image/id/6a53cd43d34ef04b4f3f605d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Petit: «Num bom momento, Gonçalo Paciência pode ser dos melhores avançados da Liga»",
-      "link": "https://maisfutebol.iol.pt/santa-clara/liga/petit-num-bom-momento-goncalo-paciencia-pode-ser-dos-melhores-avancados-da-liga",
-      "pubDate": "Sat, 22 Aug 2026 17:13:00 +0100",
-      "description": "Treinador do Santa Clara antevê duelo diante do Famalicão",
-      "thumbnail": "https://img.iol.pt/image/id/6a80b601d34e511da0b33841/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Tiago Margarido e o reencontro com o Nacional: «O foco é totalmente a vitória»",
-      "link": "https://maisfutebol.iol.pt/vitoria-guimaraes/liga/tiago-margarido-e-o-reencontro-com-o-nacional-o-foco-e-totalmente-a-vitoria",
-      "pubDate": "Sat, 22 Aug 2026 17:06:00 +0100",
-      "description": "Técnico do V. Guimarães antevê jogo diante da antiga equipa",
-      "thumbnail": "https://img.iol.pt/image/id/6a3bccdfd34edcee7c65a601/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: União de Leira bate Leixões e soma os primeiros pontos da temporada",
-      "link": "https://maisfutebol.iol.pt/ii-liga/vizela/ii-liga-uniao-de-leira-bate-leixoes-e-soma-os-primeiros-pontos-da-temporada",
-      "pubDate": "Sat, 22 Aug 2026 16:59:25 +0100",
-      "description": "Formação de Leiria foi a Matosinhos vencer por 4-2",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c6b7d34e511da0b349d2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "F1: Lando Norris conquista pole debaixo de chuva por uma décima",
-      "link": "https://maisfutebol.iol.pt/formula-1/automobilismo/f1-lando-norris-conquista-pole-debaixo-de-chuva-por-uma-decima",
-      "pubDate": "Sat, 22 Aug 2026 16:59:16 +0100",
-      "description": "Britânico da McLaren foi mais rápido no derradeiro momento da qualificação com George Russell e Kimi Antonelli, ambos Mercedes, a garantirem os dois lugares seguintes da grelha",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c726d34ed0733ba8121c/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Toalhas velhas prestes a irem para o lixo? Dê-lhes estas 3 utilidades",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3038097/toalhas-velhas-prestes-a-irem-para-o-lixo-de-lhes-estas-3-utilidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:01:30",
+      "title": "EM DIRETO: Marítimo e Académico empatam. Segue-se o jogo na Amoreira",
+      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:39:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8456d55ba8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg4LCJjcm9wSGVpZ2h0IjoxMjg3LCJjcm9wWCI6MTQsImNyb3BZIjozOX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a762be6a9caa.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
-      "link": "https://www.noticiasaominuto.com/economia/3040045/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:49:46",
+      "title": "Marrocos pede repatriamento de sobreviventes e mortos ainda em Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3040053/marrocos-pede-repatriamento-de-sobreviventes-e-mortos-ainda-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:38:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_697bd56cad166.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a73ab0de2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Detido por atear dois incêndios em Foz Côa: Dizia estar a limpar o mato",
-      "link": "https://www.noticiasaominuto.com/pais/3040044/detido-por-atear-dois-incendios-em-foz-coa-dizia-estar-a-limpar-o-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:44:02",
+      "title": "Síria condena ataque israelita considerando-o uma \"violação da soberania\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3040054/siria-condena-ataque-israelita-considerando-o-uma-violacao-da-soberania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:37:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_578c709c8bcb3.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89d043f1e16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDN9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Amarante conquista primeiro ponto nos campeonatos profissionais em Vizela",
-      "link": "https://www.noticiasaominuto.com/desporto/3040036/amarante-conquista-primeiro-ponto-nos-campeonatos-profissionais-em-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:38:03",
+      "title": "Golo de Butzke permite ao Marítimo resgatar frente ao Académico de Viseu",
+      "link": "https://www.noticiasaominuto.com/desporto/3040058/golo-de-butzke-permite-ao-maritimo-resgatar-frente-ao-academico-de-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:35:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89c2197dc0c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg0N319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89cfd8f050b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NDAsImNyb3BIZWlnaHQiOjQ3MywiY3JvcFgiOjIsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozMzAsImNyb3BIZWlnaHQiOjU4NywiY3JvcFgiOjIxMywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fogo em Santa Marta de Penaguião tem 133 operacionais no terreno",
-      "link": "https://www.noticiasaominuto.com/pais/3040041/fogo-em-santa-marta-de-penaguiao-tem-133-operacionais-no-terreno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:32:55",
+      "title": "Portugal e Espanha: Eixo Atlântico defende criação de centro conjunto",
+      "link": "https://www.noticiasaominuto.com/pais/3040049/portugal-e-espanha-eixo-atlantico-defende-criacao-de-centro-conjunto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:35:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MTYwMSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f96d24e4f0d7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDZ9fQ=="
     },
     {
       "sourceId": "pplware",
@@ -305,50 +305,50 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "GP Países Baixos F1, Toto Wolff: “Ficámos um pouco preocupados que pudéssemos perder os primeiros lugares”",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-toto-wolff-ficamos-um-pouco-preocupados-que-pudessemos-perder-os-primeiros-lugares/",
+      "pubDate": "Sat, 22 Aug 2026 15:41:09 +0000",
+      "description": "Toto Wolff classificou como &#8220;sólida&#8221; a sessão de qualificação da Mercedes em Zandvoort. O chefe da Mercedes admitiu que a equipa chegou a temer perder os primeiros lugares, mas o segundo e o terceiro posto dão alento à estrutura germânica. Wolff, viu George Russell ficar a 0,1 segundo da",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1, Lando Norris na pole em Zandvoort: “estou um pouco surpreendido, sinceramente”",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lando-norris-na-pole-em-zandvoort-estou-um-pouco-surpreendido-sinceramente/",
+      "pubDate": "Sat, 22 Aug 2026 15:35:17 +0000",
+      "description": "Lando Norris garantiu a &#8220;pole position&#8221; para o Grande Prémio dos Países Baixos de Fórmula 1, registando 1m11.163s e superando por uma margem mínima George Russell e Kimi Antonelli. A McLaren mostrou um ritmo forte numa volta rápida, contrastando com o desempenho em distância de corrida v",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP dos Países Baixos, F1: Andrea Stella quer McLaren a melhorar o ritmo com pneus usados",
+      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-andrea-stella-quer-mclaren-a-melhorar-o-ritmo-com-pneus-usados/",
+      "pubDate": "Sat, 22 Aug 2026 15:32:39 +0000",
+      "description": "O ritmo puro da McLaren em pistas com elevadas exigência aerodinâmica parece claro e a equipa de Woking transformou-se numa das melhores neste capítulo. No entanto, o ritmo evidenciado na Corrida Sprint mostra que a equipa tem ainda dificuldades em gerir os pneus, o que pode dar dores de cabeça para",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1, Kimi Antonelli foi 3º: “cometi um erro na Curva 1″",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-kimi-antonelli-foi-3o-cometi-um-erro-na-curva-1/",
+      "pubDate": "Sat, 22 Aug 2026 15:30:33 +0000",
+      "description": "O líder do campeonato de Fórmula 1, Kimi Antonelli (Mercedes), qualificou-se em terceiro para o Grande Prémio dos Países Baixos de F1 em Zandvoort. No final da qualificação, Kimi Antonelli lamentou o resultado na pista neerlandesa: &#8220;Foi uma sessão difícil para mim no geral&#8221;. Acrescentou ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "GP Países Baixos F1, George Russell satisfeito com 2º lugar: “sinto-me eu mesmo, de novo”",
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-george-russell-satisfeito-com-2o-lugar-sinto-me-eu-mesmo-de-novo/",
       "pubDate": "Sat, 22 Aug 2026 15:20:23 +0000",
       "description": "George Russell qualificou-se este sábado na segunda posição para o Grande Prémio dos Países Baixos de Fórmula 1, rubricando uma volta em 1m11.265s ao volante do seu Mercedes. Após a sessão, o piloto da Mercedes admitiu estar bastante satisfeito com o resultado, sublinhando a importância de recuperar",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP dos Países Baixos, F1: Lando Norris faz a pole",
-      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-lando-norris-faz-a-pole/",
-      "pubDate": "Sat, 22 Aug 2026 15:08:37 +0000",
-      "description": "Lando Norris foi o mais rápido na qualificação do GP dos Países Baixos. O piloto da McLaren foi o mais rápido, mas não pareceu muito feliz, provavelmente com a noção que o ritmo de corrida da McLaren não ajudará na missão de tentar a segunda vitória consecutiva. George Russell ficou a 0,1 segundos d",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP dos Países Baixos F1, Q2: Pierre Gasly eliminado",
-      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-q2-pierre-gasly-eliminado/",
-      "pubDate": "Sat, 22 Aug 2026 14:45:21 +0000",
-      "description": "O começo da Q2 também nos deu carros desde o começo da sessão, com os Mercedes a irem para a pista assim que a luz verde surgiu no final da via da boxes, tal como Max Verstappen, como habitualmente. George Russell começou com vontade e iniciou a Q2 no segundo 11, bem à frente de [&#8230;]\nThe post G",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1, Q1: Carlos Sainz e Oliver Bearman eliminados",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-q1-carlos-sainz-e-oliver-bearman-eliminados/",
-      "pubDate": "Sat, 22 Aug 2026 14:24:49 +0000",
-      "description": "Oscar Piastri foi o mais rápido na Q1, seguido de Lewis Hamilton e Lando Norris. No extremo oposto, ficaram os pilotos da Cadillac, da Aston Martin, Oliver Bearman e Carlos Sainz. Depois da pole e do triunfo de George Russell na &#8220;secção&#8221; Sprint do GP dos Países Baixos, chegamos à qualifi",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Cupra acelera no Circuito do Estoril",
-      "link": "https://www.autosport.pt/automais/cupra-acelera-no-circuito-do-estoril/",
-      "pubDate": "Sat, 22 Aug 2026 14:15:12 +0000",
-      "description": "Por João Isaac A Cupra anunciou a promoção de um dia dedicado ao contacto direto com os automóveis da marca, com diversas atividades para o público, no Circuito do Estoril. Na agenda do Cupra Performance Days marcado para 11 de setembro, experiências de condução no “paddock”e em pista, e possibilida",
       "thumbnail": ""
     }
   ]
