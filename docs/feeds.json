@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-22T17:44:18.752923+00:00",
+  "updated": "2026-08-22T18:22:55.035097+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2153/",
+      "pubDate": "Sat, 22 Aug 2026 19:14:34 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Seguro ouve apelo para falar com Sánchez e desbloquear TGV",
+      "link": "https://observador.pt/2026/08/22/eixo-atlantico-pede-a-seguro-para-falar-com-sanchez-para-desbloquear-tgv/",
+      "pubDate": "Sat, 22 Aug 2026 19:12:06 +0100",
+      "description": "Xoan Mao pede a intervenção do Presidente e diz que a relação entre os ministros das Infraestruturas de Portugal e Espanha \"não é uma relação porque não falam\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22184651/47647139.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Proteção Civil faz recomendações para dias de chuva e vento",
+      "link": "https://observador.pt/2026/08/22/dias-de-chuva-vento-e-risco-de-inundacoes-protecao-civil-recomenda-evitar-zonas-inundadas-ou-com-arvores/",
+      "pubDate": "Sat, 22 Aug 2026 18:59:03 +0100",
+      "description": "Meteorologia vai sofrer mudança abrupta, com risco de inundações e estradas mais perigosas. A condução deve ser mais defensiva e lenta e há risco de queda de árvores.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/23195408/46488277.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Seguro avisa: \"As reformas em Portugal são sagradas\"",
-      "link": "https://observador.pt/2026/08/22/seguro-diz-que-as-reformas-em-portugal-sao-sagradas/",
-      "pubDate": "Sat, 22 Aug 2026 17:34:21 +0100",
-      "description": "O Presidente da República diz que alterações à lei competem \"ao Parlamento ou ao Governo\", mas avisa que \"as reformas em Portugal são sagradas\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22172224/47646955.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo em Abrantes está “complicado”",
-      "link": "https://observador.pt/2026/08/22/mais-de-200-operacionais-combatem-fogo-em-abrantes/",
-      "pubDate": "Sat, 22 Aug 2026 17:31:20 +0100",
-      "description": "O incêndio, cujo alerta foi dado pelas 15:11, iniciou-se \"com grande intensidade, com duas frentes ativas e várias projeções\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22183139/img-1134-easy-resizecom.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fogo em Santa Marta de Penaguião com 133 operacionais",
-      "link": "https://observador.pt/2026/08/22/fogo-em-santa-marta-de-penaguiao-tem-133-operacionais-no-terreno/",
-      "pubDate": "Sat, 22 Aug 2026 17:30:54 +0100",
-      "description": "O fogo, que começou pelas 13:54, tem duas frentes ativas a consumir uma zona de mato. O incêndio não ameaça, para já, qualquer habitação.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05060715/45470724.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "19h Camila Rebelo revalida o ouro em Itália",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-camila-rebelo-revalida-o-ouro-em-italia_a1_1761011",
+      "pubDate": "Sat, 22 Aug 2026 20:21:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/25d7ade43d17fe3f69e4868c3bb53967_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga. Estoril Praia- Rio Ave",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-praia-rio-ave_e1760995",
-      "pubDate": "Sat, 22 Aug 2026 18:39:09 +0100",
-      "description": "A equipa do Estoril Praia, 14.º classificado, com um ponto, e Rio Ave, 17.º, ainda sem pontos, medem forças este sábado, no Estádio António Coimbra da Mota, no Estoril, sob arbitragem de Carlos Macedo, da associação de Braga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8ea0e47c0090d1b5239449dfca8b9f28?w=350&amp;q=50&amp;rect=0,104,1420,779&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vuelta: Pogacar vence contrarrelógio por nove centésimos e veste de vermelho",
+      "link": "https://maisfutebol.iol.pt/ciclismo/vuelta-espanha/vuelta-pogacar-vence-contrarrelogio-por-nove-centesimos-e-veste-a-camisola-vermelha",
+      "pubDate": "Sat, 22 Aug 2026 19:06:00 +0100",
+      "description": "Esloveno foi o mais rápido nas ruas do Mónaco, batendo Ethan Hayter pela liderança. João Almeida foi 18.º classificado, a 18 segundos",
+      "thumbnail": "https://img.iol.pt/image/id/6a89e514d34e511da0b34a0c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Van der Gaag: «Este ponto mostra que é muito difícil ganhar jogos na Liga»",
+      "link": "https://maisfutebol.iol.pt/maritimo/mitchell-van-der-gaag/van-der-gaag-este-ponto-mostra-que-e-muito-dificil-ganhar-jogos-na-liga",
+      "pubDate": "Sat, 22 Aug 2026 19:01:00 +0100",
+      "description": "Marítimo-Académico de Viseu, 2-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a89ce85d34ed0733ba8122d/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Wolves de César Peixoto vence o Preston e soma primeira vitória no Championship",
+      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/wolves-de-cesar-peixoto-vence-o-preston-e-soma-primeira-vitoria-no-championship",
+      "pubDate": "Sat, 22 Aug 2026 18:50:00 +0100",
+      "description": "West Ham de Nuno Espírito Santo perde com o Charlton e Swansea de Vítor Matos empata a zero com o Sheffield",
+      "thumbnail": "https://img.iol.pt/image/id/6a89dde7d34ed0733ba81253/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Bruno Pinheiro: «São dois pontos perdidos»",
+      "link": "https://maisfutebol.iol.pt/liga/academico-viseu/bruno-pinheiro-sao-dois-pontos-perdidos",
+      "pubDate": "Sat, 22 Aug 2026 18:44:00 +0100",
+      "description": "Marítimo-Académico de Viseu, 2-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a89c949d34ed0733ba81224/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 18:37:13 +0100",
       "description": "Nadadora portuguesa voltou a conquistar o ouro nos 200 metros costas. Francisca Martins também foi campeã nos 400 metros livres e Tiago Antunes conquistou o ouro no contrarrelógio de ciclismo",
       "thumbnail": "https://img.iol.pt/image/id/6671c066d34ebf9bbb3ec707/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atenção, Benfica: Ivanovic marca na goleada do Lens",
-      "link": "https://maisfutebol.iol.pt/internacional/benfica/atencao-benfica-ivanovic-marca-na-goleada-do-lens",
-      "pubDate": "Sat, 22 Aug 2026 18:14:41 +0100",
-      "description": "Vencedor da Supertaça francesa bateu o Auxerre por 5-2 na primeira jornada do campeonato francês",
-      "thumbnail": "https://img.iol.pt/image/id/6a89d54cd34ed0733ba81244/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Judoca Sofia Gaspar vence medalha de bronze nos Mundiais de cadetes",
-      "link": "https://maisfutebol.iol.pt/modalidades/judo/judoca-sofia-gaspar-vence-medalha-de-bronze-nos-mundiais-de-cadetes",
-      "pubDate": "Sat, 22 Aug 2026 18:07:03 +0100",
-      "description": "Perdeu apenas com a vencedora da competição, Rio Shirakane",
-      "thumbnail": "https://img.iol.pt/image/id/6a89d71bd34e511da0b349f2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marítimo-Académico de Viseu, 2-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-academico-de-viseu-2-2-cronica",
-      "pubDate": "Sat, 22 Aug 2026 18:03:00 +0100",
-      "description": "Crença insular anula desvantagem de dois golos",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c949d34ed0733ba81225/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: será o golo do ano? Jogador do Bristol City aponta golaço de calcanhar",
-      "link": "https://maisfutebol.iol.pt/inglaterra/internacional/video-sera-o-golo-do-ano-jogador-do-bristol-city-aponta-golaco-de-calcanhar",
-      "pubDate": "Sat, 22 Aug 2026 17:42:00 +0100",
-      "description": "Dom Ballard assinou um momento de pura magia no Birmingham-Bristol City no Championship",
-      "thumbnail": "https://img.iol.pt/image/id/6a89d12fd34e511da0b349ea/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,71 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sete mortos (incluindo dois polícias) durante perseguição em Inglaterra",
-      "link": "https://www.noticiasaominuto.com/mundo/3040078/sete-mortos-incluindo-dois-policias-durante-perseguicao-em-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:40:16",
+      "title": "Bruno Fernandes arrasador após desastre do United: \"Os mesmos erros...\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3040087/bruno-fernandes-arrasador-apos-desastre-do-united-os-mesmos-erros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 19:15:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89db2d81039.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzIwLCJjcm9wSGVpZ2h0Ijo3NDMsImNyb3BYIjowLCJjcm9wWSI6OTI2fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89e73da2d4e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Agate de Sousa 'vice' no comprimento na etapa da Silésia da Liga Diamante",
-      "link": "https://www.noticiasaominuto.com/desporto/3040079/agate-de-sousa-vice-no-comprimento-na-etapa-da-silesia-da-liga-diamante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:37:19",
+      "title": "Esta é a soca demais rápida do mundo (... sim, leu bem)",
+      "link": "https://www.noticiasaominuto.com/mundo/3040089/esta-e-a-soca-demais-rapida-do-mundo-sim-leu-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 19:08:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47620326.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89e48158315.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Samuel Dahl de saída? Benfica tem lateral do Barcelona na agenda",
-      "link": "https://www.noticiasaominuto.com/desporto/3040074/samuel-dahl-de-saida-benfica-tem-lateral-do-barcelona-na-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:35:06",
+      "title": "Nadadora Francisca Martins conquista ouro nos 400 metros livres",
+      "link": "https://www.noticiasaominuto.com/desporto/3040088/nadadora-francisca-martins-conquista-ouro-nos-400-metros-livres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 19:06:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681cdaf44058b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47645065.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "De deixar o queixo caído. Ballard fez isto e tem mesmo de ver (e rever)",
-      "link": "https://www.noticiasaominuto.com/desporto/3040072/de-deixar-o-queixo-caido-ballard-fez-isto-e-tem-mesmo-de-ver-e-rever#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:11:13",
+      "title": "Colesterol alto? 3 coisas que os cardiologistas querem que pare de fazer",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3037696/colesterol-alto-3-coisas-que-os-cardiologistas-querem-que-pare-de-fazer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 19:01:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89d8194a2af.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a832c279b47b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Eixo Atlântico pede a PR para falar com Sánchez para \"desbloquear\" TGV",
-      "link": "https://www.noticiasaominuto.com/pais/3040073/eixo-atlantico-pede-a-pr-para-falar-com-sanchez-para-desbloquear-tgv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:09:27",
+      "title": "Mais de 110 operacionais e cinco aviões combatem fogo no Fundão",
+      "link": "https://www.noticiasaominuto.com/pais/3040084/mais-de-110-operacionais-e-cinco-avioes-combatem-fogo-no-fundao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:57:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a232b0e02bff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689d181f82952.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ3LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MCwiY3JvcFkiOjI3M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Governo lança aviso à população por causa do mau tempo",
+      "link": "https://pplware.sapo.pt/informacao/governo-lanca-aviso-a-populacao-por-causa-do-mau-tempo/",
+      "pubDate": "Sat, 22 Aug 2026 18:13:41 +0000",
+      "description": "Portugal continental prepara-se para uma mudança nas condições meteorológicas, com previsão de chuva por vezes forte e persistente, vento com rajadas e agitação marítima. Perante este cenário, o Governo deixa vários alertas e recomendações&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/mau_tempo.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "The Money Man já tem demo para experimentar na Steam",
+      "link": "https://pplware.sapo.pt/jogos/the-money-man-ja-tem-demo-para-experimentar-na-steam/",
+      "pubDate": "Sat, 22 Aug 2026 18:00:45 +0000",
+      "description": "Há empregos em que um erro pode custar dinheiro. Em The Money Man, pode custar a própria vida. O novo jogo narrativo da Fenyx Digital já tem uma demo disponível na Steam. The Money&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/TheMoneyMan_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -280,26 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 15:00:03 +0000",
       "description": "A Apple decidiu avançar com uma vaga de despedimentos que afeta diretamente centenas de profissionais ligados ao desenvolvimento dos Vision Pro e da assistente Siri. Esta medida insere-se numa ampla reorganização para fazer face&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/12/porsche_apple_vision_pro02.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Baterias dos elétricos duram mais do que se imagina. Estudo revela tudo",
-      "link": "https://pplware.sapo.pt/motores/baterias-dos-eletricos-duram-mais-do-que-se-imagina-estudo-revela-tudo/",
-      "pubDate": "Sat, 22 Aug 2026 14:00:27 +0000",
-      "description": "A duração da bateria continua a ser o grande fantasma que assombra quem pensa comprar um carro elétrico. Muitos condutores ainda temem que a autonomia caia a pique ao fim de poucos anos de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/bateria_usados_eletrico_2.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Acesso ao Ensino Superior: o que se segue agora?",
-      "link": "https://pplware.sapo.pt/internet/acesso-ao-ensino-superior-o-que-se-segue-agora/",
-      "pubDate": "Sat, 22 Aug 2026 13:01:01 +0000",
-      "description": "Já são conhecidos os resultados da 1.ª fase do Concurso Nacional de Acesso ao Ensino Superior de 2026. Este ano, 49.991 estudantes conseguiram colocação, num concurso marcado por um forte aumento do número de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/09/ensino_superior_2-1.jpg"
     },
     {
       "sourceId": "autosport",
