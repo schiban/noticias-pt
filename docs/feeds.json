@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-21T23:47:32.521088+00:00",
+  "updated": "2026-08-22T00:59:40.642996+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Veja onde estão as 6.639 vagas para a 2.ª fase",
+      "link": "https://observador.pt/especiais/ainda-ha-6-639-vagas-para-a-2-a-fase-do-concurso-de-acesso-ao-ensino-superior-veja-aqui-onde-estao/",
+      "pubDate": "Sat, 22 Aug 2026 01:33:26 +0100",
+      "description": "Este ano, a segunda fase destina-se também aos alunos que forem à época extraordinária de exames. Nesta tabela pode ver em que cursos e instituições estão as vagas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19162905/770vagas-segund.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2360/",
+      "pubDate": "Sat, 22 Aug 2026 01:14:22 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Boris Johnson quer Harry e Meghan de volta à realeza",
+      "link": "https://observador.pt/2026/08/22/boris-johnson-quer-harry-e-meghan-na-realeza-tragam-de-volta-os-seis-grandes/",
+      "pubDate": "Sat, 22 Aug 2026 00:46:56 +0100",
+      "description": "O antigo primeiro-ministro britânico defende a reintegração total dos Sussex na família real e considera que Harry e Meghan \"têm muito a oferecer\" ao completar a lista dos \"Seis Grandes\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/05/06132054/gettyimages-1252743397-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -20,36 +50,6 @@
       "pubDate": "Sat, 22 Aug 2026 00:23:51 +0100",
       "description": "Aproveite a oportunidade para se autoelogiar, mas discretamente, com uma pitada de vitimismo, que fica sempre bem.",
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2340%3A2340%3Anowe%3A128%3A631%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpadre-goncalo-almada.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Chega entrega iniciativa a pedir exoneração de Luís Neves",
-      "link": "https://observador.pt/2026/08/22/do-carro-apreendido-aos-ajustes-diretos-chega-entrega-iniciativa-na-ar-a-pedir-a-exoneracao-do-ministro-luis-neves/",
-      "pubDate": "Sat, 22 Aug 2026 00:23:16 +0100",
-      "description": "Chega recomenda a exoneração do MAI alegando irregularidades na gestão da PJ e conflitos de interesse e defendendo que a permanência do ministro compromete a credibilidade das instituições.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19203934/dventura-rentree-chega-8-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Pedro Pablo Pichardo vence triplo salto em Lausana",
-      "link": "https://observador.pt/2026/08/22/pedro-pablo-pichardo-vence-triplo-salto-na-etapa-de-lausana-da-liga-diamante/",
-      "pubDate": "Sat, 22 Aug 2026 00:22:30 +0100",
-      "description": "O campeão olímpico superou o argelino Triki com 17,44m contra 17,43m. A estafeta feminina 4x100m também subiu ao pódio, com 43,40 segundos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21230018/47644474.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Europa. Dados apontam mais de 30 mil mortes em excesso",
-      "link": "https://observador.pt/2026/08/22/dados-provisorios-apontam-mais-de-30-mil-mortes-em-excesso-na-europa/",
-      "pubDate": "Sat, 22 Aug 2026 00:21:57 +0100",
-      "description": "Da Alemanha a Portugal, oito países somam 33 mil mortes ligadas ao calor. A EuroMomo aponta a última semana de junho como a mais mortífera, com quase 16 mil óbitos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:114/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21232851/47597133.jpg"
     },
     {
       "sourceId": "rtp",
