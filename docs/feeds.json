@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-22T17:16:53.934461+00:00",
+  "updated": "2026-08-22T17:44:18.752923+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O destino não defraudou o novo Príncipe do Mónaco",
+      "link": "https://observador.pt/2026/08/22/o-destino-nao-defraudou-o-novo-principe-do-monaco-pogacar-entra-com-tudo-na-vuelta-e-vence-contrarrelogio-por-nove-centesimos/",
+      "pubDate": "Sat, 22 Aug 2026 18:40:19 +0100",
+      "description": "O Príncipe Alberto quis, tentou e conseguiu. Depois de \"levar\" Pogacar à Vuelta, o campeão do mundo entrou com tudo na prova que o pode levar à história e venceu o contrarrelógio em casa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22183821/gettyimages-2290978993-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 18h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2125/",
+      "pubDate": "Sat, 22 Aug 2026 18:14:06 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -15,11 +35,11 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Mais de 200 operacionais combatem fogo em Abrantes",
+      "title": "Fogo em Abrantes está “complicado”",
       "link": "https://observador.pt/2026/08/22/mais-de-200-operacionais-combatem-fogo-em-abrantes/",
       "pubDate": "Sat, 22 Aug 2026 17:31:20 +0100",
       "description": "O incêndio, cujo alerta foi dado pelas 15:11, iniciou-se \"com grande intensidade, com duas frentes ativas e várias projeções\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:170/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20180656/47627432-1.jpg"
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22183139/img-1134-easy-resizecom.jpg"
     },
     {
       "sourceId": "observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/05060715/45470724.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 17h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2272/",
-      "pubDate": "Sat, 22 Aug 2026 17:13:11 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Agate de Sousa ‘vice’ no comprimento na etapa da Silésia da Liga Diamante",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/agate-de-sousa-vice-no-comprimento-na-etapa-da-silesia-da-liga-diamante_d1761006",
+      "pubDate": "Sat, 22 Aug 2026 19:31:07 +0100",
+      "description": "A atleta portuguesa Agate de Sousa foi hoje segunda classificada no salto em comprimento na etapa da Silésia da Liga Diamante, na Polónia, com a mesma marca da vencedora, a norte-americana Alyssa Jones, que se impôs no desempate.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/04bed4c0f4013bc3546de2c24c4f5467?w=350&amp;q=50&amp;rect=0,11,1200,658&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "George Russell vence corrida sprint do GP dos Países Baixos",
-      "link": "https://observador.pt/2026/08/22/george-russell-vence-corrida-sprint-do-gp-dos-paises-baixos-de-formula-1/",
-      "pubDate": "Sat, 22 Aug 2026 17:07:50 +0100",
-      "description": "Russell, que partiu da 'pole position', completou as 24 voltas ao circuito de Zandvoort em 30.25,318 minutos, terminando com 1,360 segundos de vantagem sobre o monegasco Charles Leclerc (Ferrari).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22162442/47646657.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Incêndio em Abrantes com quase 400 operacionais",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-incendio-em-abrantes-com-quase-400-operacionais_a1_1761005",
+      "pubDate": "Sat, 22 Aug 2026 19:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -68,7 +88,7 @@
       "title": "Incêndio em Abrantes mobiliza quase 400 operacionais",
       "link": "https://www.rtp.pt/noticias/pais/incendio-em-abrantes-mobiliza-quase-400-operacionais_v1761001",
       "pubDate": "Sat, 22 Aug 2026 18:47:47 +0100",
-      "description": "Um incêndio no concelho de Abrantes está a mobilizar quase 400 bombeiros e vários meios aéreos.",
+      "description": "O incêndio está &quot;complicado&quot;, &quot;fora do controlo&quot;, mas &quot;ainda sem habitações em risco&quot;, disse o vice-presidente da câmara daquele município do distrito de Santarém, pelas 18:00.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/25d7ade43d17fe3f69e4868c3bb53967_N.jpg?"
     },
     {
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8ea0e47c0090d1b5239449dfca8b9f28?w=350&amp;q=50&amp;rect=0,104,1420,779&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Taranto2026. Nadadora Francisca Martins conquista ouro nos 400 metros livres",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-nadadora-francisca-martins-conquista-ouro-nos-400-metros-livres_d1760999",
-      "pubDate": "Sat, 22 Aug 2026 18:30:46 +0100",
-      "description": "A nadadora portuguesa Francisca Martins conquistou hoje a medalha de ouro na prova dos 400 metros livres dos Jogos do Mediterrâneo Taranto2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3b0480b7656c39a894e32bad625fa507?w=350&amp;q=50&amp;rect=0,37,1170,641&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Jogos do Mediterrâneo: Camila Rebelo revalida título e Portugal soma quatro medalhas",
+      "link": "https://maisfutebol.iol.pt/jogos-mediterraneo/natacao/jogos-do-mediterraneo-camila-rebelo-revalida-titulo-e-portugal-soma-quatro-medalhas",
+      "pubDate": "Sat, 22 Aug 2026 18:37:13 +0100",
+      "description": "Nadadora portuguesa voltou a conquistar o ouro nos 200 metros costas. Francisca Martins também foi campeã nos 400 metros livres e Tiago Antunes conquistou o ouro no contrarrelógio de ciclismo",
+      "thumbnail": "https://img.iol.pt/image/id/6671c066d34ebf9bbb3ec707/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Incêndio em Abrantes envolve 12 meios aéreos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-incendio-em-abrantes-envolve-12-meios-aereos_a1_1760998",
-      "pubDate": "Sat, 22 Aug 2026 18:28:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Atenção, Benfica: Ivanovic marca na goleada do Lens",
+      "link": "https://maisfutebol.iol.pt/internacional/benfica/atencao-benfica-ivanovic-marca-na-goleada-do-lens",
+      "pubDate": "Sat, 22 Aug 2026 18:14:41 +0100",
+      "description": "Vencedor da Supertaça francesa bateu o Auxerre por 5-2 na primeira jornada do campeonato francês",
+      "thumbnail": "https://img.iol.pt/image/id/6a89d54cd34ed0733ba81244/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 17:42:00 +0100",
       "description": "Dom Ballard assinou um momento de pura magia no Birmingham-Bristol City no Championship",
       "thumbnail": "https://img.iol.pt/image/id/6a89d12fd34e511da0b349ea/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Gasperini: «Mora tem todas as características para ter sucesso»",
-      "link": "https://maisfutebol.iol.pt/made-in/italia/gasperini-mora-tem-todas-as-caracteristicas-para-ter-sucesso",
-      "pubDate": "Sat, 22 Aug 2026 17:41:00 +0100",
-      "description": "Treinador da Roma diz que o jovem ainda não é um líder da equipa, mas pode vir a sê-lo",
-      "thumbnail": "https://img.iol.pt/image/id/6a8579dfd34ed0733ba80822/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Voleibol: Pelegrín Vargas é reforço do Benfica",
-      "link": "https://maisfutebol.iol.pt/voleibol/voleibol-benfica/voleibol-pelegrin-vargas-e-reforco-do-benfica",
-      "pubDate": "Sat, 22 Aug 2026 17:33:29 +0100",
-      "description": "Internacional porto-riquenho assina contrato válido por uma temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a89cf2dd34e511da0b349e2/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Sete mortos (incluindo dois polícias) durante perseguição em Inglaterra",
+      "link": "https://www.noticiasaominuto.com/mundo/3040078/sete-mortos-incluindo-dois-policias-durante-perseguicao-em-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:40:16",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89db2d81039.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzIwLCJjcm9wSGVpZ2h0Ijo3NDMsImNyb3BYIjowLCJjcm9wWSI6OTI2fX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Agate de Sousa 'vice' no comprimento na etapa da Silésia da Liga Diamante",
+      "link": "https://www.noticiasaominuto.com/desporto/3040079/agate-de-sousa-vice-no-comprimento-na-etapa-da-silesia-da-liga-diamante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:37:19",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47620326.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Samuel Dahl de saída? Benfica tem lateral do Barcelona na agenda",
+      "link": "https://www.noticiasaominuto.com/desporto/3040074/samuel-dahl-de-saida-benfica-tem-lateral-do-barcelona-na-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:35:06",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681cdaf44058b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "De deixar o queixo caído. Ballard fez isto e tem mesmo de ver (e rever)",
       "link": "https://www.noticiasaominuto.com/desporto/3040072/de-deixar-o-queixo-caido-ballard-fez-isto-e-tem-mesmo-de-ver-e-rever#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 18:11:13",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-22 18:09:27",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a232b0e02bff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo em Abrantes \"complicado\" mas sem habitações em risco, diz autarquia",
-      "link": "https://www.noticiasaominuto.com/pais/3040070/fogo-em-abrantes-complicado-mas-sem-habitacoes-em-risco-diz-autarquia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:07:03",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a777e2a14474.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDIyLCJjcm9wSGVpZ2h0IjoxMTM3LCJjcm9wWCI6MTgsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NTAsImNyb3BIZWlnaHQiOjExNTUsImNyb3BYIjo5NDUsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Novo Apple Watch terá direito a uma edição (muito) especial",
-      "link": "https://www.noticiasaominuto.com/tech/3039337/novo-apple-watch-tera-direito-a-uma-edicao-muito-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:01:31",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a87483e737a7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjEzLCJjcm9wWSI6MTkwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MDcsImNyb3BIZWlnaHQiOjE0MzUsImNyb3BYIjo5MTMsImNyb3BZIjoxOH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Viúva recorda Van Der Beek e mostra-se grata por o ver através dos filhos",
-      "link": "https://www.noticiasaominuto.com/fama/3038053/viuva-recorda-van-der-beek-e-mostra-se-grata-por-o-ver-atraves-dos-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 18:01:23",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84410c315b0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTUzLCJjcm9wSGVpZ2h0Ijo2NDksImNyb3BYIjo4LCJjcm9wWSI6NzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUyNywiY3JvcEhlaWdodCI6OTM2LCJjcm9wWCI6MzQzLCJjcm9wWSI6N319"
     },
     {
       "sourceId": "pplware",
