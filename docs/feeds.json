@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-22T10:48:14.021855+00:00",
+  "updated": "2026-08-22T11:17:11.371183+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 11h",
+      "title": "As notícias das 12h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2422/",
+      "pubDate": "Sat, 22 Aug 2026 12:12:05 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Humor em português (e crioulo) que desafia fronteiras",
+      "link": "https://observador.pt/especiais/rir-em-portugues-e-crioulo-de-angola-ao-brasil-e-com-passagem-por-lisboa-o-crescimento-do-humor-alem-fronteiras-na-cplp/",
+      "pubDate": "Sat, 22 Aug 2026 12:02:32 +0100",
+      "description": "Angolanos a fazer stand-up no Brasil, portugueses em Cabo Verde e cariocas em Lisboa. Na era do digital, as fronteiras não são um obstáculo à comédia. Conheça histórias que cruzam humor e lusofonia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:134/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/13100857/captura-de-ecra-2026-08-13-as-100639.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "11h.Deputado único do BE vai suspender mandato no Parlamento",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1312/",
       "pubDate": "Sat, 22 Aug 2026 11:19:19 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Fabian Figueiredo vai ser substituído por Andreia Galvão. Ainda, Washington impôs novas tarifas de 50% sobre os produtos do país vizinho.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,31 +52,11 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/04172020/pedro-eiras-2.jpeg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Detido por violência doméstica em Salvaterra de Magos",
-      "link": "https://observador.pt/2026/08/22/violencia-domestica-homem-detido-em-salvaterra-de-magos-por-violencia-psicologica-a-ex-namorada/",
-      "pubDate": "Sat, 22 Aug 2026 10:59:35 +0100",
-      "description": "Homem de 50 anos foi presente ao Tribunal de Santarém após detenção pela GNR. Tem de manter distância de 500 metros da vítima e está proibido de a contactar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/31170926/42178831.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Fabian Figueiredo suspende mandato de deputado",
-      "link": "https://observador.pt/2026/08/22/fabian-figueiredo-suspende-mandato-de-deputado-durante-um-mes/",
-      "pubDate": "Sat, 22 Aug 2026 10:55:51 +0100",
-      "description": "Deputado do Bloco pediu suspensão do seu mandato durante o mês de setembro por \"motivos pessoais\". No seu lugar ficará Andreia Galvão, que chegou a substituir Mortágua quando esta entrou na Flotilha.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17104651/dventura-debate-urgencia-exames-13-scaled.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Irão abre estreito de Ormuz a \"vários\" petroleiros iraquianos",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-abre-estreito-de-ormuz-a-varios-petroleiros-iraquianos_n1760949",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-abre-estreito-de-ormuz-a-varios-petroleiros-iraquianos_n1760949",
       "pubDate": "Sat, 22 Aug 2026 12:41:59 +0100",
       "description": "O Irão autorizou que &quot;vários&quot; petroleiros iraquianos atravessem o estreito de Ormuz, após a visita ao país vizinho do presidente do Parlamento e principal negociador iraniano, Mohamad Baqer Qalibaf, informou a agência estatal IRNA.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/15/15995765fe01a1f5876cfad5b5ff3505?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
@@ -105,6 +105,16 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "Fórmula 1: Russell dominador vence corrida Sprint nos Países Baixos",
+      "link": "https://maisfutebol.iol.pt/modalidades/formula-1/formula-1-russell-dominador-vence-corrida-sprint-nos-paises-baixos",
+      "pubDate": "Sat, 22 Aug 2026 12:08:11 +0100",
+      "description": "Piloto britânico da Mercedes liderou nas 24 voltas da prova",
+      "thumbnail": "https://img.iol.pt/image/id/6a8982a3d34ed0733ba81180/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "MLS multa Messi por ter dado um calduço a um adversário",
       "link": "https://maisfutebol.iol.pt/internacional/estados-unidos-da-america/mls-multa-messi-por-ter-dado-um-calduco-a-um-adversario",
       "pubDate": "Sat, 22 Aug 2026 11:34:31 +0100",
@@ -140,16 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 10:18:00 +0100",
       "description": "Londrinos estendem ligação com avançado internacional brasileiro",
       "thumbnail": "https://img.iol.pt/image/id/68dbb824d34ee0c2fed0b455/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: campeão do mundo sub-17 deixa o Benfica e reforça o Girona",
-      "link": "https://maisfutebol.iol.pt/benfica/22-08-2026/oficial-campeao-do-mundo-sub-17-deixa-o-benfica-e-reforca-o-girona",
-      "pubDate": "Sat, 22 Aug 2026 09:56:00 +0100",
-      "description": "Mauro Furtado termina ligação de 13 épocas aos encarnados. Assina até 2031 pelos espanhóis",
-      "thumbnail": "https://img.iol.pt/image/id/6a8964f1d34e511da0b348f1/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Embarcação à deriva com 100 jerricãs de combustível apreendida em Oeiras",
-      "link": "https://www.noticiasaominuto.com/pais/3039973/embarcacao-a-deriva-com-100-jerricas-de-combustivel-apreendida-em-oeiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 11:33:22",
+      "title": "Idoso suspeito de abuso sexual de criança proibido de contactar a vítima",
+      "link": "https://www.noticiasaominuto.com/pais/3039979/idoso-suspeito-de-abuso-sexual-de-crianca-proibido-de-contactar-a-vitima#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 12:03:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a897978eb8b8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjM4NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODY0LCJjcm9wSGVpZ2h0IjoxNTM2LCJjcm9wWCI6NTgsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6036162c7955e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExNzEsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Avançado João Pedro prolonga contrato com o Chelsea até 2034",
-      "link": "https://www.noticiasaominuto.com/desporto/3039972/avancado-joao-pedro-prolonga-contrato-com-o-chelsea-ate-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 11:30:31",
+      "title": "Xpeng atualiza sistema dos seus carros. O que muda e em que modelos?",
+      "link": "https://www.noticiasaominuto.com/auto/3039713/xpeng-atualiza-sistema-dos-seus-carros-o-que-muda-e-em-que-modelos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 12:01:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a897a43f2515.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a886bcc18f52.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preventiva para homem suspeito de violência doméstica, ameaças e roubo",
-      "link": "https://www.noticiasaominuto.com/pais/3039971/preventiva-para-homem-suspeito-de-violencia-domestica-ameacas-e-roubo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 11:12:58",
+      "title": "Muitos perguntaram a receita: \"Há quem não goste. Sopa tem sempre tomate\"",
+      "link": "https://www.noticiasaominuto.com/fama/3039013/muitos-perguntaram-a-receita-ha-quem-nao-goste-sopa-tem-sempre-tomate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 12:00:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a8c09ed7cd4e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a86c7b75ccb1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NDAsImNyb3BIZWlnaHQiOjUyOSwiY3JvcFgiOjAsImNyb3BZIjo5NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Mzc3LCJjcm9wSGVpZ2h0Ijo2NzAsImNyb3BYIjozLCJjcm9wWSI6MTZ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preparem-se! Hoje o universo dá lição importante a 3 signos do zodíaco",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3039675/preparem-se-hoje-o-universo-da-licao-importante-a-3-signos-do-zodiaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 11:01:25",
+      "title": "Viveu meses com pai morto em Odivelas: Foi detido por não pagar multa",
+      "link": "https://www.noticiasaominuto.com/pais/3039977/viveu-meses-com-pai-morto-em-odivelas-foi-detido-por-nao-pagar-multa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 11:59:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6257f5e977c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc2LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6NTQsImNyb3BZIjo3MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_555a728f319fd.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Irão abre estreito de Ormuz a \"vários\" petroleiros iraquianos",
-      "link": "https://www.noticiasaominuto.com/mundo/3039968/irao-abre-estreito-de-ormuz-a-varios-petroleiros-iraquianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 11:00:02",
+      "title": "Número de colocados em cursos para ser professor volta a aumentar",
+      "link": "https://www.noticiasaominuto.com/pais/3039976/numero-de-colocados-em-cursos-para-ser-professor-volta-a-aumentar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 11:57:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c24edb45e05.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5b6adbe23757e.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Aprovado robô que tira sangue sozinho, sem qualquer ajuda humana",
+      "link": "https://pplware.sapo.pt/gadgets/hardware/aprovado-robo-que-tira-sangue-sozinho-sem-qualquer-ajuda-humana/",
+      "pubDate": "Sat, 22 Aug 2026 11:00:06 +0000",
+      "description": "Quem tem medo de agulhas talvez não vá gostar de saber disto, mas foi aprovada a utilização de um robô capaz de fazer colheitas de sangue de forma totalmente automática. A agência reguladora de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/aletta-robo-tirar-sangue-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 07:00:11 +0000",
       "description": "O mercado europeu de smartphones registou o seu pior segundo trimestre dos últimos três anos. Entre abril e junho, as entregas de equipamentos caíram 10% em termos homólogos, fixando-se em apenas 35 milhões de&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/samsung_apple_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Google corrigiu finalmente dois dos bugs mais irritantes do Android Auto",
-      "link": "https://pplware.sapo.pt/smartphones-tablets/android/google-corrigiu-finalmente-dois-dos-bugs-mais-irritantes-do-android-auto/",
-      "pubDate": "Sat, 22 Aug 2026 06:00:16 +0000",
-      "description": "A experiência de condução com o sistema da Google nem sempre é perfeita. Quem utiliza o Android Auto sabe que pequenos erros no software conseguem transformar viagens em verdadeiras dores de cabeça. Recentemente, a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/android_auto_pplware_1.jpg"
     },
     {
       "sourceId": "autosport",
