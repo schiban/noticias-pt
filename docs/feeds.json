@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-22T13:28:06.320161+00:00",
+  "updated": "2026-08-22T13:53:09.072361+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Educação Básica não preenche vagas e Engenharias dominam",
+      "link": "https://observador.pt/especiais/acesso-ao-ensino-superior-educacao-basica-nao-preenche-vagas-e-engenharias-voltam-a-dominar-top-5-de-medias-mais-altas/",
+      "pubDate": "Sat, 22 Aug 2026 14:37:42 +0100",
+      "description": "Foram colocados quase 50 mil estudantes na 1.ª fase de acesso ao Superior, mas ainda sobram 6.639 vagas. Na Madeira, um curso de Engenharia teve apenas um colocado — com média acima de 18 valores.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19163106/770cursos.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A beleza da nova época não esconde o tigre que devora diabos",
+      "link": "https://observador.pt/2026/08/22/a-beleza-da-nova-epoca-nao-esconde-o-tigre-que-devora-diabos-hull-city-regressa-a-premier-com-vitoria-historica-frente-ao-man-united/",
+      "pubDate": "Sat, 22 Aug 2026 14:27:02 +0100",
+      "description": "Muda a época, continuam os problemas. Frente a um Hull City que regressa à Premier League dez anos depois, o Man. United foi traído pelas bolas paradas e pouco mostrou no ataque (2-0).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4047:2278:nowe:0:338/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22142348/gettyimages-2291534143.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"'Tens a doença das mulheres preguiçosas', disse uma médica\"",
-      "link": "https://observador.pt/programas/atualidade/fibromialgia-tens-a-doenca-das-mulheres-preguicosas-disse-me-uma-medica/",
-      "pubDate": "Sat, 22 Aug 2026 13:32:36 +0100",
-      "description": "Ricardo Fonseca tem fibromialgia e espondilite anquilosante. São dores constantes – “às vezes nem consigo estar deitado” –, cansaço, muitos medicamentos e medo de, um dia, ter de deixar a enfermagem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14122405/cronico-ep4-credit-mariana-alvarez-cortes-1-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Manchester United desilude na estreia e perde em casa do promovido Hull City",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/manchester-united-desilude-na-estreia-e-perde-em-casa-do-promovido-hull-city_d1760965",
+      "pubDate": "Sat, 22 Aug 2026 15:49:55 +0100",
+      "description": "O Manchester United, com o capitão Bruno Fernandes de início, entrou hoje em falso na Liga inglesa de futebol 2026/27, ao perder com estrondo na visita ao promovido Hull City (2-0).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0ac72ce2cee2e8642aca02f46afdc6e9?w=350&amp;q=50&amp;rect=0,320,4908,2691&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h. Deputado único do BE suspende mandato no Parlamento",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2423/",
-      "pubDate": "Sat, 22 Aug 2026 13:12:59 +0100",
-      "description": "Fabian Figueiredo vai ser substituído por Andreia Galvão. O deputado explica que vai ser substituído temporariamente por motivos pessoais. Ainda, o arranque da Premier League",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Publicação das colocações \"é o fim de um período muito exigente\"",
+      "link": "https://www.rtp.pt/noticias/pais/publicacao-das-colocacoes-e-o-fim-de-um-periodo-muito-exigente_n1760964",
+      "pubDate": "Sat, 22 Aug 2026 15:44:50 +0100",
+      "description": "O Ministro da Educação diz que a publicação das colocações no Ensino Superior representa o &quot;fim de um longo período muito exigente&quot; para a comunidade escolar.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/583a04644a1bf6364f69a0e3a3fb4cbd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/51/5124378a80d68613180191399517ab8d_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Human Rigths Watch critica condenação de ativistas por tribunal de Hong Kong",
-      "link": "https://www.rtp.pt/noticias/mundo/human-rigths-watch-critica-condenacao-de-ativistas-por-tribunal-de-hong-kong_n1760958",
-      "pubDate": "Sat, 22 Aug 2026 14:29:31 +0100",
-      "description": "A organização de defesa dos direitos humanos Human Rights Watch criticou a condenação por subversão, por um tribunal de Hong Kong, de dois ativistas pró-democracia e antigos organizadores da vigília anual em memória das vítimas do massacre de Tiananmen.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Chega quer exoneração de Luís Neves",
-      "link": "https://www.rtp.pt/noticias/politica/chega-quer-exoneracao-de-luis-neves_v1760957",
-      "pubDate": "Sat, 22 Aug 2026 14:20:47 +0100",
-      "description": "O Chega vai propor na Assembleia da República uma resolução para a exonerar o ministro da Administração Interna. André Ventura critica Luís Montenegro por não agir e diz que Luís Neves julga-se acima da lei.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/a4/a47726a6ee206d6746feab9c68db1c87_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: João Palhinha aterra em Lisboa mas ainda não é para assinar pelo Benfica",
+      "link": "https://maisfutebol.iol.pt/benfica/joao-palhinha/video-joao-palhinha-aterra-em-lisboa-mas-ainda-nao-e-para-assinar-pelo-benfica",
+      "pubDate": "Sat, 22 Aug 2026 14:50:00 +0100",
+      "description": "«Ainda sou jogador do Bayern», diz o internacional português",
+      "thumbnail": "https://img.iol.pt/image/id/6a89a6add34e511da0b34973/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a5bc821d34ef04b4f3f770d/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Elmas reforça a Atalanta",
-      "link": "https://maisfutebol.iol.pt/internacional/italia/oficial-elmas-reforca-a-atalanta",
-      "pubDate": "Sat, 22 Aug 2026 13:21:00 +0100",
-      "description": "Médio de 26 anos chega por empréstimo do Leipzig",
-      "thumbnail": "https://img.iol.pt/image/id/6a898e0fd34e511da0b34949/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -175,16 +175,6 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "PJ apreende 150 quilos de cocaína escondidos em polpa de fruta. Droga valia quatro milhões de euros",
-      "link": "https://sapo.pt/artigo/pj-apreende-150-quilos-de-cocaina-escondidos-em-polpa-de-fruta-droga-valia-quatro-milhoes-de-euros-6a8986a071773bd5d19d59ce",
-      "pubDate": "Sat, 22 Aug 2026 12:09:31 +0000",
-      "description": "Contentor saiu do Equador e foi intercetado em Espanha antes de seguir, sob vigilância, até um armazém nos arredores de Lisboa. Administrador de empresa foi detido e ficou em prisão preventiva.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AUkHiYGriI3HGrv1pFPnQsAx9OlPKAFpLmvEfWaqM5u2lNVwVJAEicG3wu1HtuVL%2BFEzzm73ozuM11LfEXh5i0ha2Hy8dJ0%2BOxRJE7yVB0XmH%2BS7gTuHRYqYv8Oz72ztl"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "Oito distritos sob aviso amarelo devido às previsões de trovoada, vento e chuva fortes",
       "link": "https://sapo.pt/artigo/oito-distritos-sob-aviso-amarelo-devido-as-previsoes-de-trovoada-vento-e-chuva-fortes-6a898b2e57577bfcb5de91be",
       "pubDate": "Sat, 22 Aug 2026 12:09:31 +0000",
@@ -202,54 +192,64 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7PhEO5PijcMlP1K6hKVktnmHGfq3LUH36UxD7x82cunutZlXFUHieBNPFA8f3HaKtHP7NoSJDx7HXXoLgFlkE8y4Z0gkU88TE8BXuJZMUDON52t0zUNuhU4HE6Qcu2qx"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Carvalhal aponta aos três pontos na visita do Famalicão ao Santa Clara",
-      "link": "https://www.noticiasaominuto.com/desporto/3040001/carvalhal-aponta-aos-tres-pontos-na-visita-do-famalicao-ao-santa-clara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:20:59",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7662809c976.webp"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Taranto'2026: Tiago Antunes campeão no contrarrelógio, Rafael Reis bronze",
+      "link": "https://sapo.pt/artigo/taranto-2026-tiago-antunes-campeao-no-contrarrelogio-rafael-reis-bronze-6a89a11f71773bd5d1a24aa3",
+      "pubDate": "Sat, 22 Aug 2026 13:49:59 +0000",
+      "description": "Ciclistas Tiago Antunes e Rafael Reis com medalhas nos Jogos do Mediterrâneo",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AcZrHtERHMdrWhh4miEYFJRIpHjDlWAgV1wYBTHKGjAZXsPOxDvC8aT3WIr1kaJqMEvM%2FmMOp9EwF75B7g7wES2XsI07AFfd8b0Fxz6VMFnb%2Boqt%2BtwODGp5qMGcNQsEf"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Influencer choca ao fazer cirurgia radical para ter \"cintura de Barbie\"",
-      "link": "https://www.noticiasaominuto.com/fama/3038842/influencer-choca-ao-fazer-cirurgia-radical-para-ter-cintura-de-barbie#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:10:31",
+      "title": "Três semanas depois, milhares de migrantes continuam nas ruas de Ceuta",
+      "link": "https://www.noticiasaominuto.com/mundo/3040007/tres-semanas-depois-milhares-de-migrantes-continuam-nas-ruas-de-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:44:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85fcab848fe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODEwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MTU5LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a736e810a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Universidades Politécnicas\" contribuíram para aumento de candidatos",
-      "link": "https://www.noticiasaominuto.com/pais/3039996/universidades-politecnicas-contribuiram-para-aumento-de-candidatos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:09:48",
+      "title": "Ucrânia? Macron manifesta \"horror\" e anuncia novos mísseis \"intercetores\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3040008/ucrania-macron-manifesta-horror-e-anuncia-novos-misseis-intercetores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:43:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5e67916faf610.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a7937fdcb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tiago Margarido promete mudanças no 'onze' do Vitória frente ao Nacional",
-      "link": "https://www.noticiasaominuto.com/desporto/3040000/tiago-margarido-promete-mudancas-no-onze-do-vitoria-frente-ao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:08:42",
+      "title": "Suspeitos de grupo anarquista identificados após \"patrulha antissionista\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3040009/suspeitos-de-grupo-anarquista-identificados-apos-patrulha-antissionista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:37:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47611760.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6313d3957ef1a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjk0MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vítima mortal de ataque com espada na Suécia é uma aluna de 17 anos",
-      "link": "https://www.noticiasaominuto.com/mundo/3039997/vitima-mortal-de-ataque-com-espada-na-suecia-e-uma-aluna-de-17-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:04:56",
+      "title": "Financiamento global em queda afeta proteção infantil em Moçambique",
+      "link": "https://www.noticiasaominuto.com/mundo/3040005/financiamento-global-em-queda-afeta-protecao-infantil-em-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:37:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a899e49d46a1.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45452522.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Manchester United desilude e perde em casa do promovido Hull City",
+      "link": "https://www.noticiasaominuto.com/desporto/3040006/manchester-united-desilude-e-perde-em-casa-do-promovido-hull-city#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:35:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a555c4586.webp"
     },
     {
       "sourceId": "pplware",
