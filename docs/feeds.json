@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-22T13:53:09.072361+00:00",
+  "updated": "2026-08-22T14:17:08.908856+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Bruno Pernadas, o músico nascido em bandas com os vizinhos",
+      "link": "https://observador.pt/especiais/bruno-pernadas-o-musico-que-se-construiu-em-bandas-de-garagem-com-os-vizinhos/",
+      "pubDate": "Sat, 22 Aug 2026 15:02:28 +0100",
+      "description": "É um dos nomes mais talentosos do jazz fusion, fez a banda sonora da primeira série portuguesa da Netflix, “Glória”, e assina agora o novo Podcast Plus do Observador, “A Vida Dupla do Espião Traidor”.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:326/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24171721/dventura-bruno-pernadas-6-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,64 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Porque é que há mais alunos colocados no Ensino Superior?",
-      "link": "https://observador.pt/programas/resposta-pronta/porque-e-que-ha-mais-alunos-colocados-no-ensino-superior/",
-      "pubDate": "Sat, 22 Aug 2026 13:32:40 +0100",
-      "description": "Luís Ferreira, presidente do Conselho de Reitores das Universidades, afirma que o aumento do número de colocados pode ter várias explicações. Acrescenta ainda que a fuga de informação não é normal.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Farioli alerta para momento do Arouca e quer FC Porto longe do \"piloto automático\"",
+      "link": "https://www.rtp.pt/noticias/lusa/farioli-alerta-para-momento-do-arouca-e-quer-fc-porto-longe-do-piloto-automatico_d1760970",
+      "pubDate": "Sat, 22 Aug 2026 16:15:32 +0100",
+      "description": "O treinador do FC Porto, Francesco Farioli, alertou hoje para o bom momento do Arouca e pediu uma equipa longe do &quot;piloto automático&quot; na receção de domingo, da terceira jornada da I Liga portuguesa de futebol.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f111e401970f973d94d4be6aaa802efd?w=350&amp;q=50&amp;rect=0,2787,3149,1726&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Manchester United desilude na estreia e perde em casa do promovido Hull City",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/manchester-united-desilude-na-estreia-e-perde-em-casa-do-promovido-hull-city_d1760965",
-      "pubDate": "Sat, 22 Aug 2026 15:49:55 +0100",
-      "description": "O Manchester United, com o capitão Bruno Fernandes de início, entrou hoje em falso na Liga inglesa de futebol 2026/27, ao perder com estrondo na visita ao promovido Hull City (2-0).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0ac72ce2cee2e8642aca02f46afdc6e9?w=350&amp;q=50&amp;rect=0,320,4908,2691&amp;auto=format"
+      "title": "I Liga. Marítimo - Académico de Viseu",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-maritimo-academico-de-viseu_e1760975",
+      "pubDate": "Sat, 22 Aug 2026 16:10:24 +0100",
+      "description": "O Marítimo, terceiro classificado, com seis pontos, recebe o Académico de Viseu, 11.°, com apenas um, em jogo da terceira jornada da I Liga, marcado para este sábado e sob arbitragem de Luís Filipe, da associação de Lisboa.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/86/86f29e772cdbe680f8ed6de5108859f1?w=350&amp;q=50&amp;rect=0,58,1421,779&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Publicação das colocações \"é o fim de um período muito exigente\"",
-      "link": "https://www.rtp.pt/noticias/pais/publicacao-das-colocacoes-e-o-fim-de-um-periodo-muito-exigente_n1760964",
-      "pubDate": "Sat, 22 Aug 2026 15:44:50 +0100",
-      "description": "O Ministro da Educação diz que a publicação das colocações no Ensino Superior representa o &quot;fim de um longo período muito exigente&quot; para a comunidade escolar.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/583a04644a1bf6364f69a0e3a3fb4cbd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Taranto2026. Tiago Antunes campeão no contrarrelógio, Rafael Reis bronze",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-tiago-antunes-campeao-no-contrarrelogio-rafael-reis-bronze_d1760974",
+      "pubDate": "Sat, 22 Aug 2026 16:04:24 +0100",
+      "description": "O ciclista português Tiago Antunes conquistou hoje o primeiro ouro para Portugal em Taranto2026, ao sagrar-se campeão do contrarrelógio, no qual o seu compatriota Rafael Reis foi terceiro.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/90/901137ad58c1d33572488b1a0c842dea?w=350&amp;q=50&amp;rect=0,65,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "14h Fisco alerta: atenção aos telefonemas fraudulentos em nome do fisco",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-fisco-alerta-atencao-aos-telefonemas-fraudulentos-em-nome-do-fisco_a1_1760963",
-      "pubDate": "Sat, 22 Aug 2026 15:24:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Ben Harper de regresso a Vilar de Mouros",
+      "link": "https://www.rtp.pt/noticias/cultura/ben-harper-de-regresso-a-vilar-de-mouros_v1760973",
+      "pubDate": "Sat, 22 Aug 2026 16:02:47 +0100",
+      "description": "A quarta noite do Festival de Vilar de Mouros ficou marcada pelo regresso de Ben Harper. 25 anos depois, o músico norte-americano voltou ao palco do Festival mais antigo da Península Ibérica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/95/95c516dd6d39efc3430c7ec2618cff16_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Iranianos queixam-se da perda de poder de compra",
-      "link": "https://www.rtp.pt/noticias/mundo/iranianos-queixam-se-da-perda-de-poder-de-compra_v1760960",
-      "pubDate": "Sat, 22 Aug 2026 14:47:47 +0100",
-      "description": "Os preços dispararam no Irão, após o anúncio dos Estados Unidos de impor ao país a pressão económica mais dura da história.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ef/ef86e0451506d34e036a3a7ea7a73092_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump insiste que Estreito de Ormuz é território norte-americano",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-insiste-que-estreito-de-ormuz-e-territorio-norte-americano_v1760959",
-      "pubDate": "Sat, 22 Aug 2026 14:37:47 +0100",
-      "description": "O Presidente dos Estados Unidos prepara uma ofensiva económica total contra o Irão, mas já recebeu a recusa de cooperação por parte da China, o maior parceiro de Teerão. Donald Trump insiste na ideia de que Ormuz é território norte-americano e recusa entendimentos sobre o estreito.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/51/5124378a80d68613180191399517ab8d_N.jpg?"
+      "title": "Festa do Tomate Coração de Boi no Douro",
+      "link": "https://www.rtp.pt/noticias/pais/festa-do-tomate-coracao-de-boi-no-douro_v1760972",
+      "pubDate": "Sat, 22 Aug 2026 16:00:47 +0100",
+      "description": "Decorre na Região do Douro, a Festa do Tomate Coração de Boi. O cultivo deste fruto com características únicas é particamente uma herança familiar na região.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7d/7d7cfd4038f9cf5aec783266619182e4_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Três semanas depois, milhares de migrantes continuam nas ruas de Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3040007/tres-semanas-depois-milhares-de-migrantes-continuam-nas-ruas-de-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:44:15",
+      "title": "PSP detém 540 pessoas numa semana (quase metade por crimes rodoviários)",
+      "link": "https://www.noticiasaominuto.com/pais/3040019/psp-detem-540-pessoas-numa-semana-quase-metade-por-crimes-rodoviarios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 15:11:05",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a736e810a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fe9d6835d98.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ucrânia? Macron manifesta \"horror\" e anuncia novos mísseis \"intercetores\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3040008/ucrania-macron-manifesta-horror-e-anuncia-novos-misseis-intercetores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:43:51",
+      "title": "A lista dos 16 itens que deve deitar fora (ainda antes do verão terminar)",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3035488/a-lista-dos-16-itens-que-deve-deitar-fora-ainda-antes-do-verao-terminar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 15:03:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a7937fdcb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7c54f00a97e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkyLCJjcm9wSGVpZ2h0IjoxNDAyLCJjcm9wWCI6MzIsImNyb3BZIjoxNDR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Suspeitos de grupo anarquista identificados após \"patrulha antissionista\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3040009/suspeitos-de-grupo-anarquista-identificados-apos-patrulha-antissionista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:37:29",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3040017/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 15:02:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6313d3957ef1a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjk0MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6946b70119a05.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Financiamento global em queda afeta proteção infantil em Moçambique",
-      "link": "https://www.noticiasaominuto.com/mundo/3040005/financiamento-global-em-queda-afeta-protecao-infantil-em-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:37:04",
+      "title": "Farioli alerta para o Arouca e quer FC Porto longe do \"piloto automático\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3040016/farioli-alerta-para-o-arouca-e-quer-fc-porto-longe-do-piloto-automatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 15:01:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/45452522.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1db11a44e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Manchester United desilude e perde em casa do promovido Hull City",
-      "link": "https://www.noticiasaominuto.com/desporto/3040006/manchester-united-desilude-e-perde-em-casa-do-promovido-hull-city#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 14:35:10",
+      "title": "Venezuela abre inquérito a deputado que propôs a dolarização da economia",
+      "link": "https://www.noticiasaominuto.com/mundo/3040015/venezuela-abre-inquerito-a-deputado-que-propos-a-dolarizacao-da-economia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 14:59:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a555c4586.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_673a183ab2158.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Baterias dos elétricos duram mais do que se imagina. Estudo revela tudo",
+      "link": "https://pplware.sapo.pt/motores/baterias-dos-eletricos-duram-mais-do-que-se-imagina-estudo-revela-tudo/",
+      "pubDate": "Sat, 22 Aug 2026 14:00:27 +0000",
+      "description": "A duração da bateria continua a ser o grande fantasma que assombra quem pensa comprar um carro elétrico. Muitos condutores ainda temem que a autonomia caia a pique ao fim de poucos anos de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/06/bateria_usados_eletrico_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 10:00:52 +0000",
       "description": "A ESET, maior empresa europeia de cibersegurança, encerrou 2025 com receitas consolidadas de 733 milhões de euros, um aumento de 6% face ao ano anterior. A câmbios constantes, o crescimento foi de 8%. O&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/eset_00-1-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Não embarque na sua próxima viagem de avião sem este acessório",
-      "link": "https://pplware.sapo.pt/informacao/nao-embarque-na-sua-proxima-viagem-de-aviao-sem-este-acessorio/",
-      "pubDate": "Sat, 22 Aug 2026 09:00:22 +0000",
-      "description": "São pequenas, discretas, cabem facilmente na mala de cabine e podem fazer toda a diferença num voo longo: as meias de compressão têm cada vez mais adeptos entre quem viaja de avião, e a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/07/aviao_lugares_viagem_viajar-2.jpg"
     },
     {
       "sourceId": "autosport",
