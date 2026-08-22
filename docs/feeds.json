@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-22T18:56:49.795847+00:00",
+  "updated": "2026-08-22T19:22:06.388697+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Explicador. Fragatas, papão dos submarinos e explicações",
+      "link": "https://observador.pt/especiais/explicador-as-fragatas-italianas-o-fantasma-dos-submarinos-e-as-explicacoes-do-governo/",
+      "pubDate": "Sat, 22 Aug 2026 20:19:13 +0100",
+      "description": "Governo acredita que negócio é necessário para modernizar Forças Armadas e chegar aos 2% do investimento do PIB em Defesa. Empresa portuguesa reclama papel mas não pede pagamento ao Estado.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12131050/47597547.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mais de 110 operacionais e 5 aviões combatem fogo no Fundão",
+      "link": "https://observador.pt/2026/08/22/mais-de-110-operacionais-e-cinco-avioes-combatem-fogo-no-fundao/",
+      "pubDate": "Sat, 22 Aug 2026 20:11:53 +0100",
+      "description": "Autoridade Nacional de Emergência e Proteção Civil (ANEPC) informa que mobilização para este incêndio era ao final da tarde de 117 operacionais no terreno, apoiados por 24 viaturas e cinco aviões.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:99/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22191335/47627416.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22184651/47647139.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Proteção Civil faz recomendações para dias de chuva e vento",
-      "link": "https://observador.pt/2026/08/22/dias-de-chuva-vento-e-risco-de-inundacoes-protecao-civil-recomenda-evitar-zonas-inundadas-ou-com-arvores/",
-      "pubDate": "Sat, 22 Aug 2026 18:59:03 +0100",
-      "description": "Meteorologia vai sofrer mudança abrupta, com risco de inundações e estradas mais perigosas. A condução deve ser mais defensiva e lenta e há risco de queda de árvores.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/23195408/46488277.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Novos desafios esperam alunos após acederem ao Ensino Superior",
+      "link": "https://www.rtp.pt/noticias/pais/novos-desafios-esperam-alunos-apos-acederem-ao-ensino-superior_v1761017",
+      "pubDate": "Sat, 22 Aug 2026 21:18:52 +0100",
+      "description": "Milhares de alunos portugueses já sabem onde vão começar a sua vida académica.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/bb/bb6a75330dacc062cbc196acf8b97c82_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O destino não defraudou o novo Príncipe do Mónaco",
-      "link": "https://observador.pt/2026/08/22/o-destino-nao-defraudou-o-novo-principe-do-monaco-pogacar-entra-com-tudo-na-vuelta-e-vence-contrarrelogio-por-nove-centesimos/",
-      "pubDate": "Sat, 22 Aug 2026 18:40:19 +0100",
-      "description": "O Príncipe Alberto quis, tentou e conseguiu. Depois de \"levar\" Pogacar à Vuelta, o campeão do mundo entrou com tudo na prova que o pode levar à história e venceu o contrarrelógio em casa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:257/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22183821/gettyimages-2290978993-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Engenharia Aeroespacial lidera médias de entrada no Ensino Superior",
+      "link": "https://www.rtp.pt/noticias/pais/engenharia-aeroespacial-lidera-medias-de-entrada-no-ensino-superior_v1761016",
+      "pubDate": "Sat, 22 Aug 2026 21:18:47 +0100",
+      "description": "A informação sobre as colocações no Ensino Superior chegou primeiro às redes sociais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e2/e2abefe9e3326674014ae9458c096694_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/76/763b73aa0e6f4f372e3722b38d4ffca1?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "19h Camila Rebelo revalida o ouro em Itália",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-camila-rebelo-revalida-o-ouro-em-italia_a1_1761011",
-      "pubDate": "Sat, 22 Aug 2026 20:21:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: Torreense recupera desvantagem de dois golos e empata na visita a Lourosa",
+      "link": "https://maisfutebol.iol.pt/ii-liga/lusitania-lourosa/ii-liga-torreense-recupera-desvantagem-de-dois-golos-e-empata-na-visita-a-lourosa",
+      "pubDate": "Sat, 22 Aug 2026 20:18:05 +0100",
+      "description": "Equipa de Luís Tralhão leva agora dois pontos em três jornadas",
+      "thumbnail": "https://img.iol.pt/image/id/6a89f4fbd34e511da0b34a34/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Agate de Sousa ‘vice’ no comprimento na etapa da Silésia da Liga Diamante",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/agate-de-sousa-vice-no-comprimento-na-etapa-da-silesia-da-liga-diamante_d1761006",
-      "pubDate": "Sat, 22 Aug 2026 19:31:07 +0100",
-      "description": "A atleta portuguesa Agate de Sousa foi hoje segunda classificada no salto em comprimento na etapa da Silésia da Liga Diamante, na Polónia, com a mesma marca da vencedora, a norte-americana Alyssa Jones, que se impôs no desempate.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/04bed4c0f4013bc3546de2c24c4f5467?w=350&amp;q=50&amp;rect=0,11,1200,658&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Estoril-Rio Ave, 0-2 (crónica)",
+      "link": "https://maisfutebol.iol.pt/estoril/rio-ave/estoril-rio-ave-0-2-cronica",
+      "pubDate": "Sat, 22 Aug 2026 20:12:00 +0100",
+      "description": "Que Blesa",
+      "thumbnail": "https://img.iol.pt/image/id/6a89ed29d34e511da0b34a23/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -117,8 +137,8 @@
       "color": "#4fc48a",
       "title": "VÍDEO: Tottenham entra na Premier League com o pé esquerdo",
       "link": "https://maisfutebol.iol.pt/internacional/premier/video-tottenham-entra-na-premier-league-com-o-pe-esquerdo",
-      "pubDate": "Sat, 22 Aug 2026 19:34:14 +0100",
-      "description": "«Spurs» perderam por 3-0 na deslocação ao reduto do Brentford. Mateus Fernandes começou o jogo no banco",
+      "pubDate": "Sat, 22 Aug 2026 19:34:00 +0100",
+      "description": "«Spurs» perderam por 3-0 na deslocação ao reduto do Brentford. Mateus Fernandes foi suplente utilizado",
       "thumbnail": "https://img.iol.pt/image/id/6a89ea49d34ed0733ba8126a/250"
     },
     {
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 19:33:42 +0100",
       "description": "Inter foi mais forte e acabou por golear a equipa recém promovida por 4-1",
       "thumbnail": "https://img.iol.pt/image/id/6a89eb39d34e511da0b34a1c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vuelta: Pogacar vence contrarrelógio por nove centésimos e veste de vermelho",
-      "link": "https://maisfutebol.iol.pt/ciclismo/vuelta-espanha/vuelta-pogacar-vence-contrarrelogio-por-nove-centesimos-e-veste-a-camisola-vermelha",
-      "pubDate": "Sat, 22 Aug 2026 19:06:00 +0100",
-      "description": "Esloveno foi o mais rápido nas ruas do Mónaco, batendo Ethan Hayter pela liderança. João Almeida foi 18.º classificado, a 18 segundos",
-      "thumbnail": "https://img.iol.pt/image/id/6a89e514d34e511da0b34a0c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Van der Gaag: «Este ponto mostra que é muito difícil ganhar jogos na Liga»",
-      "link": "https://maisfutebol.iol.pt/maritimo/mitchell-van-der-gaag/van-der-gaag-este-ponto-mostra-que-e-muito-dificil-ganhar-jogos-na-liga",
-      "pubDate": "Sat, 22 Aug 2026 19:01:00 +0100",
-      "description": "Marítimo-Académico de Viseu, 2-2 (reportagem)",
-      "thumbnail": "https://img.iol.pt/image/id/6a89ce85d34ed0733ba8122d/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Computador portátil incendeia-se durante voo da American Airlines",
+      "link": "https://www.noticiasaominuto.com/mundo/3040085/computador-portatil-incendeia-durante-voo-da-american-airlines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 20:05:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_58fdf85b6b528.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTUwLCJjcm9wSGVpZ2h0IjoxMjA5LCJjcm9wWCI6LTEsImNyb3BZIjoyMjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwNiwiY3JvcEhlaWdodCI6MTQzMiwiY3JvcFgiOjEyNTcsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Número de operacionais no fogo de Santa Marta de Penaguião ultrapassa 200",
+      "link": "https://www.noticiasaominuto.com/pais/3040101/numero-de-operacionais-no-fogo-de-santa-marta-de-penaguiao-ultrapassa-200#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 20:00:18",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47627416.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Kim Kardashian e Hamilton: Relação 'a correr sobre rodas'. Novas imagens",
+      "link": "https://www.noticiasaominuto.com/fama/3038129/kim-kardashian-e-hamilton-relacao-a-correr-sobre-rodas-novas-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 20:00:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8462d0855ab.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzU5LCJjcm9wSGVpZ2h0IjoxMzI3LCJjcm9wWCI6MTg3LCJjcm9wWSI6MjY1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMTUyLCJjcm9wSGVpZ2h0IjoyMDQ4LCJjcm9wWCI6NzUsImNyb3BZIjozOTl9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Jovem de 17 anos morre em capotamento de trator em Pinhel",
       "link": "https://www.noticiasaominuto.com/pais/3040100/jovem-de-17-anos-morre-em-capotamento-de-trator-em-pinhel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 19:50:35",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-22 19:49:08",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/47647412.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Irão e Egito discutem regresso à mesa de negociações com EUA",
-      "link": "https://www.noticiasaominuto.com/mundo/3040094/irao-e-egito-discutem-regresso-a-mesa-de-negociacoes-com-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 19:32:20",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66b3a3fa3cd72.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Ex-autarca de Santa Comba Dão João Lourenço morre aos 63 anos",
-      "link": "https://www.noticiasaominuto.com/pais/3040090/ex-autarca-de-santa-comba-dao-joao-lourenco-morre-aos-63-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 19:30:31",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5fac60db2eed5.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Tadej Pogacar vence contrarrelógio e é o primeiro líder da Vuelta",
-      "link": "https://www.noticiasaominuto.com/desporto/3040095/tadej-pogacar-vence-contrarrelogio-e-e-o-primeiro-lider-da-vuelta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 19:28:48",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47648167.webp"
     },
     {
       "sourceId": "pplware",
