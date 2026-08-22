@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-22T20:17:25.969482+00:00",
+  "updated": "2026-08-22T20:47:38.588596+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mercados de dívida em alvoroço e \"Portugal não está imune\"",
+      "link": "https://observador.pt/especiais/mercados-de-divida-publica-mundiais-em-alvoroco-e-portugal-nao-esta-imune/",
+      "pubDate": "Sat, 22 Aug 2026 21:39:55 +0100",
+      "description": "Alemanha financia-se a juros mais elevados desde 2011. Nos EUA, investidores só emprestam ao Tesouro norte-americano a troco de juros tão altos como em 2007. Intervenção da Casa Branca valeu de pouco.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2245:nowe:0:348/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18162349/gettyimages-2285758548.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1736/",
+      "pubDate": "Sat, 22 Aug 2026 21:32:40 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Muda a época, mantém-se o domínio: Bayern vence Supertaça",
+      "link": "https://observador.pt/2026/08/22/muda-a-epoca-mantem-se-o-dominio-bayern-derrota-dortmund-fora-de-casa-e-conquista-supertaca-alema/",
+      "pubDate": "Sat, 22 Aug 2026 21:25:53 +0100",
+      "description": "Num dérbi que só animou no fim, o Bayern entrou dominador e garantiu o triunfo ainda na primeira parte, com um golo e uma assistência de Olise (1-2). Fábio Silva entrou e marcou logo a seguir.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:30/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22212225/gettyimages-2291589136-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12131050/47597547.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais de 110 operacionais e 5 aviões combatem fogo no Fundão",
-      "link": "https://observador.pt/2026/08/22/mais-de-110-operacionais-e-cinco-avioes-combatem-fogo-no-fundao/",
-      "pubDate": "Sat, 22 Aug 2026 20:11:53 +0100",
-      "description": "Autoridade Nacional de Emergência e Proteção Civil (ANEPC) informa que mobilização para este incêndio era ao final da tarde de 117 operacionais no terreno, apoiados por 24 viaturas e cinco aviões.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:99/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22191335/47627416.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Flávio Gonçalves perto do golo de livre direto (1-0, 36')",
-      "link": "https://observador.pt/liveblogs/sporting-alverca-suarez-ba-debast-e-fresneda-no-onze-ioannidis-de-fora/",
-      "pubDate": "Sat, 22 Aug 2026 19:30:06 +0100",
-      "description": "Leões recebem ribatejanos e vão à procura da segunda vitória em três jornadas do Campeonato. Ioannidis é baixa, Suárez, Debast e Ba saltam para o onze, Irankunda estreia-se nas opções. Siga aqui.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3710:2082:nowe:0:302/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22205407/gettyimages-2291030406.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 19h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2153/",
-      "pubDate": "Sat, 22 Aug 2026 19:14:34 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Abrantes. Incêndio florestal combatido por 400 bombeiros",
+      "link": "https://www.rtp.pt/noticias/pais/abrantes-incendio-florestal-combatido-por-400-bombeiros_n1761033",
+      "pubDate": "Sat, 22 Aug 2026 22:31:19 +0100",
+      "description": "Pelas 21:00 de sábado, o incêndio florestal iniciado na aldeia de Mouriscas, no concelho de Abrantes dava sinais de abrandamento.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/40/405832ff807977e7009ef523349dc9be?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -89,17 +99,37 @@
       "link": "https://www.rtp.pt/noticias/mundo/troca-de-ataques-de-drones-entre-russia-e-ucrania-faz-22-mortos_v1761027",
       "pubDate": "Sat, 22 Aug 2026 21:50:47 +0100",
       "description": "Dezasseis pessoas morreram e mais de 100 ficaram feridas num ataque russo a um centro comercial na Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/eb/ebdda5abfbe2248c6ea95a1e3c850a84_N.jpg?"
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3d09a6b2136c83c5d6bf53a36233c48?w=350&amp;q=50&amp;rect=0,164,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Escalada integrada na reabilitação física em Alcoitão",
-      "link": "https://www.rtp.pt/noticias/pais/escalada-integrada-na-reabilitacao-fisica-em-alcoitao_v1761026",
-      "pubDate": "Sat, 22 Aug 2026 21:46:47 +0100",
-      "description": "No centro de Alcoitão, a escalada foi integrada na reabilitação física e mental de doentes com problemas motores.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/76/76380c24e6223a8812119846ac424b8e_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Fábio Silva marca, mas Bayern Munique conquista Supertaça alemã",
+      "link": "https://maisfutebol.iol.pt/alemanha/supertaca/video-fabio-silva-marca-mas-bayern-munique-conquista-supertaca-alema",
+      "pubDate": "Sat, 22 Aug 2026 21:35:00 +0100",
+      "description": "Bávaros bateram o Borussia Dortmund por 2-1 e levantam o primeiro troféu da época",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a07dcd34ed0733ba812a3/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vasco Matos: «Faltou-nos agressividade»",
+      "link": "https://maisfutebol.iol.pt/liga/estoril/vasco-matos-faltou-nos-agressividade",
+      "pubDate": "Sat, 22 Aug 2026 21:30:00 +0100",
+      "description": "Estoril-Rio Ave, 0-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a89ed37d34ed0733ba81274/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Silaidopoulos: «Diogo Nascimento é muito inteligente»",
+      "link": "https://maisfutebol.iol.pt/liga/resultados/silaidopoulos-diogo-nascimento-e-muito-inteligente",
+      "pubDate": "Sat, 22 Aug 2026 21:27:09 +0100",
+      "description": "Estoril-Rio Ave, 0-2 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a89eda7d34ed0733ba81276/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -107,9 +137,9 @@
       "color": "#4fc48a",
       "title": "OFICIAL: Benfica empresta João Rego ao Casa Pia",
       "link": "https://maisfutebol.iol.pt/benfica/joao-rego/oficial-benfica-empresta-joao-rego-ao-casa-pia",
-      "pubDate": "Sat, 22 Aug 2026 21:15:07 +0100",
-      "description": "Médio é cedido aos «gansos» até ao final da temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6855da70d34ef72ee4476da3/250"
+      "pubDate": "Sat, 22 Aug 2026 21:15:00 +0100",
+      "description": "Médio-ofensivo é cedido aos «gansos» até ao final da temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a0613d34e511da0b34a54/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 20:58:00 +0100",
       "description": "Clube do avançado ex-Sporting goleou por 4-0",
       "thumbnail": "https://img.iol.pt/image/id/6a89fee6d34e511da0b34a3d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Torreense recupera desvantagem de dois golos e empata com o Lourosa",
-      "link": "https://maisfutebol.iol.pt/ii-liga/lusitania-lourosa/ii-liga-torreense-recupera-desvantagem-de-dois-golos-e-empata-na-visita-a-lourosa",
-      "pubDate": "Sat, 22 Aug 2026 20:18:00 +0100",
-      "description": "Equipa treinada por Luís Tralhão, que vai disputar a Liga Europa, leva agora dois pontos em três jornadas",
-      "thumbnail": "https://img.iol.pt/image/id/6a89f4fbd34e511da0b34a34/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Estoril-Rio Ave, 0-2 (crónica)",
-      "link": "https://maisfutebol.iol.pt/estoril/rio-ave/estoril-rio-ave-0-2-cronica",
-      "pubDate": "Sat, 22 Aug 2026 20:12:00 +0100",
-      "description": "Que Blesa",
-      "thumbnail": "https://img.iol.pt/image/id/6a89ed29d34e511da0b34a23/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting-Alverca (equipas): Suárez é uma das quatro alterações de Borges",
-      "link": "https://maisfutebol.iol.pt/liga/sporting/sporting-alverca-equipas-suarez-e-uma-das-quatro-alteracoes-de-borges",
-      "pubDate": "Sat, 22 Aug 2026 19:37:00 +0100",
-      "description": "Avançado regressa à titularidade. É a primeira vez esta época",
-      "thumbnail": "https://img.iol.pt/image/id/6a622b01d34ef04b4f3f8809/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "À capitão. O belo golo de Maxi Araújo que deixou o Sporting a vencer",
+      "link": "https://www.noticiasaominuto.com/desporto/3040121/a-capitao-o-belo-golo-de-maxi-araujo-que-deixou-o-sporting-a-vencer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:34:15",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a07ca7590e.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Bellingham fez o 1.º golo no regresso de Mourinho... que reagiu assim",
+      "link": "https://www.noticiasaominuto.com/desporto/3040119/bellingham-fez-o-1-golo-no-regresso-de-mourinho-que-reagiu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:26:14",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a05e8ddc32.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Prisões? ONG pede à Venezuela alargamento da cooperação com Cruz Vermelha",
+      "link": "https://www.noticiasaominuto.com/mundo/3040118/prisoes-ong-pede-a-venezuela-alargamento-da-cooperacao-com-cruz-vermelha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:22:34",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a55c0219668.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA5LCJjcm9wWCI6NDEwLCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Avançado vendido pelo Benfica marcou este grande golo frente ao Inter",
+      "link": "https://www.noticiasaominuto.com/desporto/3040117/avancado-vendido-pelo-benfica-marcou-este-grande-golo-frente-ao-inter#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:14:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a03113b655.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Oficial: Benfica empresta jovem que não contava para Marco Silva",
       "link": "https://www.noticiasaominuto.com/desporto/3040116/oficial-benfica-empresta-jovem-que-nao-contava-para-marco-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 21:04:39",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a00c2aa4c3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6ODB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Um duo poderoso! 4 alimentos ricos em proteínas e fibras",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3038185/um-duo-poderoso-4-alimentos-ricos-em-proteinas-e-fibras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:01:12",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a847861a4aa7.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Três dos bombeiros feridos em Arouca com \"evolução favorável\"",
-      "link": "https://www.noticiasaominuto.com/pais/3040114/tres-dos-bombeiros-feridos-em-arouca-com-evolucao-favoravel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:00:05",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a496d27ae4ca.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyMTEsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Championship: Nuno Espírito Santo vive pesadelo e Peixoto já sorri",
-      "link": "https://www.noticiasaominuto.com/desporto/3040092/championship-nuno-espirito-santo-vive-pesadelo-e-peixoto-ja-sorri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 20:59:10",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89e8d6f0a93.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Seguro diz que Romaria d'Agonia mostra \"o melhor que povo português tem\"",
-      "link": "https://www.noticiasaominuto.com/pais/3040111/seguro-diz-que-romaria-dagonia-mostra-o-melhor-que-povo-portugues-tem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 20:48:16",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6967a5c721ccc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9fQ=="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Tesla e marcas chinesas recolhem 4,3 milhões de carros: portas podem prender ocupantes",
+      "link": "https://pplware.sapo.pt/motores/tesla-e-marcas-chinesas-recolhem-43-milhoes-de-carros-portas-podem-prender-ocupantes/",
+      "pubDate": "Sat, 22 Aug 2026 20:30:29 +0000",
+      "description": "A China acaba de avançar com a maior campanha de recolha automóvel da sua história. Cerca de 4,3 milhões de veículos, sobretudo elétricos Tesla, estão abrangidos devido a um problema aparentemente simples, mas potencialmente&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/abertura_mecanica00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 17:00:03 +0000",
       "description": "Quem desenvolve ou gere projetos de código sabe que manter o código organizado e controlar as alterações é fundamental. É neste contexto que ferramentas como o Git assumem um papel importante, permitindo acompanhar alterações,&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/git_capa.png"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Como funciona o carregamento sem fios dos smartphones?",
-      "link": "https://pplware.sapo.pt/motores/como-funciona-o-carregamento-sem-fios-dos-smartphones/",
-      "pubDate": "Sat, 22 Aug 2026 16:00:10 +0000",
-      "description": "O carregamento sem fios permite carregar smartphones e outros dispositivos sem ligar um cabo, utilizando principalmente a indução eletromagnética para transferir energia entre o carregador e o equipamento. Mas como é que é possível&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/carregador-sem-fios.webp"
     },
     {
       "sourceId": "autosport",
