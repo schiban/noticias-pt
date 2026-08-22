@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-22T08:24:03.501467+00:00",
+  "updated": "2026-08-22T08:56:13.826053+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 9h",
+      "title": "Bancos centrais: renovações envoltas em polémica",
+      "link": "https://observador.pt/2026/08/22/bancos-centrais-enfrentam-dificuldades-com-processo-de-renovar-ou-mudar-sede/",
+      "pubDate": "Sat, 22 Aug 2026 09:53:45 +0100",
+      "description": "De Portugal aos EUA, passando pela Alemanha e Hungria, obras nas sedes de bancos centrais acumulam escândalos, custos inflacionados e investigações criminais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/03/23140949/23787703_770x433_acf_cropped.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Rússia lança ataque noturno com 200 drones contra a Ucrânia",
+      "link": "https://observador.pt/liveblogs/russia-lanca-ataque-noturno-com-200-drones-contra-a-ucrania/",
+      "pubDate": "Sat, 22 Aug 2026 09:42:27 +0100",
+      "description": "Moscovo atacou várias regiões ucranianas, como Kiev, Odessa e Dnipro durante a última noite. Ao todo, segundo as autoridades ucranianas, foram lançados 217 drones, dos quais 191 terão sido abatidos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:52/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30064119/photo-2026-07-30-00-28-42-20260730-044256.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. Sebastião Bugalho volta a sair em defesa do MAI",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2448/",
       "pubDate": "Sat, 22 Aug 2026 09:03:05 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O dirigente desvaloriza as novas polémicas e garante que Luís Neves não é o primeiro MAI a usar um carro apreendido pela PJ. Ainda, relatório final do acidente do Elevador da Glória só em março.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -25,81 +45,71 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
+      "title": "8h. Engenharia Aeroespacial na UP tem a média mais alta",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2495/",
       "pubDate": "Sat, 22 Aug 2026 08:11:43 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 7h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2482/",
-      "pubDate": "Sat, 22 Aug 2026 07:16:52 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "6h. Acesso ao Ensino Superior. Ainda há mais 6 mil vagas",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2471/",
-      "pubDate": "Sat, 22 Aug 2026 06:13:23 +0100",
-      "description": "A 2.ª fase do concurso decorre entre 24 de agosto e 20 de setembro. Ainda, a Rússia voltou a atacar Kiev durante a madrugada com recurso a mísseis balísticos.",
+      "description": "Já pelo terceiro ano consecutivo. As 30 vagas para esta licenciatura estão ocupadas e a nota mínima de acesso foi de 19,5 valores. Ainda, o Chega exige a exoneração do ministro Luís Neves.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Trump garante que crescimento do PIB resolverá problema da dívida \"com muita facilidade\"",
-      "link": "https://www.rtp.pt/noticias/economia/trump-garante-que-crescimento-do-pib-resolvera-problema-da-divida-com-muita-facilidade_n1760921",
-      "pubDate": "Sat, 22 Aug 2026 10:20:51 +0100",
-      "description": "O Presidente norte-americano, Donald Trump, garantiu na sexta-feira que o problema do aumento da dívida e dos pagamentos de juros será resolvido &quot;com muita facilidade&quot; graças ao atual crescimento económico do país.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/16/16d364a608b64a0ad6b6e0a21ad34d83?w=350&amp;q=50&amp;rect=0,29,1500,822&amp;auto=format"
+      "title": "Elevador da Glória. Relatório final do GPIAAF deve ser publicado até final de março de 2027",
+      "link": "https://www.rtp.pt/noticias/pais/elevador-da-gloria-relatorio-final-do-gpiaaf-deve-ser-publicado-ate-final-de-marco-de-2027_n1760909",
+      "pubDate": "Sat, 22 Aug 2026 10:54:18 +0100",
+      "description": "O relatório final ao acidente do ascensor da Glória, em Lisboa, que provocou 16 mortos, não ficará concluído em setembro, como previsto, devido à complexidade das peritagens técnicas, prevendo-se agora a publicação até &quot;final do primeiro trimestre de 2027&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b958eaf3e07c4d545ed07027053729fd?w=350&amp;q=50&amp;rect=0,510,5500,3015&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Espanha rejeita reivindicações de Marrocos e reitera que \"Ceuta e Melilla são espanholas\"",
-      "link": "https://www.rtp.pt/noticias/mundo/espanha-rejeita-reivindicacoes-de-marrocos-e-reitera-que-ceuta-e-melilla-sao-espanholas_n1760916",
-      "pubDate": "Sat, 22 Aug 2026 09:57:11 +0100",
-      "description": "O Governo espanhol transmitiu hoje a Marrocos que rejeita as reivindicações de soberania do país africano sobre Ceuta e Melilla, reiterando que &quot;são duas cidades espanholas&quot; que fazem parte da &quot;integridade territorial&quot; e da soberania espanhola.",
+      "title": "GPIAAF formalizou recomendações de segurança aceites por Carris e IMT",
+      "link": "https://www.rtp.pt/noticias/pais/gpiaaf-formalizou-recomendacoes-de-seguranca-aceites-por-carris-e-imt_n1760910",
+      "pubDate": "Sat, 22 Aug 2026 10:50:50 +0100",
+      "description": "O gabinete de investigação de acidentes com aeronaves e ferroviários fez quatro recomendações de segurança à Carris e duas ao Instituto da Mobilidade e Transportes (IMT), na sequência do acidente do ascensor da Glória, em Lisboa, que foram atendidas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "HRW insta Governo espanhol a oferecer opção de asilo a ilegais em Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/hrw-insta-governo-espanhol-a-oferecer-opcao-de-asilo-a-ilegais-em-ceuta_n1760923",
-      "pubDate": "Sat, 22 Aug 2026 09:56:08 +0100",
-      "description": "A Human Rights Watch (HRW) apelou ao Governo de Espanha para que acolha e ofereça a oportunidade de asilo aos migrantes ilegais que permanecem em Ceuta após a entrada maciça no final de julho.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f80b6823b093699132a1b7f174654eef?w=350&amp;q=50&amp;rect=0,39,1500,822&amp;auto=format"
+      "title": "Vagas de calor. Dados provisórios apontam mais de 30 mil mortes em excesso na Europa",
+      "link": "https://www.rtp.pt/noticias/mundo/vagas-de-calor-dados-provisorios-apontam-mais-de-30-mil-mortes-em-excesso-na-europa_n1760912",
+      "pubDate": "Sat, 22 Aug 2026 10:46:25 +0100",
+      "description": "Mais de 30 mil mortes em excesso foram registadas na Europa nos últimos meses, marcados por vagas de calor excecionais, segundo dados provisórios da plataforma EuroMomo e das autoridades de saúde de vários países, incluindo Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/422b2c0430a0f7d0fdf97cab06fb9694?w=350&amp;q=50&amp;rect=0,121,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Ébola. 16.250 doses da vacina Ervebo da OMS chegam à RDCongo",
-      "link": "https://www.rtp.pt/noticias/mundo/ebola-16250-doses-da-vacina-ervebo-da-oms-chegam-a-rdcongo_n1760924",
-      "pubDate": "Sat, 22 Aug 2026 09:51:26 +0100",
-      "description": "Um lote de 16.250 doses da vacina Ervebo chegou esta sexta-feira à República Democrática do Congo (RDCongo), país que enfrenta a mais mortífera epidemia de Ébola da sua história, reportou a agência France-Presse.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b813a295e0b064ef3812307c8ae3b111?w=350&amp;q=50&amp;rect=0,38,1500,822&amp;auto=format"
+      "title": "Número de mortos no sismo na Colômbia sobe para 321",
+      "link": "https://www.rtp.pt/noticias/mundo/numero-de-mortos-no-sismo-na-colombia-sobe-para-321_n1760913",
+      "pubDate": "Sat, 22 Aug 2026 10:37:51 +0100",
+      "description": "O número de mortos devido ao sismo de magnitude 7,4 que atingiu o centro e o oeste da Colômbia na semana passada subiu para 321, divulgaram hoje as autoridades governamentais.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Lula sugeriu a Trump reunir Xi e Putin na Flórida para encontrar solução para a guerra na Ucrânia",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/lula-sugeriu-a-trump-reunir-xi-e-putin-na-florida-para-encontrar-solucao-para-a-guerra-na-ucrania_n1760926",
-      "pubDate": "Sat, 22 Aug 2026 09:45:55 +0100",
-      "description": "O Presidente brasileiro, Lula da Silva, afirmou esta sexta-feira ter sugerido ao seu homólogo norte-americano, Donald Trump, que organize um encontro com os líderes da Rússia e China na Flórida, para discutir uma resolução para a guerra na Ucrânia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0ecd63d7befc0e13cc86ec08dd5505ca?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "title": "Kiev acusa Coreia do Norte de enviar operadores de drones para a guerra",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-acusa-coreia-do-norte-de-enviar-operadores-de-drones-para-a-guerra_n1760915",
+      "pubDate": "Sat, 22 Aug 2026 10:37:25 +0100",
+      "description": "A Coreia do Norte incluiu uma unidade de operadores de drones no mais recente envio de tropas para a Rússia, em apoio a Moscovo na guerra na Ucrânia, segundo fonte oficial dos serviços de informações militares de Kiev.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Marítimo lança documentário sobre a subida: «Valeu cada segundo»",
+      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-lanca-documentario-sobre-a-subida-valeu-cada-segundo",
+      "pubDate": "Sat, 22 Aug 2026 09:46:00 +0100",
+      "description": "Estreia marcada para 26 de agosto",
+      "thumbnail": "https://img.iol.pt/image/id/69ee6d0ad34e28842c835bbb/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,14 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Jorge Braz homenageado em Valpaços: «Não devemos nunca negar de onde vimos»",
-      "link": "https://maisfutebol.iol.pt/geral/22-08-2026/jorge-braz-homenageado-em-valpacos-nao-devemos-nunca-negar-de-onde-vimos",
-      "pubDate": "Sat, 22 Aug 2026 00:17:00 +0100",
-      "description": "Valpaços atribui nome do selecionador de futsal a pavilhão e ergue escultura em sua homenagem",
-      "thumbnail": "https://img.iol.pt/image/id/6a88dab5d34e511da0b348cd/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "\"A América mudou\": EUA e Canadá falham acordo comercial e tarifas avançam",
+      "link": "https://sapo.pt/artigo/a-america-mudou-eua-e-canada-falham-acordo-comercial-e-tarifas-avancam-6a8957c5e58eb3a3e67588b5",
+      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
+      "description": "A decisão surge após três dias de conversas em Washington entre representantes do governo dos dois países que acabaram suspensas e com o primeiro-ministro do Canadá a justificar que os EUA apresentaram mudanças \"injustas e economicamente...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AwlUbIOizgOOHxw9wF3KTajuTnbzW1JJZ7lwhMWm4D1%2BdoCZ7n2isbwz1UMF11vXK%2B011I5hmmh6dxrjCMOpTKrsSZtV2NzPIUHmsJgKcpVOVv0ZXQNdY7EkQzsDGIczZ"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Engenharia Aeroespacial lidera acesso ao ensino superior com 19,5 valores",
+      "link": "https://eco.sapo.pt/2026/08/22/engenharia-aeroespacial-lidera-acesso-ao-ensino-superior-com-195-valores/",
+      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
+      "description": "Engenharia Aeroespacial da FEUP tem a nota mais alta da primeira fase, com 19,5 valores. No extremo oposto, Gestão e Informática em Lamego fecha nos 9,7, segundo os dados oficiais de colocação.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7zb99%2BusOnd845xXRSwKmNzjsLVwavNYCI5KnSgGahlz5heZg%2FnIKeSrPEUKZw97KPL10qXSw5m54imCdKN4YZKuDJDmce8XH2AZAfuWgLDUSr6BjHuNhmwgjkNCDgom"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Médio Oriente: Plano de Israel para colonatos na Cisjordânia “inaceitável”, diz Von der Leyen",
+      "link": "https://jornaleconomico.sapo.pt/noticias/medio-oriente-plano-de-israel-para-colonatos-na-cisjordania-inaceitavel-diz-von-der-leyen/",
+      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
+      "description": "A dirigente alemã alertou que esta decisão do Executivo israelita de Benjamin Netanyahu, a quem não fez referência, \"minimiza a solução de dois Estados, ao dividir a Cisjordânia e romper a continuidade territorial dos territórios palestinianos\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A8T07PJoDKpu%2FkXzEtHYqImHgdOrnMdBTE5xTktEIXRx10uiwTWbZdI0PXKoseIb0z%2B1BFT%2F5Sxa65MkBAr0aAEZsAAs%2B4WV%2BnQ%2BsgX95c%2BukpKgqhlkYSV25AqtutHdT"
     },
     {
       "sourceId": "sapo",
@@ -165,91 +195,61 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Elevador da Glória: relatório final do acidente deve ser publicado até final de março de 2027",
-      "link": "https://sapo.pt/artigo/elevador-da-gloria-relatorio-final-do-acidente-deve-ser-publicado-ate-final-de-marco-de-2027-6a88d41e57577bfcb5c8aa1a",
-      "pubDate": "Fri, 21 Aug 2026 22:47:47 +0000",
-      "description": "Complexidade das peritagens técnicas faz adiar a publicação, que deverá acontecer até “final do primeiro trimestre de 2027”, adianta o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A2vf5Jii2czMix3354j3DCUyAwL8XBm3lz%2FKQPJmMU14%2FnHZDbnLLQ83ILBFV0vfo4CWvLsvt2GBNPcN6neHm8bK7hpErRkbd1S5nvgYfIFS70ty8BXVerbOcogNpymG%2B"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Chega pede exoneração de Luís Neves e aponta alegadas irregularidades durante gestão da PJ",
-      "link": "https://jornaleconomico.sapo.pt/noticias/chega-pede-exoneracao-de-luis-neves-e-aponta-alegadas-irregularidades-durante-gestao-da-pj/",
-      "pubDate": "Fri, 21 Aug 2026 21:06:42 +0000",
-      "description": "Num documento apresentado pelo partido, os deputados apontam um conjunto de situações relacionadas com declarações patrimoniais, gestão financeira da PJ, contratos públicos e relações com uma empresa que terá realizado trabalhos para o então...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AqZcbsxDvfpgwzFT5x%2FAHMpgKj2%2BJFC%2BegjK7ofE9pPsWrcDbXvdNOz%2BFPb1TOBqEo%2FN%2Fsgg9CFYKjozZxNo4A5svN1tHkv3uC%2B%2B09hZsBqbnQgcmngcGIGR2Q5h0%2BlJm"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Ataque russo com drones mata 14 pessoas num centro comercial na cidade natal de Zelensky",
-      "link": "https://sapo.pt/artigo/ataque-russo-com-drones-mata-14-pessoas-num-centro-comercial-na-cidade-natal-de-zelensky-6a889b6b9b79793efa0ab7f6",
-      "pubDate": "Fri, 21 Aug 2026 21:06:42 +0000",
-      "description": "Ataque russo a Kryvyi Rih, no centro da Ucrânia, fez ainda 121 feridos, incluindo 22 crianças. Presidente ucraniano acusa Moscovo de \"atos terroristas\"",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A0DCfQWoOZdcQzJMZxq3jLXgVgCEf6Hnw8CfBtsl3sA%2Fx2qO3pM7ua5mEGAZEuGAlTx6KOlIe68yH5GOQlvk7KCg8b%2FEDHGKo2%2BF4h5XjuvY4QaqCCed23xRL7tCnODiH"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Liga Diamante: Pichardo triunfa e estafeta feminina conquista segundo lugar em Lausana",
-      "link": "https://sapo.pt/artigo/liga-diamante-pichardo-triunfa-e-estafeta-feminina-conquista-segundo-lugar-em-lausana-6a88ce5057577bfcb5c8116b",
-      "pubDate": "Fri, 21 Aug 2026 22:47:47 +0000",
-      "description": "Pedro Pichardo já conquistou a Liga Diamante por três vezes (2018, 2021 e 2024) e ampliou o seu palmarés pela última vez em território inglês, ao alcançar a segunda prata em Europeus, depois do ouro em Munique 2022.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ApbKCIjZrZj09stf0jYxjtEZqKpT31oP8KecmtkZPTPlBgwlqI%2Fi32OtcXMcP4HXUHdgv0gMmeAmQ%2BwOxHCmAgl901NZXSTtWta5e96R3yBKaW9TZEuv9lWAW%2ByGUoEdO"
+      "title": "Amanhã há novos cortes de luz: saiba se a sua zona será uma das afetadas",
+      "link": "https://executivedigest.sapo.pt/amanha-ha-novos-cortes-de-luz-saiba-se-a-sua-zona-sera-uma-das-afetadas-2/",
+      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
+      "description": "Várias zonas do território continental vão ter cortes programados de eletricidade este domingo, devido à realização de trabalhos na rede elétrica.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AWmfjGrPoruvQk6fLx3TftzuP7UOzDqUg33K1zNXPs7zMsZ3Yecg8qH28fSaQmykwyh2uBCgREQG7w4h0mcdS%2BKlOwjHjATXSw1bkfxX9IOzgr1jehGNy%2BoVAl7cyg0SP"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fragatas. CDS quer pedido de desculpa, Ventura atira: \"Era o que faltava\"",
-      "link": "https://www.noticiasaominuto.com/politica/3039946/fragatas-cds-quer-pedido-de-desculpa-ventura-atira-era-o-que-faltava#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:15:28",
+      "title": "Companhia de Teatro de Almada estreia \"Medida por Medida\" de Shakespeare",
+      "link": "https://www.noticiasaominuto.com/cultura/3039958/companhia-de-teatro-de-almada-estreia-medida-por-medida-de-shakespeare#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:47:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895a621c337.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f3fa7d5dd20a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Os alimentos que reduzem a inflamação crónica (e asseguram longevidade)",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3038607/os-alimentos-que-reduzem-a-inflamacao-cronica-e-asseguram-longevidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:06:45",
+      "title": "Bancos centrais têm dificuldades com processo de renovar ou mudar sede",
+      "link": "https://www.noticiasaominuto.com/economia/3039959/bancos-centrais-tem-dificuldades-com-processo-de-renovar-ou-mudar-sede#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:42:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88570c6bfbc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYwLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6MjYsImNyb3BZIjoxNDZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f0acd73a61c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Passou-me muita coisa pela vista: drogas, crime. Engravidei 2 vezes\"",
-      "link": "https://www.noticiasaominuto.com/fama/3037756/passou-me-muita-coisa-pela-vista-drogas-crime-engravidei-2-vezes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:04:15",
+      "title": "Veterinários e associações defendem investimento na esterilização de animais",
+      "link": "https://www.noticiasaominuto.com/pais/3039950/veterinarios-e-associacoes-defendem-investimento-na-esterilizacao-de-animais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:38:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a420b3fc9a86.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU4NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjMxMSwiY3JvcEhlaWdodCI6NDEwOCwiY3JvcFgiOjEyNSwiY3JvcFkiOjd9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67f77cd3cc025.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Brilhou em Braga com biscate no FC Porto. O que é feito de Andrés Madrid?",
-      "link": "https://www.noticiasaominuto.com/desporto/3039735/brilhou-em-braga-com-biscate-no-fc-porto-o-que-e-feito-de-andres-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 09:01:22",
+      "title": "Intensos bombardeamentos sacodem sul do Líbano",
+      "link": "https://www.noticiasaominuto.com/mundo/3039956/intensos-bombardeamentos-sacodem-sul-do-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:33:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a887395b899f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwic3RhbXAiOnsiY2F0ZWdvcnkiOiJkZXNwb3J0byIsImxhYmVsIjoib19xdWVfZV9mZWl0b19kZSIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJ0b3AtcmlnaHQifX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895ee6704ab.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Do prémio ao dono da Zara ao IMI: As notícias preferidas da semana",
-      "link": "https://www.noticiasaominuto.com/economia/3039655/do-premio-ao-dono-da-zara-ao-imi-as-noticias-preferidas-da-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 08:30:41",
+      "title": "Sérvia contra saída de tropas da NATO de zona no Kosovo",
+      "link": "https://www.noticiasaominuto.com/mundo/3039954/servia-contra-saida-de-tropas-da-nato-de-zona-no-kosovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:29:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8858bb7a02e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895dd30ec83.webp"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,26 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "GP dos Países Baixos F1: Fernando Alonso larga da via das boxes",
+      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-fernando-alonso-larga-da-via-das-boxes/",
+      "pubDate": "Sat, 22 Aug 2026 08:37:36 +0000",
+      "description": "George Russell vai liderar o pelotão na partida do Sprint do Grande Prémio da Holanda, em Zandvoort, depois de ter conquistado a pole position na qualificação sprint com o tempo de 1:11.567. O piloto da Mercedes bateu Lando Norris por apenas 0,041 segundos, com o piloto da McLaren a alinhar ao seu l",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rally dos Sertões promete disputas equilibradas nos carros e UTVs",
+      "link": "https://www.autosport.pt/todooterreno/rally-dos-sertoes-promete-disputas-equilibradas-nos-carros-e-utvs/",
+      "pubDate": "Fri, 21 Aug 2026 23:01:00 +0000",
+      "description": "O Rally dos Sertões Petrobras 2026 arranca com um dos mais competitivos alinhamentos da sua história, tanto entre os carros como nos UTVs. A prova, que decorre entre 22 e 30 de agosto, terá 4.020 quilómetros cronometrados e liga Goiânia a diferentes regiões de Goiás, Bahia, Maranhão e Tocantins. Ent",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "GP dos Países Baixos F1, Lando Norris: “Foi uma volta razoável”",
       "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-lando-norris-foi-uma-volta-razoavel/",
       "pubDate": "Fri, 21 Aug 2026 17:24:23 +0000",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lewis-hamilton-quando-entramos-na-qualificacao-o-carro-ficou-completamente-diferente/",
       "pubDate": "Fri, 21 Aug 2026 17:01:54 +0000",
       "description": "Lewis Hamilton viveu uma Qualificação Sprint frustrante em Zandvoort, terminando apenas em sétimo lugar, a meio segundo do companheiro de equipa Charles Leclerc, que foi terceiro. O britânico da Ferrari admitiu não compreender a queda de rendimento do carro entre o primeiro treino livre e a qualific",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos, Toto Wolff: “Russell tirou pressão dos ombros com o pedido de casamento”",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-toto-wolff-russell-tirou-pressao-dos-ombros-com-o-pedido-de-casamento/",
-      "pubDate": "Fri, 21 Aug 2026 16:50:30 +0000",
-      "description": "Toto Wolff, chefe de equipa da Mercedes, comentou a sessão de Qualificação Sprint em Zandvoort, destacando o estado de espírito de George Russell após o pedido de casamento aceite por Carmen Montero Mundt e detalhando a extensão dos danos sofridos por Kimi Antonelli depois do toque na gravilha duran",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Lembra-se do primeiro rugido de uma lenda? Quando o jovem Sebastian Vettel surpreendeu o mundo na F1, foi há 20 anos",
-      "link": "https://www.autosport.pt/formula1/lembra-se-do-primeiro-rugido-de-uma-lenda-quando-o-jovem-sebastian-vettel-surpreendeu-o-mundo-na-f1-foi-ha-20-anos/",
-      "pubDate": "Fri, 21 Aug 2026 16:07:18 +0000",
-      "description": "Há ecos no pit lane que o tempo nunca apaga. E há sexta-feiras em que o passado parece antecipar o futuro com uma clarividência arrebatadora. No verão de 2006, o Grande Prémio da Turquia preparava-se para ser apenas mais uma etapa do calendário do circo máximo do automobilismo. No entanto, o asfalto",
       "thumbnail": ""
     }
   ]
