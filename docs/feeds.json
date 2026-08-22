@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-22T07:55:22.613194+00:00",
+  "updated": "2026-08-22T08:24:03.501467+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2448/",
+      "pubDate": "Sat, 22 Aug 2026 09:03:05 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Se contasse histórias, as aulas corriam lindamente\"",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/se-contasse-historias-as-aulas-corriam-lindamente/",
+      "pubDate": "Sat, 22 Aug 2026 08:26:48 +0100",
+      "description": "Professora durante 36 anos, Cristina Oliveira considera que viajar devia ser obrigatório. Apaixonada pelo Brasil, Cristina usou, ao longo da carreira, as histórias de viagem para sossegar os alunos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Marcas de água chegam à IA e não são fáceis de contrariar",
-      "link": "https://observador.pt/programas/m-quinas-que-pensam/marcas-de-agua-chegam-a-ia-e-nao-sao-faceis-de-contrariar/",
-      "pubDate": "Sat, 22 Aug 2026 06:06:52 +0100",
-      "description": "Novos modelos do Claude passam a ter assinatura \"invisivel\" para os utilizadores. Segurança está a ser reforçada em todo o mundo e é complicada de ultrapassar. Ainda, como a IA está a chegar aos céus.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Trump garante que crescimento do PIB resolverá problema da dívida \"com muita facilidade\"",
+      "link": "https://www.rtp.pt/noticias/economia/trump-garante-que-crescimento-do-pib-resolvera-problema-da-divida-com-muita-facilidade_n1760921",
+      "pubDate": "Sat, 22 Aug 2026 10:20:51 +0100",
+      "description": "O Presidente norte-americano, Donald Trump, garantiu na sexta-feira que o problema do aumento da dívida e dos pagamentos de juros será resolvido &quot;com muita facilidade&quot; graças ao atual crescimento económico do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/16/16d364a608b64a0ad6b6e0a21ad34d83?w=350&amp;q=50&amp;rect=0,29,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Espanha e Marrocos: amigos ou inimigos?",
-      "link": "https://observador.pt/programas/5-continentes/espanha-e-marrocos-amigos-ou-inimigos/",
-      "pubDate": "Sat, 22 Aug 2026 06:04:20 +0100",
-      "description": "Nesta edição, é analisada a relação entre Espanha e Marrocos e as implicações da crise migratória em Ceuta. Bruno Cardoso Reis faz um balanço da guerra na Ucrânia e do conflito entre EUA e Irão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16094819/770-podcastcinco-continentescinco-continentes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Espanha rejeita reivindicações de Marrocos e reitera que \"Ceuta e Melilla são espanholas\"",
+      "link": "https://www.rtp.pt/noticias/mundo/espanha-rejeita-reivindicacoes-de-marrocos-e-reitera-que-ceuta-e-melilla-sao-espanholas_n1760916",
+      "pubDate": "Sat, 22 Aug 2026 09:57:11 +0100",
+      "description": "O Governo espanhol transmitiu hoje a Marrocos que rejeita as reivindicações de soberania do país africano sobre Ceuta e Melilla, reiterando que &quot;são duas cidades espanholas&quot; que fazem parte da &quot;integridade territorial&quot; e da soberania espanhola.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "HRW insta Governo espanhol a oferecer opção de asilo a ilegais em Ceuta",
+      "link": "https://www.rtp.pt/noticias/mundo/hrw-insta-governo-espanhol-a-oferecer-opcao-de-asilo-a-ilegais-em-ceuta_n1760923",
+      "pubDate": "Sat, 22 Aug 2026 09:56:08 +0100",
+      "description": "A Human Rights Watch (HRW) apelou ao Governo de Espanha para que acolha e ofereça a oportunidade de asilo aos migrantes ilegais que permanecem em Ceuta após a entrada maciça no final de julho.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f80b6823b093699132a1b7f174654eef?w=350&amp;q=50&amp;rect=0,39,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ébola. 16.250 doses da vacina Ervebo da OMS chegam à RDCongo",
+      "link": "https://www.rtp.pt/noticias/mundo/ebola-16250-doses-da-vacina-ervebo-da-oms-chegam-a-rdcongo_n1760924",
+      "pubDate": "Sat, 22 Aug 2026 09:51:26 +0100",
+      "description": "Um lote de 16.250 doses da vacina Ervebo chegou esta sexta-feira à República Democrática do Congo (RDCongo), país que enfrenta a mais mortífera epidemia de Ébola da sua história, reportou a agência France-Presse.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b813a295e0b064ef3812307c8ae3b111?w=350&amp;q=50&amp;rect=0,38,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0ecd63d7befc0e13cc86ec08dd5505ca?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tesla e rivais recolhem mais de quatro milhões de veículos na China por riscos de segurança",
-      "link": "https://www.rtp.pt/noticias/economia/tesla-e-rivais-recolhem-mais-de-quatro-milhoes-de-veiculos-na-china-por-riscos-de-seguranca_n1760927",
-      "pubDate": "Sat, 22 Aug 2026 09:41:28 +0100",
-      "description": "A Tesla e outros fabricantes chineses de automóveis anunciaram uma recolha de mais de quatro milhões de veículos devido a preocupações de segurança relacionadas sobretudo com os puxadores das portas, informaram esta sexta-feira as autoridades chinesas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3cdc98e4887e1db57e0314582ec6bb2e?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Camboja e EUA desmantelam esquema de lavagem de dinheiro com criptomoedas para cartel mexicano",
-      "link": "https://www.rtp.pt/noticias/economia/camboja-e-eua-desmantelam-esquema-de-lavagem-de-dinheiro-com-criptomoedas-para-cartel-mexicano_n1760929",
-      "pubDate": "Sat, 22 Aug 2026 09:37:44 +0100",
-      "description": "As agências de combate ao tráfico de droga do Camboja e dos Estados Unidos descobriram uma rede que, segundo as autoridades, utilizava criptomoedas para lavar dinheiro para o cartel mexicano de Sinaloa, anunciaram responsáveis dos dois países.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pentágono demite dirigentes de jornal militar independente por \"insubordinação\"",
-      "link": "https://www.rtp.pt/noticias/mundo/pentagono-demite-dirigentes-de-jornal-militar-independente-por-insubordinacao_n1760930",
-      "pubDate": "Sat, 22 Aug 2026 09:36:27 +0100",
-      "description": "O Departamento de Defesa (Pentágono) demitiu esta sexta-feira o editor-chefe e o diretor do jornal Stars and Stripes por &quot;insubordinação&quot;, alegaram responsáveis da publicação independente que cobre notícias do Exército norte-americano a vários meios de comunicação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4fcce58da8c2a2e01d70a4fb98cac37?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Seul restaura estação ferroviária na fronteira da Coreia do Norte como gesto de reconciliação",
-      "link": "https://www.rtp.pt/noticias/mundo/seul-restaura-estacao-ferroviaria-na-fronteira-da-coreia-do-norte-como-gesto-de-reconciliacao_n1760932",
-      "pubDate": "Sat, 22 Aug 2026 09:30:13 +0100",
-      "description": "Perto da fronteira fortemente vigiada que divide a península coreana há mais de sete décadas, a renovação da antiga estação ferroviária de Woljeong-ri é apresentada como símbolo das esperanças sul-coreanas de reconciliação com a Coreia do Norte.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting-Alverca (onzes prováveis): Luis Suárez regressa à titularidade",
+      "link": "https://maisfutebol.iol.pt/liga/onzes-provaveis/sporting-alverca-onzes-provaveis-luis-suarez-regressa-a-titularidade",
+      "pubDate": "Sat, 22 Aug 2026 09:06:00 +0100",
+      "description": "Lesão de Fotis Ioannidis quase que obriga a uma mudança no ataque",
+      "thumbnail": "https://img.iol.pt/image/id/6a08d694d34edcee7c643d55/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 00:17:00 +0100",
       "description": "Valpaços atribui nome do selecionador de futsal a pavilhão e ergue escultura em sua homenagem",
       "thumbnail": "https://img.iol.pt/image/id/6a88dab5d34e511da0b348cd/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atletismo: Pichardo vence em Lausana e soma mais um triunfo na Liga Diamante",
-      "link": "https://maisfutebol.iol.pt/atletismo/modalidades/atletismo-pichardo-vence-em-lausana-e-soma-mais-um-triunfo-na-liga-diamante",
-      "pubDate": "Sat, 22 Aug 2026 00:16:06 +0100",
-      "description": "Campeão olímpico português bateu Yasser Triki por apenas um centímetro no triplo salto, com 17,44 metros",
-      "thumbnail": "https://img.iol.pt/image/id/6a88dc18d34e511da0b348ce/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,46 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Fragatas. CDS quer pedido de desculpa, Ventura atira: \"Era o que faltava\"",
+      "link": "https://www.noticiasaominuto.com/politica/3039946/fragatas-cds-quer-pedido-de-desculpa-ventura-atira-era-o-que-faltava#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:15:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a895a621c337.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Os alimentos que reduzem a inflamação crónica (e asseguram longevidade)",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3038607/os-alimentos-que-reduzem-a-inflamacao-cronica-e-asseguram-longevidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:06:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88570c6bfbc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYwLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6MjYsImNyb3BZIjoxNDZ9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"Passou-me muita coisa pela vista: drogas, crime. Engravidei 2 vezes\"",
+      "link": "https://www.noticiasaominuto.com/fama/3037756/passou-me-muita-coisa-pela-vista-drogas-crime-engravidei-2-vezes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:04:15",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a420b3fc9a86.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU4NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjMxMSwiY3JvcEhlaWdodCI6NDEwOCwiY3JvcFgiOjEyNSwiY3JvcFkiOjd9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Brilhou em Braga com biscate no FC Porto. O que é feito de Andrés Madrid?",
+      "link": "https://www.noticiasaominuto.com/desporto/3039735/brilhou-em-braga-com-biscate-no-fc-porto-o-que-e-feito-de-andres-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 09:01:22",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a887395b899f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwic3RhbXAiOnsiY2F0ZWdvcnkiOiJkZXNwb3J0byIsImxhYmVsIjoib19xdWVfZV9mZWl0b19kZSIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJ0b3AtcmlnaHQifX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Do prémio ao dono da Zara ao IMI: As notícias preferidas da semana",
       "link": "https://www.noticiasaominuto.com/economia/3039655/do-premio-ao-dono-da-zara-ao-imi-as-noticias-preferidas-da-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 08:30:41",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8858bb7a02e.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Rui Borges surpreende? O onze provável do Sporting diante do Alverca",
-      "link": "https://www.noticiasaominuto.com/desporto/3039667/rui-borges-surpreende-o-onze-provavel-do-sporting-diante-do-alverca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 08:30:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ff8084c510.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Ataques com mísseis em Kyiv e no sul da Ucrânia causaram cinco mortos",
-      "link": "https://www.noticiasaominuto.com/mundo/3039944/ataques-com-misseis-em-kyiv-e-no-sul-da-ucrania-causaram-cinco-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 08:26:04",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a894ef7a0dc7.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Quem detém os operadores das redes elétricas e o que pode mudar na REN?",
-      "link": "https://www.noticiasaominuto.com/economia/3039943/quem-detem-os-operadores-das-redes-eletricas-e-o-que-pode-mudar-na-ren#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 08:14:48",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a848c50bcff4.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Luso-americano em desvantagem nas sondagens para intercalares nos EUA",
-      "link": "https://www.noticiasaominuto.com/mundo/3039942/luso-americano-em-desvantagem-nas-sondagens-para-intercalares-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 08:11:08",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a894b8cddc01.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Arrefecer a IA com urina? Solução insólita que poupa milhões de litros de água",
+      "link": "https://pplware.sapo.pt/informacao/arrefecer-a-ia-com-urina-solucao-insolita-que-poupa-milhoes-de-litros-de-agua/",
+      "pubDate": "Sat, 22 Aug 2026 08:00:40 +0000",
+      "description": "O avanço imparável da IA está a colocar uma pressão sem precedentes nas infraestruturas globais. Os novos modelos exigem milhares de servidores a trabalhar sem descanso, o que gera uma quantidade brutal de calor.&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/data-center.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Fri, 21 Aug 2026 20:30:30 +0000",
       "description": "O mercado global de dispositivos vestíveis inteligentes está prestes a atingir valores históricos de faturação nos próximos anos. Segundo um estudo recente, este setor deverá ultrapassar a fasquia de 1 bilião de dólares, impulsionado&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2019/11/smartwatch-desporto.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Hubert leva um cão pastor até à PlayStation 5",
-      "link": "https://pplware.sapo.pt/jogos/hubert-leva-um-cao-pastor-ate-a-playstation-5/",
-      "pubDate": "Fri, 21 Aug 2026 20:00:35 +0000",
-      "description": "Um cão pastor convencido, um rebanho difícil de controlar e uma misteriosa aventura na natureza. Hubert prepara-se para chegar à PlayStation 5, depois de conquistar o prémio de Melhor Jogo no Game Access 2026.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Hubert_1.jpg"
     },
     {
       "sourceId": "autosport",
