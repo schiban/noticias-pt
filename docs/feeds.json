@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-22T10:17:59.715781+00:00",
+  "updated": "2026-08-22T10:48:14.021855+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 11h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1312/",
+      "pubDate": "Sat, 22 Aug 2026 11:19:19 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17104651/dventura-debate-urgencia-exames-13-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Convida o Xi e o Putin na tua casa\": Lula para Trump",
-      "link": "https://observador.pt/2026/08/22/convida-o-xi-jinping-e-o-putin-na-tua-casa-lula-revelou-proposta-a-trump-para-encontro-em-mar-a-lago-sobre-ucrania/",
-      "pubDate": "Sat, 22 Aug 2026 10:52:58 +0100",
-      "description": "Presidente brasileiro revelou a proposta num comício em Belo Horizonte, após chamada de hora e meia com Trump, em que também falaram de tarifas e crime organizado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22024109/47607018.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Irão abre estreito de Ormuz a \"vários\" petroleiros iraquianos",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-abre-estreito-de-ormuz-a-varios-petroleiros-iraquianos_n1760949",
+      "pubDate": "Sat, 22 Aug 2026 12:41:59 +0100",
+      "description": "O Irão autorizou que &quot;vários&quot; petroleiros iraquianos atravessem o estreito de Ormuz, após a visita ao país vizinho do presidente do Parlamento e principal negociador iraniano, Mohamad Baqer Qalibaf, informou a agência estatal IRNA.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/15/15995765fe01a1f5876cfad5b5ff3505?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "11h Menos provas de acesso, menos exigência, diz presidente do CRUP",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-menos-provas-de-acesso-menos-exigencia-diz-presidente-do-crup_a1_1760948",
+      "pubDate": "Sat, 22 Aug 2026 12:37:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ataques com mísseis em Kiev e no sul da Ucrânia causaram cinco mortos",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataques-com-misseis-em-kiev-e-no-sul-da-ucrania-causaram-cinco-mortos_n1760947",
+      "pubDate": "Sat, 22 Aug 2026 12:34:58 +0100",
+      "description": "Pelo menos cinco pessoas morreram e várias ficaram feridas na Ucrânia, na sequência de ataques russos com mísseis balísticos em Kiev e Mykolaiv.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf3771653c97ed784aef305d1a9d961c?w=350&amp;q=50&amp;rect=0,67,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Elevador da Glória. Relatório final do GPIAAF deve ser publicado até final de março de 2027",
-      "link": "https://www.rtp.pt/noticias/pais/elevador-da-gloria-relatorio-final-do-gpiaaf-deve-ser-publicado-ate-final-de-marco-de-2027_n1760909",
-      "pubDate": "Sat, 22 Aug 2026 10:54:18 +0100",
-      "description": "O relatório final ao acidente do ascensor da Glória, em Lisboa, que provocou 16 mortos, não ficará concluído em setembro, como previsto, devido à complexidade das peritagens técnicas, prevendo-se agora a publicação até &quot;final do primeiro trimestre de 2027&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b958eaf3e07c4d545ed07027053729fd?w=350&amp;q=50&amp;rect=0,510,5500,3015&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "MLS multa Messi por ter dado um calduço a um adversário",
+      "link": "https://maisfutebol.iol.pt/internacional/estados-unidos-da-america/mls-multa-messi-por-ter-dado-um-calduco-a-um-adversario",
+      "pubDate": "Sat, 22 Aug 2026 11:34:31 +0100",
+      "description": "Jogo entre o Philadelphia Union e o Inter Miami teve ainda uma suspensão anulada",
+      "thumbnail": "https://img.iol.pt/image/id/6a897ab8d34e511da0b34931/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "GPIAAF formalizou recomendações de segurança aceites por Carris e IMT",
-      "link": "https://www.rtp.pt/noticias/pais/gpiaaf-formalizou-recomendacoes-de-seguranca-aceites-por-carris-e-imt_n1760910",
-      "pubDate": "Sat, 22 Aug 2026 10:50:50 +0100",
-      "description": "O gabinete de investigação de acidentes com aeronaves e ferroviários fez quatro recomendações de segurança à Carris e duas ao Instituto da Mobilidade e Transportes (IMT), na sequência do acidente do ascensor da Glória, em Lisboa, que foram atendidas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Calor. Dados provisórios apontam mais de 30 mil mortes em excesso na Europa",
-      "link": "https://www.rtp.pt/noticias/mundo/calor-dados-provisorios-apontam-mais-de-30-mil-mortes-em-excesso-na-europa_n1760912",
-      "pubDate": "Sat, 22 Aug 2026 10:46:25 +0100",
-      "description": "Mais de 30 mil mortes em excesso foram registadas na Europa nos últimos meses, marcados por vagas de calor excecionais, segundo dados provisórios da plataforma EuroMomo e das autoridades de saúde de vários países, incluindo Portugal.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/422b2c0430a0f7d0fdf97cab06fb9694?w=350&amp;q=50&amp;rect=0,121,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mauro Furtado deixa o Benfica: «Não saio da maneira que imaginei»",
+      "link": "https://maisfutebol.iol.pt/benfica/mauro-furtado/mauro-furtado-deixa-o-benfica-nao-saio-da-maneira-que-imaginei",
+      "pubDate": "Sat, 22 Aug 2026 11:26:00 +0100",
+      "description": "Campeão do mundo sub-17 deixa as águias ao fim de 13 anos e assina pelo Girona",
+      "thumbnail": "https://img.iol.pt/image/id/6a89680fd34e511da0b348f5/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,74 +152,74 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8964f1d34e511da0b348f1/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Marítimo lança documentário sobre a subida: «Valeu cada segundo»",
-      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-lanca-documentario-sobre-a-subida-valeu-cada-segundo",
-      "pubDate": "Sat, 22 Aug 2026 09:46:00 +0100",
-      "description": "Estreia marcada para 26 de agosto",
-      "thumbnail": "https://img.iol.pt/image/id/69ee6d0ad34e28842c835bbb/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting-Alverca (onzes prováveis): Luis Suárez regressa à titularidade",
-      "link": "https://maisfutebol.iol.pt/liga/onzes-provaveis/sporting-alverca-onzes-provaveis-luis-suarez-regressa-a-titularidade",
-      "pubDate": "Sat, 22 Aug 2026 09:06:00 +0100",
-      "description": "Lesão de Fotis Ioannidis quase que obriga a uma mudança no ataque",
-      "thumbnail": "https://img.iol.pt/image/id/6a08d694d34edcee7c643d55/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Já sabes se entraste no ensino superior? Vê aqui as notas de acesso de todos os cursos e as vagas para a 2ª fase",
+      "link": "https://eco.sapo.pt/2026/08/22/ja-sabes-se-entraste-no-ensino-superior-ve-aqui-as-notas-de-acesso-de-todos-os-cursos-e-as-vagas-para-a-2a-fase/",
+      "pubDate": "Sat, 22 Aug 2026 10:20:30 +0000",
+      "description": "Gestão ganhou a Economia na corrida pelas notas de entrada no ensino superior público. Engenharia Aeroespacial é a licenciatura com a nota mais elevada. Consulta aqui a lista",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AdUFagv3aeZCpaarG%2FPtH62cdp9fT4PCaaPpUrGNtnaoVwHtBsXPs4gAYpcWCZatU3J%2FUOPLpDiJRzIJBbzBUAUAsWy2lkGmJNSZBWSkz1blblTE6OS3R1QCM0bCURUGB"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Engenharia Aeroespacial lidera acesso ao ensino superior com 19,5 valores",
-      "link": "https://eco.sapo.pt/2026/08/22/engenharia-aeroespacial-lidera-acesso-ao-ensino-superior-com-195-valores/",
-      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
-      "description": "Engenharia Aeroespacial da FEUP tem a nota mais alta da primeira fase, com 19,5 valores. No extremo oposto, Gestão e Informática em Lamego fecha nos 9,7, segundo os dados oficiais de colocação.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7zb99%2BusOnd845xXRSwKmNzjsLVwavNYCI5KnSgGahlz5heZg%2FnIKeSrPEUKZw97KPL10qXSw5m54imCdKN4YZKuDJDmce8XH2AZAfuWgLDUSr6BjHuNhmwgjkNCDgom"
+      "title": "40 mil animais recolhidos por ano e centros sobrelotados",
+      "link": "https://sapo.pt/artigo/40-mil-animais-recolhidos-por-ano-e-centros-sobrelotados-6a896ac7e58eb3a3e677d83c",
+      "pubDate": "Sat, 22 Aug 2026 10:20:30 +0000",
+      "description": "Em 2025, foram recolhidos 40 mil animais e adotados 22 mil. O Estado apoiou mais de 74 mil esterilizações, num investimento de 3,2 milhões de euros.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A7PhEO5PijcMlP1K6hKVktnmHGfq3LUH36UxD7x82cunutZlXFUHieBNPFA8f3HaKtHP7NoSJDx7HXXoLgFlkE8y4Z0gkU88TE8BXuJZMUDON52t0zUNuhU4HE6Qcu2qx"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "\"A América mudou\": EUA e Canadá falham acordo comercial e tarifas avançam",
-      "link": "https://sapo.pt/artigo/a-america-mudou-eua-e-canada-falham-acordo-comercial-e-tarifas-avancam-6a8957c5e58eb3a3e67588b5",
-      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
-      "description": "A decisão surge após três dias de conversas em Washington entre representantes do governo dos dois países que acabaram suspensas e com o primeiro-ministro do Canadá a justificar que os EUA apresentaram mudanças \"injustas e economicamente...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AwlUbIOizgOOHxw9wF3KTajuTnbzW1JJZ7lwhMWm4D1%2BdoCZ7n2isbwz1UMF11vXK%2B011I5hmmh6dxrjCMOpTKrsSZtV2NzPIUHmsJgKcpVOVv0ZXQNdY7EkQzsDGIczZ"
+      "title": "Sérvia contra saída de tropas da NATO de zona no Kosovo",
+      "link": "https://sapo.pt/artigo/servia-contra-saida-de-tropas-da-nato-de-zona-no-kosovo-6a89643957577bfcb5d59987",
+      "pubDate": "Sat, 22 Aug 2026 10:20:30 +0000",
+      "description": "O Presidente sérvio enviou uma carta a Mark Rutte citando mais de 800 ataques étnicos contra sérvios entre 2021 e 2026. A NATO garante \"presença visível\" na cidade.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A5ISfwPIwpWzFhxjPZHBT7rymy1phEdvqgrteNHSMyJbhlbT8hF2sR1xJdOriVd8%2Br13RTw8raDABCVGb6Z%2FI1Gk%2FHgpgKCWwCpY2vHqOpAdHSeZvwEfAeVMqwr9VTAfe"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Médio Oriente: Plano de Israel para colonatos na Cisjordânia “inaceitável”, diz Von der Leyen",
-      "link": "https://jornaleconomico.sapo.pt/noticias/medio-oriente-plano-de-israel-para-colonatos-na-cisjordania-inaceitavel-diz-von-der-leyen/",
-      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
-      "description": "A dirigente alemã alertou que esta decisão do Executivo israelita de Benjamin Netanyahu, a quem não fez referência, \"minimiza a solução de dois Estados, ao dividir a Cisjordânia e romper a continuidade territorial dos territórios palestinianos\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A8T07PJoDKpu%2FkXzEtHYqImHgdOrnMdBTE5xTktEIXRx10uiwTWbZdI0PXKoseIb0z%2B1BFT%2F5Sxa65MkBAr0aAEZsAAs%2B4WV%2BnQ%2BsgX95c%2BukpKgqhlkYSV25AqtutHdT"
+      "title": "Processo de digitalização “estava bem concebido”, insiste Fernando Alexandre",
+      "link": "https://eco.sapo.pt/2026/08/22/processo-de-digitalizacao-estava-bem-concebido-insiste-fernando-alexandre/",
+      "pubDate": "Sat, 22 Aug 2026 10:20:30 +0000",
+      "description": "Ministro da Educação deixou uma mensagem de agradecimento no Facebook e reiterou a necessidade de reforma do sistema educativo no dia em que são conhecidas as colocações dos alunos nas universidades",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AJWk0NuxXKBEKzDkqdenx3bpgPojBlrOmpihxGO3HCdzThRSQ1NBkwf65DWZ%2BElH7XAdaxMZ5SV0QkMGhZQ0LR2jhpvUE5IOCdQUyE0u%2BNHkGujRaYELrZX1n%2B%2FOPwQi1"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Governo reforça desconto do ISP na gasolina e no gasóleo para a próxima semana",
-      "link": "https://eco.sapo.pt/2026/08/21/%e2%9b%bdgoverno-reforca-desconto-do-isp-na-gasolina-e-no-gasoleo-para-a-proxima-semana/",
-      "pubDate": "Fri, 21 Aug 2026 21:06:42 +0000",
-      "description": "O apoio fiscal extraordinário aplicado, no continente, ao gasóleo rodoviário sobe para 8,16 cêntimos e na gasolina para 5,39 cêntimos na próxima semana, quando se perspetiva subida dos preços.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AApHtTQf2ZCX4h97gsnYUxPsPDEp7jpOCLgr6TVGitZ8Nx2IWr%2FMm2tEyD%2BO3b1jyu%2B%2Fho%2BjBqtgRa%2BSdhZdeoR3azXF%2Be8e6YVnTKlTFHd9fxvhrXdQJxt4p9Ah5bzhg"
+      "title": "Irão: País abre estreito de Ormuz a “vários” petroleiros iraquianos",
+      "link": "https://executivedigest.sapo.pt/irao-pais-abre-estreito-de-ormuz-a-varios-petroleiros-iraquianos/",
+      "pubDate": "Sat, 22 Aug 2026 10:20:30 +0000",
+      "description": "O Irão autorizou que \"vários\" petroleiros iraquianos atravessem o estreito de Ormuz, após a visita ao país vizinho do presidente do Parlamento e principal negociador iraniano, Mohamad Baqer Qalibaf, informou a agência estatal IRNA.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AiZPHOUmMxGI2idPLPPispiaJS2hUZ7OARk2oBxl2acShJRTrvUBqMDX9Apdf%2FUVajYkHr%2FGWpKcnYLplYfMsnl40ifWI4UuVOd6kz5VCYnvgo9%2FTIBwJfydMv8Tl8G%2Fd"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Amanhã há novos cortes de luz: saiba se a sua zona será uma das afetadas",
-      "link": "https://executivedigest.sapo.pt/amanha-ha-novos-cortes-de-luz-saiba-se-a-sua-zona-sera-uma-das-afetadas-2/",
-      "pubDate": "Sat, 22 Aug 2026 08:22:21 +0000",
-      "description": "Várias zonas do território continental vão ter cortes programados de eletricidade este domingo, devido à realização de trabalhos na rede elétrica.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AWmfjGrPoruvQk6fLx3TftzuP7UOzDqUg33K1zNXPs7zMsZ3Yecg8qH28fSaQmykwyh2uBCgREQG7w4h0mcdS%2BKlOwjHjATXSw1bkfxX9IOzgr1jehGNy%2BoVAl7cyg0SP"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Embarcação à deriva com 100 jerricãs de combustível apreendida em Oeiras",
+      "link": "https://www.noticiasaominuto.com/pais/3039973/embarcacao-a-deriva-com-100-jerricas-de-combustivel-apreendida-em-oeiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 11:33:22",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a897978eb8b8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjM4NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODY0LCJjcm9wSGVpZ2h0IjoxNTM2LCJjcm9wWCI6NTgsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Avançado João Pedro prolonga contrato com o Chelsea até 2034",
+      "link": "https://www.noticiasaominuto.com/desporto/3039972/avancado-joao-pedro-prolonga-contrato-com-o-chelsea-ate-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 11:30:31",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a897a43f2515.webp"
     },
     {
       "sourceId": "nam",
@@ -230,26 +250,6 @@
       "pubDate": "2026-08-22 11:00:02",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69c24edb45e05.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Engenharia Aeroespacial no Porto tem a média mais alta: 19,5 valores",
-      "link": "https://www.noticiasaominuto.com/pais/3039967/engenharia-aeroespacial-no-porto-tem-a-media-mais-alta-19-5-valores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 10:57:41",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/41853104.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Papa alerta contra \"idolatria\" que corrompe projetos políticos e económicos",
-      "link": "https://www.noticiasaominuto.com/mundo/3039964/papa-alerta-contra-idolatria-que-corrompe-projetos-politicos-e-economicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 10:52:58",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a897175d7928.webp"
     },
     {
       "sourceId": "pplware",
@@ -305,6 +305,16 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "Lembra-se de quando Loeb se tornou o maior vencedor do WRC, foi com a 27ª vitória: chegou às 80…",
+      "link": "https://www.autosport.pt/ralis/lembra-se-de-quando-loeb-se-tornou-o-maior-vencedor-do-wrc-foi-com-a-27a-vitoria-chegou-as-80/",
+      "pubDate": "Sat, 22 Aug 2026 10:20:00 +0000",
+      "description": "Foi há 20 anos no Rali do Japão que o imperador dos ralis &#8211; Sébastien Loeb &#8211; escreveu o número 27 na história do WRC. A sua carreira no WRc durou até 2022. Há marcas no desporto que parecem esculpidas na rocha, destinadas a resistir ao teste do tempo e à erosão dos anos. No [&#8230;]\nThe",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "GP Países Baixos F1: Desempenho sólido na estreia de Yuki Tsunoda",
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-desempenho-solido-na-estreia-de-yuki-tsunoda/",
       "pubDate": "Sat, 22 Aug 2026 09:24:21 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/fumo-sem-fogo-nova-falsa-partida-da-aston-martin-honda-com-o-motor-spec2-na-f1/",
       "pubDate": "Sat, 22 Aug 2026 09:09:27 +0000",
       "description": "Fernando Alonso terminou em 22º e último na qualificação sprint do Grande Prémio dos Países Baixos, enquanto Lance Stroll ficou em 19º, deixando a Aston Martin-Honda fora da SQ2 em Zandvoort. A equipa chegara ao circuito neerlandês com expectativas renovadas, depois dos sinais positivos da atualizaç",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Sainz e Alonso arrancam das boxes após alterações na suspensão",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-sainz-e-alonso-arrancam-das-boxes-apos-alteracoes-na-suspensao/",
-      "pubDate": "Sat, 22 Aug 2026 09:09:00 +0000",
-      "description": "Carlos Sainz e Fernando Alonso (já se sabia antes) vão iniciar a corrida sprint do Grande Prémio dos Países Baixos a partir do pit lane, após as respetivas equipas terem efetuado alterações não autorizadas na suspensão dos monolugares durante o período de parque fechado. A penalização resulta na per",
       "thumbnail": ""
     }
   ]
