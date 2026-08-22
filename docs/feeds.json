@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:16:53.839337+00:00",
+  "updated": "2026-08-22T22:46:42.166897+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "23h Situação dos Incendios em Portugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-situacao-dos-incendios-em-portugal_a1_1761048",
+      "pubDate": "Sun, 23 Aug 2026 00:25:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "Google Pixel 11 Pro XL: evolução sem revolução onde a inteligência artificial assume o comando",
       "link": "https://www.rtp.pt/noticias/mundo/google-pixel-11-pro-xl-evolucao-sem-revolucao-onde-a-inteligencia-artificial-assume-o-comando_n1761040",
       "pubDate": "Sun, 23 Aug 2026 00:02:49 +0100",
@@ -92,14 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Lyon de Paulo Fonseca vence em casa do Toulouse no arranque da liga francesa",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/lyon-de-paulo-fonseca-vence-em-casa-do-toulouse-no-arranque-da-liga-francesa_d1761041",
-      "pubDate": "Sat, 22 Aug 2026 23:38:04 +0100",
-      "description": "O Lyon, do treinador português Paulo Fonseca, venceu hoje por 2-0 em casa do Toulouse, no arranque da Liga francesa de futebol, antes de defrontar na quarta-feira o Fenerbahçe na qualificação para a Liga dos Campeões.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6fd7d8a240bf2a7a94628095df94b87?w=350&amp;q=50&amp;rect=0,96,1024,561&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "De Bruyne decisivo na estreia do Nápoles, Cagliari vence Parma",
+      "link": "https://maisfutebol.iol.pt/italia/internacional/de-bruyne-decisivo-na-estreia-do-napoles-cagliari-vence-parma",
+      "pubDate": "Sat, 22 Aug 2026 23:44:00 +0100",
+      "description": "Belga entrou aos 67 minutos, marcou e assistiu no triunfo por 2-0 em casa do Génova",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a2624d34ed0733ba812ea/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Borges: «Foi notória a ligação dos adeptos com Luis Suárez no golo»",
+      "link": "https://maisfutebol.iol.pt/sporting/rui-borges/borges-foi-notoria-a-ligacao-dos-adeptos-com-luis-suarez-no-golo",
+      "pubDate": "Sat, 22 Aug 2026 23:38:00 +0100",
+      "description": "Treinador do Sporting volta a defender o avançado colombiano, que marcou pela primeira vez em 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a125bd34e511da0b34a7c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Mourinho sai em defesa de Vinicius: «Não é um santo, mas o que lhe fazem...»",
+      "link": "https://maisfutebol.iol.pt/espanha/real-madrid/mourinho-sai-em-defesa-de-vinicius-nao-e-um-santo-mas-o-que-lhe-fazem",
+      "pubDate": "Sat, 22 Aug 2026 23:27:06 +0100",
+      "description": "Treinador do Real Madrid considerou que o brasileiro é alvo de um «plano» dos adversários após o triunfo diante do Espanhol de Barcelona",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a0365d34e511da0b34a4a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Rui Borges sobre Inácio e Quaresma: «Ninguém vai sair, foi opção»",
+      "link": "https://maisfutebol.iol.pt/sporting/rui-borges/rui-borges-sobre-inacio-e-quaresma-ninguem-vai-sair-foi-opcao",
+      "pubDate": "Sat, 22 Aug 2026 23:25:00 +0100",
+      "description": "Garantia do treinador do Sporting, visto que a dupla ficou no banco de suplentes",
+      "thumbnail": "https://img.iol.pt/image/id/6a71f2d8d34ed0733ba7e1c5/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 23:04:00 +0100",
       "description": "Treinador do Alverca reconheceu alguns erros de «maturidade competitiva» na derrota frente ao Sporting, mas destaca a entrega da equipa ribatejana",
       "thumbnail": "https://img.iol.pt/image/id/6a8a0e33d34e511da0b34a6f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting-Alverca, 3-1 (destaques)",
-      "link": "https://maisfutebol.iol.pt/liga/sporting/sporting-alverca-3-1-destaques",
-      "pubDate": "Sat, 22 Aug 2026 22:59:41 +0100",
-      "description": "Suárez mais perto do perdão e Maxi deu exemplo",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a0e33d34e511da0b34a6d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Borges: «Suárez? Os adeptos têm que olhar para o rendimento dos jogadores em campo»",
-      "link": "https://maisfutebol.iol.pt/liga/sporting/borges-suarez-os-adeptos-tem-que-olhar-para-o-rendimento-dos-jogadores-em-campo",
-      "pubDate": "Sat, 22 Aug 2026 22:56:34 +0100",
-      "description": "Treinador do Sporting falou ainda das exibições de Debast e Ba",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a1095d34e511da0b34a76/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Maxi Araújo e a braçadeira de capitão: «É uma felicidade tremenda»",
-      "link": "https://maisfutebol.iol.pt/sporting/liga/maxi-araujo-e-a-bracadeira-de-capitao-e-uma-felicidade-tremenda",
-      "pubDate": "Sat, 22 Aug 2026 22:52:00 +0100",
-      "description": "Uruguaio estreou-se como capitão do Sporting na vitória sobre o Alverca e faturou o primeiro golo dos leões",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a085cd34e511da0b34a5b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Touaizi: «Fomos penalizados por alguns erros com bola»",
-      "link": "https://maisfutebol.iol.pt/liga/sporting/touaizi-fomos-penalizados-por-alguns-erros-com-bola",
-      "pubDate": "Sat, 22 Aug 2026 22:42:51 +0100",
-      "description": "Apesar da derrota, o ala do Alverca mostrou-se confiante no trabalho que a equipa tem vindo a fazer",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a0e41d34ed0733ba812af/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Maxi Araújo foi capitão do Sporting: \"Que os novos entendam...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040148/maxi-araujo-foi-capitao-do-sporting-que-os-novos-entendam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:12:14",
+      "title": "Robôs chineses batem recordes humanos na prova de 100m e salto em altura",
+      "link": "https://www.noticiasaominuto.com/tech/3040154/robos-chineses-batem-recordes-humanos-na-prova-de-100m-e-salto-em-altura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 23:41:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a1ca06e722.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a266868edf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTk5LCJjcm9wSGVpZ2h0Ijo2NzQsImNyb3BYIjotMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rui Borges desvaloriza polémica com Suárez: \"Adeptos têm que olhar...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040147/rui-borges-desvaloriza-polemica-com-suarez-adeptos-tem-que-olhar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:08:10",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3040017/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 23:40:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a1c75b3d0b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6946b70119a05.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Chuva está de regresso: O que esperar para este domingo?",
-      "link": "https://www.noticiasaominuto.com/pais/3040145/chuva-esta-de-regresso-o-que-esperar-para-este-domingo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:57:42",
+      "title": "Real Madrid fechou triunfo ao cair do pano e reação de Mourinho diz tudo",
+      "link": "https://www.noticiasaominuto.com/desporto/3040155/real-madrid-fechou-triunfo-ao-cair-do-pano-e-reacao-de-mourinho-diz-tudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 23:38:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a72ea99ac1ca.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkxNywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a24e6998cb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Lyon de Paulo Fonseca vence em casa do Toulouse no arranque da Ligue 1",
-      "link": "https://www.noticiasaominuto.com/desporto/3040131/lyon-de-paulo-fonseca-vence-em-casa-do-toulouse-no-arranque-da-ligue-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:43:55",
+      "title": "Suárez afasta fantasmas com golo pelo Sporting... após erro do Alverca",
+      "link": "https://www.noticiasaominuto.com/desporto/3040152/suarez-afasta-fantasmas-com-golo-pelo-sporting-apos-erro-do-alverca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 23:30:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a179187cb5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N319"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a2305093c7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Kevin De Bruyne salta do banco para desbloquear triunfo do Napoli",
-      "link": "https://www.noticiasaominuto.com/desporto/3040134/kevin-de-bruyne-salta-do-banco-para-desbloquear-triunfo-do-napoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 22:42:52",
+      "title": "Mulher filmada a flutuar no Rio Los Angeles. \"GTA da vida real\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3040151/mulher-filmada-a-flutuar-no-rio-los-angeles-gta-da-vida-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 23:25:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a17549c000.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a2134c9cc4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3OTUsImNyb3BIZWlnaHQiOjQ0NywiY3JvcFgiOjAsImNyb3BZIjoxMDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM1MCwiY3JvcEhlaWdodCI6NjIyLCJjcm9wWCI6Mjk2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
