@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-22T15:44:34.790991+00:00",
+  "updated": "2026-08-22T16:18:27.948497+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 17h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2272/",
+      "pubDate": "Sat, 22 Aug 2026 17:13:11 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "George Russell vence corrida sprint do GP dos Países Baixos",
+      "link": "https://observador.pt/2026/08/22/george-russell-vence-corrida-sprint-do-gp-dos-paises-baixos-de-formula-1/",
+      "pubDate": "Sat, 22 Aug 2026 17:07:50 +0100",
+      "description": "Russell, que partiu da 'pole position', completou as 24 voltas ao circuito de Zandvoort em 30.25,318 minutos, terminando com 1,360 segundos de vantagem sobre o monegasco Charles Leclerc (Ferrari).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22162442/47646657.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Leão XIV: \"Antes das fronteiras estão sempre as pessoas\"",
+      "link": "https://observador.pt/2026/08/22/leao-xiv-avisa-que-antes-das-fronteiras-e-das-instituicoes-estao-sempre-as-pessoas-2/",
+      "pubDate": "Sat, 22 Aug 2026 17:04:29 +0100",
+      "description": "Perante cinco mil participantes, o pontífice encorajou-os a entrar em contacto \"com aquilo que une, de forma originária, os seres humanos, para além de toda a diversidade, separação ou conflito\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:185/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22162413/47647070.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Pedro Duarte: \"Quem manda na cidade não são os delinquentes\"",
+      "link": "https://observador.pt/2026/08/22/pedro-duarte-pede-resposta-forte-do-estado-para-estancar-violencia-quem-manda-na-cidade-nao-sao-os-delinquentes-sao-as-autoridades/",
+      "pubDate": "Sat, 22 Aug 2026 16:58:21 +0100",
+      "description": "Autarca do Porto defende que a cidade não tem um problema grave de segurança, mas pede ações rápidas para estancar violência. Segurança rodoviária? \"Automóvel tem que passar para segundo lugar\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/24213531/46537187.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22152008/47616440.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Arouca quer ir ao Dragão com \"personalidade\"",
-      "link": "https://observador.pt/2026/08/22/vasco-seabra-quer-arouca-com-personalidade-frente-ao-campeao-fc-porto/",
-      "pubDate": "Sat, 22 Aug 2026 16:35:43 +0100",
-      "description": "Arouca e FC Porto, líderes da I Liga, defrontam-se domingo às 20h30. Seabra pede foco e humildade, mas acredita que a equipa tem \"todos os predicados\" para vencer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15142029/47582440.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
+      "link": "https://www.rtp.pt/noticias/mundo/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios_n1760993",
+      "pubDate": "Sat, 22 Aug 2026 18:14:03 +0100",
+      "description": "O Canadá vai retaliar contra as novas tarifas norte-americanas, impondo direitos aduaneiros sobre o aço, equipamentos eletrónicos e produtos lácteos comprados aos Estados Unidos da América a partir de 08 de setembro, anunciou hoje o primeiro-ministro, Mark Carney.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Leão XIV defende pessoas acima das fronteiras",
-      "link": "https://observador.pt/2026/08/22/leao-xiv-avisa-que-antes-das-fronteiras-e-das-instituicoes-estao-sempre-as-pessoas/",
-      "pubDate": "Sat, 22 Aug 2026 16:31:52 +0100",
-      "description": "O Papa discursou perante 5000 participantes no Encontro pela Amizade entre os Povos, em Rimini, apelando à misericórdia e à purificação da \"cultura do poder\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1192:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/02114102/jporfirio-papa-leao-beirute-libano-02-12-dia2-01-2-1.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "16h Palhinha em Portugal diz que ainda é jogador do Bayern",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-palhinha-em-portugal-diz-que-ainda-e-jogador-do-bayern_a1_1760994",
+      "pubDate": "Sat, 22 Aug 2026 17:56:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Tribunal anula suspensão de vistos de Trump para 75 países",
-      "link": "https://observador.pt/2026/08/22/tribunal-federal-dos-eua-anula-suspensao-de-vistos-imposta-por-trump-a-75-paises/",
-      "pubDate": "Sat, 22 Aug 2026 16:28:23 +0100",
-      "description": "A juíza Jeannette Vargas considerou a medida \"manifestamente ilegal\" e abriu caminho à revisão de milhares de pedidos de visto já processados desde janeiro de 2026.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23104946/47505646.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tribunal federal dos EUA anula suspensão de vistos imposta por Trump a 75 países",
+      "link": "https://www.rtp.pt/noticias/lusa/tribunal-federal-dos-eua-anula-suspensao-de-vistos-imposta-por-trump-a-75-paises_n1760985",
+      "pubDate": "Sat, 22 Aug 2026 17:55:45 +0100",
+      "description": "Um tribunal federal norte-americano anulou a suspensão dos vistos de imigrantes de 75 países, considerando que o secretário de Estado, Marco Rubio, excedeu a sua autoridade legal ao tomar esta medida no início de 2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/891766dc622e0057cea4b24fe1c0282a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Atleta do Real SC morre em jogo particular frente ao Estrela",
-      "link": "https://observador.pt/2026/08/22/jogador-do-real-sport-clube-morre-em-jogo-particular-frente-ao-estrela-da-amadora-quevin-castro-tinha-25-anos/",
-      "pubDate": "Sat, 22 Aug 2026 16:12:55 +0100",
-      "description": "Ao final da manhã deste sábado, Quevin Castro caiu inanimado durante um particular com o Estrela da Amadora, realizado na Malveira. Médio passou pela academia do Sporting e voltou a Portugal no Real.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1350:757:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22152651/733171835-1014254001096601-7102106006126467501-n.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Síria endurece o tom e acusa Israel de \"violação flagrante\" da sua soberania",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/siria-endurece-o-tom-e-acusa-israel-de-violacao-flagrante-da-sua-soberania_n1760992",
+      "pubDate": "Sat, 22 Aug 2026 17:51:09 +0100",
+      "description": "Um ataque israelita com drone este sábado, no sul da Síria, dias depois do bombardeamento de uma base militar no noroeste, levou Damasco a endurecer as críticas contra Israel e a falar em &quot;padrão&quot; na estratégia ofensiva israelita.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/80/808f925e5f185326288ac846eeb9b3a3?w=350&amp;q=50&amp;rect=0,143,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,94 +102,54 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "George Russell vence corrida sprint do GP dos Países Baixos de Fórmula 1",
-      "link": "https://www.rtp.pt/noticias/motores/george-russell-vence-corrida-sprint-do-gp-dos-paises-baixos-de-formula-1_d1760990",
-      "pubDate": "Sat, 22 Aug 2026 17:27:43 +0100",
-      "description": "O britânico George Russell (Mercedes) venceu hoje a corrida sprint do Grande Prémio dos Países Baixos de Fórmula 1, 12.ª da temporada, e recuperou terreno para o líder do campeonato, o companheiro de equipa Kimi Antonelli (Mercedes).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/67/67a86b617a8b34a206cee9aab790d783?w=350&amp;q=50&amp;rect=0,355,6000,3289&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Futebolista do Real Massamá morre em jogo-treino com Estrela da Amadora",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/futebolista-do-real-massama-morre-em-jogo-treino-com-estrela-da-amadora_d1760989",
-      "pubDate": "Sat, 22 Aug 2026 17:25:58 +0100",
-      "description": "O futebolista luso-inglês Quevin Castro morreu hoje, aos 25 anos, depois de cair inanimado no jogo particular do Real Massamá com o Estrela da Amadora, que decorria no Estádio das Seixas, na Malveira.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Campeão mundial de sub-17 Mauro Furtado deixa o Benfica e ruma ao Girona",
-      "link": "https://www.rtp.pt/noticias/benfica/campeao-mundial-de-sub-17-mauro-furtado-deixa-o-benfica-e-ruma-ao-girona_d1760984",
-      "pubDate": "Sat, 22 Aug 2026 16:40:34 +0100",
-      "description": "O defesa-central português Mauro Furtado, campeão mundial de futebol de sub-17, deixou o Benfica e é reforço do Girona, despromovido na última época à II Liga espanhola, informou hoje o clube lisboeta.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jogo da Taça da Alemanha resulta em 85 feridos após incidentes com adeptos",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/jogo-da-taca-da-alemanha-resulta-em-85-feridos-apos-incidentes-com-adeptos_d1760982",
-      "pubDate": "Sat, 22 Aug 2026 16:23:44 +0100",
-      "description": "O jogo entre os rivais Waldof Manheim e Kaiserslautern, da primeira eliminatória da Taça da Alemanha em futebol, resultou na sexta-feira em vários incidentes entre os adeptos e em 85 feridos, informou hoje a polícia.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Carvalhal aponta ao triunfo: «Estamos no bom caminho, mas precisamos de pontos»",
+      "link": "https://maisfutebol.iol.pt/liga/famalicao/carvalhal-aponta-ao-triunfo-estamos-no-bom-caminho-mas-precisamos-de-pontos",
+      "pubDate": "Sat, 22 Aug 2026 17:13:28 +0100",
+      "description": "Treinador do Famalicão antevê um jogo difícil diante do Santa Clara e destacou a evolução da equipa após a derrota com o Marítimo",
+      "thumbnail": "https://img.iol.pt/image/id/6a53cd43d34ef04b4f3f605d/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Taremi deixa o Olympiakos e junta-se a Rui Vitória nos Emirados Árabes Unidos",
-      "link": "https://maisfutebol.iol.pt/internacional/emirados-arabes-unidos/oficial-taremi-deixa-o-olympiakos-e-junta-se-a-rui-vitoria-nos-emirados-arabes-unidos",
-      "pubDate": "Sat, 22 Aug 2026 16:41:00 +0100",
-      "description": "Ex-FC Porto e Rio Ave assina pelo Al Wasl",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c02bd34e511da0b349c2/250"
+      "title": "Petit: «Num bom momento, Gonçalo Paciência pode ser dos melhores avançados da Liga»",
+      "link": "https://maisfutebol.iol.pt/santa-clara/liga/petit-num-bom-momento-goncalo-paciencia-pode-ser-dos-melhores-avancados-da-liga",
+      "pubDate": "Sat, 22 Aug 2026 17:13:00 +0100",
+      "description": "Treinador do Santa Clara antevê duelo diante do Famalicão",
+      "thumbnail": "https://img.iol.pt/image/id/6a80b601d34e511da0b33841/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Afonso Moreira assiste na vitória do Leverkusen",
-      "link": "https://maisfutebol.iol.pt/internacional/made-in/video-afonso-moreira-assiste-na-vitoria-do-leverkusen",
-      "pubDate": "Sat, 22 Aug 2026 16:36:03 +0100",
-      "description": "«Farmacêuticos» bateram o Wehen, da terceira divisão, por 4-0, em jogo a contar para os 32-avos da Taça da Alemanha",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c1bfd34ed0733ba81212/250"
+      "title": "Tiago Margarido e o reencontro com o Nacional: «O foco é totalmente a vitória»",
+      "link": "https://maisfutebol.iol.pt/vitoria-guimaraes/liga/tiago-margarido-e-o-reencontro-com-o-nacional-o-foco-e-totalmente-a-vitoria",
+      "pubDate": "Sat, 22 Aug 2026 17:06:00 +0100",
+      "description": "Técnico do V. Guimarães antevê jogo diante da antiga equipa",
+      "thumbnail": "https://img.iol.pt/image/id/6a3bccdfd34edcee7c65a601/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Vasco Seabra: «Quanto mais personalidade tivermos, melhores serão as nossas chances»",
-      "link": "https://maisfutebol.iol.pt/arouca/liga/vasco-seabra-quanto-mais-personalidade-tivermos-melhores-serao-as-nossas-chances",
-      "pubDate": "Sat, 22 Aug 2026 16:30:00 +0100",
-      "description": "Treinador do Arouca reconhece a dificuldade da visita ao Dragão, mas acredita que os «lobos» podem discutir o jogo com o FC Porto",
-      "thumbnail": "https://img.iol.pt/image/id/69ebdf96d34e28842c835008/250"
+      "title": "II Liga: União de Leira bate Leixões e soma os primeiros pontos da temporada",
+      "link": "https://maisfutebol.iol.pt/ii-liga/vizela/ii-liga-uniao-de-leira-bate-leixoes-e-soma-os-primeiros-pontos-da-temporada",
+      "pubDate": "Sat, 22 Aug 2026 16:59:25 +0100",
+      "description": "Formação de Leiria foi a Matosinhos vencer por 4-2",
+      "thumbnail": "https://img.iol.pt/image/id/6a89c6b7d34e511da0b349d2/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "João Palhinha aguarda últimos detalhes para rescindir contrato com o Bayern",
-      "link": "https://maisfutebol.iol.pt/transferencias/mercado/joao-palhinha-aguarda-ultimos-detalhes-para-rescindir-contrato-com-o-bayern",
-      "pubDate": "Sat, 22 Aug 2026 16:21:00 +0100",
-      "description": "Médio foi interpelado pelos jornalistas no Aeroporto Humberto Delgado mas não veio para assinar contrato",
-      "thumbnail": "https://img.iol.pt/image/id/6a89a9c3d34e511da0b34978/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Jogador do Real Sport Clube morre em jogo-treino com o Estrela da Amadora",
-      "link": "https://maisfutebol.iol.pt/luto/campeonato-de-portugal/jogador-do-real-sport-clube-morre-em-jogo-treino-com-o-estrela-da-amadora",
-      "pubDate": "Sat, 22 Aug 2026 15:14:00 +0100",
-      "description": "Tragédia vitima Quévin Castro aos 25 anos",
-      "thumbnail": "https://img.iol.pt/image/id/6a89adadd34e511da0b349a4/250"
+      "title": "F1: Lando Norris conquista pole debaixo de chuva por uma décima",
+      "link": "https://maisfutebol.iol.pt/formula-1/automobilismo/f1-lando-norris-conquista-pole-debaixo-de-chuva-por-uma-decima",
+      "pubDate": "Sat, 22 Aug 2026 16:59:16 +0100",
+      "description": "Britânico da McLaren foi mais rápido no derradeiro momento da qualificação com George Russell e Kimi Antonelli, ambos Mercedes, a garantirem os dois lugares seguintes da grelha",
+      "thumbnail": "https://img.iol.pt/image/id/6a89c726d34ed0733ba8121c/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Toalhas velhas prestes a irem para o lixo? Dê-lhes estas 3 utilidades",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3038097/toalhas-velhas-prestes-a-irem-para-o-lixo-de-lhes-estas-3-utilidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 17:01:30",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8456d55ba8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg4LCJjcm9wSGVpZ2h0IjoxMjg3LCJjcm9wWCI6MTQsImNyb3BZIjozOX19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
+      "link": "https://www.noticiasaominuto.com/economia/3040045/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 16:49:46",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_697bd56cad166.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzMywiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Detido por atear dois incêndios em Foz Côa: Dizia estar a limpar o mato",
+      "link": "https://www.noticiasaominuto.com/pais/3040044/detido-por-atear-dois-incendios-em-foz-coa-dizia-estar-a-limpar-o-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 16:44:02",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_578c709c8bcb3.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Amarante conquista primeiro ponto nos campeonatos profissionais em Vizela",
       "link": "https://www.noticiasaominuto.com/desporto/3040036/amarante-conquista-primeiro-ponto-nos-campeonatos-profissionais-em-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 16:38:03",
@@ -222,34 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MTYwMSwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "George Russell vence corrida sprint do GP dos Países Baixos",
-      "link": "https://www.noticiasaominuto.com/auto/3040040/george-russell-vence-corrida-sprint-do-gp-dos-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:31:14",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47646657.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Encontrados dois corpos após incêndio em restaurante português na Suíça",
-      "link": "https://www.noticiasaominuto.com/mundo/3040033/encontrados-dois-corpos-apos-incendio-em-restaurante-portugues-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:30:05",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a87fe2562dc9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjAxLCJjcm9wSGVpZ2h0Ijo2NzUsImNyb3BYIjowLCJjcm9wWSI6MTI2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1MzksImNyb3BIZWlnaHQiOjk1OSwiY3JvcFgiOjUzNCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "De levar as mãos à cabeça. Os golos que ditaram a derrota do Man. United",
-      "link": "https://www.noticiasaominuto.com/desporto/3040037/de-levar-as-maos-a-cara-os-golos-que-ditaram-a-derrota-do-man-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 16:29:01",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89c025a9821.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Como funciona o carregamento sem fios dos smartphones?",
+      "link": "https://pplware.sapo.pt/motores/como-funciona-o-carregamento-sem-fios-dos-smartphones/",
+      "pubDate": "Sat, 22 Aug 2026 16:00:10 +0000",
+      "description": "O carregamento sem fios permite carregar smartphones e outros dispositivos sem ligar um cabo, utilizando principalmente a indução eletromagnética para transferir energia entre o carregador e o equipamento. Mas como é que é possível&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/carregador-sem-fios.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 12:00:05 +0000",
       "description": "Preparar o regresso às aulas não passa apenas por escolher novos dispositivos, como tablets ou portáteis, havendo pequenos acessórios que ajudam a organizar a mochila, proteger os equipamentos e tornar o estudo mais confortável.&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/07/estudante-design.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Aprovado robô que tira sangue sozinho, sem qualquer ajuda humana",
-      "link": "https://pplware.sapo.pt/gadgets/hardware/aprovado-robo-que-tira-sangue-sozinho-sem-qualquer-ajuda-humana/",
-      "pubDate": "Sat, 22 Aug 2026 11:00:06 +0000",
-      "description": "Quem tem medo de agulhas talvez não vá gostar de saber disto, mas foi aprovada a utilização de um robô capaz de fazer colheitas de sangue de forma totalmente automática. A agência reguladora de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/aletta-robo-tirar-sangue-1.jpg"
     },
     {
       "sourceId": "autosport",
