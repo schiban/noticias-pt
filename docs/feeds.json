@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:47:38.588596+00:00",
+  "updated": "2026-08-22T21:17:11.587909+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,10 +55,10 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Abrantes. Incêndio florestal combatido por 400 bombeiros",
-      "link": "https://www.rtp.pt/noticias/pais/abrantes-incendio-florestal-combatido-por-400-bombeiros_n1761033",
+      "title": "Abrantes. Incêndio florestal combatido por 500 bombeiros",
+      "link": "https://www.rtp.pt/noticias/pais/abrantes-incendio-florestal-combatido-por-500-bombeiros_n1761033",
       "pubDate": "Sat, 22 Aug 2026 22:31:19 +0100",
-      "description": "Pelas 21:00 de sábado, o incêndio florestal iniciado na aldeia de Mouriscas, no concelho de Abrantes dava sinais de abrandamento.",
+      "description": "Pelas 22:00 de sábado, o incêndio florestal iniciado na aldeia de Mouriscas, no concelho de Abrantes dava sinais de abrandamento, com possibilidade de ser dominado nas próximas horas.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/40/405832ff807977e7009ef523349dc9be?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
     },
     {
@@ -89,7 +89,7 @@
       "link": "https://www.rtp.pt/noticias/mundo/brasil-combate-ao-crime-organizado-domina-campanha-eleitoral_v1761029",
       "pubDate": "Sat, 22 Aug 2026 21:55:47 +0100",
       "description": "O combate aos grupos criminosos é central na campanha eleitoral do Brasil.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/65/653c2be0a730d70ed77d52a5e0e6fbdf_N.jpg?"
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ab/abb429340a300faa4e521a84a4b6addf?w=350&amp;q=50&amp;rect=0,33,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -100,6 +100,16 @@
       "pubDate": "Sat, 22 Aug 2026 21:50:47 +0100",
       "description": "Dezasseis pessoas morreram e mais de 100 ficaram feridas num ataque russo a um centro comercial na Ucrânia.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3d09a6b2136c83c5d6bf53a36233c48?w=350&amp;q=50&amp;rect=0,164,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "França: Paulo Fonseca entra no campeonato com uma vitória",
+      "link": "https://maisfutebol.iol.pt/internacional/franca/franca-paulo-fonseca-entra-no-campeonato-com-uma-vitoria",
+      "pubDate": "Sat, 22 Aug 2026 21:47:00 +0100",
+      "description": "Lyon venceu o Toulouse por 2-0",
+      "thumbnail": "https://img.iol.pt/image/id/6a8a0a35d34e511da0b34a60/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,24 +152,44 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8a0613d34e511da0b34a54/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Trincão marca golaço no triunfo do Al Ahli, Al Khaleej de José Gomes empata",
-      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-ahli/video-trincao-marca-golaco-no-triunfo-do-al-ahli-al-khaleej-de-jose-gomes-empata",
-      "pubDate": "Sat, 22 Aug 2026 20:58:00 +0100",
-      "description": "Clube do avançado ex-Sporting goleou por 4-0",
-      "thumbnail": "https://img.iol.pt/image/id/6a89fee6d34e511da0b34a3d/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Eixo Atlântico quer “desbloquear” TGV e criar centro conjunto entre Portugal e Espanha para combater incêndios",
+      "link": "https://sapo.pt/artigo/eixo-atlantico-quer-desbloquear-tgv-e-criar-centro-conjunto-entre-portugal-e-espanha-para-combater-incendios-6a89edbce58eb3a3e68d5212",
+      "pubDate": "Sat, 22 Aug 2026 20:48:24 +0000",
+      "description": "O Eixo Atlântico defendeu a criação de um centro de coordenação conjunto entre Portugal e Espanha para prevenir e combater incêndios nas zonas fronteiriças. O secretário-geral Xoan Mao pediu ainda ao Presidente da República, António José Seguro,...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AtH%2B2y1sDKu1kP5dzh1yY2jLJWUHbkN9wj7v1J2%2FVgYpxdiolyh6jws3rrsEewK2cJJuD52VgnRh2G6VVcqyPf5mVevbL9ungauJqKCKB8uCUcYtKBcTeJsH5k99Wy475"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Depois de fuga de informação, alunos já estão a receber resultados do Ensino Superior por email",
-      "link": "https://sapo.pt/artigo/depois-de-fuga-de-informacao-alunos-ja-estao-a-receber-resultados-do-ensino-superior-por-email-6a89e64d57577bfcb5f16589",
-      "pubDate": "Sat, 22 Aug 2026 18:26:49 +0000",
-      "description": "Depois de uma fuga de informação, os candidatos ao Ensino Superior estão já a receber os resultados das colocações. Os emails seriam enviados este sábado, mas a lista oficial só seria publicada às 00h01 de 23 de agosto, domingo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3ALOCNbCydW1Gyh5aRKVFii69%2F7UBABXR0%2BgDHctEe2MsB%2F9s0CuF0Rwnb%2Fh6SVxfIawj14E3%2F%2BZISiMjrlAMsQbZ3h4bG0qf7BlCEkT%2FpmS8%2Fl7s%2Bw5aYkq8%2BFI1i1eJC"
+      "title": "PJ apreende 150 kgs de cocaína dentro de embalagens de polpa de fruta",
+      "link": "https://sapo.pt/artigo/pj-apreende-150-kgs-de-cocaina-dentro-de-embalagens-de-polpa-de-fruta-6a8a00f1d0cbd78bc791cbc0",
+      "pubDate": "Sat, 22 Aug 2026 20:48:24 +0000",
+      "description": "500 pacotes de cocaína rumavam a diferentes pontos da Europa quando a PJ interceptou a carga nos arredores de Lisboa. Contentor já estava sob vigilância apertada. PJ foi alertada pelas autoridades espanholas. A carga valia 4 milhões de euros",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A1TUE1jq%2FpFX%2BOE9uBnuPDMuWASWQAxHDTeGfl3gA6SP25ThO9lP6bemihg%2FQaT9AGdKcpqmT%2BCC8HoQlr6xKc5t9Z27idXtrqVax90QbI2o1QurixXjAi1XsG9KFDqY%2F"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Tribunal federal dos EUA anula suspensão de vistos imposta por Trump a 75 países",
+      "link": "https://jornaleconomico.sapo.pt/noticias/tribunal-federal-dos-eua-anula-suspensao-de-vistos-imposta-por-trump-a-75-paises/",
+      "pubDate": "Sat, 22 Aug 2026 20:48:24 +0000",
+      "description": "A decisão foi tomada na sexta-feira pela juíza Jeannette Vargas, do Tribunal Distrital do Estados Unidos da América (EUA) para o Distrito Sul de Nova Iorque.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AXqVh0UVqFHS7DOG2Ck%2BLbgfV4mcM3iJ0YGYwk8iW4RSwqIyaveXRz3251Dw2Gk2ymGUz%2FW0HyMVV2iI%2BnvoQaV7DXLErUJkY9tV57lqBiSG3AQaF0spjrJviRqRDgcRH"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Antes e depois: imagens de satélite captam impacto devastador do incêndio em Carrazeda de Ansiães",
+      "link": "https://sapo.pt/artigo/antes-e-depois-imagens-de-satelite-captam-impacto-devastador-do-incendio-em-carrazeda-de-ansiaes-6a89edb1e58eb3a3e68d4e82",
+      "pubDate": "Sat, 22 Aug 2026 20:48:24 +0000",
+      "description": "O Incêndio, que foi dado como dominado na quarta-feira, começou há uma semana em Torre de Moncorvo e alastrou para o concelho vizinho",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=333&W=592&crop=center&delay_optim=1&epic=V2%3AYZ%2BmlcOsZrnxeYl5K%2BSn487Zu0%2FCP6BSK%2BlPM%2F7UjOSYYxC63fdb0ALp1dP7bFIK3kLpA52C%2B3NyA6h4kR60y4N9gpgJOqndfEGDi%2FBH7AeiaZMsFL7vlrjFsDfcB6Sm"
     },
     {
       "sourceId": "sapo",
@@ -172,84 +202,54 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AiH0RqirQDDPZk95rfZUPwYxHyxrfvTWbV%2BPliCnic282I9k7wQFJfrRnCT%2BkL1CAPCuPJXo8M%2FFHCEPEoklO9EMyX7uV6Do9uQC%2Be2AxlPNyCGotmdhNhFVw7hyTdzPm"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Mais de 200 operacionais e dez meios aéreos combatem fogo em Abrantes",
-      "link": "https://sapo.pt/artigo/mais-de-200-operacionais-e-dez-meios-aereos-combatem-fogo-em-abrantes-6a89cb03d0cbd78bc788343c",
-      "pubDate": "Sat, 22 Aug 2026 18:26:49 +0000",
-      "description": "Alerta foi dado pelas 15h11 e iniciou-se “com grande intensidade, com duas frentes ativas e várias projeções”, disse à Lusa fonte do Comando Sub-regional de Emergência e Proteção Civil do Médio Tejo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ALxamFTLVK%2FfhHKio106qM8Z6rPIc3PyMq28wuWN7iUpB6eE6XdQsJ7fVLayM3azhyx4gPSwYCx%2BTIZHi%2F0fpDHw3yJgexgnm4IXXg19YxFTG2Dw%2FbkORwCXknzXJF2l6"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Seguro ouve apelo para falar com Sánchez e desbloquear TGV",
-      "link": "https://sapo.pt/artigo/seguro-ouve-apelo-para-falar-com-sanchez-e-desbloquear-tgv-6a89e6f371773bd5d1af243e",
-      "pubDate": "Sat, 22 Aug 2026 18:26:49 +0000",
-      "description": "Xoan Mao pede a intervenção do Presidente e diz que a relação entre os ministros das Infraestruturas de Portugal e Espanha \"não é uma relação porque não falam\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ApM60PM9Ej%2BubuSbG2yOEn6ho7KsbzyXFBSYijj4WXG4kSGTyRvrgVNcyN8jqeMT42tPEu50pfuw0bFf%2BOjHXM%2BFlNigRVD7l5W6GBGuT24UF24GCku1r8qYvBh5dqWy2"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Proteção Civil faz recomendações para dias de chuva e vento",
-      "link": "https://sapo.pt/artigo/protecao-civil-faz-recomendacoes-para-dias-de-chuva-e-vento-6a89e3e9d0cbd78bc78c7179",
-      "pubDate": "Sat, 22 Aug 2026 18:26:49 +0000",
-      "description": "Meteorologia vai sofrer mudança abrupta, com risco de inundações e estradas mais perigosas. A condução deve ser mais defensiva e lenta e há risco de queda de árvores.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AfSl6PemUccoZd%2FX%2BpakTjvEwAkpMA%2By6fDdqeBWmsstw%2FaJsP%2FuIN9sNyzsnncphTKBhsV7hSKwY%2FopzCEZjBhNA6IxJM0YIn0zkZ%2FFqOe%2BbR03OrSMz%2BLolP6afctSH"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Motociclista morre após colisão entre motociclo e carro em Alfeizerão",
+      "link": "https://www.noticiasaominuto.com/pais/3040130/motociclista-morre-apos-colisao-entre-motociclo-e-carro-em-alfeizerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:09:59",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc316314.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMzN9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "À capitão. O belo golo de Maxi Araújo que deixou o Sporting a vencer",
-      "link": "https://www.noticiasaominuto.com/desporto/3040121/a-capitao-o-belo-golo-de-maxi-araujo-que-deixou-o-sporting-a-vencer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:34:15",
+      "title": "Há mais uma surpresa (e homenagem) no nome da filha da princesa Eugenie",
+      "link": "https://www.noticiasaominuto.com/fama/3037842/ha-mais-uma-surpresa-e-homenagem-no-nome-da-filha-da-princesa-eugenie#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:08:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a07ca7590e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a838c3167daf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg3OCwiY3JvcEhlaWdodCI6MTU2MiwiY3JvcFgiOjE2OCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bellingham fez o 1.º golo no regresso de Mourinho... que reagiu assim",
-      "link": "https://www.noticiasaominuto.com/desporto/3040119/bellingham-fez-o-1-golo-no-regresso-de-mourinho-que-reagiu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:26:14",
+      "title": "Jovem procura mãe que desapareceu há 24 anos nos Estados Unidos",
+      "link": "https://www.noticiasaominuto.com/mundo/3040128/jovem-procura-mae-que-desapareceu-ha-24-anos-nos-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 22:07:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a05e8ddc32.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0fb1adac5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTExMywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Prisões? ONG pede à Venezuela alargamento da cooperação com Cruz Vermelha",
-      "link": "https://www.noticiasaominuto.com/mundo/3040118/prisoes-ong-pede-a-venezuela-alargamento-da-cooperacao-com-cruz-vermelha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:22:34",
+      "title": "Lusitânia de Lourosa e Torreense não vão além de um empate",
+      "link": "https://www.noticiasaominuto.com/desporto/3040113/lusitania-de-lourosa-e-torreense-nao-vao-alem-de-um-empate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:56:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a55c0219668.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA5LCJjcm9wWCI6NDEwLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0cdae8cf7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Avançado vendido pelo Benfica marcou este grande golo frente ao Inter",
-      "link": "https://www.noticiasaominuto.com/desporto/3040117/avancado-vendido-pelo-benfica-marcou-este-grande-golo-frente-ao-inter#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:14:05",
+      "title": "Fábio Silva marca, mas Bayern conquista Supertaça frente ao Dortmund",
+      "link": "https://www.noticiasaominuto.com/desporto/3040124/fabio-silva-marca-mas-bayern-conquista-supertaca-frente-ao-dortmund#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 21:51:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a03113b655.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Oficial: Benfica empresta jovem que não contava para Marco Silva",
-      "link": "https://www.noticiasaominuto.com/desporto/3040116/oficial-benfica-empresta-jovem-que-nao-contava-para-marco-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 21:04:39",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a00c2aa4c3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6ODB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0bb249166.webp"
     },
     {
       "sourceId": "pplware",
