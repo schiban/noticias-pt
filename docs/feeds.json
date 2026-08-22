@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T16:48:18.478840+00:00",
+  "updated": "2026-08-22T17:16:53.934461+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,26 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "Taranto2026. Nadadora Camila Rebelo revalida título nos 200 metros costas",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-nadadora-camila-rebelo-revalida-titulo-nos-200-metros-costas_d1761003",
+      "pubDate": "Sat, 22 Aug 2026 18:54:07 +0100",
+      "description": "A nadadora portuguesa Camila Rebelo revalidou hoje o título de campeã dos Jogos do Mediterrâneo nos 200 metros costas, ao vencer a final de Taranto2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/34/34c31acb34bf10d5162f26a0794b0d5c?w=350&amp;q=50&amp;rect=0,0,604,331&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Incêndio em Abrantes mobiliza quase 400 operacionais",
+      "link": "https://www.rtp.pt/noticias/pais/incendio-em-abrantes-mobiliza-quase-400-operacionais_v1761001",
+      "pubDate": "Sat, 22 Aug 2026 18:47:47 +0100",
+      "description": "Um incêndio no concelho de Abrantes está a mobilizar quase 400 bombeiros e vários meios aéreos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/25/25d7ade43d17fe3f69e4868c3bb53967_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "I Liga. Estoril Praia- Rio Ave",
       "link": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-praia-rio-ave_e1760995",
       "pubDate": "Sat, 22 Aug 2026 18:39:09 +0100",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Seguro diz que as reformas em Portugal são sagradas",
-      "link": "https://www.rtp.pt/noticias/economia/seguro-diz-que-as-reformas-em-portugal-sao-sagradas_n1760996",
-      "pubDate": "Sat, 22 Aug 2026 18:26:42 +0100",
-      "description": "O Presidente da República, António José Seguro, considerou hoje que &quot;as reformas em Portugal são sagradas&quot;, lembrando que eventuais alterações às leis relativa aos sistemas de pensões competem ao Parlamento ou ao Governo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5626300bcbf1eaa60a50cafbf714304?w=350&amp;q=50&amp;rect=0,128,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Judoca Sofia Gaspar vence medalha de bronze nos Mundiais de cadetes",
+      "link": "https://maisfutebol.iol.pt/modalidades/judo/judoca-sofia-gaspar-vence-medalha-de-bronze-nos-mundiais-de-cadetes",
+      "pubDate": "Sat, 22 Aug 2026 18:07:03 +0100",
+      "description": "Perdeu apenas com a vencedora da competição, Rio Shirakane",
+      "thumbnail": "https://img.iol.pt/image/id/6a89d71bd34e511da0b349f2/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Canadá retalia contra EUA com tarifas sobre aço, eletrónica e laticínios",
-      "link": "https://www.rtp.pt/noticias/economia/canada-retalia-contra-eua-com-tarifas-sobre-aco-eletronica-e-laticinios_n1760993",
-      "pubDate": "Sat, 22 Aug 2026 18:14:03 +0100",
-      "description": "O Canadá vai retaliar contra as novas tarifas norte-americanas, impondo direitos aduaneiros sobre o aço, equipamentos eletrónicos e produtos lácteos comprados aos Estados Unidos da América a partir de 08 de setembro, anunciou hoje o primeiro-ministro, Mark Carney.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5a/5a0a5479cc80afceab8202d59175f863?w=350&amp;q=50&amp;rect=0,76,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Marítimo-Académico de Viseu, 2-2 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/maritimo/maritimo-academico-de-viseu-2-2-cronica",
+      "pubDate": "Sat, 22 Aug 2026 18:03:00 +0100",
+      "description": "Crença insular anula desvantagem de dois golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a89c949d34ed0733ba81225/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sat, 22 Aug 2026 17:33:29 +0100",
       "description": "Internacional porto-riquenho assina contrato válido por uma temporada",
       "thumbnail": "https://img.iol.pt/image/id/6a89cf2dd34e511da0b349e2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Premier: Leeds, Ipswich e Everton de Beto vencem na primeira jornada",
-      "link": "https://maisfutebol.iol.pt/internacional/inglaterra/premier-leeds-ipswich-e-everton-de-beto-vencem-na-primeira-jornada",
-      "pubDate": "Sat, 22 Aug 2026 17:17:00 +0100",
-      "description": "Os dois primeiros conseguiram ganhar somente nos instantes finais",
-      "thumbnail": "https://img.iol.pt/image/id/6a89caced34e511da0b349db/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Carvalhal aponta ao triunfo: «Estamos no bom caminho, mas precisamos de pontos»",
-      "link": "https://maisfutebol.iol.pt/liga/famalicao/carvalhal-aponta-ao-triunfo-estamos-no-bom-caminho-mas-precisamos-de-pontos",
-      "pubDate": "Sat, 22 Aug 2026 17:13:28 +0100",
-      "description": "Treinador do Famalicão antevê um jogo difícil diante do Santa Clara e destacou a evolução da equipa após a derrota com o Marítimo",
-      "thumbnail": "https://img.iol.pt/image/id/6a53cd43d34ef04b4f3f605d/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Marítimo e Académico empatam. Segue-se o jogo na Amoreira",
-      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:39:17",
+      "title": "De deixar o queixo caído. Ballard fez isto e tem mesmo de ver (e rever)",
+      "link": "https://www.noticiasaominuto.com/desporto/3040072/de-deixar-o-queixo-caido-ballard-fez-isto-e-tem-mesmo-de-ver-e-rever#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:11:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a762be6a9caa.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89d8194a2af.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marrocos pede repatriamento de sobreviventes e mortos ainda em Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3040053/marrocos-pede-repatriamento-de-sobreviventes-e-mortos-ainda-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:38:51",
+      "title": "Eixo Atlântico pede a PR para falar com Sánchez para \"desbloquear\" TGV",
+      "link": "https://www.noticiasaominuto.com/pais/3040073/eixo-atlantico-pede-a-pr-para-falar-com-sanchez-para-desbloquear-tgv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:09:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89a73ab0de2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a232b0e02bff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI2NX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Síria condena ataque israelita considerando-o uma \"violação da soberania\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3040054/siria-condena-ataque-israelita-considerando-o-uma-violacao-da-soberania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:37:21",
+      "title": "Fogo em Abrantes \"complicado\" mas sem habitações em risco, diz autarquia",
+      "link": "https://www.noticiasaominuto.com/pais/3040070/fogo-em-abrantes-complicado-mas-sem-habitacoes-em-risco-diz-autarquia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:07:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89d043f1e16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDN9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a777e2a14474.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDIyLCJjcm9wSGVpZ2h0IjoxMTM3LCJjcm9wWCI6MTgsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NTAsImNyb3BIZWlnaHQiOjExNTUsImNyb3BYIjo5NDUsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Golo de Butzke permite ao Marítimo resgatar frente ao Académico de Viseu",
-      "link": "https://www.noticiasaominuto.com/desporto/3040058/golo-de-butzke-permite-ao-maritimo-resgatar-frente-ao-academico-de-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:35:59",
+      "title": "Novo Apple Watch terá direito a uma edição (muito) especial",
+      "link": "https://www.noticiasaominuto.com/tech/3039337/novo-apple-watch-tera-direito-a-uma-edicao-muito-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:01:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a89cfd8f050b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NDAsImNyb3BIZWlnaHQiOjQ3MywiY3JvcFgiOjIsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozMzAsImNyb3BIZWlnaHQiOjU4NywiY3JvcFgiOjIxMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a87483e737a7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjEzLCJjcm9wWSI6MTkwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MDcsImNyb3BIZWlnaHQiOjE0MzUsImNyb3BYIjo5MTMsImNyb3BZIjoxOH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Portugal e Espanha: Eixo Atlântico defende criação de centro conjunto",
-      "link": "https://www.noticiasaominuto.com/pais/3040049/portugal-e-espanha-eixo-atlantico-defende-criacao-de-centro-conjunto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 17:35:36",
+      "title": "Viúva recorda Van Der Beek e mostra-se grata por o ver através dos filhos",
+      "link": "https://www.noticiasaominuto.com/fama/3038053/viuva-recorda-van-der-beek-e-mostra-se-grata-por-o-ver-atraves-dos-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-22 18:01:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f96d24e4f0d7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNDZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a84410c315b0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTUzLCJjcm9wSGVpZ2h0Ijo2NDksImNyb3BYIjo4LCJjcm9wWSI6NzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUyNywiY3JvcEhlaWdodCI6OTM2LCJjcm9wWCI6MzQzLCJjcm9wWSI6N319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Git: a importância do ficheiro .gitconfig e como pode ajudar",
+      "link": "https://pplware.sapo.pt/tutoriais/git-a-importancia-do-ficheiro-gitconfig-e-como-pode-ajudar/",
+      "pubDate": "Sat, 22 Aug 2026 17:00:03 +0000",
+      "description": "Quem desenvolve ou gere projetos de código sabe que manter o código organizado e controlar as alterações é fundamental. É neste contexto que ferramentas como o Git assumem um papel importante, permitindo acompanhar alterações,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/git_capa.png"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 13:01:01 +0000",
       "description": "Já são conhecidos os resultados da 1.ª fase do Concurso Nacional de Acesso ao Ensino Superior de 2026. Este ano, 49.991 estudantes conseguiram colocação, num concurso marcado por um forte aumento do número de&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2022/09/ensino_superior_2-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Regresso às aulas: 18 acessórios e gadgets que vale a pena ter na mochila e em casa",
-      "link": "https://pplware.sapo.pt/gadgets/regresso-as-aulas-18-acessorios-e-gadgets-que-vale-a-pena-ter-na-mochila-e-em-casa/",
-      "pubDate": "Sat, 22 Aug 2026 12:00:05 +0000",
-      "description": "Preparar o regresso às aulas não passa apenas por escolher novos dispositivos, como tablets ou portáteis, havendo pequenos acessórios que ajudam a organizar a mochila, proteger os equipamentos e tornar o estudo mais confortável.&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2023/07/estudante-design.jpg"
     },
     {
       "sourceId": "autosport",
