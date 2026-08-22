@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:04:26.214775+00:00",
+  "updated": "2026-08-22T04:59:06.913482+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,16 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "5h Ondas de calor fazem 30 mil mortes em excesso na Europa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-ondas-de-calor-fazem-30-mil-mortes-em-excesso-na-europa_a1_1760934",
+      "pubDate": "Sat, 22 Aug 2026 06:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "4h Elevador da Glória: relatório final só em 2027",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-elevador-da-gloria-relatorio-final-so-em-2027_a1_1760931",
       "pubDate": "Sat, 22 Aug 2026 05:20:02 +0100",
@@ -88,16 +98,6 @@
       "title": "00h Acidente Elevador da Glória: relatório só no final de março",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-acidente-elevador-da-gloria-relatorio-so-no-final-de-marco_a1_1760919",
       "pubDate": "Sat, 22 Aug 2026 01:25:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h MAI: Novos dados sobre a polémica do atrelado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-mai-novos-dados-sobre-a-polemica-do-atrelado_a1_1760918",
-      "pubDate": "Sat, 22 Aug 2026 01:11:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
