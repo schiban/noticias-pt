@@ -1,24 +1,24 @@
 {
-  "updated": "2026-08-22T03:14:32.437998+00:00",
+  "updated": "2026-08-22T04:04:26.214775+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "4h. Elevador da Glória. Relatório final só em 2027",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2378/",
       "pubDate": "Sat, 22 Aug 2026 04:14:09 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O atraso é justificado com a enorme complexidade das peritagens técnicas. Ainda, O Chega pediu a demissão do ministro da Administração Interna numa iniciativa parlamentar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "3h. Sporting recebe hoje o Alverca",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2413/",
       "pubDate": "Sat, 22 Aug 2026 03:15:13 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Na antevisão, Rui Borges deixa elogios à equipa ribatejana. Ainda, mais de 30 mil mortes em excesso na Europa devido às vagas de calor dos últimos dois meses.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -50,6 +50,16 @@
       "pubDate": "Sat, 22 Aug 2026 01:14:22 +0100",
       "description": "O curso de Engenharia Aeroespacial na Universidade do Porto é o que tem média mais alta. Ainda, o Chega pediu a demissão do MAI numa iniciativa parlamentar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Elevador da Glória: relatório final só em 2027",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-elevador-da-gloria-relatorio-final-so-em-2027_a1_1760931",
+      "pubDate": "Sat, 22 Aug 2026 05:20:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Sat, 22 Aug 2026 01:11:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Justiça dos EUA permite que trabalhos no salão de baile de Trump na Casa Branca continuem",
-      "link": "https://www.rtp.pt/noticias/mundo/justica-dos-eua-permite-que-trabalhos-no-salao-de-baile-de-trump-na-casa-branca-continuem_n1760896",
-      "pubDate": "Fri, 21 Aug 2026 23:37:27 +0100",
-      "description": "O juiz-presidente do Supremo Tribunal dos Estados Unidos, John Roberts, permitiu que o Presidente Donald Trump continue a construção do salão de baile da Casa Branca, avaliado em 400 milhões de dólares (342,4 milhões de euros).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d778fbf0dc331a7f07894adbf7d29c96?w=350&amp;q=50&amp;rect=0,343,4014,2201&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
