@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:16:21.394161+00:00",
+  "updated": "2026-08-23T17:44:14.514323+00:00",
   "articles": [
     {
       "sourceId": "observador",
@@ -55,6 +55,36 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
+      "title": "Atlético de Madrid empata a dois na receção ao Villarreal",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/atletico-de-madrid-empata-a-dois-na-rececao-ao-villarreal_d1761154",
+      "pubDate": "Sun, 23 Aug 2026 19:37:11 +0100",
+      "description": "O Atlético de Madrid cedeu hoje uma igualdade a dois golos na receção ao Villarreal, num encontro da segunda jornada da Liga espanhola de futebol em que começou a ganhar, esteve a perder e acabou com 10 unidades.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/34/3477f4893608b7870a267757a3ae7b25?w=350&amp;q=50&amp;rect=0,30,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. FC Porto - Arouca",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-fc-porto-arouca_e1761153",
+      "pubDate": "Sun, 23 Aug 2026 19:32:53 +0100",
+      "description": "O FC Porto, segundo classificado, com seis pontos, defronta este domingo o Arouca, primeiro, também com seis, no Estádio do Dragão, com arbitragem de João Pinheiro, da Associação de Futebol de Braga.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb2e3a0430148b07586d7fd74593e0d3?w=350&amp;q=50&amp;rect=0,28,1536,842&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "18h Cobertura do Oeiras Parque desabou. Não há feridos a registar",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-cobertura-do-oeiras-parque-desabou-nao-ha-feridos-a-registar_a1_1761152",
+      "pubDate": "Sun, 23 Aug 2026 19:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
       "title": "António Morgado termina Volta à Alemanha no 19.º lugar, Nelson Oliveira em 22.º",
       "link": "https://www.rtp.pt/noticias/outras-modalidades/antonio-morgado-termina-volta-a-alemanha-no-19o-lugar-nelson-oliveira-em-22o_d1761151",
       "pubDate": "Sun, 23 Aug 2026 19:03:26 +0100",
@@ -72,34 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6de98e6f3b6bc6d1497f7e52e6b06a5?w=350&amp;q=50&amp;rect=0,38,1536,842&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Taranto2026. Nadadora Francisca Martins conquista bronze nos 200 metros livres",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-nadadora-francisca-martins-conquista-bronze-nos-200-metros-livres_d1761149",
-      "pubDate": "Sun, 23 Aug 2026 18:52:16 +0100",
-      "description": "A nadadora portuguesa Francisca Martins, campeã dos 400 metros livres, conquistou hoje a medalha de bronze na prova dos 200 metros livres dos Jogos do Mediterrâneo Taranto2026.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e2fa2dc502108512cf044fc0e115c7b?w=350&amp;q=50&amp;rect=54,0,2459,1348&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Tiago Margarido: «Era um jogo super importante porque queríamos somar três pontos»",
+      "link": "https://maisfutebol.iol.pt/liga/nacional/tiago-margarido-era-um-jogo-super-importante-porque-queriamos-somar-tres-pontos",
+      "pubDate": "Sun, 23 Aug 2026 18:18:14 +0100",
+      "description": "Treinador do V. Guimarães gostou da forma como a equipa geriu o resultado",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b1105d34ed0733ba813ab/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mau tempo. Desaba parte do teto de um centro comercial em Oeiras",
-      "link": "https://www.rtp.pt/noticias/pais/mau-tempo-desaba-parte-do-teto-de-um-centro-comercial-em-oeiras_n1761138",
-      "pubDate": "Sun, 23 Aug 2026 18:47:10 +0100",
-      "description": "O mau tempo atipico para esta epoca do ano já está a provocar estragos. Em Oeiras, infiltrações levaram à queda de parte do teto de um centro comercial . Várias lojas tiveram que ser encerradas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b190fd50dfde849c0d86b1486a64e2e?w=350&amp;q=50&amp;rect=0,841,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Hjulmand comete penálti e At. Madrid evita derrota reduzido a dez",
+      "link": "https://maisfutebol.iol.pt/internacional/atletico-madrid/video-hjulmand-comete-penalti-e-at-madrid-evita-derrota-reduzido-a-dez",
+      "pubDate": "Sun, 23 Aug 2026 18:18:00 +0100",
+      "description": "Antigo médio do Sporting foi titular pela primeira vez, ante o Villarreal. Equipa da casa abriu o marcador e fechou-o para evitar a derrota",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b2ae7d34e511da0b34bb6/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Onze corpos de migrantes encontrados após naufrágio ao largo da Tunísia",
-      "link": "https://www.rtp.pt/noticias/mundo/onze-corpos-de-migrantes-encontrados-apos-naufragio-ao-largo-da-tunisia_n1761144",
-      "pubDate": "Sun, 23 Aug 2026 18:45:49 +0100",
-      "description": "A Guarda Nacional da Tunísia recuperou 11 corpos do mar Mediterrâneo depois do naufrágio de um barco que transportava 15 migrantes, continuando desaparecidas três pessoas, anunciou hoje esta polícia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4246e00e343539f90f136ee2bf1cf79?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "João Gião: «O resultado acaba por se ajustar porque o Vitória teve mais oportunidades»",
+      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/joao-giao-o-resultado-acaba-por-se-ajustar-porque-o-vitoria-teve-mais-oportunidades",
+      "pubDate": "Sun, 23 Aug 2026 18:13:00 +0100",
+      "description": "Treinador do Nacional saiu satisfeito com o desempenho da equipa apesar da derrota",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b10f6d34e511da0b34b75/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 17:51:11 +0100",
       "description": "Águias não deram hipóteses ao Almeida Garrett na final disputada em Santo Tirso",
       "thumbnail": "https://img.iol.pt/image/id/6a8b24a4d34ed0733ba813e2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Vuelta: Brennan vence segunda etapa, Pogacar segue líder",
-      "link": "https://maisfutebol.iol.pt/modalidades/vuelta/vuelta-brennan-vence-segunda-etapa-pogacar-segue-lider",
-      "pubDate": "Sun, 23 Aug 2026 17:45:00 +0100",
-      "description": "João Almeida chegou a 16 segundos do vencedor e Ivo Oliveira a 1.41 minutos",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b2315d34e511da0b34ba5/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "FC Porto negoceia novo empréstimo de Seko Fofana",
-      "link": "https://maisfutebol.iol.pt/fc-porto/seko-fofana/fc-porto-tenta-novo-emprestimo-de-seko-fofana",
-      "pubDate": "Sun, 23 Aug 2026 17:32:00 +0100",
-      "description": "Médio quer regressar ao Dragão, onde foi uma peça decisiva para a conquista do último título de campeão nacional",
-      "thumbnail": "https://img.iol.pt/image/id/698a648cd34e0ec52ec35aa0/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "V. Guimarães-Nacional, 1-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/v-guimaraes-nacional-1-0-cronica",
-      "pubDate": "Sun, 23 Aug 2026 17:30:53 +0100",
-      "description": "Gustavo Silva dá a Margarido a primeira vitória no reencontro com o Nacional",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b1922d34ed0733ba813c7/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,36 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Hjulmand borra pintura e Atlético de Madrid empata diante do Villarreal",
+      "link": "https://www.noticiasaominuto.com/desporto/3040340/hjulmand-borra-pintura-e-atletico-de-madrid-empata-diante-do-villarreal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:33:03",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b2e7518d92.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Centenas em Lisboa para assinalar 35 anos de independência da Ucrânia",
+      "link": "https://www.noticiasaominuto.com/pais/3040341/centenas-em-lisboa-para-assinalar-35-anos-de-independencia-da-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:31:21",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47651904.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Portuguesa entre as vítimas mortais após incêndio em restaurante na Suíça",
+      "link": "https://www.noticiasaominuto.com/pais/3040336/portuguesa-entre-as-vitimas-mortais-apos-incendio-em-restaurante-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:25:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b2dd82d4bd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDcwLCJjcm9wSGVpZ2h0Ijo4MjcsImNyb3BYIjowLCJjcm9wWSI6NzUzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MzksImNyb3BIZWlnaHQiOjEzMTUsImNyb3BYIjoyNDEsImNyb3BZIjozODB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Guiné Conacri. Sobe para 22 n.º de mortos em desmoronamento de aterro",
       "link": "https://www.noticiasaominuto.com/mundo/3040335/guine-conacri-sobe-para-22-n-de-mortos-em-desmoronamento-de-aterro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-23 18:06:54",
@@ -220,36 +250,6 @@
       "pubDate": "2026-08-23 18:05:29",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_690e0b1af0c15.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Merz pede aceleração das reformas perante ameaças da extrema-direita",
-      "link": "https://www.noticiasaominuto.com/mundo/3040334/merz-pede-aceleracao-das-reformas-perante-ameacas-da-extrema-direita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:04:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68db0ef408290.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Governo da Madeira rejeita atrasos no envio de apoio à Venezuela",
-      "link": "https://www.noticiasaominuto.com/pais/3040333/governo-da-madeira-rejeita-atrasos-no-envio-de-apoio-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:04:11",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60645f2d0fef0.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Negócio fechado. Seko Fofana está de regresso ao FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3040332/negocio-fechado-seko-fofana-esta-de-regresso-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:03:59",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f67a4a31d2d.webp"
     },
     {
       "sourceId": "pplware",
