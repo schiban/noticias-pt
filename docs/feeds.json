@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-23T13:28:15.764480+00:00",
+  "updated": "2026-08-23T13:55:09.985058+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Mau tempo adia fogo de artifício da Romaria d'Agonia",
+      "link": "https://observador.pt/2026/08/23/adiado-fogo-de-artificio-que-encerra-romaria-dagonia-por-causa-do-mau-tempo/",
+      "pubDate": "Sun, 23 Aug 2026 14:43:16 +0100",
+      "description": "A VianaFestas adiou para data a definir vários momentos do programa deste domingo, incluindo a serenata de fogo de artifício que encerra a festa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/12103610/18142310.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Há ais dois mortos no incêndio em restaurante na Suíça",
+      "link": "https://observador.pt/2026/08/23/numero-de-mortos-no-incendio-em-restaurante-na-suica-sobe-para-quatro/",
+      "pubDate": "Sun, 23 Aug 2026 14:38:46 +0100",
+      "description": "Dois novos corpos encontrados este domingo nos escombros do edifício destruído pelo fogo elevaram para quatro o número de vítimas mortais. Há dois portugueses entre os feridos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23143102/47641955.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22191335/47627416.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "13h.Caso Luís Neves. Seguro pede rapidez nas investigações",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2424/",
-      "pubDate": "Sun, 23 Aug 2026 13:11:08 +0100",
-      "description": "Questionado sobre as mais recentes polémicas em torno do MAI, o Presidente da República responde que cada órgão de soberania tem de assumir responsabilidades. Ainda, um homem foi baleado em Camarate.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "14h PR espera celeridade nas averiguações que envolvem o MAI.",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-pr-espera-celeridade-nas-averiguacoes-que-envolvem-o-mai_a1_1761112",
+      "pubDate": "Sun, 23 Aug 2026 15:42:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alibaba reforça aposta na IA com emissão de ações",
-      "link": "https://observador.pt/2026/08/23/alibaba-quer-emitir-8-700-me-em-acoes-para-investimento-mundial-em-inteligencia-artificial/",
-      "pubDate": "Sun, 23 Aug 2026 13:08:45 +0100",
-      "description": "A gigante tecnológica chinesa vai reforçar infraestrutura de IA com nova emissão de 80.000 milhões de dólares de Hong Kong, após receitas trimestrais de 34.270 milhões de euros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12053358/47256623.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Bombeiro ferido em Arouca que está em estado crítico vai ter nova cirurgia hoje",
+      "link": "https://www.rtp.pt/noticias/pais/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-hoje_n1761092",
+      "pubDate": "Sun, 23 Aug 2026 15:27:33 +0100",
+      "description": "O bombeiro que está em pior condição clínica, na sequência do acidente que na quarta-feira de madrugada feriu quatro operacionais da corporação de Arouca, vai ser hoje submetido a nova intervenção cirúrgica, revelou o Hospital São Sebastião.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Presidente ucraniano pede ao parlamento que aprove reformas para desbloquear verbas da UE",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/presidente-ucraniano-pede-ao-parlamento-que-aprove-reformas-para-desbloquear-verbas-da-ue_n1761098",
+      "pubDate": "Sun, 23 Aug 2026 15:27:04 +0100",
+      "description": "O Presidente da Ucrânia pediu hoje ao Parlamento ucraniano que aprove as reformas internas indispensáveis para receber os 30 mil milhões de euros em fundos europeus destinados a colmatar o atual défice nas despesas com a defesa.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Festival de Vilar de Mouros regressa em 2027",
+      "link": "https://www.rtp.pt/noticias/cultura/festival-de-vilar-de-mouros-regressa-em-2027_v1761110",
+      "pubDate": "Sun, 23 Aug 2026 15:26:47 +0100",
+      "description": "Terminou, esta madrugada, o Festival de Vilar de Mouros. O rock e o metal dominaram o último de cinco dias de música.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be4a48f42f35730701088b894cd02b9d_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Ex-ministro da Defesa diz que Presidente deve responder por casos de corrupção",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ex-ministro-da-defesa-diz-que-presidente-deve-responder-por-casos-de-corrupcao_n1761097",
-      "pubDate": "Sun, 23 Aug 2026 15:25:58 +0100",
-      "description": "O ex-ministro da Defesa da Ucrânia Mykhailo Fedorov afirmou hoje que o Presidente ucraniano deve &quot;responder&quot; pelos alegados casos de corrupção no seu Governo e reafirmou a necessidade de eleições.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Aktürkoglu recebe alta na segunda-feira mas terá de esperar até jogar",
+      "link": "https://maisfutebol.iol.pt/internacional/akturkoglu/akturkoglu-recebe-alta-na-segunda-feira-mas-tera-de-esperar-ate-jogar",
+      "pubDate": "Sun, 23 Aug 2026 14:33:00 +0100",
+      "description": "Ex-Benfica desmaiou durante partida do Fenerbahçe e foi levado de urgência para o hospital",
+      "thumbnail": "https://img.iol.pt/image/id/69d2b994d34e28842c828db2/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Poster Mostra em Marvila",
-      "link": "https://www.rtp.pt/noticias/cultura/poster-mostra-em-marvila_v1761109",
-      "pubDate": "Sun, 23 Aug 2026 15:24:46 +0100",
-      "description": "Marvila tem uma exposição ao ar livre. Há 40 obras afixadas na parede de uma rua. São posters de artistas nacionais e internacionais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e3b0439e112e148bf474ee466f0ebdb5_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Várias espécies de cetáceos avistados no Algarve",
-      "link": "https://www.rtp.pt/noticias/pais/varias-especies-de-cetaceos-avistados-no-algarve_v1761108",
-      "pubDate": "Sun, 23 Aug 2026 15:22:47 +0100",
-      "description": "Nunca se viram tantas baleias, ao largo de Faro. Algumas tropicais, um fenómeno que está a ser estudado. Também foram avistados, pela primeira vez, cachalotes nas águas do Algarve.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/18/1815c95f49f6000565736f24c9b5cda9_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tiago Macena é o primeiro português \"Master of Wine\"",
-      "link": "https://www.rtp.pt/noticias/pais/tiago-macena-e-o-primeiro-portugues-master-of-wine_v1761106",
-      "pubDate": "Sun, 23 Aug 2026 15:20:47 +0100",
-      "description": "É o único a receber, em Portugal, a distinção de &quot;Master of Wine&quot;. O enólogo Tiago Macena faz carreira na região demarcada do Dão.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d3/d3272768527b857924d534aa52de3bfa_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "II Liga: Chaves e AVS empatam em Trás-os-Montes",
+      "link": "https://maisfutebol.iol.pt/ii-liga/desportivo-chaves/ii-liga-chaves-e-avs-empata-em-tras-os-montes",
+      "pubDate": "Sun, 23 Aug 2026 14:30:00 +0100",
+      "description": "Equipas seguem sem conseguir ganhar nesta temporada",
+      "thumbnail": "https://img.iol.pt/image/id/6a8af60cd34e511da0b34b26/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 12:44:00 +0100",
       "description": "Dragões conquistam prémio no escalão de iniciados após goleada sobre os leões",
       "thumbnail": "https://img.iol.pt/image/id/64884dd9d34ea91b0aad7f9b/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Debast: «Após meses longe do relvado, finalmente voltei a sentir isto...»",
-      "link": "https://maisfutebol.iol.pt/sporting/debast/debast-apos-meses-longe-do-relvado-finalmente-voltei-a-sentir-isto",
-      "pubDate": "Sun, 23 Aug 2026 12:21:24 +0100",
-      "description": "Defesa belga lesionou-se em maio e só regressou agora à competição",
-      "thumbnail": "https://img.iol.pt/image/id/6a6a3d8ed34e511da0b307b5/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atenção, Benfica: diretor desportivo do Bayern explica viagem de Palhinha a Lisboa",
-      "link": "https://maisfutebol.iol.pt/internacional/bayern-munique/atencao-benfica-diretor-desportivo-do-bayern-explica-viagem-de-palhinha-a-lisboa",
-      "pubDate": "Sun, 23 Aug 2026 12:21:00 +0100",
-      "description": "Médio está prestes a ser reforço dos encarnados, faltando apenas acertar os últimos detalhes",
-      "thumbnail": "https://img.iol.pt/image/id/6a71e2b0d34e511da0b318a1/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Portugal soma nova derrota no Europeu feminino ao perder com Bélgica",
-      "link": "https://www.noticiasaominuto.com/desporto/3040288/portugal-soma-nova-derrota-no-europeu-feminino-ao-perder-com-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:26:08",
+      "title": "Um dos desaparecidos do incêndio em restaurante na Suíça encontrado vivo",
+      "link": "https://www.noticiasaominuto.com/mundo/3040294/um-dos-desaparecidos-do-incendio-em-restaurante-na-suica-encontrado-vivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:49:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/19346298.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af822a5762.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjo3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODY0LCJjcm9wSGVpZ2h0IjoxNTM2LCJjcm9wWCI6NjEwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Não, não é mentira. Erling Haaland cortou mesmo o cabelo",
-      "link": "https://www.noticiasaominuto.com/desporto/3040287/nao-nao-e-mentira-erling-haaland-cortou-mesmo-o-cabelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:23:20",
+      "title": "Treinador do Gil espera Casa Pia a querer reagir à goleada sofrida",
+      "link": "https://www.noticiasaominuto.com/desporto/3040296/treinador-do-gil-espera-casa-pia-a-querer-reagir-a-goleada-sofrida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:46:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af2c1c69fa.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47504391.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sindicato preocupado com número de estudantes pobres colocados",
-      "link": "https://www.noticiasaominuto.com/pais/3040283/sindicato-preocupado-com-numero-de-estudantes-pobres-colocados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:22:13",
+      "title": "Adolescente palestiniano morto pelo exército israelita na Cisjordânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3040293/adolescente-palestiniano-morto-pelo-exercito-israelita-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:39:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6897286a00852.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk4NCwiY3JvcEhlaWdodCI6MTc0OSwiY3JvcFgiOjEyMzgsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af8295f39f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Prisão preventiva para três dos oito detidos em Rabo de Peixe",
-      "link": "https://www.noticiasaominuto.com/pais/3040281/prisao-preventiva-para-tres-dos-oito-detidos-em-rabo-de-peixe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:18:25",
+      "title": "Tempestade no Báltico causa dois mortos, cortes de eletricidade e danos",
+      "link": "https://www.noticiasaominuto.com/mundo/3040279/tempestade-no-baltico-causa-dois-mortos-cortes-de-eletricidade-e-danos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:34:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88ba1a32dee.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM5NSwiY3JvcEhlaWdodCI6NzAzLCJjcm9wWCI6MTg0LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_697239a6eaaf2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Casa Pia quer subir moral com melhorias coletivas e a aprender com erros",
-      "link": "https://www.noticiasaominuto.com/desporto/3040274/casa-pia-quer-subir-moral-com-melhorias-coletivas-e-a-aprender-com-erros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:14:59",
+      "title": "Adiado fogo de artifício da Romaria d'Agonia por causa do mau tempo",
+      "link": "https://www.noticiasaominuto.com/pais/3040289/adiado-fogo-de-artificio-da-romaria-dagonia-por-causa-do-mau-tempo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:30:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af234273a8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_659280cc6b0c4.webp"
     },
     {
       "sourceId": "pplware",
