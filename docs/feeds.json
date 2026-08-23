@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-23T20:47:18.246280+00:00",
+  "updated": "2026-08-23T21:16:58.258676+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Raphael Glucksmann é candidato às presidenciais francesas",
+      "link": "https://observador.pt/2026/08/23/eurodeputado-raphael-glucksmann-anuncia-candidatura-as-eleicoes-presidenciais-de-franca/",
+      "pubDate": "Sun, 23 Aug 2026 22:04:01 +0100",
+      "description": "O candidato afirmou que se ganhar as primárias não fará um acordo com o partido de esquerda França Insubmissa (LFI na sigla em francês) e abriu a porta aos ecologistas e aos comunistas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23212732/47220940.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -40,16 +50,6 @@
       "pubDate": "Sun, 23 Aug 2026 21:31:17 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Palácio Real norueguês diz que saúde do rei Harald \"piorou\"",
-      "link": "https://observador.pt/2026/08/23/palacio-real-noruegues-anuncia-que-saude-do-rei-harald-piorou/",
-      "pubDate": "Sun, 23 Aug 2026 20:17:42 +0100",
-      "description": "Os novos problemas de saúde surgem numa altura em que a família real norueguesa está envolvida em vários escândalos nos últimos meses, particularmente envolvendo a princesa herdeira, Mette-Marit.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23200358/44741175.jpg"
     },
     {
       "sourceId": "rtp",
@@ -105,6 +105,26 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
+      "title": "VÍDEO: Ruben Amorim entra a vencer na liga italiana pelo Milan",
+      "link": "https://maisfutebol.iol.pt/internacional/ruben-amorim/video-ruben-amorim-entra-a-vencer-na-liga-italiana-pelo-milan",
+      "pubDate": "Sun, 23 Aug 2026 22:05:00 +0100",
+      "description": "Triunfo por 2-1 na visita ao Torino. Atalanta consegue o mesmo resultado ante o Sassuolo",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b5fdbd34e511da0b34c43/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Ferran Torres salta do banco para salvar PSG no arranque do campeonato",
+      "link": "https://maisfutebol.iol.pt/franca/internacional/video-ferran-torres-salta-do-banco-para-salvar-o-psg-no-arranque-do-campeonato",
+      "pubDate": "Sun, 23 Aug 2026 21:47:00 +0100",
+      "description": "Espanhol foi o autor de um bis no empate a dois golos com o Rennes",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b5c14d34ed0733ba8146c/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
       "title": "SAD do Estrela da Amadora vendida a grupo de Müller, Hummels e Sommer",
       "link": "https://maisfutebol.iol.pt/estrela-amadora/sad/sad-do-estrela-da-amadora-vendida-a-grupo-de-muller-hummels-e-sommer",
       "pubDate": "Sun, 23 Aug 2026 21:26:00 +0100",
@@ -132,80 +152,20 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8b3a8ad34ed0733ba81414/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sporting bate Benfica na Supertaça e conquista o 11.º título nacional seguido no andebol",
-      "link": "https://maisfutebol.iol.pt/modalidades/sporting/sporting-bate-benfica-na-supertaca-e-conquista-o-11-titulo-nacional-seguido-no-andebol",
-      "pubDate": "Sun, 23 Aug 2026 20:46:00 +0100",
-      "description": "Leões vencem por 31-24. Mohamed Aly destacou-se na baliza e também fez golo, Francisco Costa foi o melhor marcador",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b4c16d34ed0733ba8143d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Santa Clara-Famalicão, 1-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/santa-clara/santa-clara-famalicao-1-0-cronica",
-      "pubDate": "Sun, 23 Aug 2026 20:08:00 +0100",
-      "description": "Paciência vale mais três pontos",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b3a7bd34e511da0b34bdc/250"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Um Trump, oito Lulas, 20 Bolsonaros e muito mais bizarrices nas eleições do Brasil",
-      "link": "https://sapo.pt/artigo/um-trump-oito-lulas-20-bolsonaros-e-muito-mais-bizarrices-nas-eleicoes-do-brasil-6a8b199457577bfcb514ad0e",
-      "pubDate": "Sun, 23 Aug 2026 17:07:32 +0000",
-      "description": "Os brasileiros vão poder votar em sósias, super-heróis, músicos estrangeiros e muito mais num festival de alcunhas para todos os gostos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3ATZTMxJG3WjUKDUJJ86%2Bl9iliRMFP3R1zVSxpR3AYJb1gbxMQ%2F7b7lU36iJEZ69SLT9mUB0KQvn0v6d8t00jJeb0uLBJMVlzkZevYajSrikmfM7aXh9QX8D7ImTCanvh4"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Irão anuncia grandes reservas de gás no sul do país em plena “guerra económica” com os EUA",
-      "link": "https://sapo.pt/artigo/irao-anuncia-grandes-reservas-de-gas-no-sul-do-pais-em-plena-guerra-economica-com-os-eua-6a8b32579b79793efa4fcdb4",
-      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
-      "description": "O Irão anunciou a descoberta de 7,5 biliões de pés cúbicos de gás natural na província de Fars, no sul do país, numa altura de forte tensão com os Estados Unidos. Teerão estima que poderá extrair cerca de 5,7 biliões de pés cúbicos, reforçando as...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ArW%2BW4y%2BOsjZRUnFyI7tsBqz04US4clyw83DcesW1NyIBQNBrxqGbYDIBWM0PmYXkOa3hzUKwYG54eMclsD8E1Zkgnfo7lbmjP59UByjQBaNCmVoNc1C%2BYizuslipJNLD"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Bruxelas quer travar a pornografia infantil. As mensagens já estão a ser vigiadas?",
-      "link": "https://eco.sapo.pt/descodificador/bruxelas-quer-travar-a-pornografia-infantil-as-mensagens-ja-estao-a-ser-vigiadas/",
-      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
-      "description": "A proposta da UE pode obrigar aplicações como o WhatsApp a detetar conteúdos suspeitos nas mensagens privadas. O que já está em vigor e o que continua por decidir?",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ANibFCNI0HdQi8LKgryCqVq1VnT8xja4bNcXGE5lJWXGy9eILZUolkiXeSPubXIcSi9OkJqdL74FM7hG4oYZTdkcwpwuE5wgxEo0r%2BEmSwDvTaGl6TC4B1Y3%2BcKP5ewGY"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Chuva forte provoca desabamento parcial de teto no Oeiras Parque",
-      "link": "https://sapo.pt/artigo/chuva-forte-provoca-desabamento-parcial-de-teto-no-oeiras-parque-6a8b238c9b79793efa4e79f8",
-      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
-      "description": "Incidente não causou feridos, mas obrigou ao encerramento de lojas. Proteção Civil já tinha alertado para o impacto da precipitação e risco de inundações urbanas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=421&W=750&crop=center&delay_optim=1&epic=V2%3AgS3w7z36E1XBEKrw5Ev1iLqU7HnPHBtQUA0oSrD49I2B4rPkbeo9mgrzA35HRiKWwev912dKvh2lak1kTyL%2BzG4%2BKHqcj%2B0FUG3TJ3wo4zaVmmMVWHKZlNHlQUyb4wpn"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Centenas de pessoas marcham em Lisboa para assinalar 35 anos de independência da Ucrânia",
-      "link": "https://jornaleconomico.sapo.pt/noticias/centenas-de-pessoas-marcham-em-lisboa-para-assinalar-35-anos-de-independencia-da-ucrania/",
-      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
-      "description": "Foram também organizadas marchas nas cidades do Funchal, Faro e Porto, todas promovidas pela Associação dos Ucranianos em Portugal.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A4cZCD1g1KrWmSMV0A4c7eJXVknocN%2FZeTzCgW1GBoCCwAvEGeLcZIJksq2R3Ry4CDyxdVHxd8q19NZd2iciBI%2BgEOVZKugUnIfvyCJZ5MqcZcdVW%2BIzJCk3Pdp7HggYv"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Suspensas buscas aquáticas por homem desaparecido na albufeira de Alqueva",
+      "link": "https://www.noticiasaominuto.com/pais/3040380/suspensas-buscas-aquaticas-por-homem-desaparecido-na-albufeira-de-alqueva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 21:47:41",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64d771f82846b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "N.ºde mortos em deslizamento num aterro sanitário em Conacri sobe para 30",
+      "title": "N.º de mortos em deslizamento em aterro sanitário em Conacri sobe para 30",
       "link": "https://www.noticiasaominuto.com/mundo/3040381/nde-mortos-em-deslizamento-num-aterro-sanitario-em-conacri-sobe-para-30#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-23 21:46:00",
       "description": "",
@@ -240,16 +200,6 @@
       "pubDate": "2026-08-23 21:26:52",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b578f9042d.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Hamas atribui lançamentos para Israel a brincadeiras de crianças",
-      "link": "https://www.noticiasaominuto.com/mundo/3040375/hamas-atribui-lancamentos-para-israel-a-brincadeiras-de-criancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 21:25:11",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67a650a58602e.webp"
     },
     {
       "sourceId": "pplware",
