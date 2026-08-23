@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-23T04:32:05.434192+00:00",
+  "updated": "2026-08-23T05:24:37.827434+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2472/",
+      "pubDate": "Sun, 23 Aug 2026 06:14:30 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Será que a palavra \"roubo\" pode ser usada no bom sentido?",
+      "link": "https://observador.pt/programas/portugues-suave/sera-que-a-palavra-roubo-pode-ser-usada-no-bom-sentido/",
+      "pubDate": "Sun, 23 Aug 2026 06:03:48 +0100",
+      "description": "Porque é que os brasileiros dizem “Copa”? E de onde veio o famoso “ão” português? Marco Neves responde a estas dúvidas e ainda explica como “roubar” pode, em certos casos, ser usado num bom sentido.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Vale tudo na caça à multa? Até usar um disfarce de arbusto?",
+      "link": "https://observador.pt/programas/operacao-stop/vale-tudo-na-caca-a-multa-ate-usar-um-disfarce-de-arbusto/",
+      "pubDate": "Sun, 23 Aug 2026 06:02:26 +0100",
+      "description": "Na ânsia de apanhar condutores a prevaricar, alguns polícias levam a\n\ndedicação ao extremo. Um, em vez de se esconder atrás de um arbusto,\n\nvestiu-se como tal (só) para apanhar condutores em infracção.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A Segurança Social é uma “ilusão”? — Ouvintes",
+      "link": "https://observador.pt/programas/fora-do-baralho/a-seguranca-social-e-uma-ilusao-ouvintes/",
+      "pubDate": "Sun, 23 Aug 2026 06:02:25 +0100",
+      "description": "No Fora do Baralho especial ouvintes, Luís Aguiar-Conraria responde aos ouvintes sobre o tema das pensões e da Segurança Social, mas também à “passagem” de politécnicos a universidades.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Trump volta a repetir que o Estreito de Ormuz é dos EUA",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2379/",
-      "pubDate": "Sun, 23 Aug 2026 04:15:15 +0100",
-      "description": "Já o Irão afirma que todos os países que se juntarem aos EUA nas novas sanções económicas a Teerão vão passar a ser considerados inimigos. Ainda, o FCP recebe este domingo o Arouca.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. PCP desafia PS a não viabilizar o OE",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2414/",
-      "pubDate": "Sun, 23 Aug 2026 03:14:16 +0100",
-      "description": "O secretário-geral dos comunistas diz que uma eventual viabilização da parte do PS encosta o partido às decisões do governo. Ainda, entrou em fase de resolução o incêndio em Santarém.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Entrou em fase de resolução o incêndio de Santarém",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2388/",
-      "pubDate": "Sun, 23 Aug 2026 02:13:49 +0100",
-      "description": "Ainda assim, no terreno estão cerca de 500 operacionais em operações de rescaldo. Ainda, o Futebol Clube do Porto vai receber o Arouca amanhã.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Incêndios. Há a esta hora 2 fogos ativos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2361/",
-      "pubDate": "Sun, 23 Aug 2026 01:14:51 +0100",
-      "description": "O incêndio em Santarém é o que mobiliza mais meios. Ainda, o Sporting venceu o Alverca por 3-1 em Alvalade a contar para a terceira jornada do campeonato.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h Fogos de Abrantes e Santa Marta de Penaguião em resolução",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogos-de-abrantes-e-santa-marta-de-penaguiao-em-resolucao_a1_1761067",
+      "pubDate": "Sun, 23 Aug 2026 07:18:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -88,16 +98,6 @@
       "title": "2h Está em fase de resolução o fogo em Santa Marta de Penaguião",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-esta-em-fase-de-resolucao-o-fogo-em-santa-marta-de-penaguiao_a1_1761053",
       "pubDate": "Sun, 23 Aug 2026 03:16:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h 1300 bombeiros continuam envolvidos em combates a incêndios",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-1300-bombeiros-continuam-envolvidos-em-combates-a-incendios_a1_1761050",
-      "pubDate": "Sun, 23 Aug 2026 02:15:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Preços do ouro e bitcoin disparam com venda de dólares e dívida dos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3040170/precos-do-ouro-e-bitcoin-disparam-com-venda-de-dolares-e-divida-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 06:10:13",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46481636.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Inflação energética na América Latina atingiu nível mais elevado de 2026",
+      "link": "https://www.noticiasaominuto.com/economia/3040169/inflacao-energetica-na-america-latina-atingiu-nivel-mais-elevado-de-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 06:06:52",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47637705.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Fogo em Abrantes controlado: \"Já cedeu aos meios\"",
+      "link": "https://www.noticiasaominuto.com/pais/3040174/fogo-em-abrantes-controlado-ja-cedeu-aos-meios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 06:05:45",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47637804.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "FC Porto-Arouca: Dragão vai ferver em duelo que vale liderança isolada",
+      "link": "https://www.noticiasaominuto.com/desporto/3040046/fc-porto-arouca-dragao-vai-ferver-em-duelo-que-vale-lideranca-isolada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 06:01:28",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a087c5dccf0b.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
       "link": "https://www.noticiasaominuto.com/desporto/3040017/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-22 23:58:10",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6946b70119a05.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Mourinho defende Vinícius: \"Ele não é um santo, mas o que lhe fazem...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040160/mourinho-defende-vinicius-ele-nao-e-um-santo-mas-o-que-lhe-fazem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:56:18",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a29a511584.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjc2fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Se PS viabilizar Orçamento do Estado \"vai libertar o Chega de vir a jogo\"",
-      "link": "https://www.noticiasaominuto.com/politica/3040158/se-ps-viabilizar-orcamento-do-estado-vai-libertar-o-chega-de-vir-a-jogo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:53:39",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66a7e08580cac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjAsImNyb3BIZWlnaHQiOjQwNSwiY3JvcFgiOjAsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Robôs chineses batem recordes humanos na prova de 100m e salto em altura",
-      "link": "https://www.noticiasaominuto.com/tech/3040154/robos-chineses-batem-recordes-humanos-na-prova-de-100m-e-salto-em-altura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:41:00",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a266868edf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTk5LCJjcm9wSGVpZ2h0Ijo2NzQsImNyb3BYIjotMiwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ3NCwiY3JvcEhlaWdodCI6ODQzLCJjcm9wWCI6MjM1LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Real Madrid fechou triunfo ao cair do pano e reação de Mourinho diz tudo",
-      "link": "https://www.noticiasaominuto.com/desporto/3040155/real-madrid-fechou-triunfo-ao-cair-do-pano-e-reacao-de-mourinho-diz-tudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-22 23:38:55",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a24e6998cb.webp"
     },
     {
       "sourceId": "pplware",
