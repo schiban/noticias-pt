@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-23T14:48:09.542994+00:00",
+  "updated": "2026-08-23T15:17:44.761291+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Presidente da Ucrânia contra eleições sem um cessar-fogo",
+      "link": "https://observador.pt/2026/08/23/presidente-da-ucrania-contra-eleicoes-sem-um-cessar-fogo/",
+      "pubDate": "Sun, 23 Aug 2026 16:00:30 +0100",
+      "description": "O Presidente ucraniano respondeu ao apelo do ex-ministro da Defesa Fedorov, que pediu eleições. Apenas 15% dos ucranianos querem votar antes do fim da guerra.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23112640/47650165.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Em Lisboa testam-se fármacos do futuro contra cancro",
+      "link": "https://observador.pt/especiais/consorcio-internacional-que-escolheu-lisboa-para-ensaios-clinicos-inovadores-contra-o-cancro-quer-tratar-mais-doentes/",
+      "pubDate": "Sun, 23 Aug 2026 15:52:19 +0100",
+      "description": "O START Lisboa, no Hospital de Santa Maria, já recebeu 12 ensaios clínicos desde dezembro de 2024. Em entrevista ao Observador, o diretor clínico, André Mansinho, explica como funciona o processo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2731:1532:nowe:0:1471/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20165523/start-lisbon-treatment-room-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "GNR apreende cinco toneladas de haxixe no Guadiana",
+      "link": "https://observador.pt/2026/08/23/gnr-apreende-cinco-toneladas-de-droga-e-detem-sete-pessoas-em-operacao-no-algarve/",
+      "pubDate": "Sun, 23 Aug 2026 15:51:36 +0100",
+      "description": "Operação de vigilância costeira no Algarve envolveu meios terrestres, marítimos e aéreos. Detidos têm entre 21 e 39 anos e são todos de nacionalidade estrangeira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/08/19104021/26733514_770x433_acf_cropped-1.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,84 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23134951/43944962.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Três detidos em preventiva após operação em Rabo de Peixe",
-      "link": "https://observador.pt/2026/08/23/prisao-preventiva-para-tres-dos-oito-detidos-na-vila-acoriana-de-rabo-de-peixe/",
-      "pubDate": "Sun, 23 Aug 2026 15:19:30 +0100",
-      "description": "PSP apreendeu mais de 7.000 doses de cocaína, haxixe e liamba e quase 18.500 euros. Populares atacaram viaturas policiais com pedras, forçando seis tiros de advertência.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23121021/45429430.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Casa Pia quer esquecer o 7-0 em Barcelos",
-      "link": "https://observador.pt/2026/08/23/casa-pia-quer-subir-moral-com-melhorias-coletivas-e-a-aprender-com-erros/",
-      "pubDate": "Sun, 23 Aug 2026 15:15:56 +0100",
-      "description": "Filipe Coelho reconhece falhas defensivas após a pesada derrota com o Benfica e aposta em dois novos reforços para a terceira jornada da I Liga.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23141639/47582030.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 15h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2434/",
-      "pubDate": "Sun, 23 Aug 2026 15:13:59 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Robôs dos Jogos de Pequim estão mais rápidos e fortes, mas avanços trazem novas dificuldades",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/robos-dos-jogos-de-pequim-estao-mais-rapidos-e-fortes-mas-avancos-trazem-novas-dificuldades_d1761124",
+      "pubDate": "Sun, 23 Aug 2026 17:15:32 +0100",
+      "description": "Os robôs humanoides estão a correr mais depressa, saltam mais alto e batem com mais força desde a primeira edição dos Jogos de Pequim, há um ano, mas os avanços revelaram novas formas como travar.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/70/70ade543a967e6169ebff6e37e7f1973?w=350&amp;q=50&amp;rect=0,460,4199,2302&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Taranto2026. Tiago Maciel dá terceira medalha à canoagem",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-tiago-maciel-da-terceira-medalha-a-canoagem_d1761120",
-      "pubDate": "Sun, 23 Aug 2026 16:46:25 +0100",
-      "description": "Tiago Maciel foi hoje segundo no C1 1.000 metros, conquistando a terceira medalha para a canoagem portuguesa em Taranto2026, onde a Missão lusa já soma sete medalhas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/310402b1d907c2305201de8729c307ab?w=350&amp;q=50&amp;rect=0,439,4713,2584&amp;auto=format"
+      "title": "Rabo de Peixe. Três de oito detidos em prisão preventiva",
+      "link": "https://www.rtp.pt/noticias/pais/rabo-de-peixe-tres-de-oito-detidos-em-prisao-preventiva_v1761126",
+      "pubDate": "Sun, 23 Aug 2026 17:14:47 +0100",
+      "description": "Ficaram em prisão preventiva, três dois oito detidos na quinta-feira em Rabo de Peixe, na Ilha de São Miguel.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/90/905fc608ab286101c3459a148b07506d_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Taranto2026. Canoísta Ana Brito conquista ouro no K1 500 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-canoista-ana-brito-conquista-ouro-no-k1-500-metros_d1761119",
-      "pubDate": "Sun, 23 Aug 2026 16:43:24 +0100",
-      "description": "Ana Brito conquistou hoje o ouro no K1 500 metros em Taranto2026, somando o segundo título e a quarta medalha para a canoagem portuguesa nesta edição dos Jogos do Mediterrâneo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d9a9ef78f33a500ff9619029863c3a40?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "title": "Golfista Tomás Gouveia termina em 53.º no Challenger da Finlândia",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/golfista-tomas-gouveia-termina-em-53o-no-challenger-da-finlandia_d1761123",
+      "pubDate": "Sun, 23 Aug 2026 16:58:27 +0100",
+      "description": "O golfista português Tomás Gouveia terminou hoje no grupo dos 53.ºs classificados no Challenge de Vierumäki, na Finlândia, uma competição ganha pelo alemão Dominic Foos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Harry Kane eleito o melhor futebolista na Alemanha, Kompany é o melhor treinador",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/harry-kane-eleito-o-melhor-futebolista-na-alemanha-kompany-e-o-melhor-treinador_d1761118",
-      "pubDate": "Sun, 23 Aug 2026 16:40:06 +0100",
-      "description": "O avançado internacional inglês Harry Kane, do Bayern Munique, foi eleito o melhor futebolista na Alemanha em 2025/26, enquanto o belga Vincent Kompany, também dos bávaros, o melhor treinador.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/69746030f9b6d849486105792da06d15?w=350&amp;q=50&amp;rect=0,0,4485,2459&amp;auto=format"
+      "title": "Taranto2026: Canoístas Iago Bebiano e André Moreira de prata no K2 500 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-canoistas-iago-bebiano-e-andre-moreira-de-prata-no-k2-500-metros_d1761122",
+      "pubDate": "Sun, 23 Aug 2026 16:50:49 +0100",
+      "description": "Os canoístas portugueses Iago Bebiano e André Moreira sagraram-se hoje vice-campeões em K2 500 metros nos Jogos do Mediterrâneo, somando a quinta medalha para a Missão lusa em Taranto2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fd/fd1940e12b6ef702325d59382b5f1114?w=350&amp;q=50&amp;rect=0,92,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "GP dos Países Baixos interrompido devido a acidente de Max Verstappen",
-      "link": "https://www.rtp.pt/noticias/motores/gp-dos-paises-baixos-interrompido-devido-a-acidente-de-max-verstappen_d1761117",
-      "pubDate": "Sun, 23 Aug 2026 16:36:51 +0100",
-      "description": "O Grande Prémio dos Países Baixos de Fórmula 1, 12.ª ronda da temporada, foi interrompido à segunda volta devido a um violento acidente sofrido pelo neerlandês Max Verstappen (Red Bull).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c03ca95b7a332bc422366d83a99fa47b?w=350&amp;q=50&amp;rect=0,86,2300,1261&amp;auto=format"
+      "title": "Taranto2026. Canoísta Bruno Brasileiro campeão no K1 1.000 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-canoista-bruno-brasileiro-campeao-no-k1-1000-metros_d1761121",
+      "pubDate": "Sun, 23 Aug 2026 16:47:51 +0100",
+      "description": "Bruno Brasileiro conquistou hoje o ouro no K1 1.000 metros, somando a segunda medalha para a canoagem nacional em Taranto2026 e o quarto título para Portugal nesta edição dos Jogos do Mediterrâneo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e487957b56686cb69e4520d6aa497df?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal soma nova derrota no Europeu feminino de voleibol ao perder com Bélgica",
-      "link": "https://www.rtp.pt/noticias/lusa/portugal-soma-nova-derrota-no-europeu-feminino-de-voleibol-ao-perder-com-belgica_d1761105",
-      "pubDate": "Sun, 23 Aug 2026 16:33:21 +0100",
-      "description": "A seleção portuguesa feminina de voleibol somou hoje a segunda derrota na edição de 2026 do Europeu, ao perder por 3-0 diante da Bélgica, em jogo da segunda jornada do Grupo C, realizado em Baku.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/74/74b3f268b46e0e798fcb413712ae04a1?w=350&amp;q=50&amp;rect=0,253,4272,2342&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Man. City frustra estreia de António Silva no Bournemouth nos descontos",
+      "link": "https://maisfutebol.iol.pt/internacional/manchester-city/video-man-city-frustra-estreia-de-antonio-silva-no-bournemouth-nos-descontos",
+      "pubDate": "Sun, 23 Aug 2026 16:09:00 +0100",
+      "description": "No outro duelo da tarde, tudo correu mal ao Aston Villa de Unai Emery",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b0cffd34e511da0b34b6d/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -142,114 +152,114 @@
       "thumbnail": "https://img.iol.pt/image/id/69d2b994d34e28842c828db2/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Chaves e AVS empatam em Trás-os-Montes",
-      "link": "https://maisfutebol.iol.pt/ii-liga/desportivo-chaves/ii-liga-chaves-e-avs-empata-em-tras-os-montes",
-      "pubDate": "Sun, 23 Aug 2026 14:30:00 +0100",
-      "description": "Equipas seguem sem conseguir ganhar nesta temporada",
-      "thumbnail": "https://img.iol.pt/image/id/6a8af60cd34e511da0b34b26/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Da pizza à cola na porta: os truques usados pelos okupas para encontrar casas vazias",
+      "link": "https://executivedigest.sapo.pt/da-pizza-a-cola-na-porta-os-truques-usados-pelos-okupas-para-encontrar-casas-vazias/",
+      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
+      "description": "Os chamados okupas, nome dado a quem ocupa ilegalmente imóveis, recorrem a diferentes métodos para identificar casas vazias, entrar nas propriedades e tentar prolongar a permanência no interior.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=414&W=738&crop=center&delay_optim=1&epic=V2%3AtTEjt0ZaNxzHrrO%2BvswjG2smMe8gOrUKTVxEH%2FFlmpU19G1WVAWiQmf0myuuIlcrbcD7TDfU5ffq%2BXbG5zDqZkAo%2FgzpvR8a2IvorP0mebb6mBNH7V1FfWxXXQZ%2FWNuN"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Seguro  pede \"mais atenção e investimento\" no interior",
-      "link": "https://sapo.pt/artigo/seguro-pede-mais-atencao-e-investimento-no-interior-6a8ad2bfd0cbd78bc7a60b1f",
-      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
-      "description": "O Presidente da República discursou em Vila Nova de Cerveira, onde visitou a Bienal Internacional de Arte, e alertou para o despovoamento e envelhecimento do interior.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ArcjEVhUNg7fxvCB2C8kbdDwpZ5QOS29rigo%2FsGXu2BZX5brCoOqY9UXd%2FLgK6e32EvkKzLnlcG%2Fq7p8JXl0YlUuEiuneIlLoM9fQ35xZRLJn2JWK6KsAYS5nhrKOk9pt"
+      "title": "Seguro sobre Neves: \"Cada um assuma a sua responsabilidade\"",
+      "link": "https://sapo.pt/artigo/seguro-sobre-neves-cada-um-assuma-a-sua-responsabilidade-6a8ae2f5d0cbd78bc7a8d099",
+      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
+      "description": "Presidente da República pede celeridade nas investigações e auditorias ao ministro da Administração Interna. E pede que cada orgão de soberania \"assuma a sua responsabilidade\" neste processo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ATQDJfh%2FTxHJWUzQ0nsje4vz3IIxFsn%2B8m8ivfsFMunT7HDH7zr7LpoyNI628kzwIviDJyKbXZI0pl9al%2FYrAwtxe%2FKeBH6GyiM3MrlO0Ccy8tMvoMNRriQB7xb03aCM1"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Feijóo exige que Sánchez decrete o confinamento em Ceuta devido ao \"risco sanitário\" de sarna e tuberculose",
-      "link": "https://sapo.pt/artigo/feijoo-exige-que-sanchez-decrete-o-confinamento-em-ceuta-devido-ao-risco-sanitario-de-sarna-e-tuberculose-6a8ad2919b79793efa457b5f",
-      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
-      "description": "Milhares de migrantes continuam nas ruas da cidade autónoma espanhola três semanas após a entrada em massa de mais de 70 mil, a 30 e 31 de julho.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AVRGVQIvHjtQnCA6EgRzk1AfS4lzzcvT%2B6gWEy9CzCLIL4C2LupgtfILZF1qrpXDpoTnzxGQRpz%2F3eR1dF7cf%2FAgduxXDP%2B8WgCdHo7spYLfdlBk1fbavDe4FQAdtv%2FgB"
+      "title": "Bombeiro ferido em Arouca que está em estado crítico vai ter nova cirurgia este domingo",
+      "link": "https://sapo.pt/artigo/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-este-domingo-6a8ae4f757577bfcb50d84e0",
+      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
+      "description": "Acidente aconteceu na quarta-feira de madrugada e feriu quatro operacionais da corporação de Arouca que combatiam um incêndio.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AoVwLFJGQ5EciCBHyh9MLOjj1Lu48jqYMsulxb2z4bCdxy2vpmGgP7HKUYkUvnCwDdvVv8dqCcFOxCunc3Dwl4QlgSUsxARub0UxvwwbpnOKzfHtTuT%2Ba92rELnxTEOEC"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Tarifas. Canadá vai \"responder dólar por dólar\" aos EUA",
-      "link": "https://sapo.pt/artigo/tarifas-canada-vai-responder-dolar-por-dolar-aos-eua-6a8aba6957577bfcb5033e9a",
-      "pubDate": "Sun, 23 Aug 2026 10:18:20 +0000",
-      "description": "As negociações entre EUA e Canadá caíram por terra, com os primeiros a pedir \"demasiado\", criticou Mark Carney. Canadá vai apostar em setores como aço, eletrónica e equipamento para agricultura.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3At0yDqbc5EwjI0nCblMuDNEfJjJFPeBpKc8masH2Oag7qopZOPTE%2BvU7aAPzDxbhXjztRUCBGcvO11yNyWFDButSwmkG9SxpfJphrTKyfyC%2FOUdP%2BWiXjnWMv3xCN4fX0"
+      "title": "Sobe para quatro número de mortos em incêndio num restaurante na Suíça",
+      "link": "https://sapo.pt/artigo/sobe-para-quatro-numero-de-mortos-em-incendio-num-restaurante-na-suica-6a8afaad9b79793efa4a739b",
+      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
+      "description": "Depois de no sábado terem sido encontrados dois corpos entre os escombros, outros dois foram encontrados este domingo, elevando para quatro o número de vítimas mortais",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AXDkiIullnh3ly4irgK5T0294MlM%2FN09N5l%2F%2Fw1dk8MQkMoAzBPyS803B9cTYd%2FtAq7RnPEzQN2f7R4AQ7sWBuHcVKM7w0eEKP4VCnP0vS6Ot28nvgwVnvO%2BNKMexokAi"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Quatro homens esfaqueados em Sacavém, suspeito está em fuga",
-      "link": "https://sapo.pt/artigo/quatro-homens-esfaqueados-em-sacavem-suspeita-esta-em-fuga-6a8ac78171773bd5d1c3d7ac",
-      "pubDate": "Sun, 23 Aug 2026 10:18:20 +0000",
-      "description": "Os três feridos graves foram transportados para hospitais diferentes na zona de Lisboa.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A3fVq56q78BH1yCja3IHs%2FOn2kpPCO7cI%2BSKYDwAJOKA68aqxumiNrBMXV5WfVjF%2BxRE8TDFTFpOwJH27O08R8aSLa4FphLZPh4de7396QuDNIgaImpJi4LPFnQful5JV"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Homem morre a praticar mergulho recreativo ao largo de praia",
-      "link": "https://sapo.pt/artigo/homem-morre-a-praticar-mergulho-recreativo-ao-largo-de-praia-6a8ad02f9b79793efa45361e",
-      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
-      "description": "Homem de 56 anos entrou em dificuldades durante mergulho recreativo a sul da praia dos Três Irmãos. INEM, Polícia Marítima e Bombeiros de Portimão foram ativados.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A1yLauTQ0tnfOchEnit3WyCSXrMaiP4l0uOjJRNaVqUqvalqXzZ0E%2F6ofQLRpx6vHraWZDwn6TIJNkdEpHm2FnL1MMGUnWq4NfcrIqdoa1RnJnvMCWyBOpuOyJVqnIGXw"
+      "title": "IA, refrigeração portátil e jardins de chuva: como o Japão se prepara para as alterações climáticas",
+      "link": "https://sapo.pt/artigo/ia-refrigeracao-portatil-e-jardins-de-chuva-como-o-japao-se-prepara-para-as-alteracoes-climaticas-6a8b04e771773bd5d1cf30fe",
+      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
+      "description": "Tóquio está a apostar em inteligência artificial para antecipar inundações, sistemas móveis de refrigeração para responder a ondas de calor e jardins de chuva para reduzir o risco de cheias.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=672&W=1195&crop=center&delay_optim=1&epic=V2%3AMFdhpXQQOAx2POEpbek%2BN1m2uoxJN9hDPnIhgEhy8KnwhyfYhhiL8%2F8aRJnvIwTA59oWiVSkqBQ45kRYJWSPz26WP4UGVXmqfDgl1xogri9esP6CG1KSF5mdouJDwDEG"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Fora!\". Adeptos do Al Ahli exigem saída de ex-Benfica Rui Pedro Braz",
-      "link": "https://www.noticiasaominuto.com/desporto/3040300/fora-adeptos-do-al-ahli-exigem-saida-de-ex-benfica-rui-pedro-braz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 15:35:08",
+      "title": "Robôs dos Jogos de Pequim estão mais rápidos e fortes, mas...",
+      "link": "https://www.noticiasaominuto.com/tech/3040304/robos-dos-jogos-de-pequim-estao-mais-rapidos-e-fortes-mas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 16:09:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b04ff476ff.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b0c6b5ec6a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "É chinesa a marca de carros elétricos com mais reclamações em Portugal",
-      "link": "https://www.noticiasaominuto.com/auto/3039137/e-chinesa-a-marca-de-carros-eletricos-com-mais-reclamacoes-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 15:27:18",
+      "title": "Putin afirma que tem combustíveis sob controlo apesar de ataques",
+      "link": "https://www.noticiasaominuto.com/mundo/3040305/putin-afirma-que-tem-combustiveis-sob-controlo-apesar-de-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 16:06:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a86ffc77a571.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzOSwiY3JvcEhlaWdodCI6MTY2OSwiY3JvcFgiOjU5OCwiY3JvcFkiOjE1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a14c58c30c06.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Vitória SC e Nacional abrem o dia... com o topo em discussão",
-      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 15:06:51",
+      "title": "\"Estava possuída. Fui assombrada a vida toda e fiz um exorcismo\"",
+      "link": "https://www.noticiasaominuto.com/fama/3038228/estava-possuida-fui-assombrada-a-vida-toda-e-fiz-um-exorcismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 16:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7759923415e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_690766e99743a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTgsImNyb3BZIjo2OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDQ2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3040189/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 15:06:48",
+      "title": "Grécia transfere mísseis antiaéreos para Creta face a risco de ataque",
+      "link": "https://www.noticiasaominuto.com/mundo/3040303/grecia-transfere-misseis-antiaereos-para-creta-face-a-risco-de-ataque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 15:59:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9169cee19.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b0aba54f25.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzM3LCJjcm9wSGVpZ2h0IjoxMzE1LCJjcm9wWCI6MCwiY3JvcFkiOjU3fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Delícia de chocolate branco: O doce que o deixa a babar e a pedir mais",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037723/delicia-de-chocolate-branco-o-doce-que-o-deixa-a-babar-e-a-pedir-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 15:00:56",
+      "title": "De loucos. City safa-se de derrota frente a António Silva ao cair do pano",
+      "link": "https://www.noticiasaominuto.com/desporto/3040302/de-loucos-city-safa-se-de-derrota-frente-a-antonio-silva-ao-cair-do-pano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 15:56:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8336295968e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODU0LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b06fd46246.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjk1OCwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Esta funcionalidade do Apple Watch pode indicar quando deve usar protetor solar",
+      "link": "https://pplware.sapo.pt/gadgets/iphone/esta-funcionalidade-do-apple-watch-pode-indicar-quando-deve-usar-protetor-solar/",
+      "pubDate": "Sun, 23 Aug 2026 15:00:09 +0000",
+      "description": "O Apple Watch inclui uma funcionalidade pouco conhecida que permite consultar o índice UV e perceber quando a exposição solar exige maior proteção, sem depender da sensação de calor. Como consultar o índice UV&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/indice_uv_apple_watch_apple.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 23 Aug 2026 11:00:24 +0000",
       "description": "A Bitcoin voltou a destacar-se nos mercados financeiros, registando uma forte valorização de cerca de 20% e aproximando-se dos 77.000 dólares, o equivalente a cerca de 67.000 euros. A que se deve a subida?&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/11/bitcoin00.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "IPMA coloca 14 distritos em aviso amarelo! Veja se o seu está na lista",
-      "link": "https://pplware.sapo.pt/informacao/ipma-coloca-14-distritos-em-aviso-amarelo-veja-se-o-seu-esta-na-lista/",
-      "pubDate": "Sun, 23 Aug 2026 10:06:10 +0000",
-      "description": "O tempo vai mudar este domingo em Portugal continental. O Instituto Português do Mar e da Atmosfera (IPMA) colocou 14 distritos sob aviso amarelo, devido à possibilidade de aguaceiros por vezes fortes e ocorrência&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2017/12/chuva_01.jpg"
     },
     {
       "sourceId": "autosport",
