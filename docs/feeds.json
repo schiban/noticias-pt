@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-23T06:33:52.650583+00:00",
+  "updated": "2026-08-23T07:29:52.159511+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2496/",
+      "pubDate": "Sun, 23 Aug 2026 08:13:32 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,64 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A Segurança Social é uma “ilusão”? — Ouvintes",
-      "link": "https://observador.pt/programas/fora-do-baralho/a-seguranca-social-e-uma-ilusao-ouvintes/",
-      "pubDate": "Sun, 23 Aug 2026 06:02:25 +0100",
-      "description": "No Fora do Baralho especial ouvintes, Luís Aguiar-Conraria responde aos ouvintes sobre o tema das pensões e da Segurança Social, mas também à “passagem” de politécnicos a universidades.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "IPMA coloca 14 distritos em aviso amarelo por risco de chuva e trovoada",
+      "link": "https://www.rtp.pt/noticias/pais/ipma-coloca-14-distritos-em-aviso-amarelo-por-risco-de-chuva-e-trovoada_n1761071",
+      "pubDate": "Sun, 23 Aug 2026 09:12:51 +0100",
+      "description": "O Instituto Português do Mar e da Atmosfera (IPMA) colocou hoje 14 distritos de Portugal continental em aviso amarelo por risco de aguaceiros por vezes fortes e trovoada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e29133641464e463c232169f8f338a1c?w=350&amp;q=50&amp;rect=0,61,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Preços do ouro e bitcoin disparam com venda de dólares e dívida recorde dos EUA",
-      "link": "https://www.rtp.pt/noticias/economia/precos-do-ouro-e-bitcoin-disparam-com-venda-de-dolares-e-divida-recorde-dos-eua_n1761052",
-      "pubDate": "Sun, 23 Aug 2026 08:25:33 +0100",
-      "description": "Os preços Bitcoin e do ouro dispararam esta semana, ambos impulsionados por movimentos intensos no mercado obrigacionista, enquanto a principal criptomoeda internacional beneficiou de iniciativas políticas e económicas nos Estados Unidos, reportou a Associated Press.",
+      "title": "Número de feridos de sismo em Tóquio sobre para 37",
+      "link": "https://www.rtp.pt/noticias/mundo/numero-de-feridos-de-sismo-em-toquio-sobre-para-37_n1761068",
+      "pubDate": "Sun, 23 Aug 2026 09:05:51 +0100",
+      "description": "O número de feridos causados por um sismo de magnitude 5,9 que atingiu hoje a região de Tóquio subiu para 37, informaram as autoridades nipónicas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Inflação energética na América Latina e Caraíbas atingiu nível mais elevado de 2026 em junho",
-      "link": "https://www.rtp.pt/noticias/economia/inflacao-energetica-na-america-latina-e-caraibas-atingiu-nivel-mais-elevado-de-2026-em-junho_n1761051",
-      "pubDate": "Sun, 23 Aug 2026 08:24:29 +0100",
-      "description": "A inflação energética na América Latina e Caraíbas atingiu 8,03% em junho, o nível mais elevado de 2026, impulsionada pela subida dos preços dos combustíveis e pela guerra no Médio Oriente, informou a Organização Latino-Americana e Caribenha de Energia (Olacde).",
+      "title": "Eurodeputado francês Raphael Glucksmann planeia anunciar candidatura às presidenciais",
+      "link": "https://www.rtp.pt/noticias/mundo/eurodeputado-frances-raphael-glucksmann-planeia-anunciar-candidatura-as-presidenciais_n1761066",
+      "pubDate": "Sun, 23 Aug 2026 09:04:28 +0100",
+      "description": "O eurodeputado francês Raphael Glucksmann deverá oficializar hoje a sua candidatura às presidenciais francesas, apresentando-se como representante de uma linha social-democrata e pró-União Europeia numa eleição em que a extrema-direita lidera as sondagens.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "7h Trovoada e chuva põem país sob alerta amarelo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-trovoada-e-chuva-poem-pais-sob-alerta-amarelo_a1_1761070",
-      "pubDate": "Sun, 23 Aug 2026 08:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Queda de estátua de sete metros na cidade indiana de Mumbai deixa dois mortos e cinco feridos",
+      "link": "https://www.rtp.pt/noticias/mundo/queda-de-estatua-de-sete-metros-na-cidade-indiana-de-mumbai-deixa-dois-mortos-e-cinco-feridos_n1761065",
+      "pubDate": "Sun, 23 Aug 2026 09:00:04 +0100",
+      "description": "Duas pessoas morreram e outras cinco ficaram feridas este sábado quando uma estátua de quase sete metros do deus hindu Ganesh caiu durante as celebrações da festividade em sua honra, na cidade indiana de Mumbai.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "6h Fogos de Abrantes e Santa Marta de Penaguião em resolução",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-fogos-de-abrantes-e-santa-marta-de-penaguiao-em-resolucao_a1_1761067",
-      "pubDate": "Sun, 23 Aug 2026 07:18:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h Em resolução os dois maiores fogos deste sábado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-em-resolucao-os-dois-maiores-fogos-deste-sabado_a1_1761063",
-      "pubDate": "Sun, 23 Aug 2026 06:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Nova jornada de ataques cruzados deixa nove mortos na Ucrânia e quatro na Rússia",
+      "link": "https://www.rtp.pt/noticias/mundo/nova-jornada-de-ataques-cruzados-deixa-nove-mortos-na-ucrania-e-quatro-na-russia_n1761064",
+      "pubDate": "Sun, 23 Aug 2026 08:56:35 +0100",
+      "description": "Pelo menos nove pessoas morreram sábado na Ucrânia em ataques com drones e mísseis russos, enquanto uma ofensiva ucraniana com drones na região russa de Krasnodar e na Crimeia provocou quatro mortos, incluindo duas crianças, segundo autoridades locais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/1472b258490df24871cb581a838f96ad?w=350&amp;q=50&amp;rect=0,232,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sporting instável finta dores de crescimento com três tiros e um regresso",
-      "link": "https://www.noticiasaominuto.com/desporto/3040157/sporting-instavel-finta-dores-de-crescimento-com-tres-tiros-e-um-regresso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 07:23:03",
+      "title": "Quebra da natalidade leva escolas de Macau a incluir alunos idosos",
+      "link": "https://www.noticiasaominuto.com/mundo/3040194/quebra-da-natalidade-leva-escolas-de-macau-a-incluir-alunos-idosos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:13:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0e65ad9b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo4OH0sInN0YW1wIjp7ImNhdGVnb3J5IjoiZGVzcG9ydG8iLCJsYWJlbCI6Im5vdGFzX2RvX2pvZ28iLCJjb2xvciI6ImJyYW5jbyIsInBvc2l0aW9uIjoidG9wLXJpZ2h0In0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxMSwiY3JvcEhlaWdodCI6MTc5NywiY3JvcFgiOjIzMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47464557.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3040189/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 07:21:24",
+      "title": "Risco de chuva e trovoada coloca 14 distritos sob aviso amarelo",
+      "link": "https://www.noticiasaominuto.com/pais/3040195/risco-de-chuva-e-trovoada-coloca-14-distritos-sob-aviso-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:12:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9169cee19.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b3ccad326ba.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preconceito marca alunos LGBTI+ nas escolas em Cabo Verde",
-      "link": "https://www.noticiasaominuto.com/mundo/3040188/preconceito-marca-alunos-lgbti-nas-escolas-em-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 07:18:25",
+      "title": "Cupra Leon: Estivemos ao volante da Tribe Edition do hot hatch",
+      "link": "https://www.noticiasaominuto.com/auto/3037441/cupra-leon-estivemos-ao-volante-da-tribe-edition-do-hot-hatch#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:10:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/33843393.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a884995014f3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "O rumor da semana: Chegada de Palhinha leva Benfica a sacrificar Ríos?",
-      "link": "https://www.noticiasaominuto.com/desporto/3040187/o-rumor-da-semana-chegada-de-palhinha-leva-benfica-a-sacrificar-rios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 07:18:00",
+      "title": "Ruben Amorim surpreende ao falar italiano e... acaba tudo a rir",
+      "link": "https://www.noticiasaominuto.com/desporto/3040193/ruben-amorim-surpreende-ao-falar-italiano-e-acaba-tudo-a-rir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:06:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8c7d2ea2f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9b7a89865.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Venezuela aciona protocolos de emergência devido a \"chuvas intensas\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3040176/venezuela-aciona-protocolos-de-emergencia-devido-a-chuvas-intensas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:55:22",
+      "title": "Tirar ou não tirar os sapatos? Eis o que um médico faz ao chegar a casa",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3038225/tirar-ou-nao-tirar-os-sapatos-eis-o-que-um-medico-faz-ao-chegar-a-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:04:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8b4c1545b.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8485bec2c99.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Robô humanoide pulveriza recorde mundial dos 100 metros! Adeus, Usain Bolt",
+      "link": "https://pplware.sapo.pt/high-tech/robo-humanoide-pulveriza-recorde-mundial-dos-100-metros-adeus-usain-bolt/",
+      "pubDate": "Sun, 23 Aug 2026 07:00:23 +0000",
+      "description": "O avanço da tecnologia acaba de cruzar uma fronteira histórica no desporto e na engenharia robótica. O robô humanoide Lightning, desenvolvido pela Honor, completou a prova dos 100 metros planos no tempo de 9,32&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/robo_recorde_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 19:30:47 +0000",
       "description": "Se trabalha regularmente com vídeo no Mac, há uma pequena funcionalidade do macOS que pode poupar algum tempo e até evitar a instalação de aplicações adicionais. O sistema operativo da Apple permite recodificar ficheiros&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/codificacao00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Governo lança aviso à população por causa do mau tempo",
-      "link": "https://pplware.sapo.pt/informacao/governo-lanca-aviso-a-populacao-por-causa-do-mau-tempo/",
-      "pubDate": "Sat, 22 Aug 2026 18:13:41 +0000",
-      "description": "Portugal continental prepara-se para uma mudança nas condições meteorológicas, com previsão de chuva por vezes forte e persistente, vento com rajadas e agitação marítima. Perante este cenário, o Governo deixa vários alertas e recomendações&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/mau_tempo.jpg"
     },
     {
       "sourceId": "autosport",
