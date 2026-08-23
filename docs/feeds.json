@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-23T17:44:14.514323+00:00",
+  "updated": "2026-08-23T18:22:14.803877+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 19h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2154/",
+      "pubDate": "Sun, 23 Aug 2026 19:12:47 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Piratas da Somália voltam com a guerra no Irão",
+      "link": "https://observador.pt/especiais/piratas-da-somalia-voltam-com-a-guerra-no-irao-eles-sao-oportunistas/",
+      "pubDate": "Sun, 23 Aug 2026 19:07:51 +0100",
+      "description": "Em 2012, a pirataria era um dos maiores perigos à circulação marítima, mas a ação global reduziu os ataques. Negócio da pirataria, porém, não desapareceu em terra e esperava apenas uma oportunidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2556:1439:nowe:4:191/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/20152554/GettyImages-576838578-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2407:1354:nowe:192:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23165909/captura-de-ecra-2026-08-23-as-165815.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 17h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2273/",
-      "pubDate": "Sun, 23 Aug 2026 17:12:26 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Varandas afasta regresso de Palhinha: “Não é a nossa estratégia investir dezenas de milhões num jogador de 31 anos”",
+      "link": "https://www.rtp.pt/noticias/sporting/varandas-afasta-regresso-de-joao-palhinha-nao-e-a-nossa-estrategia-investir-dezenas-de-milhoes-num-jogador-de-31-anos_d1761162",
+      "pubDate": "Sun, 23 Aug 2026 20:17:13 +0100",
+      "description": "Frederico Varandas confirmou este domingo que o Sporting esteve interessado no regresso de João Palhinha, mas garantiu que o clube leonino nunca avançaria para uma operação nos moldes exigidos pelo internacional português e pelo Bayern Munique.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a2/a27f100d9d12eb2ebbec7de46b7f32d9?w=350&amp;q=50&amp;rect=0,486,8192,4491&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Grécia transfere mísseis antiaéreos para Creta face ao risco",
-      "link": "https://observador.pt/2026/08/23/grecia-transfere-misseis-antiaereos-para-creta-face-ao-risco-de-um-ataque/",
-      "pubDate": "Sun, 23 Aug 2026 17:11:30 +0100",
-      "description": "A decisão surge depois de o jornal britânico Financial Times ter noticiado esta semana que o Irão está a avaliar a possibilidade de atacar bases com interesses norte-americanos na Europa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23162205/46627422.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Noruega. Agrava-se estado de saúde do Rei Harald, de 89 anos",
+      "link": "https://www.rtp.pt/noticias/mundo/noruega-agrava-se-estado-de-saude-do-rei-harald-de-89-anos_n1761160",
+      "pubDate": "Sun, 23 Aug 2026 20:06:29 +0100",
+      "description": "A saúde do rei Harald da Noruega, de 89 anos, que está hospitalizado devido a complicações relacionadas com uma doença sanguínea, &quot;piorou&quot; este fim de semana, anunciou este domingo o Palácio Real norueguês.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b9a776a28f1c2feaeceb57b08ae1e4a?w=350&amp;q=50&amp;rect=0,5,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Isaac Nader nono colocado nos 1.500 metros na etapa da Silésia da Liga Diamante",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/isaac-nader-nono-colocado-nos-1500-metros-na-etapa-da-silesia-da-liga-diamante_d1761155",
+      "pubDate": "Sun, 23 Aug 2026 19:41:01 +0100",
+      "description": "O atleta olímpico português Isaac Nader foi hoje nono classificado nos 1.500 metros na etapa da Silésia da Liga Diamante, na Polónia, enquanto Patrícia Silva terminou a prova homóloga feminina no 12.º lugar.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa66f86919373ae0591cab3313dae3dc?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,44 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb2e3a0430148b07586d7fd74593e0d3?w=350&amp;q=50&amp;rect=0,28,1536,842&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h Cobertura do Oeiras Parque desabou. Não há feridos a registar",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-cobertura-do-oeiras-parque-desabou-nao-ha-feridos-a-registar_a1_1761152",
-      "pubDate": "Sun, 23 Aug 2026 19:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Palhinha? Não íamos investir dezenas de milhões num jogador de 31 anos»",
+      "link": "https://maisfutebol.iol.pt/frederico-varandas/transferencias/palhinha-nao-iamos-investir-dezenas-de-milhoes-num-jogador-de-31-anos",
+      "pubDate": "Sun, 23 Aug 2026 19:11:00 +0100",
+      "description": "Frederico Varandas admite que o Sporting conversou com o jogador em finais de junho",
+      "thumbnail": "https://img.iol.pt/image/id/69b5ff15d34edcee7c61e311/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "António Morgado termina Volta à Alemanha no 19.º lugar, Nelson Oliveira em 22.º",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/antonio-morgado-termina-volta-a-alemanha-no-19o-lugar-nelson-oliveira-em-22o_d1761151",
-      "pubDate": "Sun, 23 Aug 2026 19:03:26 +0100",
-      "description": "O ciclista português António Morgado (UAE Emirates) terminou hoje no 19.º lugar a Volta à Alemanha, conquistada pelo companheiro de equipa mexicano Isaac Del Toro, após a quarta e última etapa, vencida pelo francês Paul Magnier (Soudal QuickStep).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Para desgosto de muitas pessoas, Suárez vai continuar no Sporting»",
+      "link": "https://maisfutebol.iol.pt/sporting/frederico-varandas/para-desgosto-de-muitas-pessoas-suarez-vai-continuar-no-sporting",
+      "pubDate": "Sun, 23 Aug 2026 18:50:00 +0100",
+      "description": "Frederico Varandas esclarece polémica em torno do goleador leonino, que garante não ter qualquer proposta",
+      "thumbnail": "https://img.iol.pt/image/id/6887bebfd34e3f0baea103e0/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Taranto2026. Irmãos Miguel e Filipe Frazão de bronze na espada",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-irmaos-miguel-e-filipe-frazao-de-bronze-na-espada_d1761150",
-      "pubDate": "Sun, 23 Aug 2026 18:55:43 +0100",
-      "description": "Os esgrimistas portugueses Miguel e Filipe Frazão conquistaram hoje o bronze na prova individual de espada nos Jogos do Mediterrâneo Taranto2026, ao perderem os seus assaltos nas meias-finais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6de98e6f3b6bc6d1497f7e52e6b06a5?w=350&amp;q=50&amp;rect=0,38,1536,842&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting avança para fechar a compra de guarda-redes brasileiro",
+      "link": "https://maisfutebol.iol.pt/mercado/sporting/sporting-avanca-para-fechar-a-compra-de-guarda-redes-brasileiro",
+      "pubDate": "Sun, 23 Aug 2026 18:49:00 +0100",
+      "description": "Kaique Pereira, ex-Nacional e Farense, vai custar um valor na ordem dos quatro milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/6a803b83d34e511da0b33737/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Julián Álvarez deixa relvado sozinho e é assobiado pelos adeptos",
+      "link": "https://maisfutebol.iol.pt/internacional/julian-alvarez/video-julian-alvarez-deixa-relvado-sozinho-e-e-assobiado-pelos-adeptos",
+      "pubDate": "Sun, 23 Aug 2026 18:42:00 +0100",
+      "description": "Momento aconteceu após o apito final do jogo com o Villarreal, enquanto o resto da equipa agradecia aos adeptos",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b30c2d34ed0733ba813f8/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -110,46 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 18:18:14 +0100",
       "description": "Treinador do V. Guimarães gostou da forma como a equipa geriu o resultado",
       "thumbnail": "https://img.iol.pt/image/id/6a8b1105d34ed0733ba813ab/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Hjulmand comete penálti e At. Madrid evita derrota reduzido a dez",
-      "link": "https://maisfutebol.iol.pt/internacional/atletico-madrid/video-hjulmand-comete-penalti-e-at-madrid-evita-derrota-reduzido-a-dez",
-      "pubDate": "Sun, 23 Aug 2026 18:18:00 +0100",
-      "description": "Antigo médio do Sporting foi titular pela primeira vez, ante o Villarreal. Equipa da casa abriu o marcador e fechou-o para evitar a derrota",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b2ae7d34e511da0b34bb6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "João Gião: «O resultado acaba por se ajustar porque o Vitória teve mais oportunidades»",
-      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/joao-giao-o-resultado-acaba-por-se-ajustar-porque-o-vitoria-teve-mais-oportunidades",
-      "pubDate": "Sun, 23 Aug 2026 18:13:00 +0100",
-      "description": "Treinador do Nacional saiu satisfeito com o desempenho da equipa apesar da derrota",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b10f6d34e511da0b34b75/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Bola soqueada por Maradona com a «Mão de Deus» leiloada por 2,8 milhões",
-      "link": "https://maisfutebol.iol.pt/internacional/diego-maradona/bola-soqueada-por-maradona-com-a-mao-de-deus-leiloada-por-2-8-milhoes",
-      "pubDate": "Sun, 23 Aug 2026 18:04:00 +0100",
-      "description": "Bola do emblemático golo da final do Mundial 1986 rende valor milionário",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b27f0d34e511da0b34bb2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Andebol feminino: Benfica conquista Supertaça pela sexta vez",
-      "link": "https://maisfutebol.iol.pt/modalidades/andebol/andebol-feminino-benfica-conquista-supertaca-pela-sexta-vez",
-      "pubDate": "Sun, 23 Aug 2026 17:51:11 +0100",
-      "description": "Águias não deram hipóteses ao Almeida Garrett na final disputada em Santo Tirso",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b24a4d34ed0733ba813e2/250"
     },
     {
       "sourceId": "sapo",
@@ -165,6 +165,26 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Irão anuncia grandes reservas de gás no sul do país em plena “guerra económica” com os EUA",
+      "link": "https://sapo.pt/artigo/irao-anuncia-grandes-reservas-de-gas-no-sul-do-pais-em-plena-guerra-economica-com-os-eua-6a8b32579b79793efa4fcdb4",
+      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
+      "description": "O Irão anunciou a descoberta de 7,5 biliões de pés cúbicos de gás natural na província de Fars, no sul do país, numa altura de forte tensão com os Estados Unidos. Teerão estima que poderá extrair cerca de 5,7 biliões de pés cúbicos, reforçando as...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ArW%2BW4y%2BOsjZRUnFyI7tsBqz04US4clyw83DcesW1NyIBQNBrxqGbYDIBWM0PmYXkOa3hzUKwYG54eMclsD8E1Zkgnfo7lbmjP59UByjQBaNCmVoNc1C%2BYizuslipJNLD"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Bruxelas quer travar a pornografia infantil. As mensagens já estão a ser vigiadas?",
+      "link": "https://eco.sapo.pt/descodificador/bruxelas-quer-travar-a-pornografia-infantil-as-mensagens-ja-estao-a-ser-vigiadas/",
+      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
+      "description": "A proposta da UE pode obrigar aplicações como o WhatsApp a detetar conteúdos suspeitos nas mensagens privadas. O que já está em vigor e o que continua por decidir?",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ANibFCNI0HdQi8LKgryCqVq1VnT8xja4bNcXGE5lJWXGy9eILZUolkiXeSPubXIcSi9OkJqdL74FM7hG4oYZTdkcwpwuE5wgxEo0r%2BEmSwDvTaGl6TC4B1Y3%2BcKP5ewGY"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Chuva forte provoca desabamento parcial de teto no Oeiras Parque",
       "link": "https://sapo.pt/artigo/chuva-forte-provoca-desabamento-parcial-de-teto-no-oeiras-parque-6a8b238c9b79793efa4e79f8",
       "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
@@ -175,31 +195,51 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Adeus Iowa, olá Carolina do Sul. Eleitores negros ganham força na luta democrata pela Casa Branca",
-      "link": "https://sapo.pt/artigo/adeus-iowa-ola-carolina-do-sul-eleitores-negros-ganham-forca-na-luta-democrata-pela-casa-branca-6a8b20609b79793efa4e205b",
-      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
-      "description": "Partido aprovou um novo calendário para as primárias de 2028 que visa testar os candidatos em estados-chave e num eleitorado cada vez mais diversificado.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=379&W=675&crop=center&delay_optim=1&epic=V2%3Af8N0ZZqNs4FutdARnqFZhB1hiWhinWFhqx3pfGqQjh5YCUspE98U%2FLnwD8LTCGck9VfHVxKr%2BEr7scxm0WA%2B0UPPLmUnhKLnyMmlEXA3Y9kPxWcm%2FzL0FJQkgaK%2Fw1UY"
+      "title": "Centenas de pessoas marcham em Lisboa para assinalar 35 anos de independência da Ucrânia",
+      "link": "https://jornaleconomico.sapo.pt/noticias/centenas-de-pessoas-marcham-em-lisboa-para-assinalar-35-anos-de-independencia-da-ucrania/",
+      "pubDate": "Sun, 23 Aug 2026 17:56:18 +0000",
+      "description": "Foram também organizadas marchas nas cidades do Funchal, Faro e Porto, todas promovidas pela Associação dos Ucranianos em Portugal.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A4cZCD1g1KrWmSMV0A4c7eJXVknocN%2FZeTzCgW1GBoCCwAvEGeLcZIJksq2R3Ry4CDyxdVHxd8q19NZd2iciBI%2BgEOVZKugUnIfvyCJZ5MqcZcdVW%2BIzJCk3Pdp7HggYv"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Zelensky rejeita eleições na Ucrânia durante a guerra e alerta para risco de divisão do país",
-      "link": "https://sapo.pt/artigo/zelensky-rejeita-eleicoes-na-ucrania-durante-a-guerra-e-alerta-para-risco-de-divisao-do-pais-6a8b113571773bd5d1d057e4",
-      "pubDate": "Sun, 23 Aug 2026 15:49:38 +0000",
-      "description": "O presidente ucraniano, Volodymyr Zelensky, considera que realizar eleições enquanto decorre a guerra com a Rússia representaria um sério risco para a estabilidade e a unidade da Ucrânia.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AHo9YDR0vKTSFlOX6XhJQ4Q8sGd4ugbGum8%2BXdZiNpHOkWjZfHA7Ew2cHTCs78zjGdNzrrxHzzkEMsF84lqy8D%2BheiF0Ir7gGFEUvSU8ieMtkprB%2FiVNalWdYKFxsic4s"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Sem Rodrigo Mora e com mexidas. Os onzes do FC Porto-Arouca",
+      "link": "https://www.noticiasaominuto.com/desporto/3040328/sem-rodrigo-mora-e-com-mexidas-os-onzes-do-fc-porto-arouca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 19:15:12",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a81cb702bd4c.webp"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Grécia transfere mísseis antiaéreos para Creta face ao risco",
-      "link": "https://sapo.pt/artigo/grecia-transfere-misseis-antiaereos-para-creta-face-ao-risco-6a8b1c63e58eb3a3e6a7fe7f",
-      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
-      "description": "A decisão surge depois de o jornal britânico Financial Times ter noticiado esta semana que o Irão está a avaliar a possibilidade de atacar bases com interesses norte-americanos na Europa.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AL5oHTqFUSuNhJVv%2FoB10YsIuwhWZQGz%2F%2FySKhj1xl3%2BOlEHEwZM%2BzRm086KGLdHCPxOsFqEkmUmFRtHi99C47JtcvVBcx%2Fl9zDaSqWyyGPF44ZvEzM5In0aaStJkHatW"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Antro de germes. 7 coisas que a maioria das pessoas se esquece de lavar",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3038758/antro-de-germes-7-coisas-que-a-maioria-das-pessoas-se-esquece-de-lavar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 19:00:08",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a85d764a8a07.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "\"Felicidades\". Bebé nasce em ambulância dos Bombeiros de Condeixa",
+      "link": "https://www.noticiasaominuto.com/pais/3040343/felicidades-bebe-nasce-em-ambulancia-dos-bombeiros-de-condeixa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:58:53",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b322917415.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjozOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTkzLCJjcm9wSGVpZ2h0IjoxMDU1LCJjcm9wWCI6NjU0LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Suárez, Morten Hjulmand, áudios e Palhinha. Varandas o quebra silêncio",
+      "link": "https://www.noticiasaominuto.com/desporto/3040342/sporting-varandas-e-a-polemica-com-suarez-para-desgosto-de-muitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:49:35",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6731f36e414bb.webp"
     },
     {
       "sourceId": "nam",
@@ -212,44 +252,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b2e7518d92.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Centenas em Lisboa para assinalar 35 anos de independência da Ucrânia",
-      "link": "https://www.noticiasaominuto.com/pais/3040341/centenas-em-lisboa-para-assinalar-35-anos-de-independencia-da-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:31:21",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47651904.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Portuguesa entre as vítimas mortais após incêndio em restaurante na Suíça",
-      "link": "https://www.noticiasaominuto.com/pais/3040336/portuguesa-entre-as-vitimas-mortais-apos-incendio-em-restaurante-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:25:42",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b2dd82d4bd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDcwLCJjcm9wSGVpZ2h0Ijo4MjcsImNyb3BYIjowLCJjcm9wWSI6NzUzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MzksImNyb3BIZWlnaHQiOjEzMTUsImNyb3BYIjoyNDEsImNyb3BZIjozODB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Guiné Conacri. Sobe para 22 n.º de mortos em desmoronamento de aterro",
-      "link": "https://www.noticiasaominuto.com/mundo/3040335/guine-conacri-sobe-para-22-n-de-mortos-em-desmoronamento-de-aterro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:06:54",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b1691dcac7.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "EM DIRETO: Santa Clara recebe Famalicão, antes do FC Porto-Arouca",
-      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 18:05:29",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_690e0b1af0c15.webp"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "EA SPORTS FC 27: Mbappé, novas formas de jogar e mudanças no futebol virtual",
+      "link": "https://pplware.sapo.pt/jogos/ea-sports-fc-27-mbappe-novas-formas-de-jogar-e-mudancas-no-futebol-virtual/",
+      "pubDate": "Sun, 23 Aug 2026 18:00:40 +0000",
+      "description": "A Electronic Arts está a preparar uma nova temporada para a sua principal série de futebol, e EA SPORTS FC 27 promete ser muito mais do que uma simples atualização anual. Venham conhecer o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/EASPORTSFC27_2.jpg"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,24 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/zz_top-1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Carros cheios de tecnologia: estudo reforça que não é isso que os condutores querem",
-      "link": "https://pplware.sapo.pt/motores/carros-cheios-de-tecnologia-estudo-reforca-que-nao-e-isso-que-os-condutores-querem/",
-      "pubDate": "Sun, 23 Aug 2026 13:00:44 +0000",
-      "description": "As fabricantes de automóveis têm apostado fortemente em ecrãs e tecnologia de bordo, mas um novo estudo reforça que os condutores parecem valorizar mais as funcionalidades discretas do que os sistemas mais vistosos. Quem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ecras_mercedes01.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "José Cautela Triunfa em Spa-Francorchamps e consolida liderança na ELMS",
+      "link": "https://www.autosport.pt/velocidade/jose-cautela-triunfa-em-spa-francorchamps-e-consolida-lideranca-na-elms/",
+      "pubDate": "Sun, 23 Aug 2026 17:35:09 +0000",
+      "description": "José Cautela conquistou o primeiro lugar na categoria LMP3 nas 4 Horas de Spa-Francorchamps, reforçando a sua liderança no campeonato European Le Mans Series (ELMS). Este triunfo mantém a Rinaldi Racing firmemente na corrida pelo título da temporada. José Cautela voltou a brilhar na European Le Mans",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "ELMS, Inter Europol Competition vence 4 Horas de Spa, José Cautela triunfa na LMP3",
+      "link": "https://www.autosport.pt/velocidade/elms-inter-europol-competition-vence-4-horas-de-spa-jose-cautela-triunfa-na-lmp3/",
+      "pubDate": "Sun, 23 Aug 2026 17:13:02 +0000",
+      "description": "A equipa Inter Europol Competition conquistou a vitória nas 4 Horas de Spa-Francorchamps, garantindo o regresso ao topo do pódio no European Le Mans Series (ELMS) pela primeira vez desde a prova de Le Castellet em 2024.A formação do Oreca #43, composta por Jakub Smiechowski, Nick Yelloly e Tom Dillm",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -329,26 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-kimi-antonelli-2o-alerta-para-ritmo-da-mclaren-deu-um-passo-gigante/",
       "pubDate": "Sun, 23 Aug 2026 15:51:23 +0000",
       "description": "Kimi Antonelli alcançou a segunda posição no Grande Prémio dos Países Baixos, terminando logo atrás do vencedor Lando Norris. O piloto italiano da Mercedes assumiu a liderança na fase inicial da prova no Circuito de Zandvoort, mas viu o seu ritmo cair a partir do segundo stint devido à falta de ader",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1, George Russell 3º: “Estou feliz por estar no pódio, já não acontecia há algum tempo”",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-george-russell-3o-estou-feliz-por-estar-no-podio-ja-nao-acontecia-ha-algum-tempo/",
-      "pubDate": "Sun, 23 Aug 2026 15:46:46 +0000",
-      "description": "George Russell conquistou a terceira posição no Grande Prémio dos Países Baixos, num desfecho marcado por ordens de equipa da Mercedes e por uma disputa intensa com os monolugares da Ferrari de Lewis Hamilton e Charles Leclerc. Depois de ter recebido instruções para ceder a posição ao colega Kimi An",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Segunda vitória consecutiva de Lando Norris e da McLaren",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-segunda-vitoria-consecutiva-de-lando-norris-e-da-mclaren/",
-      "pubDate": "Sun, 23 Aug 2026 15:22:00 +0000",
-      "description": "Em Zandvoort, o Grande Prémio dos Países Baixos transformou-se num verdadeiro filme de ação e alta velocidade: marcado pelo violento acidente de Max Verstappen logo na abertura, o evento desenrolou-se entre uma complexa teia de estratégias nas boxes e culminou numa ultrapassagem magistral de Lando N",
       "thumbnail": ""
     }
   ]
