@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-23T16:19:11.763089+00:00",
+  "updated": "2026-08-23T16:50:03.193479+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Acidente de Verstappen interrompe GP dos Países Baixos",
+      "link": "https://observador.pt/2026/08/23/acidente-de-max-verstappen-interrompe-grande-premio-dos-paises-baixos/",
+      "pubDate": "Sun, 23 Aug 2026 17:19:01 +0100",
+      "description": "Piloto da Red Bull bateu contra muros que delimitam o percurso e deixou destroços na pista. Saiu pelo próprio pé do carro e explicou que calculou mal a velocidade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2407:1354:nowe:192:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23165909/captura-de-ecra-2026-08-23-as-165815.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23162334/47651205.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "City de Rúben Dias vence Bournemouth de António Silva",
-      "link": "https://observador.pt/2026/08/23/do-seixal-para-manchester-ruben-apadrinhou-antonio-com-uma-vitoria-da-experiencia-cityzens-reagem-a-supertaca-e-arrancam-premier-a-vencer/",
-      "pubDate": "Sun, 23 Aug 2026 16:57:38 +0100",
-      "description": "Os 'cherries' abriram o marcador por Tavernier, com assistência de um velho conhecido do futebol português. Nos minutos finais, Guehi empatou e, depois dos 90', Gvardiol consumou a reviravolta.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:364/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23163937/gettyimages-2291159244-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Onze corpos de migrantes encontrados após naufrágio ao largo da Tunísia",
+      "link": "https://www.rtp.pt/noticias/mundo/onze-corpos-de-migrantes-encontrados-apos-naufragio-ao-largo-da-tunisia_n1761144",
+      "pubDate": "Sun, 23 Aug 2026 18:45:49 +0100",
+      "description": "A Guarda Nacional da Tunísia recuperou 11 corpos do mar Mediterrâneo depois do naufrágio de um barco que transportava 15 migrantes, continuando desaparecidas três pessoas, anunciou hoje esta polícia.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4246e00e343539f90f136ee2bf1cf79?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Grécia: Centenas de migrantes resgatados em três dias ao largo da ilha de Creta",
+      "title": "17h Chuva faz cair cobertura do Oeiras Parque",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-chuva-faz-cair-cobertura-do-oeiras-parque_a1_1761142",
+      "pubDate": "Sun, 23 Aug 2026 18:21:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Britânico Matthew Brennan vence segunda etapa da Vuelta, Pogacar segue na frente",
+      "link": "https://www.rtp.pt/noticias/ciclismo/britanico-matthew-brennan-vence-segunda-etapa-da-vuelta-pogacar-segue-na-frente_d1761139",
+      "pubDate": "Sun, 23 Aug 2026 18:18:56 +0100",
+      "description": "O ciclista britânico Matthew Brennan (Team Visma/Lease a Bike) venceu hoje ao sprint a segunda etapa da Volta à França, disputada entre o Mónaco e Manosque, com o esloveno Tadej Pogacar (UAE Emirates) a conservar a liderança.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/282fa70f99510aad6d8dbac4927c4650?w=350&amp;q=50&amp;rect=0,29,1200,658&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Grécia. Centenas de migrantes resgatados em três dias ao largo da ilha de Creta",
       "link": "https://www.rtp.pt/noticias/mundo/grecia-centenas-de-migrantes-resgatados-em-tres-dias-ao-largo-da-ilha-de-creta_n1761141",
       "pubDate": "Sun, 23 Aug 2026 18:15:44 +0100",
-      "description": "Quase 200 migrantes foram resgatados pela polícia grega ao largo da costa de Creta nos últimos três dias, enquanto incidentes ocorreram durante a madrugada de sábado para domingo num centro de acolhimento de migrantes no norte da Grécia.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "description": "Quase 200 migrantes foram resgatados pela polícia grega ao largo da costa de Creta nos últimos três dias. Pelo menos três morreram.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d833111e5d676f5d325496622247b8c7?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -72,34 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/103678a9f21ce268872f2b637579923e?w=350&amp;q=50&amp;rect=0,110,1421,779&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Benfica vence Almeida Garrett e conquista sexta Supertaça feminina de andebol",
-      "link": "https://www.rtp.pt/noticias/benfica/benfica-vence-almeida-garrett-e-conquista-sexta-supertaca-feminina-de-andebol_d1761132",
-      "pubDate": "Sun, 23 Aug 2026 18:02:43 +0100",
-      "description": "O Benfica conquistou hoje pela sexta vez a Supertaça feminina de andebol, ao vencer o Almeida Garrett por 35-25 , em jogo disputado no Pavilhão Desportivo Municipal de Santo Tirso.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/51/5174b75b427eb251393a7dbb715f0ecb?w=350&amp;q=50&amp;rect=0,0,1208,662&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Vuelta: Brennan vence segunda etapa, Pogacar segue líder",
+      "link": "https://maisfutebol.iol.pt/modalidades/vuelta/vuelta-brennan-vence-segunda-etapa-pogacar-segue-lider",
+      "pubDate": "Sun, 23 Aug 2026 17:45:00 +0100",
+      "description": "João Almeida chegou a 16 segundos do vencedor e Ivo Oliveira a 1.41 minutos",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b2315d34e511da0b34ba5/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Robô chinês quebra recorde de Usain Bolt nos 100 metros",
-      "link": "https://www.rtp.pt/noticias/desporto/robo-chines-quebra-recorde-de-usain-bolt-nos-100-metros_v1761137",
-      "pubDate": "Sun, 23 Aug 2026 17:59:47 +0100",
-      "description": "Um Robô humanoide chinês superou o recorde de Usain Bolt nos 100 metros.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c3/c30bbd27935c6949eeb74fffeb625218_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto negoceia novo empréstimo de Seko Fofana",
+      "link": "https://maisfutebol.iol.pt/fc-porto/seko-fofana/fc-porto-tenta-novo-emprestimo-de-seko-fofana",
+      "pubDate": "Sun, 23 Aug 2026 17:32:00 +0100",
+      "description": "Médio quer regressar ao Dragão, onde foi uma peça decisiva para a conquista do último título de campeão nacional",
+      "thumbnail": "https://img.iol.pt/image/id/698a648cd34e0ec52ec35aa0/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Aarhus empata em vésperas de receber Benfica",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/aarhus-empata-em-vesperas-de-receber-benfica_d1761136",
-      "pubDate": "Sun, 23 Aug 2026 17:54:56 +0100",
-      "description": "O Aarhus, adversário do Benfica no play-off de acesso à fase de Liga da Liga Europa de futebol, empatou hoje 2-2 na receção ao Odense, na quarta jornada da Liga dinamarquesa, continuando a somar passo no campeonato.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "V. Guimarães-Nacional, 1-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/v-guimaraes-nacional-1-0-cronica",
+      "pubDate": "Sun, 23 Aug 2026 17:30:53 +0100",
+      "description": "Gustavo Silva dá a Margarido a primeira vitória no reencontro com o Nacional",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b1922d34ed0733ba813c7/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 16:40:23 +0100",
       "description": "Dinis Telehovschi está há 11 épocas de águia ao peito",
       "thumbnail": "https://img.iol.pt/image/id/6a8b13c1d34ed0733ba813b2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Fórmula 1: Norris volta a vencer, Verstappen despista-se na primeira volta",
-      "link": "https://maisfutebol.iol.pt/formula-1/motores/formula-1-norris-volta-a-vencer-verstappen-despista-se-na-segunda-volta",
-      "pubDate": "Sun, 23 Aug 2026 16:30:00 +0100",
-      "description": "Atual campeão do mundo somou a segunda vitória da temporada e a segunda consecutiva",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b0ad9d34ed0733ba813a3/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "II Liga: Penafiel bate Sporting B e vence pela primeira vez no campeonato",
-      "link": "https://maisfutebol.iol.pt/ii-liga/penafiel/ii-liga-penafiel-bate-sporting-b-e-vence-pela-primeira-vez-no-campeonato",
-      "pubDate": "Sun, 23 Aug 2026 16:20:56 +0100",
-      "description": "Triunfo em casa por 2-0",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b0f80d34e511da0b34b71/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Atletismo: Yomif Kejelcha recupera recorde mundial da meia-maratona",
-      "link": "https://maisfutebol.iol.pt/modalidades/atletismo/atletismo-yomif-kejelcha-recupera-recorde-mundial-da-meia-maratona",
-      "pubDate": "Sun, 23 Aug 2026 16:19:07 +0100",
-      "description": "Em Buenos Aires, o atleta etíope correu a distância em menos de 57 minutos",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b0f28d34ed0733ba813a8/250"
     },
     {
       "sourceId": "sapo",
@@ -175,6 +175,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Desabamento de parte de cobertura interior no Oeiras Parque",
+      "link": "https://sapo.pt/artigo/desabamento-de-parte-de-cobertura-interior-no-oeiras-parque-6a8b1b67e58eb3a3e6a7d645",
+      "pubDate": "Sun, 23 Aug 2026 16:35:50 +0000",
+      "description": "O incidente obrigou ao encerramento dos estabelecimentos afetados, não havendo registo de feridos, segundo a CNN e a CMTV.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Akd3hJKrWMQUQHU9sNoAHs8qLUlsMGAftWn3JMZ35QZ1tRzBudaoFtG44SVhDhMUaRvFOIp%2BwxUisB6YazmfA9sEdQlqQpYA3cpe9VYPlGqeSJO4Eco6AO0sovcbMUoZz"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Bombeiro ferido em Arouca que está em estado crítico vai ter nova cirurgia este domingo",
       "link": "https://sapo.pt/artigo/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-este-domingo-6a8ae4f757577bfcb50d84e0",
       "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
@@ -192,14 +202,44 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=414&W=738&crop=center&delay_optim=1&epic=V2%3AtTEjt0ZaNxzHrrO%2BvswjG2smMe8gOrUKTVxEH%2FFlmpU19G1WVAWiQmf0myuuIlcrbcD7TDfU5ffq%2BXbG5zDqZkAo%2FgzpvR8a2IvorP0mebb6mBNH7V1FfWxXXQZ%2FWNuN"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Na ondulação de Zandvoort, Norris tomou o caminho mais longo para ganhar o último GP Países Baixos",
-      "link": "https://sapo.pt/artigo/na-ondulacao-de-zandvoort-norris-tomou-o-caminho-mais-longo-para-ganhar-o-ultimo-gp-paises-baixos-6a8b169ae58eb3a3e6a7356d",
-      "pubDate": "Sun, 23 Aug 2026 15:51:04 +0000",
-      "description": "O britânico da McLaren foi pole, perdeu a liderança, mas numa mistura entre boa estratégia e coragem conseguiu voltar para a frente, conseguindo a sua segunda vitória consecutiva. Antonelli (Mercedes) foi segundo e reforçou liderança do campeonato",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A%2FBfLYE4%2FGWTFodhCo%2BjFMue%2FaBgIg6kikIXUqbAn3TUsKNbmW5wLIBgAOBXrzPRh0SzbhGERWFo02qBwZvnXLxN8uahNXKA15uRR8s3xW5n3G8JoXdKkRQa5QuVe3oLX"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Carta assinada por jovem sequestrada no Brasil encontrada no bolso do ex",
+      "link": "https://www.noticiasaominuto.com/mundo/3040324/carta-assinada-por-jovem-sequestrada-no-brasil-encontrada-no-bolso-do-ex#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 17:39:56",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b1fc8636b3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MTIsImNyb3BIZWlnaHQiOjIzMiwiY3JvcFgiOjIsImNyb3BZIjo3Mn19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "EM DIRETO: Vitória SC alcança triunfo. Santa Clara recebe Famalicão",
+      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 17:32:10",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_690e0b1af0c15.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Vitória SC afasta mau olhado e abate Nacional rumo ao primeiro triunfo",
+      "link": "https://www.noticiasaominuto.com/desporto/3040320/vitoria-sc-afasta-mau-olhado-e-abate-nacional-rumo-ao-primeiro-triunfo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 17:31:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b166a00b2c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Matthew Brennan vence segunda etapa da Vuelta, Pogacar segue na frente",
+      "link": "https://www.noticiasaominuto.com/desporto/3040323/matthew-brennan-vence-segunda-etapa-da-vuelta-pogacar-segue-na-frente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 17:27:39",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/44869270.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjUyMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
@@ -210,46 +250,6 @@
       "pubDate": "2026-08-23 17:12:31",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/47648264.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Irão anuncia descoberta de grandes depósitos de gás no sul do país",
-      "link": "https://www.noticiasaominuto.com/mundo/3040321/irao-anuncia-descoberta-de-grandes-depositos-de-gas-no-sul-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:09:53",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b1b55012c3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Cerveja mista, gin cítrico ou sidra com menta: Novas bebidas refrescantes",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3038762/cerveja-mista-gin-citrico-ou-sidra-com-menta-novas-bebidas-refrescantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:00:24",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a871b01765ad.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg2MiwiY3JvcEhlaWdodCI6MTUzMiwiY3JvcFgiOjE2MiwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Desmoronamento de aterro sanitário provoca vários mortos na Guiné Conacri",
-      "link": "https://www.noticiasaominuto.com/mundo/3040312/desmoronamento-de-aterro-sanitario-provoca-varios-mortos-na-guine-conacri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 16:51:24",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b168f69c58.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Andebol: Benfica vence Almeida Garrett e soma sexta Supertaça feminina",
-      "link": "https://www.noticiasaominuto.com/desporto/3040318/andebol-benfica-vence-almeida-garrett-e-soma-sexta-supertaca-feminina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 16:50:57",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47651315.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjU1NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
@@ -305,50 +305,50 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
+      "title": "GP Países Baixos F1, Lando Norris vence em Zandvoort: “uma das melhores vitórias”",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lando-norris-vence-em-zandvoort-uma-das-melhores-vitorias/",
+      "pubDate": "Sun, 23 Aug 2026 15:56:38 +0000",
+      "description": "Lando Norris conquistou a vitória no Grande Prémio dos Países Baixos, na despedida de Zandvoort do calendário da Fórmula 1. O piloto britânico da McLaren superou Kimi Antonelli, da Mercedes, alcançando o segundo triunfo consecutivo da temporada, numa corrida marcada pelo despiste precoce do herói lo",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1, Kimi Antonelli 2º alerta para ritmo da McLaren: “deu um passo gigante”",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-kimi-antonelli-2o-alerta-para-ritmo-da-mclaren-deu-um-passo-gigante/",
+      "pubDate": "Sun, 23 Aug 2026 15:51:23 +0000",
+      "description": "Kimi Antonelli alcançou a segunda posição no Grande Prémio dos Países Baixos, terminando logo atrás do vencedor Lando Norris. O piloto italiano da Mercedes assumiu a liderança na fase inicial da prova no Circuito de Zandvoort, mas viu o seu ritmo cair a partir do segundo stint devido à falta de ader",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1, George Russell 3º: “Estou feliz por estar no pódio, já não acontecia há algum tempo”",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-george-russell-3o-estou-feliz-por-estar-no-podio-ja-nao-acontecia-ha-algum-tempo/",
+      "pubDate": "Sun, 23 Aug 2026 15:46:46 +0000",
+      "description": "George Russell conquistou a terceira posição no Grande Prémio dos Países Baixos, num desfecho marcado por ordens de equipa da Mercedes e por uma disputa intensa com os monolugares da Ferrari de Lewis Hamilton e Charles Leclerc. Depois de ter recebido instruções para ceder a posição ao colega Kimi An",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1: Segunda vitória consecutiva de Lando Norris e da McLaren",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-segunda-vitoria-consecutiva-de-lando-norris-e-da-mclaren/",
+      "pubDate": "Sun, 23 Aug 2026 15:22:00 +0000",
+      "description": "Em Zandvoort, o Grande Prémio dos Países Baixos transformou-se num verdadeiro filme de ação e alta velocidade: marcado pelo violento acidente de Max Verstappen logo na abertura, o evento desenrolou-se entre uma complexa teia de estratégias nas boxes e culminou numa ultrapassagem magistral de Lando N",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
       "title": "GP Países Baixos F1/V36: Kimi Antonelli na frente, mas tudo em aberto a meio da corrida",
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-v36-kimi-antonelli-na-frente-mas-tudo-em-aberto-a-meio-da-corrida/",
       "pubDate": "Sun, 23 Aug 2026 14:19:00 +0000",
       "description": "Um acidente violento de Max Verstappen e um duelo tático sob piso misto marcaram a primeira metade do Grande Prémio dos Países Baixos em Zandvoort, onde Kimi Antonelli resiste na liderança perante a pressão sufocante de Lando Norris. Logo após a partida, o caos irrompeu na curva final inclinada, o R",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Hülkenberg evita por pouco colisão com Bortoleto",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-hulkenberg-evita-por-pouco-colisao-com-bortoleto/",
-      "pubDate": "Sun, 23 Aug 2026 13:25:22 +0000",
-      "description": "Nico Hülkenberg esteve prestes a embater no monolugar do seu colega de equipa na Audi, Gabriel Bortoleto, durante a sequência de incidentes que motivou a interrupção da primeira volta do Grande Prémio dos Países Baixos.As repetições da transmissão televisiva revelaram a extrema proximidade do impact",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Bandeira vermelha após acidente de Max Verstappen e Gabriel Bortoleto",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-bandeira-vermelha-apos-acidente-de-max-verstappen-e-gabriel-bortoleto/",
-      "pubDate": "Sun, 23 Aug 2026 13:16:31 +0000",
-      "description": "O Grande Prémio dos Países Baixos foi interrompido logo na primeira volta com a amostragem de bandeiras vermelhas, na sequência de um grande acidente no Circuito de Zandvoort. Max Verstappen perdeu o controlo do monolugar na última curva (inclinada) do traçado e embateu com violência contra a barrei",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Grelha de partida atualizada, corrida às 14h00",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-grelha-de-partida-atualizada-corrida-as-14h00/",
-      "pubDate": "Sun, 23 Aug 2026 11:35:34 +0000",
-      "description": "Lando Norris parte da pole position para o Grande Prémio dos Países Baixos de Fórmula 1, partilhando a primeira fila da grelha de partida com George Russell. A corrida de 72 voltas no Circuito de Zandvoort conta com 21 carros alinhados na grelha após a despromoção de Sergio Pérez ao pit lane.A grelh",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Aston Martin encorajada: evolução face às equipas da frente e no ritmo de corrida",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-aston-martin-encorajada-evolucao-face-as-equipas-da-frente-e-no-ritmo-de-corrida/",
-      "pubDate": "Sun, 23 Aug 2026 10:05:22 +0000",
-      "description": "A Aston Martin viveu um sábado de sentimentos mistos no Grande Prémio dos Países Baixos, com Fernando Alonso e Lance Stroll a não irem além da Q1. Apesar de alinharem nas 18ª e 19ª posições da grellha, a estrutura mostra-se encorajada pelos progressos registados no mais recente pacote aerodinâmico e",
       "thumbnail": ""
     }
   ]
