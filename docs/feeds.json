@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-23T12:31:13.460845+00:00",
+  "updated": "2026-08-23T13:28:15.764480+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 13h",
+      "title": "14h. Bombeiro ferido em Arouca vai ter nova cirurgia hoje",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2453/",
+      "pubDate": "Sun, 23 Aug 2026 14:15:07 +0100",
+      "description": "De acordo com o Hospital São Sebastião, o homem está em estado grave e vai ser de novo operado hoje. Além desse bombeiro, três outros homens ficaram feridos. Ainda, 14 distritos em aviso amarelo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Toyota GR GT com 650 cv chega em 2027 (mas vai haver poucos)",
+      "link": "https://observador.pt/2026/08/23/toyota-gr-gt-com-650-cv-chega-em-2027-mas-vai-haver-poucos/",
+      "pubDate": "Sun, 23 Aug 2026 14:11:18 +0100",
+      "description": "O Toyota GR GT é um desportivo de respeito que vai chegar a Portugal em 2027. Mas a marca confirma agora que vai produzir poucas unidades, pelo que é melhor encomendar e… depressa!",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:818:462:nowe:96:138/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23084255/2026-grgt-trinitymediaevent-008-1024x683-1.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Bombeiro crítico de Arouca operado este domingo",
+      "link": "https://observador.pt/2026/08/23/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-hoje/",
+      "pubDate": "Sun, 23 Aug 2026 13:34:06 +0100",
+      "description": "Um dos quatro bombeiros feridos durante o combate ao incêndio de Arouca tem prognóstico muito reservado. Dois permanecem internados no Hospital São Sebastião.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/22191335/47627416.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "13h.Caso Luís Neves. Seguro pede rapidez nas investigações",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2424/",
       "pubDate": "Sun, 23 Aug 2026 13:11:08 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Questionado sobre as mais recentes polémicas em torno do MAI, o Presidente da República responde que cada órgão de soberania tem de assumir responsabilidades. Ainda, um homem foi baleado em Camarate.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,84 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12053358/47256623.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Seguro sobre Neves: \"Cada um assuma a sua responsabilidade\"",
-      "link": "https://observador.pt/2026/08/23/presidente-da-republica-sobre-luis-neves-desejo-que-cada-um-assuma-a-sua-responsabilidade/",
-      "pubDate": "Sun, 23 Aug 2026 13:08:11 +0100",
-      "description": "Presidente da República pede celeridade nas investigações e auditorias ao ministro da Administração Interna. E pede que cada orgão de soberania \"assuma a sua responsabilidade\" neste processo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06195934/47574426.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Jacob Arabo: quem é o joalheiro de celebridades como Ronaldo",
-      "link": "https://observador.pt/2026/08/23/do-uzbequistao-aos-eua-e-para-os-diamantes-das-celebridades-jacor-arabo-o-relojoeiro-de-ronaldo/",
-      "pubDate": "Sun, 23 Aug 2026 12:45:06 +0100",
-      "description": "Alcançou fama com os cantores de hip-hop e chamou também a atenção de Madonna e Kim Kardashian. Amigo de Ronaldo há vinte anos, criou para o atleta um relógio inspirado num dos seus carros favoritos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2436:1372:nowe:0:202/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21160037/relogio-do-cristiano-ronaldo-jacob-arabo-relojoeiro-georgina-rodriguez-joias-do-ronaldo.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alvalade tem um “Sportempic” e até Paulinho deve ter cuidado",
-      "link": "https://observador.pt/programas/e-o-campeao-e/alvalade-tem-um-sportempic-e-ate-paulinho-deve-ter-cuidado/",
-      "pubDate": "Sun, 23 Aug 2026 12:24:51 +0100",
-      "description": "Os leões venceram o Alverca por 3-1 numa revolução de Rui Borges que “ainda não convence”. Ainda as palavras de Farioli sobre Mora, as malas de Palhinha na chegada a Lisboa e a festa de Mourinho.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "13h APA atenta à qualidade das águas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-apa-atenta-a-qualidade-das-aguas_a1_1761096",
-      "pubDate": "Sun, 23 Aug 2026 14:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Meteorologia ajudou no combate aos incêndios",
-      "link": "https://www.rtp.pt/noticias/pais/meteorologia-ajudou-no-combate-aos-incendios_v1761094",
-      "pubDate": "Sun, 23 Aug 2026 14:11:47 +0100",
-      "description": "As condições meteorológicas ajudaram os bombeiros no combate aos incêndios. O fogo em Abrantes foi controlado durante a madrugada. E em Santa Marta de Penaguião, o incêndio, que chegou a aproximar-se de algumas aldeias, está em fase de resolução.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2c/2c082798357b16c47d85b4fda9542e04_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "12h APA reforça monotorização da qualidade da água",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-apa-reforca-monotorizacao-da-qualidade-da-agua_a1_1761089",
-      "pubDate": "Sun, 23 Aug 2026 13:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Papa pede católicos abertos à mudança que recusem fazer da religião uma \"mera tradição\"",
-      "link": "https://www.rtp.pt/noticias/mundo/papa-pede-catolicos-abertos-a-mudanca-que-recusem-fazer-da-religiao-uma-mera-tradicao_n1761088",
-      "pubDate": "Sun, 23 Aug 2026 12:54:36 +0100",
-      "description": "O Papa Leão XIV apelou hoje aos fiéis católicos para que &quot;não se fechem nas suas convicções e certezas religiosas&quot; e evitem a tentação de transformar a fé cristã numa &quot;mera tradição&quot;.",
+      "title": "Kiev está a testar alternativa ao Starlink sem deixar de usar rede de Musk",
+      "link": "https://www.rtp.pt/noticias/mundo/kiev-esta-a-testar-alternativa-ao-starlink-sem-deixar-de-usar-rede-de-musk_n1761099",
+      "pubDate": "Sun, 23 Aug 2026 15:26:28 +0100",
+      "description": "A Ucrânia está a trabalhar numa alternativa ao Starlink com um país europeu e já iniciou testes nesse sentido, prevendo continuar usar a rede de satélites do grupo de Elon Musk, disse o Presidente ucraniano, Volodymir Zelensky.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Seguro pede \"mais atenção e investimento\" para territórios do interior e da raia",
-      "link": "https://www.rtp.pt/noticias/pais/seguro-pede-mais-atencao-e-investimento-para-territorios-do-interior-e-da-raia_n1761087",
-      "pubDate": "Sun, 23 Aug 2026 12:46:17 +0100",
-      "description": "O Presidente da República pediu hoje &quot;mais atenção e investimento&quot; do Estado para os desafios do envelhecimento, despovoamento e distância dos centros de decisão&quot; dos territórios do interior e da raia, em nome de um &quot;país coeso&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/70/7080c310f5b92bd06a31bbc315582e66?w=350&amp;q=50&amp;rect=0,9,1500,822&amp;auto=format"
+      "title": "Ex-ministro da Defesa diz que Presidente deve responder por casos de corrupção",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ex-ministro-da-defesa-diz-que-presidente-deve-responder-por-casos-de-corrupcao_n1761097",
+      "pubDate": "Sun, 23 Aug 2026 15:25:58 +0100",
+      "description": "O ex-ministro da Defesa da Ucrânia Mykhailo Fedorov afirmou hoje que o Presidente ucraniano deve &quot;responder&quot; pelos alegados casos de corrupção no seu Governo e reafirmou a necessidade de eleições.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Poster Mostra em Marvila",
+      "link": "https://www.rtp.pt/noticias/cultura/poster-mostra-em-marvila_v1761109",
+      "pubDate": "Sun, 23 Aug 2026 15:24:46 +0100",
+      "description": "Marvila tem uma exposição ao ar livre. Há 40 obras afixadas na parede de uma rua. São posters de artistas nacionais e internacionais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e3b0439e112e148bf474ee466f0ebdb5_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Várias espécies de cetáceos avistados no Algarve",
+      "link": "https://www.rtp.pt/noticias/pais/varias-especies-de-cetaceos-avistados-no-algarve_v1761108",
+      "pubDate": "Sun, 23 Aug 2026 15:22:47 +0100",
+      "description": "Nunca se viram tantas baleias, ao largo de Faro. Algumas tropicais, um fenómeno que está a ser estudado. Também foram avistados, pela primeira vez, cachalotes nas águas do Algarve.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/18/1815c95f49f6000565736f24c9b5cda9_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Tiago Macena é o primeiro português \"Master of Wine\"",
+      "link": "https://www.rtp.pt/noticias/pais/tiago-macena-e-o-primeiro-portugues-master-of-wine_v1761106",
+      "pubDate": "Sun, 23 Aug 2026 15:20:47 +0100",
+      "description": "É o único a receber, em Portugal, a distinção de &quot;Master of Wine&quot;. O enólogo Tiago Macena faz carreira na região demarcada do Dão.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/d3/d3272768527b857924d534aa52de3bfa_N.jpg?"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: St. Étienne arrasa, adeptos gritam olés e Ian Cathro manda-os calar",
+      "link": "https://maisfutebol.iol.pt/incrivel/ian-cathro/video-st-etienne-arrasa-adeptos-gritam-oles-e-ian-cathro-manda-os-calar",
+      "pubDate": "Sun, 23 Aug 2026 14:00:35 +0100",
+      "description": "Ex-treinador do Estoril repreendeu os adeptos da própria equipa",
+      "thumbnail": "https://img.iol.pt/image/id/6a7f9f21d34e511da0b336ae/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 12:21:00 +0100",
       "description": "Médio está prestes a ser reforço dos encarnados, faltando apenas acertar os últimos detalhes",
       "thumbnail": "https://img.iol.pt/image/id/6a71e2b0d34e511da0b318a1/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Rayan confessa: «Há um ou dois anos recebi propostas do FC Porto e do Benfica»",
-      "link": "https://maisfutebol.iol.pt/internacional/rayan/rayan-confessa-ha-um-ou-dois-anos-recebi-propostas-do-fc-porto-e-do-benfica",
-      "pubDate": "Sun, 23 Aug 2026 11:51:00 +0100",
-      "description": "Avançado brasileiro do Bournemouth confirma que existiu interesse por parte dos dragões e das águias, quando ainda jogava no Vasco da Gama",
-      "thumbnail": "https://img.iol.pt/image/id/6a8ac85cd34e511da0b34adb/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sporting. Gonçalo Inácio fora do radar do Barcelona (para já)",
-      "link": "https://www.noticiasaominuto.com/desporto/3040261/sporting-goncalo-inacio-fora-do-radar-do-barcelona-para-ja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 13:24:07",
+      "title": "Portugal soma nova derrota no Europeu feminino ao perder com Bélgica",
+      "link": "https://www.noticiasaominuto.com/desporto/3040288/portugal-soma-nova-derrota-no-europeu-feminino-ao-perder-com-belgica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:26:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ae2c86eaea.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/19346298.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Um dos bombeiros feridos em Arouca volta a ser operado este domingo",
-      "link": "https://www.noticiasaominuto.com/pais/3040257/bombeiro-ferido-em-arouca-em-estado-critico-vai-ter-nova-cirurgia-hoje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 13:15:23",
+      "title": "Não, não é mentira. Erling Haaland cortou mesmo o cabelo",
+      "link": "https://www.noticiasaominuto.com/desporto/3040287/nao-nao-e-mentira-erling-haaland-cortou-mesmo-o-cabelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:23:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689b1176f2572.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af2c1c69fa.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Presidente da República espera celeridade nas investigações a Luís Neves",
-      "link": "https://www.noticiasaominuto.com/pais/3040256/presidente-da-republica-espera-celeridade-nas-investigacoes-a-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 13:04:08",
+      "title": "Sindicato preocupado com número de estudantes pobres colocados",
+      "link": "https://www.noticiasaominuto.com/pais/3040283/sindicato-preocupado-com-numero-de-estudantes-pobres-colocados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:22:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b8455f39ae2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTEsImNyb3BZIjoyNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NSwiY3JvcEhlaWdodCI6MTcxNSwiY3JvcFgiOjk2NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6897286a00852.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk4NCwiY3JvcEhlaWdodCI6MTc0OSwiY3JvcFgiOjEyMzgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "É oficial. Série de \"God of War\" terá Bautista a interpretar protagonista",
-      "link": "https://www.noticiasaominuto.com/tech/3039756/e-oficial-serie-de-god-of-war-tera-bautista-a-interpretar-protagonista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 13:01:21",
+      "title": "Prisão preventiva para três dos oito detidos em Rabo de Peixe",
+      "link": "https://www.noticiasaominuto.com/pais/3040281/prisao-preventiva-para-tres-dos-oito-detidos-em-rabo-de-peixe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:18:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5b53ba884a073.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzc0LCJjcm9wSGVpZ2h0IjoxNTYxLCJjcm9wWCI6MTMsImNyb3BZIjoxNDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMzMsImNyb3BIZWlnaHQiOjE4MzcsImNyb3BYIjo3ODYsImNyb3BZIjoxNH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a88ba1a32dee.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM5NSwiY3JvcEhlaWdodCI6NzAzLCJjcm9wWCI6MTg0LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quer perder menos tempo a passar a ferro? 6 dicas que vão ajudar",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3037954/quer-perder-menos-tempo-a-passar-a-ferro-6-dicas-que-vao-ajudar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 13:01:14",
+      "title": "Casa Pia quer subir moral com melhorias coletivas e a aprender com erros",
+      "link": "https://www.noticiasaominuto.com/desporto/3040274/casa-pia-quer-subir-moral-com-melhorias-coletivas-e-a-aprender-com-erros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 14:14:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8415e87ac1a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEwODQsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af234273a8.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Carros cheios de tecnologia: estudo reforça que não é isso que os condutores querem",
+      "link": "https://pplware.sapo.pt/motores/carros-cheios-de-tecnologia-estudo-reforca-que-nao-e-isso-que-os-condutores-querem/",
+      "pubDate": "Sun, 23 Aug 2026 13:00:44 +0000",
+      "description": "As fabricantes de automóveis têm apostado fortemente em ecrãs e tecnologia de bordo, mas um novo estudo reforça que os condutores parecem valorizar mais as funcionalidades discretas do que os sistemas mais vistosos. Quem&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ecras_mercedes01.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,34 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/02/e-fatura_android_1.jpg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Windows 11 a crashar nos jogos? A culpa é da nova atualização da Microsoft",
-      "link": "https://pplware.sapo.pt/microsoft/windows/windows-11-a-crashar-nos-jogos-a-culpa-e-da-nova-atualizacao-da-microsoft/",
-      "pubDate": "Sun, 23 Aug 2026 08:00:24 +0000",
-      "description": "A última atualização do Windows 11 está a provocar problemas a milhares de utilizadores, especialmente nos jogos. Lançado pela Microsoft para reforçar a proteção com a correção de mais de 400 vulnerabilidades de segurança,&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/06/windows_11_migrar_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1: Hülkenberg evita por pouco colisão com Bortoleto",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-hulkenberg-evita-por-pouco-colisao-com-bortoleto/",
+      "pubDate": "Sun, 23 Aug 2026 13:25:22 +0000",
+      "description": "Nico Hülkenberg esteve prestes a embater no monolugar do seu colega de equipa na Audi, Gabriel Bortoleto, durante a sequência de incidentes que motivou a interrupção da primeira volta do Grande Prémio dos Países Baixos.As repetições da transmissão televisiva revelaram a extrema proximidade do impact",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1: Bandeira vermelha após acidente de Max Verstappen e Gabriel Bortoleto",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-bandeira-vermelha-apos-acidente-de-max-verstappen-e-gabriel-bortoleto/",
+      "pubDate": "Sun, 23 Aug 2026 13:16:31 +0000",
+      "description": "O Grande Prémio dos Países Baixos foi interrompido logo na primeira volta com a amostragem de bandeiras vermelhas, na sequência de um grande acidente no Circuito de Zandvoort. Max Verstappen perdeu o controlo do monolugar na última curva (inclinada) do traçado e embateu com violência contra a barrei",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1: Grelha de partida atualizada, corrida às 14h00",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-grelha-de-partida-atualizada-corrida-as-14h00/",
+      "pubDate": "Sun, 23 Aug 2026 11:35:34 +0000",
+      "description": "Lando Norris parte da pole position para o Grande Prémio dos Países Baixos de Fórmula 1, partilhando a primeira fila da grelha de partida com George Russell. A corrida de 72 voltas no Circuito de Zandvoort conta com 21 carros alinhados na grelha após a despromoção de Sergio Pérez ao pit lane.A grelh",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-posicao-em-pista-assume-papel-determinante-em-zandvoort/",
       "pubDate": "Sun, 23 Aug 2026 09:53:12 +0000",
       "description": "A gestão da posição em pista perfila-se como o fator mais crítico para o desfecho do Grande Prémio dos Países Baixos, naquela que será a derradeira visita da Fórmula 1, pelo menos durante alguns anos. As dinâmicas observadas na corrida Sprint de sábado confirmaram que a realização de ultrapassagens ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Lawson e Tsunoda focados em aproveitar a oportunidade em Zandvoort",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lawson-e-tsunoda-focados-em-aproveitar-a-oportunidade-em-zandvoort/",
-      "pubDate": "Sun, 23 Aug 2026 09:43:33 +0000",
-      "description": "Liam Lawson garantiu o oitavo lugar na grelha de partida para o Grande Prémio dos Países Baixos, assumindo o volante da Red Bull em substituição de Isack Hadjar, ausente devido a uma lesão no pulso. O fim de semana da equipa ficou também marcado pelo regresso de Yuki Tsunoda ao papel de piloto de re",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Mercedes e McLaren disputam vitória na despedida de Zandvoort",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-mercedes-e-mclaren-disputam-vitoria-na-despedida-de-zandvoort/",
-      "pubDate": "Sun, 23 Aug 2026 09:35:17 +0000",
-      "description": "George Russell parte do segundo lugar da grelha de partida para o Grande Prémio dos Países Baixos, confiante em desafiar o homem da pole, Lando Norris no traçado de Zandvoort. O piloto da Mercedes antecipa que a gestão de pneus em curvas de alta velocidade constitua uma dificuldade acrescida para o ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1: Lando Norris parte da pole, quer vencer, mas…",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lando-norris-parte-da-pole-quer-vencer-mas/",
-      "pubDate": "Sun, 23 Aug 2026 09:24:37 +0000",
-      "description": "Lando Norris garantiu a pole position para o Grande Prémio dos Países Baixos, superando George Russell na sessão de qualificação em Zandvoort. Após ter vencido a última corrida na Hungria a partir do primeiro lugar da grelha, o piloto da McLaren dispõe agora da oportunidade de repetir o feito no tra",
       "thumbnail": ""
     }
   ]
