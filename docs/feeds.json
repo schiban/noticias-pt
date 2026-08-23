@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-23T11:44:07.010654+00:00",
+  "updated": "2026-08-23T12:31:13.460845+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 13h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2424/",
+      "pubDate": "Sun, 23 Aug 2026 13:11:08 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Alibaba reforça aposta na IA com emissão de ações",
+      "link": "https://observador.pt/2026/08/23/alibaba-quer-emitir-8-700-me-em-acoes-para-investimento-mundial-em-inteligencia-artificial/",
+      "pubDate": "Sun, 23 Aug 2026 13:08:45 +0100",
+      "description": "A gigante tecnológica chinesa vai reforçar infraestrutura de IA com nova emissão de 80.000 milhões de dólares de Hong Kong, após receitas trimestrais de 34.270 milhões de euros.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12053358/47256623.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Seguro sobre Neves: \"Cada um assuma a sua responsabilidade\"",
+      "link": "https://observador.pt/2026/08/23/presidente-da-republica-sobre-luis-neves-desejo-que-cada-um-assuma-a-sua-responsabilidade/",
+      "pubDate": "Sun, 23 Aug 2026 13:08:11 +0100",
+      "description": "Presidente da República pede celeridade nas investigações e auditorias ao ministro da Administração Interna. E pede que cada orgão de soberania \"assuma a sua responsabilidade\" neste processo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06195934/47574426.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jacob Arabo: quem é o joalheiro de celebridades como Ronaldo",
+      "link": "https://observador.pt/2026/08/23/do-uzbequistao-aos-eua-e-para-os-diamantes-das-celebridades-jacor-arabo-o-relojoeiro-de-ronaldo/",
+      "pubDate": "Sun, 23 Aug 2026 12:45:06 +0100",
+      "description": "Alcançou fama com os cantores de hip-hop e chamou também a atenção de Madonna e Kim Kardashian. Amigo de Ronaldo há vinte anos, criou para o atleta um relógio inspirado num dos seus carros favoritos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2436:1372:nowe:0:202/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21160037/relogio-do-cristiano-ronaldo-jacob-arabo-relojoeiro-georgina-rodriguez-joias-do-ronaldo.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -8,48 +48,28 @@
       "title": "Alvalade tem um “Sportempic” e até Paulinho deve ter cuidado",
       "link": "https://observador.pt/programas/e-o-campeao-e/alvalade-tem-um-sportempic-e-ate-paulinho-deve-ter-cuidado/",
       "pubDate": "Sun, 23 Aug 2026 12:24:51 +0100",
-      "description": "Os leões venceram o Alverca por 3-1 numa revolução de Rui Borges que “ainda não convence”. Ainda as palavras de Farioli sobre Mora, as malas de Palhinha na chegada a Lisboa e a festa de Mouurinho.",
+      "description": "Os leões venceram o Alverca por 3-1 numa revolução de Rui Borges que “ainda não convence”. Ainda as palavras de Farioli sobre Mora, as malas de Palhinha na chegada a Lisboa e a festa de Mourinho.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As figuras da realeza europeia quase centenárias",
-      "link": "https://observador.pt/especiais/reis-rainhas-principes-e-princesas-quase-centenarios-os-membros-da-realeza-que-ainda-resistem-em-servico-ou-longe-dos-holofotes/",
-      "pubDate": "Sun, 23 Aug 2026 12:16:27 +0100",
-      "description": "Da princesa de 94 anos que frequenta eventos em cadeira de rodas com a cadelinha ao colo ao Rei mais velho da Europa, onde estão os membros da realeza europeia mais longevos da atualidade.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2564:1442:nowe:1433:667/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19154421/gettyimages-681225294-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "13h APA atenta à qualidade das águas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-apa-atenta-a-qualidade-das-aguas_a1_1761096",
+      "pubDate": "Sun, 23 Aug 2026 14:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "12h. Quatro homens esfaqueados na última noite em Sacavém",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2423/",
-      "pubDate": "Sun, 23 Aug 2026 12:13:44 +0100",
-      "description": "Três estão em estado grave. O autor do esfaqueamento está em fuga e ainda não foi identificado.  Ainda, Seguro pede mais atenção e investimento para os territórios do interior e da raia",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Papa pede renovação da fé além da \"mera tradição\"",
-      "link": "https://observador.pt/2026/08/23/papa-pede-catolicos-abertos-a-mudanca-que-recusem-fazer-da-religiao-uma-mera-tradicao/",
-      "pubDate": "Sun, 23 Aug 2026 11:59:17 +0100",
-      "description": "O Papa alertou para a tentação de \"continuar como sempre fizemos\" e defendeu uma renovação contínua tanto no percurso individual como nas decisões pastorais da Igreja.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23114955/47648410.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Seguro  pede \"mais atenção e investimento\" no interior",
-      "link": "https://observador.pt/2026/08/23/presidente-da-republica-pede-mais-atencao-e-investimento-para-territorios-do-interior-e-da-raia/",
-      "pubDate": "Sun, 23 Aug 2026 11:57:42 +0100",
-      "description": "O Presidente da República discursou em Vila Nova de Cerveira, onde visitou a Bienal Internacional de Arte, e alertou para o despovoamento e envelhecimento do interior.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23114732/47646956.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Meteorologia ajudou no combate aos incêndios",
+      "link": "https://www.rtp.pt/noticias/pais/meteorologia-ajudou-no-combate-aos-incendios_v1761094",
+      "pubDate": "Sun, 23 Aug 2026 14:11:47 +0100",
+      "description": "As condições meteorológicas ajudaram os bombeiros no combate aos incêndios. O fogo em Abrantes foi controlado durante a madrugada. E em Santa Marta de Penaguião, o incêndio, que chegou a aproximar-se de algumas aldeias, está em fase de resolução.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2c/2c082798357b16c47d85b4fda9542e04_N.jpg?"
     },
     {
       "sourceId": "rtp",
@@ -79,27 +99,27 @@
       "link": "https://www.rtp.pt/noticias/pais/seguro-pede-mais-atencao-e-investimento-para-territorios-do-interior-e-da-raia_n1761087",
       "pubDate": "Sun, 23 Aug 2026 12:46:17 +0100",
       "description": "O Presidente da República pediu hoje &quot;mais atenção e investimento&quot; do Estado para os desafios do envelhecimento, despovoamento e distância dos centros de decisão&quot; dos territórios do interior e da raia, em nome de um &quot;país coeso&quot;.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d3caf832662f243791f2e76a8357748?w=350&amp;q=50&amp;rect=0,96,1500,822&amp;auto=format"
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/70/7080c310f5b92bd06a31bbc315582e66?w=350&amp;q=50&amp;rect=0,9,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Taranto2026. Canoísta Bruno Brasileiro campeão no K1 1.000 metros",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-canoista-bruno-brasileiro-campeao-no-k1-1000-metros_d1761079",
-      "pubDate": "Sun, 23 Aug 2026 12:30:10 +0100",
-      "description": "Bruno Brasileiro conquistou hoje o ouro no K1 1.000 metros, somando a segunda medalha para a canoagem nacional em Taranto2026 e o quarto título para Portugal nesta edição dos Jogos do Mediterrâneo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sporting: Rui Borges dá um dia de folga após triunfo sobre o Alverca",
+      "link": "https://maisfutebol.iol.pt/liga/23-08-2026/sporting-rui-borges-da-um-dia-de-folga-apos-triunfo-sobre-o-alverca",
+      "pubDate": "Sun, 23 Aug 2026 13:15:00 +0100",
+      "description": "Titulares realizaram habitual trabalho de recuperação",
+      "thumbnail": "https://img.iol.pt/image/id/6a71f2d4d34e511da0b318f1/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Eleições seriam \"um tsunami\" que \"fragmentaria a Ucrânia\", alerta Zelensky",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/eleicoes-seriam-um-tsunami-que-fragmentaria-a-ucrania-alerta-zelensky_n1761083",
-      "pubDate": "Sun, 23 Aug 2026 12:17:07 +0100",
-      "description": "O presidente ucraniano, Volodymyr Zelensky, afirmou que as eleições em tempo de guerra seriam perigosas para o país, após o polémico apelo do seu antigo ministro da Defesa para que se abrisse caminho para a realização de uma votação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b9092f87f4174c53917c9f7848d622f?w=350&amp;q=50&amp;rect=0,35,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto aplica 8-0 ao Sporting na final do Torneio Internacional de Abrantes",
+      "link": "https://maisfutebol.iol.pt/futebol-formacao/fc-porto/fc-porto-aplica-8-0-ao-sporting-na-final-do-torneio-internacional-de-abrantes",
+      "pubDate": "Sun, 23 Aug 2026 12:44:00 +0100",
+      "description": "Dragões conquistam prémio no escalão de iniciados após goleada sobre os leões",
+      "thumbnail": "https://img.iol.pt/image/id/64884dd9d34ea91b0aad7f9b/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,24 +152,24 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8ac85cd34e511da0b34adb/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "És tu, Haaland? Norueguês rapa o cabelo… E até Vinicius aprova",
-      "link": "https://maisfutebol.iol.pt/mf-social/internacional/es-tu-haaland-noruegues-rapa-o-cabelo-e-ate-vinicius-aprova",
-      "pubDate": "Sun, 23 Aug 2026 11:48:00 +0100",
-      "description": "Visual totalmente renovado para começar a caminhada na Premier League",
-      "thumbnail": "https://img.iol.pt/image/id/6a8acf0ad34e511da0b34ade/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Seguro  pede \"mais atenção e investimento\" no interior",
+      "link": "https://sapo.pt/artigo/seguro-pede-mais-atencao-e-investimento-no-interior-6a8ad2bfd0cbd78bc7a60b1f",
+      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
+      "description": "O Presidente da República discursou em Vila Nova de Cerveira, onde visitou a Bienal Internacional de Arte, e alertou para o despovoamento e envelhecimento do interior.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ArcjEVhUNg7fxvCB2C8kbdDwpZ5QOS29rigo%2FsGXu2BZX5brCoOqY9UXd%2FLgK6e32EvkKzLnlcG%2Fq7p8JXl0YlUuEiuneIlLoM9fQ35xZRLJn2JWK6KsAYS5nhrKOk9pt"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Sem Mora e com regressos: os onzes prováveis do FC Porto-Arouca",
-      "link": "https://maisfutebol.iol.pt/liga/fc-porto/sem-mora-e-com-regressos-os-onzes-provaveis-do-fc-porto-arouca",
-      "pubDate": "Sun, 23 Aug 2026 10:49:00 +0100",
-      "description": "Francesco Farioli não deverá mexer muito na receção aos «Lobos»",
-      "thumbnail": "https://img.iol.pt/image/id/69a1fe57d34edcee7c614c2b/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Feijóo exige que Sánchez decrete o confinamento em Ceuta devido ao \"risco sanitário\" de sarna e tuberculose",
+      "link": "https://sapo.pt/artigo/feijoo-exige-que-sanchez-decrete-o-confinamento-em-ceuta-devido-ao-risco-sanitario-de-sarna-e-tuberculose-6a8ad2919b79793efa457b5f",
+      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
+      "description": "Milhares de migrantes continuam nas ruas da cidade autónoma espanhola três semanas após a entrada em massa de mais de 70 mil, a 30 e 31 de julho.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AVRGVQIvHjtQnCA6EgRzk1AfS4lzzcvT%2B6gWEy9CzCLIL4C2LupgtfILZF1qrpXDpoTnzxGQRpz%2F3eR1dF7cf%2FAgduxXDP%2B8WgCdHo7spYLfdlBk1fbavDe4FQAdtv%2FgB"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +195,71 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Mochilas escolares: peso excessivo pode prejudicar a coluna das crianças",
-      "link": "https://sapo.pt/artigo/mochilas-escolares-peso-excessivo-pode-prejudicar-a-coluna-das-criancas-6a8abdede58eb3a3e69cc5c3",
-      "pubDate": "Sun, 23 Aug 2026 10:18:20 +0000",
-      "description": "Com o regresso às aulas a aproximar-se, a campanha “Olhe pelas Suas Costas” alerta para os riscos associados ao transporte de mochilas demasiado pesadas ou utilizadas de forma incorreta.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=493&W=876&crop=center&delay_optim=1&epic=V2%3AZxLlmcb%2BPFTT0%2F7oEWZGFPiuy23%2FTIvhVdUfHnpbgkz03spAWYBix4Dy1ShBCcIz1upQh9FEwnF5HuQs%2F6dpl%2FFGPu6YkNd1ErqwxXoJBvR9taeMpQhRByx0dWQPwSBd"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Putin afirma que ataques ucranianos aumentaram porque Kiev está a perder a guerra",
-      "link": "https://sapo.pt/artigo/putin-afirma-que-ataques-ucranianos-aumentaram-porque-kiev-esta-a-perder-a-guerra-6a8a422171773bd5d1b94f53",
-      "pubDate": "Sun, 23 Aug 2026 08:08:25 +0000",
-      "description": "O Presidente da Rússia, Vladimir Putin, declarou-se convencido de que o aumento dos ataques ucranianos contra o seu país se deve ao desespero do Governo de Kiev e de Volodymyr Zelenski face à situação na frente de batalha.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3AqUtySlB%2Bk9tEbAt82eO6Gmg2gFjMgPGIgR98UxRh8ttPnixXKt2NmBx1vaHL9JH0K9DY3fd9c4Z2U%2BZn1B1jPK7IivHsS5lkmkUWHZnEZmhh7cQK9l8QucfrWXi1BAeR"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Número de mortos no sismo na Colômbia sobe para 321",
-      "link": "https://sapo.pt/artigo/numero-de-mortos-no-sismo-na-colombia-sobe-para-321-6a8a8acbe58eb3a3e6987950",
-      "pubDate": "Sun, 23 Aug 2026 08:08:25 +0000",
-      "description": "O número de mortos devido ao sismo de magnitude 7,4 que atingiu o centro e o oeste da Colômbia na semana passada subiu para 321, divulgaram hoje as autoridades governamentais.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3AN0itjtytTsFoI8TnwRSIpXaHYu03ghjMWMi8KfwFnYDwsCC0cAXE4MJFms0qhn%2B%2BvUOpiFZjQyptjGfyCNRnq%2FgdZ%2FqdQUSlgxBEj%2BIab%2FK4IcIPx%2FuOeQ52Z9vh8yj3"
+      "title": "Homem morre a praticar mergulho recreativo ao largo de praia",
+      "link": "https://sapo.pt/artigo/homem-morre-a-praticar-mergulho-recreativo-ao-largo-de-praia-6a8ad02f9b79793efa45361e",
+      "pubDate": "Sun, 23 Aug 2026 11:41:53 +0000",
+      "description": "Homem de 56 anos entrou em dificuldades durante mergulho recreativo a sul da praia dos Três Irmãos. INEM, Polícia Marítima e Bombeiros de Portimão foram ativados.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A1yLauTQ0tnfOchEnit3WyCSXrMaiP4l0uOjJRNaVqUqvalqXzZ0E%2F6ofQLRpx6vHraWZDwn6TIJNkdEpHm2FnL1MMGUnWq4NfcrIqdoa1RnJnvMCWyBOpuOyJVqnIGXw"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alibaba quer emitir 8.700 milhões em ações para investimento em IA",
-      "link": "https://www.noticiasaominuto.com/tech/3040248/alibaba-quer-emitir-8700-milhoes-em-acoes-para-investimento-em-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 12:39:38",
+      "title": "Sporting. Gonçalo Inácio fora do radar do Barcelona (para já)",
+      "link": "https://www.noticiasaominuto.com/desporto/3040261/sporting-goncalo-inacio-fora-do-radar-do-barcelona-para-ja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 13:24:07",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8adbfd8f102.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ae2c86eaea.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Iraque anuncia repatriamento de seis mil estrangeiros jihadistas",
-      "link": "https://www.noticiasaominuto.com/mundo/3040249/iraque-anuncia-repatriamento-de-seis-mil-estrangeiros-jihadistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 12:38:14",
+      "title": "Um dos bombeiros feridos em Arouca volta a ser operado este domingo",
+      "link": "https://www.noticiasaominuto.com/pais/3040257/bombeiro-ferido-em-arouca-em-estado-critico-vai-ter-nova-cirurgia-hoje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 13:15:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5964a497d37ed.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_689b1176f2572.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Imperdível. Nem Guardiola quis acreditar no novo penteado de Haaland",
-      "link": "https://www.noticiasaominuto.com/desporto/3040244/imperdivel-nem-guardiola-quis-acreditar-no-novo-penteado-de-haaland#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 12:31:48",
+      "title": "Presidente da República espera celeridade nas investigações a Luís Neves",
+      "link": "https://www.noticiasaominuto.com/pais/3040256/presidente-da-republica-espera-celeridade-nas-investigacoes-a-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 13:04:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ad8c92f18a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b8455f39ae2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTEsImNyb3BZIjoyNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NSwiY3JvcEhlaWdodCI6MTcxNSwiY3JvcFgiOjk2NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Ucrânia? Rússia retira embaixador no Reino Unido para pressionar Londres",
-      "link": "https://www.noticiasaominuto.com/mundo/3040247/ucrania-russia-retira-embaixador-no-reino-unido-para-pressionar-londres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 12:31:35",
+      "title": "É oficial. Série de \"God of War\" terá Bautista a interpretar protagonista",
+      "link": "https://www.noticiasaominuto.com/tech/3039756/e-oficial-serie-de-god-of-war-tera-bautista-a-interpretar-protagonista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 13:01:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ada1a1254f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDE2LCJjcm9wSGVpZ2h0IjoxMTM0LCJjcm9wWCI6LTEsImNyb3BZIjoxNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzU1LCJjcm9wSGVpZ2h0IjoxMzQzLCJjcm9wWCI6OTc2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5b53ba884a073.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzc0LCJjcm9wSGVpZ2h0IjoxNTYxLCJjcm9wWCI6MTMsImNyb3BZIjoxNDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMzMsImNyb3BIZWlnaHQiOjE4MzcsImNyb3BYIjo3ODYsImNyb3BZIjoxNH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bienal? \"Instituição importante fora dos circuitos dominantes\"",
-      "link": "https://www.noticiasaominuto.com/cultura/3040245/bienal-instituicao-importante-fora-dos-circuitos-dominantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 12:26:16",
+      "title": "Quer perder menos tempo a passar a ferro? 6 dicas que vão ajudar",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3037954/quer-perder-menos-tempo-a-passar-a-ferro-6-dicas-que-vao-ajudar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 13:01:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47650281.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjU5MywiY3JvcFkiOjM0MX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8415e87ac1a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEwODQsImNyb3BZIjowfX0="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O Google Maps vai finalmente mudar para sempre a vida dos camiões",
+      "link": "https://pplware.sapo.pt/motores/o-google-maps-vai-finalmente-mudar-para-sempre-a-vida-dos-camioes/",
+      "pubDate": "Sun, 23 Aug 2026 12:00:41 +0000",
+      "description": "O Google Maps prepara-se para responder a uma das falhas mais antigas da sua plataforma de navegação. A gigante tecnológica disponibilizou oficialmente nos Estados Unidos o recurso Large Vehicle Routing, um sistema avançado concebido&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/google_maps_camioes_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sun, 23 Aug 2026 08:00:24 +0000",
       "description": "A última atualização do Windows 11 está a provocar problemas a milhares de utilizadores, especialmente nos jogos. Lançado pela Microsoft para reforçar a proteção com a correção de mais de 400 vulnerabilidades de segurança,&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/06/windows_11_migrar_1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Robô humanoide pulveriza recorde mundial dos 100 metros! Adeus, Usain Bolt",
-      "link": "https://pplware.sapo.pt/high-tech/robo-humanoide-pulveriza-recorde-mundial-dos-100-metros-adeus-usain-bolt/",
-      "pubDate": "Sun, 23 Aug 2026 07:00:23 +0000",
-      "description": "O avanço da tecnologia acaba de cruzar uma fronteira histórica no desporto e na engenharia robótica. O robô humanoide Lightning, desenvolvido pela Honor, completou a prova dos 100 metros planos no tempo de 9,32&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/robo_recorde_1.jpg"
     },
     {
       "sourceId": "autosport",
