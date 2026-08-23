@@ -1,24 +1,34 @@
 {
-  "updated": "2026-08-23T07:57:57.662609+00:00",
+  "updated": "2026-08-23T08:33:53.361798+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 8h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2496/",
-      "pubDate": "Sun, 23 Aug 2026 08:13:32 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "9h. Sobe para 14 o número de distritos em aviso amarelo",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2449/",
+      "pubDate": "Sun, 23 Aug 2026 09:14:31 +0100",
+      "description": "Dos 18 distritos em Portugal Continental, apenas Beja, Évora, Faro e Portalegre não estão abrangidos pelo aviso amarelo do IPMA. Ainda, Irão deixa aviso a quem alinhar com EUA.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 7h",
+      "title": "8h. PCP avisa: viabilizar OE torna PS responsável",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2496/",
+      "pubDate": "Sun, 23 Aug 2026 08:13:32 +0100",
+      "description": "Paulo Raimundo defende que ao deixar passar a proposta... os socialistas estão a permitir que o chega não diga ao que vem. Ainda, Trump repete que o Estreito de Ormuz é território norte-americano.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. Oito distritos em aviso amarelo entre as 9h e as 18h",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2483/",
       "pubDate": "Sun, 23 Aug 2026 07:15:31 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "É esperada precipitação, em especial a noroeste, no Minho e Douro Litoral, mas também no litoral oeste, a partir do meio da manhã, acompanhada de trovoada. Ainda, ponto de situação dos incêndios.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vale tudo na caça à multa? Até usar um disfarce de arbusto?",
-      "link": "https://observador.pt/programas/operacao-stop/vale-tudo-na-caca-a-multa-ate-usar-um-disfarce-de-arbusto/",
-      "pubDate": "Sun, 23 Aug 2026 06:02:26 +0100",
-      "description": "Na ânsia de apanhar condutores a prevaricar, alguns polícias levam a\n\ndedicação ao extremo. Um, em vez de se esconder atrás de um arbusto,\n\nvestiu-se como tal (só) para apanhar condutores em infracção.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Advertência de Teerão. Países que apoiem \"guerra económica\" dos EUA serão considerados inimigos",
+      "link": "https://www.rtp.pt/noticias/mundo/advertencia-de-teerao-paises-que-apoiem-guerra-economica-dos-eua-serao-considerados-inimigos_n1761074",
+      "pubDate": "Sun, 23 Aug 2026 10:12:41 +0100",
+      "description": "O Irão anunciou no sábado que todos os países que participem na &quot;imposição de restrições económicas&quot; serão considerados inimigos do país, na sequência da guerra económica anunciada pelos Estados Unidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/96/960fbcb4fa1791716786145fda1bff80?w=350&amp;q=50&amp;rect=0,104,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,14 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Nova jornada de ataques cruzados deixa nove mortos na Ucrânia e quatro na Rússia",
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/nova-jornada-de-ataques-cruzados-deixa-nove-mortos-na-ucrania-e-quatro-na-russia_n1761064",
-      "pubDate": "Sun, 23 Aug 2026 08:56:35 +0100",
-      "description": "Pelo menos nove pessoas morreram sábado na Ucrânia em ataques com drones e mísseis russos, enquanto uma ofensiva ucraniana com drones na região russa de Krasnodar e na Crimeia provocou quatro mortos, incluindo duas crianças, segundo autoridades locais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/14/1472b258490df24871cb581a838f96ad?w=350&amp;q=50&amp;rect=0,232,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Artur Jorge vence Leonardo Jardim com golo de ex-Sporting",
+      "link": "https://maisfutebol.iol.pt/internacional/flamengo/video-artur-jorge-vence-leonardo-jardim-com-golo-de-ex-sporting",
+      "pubDate": "Sun, 23 Aug 2026 09:27:00 +0100",
+      "description": "Cruzeiro venceu por 2-1 na receção ao Flamengo",
+      "thumbnail": "https://img.iol.pt/image/id/6a1940bfd34e28842c849838/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/futebol/hoje-vai-ser-noticia-178747200",
+      "pubDate": "Sun, 23 Aug 2026 09:00:00 +0100",
+      "description": "FC Porto entra em campo, há dérbi no andebol e ainda um Grande Prémio de Fórmula 1",
+      "thumbnail": "https://img.iol.pt/image/id/69a1fe57d34edcee7c614c29/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 00:32:56 +0100",
       "description": "Avançado uruguaio é cedido pelo Al Hilal até ao final da época, sem opção de compra, e vai continuar na Arábia Saudita",
       "thumbnail": "https://img.iol.pt/image/id/699369d4d34e6a48f4469b15/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Liga 3: Varzim e Belenenses só sabem vencer e lideram após goleadas",
-      "link": "https://maisfutebol.iol.pt/geral/23-08-2026/liga-varzim-e-belenenses-so-sabem-vencer-e-lideram-apos-goleadas",
-      "pubDate": "Sun, 23 Aug 2026 00:23:00 +0100",
-      "description": "Poveiros vencem na visita ao Paços, que ainda não pontuou após a descida. Azuis do Restelo batem a U. Santarém",
-      "thumbnail": "https://img.iol.pt/image/id/6a8a2f65d34ed0733ba812f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Grécia: David Carmo dá a vitória ao Olympiakos na estreia da Liga grega",
-      "link": "https://maisfutebol.iol.pt/grecia/olympiakos/grecia-david-carmo-da-a-vitoria-ao-olympiakos-na-estreia-da-liga-grega",
-      "pubDate": "Sun, 23 Aug 2026 00:20:14 +0100",
-      "description": "Central português marcou o único golo frente ao Atromitos e decidiu a partida aos 82 minutos, já o AEK começou a defesa do título com goleada e Filipe Relvas foi titular",
-      "thumbnail": "https://img.iol.pt/image/id/6a436ff1d34edcee7c65db83/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Líderes europeus discutem em Kyiv reforço da defesa antimíssil",
-      "link": "https://www.noticiasaominuto.com/mundo/3040197/lideres-europeus-discutem-em-kyiv-reforco-da-defesa-antimissil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 08:46:56",
+      "title": "Fogo em Santa Marta de Penaguião em rescaldo desde as 4h00",
+      "link": "https://www.noticiasaominuto.com/pais/3040207/fogo-em-santa-marta-de-penaguiao-em-rescaldo-desde-as-4h00#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 09:29:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8aa5546da31.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg5NiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66e958e92f3c3.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Palhinha em Portugal com Benfica no horizonte. Bayern reage",
-      "link": "https://www.noticiasaominuto.com/desporto/3040196/benfica-palhinha-esta-em-portugal-e-munique-ja-reagiu-ha-um-clube#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 08:44:55",
+      "title": "Nova jornada de ataques deixa nove mortos na Ucrânia e quatro na Rússia",
+      "link": "https://www.noticiasaominuto.com/mundo/3040205/nova-jornada-de-ataques-deixa-nove-mortos-na-ucrania-e-quatro-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 09:22:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9ea62aa94.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47636220.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Explicador da semana. O prémio que o Estado pagará para entrar na REN",
-      "link": "https://www.noticiasaominuto.com/economia/3039664/explicador-da-semana-o-premio-que-o-estado-pagara-para-entrar-na-ren#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 08:31:39",
+      "title": "Avalanche. Carlos III recorda acidente que o deixou perto da morte",
+      "link": "https://www.noticiasaominuto.com/fama/3038780/avalanche-carlos-iii-recorda-acidente-que-o-deixou-perto-da-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 09:06:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67ac916a486e8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6LTF9LCJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJleHBsaWNhZG9yX2RhX3NlbWFuYSIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJjZW50ZXItcmlnaHQifX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a377f87e4b98.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6NywiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjc5MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Quebra da natalidade leva escolas de Macau a incluir alunos idosos",
-      "link": "https://www.noticiasaominuto.com/mundo/3040194/quebra-da-natalidade-leva-escolas-de-macau-a-incluir-alunos-idosos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 08:13:59",
+      "title": "André Silva volta? O onze provável do FC Porto para o jogo com o Arouca",
+      "link": "https://www.noticiasaominuto.com/desporto/3040050/andre-silva-volta-o-onze-provavel-do-fc-porto-para-o-jogo-com-o-arouca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 09:00:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47464557.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_699205d77c3f5.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjExNTYsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Mais outono que verão\". 14 distritos sob aviso devido à chuva e trovoada",
-      "link": "https://www.noticiasaominuto.com/pais/3040195/risco-de-chuva-e-trovoada-coloca-14-distritos-sob-aviso-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 08:12:04",
+      "title": "Lá fora: O \"anjo\" de Mourinho, a estreia de Amorim e o desastre do United",
+      "link": "https://www.noticiasaominuto.com/desporto/3040198/la-fora-o-anjo-de-mourinho-a-estreia-de-amorim-e-o-desastre-do-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 08:56:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69b3ccad326ba.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjc3MywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8aa58a7bce4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MTksImNyb3BIZWlnaHQiOjUxNywiY3JvcFgiOjIzLCJjcm9wWSI6MjF9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Windows 11 a crashar nos jogos? A culpa é da nova atualização da Microsoft",
+      "link": "https://pplware.sapo.pt/microsoft/windows/windows-11-a-crashar-nos-jogos-a-culpa-e-da-nova-atualizacao-da-microsoft/",
+      "pubDate": "Sun, 23 Aug 2026 08:00:24 +0000",
+      "description": "A última atualização do Windows 11 está a provocar problemas a milhares de utilizadores, especialmente nos jogos. Lançado pela Microsoft para reforçar a proteção com a correção de mais de 400 vulnerabilidades de segurança,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/06/windows_11_migrar_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 20:30:29 +0000",
       "description": "A China acaba de avançar com a maior campanha de recolha automóvel da sua história. Cerca de 4,3 milhões de veículos, sobretudo elétricos Tesla, estão abrangidos devido a um problema aparentemente simples, mas potencialmente&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/abertura_mecanica00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dica Mac: use a opção converter um vídeo diretamente no Finder",
-      "link": "https://pplware.sapo.pt/apple/mac/dica-mac-use-a-opcao-converter-um-video-diretamente-no-finder/",
-      "pubDate": "Sat, 22 Aug 2026 19:30:47 +0000",
-      "description": "Se trabalha regularmente com vídeo no Mac, há uma pequena funcionalidade do macOS que pode poupar algum tempo e até evitar a instalação de aplicações adicionais. O sistema operativo da Apple permite recodificar ficheiros&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/codificacao00.webp"
     },
     {
       "sourceId": "autosport",
