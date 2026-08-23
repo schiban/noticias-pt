@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-23T14:18:38.298849+00:00",
+  "updated": "2026-08-23T14:48:09.542994+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "DGArtes lança concursos de 72,8M sob novo regime",
+      "link": "https://observador.pt/2026/08/23/dgartes-concursos-do-programa-de-apoio-sustentado-abrem-na-segunda-feira/",
+      "pubDate": "Sun, 23 Aug 2026 15:21:37 +0100",
+      "description": "O Ministério da Cultura confirmou a abertura dos seis concursos do Programa de Apoio Sustentado da DGArtes, os primeiros sob o novo regime aprovado em agosto de 2026.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:896/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/12/26193237/dgartes-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Presidente do TPI pede apoio ao Japão após sanções dos EUA",
+      "link": "https://observador.pt/2026/08/23/presidente-do-tribunal-penal-internacional-pede-apoio-do-japao-apos-ser-alvo-de-sancoes-dos-eua/",
+      "pubDate": "Sun, 23 Aug 2026 15:19:49 +0100",
+      "description": "Japonesa Tomoko Akane, sancionada pelos EUA por mandados contra Netanyahu e outros responsáveis israelitas, pede a Tóquio que não ceda às pressões de Washington.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23134951/43944962.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Três detidos em preventiva após operação em Rabo de Peixe",
+      "link": "https://observador.pt/2026/08/23/prisao-preventiva-para-tres-dos-oito-detidos-na-vila-acoriana-de-rabo-de-peixe/",
+      "pubDate": "Sun, 23 Aug 2026 15:19:30 +0100",
+      "description": "PSP apreendeu mais de 7.000 doses de cocaína, haxixe e liamba e quase 18.500 euros. Populares atacaram viaturas policiais com pedras, forçando seis tiros de advertência.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23121021/45429430.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,84 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Terminal de GNL de Sines em greve com adesão de 100%",
-      "link": "https://observador.pt/2026/08/23/adesao-a-greve-dos-trabalhadores-da-ren-atlantico-e-de-100-sindicato/",
-      "pubDate": "Sun, 23 Aug 2026 15:13:02 +0100",
-      "description": "Paralisação convocada pela Fiequimetal e SITE Sul decorre até terça-feira. Sem acordo, há trabalhadores que teriam de fazer mais 26 anos e nove meses em turnos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/28203657/44855517.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Kane eleito melhor jogador na Alemanha",
-      "link": "https://observador.pt/2026/08/23/harry-kane-eleito-o-melhor-futebolista-na-alemanha-kompany-e-o-melhor-treinador/",
-      "pubDate": "Sun, 23 Aug 2026 15:12:55 +0100",
-      "description": "O avançado inglês venceu a distinção com 272 votos. Kompany foi eleito melhor treinador. O prémio de jogador é atribuído desde 1960.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23141853/47484647.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Recorde de colocados, mas pobres recuam para 3%",
-      "link": "https://observador.pt/2026/08/23/sindicato-do-ensino-superior-preocupado-com-numero-de-estudantes-pobres-colocados/",
-      "pubDate": "Sun, 23 Aug 2026 15:12:45 +0100",
-      "description": "Cerca de 1.600 alunos do escalão A foram colocados na 1.ª fase do concurso nacional — mais do que em 2025, mas com peso menor. SNESup alerta para filtro socioeconómico nos cursos mais competitivos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:353/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/04/27172655/gettyimages-1198687849-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Taranto2026. Tiago Maciel dá terceira medalha à canoagem",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-tiago-maciel-da-terceira-medalha-a-canoagem_d1761120",
+      "pubDate": "Sun, 23 Aug 2026 16:46:25 +0100",
+      "description": "Tiago Maciel foi hoje segundo no C1 1.000 metros, conquistando a terceira medalha para a canoagem portuguesa em Taranto2026, onde a Missão lusa já soma sete medalhas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/31/310402b1d907c2305201de8729c307ab?w=350&amp;q=50&amp;rect=0,439,4713,2584&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Cerca de 10 mil pessoas manifestam-se na Suécia pelo clima a menos de um mês das eleições",
-      "link": "https://www.rtp.pt/noticias/mundo/cerca-de-10-mil-pessoas-manifestam-se-na-suecia-pelo-clima-a-menos-de-um-mes-das-eleicoes_n1761113",
-      "pubDate": "Sun, 23 Aug 2026 16:09:18 +0100",
-      "description": "Cerca de 10.000 pessoas manifestaram-se hoje em Estocolmo, na Suécia, em defesa do clima, a menos de um mês das eleições legislativas, constataram jornalistas da Agence France-Presse (AFP) no local.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Taranto2026. Canoísta Ana Brito conquista ouro no K1 500 metros",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-canoista-ana-brito-conquista-ouro-no-k1-500-metros_d1761119",
+      "pubDate": "Sun, 23 Aug 2026 16:43:24 +0100",
+      "description": "Ana Brito conquistou hoje o ouro no K1 500 metros em Taranto2026, somando o segundo título e a quarta medalha para a canoagem portuguesa nesta edição dos Jogos do Mediterrâneo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d9a9ef78f33a500ff9619029863c3a40?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "14h PR espera celeridade nas averiguações que envolvem o MAI.",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/14h-pr-espera-celeridade-nas-averiguacoes-que-envolvem-o-mai_a1_1761112",
-      "pubDate": "Sun, 23 Aug 2026 15:42:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Harry Kane eleito o melhor futebolista na Alemanha, Kompany é o melhor treinador",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/harry-kane-eleito-o-melhor-futebolista-na-alemanha-kompany-e-o-melhor-treinador_d1761118",
+      "pubDate": "Sun, 23 Aug 2026 16:40:06 +0100",
+      "description": "O avançado internacional inglês Harry Kane, do Bayern Munique, foi eleito o melhor futebolista na Alemanha em 2025/26, enquanto o belga Vincent Kompany, também dos bávaros, o melhor treinador.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/69/69746030f9b6d849486105792da06d15?w=350&amp;q=50&amp;rect=0,0,4485,2459&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Bombeiro ferido em Arouca que está em estado crítico vai ter nova cirurgia hoje",
-      "link": "https://www.rtp.pt/noticias/pais/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-hoje_n1761092",
-      "pubDate": "Sun, 23 Aug 2026 15:27:33 +0100",
-      "description": "O bombeiro que está em pior condição clínica, na sequência do acidente que na quarta-feira de madrugada feriu quatro operacionais da corporação de Arouca, vai ser hoje submetido a nova intervenção cirúrgica, revelou o Hospital São Sebastião.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "GP dos Países Baixos interrompido devido a acidente de Max Verstappen",
+      "link": "https://www.rtp.pt/noticias/motores/gp-dos-paises-baixos-interrompido-devido-a-acidente-de-max-verstappen_d1761117",
+      "pubDate": "Sun, 23 Aug 2026 16:36:51 +0100",
+      "description": "O Grande Prémio dos Países Baixos de Fórmula 1, 12.ª ronda da temporada, foi interrompido à segunda volta devido a um violento acidente sofrido pelo neerlandês Max Verstappen (Red Bull).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c03ca95b7a332bc422366d83a99fa47b?w=350&amp;q=50&amp;rect=0,86,2300,1261&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Presidente ucraniano pede ao parlamento que aprove reformas para desbloquear verbas da UE",
-      "link": "https://www.rtp.pt/noticias/mundo/presidente-ucraniano-pede-ao-parlamento-que-aprove-reformas-para-desbloquear-verbas-da-ue_n1761098",
-      "pubDate": "Sun, 23 Aug 2026 15:27:04 +0100",
-      "description": "O Presidente da Ucrânia pediu hoje ao Parlamento ucraniano que aprove as reformas internas indispensáveis para receber os 30 mil milhões de euros em fundos europeus destinados a colmatar o atual défice nas despesas com a defesa.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Portugal soma nova derrota no Europeu feminino de voleibol ao perder com Bélgica",
+      "link": "https://www.rtp.pt/noticias/lusa/portugal-soma-nova-derrota-no-europeu-feminino-de-voleibol-ao-perder-com-belgica_d1761105",
+      "pubDate": "Sun, 23 Aug 2026 16:33:21 +0100",
+      "description": "A seleção portuguesa feminina de voleibol somou hoje a segunda derrota na edição de 2026 do Europeu, ao perder por 3-0 diante da Bélgica, em jogo da segunda jornada do Grupo C, realizado em Baku.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/74/74b3f268b46e0e798fcb413712ae04a1?w=350&amp;q=50&amp;rect=0,253,4272,2342&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Festival de Vilar de Mouros regressa em 2027",
-      "link": "https://www.rtp.pt/noticias/cultura/festival-de-vilar-de-mouros-regressa-em-2027_v1761110",
-      "pubDate": "Sun, 23 Aug 2026 15:26:47 +0100",
-      "description": "Terminou, esta madrugada, o Festival de Vilar de Mouros. O rock e o metal dominaram o último de cinco dias de música.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be4a48f42f35730701088b894cd02b9d_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "«Temos de elevar a agressividade, esteve muito aquém contra o Benfica»",
+      "link": "https://maisfutebol.iol.pt/casa-pia/filipe-coelho/temos-de-elevar-a-agressividade-esteve-muito-aquem-contra-o-benfica",
+      "pubDate": "Sun, 23 Aug 2026 15:27:00 +0100",
+      "description": "Filipe Coelho falou ainda sobre as contratações de João Rêgo e Aymen Zouin",
+      "thumbnail": "https://img.iol.pt/image/id/6a75f8d0d34e511da0b3232e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Sun, 23 Aug 2026 14:30:00 +0100",
       "description": "Equipas seguem sem conseguir ganhar nesta temporada",
       "thumbnail": "https://img.iol.pt/image/id/6a8af60cd34e511da0b34b26/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: St. Étienne arrasa, adeptos gritam olés e Ian Cathro manda-os calar",
-      "link": "https://maisfutebol.iol.pt/incrivel/ian-cathro/video-st-etienne-arrasa-adeptos-gritam-oles-e-ian-cathro-manda-os-calar",
-      "pubDate": "Sun, 23 Aug 2026 14:00:35 +0100",
-      "description": "Ex-treinador do Estoril repreendeu os adeptos da própria equipa",
-      "thumbnail": "https://img.iol.pt/image/id/6a7f9f21d34e511da0b336ae/250"
     },
     {
       "sourceId": "sapo",
@@ -205,6 +205,26 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "\"Fora!\". Adeptos do Al Ahli exigem saída de ex-Benfica Rui Pedro Braz",
+      "link": "https://www.noticiasaominuto.com/desporto/3040300/fora-adeptos-do-al-ahli-exigem-saida-de-ex-benfica-rui-pedro-braz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 15:35:08",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b04ff476ff.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "É chinesa a marca de carros elétricos com mais reclamações em Portugal",
+      "link": "https://www.noticiasaominuto.com/auto/3039137/e-chinesa-a-marca-de-carros-eletricos-com-mais-reclamacoes-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 15:27:18",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a86ffc77a571.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzOSwiY3JvcEhlaWdodCI6MTY2OSwiY3JvcFgiOjU5OCwiY3JvcFkiOjE1fX0="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "EM DIRETO: Vitória SC e Nacional abrem o dia... com o topo em discussão",
       "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-23 15:06:51",
@@ -230,26 +250,6 @@
       "pubDate": "2026-08-23 15:00:56",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8336295968e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODU0LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Atenção, Benfica. Aarhus volta a tropeçar no campeonato",
-      "link": "https://www.noticiasaominuto.com/desporto/3040292/atencao-benfica-aarhus-volta-a-tropecar-no-campeonato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:56:25",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af5143860d.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Um dos desaparecidos do incêndio em restaurante na Suíça encontrado vivo",
-      "link": "https://www.noticiasaominuto.com/mundo/3040294/um-dos-desaparecidos-do-incendio-em-restaurante-na-suica-encontrado-vivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 14:49:24",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8af822a5762.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjo3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODY0LCJjcm9wSGVpZ2h0IjoxNTM2LCJjcm9wWCI6NjEwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
