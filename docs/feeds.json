@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-23T01:04:36.167531+00:00",
+  "updated": "2026-08-23T02:42:41.433318+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
+      "title": "3h. PCP desafia PS a não viabilizar o OE",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2414/",
+      "pubDate": "Sun, 23 Aug 2026 03:14:16 +0100",
+      "description": "O secretário-geral dos comunistas diz que uma eventual viabilização da parte do PS encosta o partido às decisões do governo. Ainda, entrou em fase de resolução o incêndio em Santarém.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Entrou em fase de resolução o incêndio de Santarém",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2388/",
+      "pubDate": "Sun, 23 Aug 2026 02:13:49 +0100",
+      "description": "Ainda assim, no terreno estão cerca de 500 operacionais em operações de rescaldo. Ainda, o Futebol Clube do Porto vai receber o Arouca amanhã.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Incêndios. Há a esta hora 2 fogos ativos",
       "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2361/",
       "pubDate": "Sun, 23 Aug 2026 01:14:51 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O incêndio em Santarém é o que mobiliza mais meios. Ainda, o Sporting venceu o Alverca por 3-1 em Alvalade a contar para a terceira jornada do campeonato.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1843%3A1838%3Anowe%3A1084%3A166%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F06%2F23181612%2Fdventura-miguel-morgado-4-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Não fazer nada",
-      "link": "https://observador.pt/opiniao/nao-fazer-nada/",
-      "pubDate": "Sun, 23 Aug 2026 00:22:52 +0100",
-      "description": "Perante um estudo que encomendou sobre a segurança social com recomendações de mudanças necessárias, o governo decide não fazer nada. Para não perder votos, Luís Montenegro faz-nos perder tudo.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2224%3A2224%3Anowe%3A226%3A374%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170541%2Fandre-amaral.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Incêndio de Abrantes resolvido, falta Santa Marta de Penaguião",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-incendio-de-abrantes-resolvido-falta-santa-marta-de-penaguiao_a1_1761056",
+      "pubDate": "Sun, 23 Aug 2026 04:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O confinamento ganhou",
-      "link": "https://observador.pt/opiniao/o-confinamento-ganhou/",
-      "pubDate": "Sun, 23 Aug 2026 00:20:01 +0100",
-      "description": "Sartre dizia que o inferno são os outros e tem razão na medida em que a amizade é o triunfo inesperado sobre esse mesmo inferno.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Está em fase de resolução o fogo em Santa Marta de Penaguião",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-esta-em-fase-de-resolucao-o-fogo-em-santa-marta-de-penaguiao_a1_1761053",
+      "pubDate": "Sun, 23 Aug 2026 03:16:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Sun, 23 Aug 2026 00:25:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Google Pixel 11 Pro XL: evolução sem revolução onde a inteligência artificial assume o comando",
-      "link": "https://www.rtp.pt/noticias/mundo/google-pixel-11-pro-xl-evolucao-sem-revolucao-onde-a-inteligencia-artificial-assume-o-comando_n1761040",
-      "pubDate": "Sun, 23 Aug 2026 00:02:49 +0100",
-      "description": "A Google renovou o seu smartphone de topo com mais inteligência artificial, câmaras melhoradas e um novo processador. Há novidades interessantes, mas também algumas escolhas que mostram que esta evolução ainda está longe de ser perfeita.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9aafc222e88bcab6f5c16ea8a1303fcf?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Kevin De Bruyne salta do banco para desbloquear triunfo do Nápoles",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/kevin-de-bruyne-salta-do-banco-para-desbloquear-triunfo-do-napoles_d1761044",
-      "pubDate": "Sat, 22 Aug 2026 23:39:30 +0100",
-      "description": "O Nápoles venceu hoje por 2-0 em casa do Génova, na estreia na Liga italiana de futebol, com um golo e uma assistência nos minutos finais do belga Kevin De Bruyne, que começou no banco dos suplentes.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcda4db95ba4c9cf18825169ec051121?w=350&amp;q=50&amp;rect=0,35,2379,1304&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
