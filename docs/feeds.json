@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-23T05:54:00.145173+00:00",
+  "updated": "2026-08-23T06:33:52.650583+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 7h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2483/",
+      "pubDate": "Sun, 23 Aug 2026 07:15:31 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "5h. Futebol. O FCP joga hoje com o Arouca",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1558/",
-      "pubDate": "Sun, 23 Aug 2026 05:16:30 +0100",
-      "description": "Na antevisão, o técnico dos dragões não desvaloriza a partida. Ainda, entrou em fase de resolução o incêndio de Santa Marta de Penaguião no distrito de Vila Real.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Preços do ouro e bitcoin disparam com venda de dólares e dívida recorde dos EUA",
+      "link": "https://www.rtp.pt/noticias/economia/precos-do-ouro-e-bitcoin-disparam-com-venda-de-dolares-e-divida-recorde-dos-eua_n1761052",
+      "pubDate": "Sun, 23 Aug 2026 08:25:33 +0100",
+      "description": "Os preços Bitcoin e do ouro dispararam esta semana, ambos impulsionados por movimentos intensos no mercado obrigacionista, enquanto a principal criptomoeda internacional beneficiou de iniciativas políticas e económicas nos Estados Unidos, reportou a Associated Press.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Inflação energética na América Latina e Caraíbas atingiu nível mais elevado de 2026 em junho",
+      "link": "https://www.rtp.pt/noticias/economia/inflacao-energetica-na-america-latina-e-caraibas-atingiu-nivel-mais-elevado-de-2026-em-junho_n1761051",
+      "pubDate": "Sun, 23 Aug 2026 08:24:29 +0100",
+      "description": "A inflação energética na América Latina e Caraíbas atingiu 8,03% em junho, o nível mais elevado de 2026, impulsionada pela subida dos preços dos combustíveis e pela guerra no Médio Oriente, informou a Organização Latino-Americana e Caribenha de Energia (Olacde).",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "7h Trovoada e chuva põem país sob alerta amarelo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-trovoada-e-chuva-poem-pais-sob-alerta-amarelo_a1_1761070",
+      "pubDate": "Sun, 23 Aug 2026 08:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -68,36 +98,6 @@
       "title": "5h Em resolução os dois maiores fogos deste sábado",
       "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-em-resolucao-os-dois-maiores-fogos-deste-sabado_a1_1761063",
       "pubDate": "Sun, 23 Aug 2026 06:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "4h Vem aí chuva, trovoada e vento forte",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-vem-ai-chuva-trovoada-e-vento-forte_a1_1761062",
-      "pubDate": "Sun, 23 Aug 2026 05:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "3h Incêndio de Abrantes resolvido, falta Santa Marta de Penaguião",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-incendio-de-abrantes-resolvido-falta-santa-marta-de-penaguiao_a1_1761056",
-      "pubDate": "Sun, 23 Aug 2026 04:16:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h Está em fase de resolução o fogo em Santa Marta de Penaguião",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-esta-em-fase-de-resolucao-o-fogo-em-santa-marta-de-penaguiao_a1_1761053",
-      "pubDate": "Sun, 23 Aug 2026 03:16:01 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governador mexicano procurado nos EUA por tráfico volta a afastar-se",
-      "link": "https://www.noticiasaominuto.com/mundo/3040171/governador-mexicano-procurado-nos-eua-por-trafico-volta-a-afastar-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:51:40",
+      "title": "Sporting instável finta dores de crescimento com três tiros e um regresso",
+      "link": "https://www.noticiasaominuto.com/desporto/3040157/sporting-instavel-finta-dores-de-crescimento-com-tres-tiros-e-um-regresso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 07:23:03",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8a464d1fb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0e65ad9b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo4OH0sInN0YW1wIjp7ImNhdGVnb3J5IjoiZGVzcG9ydG8iLCJsYWJlbCI6Im5vdGFzX2RvX2pvZ28iLCJjb2xvciI6ImJyYW5jbyIsInBvc2l0aW9uIjoidG9wLXJpZ2h0In0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxMSwiY3JvcEhlaWdodCI6MTc5NywiY3JvcFgiOjIzMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Taiwan lança primeiro foguetão sonda de fabrico interno",
-      "link": "https://www.noticiasaominuto.com/mundo/3040168/taiwan-lanca-primeiro-foguetao-sonda-de-fabrico-interno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:48:12",
+      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+      "link": "https://www.noticiasaominuto.com/desporto/3040189/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 07:21:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8906502da.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzkyLCJjcm9wSGVpZ2h0Ijo3ODMsImNyb3BYIjo1NTIsImNyb3BZIjoyMDF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9169cee19.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Justiça do Peru renova mandado de captura de ex-primeira ministra exilada",
-      "link": "https://www.noticiasaominuto.com/mundo/3040177/justica-do-peru-renova-mandado-de-captura-de-ex-primeira-ministra-exilada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:47:30",
+      "title": "Preconceito marca alunos LGBTI+ nas escolas em Cabo Verde",
+      "link": "https://www.noticiasaominuto.com/mundo/3040188/preconceito-marca-alunos-lgbti-nas-escolas-em-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 07:18:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6768a01eeba58.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/33843393.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Borges explica ausência de Gonçalo Inácio no onze: \"Não dou garantias...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040185/borges-explica-ausencia-de-goncalo-inacio-no-onze-nao-dou-garantias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:43:12",
+      "title": "O rumor da semana: Chegada de Palhinha leva Benfica a sacrificar Ríos?",
+      "link": "https://www.noticiasaominuto.com/desporto/3040187/o-rumor-da-semana-chegada-de-palhinha-leva-benfica-a-sacrificar-rios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 07:18:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a871a1ab4f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8c7d2ea2f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dois mortos e cinco feridos em queda de estátua de sete metros em Mumbai",
-      "link": "https://www.noticiasaominuto.com/mundo/3040184/dois-mortos-e-cinco-feridos-em-queda-de-estatua-de-sete-metros-em-mumbai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 06:33:07",
+      "title": "Venezuela aciona protocolos de emergência devido a \"chuvas intensas\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3040176/venezuela-aciona-protocolos-de-emergencia-devido-a-chuvas-intensas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 06:55:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a857857410.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjM0LCJjcm9wSGVpZ2h0Ijo5MTksImNyb3BYIjoyMjYsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8b4c1545b.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O Android já começou a bloquear a instalação de apps fora da Play Store",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-android-ja-comecou-a-bloquear-a-instalacao-de-apps-fora-da-play-store/",
+      "pubDate": "Sun, 23 Aug 2026 06:00:32 +0000",
+      "description": "A Google iniciou a disponibilização de um novo mecanismo de segurança. Este vai mudar a forma como as aplicações são instaladas no Android. A gigante das pesquisas começou a implementar um fluxo de instalação&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/android_adb_1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Sat, 22 Aug 2026 18:13:41 +0000",
       "description": "Portugal continental prepara-se para uma mudança nas condições meteorológicas, com previsão de chuva por vezes forte e persistente, vento com rajadas e agitação marítima. Perante este cenário, o Governo deixa vários alertas e recomendações&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/mau_tempo.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "The Money Man já tem demo para experimentar na Steam",
-      "link": "https://pplware.sapo.pt/jogos/the-money-man-ja-tem-demo-para-experimentar-na-steam/",
-      "pubDate": "Sat, 22 Aug 2026 18:00:45 +0000",
-      "description": "Há empregos em que um erro pode custar dinheiro. Em The Money Man, pode custar a própria vida. O novo jogo narrativo da Fenyx Digital já tem uma demo disponível na Steam. The Money&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/TheMoneyMan_1.jpg"
     },
     {
       "sourceId": "autosport",
