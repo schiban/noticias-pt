@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-23T22:17:14.912112+00:00",
+  "updated": "2026-08-23T22:46:32.644669+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Porto x Arouca. \"Porto mandão, Porto competitivo!\"",
+      "link": "https://observador.pt/programas/relat-rio-de-jogo/porto-x-arouca-porto-mandao-porto-competitivo/",
+      "pubDate": "Sun, 23 Aug 2026 23:35:15 +0100",
+      "description": "Arouca \"sem autocarro\" com linhas avançadas e com \"espaços que o Porto soube aproveitar\". O Porto, com calma, \"pecou na finalização\", mas Arruabarrena foi o grande responsável.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1536:865:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23211226/amm-5567-1536x1024-1.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O que se passa com escadas e elevadores do Metro de Lisboa?",
-      "link": "https://observador.pt/especiais/o-que-se-passa-com-escadas-e-elevadores-do-metro-de-lisboa/",
-      "pubDate": "Sun, 23 Aug 2026 21:41:51 +0100",
-      "description": "Em fevereiro foi batido o recorde de equipamentos avariados: havia 40 escadas rolantes e 38 elevadores parados nas estações da capital. A manutenção mudou e vão-se notando melhorias.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:28/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10215508/770-avarias-metro.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Um homem de 48 anos desapareceu na praia de Alqueva",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-um-homem-de-48-anos-desapareceu-na-praia-de-alqueva_a1_1761191",
+      "pubDate": "Mon, 24 Aug 2026 00:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -92,64 +102,94 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4f/4fc9aeaedd1c38bc2c82a5081f010e1a?w=350&amp;q=50&amp;rect=0,22,1869,1025&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais um recorde mundial humano batido por um robô humanóide",
-      "link": "https://www.rtp.pt/noticias/mundo/mais-um-recorde-mundial-humano-batido-por-um-robo-humanoide_v1761183",
-      "pubDate": "Sun, 23 Aug 2026 22:28:47 +0100",
-      "description": "Mais um robô quebrou um recorde do mundo, agora na na prova de 400 metros masculinos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/bc/bc69d14d38938756c6bb47280f4d01f3_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Farioli: «Regresso de Fofana? O que disse ontem é válido hoje»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/seko-fofana/farioli-regresso-de-fofana-o-que-disse-ontem-e-valido-hoje",
+      "pubDate": "Sun, 23 Aug 2026 23:38:39 +0100",
+      "description": "FC Porto-Arouca, 2-0 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a78c232d34e511da0b326a4/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Farioli: «Tivemos paciência e maturidade, vitória muito importante»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/farioli/farioli-tivemos-paciencia-e-maturidade-vitoria-muito-importante",
-      "pubDate": "Sun, 23 Aug 2026 22:55:00 +0100",
-      "description": "Treinador do FC Porto reconhece boa exibição do guarda-redes do Arouca, Arruabarrena. Fala ainda da saída de Bednarek: «Sentiu uma dor no gémeo, temos de ver e avaliar», disse",
-      "thumbnail": "https://img.iol.pt/image/id/6a817370d34e511da0b338c9/250"
+      "title": "«A lição da última época é que nesta equipa não há titulares nem suplentes»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/a-licao-da-ultima-epoca-e-que-nesta-equipa-nao-ha-titulares-nem-suplentes",
+      "pubDate": "Sun, 23 Aug 2026 23:35:04 +0100",
+      "description": "FC Porto-Arouca, 2-0 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b5d98d34ed0733ba8147b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Vasco Seabra: «Temos de ser um pouco mais audazes»",
-      "link": "https://maisfutebol.iol.pt/liga/fc-porto/vasco-seabra-temos-de-ser-um-pouco-mais-audazes",
-      "pubDate": "Sun, 23 Aug 2026 22:51:26 +0100",
-      "description": "Treinador do Arouca reconheceu a superioridade do FC Porto e apontou a capacidade para manter a identidade como principal sinal de crescimento dos «lobos»",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b5d89d34e511da0b34c38/250"
+      "title": "VÍDEO: Barcelona entra com mão cheia na liga frente ao Elche de Anselmi",
+      "link": "https://maisfutebol.iol.pt/internacional/barcelona/video-bicampeao-barcelona-entra-de-mao-cheia-na-liga-em-elche",
+      "pubDate": "Sun, 23 Aug 2026 23:31:00 +0100",
+      "description": "Bicampeões com vitória por 5-0. Raphinha e Fermín López bisaram, Adeyemi marcou na estreia",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b7373d34ed0733ba814c0/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "FC Porto-Arouca, 2-0 (destaques)",
-      "link": "https://maisfutebol.iol.pt/liga/fc-porto/fc-porto-arouca-2-0-destaques",
-      "pubDate": "Sun, 23 Aug 2026 22:47:16 +0100",
-      "description": "Sociedade Gabri-William derruba a muralha Arruabarrena",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b648fd34e511da0b34c4e/250"
+      "title": "Farioli: «Estou feliz pelo que fizemos, mas há coisas em que temos de melhorar»",
+      "link": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-estou-feliz-pelo-que-fizemos-mas-ha-coisas-em-que-temos-de-melhorar",
+      "pubDate": "Sun, 23 Aug 2026 23:25:41 +0100",
+      "description": "FC Porto-Arouca, 2-0 (reportagem)",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b6594d34e511da0b34c57/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "«Rodrigo Mora ajudou-me e desejo-lhe sorte, porque qualidade ele tem»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/liga/rodrigo-mora-ajudou-me-e-desejo-lhe-sorte-porque-qualidade-ele-tem",
-      "pubDate": "Sun, 23 Aug 2026 22:44:00 +0100",
-      "description": "William Gomes fala da vitória ante o Arouca e da ida do português para a Roma",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b5d8ad34e511da0b34c3b/250"
+      "title": "Brasileirão: Abel vence Pedro Emanuel e Palmeiras reforça liderança",
+      "link": "https://maisfutebol.iol.pt/brasileirao/palmeiras/brasileirao-abel-vence-pedro-emanuel-e-palmeiras-reforca-lideranca",
+      "pubDate": "Sun, 23 Aug 2026 23:14:00 +0100",
+      "description": "Triunfo por 4-1 ante o Vasco. Grémio, de Luís Castro, perde ante o Bragantino",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b7073d34ed0733ba814b9/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Javi Sánchez: «Faltou-nos a nossa essência»",
-      "link": "https://maisfutebol.iol.pt/liga/fc-porto/javi-sanchez-faltou-nos-a-nossa-essencia",
-      "pubDate": "Sun, 23 Aug 2026 22:38:53 +0100",
-      "description": "Central do Arouca reconheceu dificuldades para assumir o jogo frente ao FC Porto, mas destacou a atitude da equipa na derrota por 2-0 no Dragão",
-      "thumbnail": "https://img.iol.pt/image/id/695bb88ad34e3caad84d1c2f/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Fúria espanhola. Os golos de Gabri e Borja que deram vitória ao FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3040409/furia-espanhola-os-golos-de-gabri-e-borja-que-deram-vitoria-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 23:30:11",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b745900679.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Surfista resgatado na praia do Guincho: Estava em \"dificuldades na água\"",
+      "link": "https://www.noticiasaominuto.com/pais/3040410/surfista-resgatado-na-praia-do-guincho-estava-em-dificuldades-na-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 23:28:02",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_649017cd18ab4.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Polémica a dobrar no Dragão. Alberto e Kiwior tiveram golos anulados",
+      "link": "https://www.noticiasaominuto.com/desporto/3040408/polemica-a-dobrar-no-dragao-alberto-e-kiwior-tiveram-golos-anulados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 23:22:41",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b72bd83ccc.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Bicampeão Barcelona entra na La Liga com exibição de 'mão cheia' em Elche",
+      "link": "https://www.noticiasaominuto.com/desporto/3040402/bicampeao-barcelona-entra-na-la-liga-com-exibicao-de-mao-cheia-em-elche#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 23:15:00",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47652982.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
@@ -159,47 +199,7 @@
       "link": "https://www.noticiasaominuto.com/mundo/3040406/drone-obriga-a-encerramento-temporario-do-aeroporto-de-malaga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-08-23 23:14:28",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b70c5e4938.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Vasco Seabra: \"Sinto que podemos ser mais audazes\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040407/vasco-seabra-sinto-que-podemos-ser-mais-audazes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:12:47",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b6a4c05de5.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Dois homens encontrados mortos na rua. Autoridades espanholas investigam",
-      "link": "https://www.noticiasaominuto.com/mundo/3040405/dois-homens-encontrados-mortos-na-rua-autoridades-espanholas-investigam#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:12:44",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a194847ce25c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NSwiY3JvcEhlaWdodCI6MTcxNSwiY3JvcFgiOjU4NiwiY3JvcFkiOi0xfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Farioli: \"Golos anulados podiam ter sido um ponto de viragem, mas...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040403/farioli-golos-anulados-podiam-ter-sido-um-ponto-de-viragem-mas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:09:17",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b6a3b04aeb.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "William Gomes lembra Mora e atira: \"Sabíamos que o golo ia aparecer\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3040401/william-gomes-lembra-mora-e-atira-sabiamos-que-o-golo-ia-aparecer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:03:37",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b5df022970.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUxfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b70c5e4938.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE0MTYsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
