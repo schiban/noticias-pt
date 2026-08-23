@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-23T16:50:03.193479+00:00",
+  "updated": "2026-08-23T17:16:21.394161+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 18h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2126/",
+      "pubDate": "Sun, 23 Aug 2026 18:09:51 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Britânico Matthew Brennan vence segunda etapa da Vuelta",
+      "link": "https://observador.pt/2026/08/23/um-jovem-britanico-uma-rampa-e-um-sprint-para-baralhar-as-contas-matthew-brennan-vence-segunda-etapa-da-volta-a-espanha/",
+      "pubDate": "Sun, 23 Aug 2026 17:45:23 +0100",
+      "description": "O sprint do britânico da Visma foi suficiente para bater Pau Miquel, segundo, e surpreender Tadej Pogačar, terceiro. Na geral, Pogačar continua na liderança, à frente do belga Wout Van Aert, segundo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3560:1998:nowe:0:98/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23172421/gettyimages-2291160486.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23162205/46627422.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Desabamento de parte de cobertura interior no Oeiras Parque",
-      "link": "https://observador.pt/2026/08/23/desabamento-de-parte-de-cobertura-interior-no-oeiras-parque-sem-registo-de-feridos/",
-      "pubDate": "Sun, 23 Aug 2026 17:09:17 +0100",
-      "description": "O incidente obrigou ao encerramento dos estabelecimentos afetados, não havendo registo de feridos, segundo a CNN e a CMTV.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1436:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/03/29184413/23840319-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "António Morgado termina Volta à Alemanha no 19.º lugar, Nelson Oliveira em 22.º",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/antonio-morgado-termina-volta-a-alemanha-no-19o-lugar-nelson-oliveira-em-22o_d1761151",
+      "pubDate": "Sun, 23 Aug 2026 19:03:26 +0100",
+      "description": "O ciclista português António Morgado (UAE Emirates) terminou hoje no 19.º lugar a Volta à Alemanha, conquistada pelo companheiro de equipa mexicano Isaac Del Toro, após a quarta e última etapa, vencida pelo francês Paul Magnier (Soudal QuickStep).",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Robôs dos Jogos de Pequim estão mais rápidos e fortes",
-      "link": "https://observador.pt/2026/08/23/robos-dos-jogos-de-pequim-estao-mais-rapidos-e-fortes-mas-avancos-trazem-novas-dificuldades/",
-      "pubDate": "Sun, 23 Aug 2026 17:00:43 +0100",
-      "description": "O robô Tiangong venceu as duas finais dos 400 metros, com 38,15 segundos entre os robôs de maior dimensão e 45,66 segundos entre os mais pequenos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/23162334/47651205.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Taranto2026. Irmãos Miguel e Filipe Frazão de bronze na espada",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-irmaos-miguel-e-filipe-frazao-de-bronze-na-espada_d1761150",
+      "pubDate": "Sun, 23 Aug 2026 18:55:43 +0100",
+      "description": "Os esgrimistas portugueses Miguel e Filipe Frazão conquistaram hoje o bronze na prova individual de espada nos Jogos do Mediterrâneo Taranto2026, ao perderem os seus assaltos nas meias-finais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6de98e6f3b6bc6d1497f7e52e6b06a5?w=350&amp;q=50&amp;rect=0,38,1536,842&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Taranto2026. Nadadora Francisca Martins conquista bronze nos 200 metros livres",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-nadadora-francisca-martins-conquista-bronze-nos-200-metros-livres_d1761149",
+      "pubDate": "Sun, 23 Aug 2026 18:52:16 +0100",
+      "description": "A nadadora portuguesa Francisca Martins, campeã dos 400 metros livres, conquistou hoje a medalha de bronze na prova dos 200 metros livres dos Jogos do Mediterrâneo Taranto2026.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e2fa2dc502108512cf044fc0e115c7b?w=350&amp;q=50&amp;rect=54,0,2459,1348&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mau tempo. Desaba parte do teto de um centro comercial em Oeiras",
+      "link": "https://www.rtp.pt/noticias/pais/mau-tempo-desaba-parte-do-teto-de-um-centro-comercial-em-oeiras_n1761138",
+      "pubDate": "Sun, 23 Aug 2026 18:47:10 +0100",
+      "description": "O mau tempo atipico para esta epoca do ano já está a provocar estragos. Em Oeiras, infiltrações levaram à queda de parte do teto de um centro comercial . Várias lojas tiveram que ser encerradas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b190fd50dfde849c0d86b1486a64e2e?w=350&amp;q=50&amp;rect=0,841,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4246e00e343539f90f136ee2bf1cf79?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Chuva faz cair cobertura do Oeiras Parque",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-chuva-faz-cair-cobertura-do-oeiras-parque_a1_1761142",
-      "pubDate": "Sun, 23 Aug 2026 18:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Bola soqueada por Maradona com a «Mão de Deus» leiloada por 2,8 milhões",
+      "link": "https://maisfutebol.iol.pt/internacional/diego-maradona/bola-soqueada-por-maradona-com-a-mao-de-deus-leiloada-por-2-8-milhoes",
+      "pubDate": "Sun, 23 Aug 2026 18:04:00 +0100",
+      "description": "Bola do emblemático golo da final do Mundial 1986 rende valor milionário",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b27f0d34e511da0b34bb2/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Britânico Matthew Brennan vence segunda etapa da Vuelta, Pogacar segue na frente",
-      "link": "https://www.rtp.pt/noticias/ciclismo/britanico-matthew-brennan-vence-segunda-etapa-da-vuelta-pogacar-segue-na-frente_d1761139",
-      "pubDate": "Sun, 23 Aug 2026 18:18:56 +0100",
-      "description": "O ciclista britânico Matthew Brennan (Team Visma/Lease a Bike) venceu hoje ao sprint a segunda etapa da Volta à França, disputada entre o Mónaco e Manosque, com o esloveno Tadej Pogacar (UAE Emirates) a conservar a liderança.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/28/282fa70f99510aad6d8dbac4927c4650?w=350&amp;q=50&amp;rect=0,29,1200,658&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Grécia. Centenas de migrantes resgatados em três dias ao largo da ilha de Creta",
-      "link": "https://www.rtp.pt/noticias/mundo/grecia-centenas-de-migrantes-resgatados-em-tres-dias-ao-largo-da-ilha-de-creta_n1761141",
-      "pubDate": "Sun, 23 Aug 2026 18:15:44 +0100",
-      "description": "Quase 200 migrantes foram resgatados pela polícia grega ao largo da costa de Creta nos últimos três dias. Pelo menos três morreram.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d833111e5d676f5d325496622247b8c7?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "I Liga. Santa Clara - Famalicão",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-santa-clara-famalicao_e1761140",
-      "pubDate": "Sun, 23 Aug 2026 18:12:53 +0100",
-      "description": "O Santa Clara, com quatro pontos, vai defrontar o Famalicão, com um ponto, este domingo, no estádio de São Miguel, em Ponta Delgada, com arbitragem de Iancu Vasilica (Associação de Vila Real).",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/103678a9f21ce268872f2b637579923e?w=350&amp;q=50&amp;rect=0,110,1421,779&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Andebol feminino: Benfica conquista Supertaça pela sexta vez",
+      "link": "https://maisfutebol.iol.pt/modalidades/andebol/andebol-feminino-benfica-conquista-supertaca-pela-sexta-vez",
+      "pubDate": "Sun, 23 Aug 2026 17:51:11 +0100",
+      "description": "Águias não deram hipóteses ao Almeida Garrett na final disputada em Santo Tirso",
+      "thumbnail": "https://img.iol.pt/image/id/6a8b24a4d34ed0733ba813e2/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,24 +152,34 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8b1922d34ed0733ba813c7/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "França: Tiago Santos marca pelo Lille, Bouaddi despede-se dos adeptos",
-      "link": "https://maisfutebol.iol.pt/internacional/made-in/franca-tiago-santos-marca-pelo-lille-bouaddi-despede-se-dos-adeptos",
-      "pubDate": "Sun, 23 Aug 2026 17:08:00 +0100",
-      "description": "Lateral português não marcava há dois anos",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b1aacd34ed0733ba813c9/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Um Trump, oito Lulas, 20 Bolsonaros e muito mais bizarrices nas eleições do Brasil",
+      "link": "https://sapo.pt/artigo/um-trump-oito-lulas-20-bolsonaros-e-muito-mais-bizarrices-nas-eleicoes-do-brasil-6a8b199457577bfcb514ad0e",
+      "pubDate": "Sun, 23 Aug 2026 17:07:32 +0000",
+      "description": "Os brasileiros vão poder votar em sósias, super-heróis, músicos estrangeiros e muito mais num festival de alcunhas para todos os gostos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3ATZTMxJG3WjUKDUJJ86%2Bl9iliRMFP3R1zVSxpR3AYJb1gbxMQ%2F7b7lU36iJEZ69SLT9mUB0KQvn0v6d8t00jJeb0uLBJMVlzkZevYajSrikmfM7aXh9QX8D7ImTCanvh4"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Benfica renova com médio de 19 anos",
-      "link": "https://maisfutebol.iol.pt/benfica/mercado/oficial-benfica-renova-com-medio-de-19-anos",
-      "pubDate": "Sun, 23 Aug 2026 16:40:23 +0100",
-      "description": "Dinis Telehovschi está há 11 épocas de águia ao peito",
-      "thumbnail": "https://img.iol.pt/image/id/6a8b13c1d34ed0733ba813b2/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Chuva forte provoca desabamento parcial de teto no Oeiras Parque",
+      "link": "https://sapo.pt/artigo/chuva-forte-provoca-desabamento-parcial-de-teto-no-oeiras-parque-6a8b238c9b79793efa4e79f8",
+      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
+      "description": "Incidente não causou feridos, mas obrigou ao encerramento de lojas. Proteção Civil já tinha alertado para o impacto da precipitação e risco de inundações urbanas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=421&W=750&crop=center&delay_optim=1&epic=V2%3AgS3w7z36E1XBEKrw5Ev1iLqU7HnPHBtQUA0oSrD49I2B4rPkbeo9mgrzA35HRiKWwev912dKvh2lak1kTyL%2BzG4%2BKHqcj%2B0FUG3TJ3wo4zaVmmMVWHKZlNHlQUyb4wpn"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Adeus Iowa, olá Carolina do Sul. Eleitores negros ganham força na luta democrata pela Casa Branca",
+      "link": "https://sapo.pt/artigo/adeus-iowa-ola-carolina-do-sul-eleitores-negros-ganham-forca-na-luta-democrata-pela-casa-branca-6a8b20609b79793efa4e205b",
+      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
+      "description": "Partido aprovou um novo calendário para as primárias de 2028 que visa testar os candidatos em estados-chave e num eleitorado cada vez mais diversificado.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=379&W=675&crop=center&delay_optim=1&epic=V2%3Af8N0ZZqNs4FutdARnqFZhB1hiWhinWFhqx3pfGqQjh5YCUspE98U%2FLnwD8LTCGck9VfHVxKr%2BEr7scxm0WA%2B0UPPLmUnhKLnyMmlEXA3Y9kPxWcm%2FzL0FJQkgaK%2Fw1UY"
     },
     {
       "sourceId": "sapo",
@@ -165,59 +195,29 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Seguro sobre Neves: \"Cada um assuma a sua responsabilidade\"",
-      "link": "https://sapo.pt/artigo/seguro-sobre-neves-cada-um-assuma-a-sua-responsabilidade-6a8ae2f5d0cbd78bc7a8d099",
-      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
-      "description": "Presidente da República pede celeridade nas investigações e auditorias ao ministro da Administração Interna. E pede que cada orgão de soberania \"assuma a sua responsabilidade\" neste processo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ATQDJfh%2FTxHJWUzQ0nsje4vz3IIxFsn%2B8m8ivfsFMunT7HDH7zr7LpoyNI628kzwIviDJyKbXZI0pl9al%2FYrAwtxe%2FKeBH6GyiM3MrlO0Ccy8tMvoMNRriQB7xb03aCM1"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Desabamento de parte de cobertura interior no Oeiras Parque",
-      "link": "https://sapo.pt/artigo/desabamento-de-parte-de-cobertura-interior-no-oeiras-parque-6a8b1b67e58eb3a3e6a7d645",
-      "pubDate": "Sun, 23 Aug 2026 16:35:50 +0000",
-      "description": "O incidente obrigou ao encerramento dos estabelecimentos afetados, não havendo registo de feridos, segundo a CNN e a CMTV.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Akd3hJKrWMQUQHU9sNoAHs8qLUlsMGAftWn3JMZ35QZ1tRzBudaoFtG44SVhDhMUaRvFOIp%2BwxUisB6YazmfA9sEdQlqQpYA3cpe9VYPlGqeSJO4Eco6AO0sovcbMUoZz"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Bombeiro ferido em Arouca que está em estado crítico vai ter nova cirurgia este domingo",
-      "link": "https://sapo.pt/artigo/bombeiro-ferido-em-arouca-que-esta-em-estado-critico-vai-ter-nova-cirurgia-este-domingo-6a8ae4f757577bfcb50d84e0",
-      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
-      "description": "Acidente aconteceu na quarta-feira de madrugada e feriu quatro operacionais da corporação de Arouca que combatiam um incêndio.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AoVwLFJGQ5EciCBHyh9MLOjj1Lu48jqYMsulxb2z4bCdxy2vpmGgP7HKUYkUvnCwDdvVv8dqCcFOxCunc3Dwl4QlgSUsxARub0UxvwwbpnOKzfHtTuT%2Ba92rELnxTEOEC"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Da pizza à cola na porta: os truques usados pelos okupas para encontrar casas vazias em Espanha",
-      "link": "https://executivedigest.sapo.pt/da-pizza-a-cola-na-porta-os-truques-usados-pelos-okupas-para-encontrar-casas-vazias/",
-      "pubDate": "Sun, 23 Aug 2026 14:58:36 +0000",
-      "description": "Os chamados okupas, nome dado em Espanha a quem ocupa ilegalmente imóveis, recorrem a diferentes métodos para identificar casas vazias, entrar nas propriedades e tentar prolongar a permanência no interior através de expedientes que exploram o funcionamento da lei espanhola.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=414&W=738&crop=center&delay_optim=1&epic=V2%3AtTEjt0ZaNxzHrrO%2BvswjG2smMe8gOrUKTVxEH%2FFlmpU19G1WVAWiQmf0myuuIlcrbcD7TDfU5ffq%2BXbG5zDqZkAo%2FgzpvR8a2IvorP0mebb6mBNH7V1FfWxXXQZ%2FWNuN"
+      "title": "Grécia transfere mísseis antiaéreos para Creta face ao risco",
+      "link": "https://sapo.pt/artigo/grecia-transfere-misseis-antiaereos-para-creta-face-ao-risco-6a8b1c63e58eb3a3e6a7fe7f",
+      "pubDate": "Sun, 23 Aug 2026 17:05:43 +0000",
+      "description": "A decisão surge depois de o jornal britânico Financial Times ter noticiado esta semana que o Irão está a avaliar a possibilidade de atacar bases com interesses norte-americanos na Europa.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AL5oHTqFUSuNhJVv%2FoB10YsIuwhWZQGz%2F%2FySKhj1xl3%2BOlEHEwZM%2BzRm086KGLdHCPxOsFqEkmUmFRtHi99C47JtcvVBcx%2Fl9zDaSqWyyGPF44ZvEzM5In0aaStJkHatW"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carta assinada por jovem sequestrada no Brasil encontrada no bolso do ex",
-      "link": "https://www.noticiasaominuto.com/mundo/3040324/carta-assinada-por-jovem-sequestrada-no-brasil-encontrada-no-bolso-do-ex#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:39:56",
+      "title": "Guiné Conacri. Sobe para 22 n.º de mortos em desmoronamento de aterro",
+      "link": "https://www.noticiasaominuto.com/mundo/3040335/guine-conacri-sobe-para-22-n-de-mortos-em-desmoronamento-de-aterro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:06:54",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b1fc8636b3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MTIsImNyb3BIZWlnaHQiOjIzMiwiY3JvcFgiOjIsImNyb3BZIjo3Mn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b1691dcac7.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Vitória SC alcança triunfo. Santa Clara recebe Famalicão",
+      "title": "EM DIRETO: Santa Clara recebe Famalicão, antes do FC Porto-Arouca",
       "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:32:10",
+      "pubDate": "2026-08-23 18:05:29",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_690e0b1af0c15.webp"
     },
@@ -225,31 +225,41 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Vitória SC afasta mau olhado e abate Nacional rumo ao primeiro triunfo",
-      "link": "https://www.noticiasaominuto.com/desporto/3040320/vitoria-sc-afasta-mau-olhado-e-abate-nacional-rumo-ao-primeiro-triunfo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:31:09",
+      "title": "Merz pede aceleração das reformas perante ameaças da extrema-direita",
+      "link": "https://www.noticiasaominuto.com/mundo/3040334/merz-pede-aceleracao-das-reformas-perante-ameacas-da-extrema-direita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:04:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b166a00b2c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68db0ef408290.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Matthew Brennan vence segunda etapa da Vuelta, Pogacar segue na frente",
-      "link": "https://www.noticiasaominuto.com/desporto/3040323/matthew-brennan-vence-segunda-etapa-da-vuelta-pogacar-segue-na-frente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:27:39",
+      "title": "Governo da Madeira rejeita atrasos no envio de apoio à Venezuela",
+      "link": "https://www.noticiasaominuto.com/pais/3040333/governo-da-madeira-rejeita-atrasos-no-envio-de-apoio-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:04:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/44869270.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjUyMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_60645f2d0fef0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Segurança Social? Governo que se \"atreva\" a \"pôr mão no dinheiro\"",
-      "link": "https://www.noticiasaominuto.com/pais/3040319/seguranca-social-governo-que-se-atreva-a-por-mao-no-dinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 17:12:31",
+      "title": "Negócio fechado. Seko Fofana está de regresso ao FC Porto",
+      "link": "https://www.noticiasaominuto.com/desporto/3040332/negocio-fechado-seko-fofana-esta-de-regresso-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-23 18:03:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47648264.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69f67a4a31d2d.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Ainda vale a pena comprar uma câmara fotográfica digital em 2026?",
+      "link": "https://pplware.sapo.pt/multimedia-2/imagem/ainda-vale-a-pena-comprar-uma-camara-fotografica-digital-em-2026/",
+      "pubDate": "Sun, 23 Aug 2026 17:00:24 +0000",
+      "description": "Numa era em que os smartphones dominam a captura rápida de imagens, surge a questão se ainda faz sentido investir num equipamento dedicado à fotografia. Ainda vale a pena investir numa câmara? O valor&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/camaras_digitais.webp"
     },
     {
       "sourceId": "pplware",
@@ -292,14 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/ecras_mercedes01.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Google Maps vai finalmente mudar para sempre a vida dos camiões",
-      "link": "https://pplware.sapo.pt/motores/o-google-maps-vai-finalmente-mudar-para-sempre-a-vida-dos-camioes/",
-      "pubDate": "Sun, 23 Aug 2026 12:00:41 +0000",
-      "description": "O Google Maps prepara-se para responder a uma das falhas mais antigas da sua plataforma de navegação. A gigante tecnológica disponibilizou oficialmente nos Estados Unidos o recurso Large Vehicle Routing, um sistema avançado concebido&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/google_maps_camioes_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP Países Baixos F1, Lewis Hamilton termina em 4º, tensão na Ferrari",
+      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lewis-hamilton-termina-em-4o-tensao-na-ferrari/",
+      "pubDate": "Sun, 23 Aug 2026 17:04:49 +0000",
+      "description": "Lewis Hamilton concluiu o Grande Prémio dos Países Baixos na quarta posição, numa prova marcada pela insatisfação do piloto britânico com as decisões táticas da Ferrari e pela desobediência inicial de Charles Leclerc às ordens da equipa. A tensão no seio da equipa de Maranello surgiu quando Hamilton",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-segunda-vitoria-consecutiva-de-lando-norris-e-da-mclaren/",
       "pubDate": "Sun, 23 Aug 2026 15:22:00 +0000",
       "description": "Em Zandvoort, o Grande Prémio dos Países Baixos transformou-se num verdadeiro filme de ação e alta velocidade: marcado pelo violento acidente de Max Verstappen logo na abertura, o evento desenrolou-se entre uma complexa teia de estratégias nas boxes e culminou numa ultrapassagem magistral de Lando N",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Países Baixos F1/V36: Kimi Antonelli na frente, mas tudo em aberto a meio da corrida",
-      "link": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-v36-kimi-antonelli-na-frente-mas-tudo-em-aberto-a-meio-da-corrida/",
-      "pubDate": "Sun, 23 Aug 2026 14:19:00 +0000",
-      "description": "Um acidente violento de Max Verstappen e um duelo tático sob piso misto marcaram a primeira metade do Grande Prémio dos Países Baixos em Zandvoort, onde Kimi Antonelli resiste na liderança perante a pressão sufocante de Lando Norris. Logo após a partida, o caos irrompeu na curva final inclinada, o R",
       "thumbnail": ""
     }
   ]
