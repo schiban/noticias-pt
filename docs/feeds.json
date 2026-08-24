@@ -1,55 +1,85 @@
 {
-  "updated": "2026-08-24T21:32:27.374303+00:00",
+  "updated": "2026-08-24T22:21:15.705575+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Rodrigo Mora titular na goleada da Roma à Fiorentina",
-      "link": "https://observador.pt/2026/08/24/rodrigo-mora-titular-na-goleada-da-roma-a-fiorentina-com-hat-trick-de-malen-e-tres-assistencias-de-dybala/",
-      "pubDate": "Mon, 24 Aug 2026 22:22:43 +0100",
-      "description": "Ex-portista de 19 anos foi titular e esteve perto de marcar. Malen fez três golos, todos assistidos por Dybala. João Mário também foi titular pela Fiorentina.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1127:nowe:0:108/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24214949/47657426.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Alentejo 2030 apoia modernização digital de autarquias",
-      "link": "https://observador.pt/2026/08/24/alentejo-2030-abre-concurso-de-um-milhao-de-euros-para-digitalizar-municipios-e-comunidades-intermunicipais/",
-      "pubDate": "Mon, 24 Aug 2026 22:21:22 +0100",
-      "description": "Candidaturas abertas em duas fases: até 30 de setembro e até 21 de dezembro. Financiamento tem cofinanciamento do FEDER até 85% e abrange IA e cibersegurança.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2822:1587:nowe:141:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/03174657/pousada-castelo-estremoz-alentejo.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Brasil e Angola celebram acordo para acelerar agronegócio",
-      "link": "https://observador.pt/2026/08/24/brasil-e-angola-celebram-acordo-para-acelerar-desenvolvimento-do-agronegocio/",
-      "pubDate": "Mon, 24 Aug 2026 22:20:24 +0100",
-      "description": "Protocolo sobre investimento agropecuário está em construção, mas acordos comerciais ainda precisam de ser fechados antes do financiamento ser activado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24165222/46647100.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "22h. EUA: retaliações económicas a quem apoiar o Irão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1851/",
-      "pubDate": "Mon, 24 Aug 2026 22:11:46 +0100",
-      "description": "As entidades que tenham relações com o Irão serão excluídas do sistema financeiro baseado no dólar. Ainda, Hugo Soares acusou líderes do PS e do Chega de “navegarem no populismo”.",
+      "title": "As notícias das 23h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2157/",
+      "pubDate": "Mon, 24 Aug 2026 23:14:10 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ceuta. Espanha pede a Bruxelas financiamento de emergência",
-      "link": "https://observador.pt/2026/08/24/espanha-pede-ajuda-de-emergencia-a-ue-para-crise-migratoria-em-ceuta-apos-entrada-de-72-000-migrantes/",
-      "pubDate": "Mon, 24 Aug 2026 22:04:11 +0100",
-      "description": "Comissão Europeia promete avaliação rápida. Mecanismo EMAS prevê pré-financiamento de até 80% dos fundos — o mesmo que já apoiou as Canárias com 38 milhões em 2025.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1620:909:nowe:0:87/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24210359/47641823.jpg"
+      "title": "Netanyahu: \"O Irão tentou matar um dos meus filhos\"",
+      "link": "https://observador.pt/2026/08/24/o-irao-tentou-matar-um-dos-meus-filhos-netanyahu-revela-alegada-tentativa-de-assassinato-sem-dar-detalhes/",
+      "pubDate": "Mon, 24 Aug 2026 23:12:36 +0100",
+      "description": "Em entrevista ao Channel 14, Netanyahu afirmou que Teerão tentou matar um dos seus filhos, sem especificar qual. Amit Segal, jornalista em Israel, afirmou que tal já era sabido há meses.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/04214043/47292355.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Angola permite matrículas de crianças sem registo",
+      "link": "https://observador.pt/2026/08/24/governo-angolano-permite-matriculas-de-criancas-sem-registo-para-evitar-exclusao/",
+      "pubDate": "Mon, 24 Aug 2026 23:11:21 +0100",
+      "description": "O Ministério da Educação de Angola pretende \"assegurar que a não apresentação dos documentos não contribua para o mais cidadãos fora do sistema de Educação e Ensino\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/23182218/46988630.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Tesla promete Roadster \"voador\" ainda este mês. Será mesmo?",
+      "link": "https://observador.pt/2026/08/24/tesla-promete-roadster-voador-ainda-este-mes-sera-mesmo/",
+      "pubDate": "Mon, 24 Aug 2026 22:55:23 +0100",
+      "description": "Apresentado em 2017 e agendado inicialmente para chegar ao mercado em 2020, o Tesla Roadster parece que (finalmente) vai ser revelado. Será ainda este mês e em dose dupla: o \"voador\" e o de série.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:965:545:nowe:252:95/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24201649/tesla-roadster-4.webp"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Morreu ex-presidente da Câmara de Almeida",
+      "link": "https://observador.pt/2026/08/24/camara-de-almeida-lamenta-morte-do-seu-antigo-presidente-jose-da-costa-reis/",
+      "pubDate": "Mon, 24 Aug 2026 22:52:05 +0100",
+      "description": "José da Costa Reis liderou a câmara entre 1994 e 2005 e presidiu à Assembleia Municipal até 2017. O município destacou o seu legado de \"mais de duas décadas\" ao serviço público.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/05/23161048/istock-669273112.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Espanha cria comando único para gestão de crise migratória, em Ceuta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-espanha-cria-comando-unico-para-gestao-de-crise-migratoria-em-ceuta_a1_1761345",
+      "pubDate": "Tue, 25 Aug 2026 00:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Portugal defende imposto europeu sobre lucros extraordinários das petrolíferas",
+      "link": "https://www.rtp.pt/noticias/pais/portugal-defende-imposto-europeu-sobre-lucros-extraordinarios-das-petroliferas_n1761341",
+      "pubDate": "Mon, 24 Aug 2026 23:54:31 +0100",
+      "description": "Portugal defende um imposto sobre os lucros extraordinários das petrolíferas e quer que que a Presidência irlandesa da União Europeia abra um debate sobre um novo mecanismo europeu para tributar estes ganhos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3465bcfbeaed002bf87dbc49ea4ae6d?w=350&amp;q=50&amp;rect=0,133,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "22h Ladrões de museus: Mais violentos e querem outras coisas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ladroes-de-museus-mais-violentos-e-querem-outras-coisas_a1_1761339",
+      "pubDate": "Mon, 24 Aug 2026 23:32:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -65,16 +95,6 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Portugal e cinco países pedem imposto na UE sobre lucros extraordinários das petrolíferas",
-      "link": "https://www.rtp.pt/noticias/mundo/portugal-e-cinco-paises-pedem-imposto-na-ue-sobre-lucros-extraordinarios-das-petroliferas_n1761328",
-      "pubDate": "Mon, 24 Aug 2026 22:58:43 +0100",
-      "description": "Portugal e cinco outros países da União Europeia (UE) pediram à Irlanda, que ocupa a presidência rotativa do Conselho, um debate sobre um novo mecanismo europeu para tributar os lucros extraordinários das empresas petrolíferas, recuperando uma anterior proposta.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3ac0a921b8dce04b7da5b4247897dc46?w=350&amp;q=50&amp;rect=0,163,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
       "title": "Denúncias de irregularidades eleitorais no Brasil triplicam em cinco dias",
       "link": "https://www.rtp.pt/noticias/mundo/denuncias-de-irregularidades-eleitorais-no-brasil-triplicam-em-cinco-dias_n1761331",
       "pubDate": "Mon, 24 Aug 2026 22:56:50 +0100",
@@ -82,24 +102,34 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/55c3807016152a1fe1137abab14dce11?w=350&amp;q=50&amp;rect=0,91,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Emmanuel Macron recebe príncipe herdeiro da Arábia Saudita",
-      "link": "https://www.rtp.pt/noticias/mundo/emmanuel-macron-recebe-principe-herdeiro-da-arabia-saudita_v1761334",
-      "pubDate": "Mon, 24 Aug 2026 22:56:47 +0100",
-      "description": "Emmanuel Macron e Mohammed bin Salman, o príncipe herdeiro da Arábia Saudita estiveram reunidos em Paris para discutir uma rede alternativa ao estreito de Ormuz.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f7affffdf0b3d71132f6a4f7dbcf887?w=350&amp;q=50&amp;rect=0,48,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Luís Pinto: «Dois jogos a vencer, a marcar e sem sofrer é bom»",
+      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/luis-pinto-dois-jogos-a-vencer-a-marcar-e-sem-sofrer-e-bom",
+      "pubDate": "Mon, 24 Aug 2026 22:57:56 +0100",
+      "description": "Treinador do Gil Vicente satisfeito com a exibição dos galos",
+      "thumbnail": "https://img.iol.pt/image/id/6a8ca1fdd34ed0733ba81754/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Roma entra a golear na Serie A com Rodrigo Mora como titular",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/roma-entra-a-golear-na-serie-a-com-rodrigo-mora-como-titular_d1761332",
-      "pubDate": "Mon, 24 Aug 2026 22:46:10 +0100",
-      "description": "A Roma, como o português Rodrigo Mora no ‘onze’, entrou hoje com uma vitória na Liga italiana de futebol 2026/27, ao golear em casa a Fiorentina por 4-0, em encontro da primeira jornada.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c30542f954aa3f0a3b60523077927c19?w=350&amp;q=50&amp;rect=0,30,1291,708&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Filipe Coelho: «Hoje já houve sinais de que o nosso caminho está a ser construído»",
+      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/filipe-coelho-hoje-ja-houve-sinais-de-que-o-nosso-caminho-esta-a-ser-construido",
+      "pubDate": "Mon, 24 Aug 2026 22:52:49 +0100",
+      "description": "Treinador do Casa Pia lamenta alguns momentos de desatenção da equipa",
+      "thumbnail": "https://img.iol.pt/image/id/6a8cad2cd34e511da0b34f4a/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: João Lameira carimba vitória do Otelul na Roménia",
+      "link": "https://maisfutebol.iol.pt/internacional/romenia/video-joao-lameira-carimba-vitoria-do-otelul-na-romenia",
+      "pubDate": "Mon, 24 Aug 2026 22:45:57 +0100",
+      "description": "Médio português resolve jogo com o Arges no início da segunda parte",
+      "thumbnail": "https://img.iol.pt/image/id/69d13440d34edcee7c62a818/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -115,16 +145,6 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Marítimo obrigado a adiar venda das novas camisolas... que vão de barco",
-      "link": "https://maisfutebol.iol.pt/maritimo/liga/maritimo-obrigado-a-adiar-venda-das-novas-camisolas-que-vao-de-barco",
-      "pubDate": "Mon, 24 Aug 2026 22:13:18 +0100",
-      "description": "Clube diz que a marca desportiva que equipa os maritimistas pagou um serviço premium para que o transporte fosse feito por via aérea, mas que o meio de transporte foi alterado",
-      "thumbnail": "https://img.iol.pt/image/id/6a89c93bd34e511da0b349d8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
       "title": "Gil Vicente-Casa Pia, 2-0 (crónica)",
       "link": "https://maisfutebol.iol.pt/liga/gil-vicente/gil-vicente-casa-pia-2-0-cronica",
       "pubDate": "Mon, 24 Aug 2026 22:13:17 +0100",
@@ -132,74 +152,54 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8cad2cd34e511da0b34f4c/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Chelsea entra a marcar e a ganhar na Premier League",
-      "link": "https://maisfutebol.iol.pt/inglaterra/premier-league/video-chelsea-entra-a-marcar-e-a-ganhar-na-premier-league",
-      "pubDate": "Mon, 24 Aug 2026 21:55:31 +0100",
-      "description": "Pedro Neto e Geovany Quenda foram utilizados no triunfo dos «Blues» no dérbi londrino com o Fulham",
-      "thumbnail": "https://img.iol.pt/image/id/6a8cae84d34e511da0b34f54/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Rodrigo Mora estreia-se a titular na goleada da Roma",
-      "link": "https://maisfutebol.iol.pt/italia/internacional/video-rodrigo-mora-estreia-se-a-titular-na-goleada-da-roma",
-      "pubDate": "Mon, 24 Aug 2026 21:38:34 +0100",
-      "description": "Português foi lançado por Gasperini poucos dias depois de ser oficializado como reforço e deixou bons sinais no triunfo frente à Fiorentina por 4-0",
-      "thumbnail": "https://img.iol.pt/image/id/6a8ca1d7d34e511da0b34f23/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Colômbia anuncia início da reconstrução de áreas afetada após sismo",
+      "link": "https://www.noticiasaominuto.com/mundo/3040898/presidente-da-colombia-anuncia-inicio-da-reconstrucao-de-areas-afetadas-por-terramoto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 23:15:20",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cc27bb94b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNjl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNzAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Não é só físico. Como saber se o seu parceiro teve ou não um orgasmo?",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3040859/nao-e-so-fisico-como-saber-se-o-seu-parceiro-teve-ou-nao-um-orgasmo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 22:22:01",
+      "title": "Oficial: Central nigeriana Demehin reforça equipa feminina do Benfica",
+      "link": "https://www.noticiasaominuto.com/desporto/3040897/oficial-central-nigeriana-demehin-reforca-equipa-feminina-do-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 23:11:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cabca7a959.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQ4LCJjcm9wSGVpZ2h0IjoxMzc3LCJjcm9wWCI6ODIsImNyb3BZIjozMTV9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cc1862104a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Chelsea entra a vencer na casa do Fulham em jogo... com Quenda em estreia",
-      "link": "https://www.noticiasaominuto.com/desporto/3040869/chelsea-entra-a-vencer-na-casa-do-fulham-em-jogo-com-quenda-em-estreia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 22:21:58",
+      "title": "Cardoso Varela estreia-se no triunfo do FC Porto B na casa do Feirense",
+      "link": "https://www.noticiasaominuto.com/desporto/3040888/cardoso-varela-estreia-se-no-triunfo-do-fc-porto-b-na-casa-do-feirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 23:01:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cb525d557a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cbf31a0130.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Gil Vicente vence Casa Pia... e jornada prossegue em setembro",
-      "link": "https://www.noticiasaominuto.com/desporto/3039746/em-direto-maritimo-e-academico-abrem-ronda-em-dia-de-jogo-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 22:13:21",
+      "title": "São Tomé e Príncipe pode ser \"destino turístico de excelência\" mundial",
+      "link": "https://www.noticiasaominuto.com/mundo/3040893/sao-tome-e-principe-pode-ser-destino-turistico-de-excelencia-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 23:00:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_642dcea7b2176.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cbe56c8160.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo3Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6OTA4LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Gil Vicente vence em Barcelos e agrava pesadelo do Casa Pia",
-      "link": "https://www.noticiasaominuto.com/desporto/3040867/gil-vicente-vence-em-barcelos-e-agrava-pesadelo-do-casa-pia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 22:12:09",
+      "title": "Uso de toalhitas. Especialistas desaconselham nestes 3 situações",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3040882/uso-de-toalhitas-especialistas-desaconselham-nestes-3-situacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 22:57:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cae89bb276.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Príncipe Harry abandona cargo em ONG envolvida em escândalo de abusos",
-      "link": "https://www.noticiasaominuto.com/fama/3040865/principe-harry-abandona-cargo-em-ong-envolvida-em-escandalo-de-abusos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 22:10:34",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a59c009adfd1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTUsImNyb3BZIjoxMDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjExODUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66a8f04a667af.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzUyLCJjcm9wSGVpZ2h0IjoxMzIzLCJjcm9wWCI6NDgsImNyb3BZIjoxMzd9fQ=="
     },
     {
       "sourceId": "pplware",
