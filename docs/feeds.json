@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-24T20:24:57.155460+00:00",
+  "updated": "2026-08-24T20:58:04.460922+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Coimbra reorganiza rede de autocarros para o \"metrobus\"",
+      "link": "https://observador.pt/2026/08/24/coimbra-aprova-reorganizacao-de-mais-de-20-linhas-de-autocarro-para-entrada-do-metrobus-a-10-de-setembro/",
+      "pubDate": "Mon, 24 Aug 2026 21:40:52 +0100",
+      "description": "A proposta aprovada em reunião de executivo gerou grande discórdia da oposição, que criticou a \"transformação profunda do funcionamento da cidade\". Autarca defende \"mobilidade em segurança\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:899:nowe:0:167/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17104416/514763459-122232689402191902-2371309544452752934-n-1.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,14 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24193732/47515769.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Frederiksen \"indignada\" com comentários sobre aparência",
-      "link": "https://observador.pt/2026/08/24/nao-preciso-da-opiniao-de-um-cirurgiao-plastico-mette-frederiksen-responde-com-indignacao-a-comentarios-sobre-a-sua-aparencia/",
-      "pubDate": "Mon, 24 Aug 2026 21:13:35 +0100",
-      "description": "A primeira-ministra dinamarquesa recorreu às redes sociais para desabafar sobre numerosos comentários à sua aparência. \"Espero que dediquem o vosso tempo de conversa a algo mais importante\", escreveu.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1127:nowe:1:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23160110/47163360.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Denúncias de irregularidades eleitorais no Brasil triplicam em cinco dias",
+      "link": "https://www.rtp.pt/noticias/mundo/denuncias-de-irregularidades-eleitorais-no-brasil-triplicam-em-cinco-dias_n1761331",
+      "pubDate": "Mon, 24 Aug 2026 22:56:50 +0100",
+      "description": "O número de denúncias de possíveis irregularidades nas eleições brasileiras de 2026 triplicou em menos de cinco dias, de 1.103 para 3.468, segundo um balanço divulgado hoje pelo Tribunal Superior Eleitoral (TSE).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/55c3807016152a1fe1137abab14dce11?w=350&amp;q=50&amp;rect=0,91,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Emmanuel Macron recebe príncipe herdeiro da Arábia Saudita",
+      "link": "https://www.rtp.pt/noticias/mundo/emmanuel-macron-recebe-principe-herdeiro-da-arabia-saudita_v1761334",
+      "pubDate": "Mon, 24 Aug 2026 22:56:47 +0100",
+      "description": "Emmanuel Macron e Mohammed bin Salman, o príncipe herdeiro da Arábia Saudita estiveram reunidos em Paris para discutir uma rede alternativa ao estreito de Ormuz.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6e/6eb72b0947bb34a0a199b72b4b5cc0ed_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Roma entra a golear na Serie A com Rodrigo Mora como titular",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/roma-entra-a-golear-na-serie-a-com-rodrigo-mora-como-titular_d1761332",
+      "pubDate": "Mon, 24 Aug 2026 22:46:10 +0100",
+      "description": "A Roma, como o português Rodrigo Mora no ‘onze’, entrou hoje com uma vitória na Liga italiana de futebol 2026/27, ao golear em casa a Fiorentina por 4-0, em encontro da primeira jornada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c30542f954aa3f0a3b60523077927c19?w=350&amp;q=50&amp;rect=0,30,1291,708&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -69,37 +99,37 @@
       "link": "https://www.rtp.pt/noticias/desporto/portugal-ja-tem-15-medalhas-nos-jogos-do-mediterraneo_v1761326",
       "pubDate": "Mon, 24 Aug 2026 22:11:47 +0100",
       "description": "Tiago Antunes foi prata na prova de fundo no ciclismo. Francisca Martins e Ana Rodrigues também conquistaram pódios na natação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e3e8494703c000d1506717208ebf2a21_N.jpg?"
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e2fa2dc502108512cf044fc0e115c7b?w=350&amp;q=50&amp;rect=54,0,2459,1348&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Português Luís Alves recebeu ordem de mérito da Ucrânia",
-      "link": "https://www.rtp.pt/noticias/mundo/portugues-luis-alves-recebeu-ordem-de-merito-da-ucrania_v1761324",
-      "pubDate": "Mon, 24 Aug 2026 22:08:47 +0100",
-      "description": "Luís Alves é o único estrangeiro não chefe de Estado ou de Governo a receber uma condecoração do presidente Ucraniano.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e3/e32c8beb80a7e299278f0f9d8bee9698_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Rodrigo Mora estreia-se a titular na goleada da Roma",
+      "link": "https://maisfutebol.iol.pt/italia/internacional/video-rodrigo-mora-estreia-se-a-titular-na-goleada-da-roma",
+      "pubDate": "Mon, 24 Aug 2026 21:38:34 +0100",
+      "description": "Português foi lançado por Gasperini poucos dias depois de ser oficializado como reforço e deixou bons sinais no triunfo frente à Fiorentina por 4-0",
+      "thumbnail": "https://img.iol.pt/image/id/6a8ca1d7d34e511da0b34f23/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Dois jovens colidiram de parapente em Alcobaça",
-      "link": "https://www.rtp.pt/noticias/pais/dois-jovens-colidiram-de-parapente-em-alcobaca_v1761323",
-      "pubDate": "Mon, 24 Aug 2026 22:06:47 +0100",
-      "description": "Dois jovens de 21 anos colidiram de parapente em Alcobaça. Um dos jovens está em estado grave e internado no hospital de leiria.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c9/c9ea836fcfc8bae31c3aa154bfb65d47_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Futebol feminino: Benfica contrata campeã africana",
+      "link": "https://maisfutebol.iol.pt/transferencias/feminino/futebol-feminino-benfica-contrata-campea-africana",
+      "pubDate": "Mon, 24 Aug 2026 21:36:43 +0100",
+      "description": "Demehin chega às águias depois de duas temporadas no Galatasaray",
+      "thumbnail": "https://img.iol.pt/image/id/6a8caa82d34ed0733ba81773/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Único cavalo selvagem no mundo corre livre na Mongólia",
-      "link": "https://www.rtp.pt/noticias/mundo/unico-cavalo-selvagem-no-mundo-corre-livre-na-mongolia_v1761322",
-      "pubDate": "Mon, 24 Aug 2026 22:05:47 +0100",
-      "description": "Um dos maiores casos de sucesso de conservação biológica no mundo é o cavalo Táquí na Mongólia. É o único cavalo verdadeiramente selvagem que existe.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/dd/ddf55ca77de36e2fa5282131cbd4b697_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: hat-trick de Bergwijn pelo Al Ittihad, Reijnders já marca no Al Qadisiyah",
+      "link": "https://maisfutebol.iol.pt/internacional/arabia-saudita/video-hat-trick-de-bergwijn-pelo-al-ittihad-reijnders-ja-marca-no-al-qadisiyah",
+      "pubDate": "Mon, 24 Aug 2026 21:29:32 +0100",
+      "description": "Danilo Pereira foi titular no triunfo apertado da equipa de Jeddah frente ao Al Hazem",
+      "thumbnail": "https://img.iol.pt/image/id/6a8ca8f4d34e511da0b34f3e/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -122,34 +152,44 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8c9d93d34ed0733ba8174d/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Eto’o mantém a confiança em Infantino: «Devíamos apoiá-lo, ele mudou o futebol»",
-      "link": "https://maisfutebol.iol.pt/internacional/fifa/eto-o-mantem-a-confianca-em-infantino-deviamos-apoia-lo-ele-mudou-o-futebol",
-      "pubDate": "Mon, 24 Aug 2026 20:07:55 +0100",
-      "description": "Antigo futebolista e atual presidente da Federação Camaronesa de Futebol defende que o líder da FIFA «não fez nada de errado»",
-      "thumbnail": "https://img.iol.pt/image/id/6a8c966bd34e511da0b34f16/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Irão promete \"nova derrota\" para Estados Unidos após sanções",
+      "link": "https://www.noticiasaominuto.com/mundo/3040863/irao-pais-promete-mais-uma-derrota-para-eua-apos-sancoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 21:54:14",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8caf7908f4e.webp"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Antigo diretor do Leixões suspenso por assédio sexual de menores",
-      "link": "https://maisfutebol.iol.pt/justica/fpf/antigo-diretor-do-leixoes-suspenso-por-assedio-sexual-de-menores",
-      "pubDate": "Mon, 24 Aug 2026 19:33:36 +0100",
-      "description": "Caso aconteceu na época passada e envolveu duas atletas do clube",
-      "thumbnail": "https://img.iol.pt/image/id/6a8c8e38d34ed0733ba81733/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Apostadores falham 1.º prémio do EuroDreams: Mas o que vem para Portugal?",
+      "link": "https://www.noticiasaominuto.com/pais/3040861/apostadores-falham-1-premio-do-eurodreams-mas-o-que-vem-para-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 21:44:11",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_657187b944978.webp"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Itália: Lazio conquista os três primeiros pontos do campeonato frente ao Bolonha",
-      "link": "https://maisfutebol.iol.pt/italia/internacional/italia-lazio-conquista-os-tres-primeiros-pontos-do-campeonato-frente-ao-bolonha",
-      "pubDate": "Mon, 24 Aug 2026 19:30:11 +0100",
-      "description": "Nuno Tavares entrou na segunda parte no triunfo por 1-0",
-      "thumbnail": "https://img.iol.pt/image/id/6a8c8d78d34ed0733ba81730/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Chegar, jogar e vencer. Mora estreia-se pela AS Roma... em show de Dybala",
+      "link": "https://www.noticiasaominuto.com/desporto/3040856/chegar-jogar-e-vencer-mora-estreia-se-pela-as-roma-em-show-de-dybala#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 21:38:09",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ca85a116e6.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Petrolíferas? Portugal (e mais) pede imposto sobre lucros extraordinários",
+      "link": "https://www.noticiasaominuto.com/mundo/3040858/irao-portugal-e-5-paises-pedem-imposto-na-ue-sobre-lucros-extraordinarios-das-petroliferas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 21:36:05",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67f3e12a0fbb1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY1LCJjcm9wSGVpZ2h0IjoxNDQzLCJjcm9wWCI6LTIsImNyb3BZIjozOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTE4LCJjcm9wSGVpZ2h0IjoxNjMyLCJjcm9wWCI6MTAxNCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
@@ -162,44 +202,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ca74e011ca.webp"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Farense empata com Felgueiras e deixa Académica isolada no topo",
-      "link": "https://www.noticiasaominuto.com/desporto/3040848/farense-empata-com-felgueiras-e-deixa-academica-isolada-no-topo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 21:18:34",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ca6a755651.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOi0xfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjksImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoyNzAsImNyb3BZIjotMX19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Paris e Riade pedem solução negociada entre EUA e Irão",
-      "link": "https://www.noticiasaominuto.com/mundo/3040849/irao-paris-e-riade-pedem-solucao-negociada-enquanto-eua-intensificam-ofensiva-economica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 21:07:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ca4920765b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo5NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NzIyLCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Estados Unidos retiram Damasco da lista de apoiantes de terrorismo",
-      "link": "https://www.noticiasaominuto.com/mundo/3040852/siria-eua-retiram-damasco-da-lista-de-apoiantes-de-terrorismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 21:04:46",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_564588352c0e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1NzY0LCJjcm9wSGVpZ2h0IjozMjQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjIxNjAsImNyb3BIZWlnaHQiOjM4NDAsImNyb3BYIjoyODc1LCJjcm9wWSI6MH19"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Os três telemóveis mais poderosos para desfrutar de videojogos",
-      "link": "https://www.noticiasaominuto.com/tech/3040678/os-tres-telemoveis-mais-poderosos-para-desfrutar-de-videojogos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 21:03:07",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c546a879a5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6OSwiY3JvcFkiOjExOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg2LCJjcm9wWCI6NzE2LCJjcm9wWSI6MTB9fQ=="
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Twitch e Amazon processadas por usarem transmissões de criadores para treinar IA",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/twitch-e-amazon-processadas-por-usarem-transmissoes-de-criadores-para-treinar-ia/",
+      "pubDate": "Mon, 24 Aug 2026 20:30:30 +0000",
+      "description": "A Twitch e a sua empresa-mãe, a Amazon, estão a ser alvo de uma ação judicial coletiva devido à utilização não autorizada de transmissões de vídeo para o desenvolvimento de modelos de inteligência artificial&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/twitch.webp"
     },
     {
       "sourceId": "pplware",
@@ -240,16 +250,6 @@
       "pubDate": "Mon, 24 Aug 2026 18:00:21 +0000",
       "description": "Os próximos meses trarão novidades para os possuidores de Playstation 5. Isto pois a Sony PlayStation prepara dois novos acessórios: DualSense Icon Blue e Pulse Elevate. A Sony Interactive Entertainment prepara-se para reforçar o&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/Playstation.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Huawei Back to School: descontos exclusivos na tecnologia essencial para estudantes",
-      "link": "https://pplware.sapo.pt/gadgets/huawei-back-to-school-descontos-exclusivos-na-tecnologia-essencial-para-estudantes/",
-      "pubDate": "Mon, 24 Aug 2026 17:30:08 +0000",
-      "description": "Com a aproximação do novo ano letivo, a Huawei lança a campanha Back to School 2026, a decorrer até 15 de setembro de 2026. Esta iniciativa disponibiliza descontos exclusivos, ofertas e benefícios para membros&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/07/pplware_huawei_matepad_pro_max_07.jpg"
     },
     {
       "sourceId": "autosport",
