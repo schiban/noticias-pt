@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-24T04:39:45.056451+00:00",
+  "updated": "2026-08-24T05:34:10.022273+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 5h",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2473/",
+      "pubDate": "Mon, 24 Aug 2026 06:13:36 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Novos certificados do tesouro desiludem na estreia",
+      "link": "https://observador.pt/programas/boa-moeda-ma-moeda/novos-certificados-do-tesouro-desiludem-na-estreia/",
+      "pubDate": "Mon, 24 Aug 2026 06:01:31 +0100",
+      "description": "Série 5 tinha como intenção revitalizar este instrumento de poupança. Mas apesar das alterações não foi capaz de captar mais investimento do que aquele que saiu",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "5h. Universidade Verão PSD junta figuras do partido e não só",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1559/",
       "pubDate": "Mon, 24 Aug 2026 05:15:39 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Por Castelo de Vide vão passar Luís Marques Mendes, Paulo Portas e João Soares. Ainda, FC Porto vence Arouca por 2-0 e é líder isolado do campeonato.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -18,8 +38,8 @@
       "title": "As avarias nas escadas e elevadores do Metro de Lisboa",
       "link": "https://observador.pt/programas/a-hist-ria-do-dia/as-avarias-nas-escadas-e-elevadores-do-metro-de-lisboa/",
       "pubDate": "Mon, 24 Aug 2026 05:02:36 +0100",
-      "description": "Encontrar escadas ou elevadores avariados no Metro de Lisboa tornou-se habitual. Os casos acumularam-se e atingiram o pico no início de 2026, mas a situação está a melhorar aos poucos. Uma conversa com Ana Suspiro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
+      "description": "Encontrar escadas ou elevadores avariados no Metro de Lisboa tornou-se habitual e atingiu o pico no início de 2026. Situação está a melhorar aos poucos. Uma conversa com Ana Suspiro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg"
     },
     {
       "sourceId": "observador",
@@ -32,31 +52,31 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Zelensky diz que Putin prepara mobilização após eleições",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2415/",
-      "pubDate": "Mon, 24 Aug 2026 03:17:47 +0100",
-      "description": "Presidente da Ucrânia diz que Moscovo pretende chegar a 2027 com meio milhão de soldados no terreno. Ainda nesta edição, Irão ameaça retaliar contra a guerra económica dos EUA.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "I Liga. Porto vence Arouca e merece elogios de Farioli",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-porto-vence-arouca-e-merece-elogios-de-farioli_v1761211",
+      "pubDate": "Mon, 24 Aug 2026 07:15:47 +0100",
+      "description": "O FC Porto consolida a liderança isolada do campeonato após vencer o Arouca por 2-0.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/81/81fa98f27784cdea557e46a61596ae13_N.jpg?"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Mau tempo. 13 distritos sob aviso amarelo esta segunda",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
-      "pubDate": "Mon, 24 Aug 2026 02:16:26 +0100",
-      "description": "IPMA prevê aguaceiros por vezes fortes, acompanhados de trovoada e vento forte. Ainda, líder do PCP garante que se o executivo da AD quiser \"pôr a mão\" no dinheiro dos contribuintes vai ser derrotado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Alibaba emite 8,7 MME em novas ações para financiar inteligência artificial",
+      "link": "https://www.rtp.pt/noticias/economia/alibaba-emite-87-mme-em-novas-acoes-para-financiar-inteligencia-artificial_n1761207",
+      "pubDate": "Mon, 24 Aug 2026 06:38:40 +0100",
+      "description": "O gigante chinês do comércio eletrónico Alibaba lançou uma emissão de ações no valor de 8,74 mil milhões de euros para financiar o desenvolvimento da inteligência artificial (IA).",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3f626798e7abf94a28e321a44821d99?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "IPMA coloca 13 distritos em aviso amarelo por risco de chuva e trovoada",
-      "link": "https://www.rtp.pt/noticias/mundo/ipma-coloca-13-distritos-em-aviso-amarelo-por-risco-de-chuva-e-trovoada_n1761206",
+      "link": "https://www.rtp.pt/noticias/pais/ipma-coloca-13-distritos-em-aviso-amarelo-por-risco-de-chuva-e-trovoada_n1761206",
       "pubDate": "Mon, 24 Aug 2026 06:37:10 +0100",
       "description": "Um total de 13 distritos de Portugal continental estarão hoje sob aviso amarelo por risco de aguaceiros por vezes fortes e trovoada, disse o Instituto Português do Mar e da Atmosfera (IPMA).",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f3ceb715d8698a8aa1715a455c3b0e0?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
@@ -80,26 +100,6 @@
       "pubDate": "Mon, 24 Aug 2026 06:31:09 +0100",
       "description": "As autoridades do Nevada, no oeste dos Estados Unidos (EUA), pediram a dezenas de milhares de residentes que abandonassem as casas devido a um incêndio florestal de rápida propagação que ameaça a cidade de Reno.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/42/4270c9d75f2064295f549a812fc3777e?w=350&amp;q=50&amp;rect=0,0,618,339&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Casas em leilão aumentam quase 24% e pressionam mercado imobiliário chinês",
-      "link": "https://www.rtp.pt/noticias/economia/casas-em-leilao-aumentam-quase-24-e-pressionam-mercado-imobiliario-chines_n1761203",
-      "pubDate": "Mon, 24 Aug 2026 06:21:58 +0100",
-      "description": "O número de imóveis colocados em leilão judicial na China aumentou 23,7% nos primeiros sete meses do ano, pressionando ainda mais os preços da habitação e expondo o impacto da crise imobiliária sobre famílias endividadas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/5504bc9eb87dc2c6d6a1f477c3c869be?w=350&amp;q=50&amp;rect=0,140,1233,676&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "5h EUA clarificam hoje \"guerra económica\" ao Irão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-eua-clarificam-hoje-guerra-economica-ao-irao_a1_1761208",
-      "pubDate": "Mon, 24 Aug 2026 06:20:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,51 +155,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3040189/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 00:01:32",
+      "title": "UE pede a Israel que abandone plano para colonatos na Cisjordânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3040447/ue-pede-a-israel-que-abandone-plano-para-colonatos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 06:24:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8a9169cee19.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47510751.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzUsImNyb3BZIjo3MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTU3LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Síria confirma conversações com Israel para aliviar tensões após ataques",
-      "link": "https://www.noticiasaominuto.com/mundo/3040414/siria-confirma-conversacoes-com-israel-para-aliviar-tensoes-apos-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:59:01",
+      "title": "Casas em leilão aumentam quase 24% e pressionam mercado chinês",
+      "link": "https://www.noticiasaominuto.com/economia/3040434/casas-em-leilao-aumentam-quase-24-e-pressionam-mercado-chines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 06:22:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4a773ee1aca.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46761543.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc1LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6MTIsImNyb3BZIjozMTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk5NiwiY3JvcEhlaWdodCI6MTc3MSwiY3JvcFgiOjM4NCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Fúria espanhola. Os golos de Gabri e Borja que deram vitória ao FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3040409/furia-espanhola-os-golos-de-gabri-e-borja-que-deram-vitoria-ao-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:30:11",
+      "title": "Incêndio florestal no oeste dos EUA obriga à retirada de 40 mil pessoas",
+      "link": "https://www.noticiasaominuto.com/mundo/3040436/incendio-florestal-no-oeste-dos-eua-obriga-a-retirada-de-40-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 06:19:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b745900679.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/47320050.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDAwLCJjcm9wSGVpZ2h0IjoxMzUwLCJjcm9wWCI6MjcsImNyb3BZIjozMDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg2NiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Surfista resgatado na praia do Guincho: Estava em \"dificuldades na água\"",
-      "link": "https://www.noticiasaominuto.com/pais/3040410/surfista-resgatado-na-praia-do-guincho-estava-em-dificuldades-na-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:28:02",
+      "title": "Cuidado! IPMA coloca 13 distritos a amarelo por risco de chuva e trovoada",
+      "link": "https://www.noticiasaominuto.com/pais/3040443/cuidado-ipma-coloca-13-distritos-a-amarelo-por-risco-de-chuva-e-trovoada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 06:18:51",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_649017cd18ab4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/46694531.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYzLCJjcm9wSGVpZ2h0IjoxMzg2LCJjcm9wWCI6NDgsImNyb3BZIjoxMjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NywiY3JvcEhlaWdodCI6MTcwMiwiY3JvcFgiOjk1MSwiY3JvcFkiOjV9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polémica a dobrar no Dragão. Alberto e Kiwior tiveram golos anulados",
-      "link": "https://www.noticiasaominuto.com/desporto/3040408/polemica-a-dobrar-no-dragao-alberto-e-kiwior-tiveram-golos-anulados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-23 23:22:41",
+      "title": "Borges a olhar para o relógio. Melhor versão de Catamo assusta Sporting",
+      "link": "https://www.noticiasaominuto.com/desporto/3040250/borges-a-olhar-para-o-relogio-melhor-versao-de-catamo-assusta-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 06:18:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8b72bd83ccc.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8adadadfdec.webp"
     },
     {
       "sourceId": "pplware",
