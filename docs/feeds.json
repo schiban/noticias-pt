@@ -1,14 +1,44 @@
 {
-  "updated": "2026-08-24T11:23:20.457129+00:00",
+  "updated": "2026-08-24T11:53:04.326202+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 12h",
+      "title": "Ruffalo nega antissemitismo após ataque da Paramount",
+      "link": "https://observador.pt/2026/08/24/mark-ruffalo-rejeita-acusacao-de-antissemitismo-da-paramount-e-diz-que-criticar-contratos-militares-com-israel-nao-e-criticar-o-povo-judeu/",
+      "pubDate": "Mon, 24 Aug 2026 12:36:18 +0100",
+      "description": "Depois de criticar os laços da Paramount Skydance com a Oracle — fornecedora de tecnologia a Israel —, Ruffalo foi acusado de antissemitismo. O ator recusa e contra-ataca.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2731:1532:nowe:0:126/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/13173512/gettyimages-2005941908-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Brasil. O que resultará das eleições? — Debate",
+      "link": "https://observador.pt/programas/contra-corrente/brasil-o-que-resultara-das-eleicoes-debate/",
+      "pubDate": "Mon, 24 Aug 2026 12:32:00 +0100",
+      "description": "No dia 4 de Outubro 160 milhões de eleitores vão às urnas decidir o futuro do Brasil. Flávio Bolsonaro e Lula estão na frente da corrida presidencial. O que pode ditar a vitória e derrota de cada um?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Apoio da UE a Kiev: \"Muito importante mas muito atrasado\"",
+      "link": "https://observador.pt/programas/resposta-pronta/apoio-da-ue-a-kiev-muito-importante-mas-muito-atrasado/",
+      "pubDate": "Mon, 24 Aug 2026 12:22:26 +0100",
+      "description": "Nos 35 anos da independência da Ucrânia, o presidente da Associação dos ucranianos em Portugal, Pavlo Sadokha, saúda o pacote de 6 mil milhões de € anunciado por von der Leyen, mas diz que vem tarde.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1585:893:nowe:0:440/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/05/03185624/36294910.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "12h. PR reitera o apoio “político e militar\" à Ucrânia",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2424/",
       "pubDate": "Mon, 24 Aug 2026 12:16:55 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "No âmbito dos 35 anos da independência da Ucrânia, PR espera que o próximo aniversário seja celebrado \"já em tempo de paz\". Ainda, a taxa Euribor voltou hoje a subir a três e seis meses.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -22,34 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/29145737/39534175.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Tenista Coco Gauff conquista título em Cincinnati",
-      "link": "https://observador.pt/2026/08/24/tenista-coco-gauff-vence-jessica-pegula-e-conquista-titulo-em-cincinnati/",
-      "pubDate": "Mon, 24 Aug 2026 11:57:59 +0100",
-      "description": "A tenista norte-americana Coco Gauff venceu, pela segunda vez, o Masters 1000 de Cincinnati. A disputa entre Gauff e a norte-americana Jessica Pegula durou uma hora e 15 minutos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24110414/47653601.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "12h Incêndio em sucata em Abrantes leva à retirada de 14 pessoas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/12h-incendio-em-sucata-em-abrantes-leva-a-retirada-de-14-pessoas_a1_1761256",
+      "pubDate": "Mon, 24 Aug 2026 13:29:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Macau e São Tomé e Príncipe combatem lavagem de dinheiro",
-      "link": "https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/",
-      "pubDate": "Mon, 24 Aug 2026 11:57:41 +0100",
-      "description": "Macau cumpre \"os 40 padrões internacionais\" contra lavagem de dinheiro, terrorismo e proliferação de armas. O protocolo entre os países dita a troca de \"informações financeiras\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/25135843/31753951.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Madeira. Abastecimento de gás garantido durante greve da REN",
-      "link": "https://observador.pt/2026/08/24/abastecimento-de-gas-a-madeira-assegurado-durante-greve-da-ren-atlantico/",
-      "pubDate": "Mon, 24 Aug 2026 11:57:33 +0100",
-      "description": "Foram carregadas seis cisternas de gás natural para a Madeira para assegurar o abastecimento. O executivo destacou a necessidade de garantir \"que a região não ficaria privada de um bem essencial\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/25081357/46785761.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Operação ScamWay. Judiciária desmantela rede criminosa e faz oito detenções",
+      "link": "https://www.rtp.pt/noticias/pais/operacao-scamway-judiciaria-desmantela-rede-criminosa-e-faz-oito-detencoes_n1761253",
+      "pubDate": "Mon, 24 Aug 2026 13:22:35 +0100",
+      "description": "Quatro mulheres e três homens são acusados de burla qualificada, abuso de cartão ou dados de pagamento, branqueamento e associação criminosa. Há ainda um oitavo elemento que foi detido por posse de arma proibida.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/64/642e2e1e4c598e54aba7eb64484d4094?w=350&amp;q=50&amp;rect=0,10,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -82,24 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b756164cec4f93801a6b8338e4cb7c63?w=350&amp;q=50&amp;rect=0,151,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "MSF alerta para falta de apoio adequado às comunidades na RDCongo",
-      "link": "https://www.rtp.pt/noticias/mundo/msf-alerta-para-falta-de-apoio-adequado-as-comunidades-na-rdcongo_n1761243",
-      "pubDate": "Mon, 24 Aug 2026 12:40:34 +0100",
-      "description": "A Médicos Sem Fronteiras (MSF) alertou esta segunda-feira que as comunidades &quot;não estão a receber apoio adequado&quot; para conter a doença do Ébola na República Democrática do Congo (RDCongo), que já causou 2.642 mortes e 5.514 casos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/10/10fc079708566d8e8812deacb9176718?w=350&amp;q=50&amp;rect=0,34,4205,2305&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Zé Rafael reforça meio-campo do Alverca",
+      "link": "https://maisfutebol.iol.pt/alverca/ze-rafael/oficial-ze-rafael-reforca-meio-campo-do-alverca",
+      "pubDate": "Mon, 24 Aug 2026 12:50:00 +0100",
+      "description": "Médio de 33 anos chega a custo, após o fim do contrato com o Santos",
+      "thumbnail": "https://img.iol.pt/image/id/6a8c2ab0d34ed0733ba8159b/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Zelensky acusa Putin de estar preso ao passado e pede à China que quebre \"silêncio\"",
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-acusa-putin-de-estar-preso-ao-passado-e-pede-a-china-que-quebre-silencio_n1761233",
-      "pubDate": "Mon, 24 Aug 2026 12:36:06 +0100",
-      "description": "O Presidente ucraniano acusou hoje o homólogo russo de estar &quot;preso ao passado&quot; e pediu à China que se manifeste contra as ameaças de Moscovo sobre o uso de armas nucleares.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8ee7b59a5bab28c4bf82ebafe7921a7c?w=350&amp;q=50&amp;rect=0,358,7231,3964&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: a palestra emotiva de Ricardo Sousa antes do «Primus Derby»",
+      "link": "https://maisfutebol.iol.pt/romenia/ricardo-sousa/video-a-palestra-emotiva-de-ricardo-sousa-antes-do-primus-derby",
+      "pubDate": "Mon, 24 Aug 2026 12:33:24 +0100",
+      "description": "Petrolul Ploiesti acabou por perder 2-0 na receção ao Rapid Bucareste, em jogo da sexta jornada da Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6a8c2897d34e511da0b34d51/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -132,24 +152,44 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8c1f8ed34e511da0b34d3d/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Infantino: «Alguns não precisam ou não querem que os outros cresçam»",
-      "link": "https://maisfutebol.iol.pt/internacional/gianni-infantino/infantino-alguns-nao-precisam-ou-nao-querem-que-os-outros-crescam",
-      "pubDate": "Mon, 24 Aug 2026 11:13:00 +0100",
-      "description": "Presidente da FIFA defende mais oportunidades e investimento para reduzir o fosso entre as grandes potências e os restantes países",
-      "thumbnail": "https://img.iol.pt/image/id/69bc8c77d34edcee7c6216ca/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Nem todas as tecnologias melhoram experiência no carro",
+      "link": "https://www.noticiasaominuto.com/auto/3040591/nem-todas-as-tecnologias-automoveis-melhoram-experiencia-de-utilizacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 12:43:26",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c2e0823136.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMjUsImNyb3BIZWlnaHQiOjE4MjIsImNyb3BYIjoxMDIwLCJjcm9wWSI6MzN9fQ=="
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Ténis: Coco Gauff conquista Masters 1000 de Cincinatti pela segunda vez",
-      "link": "https://maisfutebol.iol.pt/tenis/coco-gauff/tenis-coco-gauff-conquista-masters-1000-de-cincinatti-pela-segunda-vez",
-      "pubDate": "Mon, 24 Aug 2026 11:12:45 +0100",
-      "description": "Norte-americana bate compatriota Jessica Pegula em dois sets (6-2 e 6-4)",
-      "thumbnail": "https://img.iol.pt/image/id/6a8c171ad34e511da0b34d28/250"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Antigo mufti sírio próximo de Al-Assad condenado a prisão perpétua",
+      "link": "https://www.noticiasaominuto.com/mundo/3040593/antigo-mufti-sirio-proximo-de-al-assad-condenado-a-prisao-perpetua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 12:32:43",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_675590a08bae7.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQ0MSwiY3JvcFkiOjB9fQ=="
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Kremlin acusa Reino Unido de \"participar na guerra\" ao lado da Kyiv",
+      "link": "https://www.noticiasaominuto.com/mundo/3040587/kremlin-acusa-reino-unido-de-participar-na-guerra-ao-lado-da-kyiv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 12:28:35",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5bfbdc99cc5dd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjoxMzkxLCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Ucrânia. Menina reconhece pai em memorial para soldados mortos na guerra",
+      "link": "https://www.noticiasaominuto.com/mundo/3040566/ucrania-menina-reconhece-pai-em-memorial-para-soldados-mortos-na-guerra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-24 12:24:42",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c1e99c7b3e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozOTIsImNyb3BIZWlnaHQiOjIyMCwiY3JvcFgiOjEyMSwiY3JvcFkiOjEzOX19"
     },
     {
       "sourceId": "nam",
@@ -162,44 +202,14 @@
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/46935640.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxNiwiY3JvcFkiOjB9fQ=="
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Bombeiros de Esposende salvam dois cães em menos de 48h. \"Dedicação\"",
-      "link": "https://www.noticiasaominuto.com/pais/3040571/bombeiros-de-esposende-salvam-dois-caes-em-menos-de-48h-dedicacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 12:11:13",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c1fed95bd9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgzOSwiY3JvcEhlaWdodCI6MTQ5MSwiY3JvcFgiOjI4MSwiY3JvcFkiOjI5fX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Até citou Abel. A explosiva conferência de imprensa de Luís Castro",
-      "link": "https://www.noticiasaominuto.com/desporto/3040582/ate-citou-abel-a-explosiva-conferencia-de-imprensa-de-luis-castro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 12:07:05",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c25a3e03cd.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "CE mobiliza 2,1 milhões em testes para combater ébola na RDCongo",
-      "link": "https://www.noticiasaominuto.com/mundo/3040576/ce-mobiliza-2-1-milhoes-em-testes-para-combater-ebola-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 12:07:02",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5343be947eec9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjo0NzMsImNyb3BZIjowfX0="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "6 plantas que transformam a energia da sua casa, segundo o Feng Shui",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3040543/6-plantas-que-transformam-a-energia-da-sua-casa-segundo-o-feng-shui#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-24 12:05:43",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8c137b46edc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjAxLCJjcm9wSGVpZ2h0IjoxMjM4LCJjcm9wWCI6MCwiY3JvcFkiOjEyMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NTMzLCJjcm9wWSI6MH19"
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Certificados de Aforro vão render o máximo em setembro",
+      "link": "https://pplware.sapo.pt/informacao/certificados-de-aforro-vao-render-o-maximo-em-setembro/",
+      "pubDate": "Mon, 24 Aug 2026 11:30:23 +0000",
+      "description": "A Euribor a três meses está a bater valores que não se viam há quase dois anos, e isso tem consequências diretas na carteira de quem investe em Certificados de Aforro. A partir de&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/02/certificados_aforro.jpg"
     },
     {
       "sourceId": "pplware",
@@ -242,14 +252,54 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/09/combustivel_02.jpeg"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Claude em baixo: vários modelos da Anthropic com problemas",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/claude-em-baixo-varios-modelos-da-anthropic-com-problemas/",
-      "pubDate": "Mon, 24 Aug 2026 09:05:06 +0000",
-      "description": "O Claude está a enfrentar problemas esta segunda-feira, 24 de agosto, com vários dos principais modelos da Anthropic a apresentarem erros e a não conseguirem responder aos pedidos dos utilizadores. A empresa já confirmou&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/02/anthropic_claude_1.jpg"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "História da Fórmula E: de Nelson Piquet Jr a Pascal Wehrlein, os 10 campeões em 12 temporadas",
+      "link": "https://www.autosport.pt/sem-categoria/historia-da-formula-e-de-nelson-piquet-jr-a-pascal-wehrlein-os-10-campeoes-em-12-temporadas/",
+      "pubDate": "Mon, 24 Aug 2026 11:05:18 +0000",
+      "description": "A Fórmula E prepara-se para inaugurar a era GEN4 após concluir 12 anos de competição intensos, nos quais coroou 10 campeões diferentes. O feito reflete a imprevisibilidade do Mundial elétrico da FIA, marcado pelo bicampeonato recente de Pascal Wehrlein na Temporada 12, igualando o registo histórico ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Lembra-se de: O dia em que o Kaiser disse adeus, as lágrimas de Monza na despedida de Michael Schumacher",
+      "link": "https://www.autosport.pt/formula1/lembra-se-de-o-dia-em-que-o-kaiser-disse-adeus-as-lagrimas-de-monza-na-despedida-de-michael-schumacher/",
+      "pubDate": "Mon, 24 Aug 2026 10:51:30 +0000",
+      "description": "Há precisamente vinte anos, num fim de tarde carregado de emoção em Monza, o desporto automóvel prendeu a respiração. Michael Schumacher desceu do lugar mais alto do pódio do Grande Prémio de Itália, enxugou o suor de mais uma vitória memorável e, perante o silêncio atónito do mundo, anunciou um pon",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Lembra-se da chama do Fórum AutoSport: quando o debate forjou laços e transformou opiniões em amizade",
+      "link": "https://www.autosport.pt/maismotores/lembra-se-da-chama-do-forum-autosport-quando-o-debate-forjou-lacos-e-transformou-opinioes-em-amizade/",
+      "pubDate": "Mon, 24 Aug 2026 10:22:54 +0000",
+      "description": "Há memórias que o tempo, por mais que passe, insiste em não apagar. Há 20 anos, num canto vibrante da internet portuguesa que era o Fórum do AutoSport, florescia um fenómeno que transcenderia ecrãs e teclados, para se enraizar nos corações de muitos apaixonados pelo desporto automóvel. Não era apena",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP dos Países Baixos, F1: Os reflexos impressionantes e a excelente corrida de Nico Hülkenberg",
+      "link": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-os-reflexos-impressionantes-e-a-excelente-corrida-de-nico-hulkenberg/",
+      "pubDate": "Mon, 24 Aug 2026 09:52:31 +0000",
+      "description": "Nico Hülkenberg voltou a mostrar porque a Audi faz questão de o manter na equipa. O alemão, de 39 anos, mostrou reflexos de gato e uma velocidade espantosa no Grande Prémio dos Países Baixos. Terminou em oitavo lugar, um resultado que representa a sua segunda corrida consecutiva nos pontos e que est",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "FIA aponta para a China: Três construtores negociam entrada no WRC, regresso ao calendário em equação",
+      "link": "https://www.autosport.pt/destaque-homepage/fia-aponta-para-a-china-tres-construtores-negociam-entrada-no-wrc-regresso-ao-calendario-em-equacao/",
+      "pubDate": "Mon, 24 Aug 2026 09:35:21 +0000",
+      "description": "Três fabricantes automóveis chineses estão em negociações ativas com a FIA para integrar o Campeonato do Mundo de Ralis, numa altura em que a China pressiona também para acolher uma prova do calendário mundial num futuro próximo. O objetivo de expansão para o maior mercado automóvel do mundo foi con",
+      "thumbnail": ""
     }
   ]
 }
