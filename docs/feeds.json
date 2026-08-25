@@ -1,55 +1,95 @@
 {
-  "updated": "2026-08-25T22:21:46.356542+00:00",
+  "updated": "2026-08-25T22:53:51.447482+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 23h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2158/",
-      "pubDate": "Tue, 25 Aug 2026 23:14:54 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Carros modernos possuem equipamentos caros que poucos usam",
+      "link": "https://observador.pt/2026/08/25/carros-modernos-possuem-equipamentos-caros-que-poucos-condutores-usam-ou-apreciam/",
+      "pubDate": "Tue, 25 Aug 2026 23:46:14 +0100",
+      "description": "A legislação europeia continua a obrigar os construtores a incrementar o equipamento de segurança incluído de série nos seus modelos, o que aumenta o preço. Estudo prova que os condutores não os usam.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:899:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25233003/aeb.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Moçambique: privados aliados ao PAM contra fome",
-      "link": "https://observador.pt/2026/08/25/empresarios-mocambicanos-querem-parceria-com-o-pam-para-aumentar-producao-alimentar-e-combater-desnutricao/",
-      "pubDate": "Tue, 25 Aug 2026 23:14:24 +0100",
-      "description": "A CTA e o PAM reuniram-se para estreitar cooperação. O setor privado quer aumentar produção, fortificar alimentos e apoiar lanches escolares para reduzir a insegurança alimentar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/20111116/28325282.jpg"
+      "title": "Bruno Fernandes eleito jogador masculino do ano pela PFA",
+      "link": "https://observador.pt/2026/08/25/bruno-fernandes-eleito-o-jogador-masculino-do-ano-em-inglaterra-pela-associacao-de-futebolistas-profissionais/",
+      "pubDate": "Tue, 25 Aug 2026 23:28:45 +0100",
+      "description": "O capitão do Manchester United foi o mais votado pelos jogadores e considera a conquista \"um grande momento\". O internacional português somou nove golos e 21 assistências na época passada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:843:nowe:0:78/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/13215127/bruno-fernandes.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Gás para a Madeira chega quinta-feira apesar da greve",
-      "link": "https://observador.pt/2026/08/25/seis-cisternas-de-gas-para-a-madeira-carregadas-durante-greve-na-ren-atlantico-chegam-quinta-feira-ao-canical/",
-      "pubDate": "Tue, 25 Aug 2026 23:14:08 +0100",
-      "description": "Acordo com sindicatos permitiu carregar as cisternas em Sines durante a paralisação, que termina esta terça-feira. Região recebe em média 35 contentores por semana.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21134117/ilacerda-sede-ren-41-scaled.jpg"
+      "title": "UE. Primeiro défice comercial desde 2023 no 2.º trimestre",
+      "link": "https://observador.pt/2026/08/25/uniao-europeia-regista-no-2-o-trimestre-deste-ano-o-primeiro-defice-comercial-desde-2023/",
+      "pubDate": "Tue, 25 Aug 2026 23:28:06 +0100",
+      "description": "A UE registou um défice comercial de 21,8 mil milhões de euros no segundo trimestre de 2026. O Eurostat afirma que este agravamento se deveu sobretudo ao aumento do défice dos produtos energéticos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/23101721/44754301.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Cabo-Verde quer mais alunos no ensino técnico",
-      "link": "https://observador.pt/2026/08/25/governo-cabo-verdiano-quer-mais-alunos-no-ensino-tecnico-para-qualificar-mao-de-obra/",
-      "pubDate": "Tue, 25 Aug 2026 23:13:53 +0100",
-      "description": "Só 1.400 alunos seguem a via técnica, face a 30-32 mil no secundário geral. O ministro da Educação quer \"inverter\" este cenário \"anormal\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/05093249/39198503.jpg"
+      "title": "\"A Escrava Açoriana\" de Almeida Maia chega aos EUA no outono",
+      "link": "https://observador.pt/2026/08/25/romance-a-escrava-acoriana-de-pedro-almeida-maia-publicado-nos-eua-no-outono/",
+      "pubDate": "Tue, 25 Aug 2026 23:27:52 +0100",
+      "description": "Editado nos EUA pela Bruma Publications, livro aborda o tema da escravatura branca açoriana nos finais do século XIX na visão de uma personagem feminina encaixada num \"tempo de supremacia masculina\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:97/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25232119/img-7998-copia.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "\"É um encontro\". Festival regressa à Amadora em setembro",
-      "link": "https://observador.pt/2026/08/25/festival-e-um-encontro-regressa-a-amadora-em-setembro/",
-      "pubDate": "Tue, 25 Aug 2026 22:57:12 +0100",
-      "description": "O festival \"É um encontro\" traz ao parque central da Amadora uma programação dedicada à gastronomia, música, dança e tradições de diferentes geografias. A abertura está marcada para 11 de setembro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/25001540/44257008.jpg"
+      "title": "A vida de Dolly Parton em fotografias",
+      "link": "https://observador.pt/2026/08/25/rainha-da-country-atriz-e-benemerita-a-vida-de-dolly-parton-em-fotografias/",
+      "pubDate": "Tue, 25 Aug 2026 23:27:49 +0100",
+      "description": "Estreou-se em disco em 1967 com o disco \"Hello, I'm Dolly\", primeiro de 50 álbuns. Ao longo da carreira recebeu 11 prémios Grammy e três prémios Emmy, um Óscar honorário humanitário e um Tony.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25214108/gettyimages-1439409324-scaled.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Conselho de Paz para Gaza avisa Hamas contra uso de objetos voadores",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/conselho-de-paz-para-gaza-avisa-hamas-contra-uso-de-objetos-voadores_n1761519",
+      "pubDate": "Wed, 26 Aug 2026 00:43:25 +0100",
+      "description": "O Conselho de Paz, incumbido pelo Governo norte-americano de supervisionar o acordo na Faixa de Gaza, advertiu hoje o movimento islamita palestiniano Hamas contra o uso de objetos voadores, após Israel ter ameaçado com novos ataques de retaliação.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "China e Índia acordam negociações sobre disputa fronteiriça",
+      "link": "https://www.rtp.pt/noticias/economia/china-e-india-acordam-negociacoes-sobre-disputa-fronteirica_n1761520",
+      "pubDate": "Wed, 26 Aug 2026 00:43:01 +0100",
+      "description": "A China e a Índia acordaram hoje avançar nas negociações sobre a sua disputa fronteiriça, numa reunião em Pequim entre o ministro dos Negócios Estrangeiros chinês, Wang Yi, e o conselheiro de Segurança Nacional indiano, Ajit Doval.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Cuba condena extensão de embargo dos EUA",
+      "link": "https://www.rtp.pt/noticias/mundo/cuba-condena-extensao-de-embargo-dos-eua_n1761522",
+      "pubDate": "Wed, 26 Aug 2026 00:41:44 +0100",
+      "description": "O regime de Cuba condenou hoje a extensão do embargo que os Estados Unidos lhe impõem há mais de 60 anos, que afirma visar &quot;asfixiar&quot; a ilha comunista.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Ministra Balseiro Lopes diz que faltam \"feministas mais ativas\" questionada sobre Mulheres Conservadoras",
+      "link": "https://www.rtp.pt/noticias/pais/ministra-balseiro-lopes-diz-que-faltam-feministas-mais-ativas-questionada-sobre-mulheres-conservadoras_n1761523",
+      "pubDate": "Wed, 26 Aug 2026 00:41:24 +0100",
+      "description": "A ministra da Cultura, Juventude e Desporto assumiu-se hoje como feminista quando questionada sobre o movimento Mulheres Conservadoras de Portugal, respondendo que &quot;continuam a faltar feministas mais ativas&quot; enquanto existirem mulheres a ganhar menos que os homens.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,24 @@
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Presidenciais francesas. Sondagens apontam para segunda volta entre Le Pen e Mélenchon",
-      "link": "https://www.rtp.pt/noticias/mundo/presidenciais-francesas-sondagens-apontam-para-segunda-volta-entre-le-pen-e-melenchon_n1761516",
-      "pubDate": "Tue, 25 Aug 2026 23:34:03 +0100",
-      "description": "Numa altura em que faltam oito meses para as eleições presidenciais francesas, as sondagens apontam para uma segunda volta entre a nacionalista Marine Le Pen e o socialista radical Jean Luc Mélenchon.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/22/227cf497acdad4e4880592bd7c6c5435?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Kamil Grabara é o novo guarda-redes da Juventus",
+      "link": "https://maisfutebol.iol.pt/mercado/italia/oficial-kamil-grabara-e-o-novo-guarda-redes-da-juventus",
+      "pubDate": "Tue, 25 Aug 2026 23:45:17 +0100",
+      "description": "Internacional polaco foi emprestado à equipa de Turim pelo Wolfsburgo",
+      "thumbnail": "https://img.iol.pt/image/id/6a8e1abed34e511da0b35562/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tenista luso Henrique Rocha na segunda ronda de qualificação do US Open",
-      "link": "https://www.rtp.pt/noticias/tenis/tenista-luso-henrique-rocha-na-segunda-ronda-de-qualificacao-do-us-open_d1761514",
-      "pubDate": "Tue, 25 Aug 2026 23:10:14 +0100",
-      "description": "O tenista português Hugo Rocha, 119.º jogador mundial, qualificou-se para a segunda ronda do torneio de qualificação do Open dos Estados Unidos, em Nova Iorque, ao superar o norte-americano Michael Mmoh, 173.º.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb59179cc6cc75ee94e77dc7819e2d36?w=350&amp;q=50&amp;rect=0,109,1233,676&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "César Peixoto e Nuno Espírito Santo avançam na Taça da Liga inglesa",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/cesar-peixoto-e-nuno-espirito-santo-avancam-na-taca-da-liga-inglesa_d1761515",
-      "pubDate": "Tue, 25 Aug 2026 23:08:40 +0100",
-      "description": "O Wolverhampton, de César Peixoto, e o West Ham, de Nuno Espírito Santo, qualificaram-se esta terça-feira para os 16 avos de final da Taça da Liga inglesa em futebol, ao vencerem fora Sheffield Wednesday (2-0) e Southampton (4-1), respetivamente.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d78a740725fed813415a235f7bdc9c0?w=350&amp;q=50&amp;rect=0,12,1233,676&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Síria. Líder das forças curdas anuncia dissolução",
-      "link": "https://www.rtp.pt/noticias/mundo/siria-lider-das-forcas-curdas-anuncia-dissolucao_n1761513",
-      "pubDate": "Tue, 25 Aug 2026 23:00:46 +0100",
-      "description": "O líder curdo sírio, Mazloum Abdi, anunciou na noite de terça-feira a dissolução das suas poderosas forças, que derrotaram os jihadistas do grupo Estado Islâmico, em conformidade com um acordo com o presidente Ahmad al-Sharaa, determinado a reunificar a Síria.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad8ce0f2836b18cf283073869bd4c1fe?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Arábia: João Félix com números monstruosos no Al Nassr",
+      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-nassr/arabia-joao-felix-com-numeros-monstruosos-no-al-nassr",
+      "pubDate": "Tue, 25 Aug 2026 23:23:00 +0100",
+      "description": "Internacional português soma 51 participações diretas em golos, em igual número de jogos pelo clube de Riade",
+      "thumbnail": "https://img.iol.pt/image/id/6a84b372d34ed0733ba80726/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -130,26 +150,6 @@
       "pubDate": "Tue, 25 Aug 2026 22:50:30 +0100",
       "description": "Norte-americana e espanhol superaram Erin Routliffe e Lloyd Glasspool por 2-0",
       "thumbnail": "https://img.iol.pt/image/id/6a8e0ddbd34ed0733ba81d72/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Champions: as 32 (de 36) equipas já apuradas e os possíveis adversários de FC Porto e Sporting",
-      "link": "https://maisfutebol.iol.pt/liga-dos-campeoes/champions/champions-as-32-de-36-equipas-ja-apuradas-e-os-possiveis-adversarios-de-fc-porto-e-sporting",
-      "pubDate": "Tue, 25 Aug 2026 22:47:08 +0100",
-      "description": "Sabah, Bodo/Glimt e Lask Linz garantiram lugares na competição",
-      "thumbnail": "https://img.iol.pt/image/id/66d09fe4d34e94b829049ffd/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Betis vence em Valência e junta-se ao Sevilha na liderança da Liga espanhola",
-      "link": "https://maisfutebol.iol.pt/espanha/internacional/betis-vence-em-valencia-e-junta-se-ao-sevilha-na-lideranca-da-liga-espanhola",
-      "pubDate": "Tue, 25 Aug 2026 22:24:35 +0100",
-      "description": "Pablo García foi herói aos 83 minutos",
-      "thumbnail": "https://img.iol.pt/image/id/6a8e0784d34e511da0b3552d/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "LASK faz milagre e anula quatro golos de desvantagem para selar Champions",
-      "link": "https://www.noticiasaominuto.com/desporto/3041401/lask-faz-milagre-e-anula-quatro-golos-de-desvantagem-para-selar-champions#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:19:25",
+      "title": "Rua da Oura? \"Segurança não pode ser perceção, tem de ser realidade\"",
+      "link": "https://www.noticiasaominuto.com/pais/3041406/rua-da-oura-seguranca-nao-pode-ser-percecao-tem-de-ser-realidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 23:48:42",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e14aff3d83.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a83fc33e8ff9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjExLCJjcm9wSGVpZ2h0Ijo5MDYsImNyb3BYIjozLCJjcm9wWSI6MTA4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjIsImNyb3BIZWlnaHQiOjE2MzgsImNyb3BYIjo1NTIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Marítimo lança documentário sobre subida: \"Não podemos deixar de lutar\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3041397/maritimo-lanca-documentario-sobre-subida-nao-podemos-deixar-de-lutar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:14:14",
+      "title": "\"Enquanto mulher pensar que roupa usa, faltam é feministas mais ativas\"",
+      "link": "https://www.noticiasaominuto.com/pais/3041404/ministra-balseiro-lopes-diz-que-faltam-feministas-mais-ativas-questionada-sobre-mulheres-conservadoras-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 23:41:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e1266e4792.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e1a0009993.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTc3LCJjcm9wSGVpZ2h0IjoxMTEyLCJjcm9wWCI6NDgsImNyb3BZIjoyfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "MP instaura inquérito ao atropelamento ocorrido em Albufeira",
-      "link": "https://www.noticiasaominuto.com/pais/3041398/mp-instaura-inquerito-ao-atropelamento-ocorrido-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:06:25",
+      "title": "Dolly Parton deixou um último desejo para o seu funeral",
+      "link": "https://www.noticiasaominuto.com/fama/3041399/dolly-parton-deixou-um-ultimo-desejo-para-o-seu-funeral#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 23:35:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6637919b0a248.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e120d3b14f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgwLCJjcm9wSGVpZ2h0IjoxMzk1LCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMiwiY3JvcEhlaWdodCI6MTYzOCwiY3JvcFgiOjM3MywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Conselho de Paz para Gaza avisa Hamas contra uso de objetos voadores",
-      "link": "https://www.noticiasaominuto.com/mundo/3041392/medio-oriente-conselho-de-paz-para-gaza-avisa-hamas-contra-uso-de-objetos-voadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 22:59:33",
+      "title": "Cuba condena extensão de embargo dos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3041403/cuba-condena-extensao-de-embargo-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 23:32:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e08c780b8f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e180572b58.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bruno Fernandes eleito o jogador do ano em Inglaterra pelos futebolistas",
-      "link": "https://www.noticiasaominuto.com/desporto/3041391/bruno-fernandes-eleito-o-jogador-do-ano-em-inglaterra-pelos-futebolistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 22:54:28",
+      "title": "China e Índia acordam negociações sobre disputa fronteiriça",
+      "link": "https://www.noticiasaominuto.com/mundo/3041396/china-e-india-acordam-negociacoes-sobre-disputa-fronteirica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 23:26:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e0edc5c78b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ4fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5ae302392ff4a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjczMSwiY3JvcEhlaWdodCI6MTI5OSwiY3JvcFgiOjIxNywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
