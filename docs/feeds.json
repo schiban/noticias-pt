@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-25T19:27:28.396956+00:00",
+  "updated": "2026-08-25T19:55:42.515330+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Kremlin diz que Kiev estaria a planear invadir a Rússia",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/kremlin-diz-que-kiev-estaria-a-planear-invadir-a-russia/",
+      "pubDate": "Tue, 25 Aug 2026 20:51:24 +0100",
+      "description": "De acordo com um assessor de Vladimir Putin, Kiev planeava invadir a Rússia antes de Moscovo ter invadido a Ucrânia. Segundo a mesma fonte, a data da operação militar seria 8 de março de 2022.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "EUA pedem suspensão de ataques para visita da CIA à Rússia",
+      "link": "https://observador.pt/programas/a-guerra-traduzida/eua-pedem-suspensao-de-ataques-para-visita-da-cia-a-russia/",
+      "pubDate": "Tue, 25 Aug 2026 20:50:18 +0100",
+      "description": "O The Kiev Independent afirma que Kiev concordou em suspender os ataques a Moscovo e a São Petesburgo entre 24 e 26 de agosto durante a presença de \"uma delegação de alto escalão\" em Moscovo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Exames feitos, acordo fechado: Zekri é a sombra de Maxi",
+      "link": "https://observador.pt/2026/08/25/exames-feitos-acordo-fechado-sporting-oficializa-contratacao-de-moncef-zekri-o-trunfo-na-mangas-para-ser-a-nova-sombra-de-maxi-araujo/",
+      "pubDate": "Tue, 25 Aug 2026 20:40:05 +0100",
+      "description": "Um mês depois, substituto de Ricardo Mangas no plantel está encontrado: Moncef Zekri, internacional marroquino Sub-17 dos belgas do Mechelen, foi oficializado como nono reforço do Sporting em 2025/26.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24162331/moncef-zekri.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,84 +52,64 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19212434/dventura-rentree-chega-26-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 20h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2035/",
-      "pubDate": "Tue, 25 Aug 2026 20:11:59 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Advogados defendem que Andrew Tate finge vida luxuosa",
-      "link": "https://observador.pt/2026/08/25/carros-iates-e-relogios-de-luxo-advogados-de-andrew-tate-dizem-que-influencer-aparenta-ser-extremamente-rico-para-gerar-atencao-online/",
-      "pubDate": "Tue, 25 Aug 2026 20:01:28 +0100",
-      "description": "Advogados também representam irmão do influencer, Tristan Tate. Defendem que quanto mais \"hiperbólica e absurda\" for a publicação online, maior será a probabilidade de gerar visualizações e receitas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:41/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25162217/gettyimages-2149878357.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Taxar os lucros das petrolíferas é só fogo de vista?",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/taxar-os-lucros-das-petroliferas-e-so-fogo-de-vista/",
-      "pubDate": "Tue, 25 Aug 2026 19:59:26 +0100",
-      "description": "O pedido de imposto europeu sobre lucros extraordinários tem eficácia nula na carteira e a receita no passado ficou muito aquém do previsto. A crise em Ceuta expõe a fraqueza do executivo de Madrid.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Sindicatos da função pública consideram aumentos salariais \"insuficientes\"",
+      "link": "https://www.rtp.pt/noticias/economia/sindicatos-da-funcao-publica-consideram-aumentos-salariais-insuficientes_v1761498",
+      "pubDate": "Tue, 25 Aug 2026 21:52:47 +0100",
+      "description": "Os principais sindicatos da Administração Pública consideram insuficientes os aumentos salariais previstos para o próximo ano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6d/6d02c28a0e754e0a760eb4dc0b0d64dd_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "19h Lisboa vai receber plano de reorganização das esquadras",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-lisboa-vai-receber-plano-de-reorganizacao-das-esquadras_a1_1761483",
-      "pubDate": "Tue, 25 Aug 2026 20:36:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Leonor Lopes entrou na Faculdade de Medicina com 15 anos",
+      "link": "https://www.rtp.pt/noticias/pais/leonor-lopes-entrou-na-faculdade-de-medicina-com-15-anos_v1761497",
+      "pubDate": "Tue, 25 Aug 2026 21:49:47 +0100",
+      "description": "Uma adolescente de 15 anos é um bom exemplo de grande sucesso escolar. Esta jovem de apenas 15 anos entrou na Faculdade de Medicina da Universidade do Porto com 19,6 valores.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/1d/1de2cab192c888cff3a6d82a0957c000_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Diretor da CIA faz visita não anunciada a Moscovo",
-      "link": "https://www.rtp.pt/noticias/mundo/diretor-da-cia-faz-visita-nao-anunciada-a-moscovo_n1761478",
-      "pubDate": "Tue, 25 Aug 2026 20:03:45 +0100",
-      "description": "O diretor da agência de inteligência norte-americana, John Ratcliff, viajou esta terça-feira para Moscovo para reunir com responsáveis russos, segundo avançam vários meios de comunicação norte-americanos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b79402e1826d2898795b109e8966d21?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "\"Impreparados para governar\". Carneiro e Ventura respondem a Hugo Soares",
+      "link": "https://www.rtp.pt/noticias/politica/impreparados-para-governar-carneiro-e-ventura-respondem-a-hugo-soares_v1761496",
+      "pubDate": "Tue, 25 Aug 2026 21:48:47 +0100",
+      "description": "José Luís Carneiro e André Ventura responderam às críticas do PSD de falta de preparação e de populismo.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/cb/cb42c07cb87b3e833375f7d799a59c73_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "\"Rainha da música country\". Dolly Parton morre aos 80 anos",
-      "link": "https://www.rtp.pt/noticias/cultura/rainha-da-musica-country-dolly-parton-morre-aos-80-anos_n1761482",
-      "pubDate": "Tue, 25 Aug 2026 20:03:39 +0100",
-      "description": "Dolly Parton, a lenda da música country, morreu esta terça-feira, aos 80 anos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2cdd373ac590441ee1868286c698eb3e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Paulo Rangel critica demagogos e \"políticas delicodoces\" do PS",
+      "link": "https://www.rtp.pt/noticias/politica/paulo-rangel-critica-demagogos-e-politicas-delicodoces-do-ps_v1761495",
+      "pubDate": "Tue, 25 Aug 2026 21:47:47 +0100",
+      "description": "Paulo Rangel diz que o país não pode ser governado pelos damagogos do Chega nem pelas &quot;políticas delicodoces&quot; do PS.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/33/33b8161d7c9b2ab3089c5a2b5c98aab6_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "18h30 O ouro de Camila Rebelo e a aposta do Sporting",
-      "link": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-o-ouro-de-camila-rebelo-e-a-aposta-do-sporting_a1_1761481",
-      "pubDate": "Tue, 25 Aug 2026 20:02:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Faltam ortopedistas nos hospitais públicos",
+      "link": "https://www.rtp.pt/noticias/pais/faltam-ortopedistas-nos-hospitais-publicos_v1761494",
+      "pubDate": "Tue, 25 Aug 2026 21:44:47 +0100",
+      "description": "Em Portugal existem perto de 1500 ortopedistas, mas cerca de 40% têm 65 ou mais anos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/ae/aefad0d30699a6a440f3b5f161167b8e_N.jpg?"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Crise na Volkswagen. Comissão de Trabalhadores da Autoeuropa confiante no futuro",
-      "link": "https://www.rtp.pt/noticias/economia/crise-na-volkswagen-comissao-de-trabalhadores-da-autoeuropa-confiante-no-futuro_n1761480",
-      "pubDate": "Tue, 25 Aug 2026 19:55:31 +0100",
-      "description": "Em declarações à RTP, Rogério Nogueira afirmou que a Comissão de Trabalhadores da fábrica não tem &quot;qualquer indicação de reestruturação de pessoal na Autoeuropa&quot;. &quot;Estamos confiantes no futuro da fábrica&quot;, frisou.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9fc125e17e34cdfc167549c88c1b2161?w=350&amp;q=50&amp;rect=0,102,1500,822&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Sporting anuncia contratação de Moncef Zekri",
+      "link": "https://maisfutebol.iol.pt/mercado/sporting/oficial-sporting-anuncia-contratacao-de-moncef-zekri",
+      "pubDate": "Tue, 25 Aug 2026 20:39:00 +0100",
+      "description": "Lateral-esquerdo de 17 anos chega a Alvalade proveniente dos belgas do Mechelen",
+      "thumbnail": "https://img.iol.pt/image/id/6a8deffad34e511da0b354f0/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -140,16 +150,6 @@
       "pubDate": "Tue, 25 Aug 2026 19:02:23 +0100",
       "description": "Bielorrusa e sérvio caíram diante de Siniakova e Henry Patten, num encontro decidido no super tie-break",
       "thumbnail": "https://img.iol.pt/image/id/6a8dd899d34e511da0b354c2/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "AVB: «Caro Rodrigo, o Dragão que te levou até Roma, um dia te trará de volta»",
-      "link": "https://maisfutebol.iol.pt/fc-porto/andre-villas-boas/avb-caro-rodrigo-o-dragao-que-te-levou-ate-roma-um-dia-te-trara-de-volta",
-      "pubDate": "Tue, 25 Aug 2026 18:30:26 +0100",
-      "description": "Presidente do FC Porto assina, na revista Dragões, um editorial muito crítico quanto ao estado do futebol nacional e aos ataques que, diz, o clube tem sido alvo",
-      "thumbnail": "https://img.iol.pt/image/id/6910f9c6d34e2bd5c6d3ce10/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Será que hoje chove na carteira? A chave do Euromilhões desta 3.ª-feira",
-      "link": "https://www.noticiasaominuto.com/pais/3041335/sera-que-hoje-chove-na-carteira-a-chave-do-euromilhoes-desta-3-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 20:25:03",
+      "title": "Polónia emite mandados contra 14 legistas russos por Smolensk",
+      "link": "https://www.noticiasaominuto.com/mundo/3041360/polonia-emite-mandados-contra-14-legistas-russos-por-smolensk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 20:52:25",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5a151c3764e42.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MjAzLCJjcm9wSGVpZ2h0IjoyMzY0LCJjcm9wWCI6LTIsImNyb3BZIjo0MzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE1NzUsImNyb3BIZWlnaHQiOjI4MDAsImNyb3BYIjo4NjQsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8df262a27f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MTIxfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Premonição? Carlos Castro disse que \"ia ser assassinado em Nova Iorque\"",
-      "link": "https://www.noticiasaominuto.com/fama/3041319/premonicao-carlos-castro-disse-que-ia-ser-assassinado-em-nova-iorque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 20:15:30",
+      "title": "Greve no terminal de Sines teve adesão \"na ordem dos 100%\"",
+      "link": "https://www.noticiasaominuto.com/economia/3041340/greve-dos-trabalhadores-da-ren-atlantico-com-impacto-na-ordem-dos-100-sindicato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 20:52:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8dd45e99378.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6NzJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOCwiY3JvcEhlaWdodCI6MTA4MCwiY3JvcFgiOjQzMiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5af721573c379.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Esqueceu-se de pendurar toalhas húmidas? Eis como remover o cheiro a mofo",
-      "link": "https://www.noticiasaominuto.com/lifestyle/3041349/esqueceu-se-de-pendurar-toalhas-humidas-eis-como-remover-o-cheiro-a-mofo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 20:12:37",
+      "title": "Diretor da CIA está em Moscovo para conversações com Rússia",
+      "link": "https://www.noticiasaominuto.com/mundo/3041267/ucrania-diretor-da-cia-visita-moscovo-para-conversacoes-com-autoridades-russas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 20:47:36",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8de276a7add.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUxLCJjcm9wSGVpZ2h0IjoxMzc5LCJjcm9wWCI6MTA2LCJjcm9wWSI6MTM3fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d40f2543c0a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMzLCJjcm9wSGVpZ2h0IjoxNDI1LCJjcm9wWCI6MCwiY3JvcFkiOjE3MX19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Seguro reuniu-se com representantes do setor social: As imagens",
-      "link": "https://www.noticiasaominuto.com/pais/3041320/seguro-reuniu-se-com-representantes-do-setor-social-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 20:05:02",
+      "title": "Guterres condena recente ataque \"implacável\" de gangues no Haiti",
+      "link": "https://www.noticiasaominuto.com/mundo/3041350/guterres-condena-recente-ataque-implacavel-de-gangues-no-haiti#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 20:45:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8dd45f9841d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzg1LCJjcm9wSGVpZ2h0IjoxMDA0LCJjcm9wWCI6MTAsImNyb3BZIjo5MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Njc1LCJjcm9wSGVpZ2h0IjoxMjAwLCJjcm9wWCI6ODM0LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8df0cf1e5c5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjEzOH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polícia fala sobre Albufeira: \"À mercê de um ato de desobediência\"",
-      "link": "https://www.noticiasaominuto.com/pais/3041332/albufeira-com-seguranca-mas-ficamos-a-merce-de-ato-de-desobediencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 20:03:57",
+      "title": "Irão chama \"assédio sistemático\" a nova operação económica dos EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3041359/irao-teerao-alerta-que-guerra-economica-de-washington-viola-a-soberania-dos-paises#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 20:45:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ddde4836d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NTMsImNyb3BIZWlnaHQiOjI1NSwiY3JvcFgiOjUsImNyb3BZIjo3OX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a58c39cc48f8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjMxOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUyLCJjcm9wSGVpZ2h0IjoxNjkyLCJjcm9wWCI6Mzk3LCJjcm9wWSI6MTZ9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Startup quer usar drones autónomos para “afastar” nuvens e aumentar produção solar",
+      "link": "https://pplware.sapo.pt/motores/startup-quer-usar-drones-autonomos-para-afastar-nuvens-e-aumentar-producao-solar/",
+      "pubDate": "Tue, 25 Aug 2026 19:30:58 +0000",
+      "description": "Já vimos, por aqui, muita coisa, mas a criatividade de engenheiros curiosos não para de surpreender. Uma startup promete aumentar em até 30% a produção anual de energia solar, enviando frotas de drones autónomos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/nuvens-paineis-solares-1.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Tue, 25 Aug 2026 16:30:31 +0000",
       "description": "Trump terá investido até 50 mil dólares em ações da SpaceX apenas duas semanas depois da estreia histórica da empresa em bolsa. A operação surge num contexto de proximidade entre Donald Trump e Elon&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/02/trump_musk.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apple lança novos Mac mini e Mac Studio: M6 estreia os 2 nm e preços começam nos 1.079€",
-      "link": "https://pplware.sapo.pt/apple/apple-lanca-novos-mac-mini-e-mac-studio-m6-estreia-os-2-nm-e-precos-comecam-nos-1-079e/",
-      "pubDate": "Tue, 25 Aug 2026 15:25:08 +0000",
-      "description": "A Apple surpreendeu ao renovar hoje dois dos seus computadores de secretária. O Mac mini recebe o novíssimo M6, o primeiro processador da empresa produzido num processo de 2 nanómetros, enquanto o Mac Studio&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/mac_mini_m6_00-scaled.webp"
     },
     {
       "sourceId": "autosport",
