@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-25T05:27:36.585797+00:00",
+  "updated": "2026-08-25T05:58:35.702525+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ucrânia atinge uma das maiores refinarias no sul da Rússia",
+      "link": "https://observador.pt/liveblogs/ucrania-atinge-uma-das-maiores-refinarias-no-sul-da-russia-paquistao-destaca-progresso-significativo-para-paz-no-irao/",
+      "pubDate": "Tue, 25 Aug 2026 06:51:24 +0100",
+      "description": "Kiev voltou a atacar as instalações petrolíferas de Afipsky, que produz cerca de 2% dos esforços de refinamento da Rússia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:42/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/01/16115207/40063374.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Antigo ministro da Saúde acumula pensão com salário",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/antigo-ministro-da-saude-acumula-pensao-com-salario/",
+      "pubDate": "Tue, 25 Aug 2026 06:39:04 +0100",
+      "description": "CM: António Correia de Campos soma mais de 8.500€ por mês. El País: Após críticas, Pedro Sánchez cria comando único para coordenar resposta à crise migratória em Ceuta.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,74 +52,54 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Como um fugitivo conseguiu ser psicólogo em Portugal",
-      "link": "https://observador.pt/programas/a-hist-ria-do-dia/como-um-fugitivo-conseguiu-ser-psicologo-em-portugal/",
-      "pubDate": "Tue, 25 Aug 2026 05:03:17 +0100",
-      "description": "Casal investigado e condenado por tortura no Brasil viveu 9 anos em Portugal. Ele chegou a ser psicólogo escolar nos Açores e no continente. Como? Uma conversa com Pedro Raínho, editor de Sociedade.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Sismos na Venezuela fizeram mais de 6.500 mortos",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2381/",
-      "pubDate": "Tue, 25 Aug 2026 04:15:56 +0100",
-      "description": "Dois meses depois, milhares de pessoas continuam em acampamentos temporários, expostas às fortes chuvas que têm atingido a Venezuela. Ainda, EUA não descartam novos ataques no Médio Oriente.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Presidente da Venezuela diz que já foram libertados 1.046 presos políticos",
+      "link": "https://www.rtp.pt/noticias/mundo/presidente-da-venezuela-diz-que-ja-foram-libertados-1046-presos-politicos_n1761374",
+      "pubDate": "Tue, 25 Aug 2026 07:43:10 +0100",
+      "description": "A presidente interina da Venezuela, Delcy Rodríguez, afirmou que mais de mil presos políticos foram libertados desde a intervenção militar dos Estados Unidos, a 03 de janeiro, apesar das dúvidas levantadas por organizações da sociedade civil.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Espanha estima em oito mil os migrantes que continuam em Ceuta",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-espanha-estima-em-oito-mil-os-migrantes-que-continuam-em-ceuta_a1_1761371",
-      "pubDate": "Tue, 25 Aug 2026 06:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "EUA não estão em posição de restringir ainda mais relações comerciais",
+      "link": "https://www.rtp.pt/noticias/economia/eua-nao-estao-em-posicao-de-restringir-ainda-mais-relacoes-comerciais_n1761373",
+      "pubDate": "Tue, 25 Aug 2026 07:42:14 +0100",
+      "description": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, desvalorizou o anúncio por parte dos Estados Unidos (EUA) de novas sanções contra a República Islâmica.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Investigadores identificam sinais para a doença de Alzheimer",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-investigadores-identificam-sinais-para-a-doenca-de-alzheimer_a1_1761368",
-      "pubDate": "Tue, 25 Aug 2026 05:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "China prepara nova lei rodoviária com regras específicas para veículos autónomos",
+      "link": "https://www.rtp.pt/noticias/economia/china-prepara-nova-lei-rodoviaria-com-regras-especificas-para-veiculos-autonomos_n1761372",
+      "pubDate": "Tue, 25 Aug 2026 07:41:42 +0100",
+      "description": "A China prepara uma reforma da Lei da Segurança Rodoviária que inclui, pela primeira vez, um capítulo específico sobre veículos autónomos, numa altura em que o país acelera a adoção de novas tecnologias de mobilidade, como os `robotáxis`.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Advogados dizem que PSP quer ver dados pessoais além da cédula",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-advogados-dizem-que-psp-quer-ver-dados-pessoais-alem-da-cedula_a1_1761365",
-      "pubDate": "Tue, 25 Aug 2026 04:16:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Hyundai Motor chega a acordo salarial com sindicato após múltiplas greves",
+      "link": "https://www.rtp.pt/noticias/economia/hyundai-motor-chega-a-acordo-salarial-com-sindicato-apos-multiplas-greves_n1761370",
+      "pubDate": "Tue, 25 Aug 2026 07:41:04 +0100",
+      "description": "A direção e o sindicato da principal fabricante automóvel da Coreia do Sul, a Hyundai Motor, anunciaram que chegaram a um acordo salarial após várias greves parciais.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Detetado norovírus em casos de gastroenterite nos Açores",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-detetado-norovirus-em-casos-de-gastroenterite-nos-acores_a1_1761362",
-      "pubDate": "Tue, 25 Aug 2026 03:35:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h Presidente do Conselho Europeu inicia volta pelas capitais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-presidente-do-conselho-europeu-inicia-volta-pelas-capitais_a1_1761360",
-      "pubDate": "Tue, 25 Aug 2026 02:21:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Timor-Leste vai ter inventário de locais de interesse geológico para turistas",
+      "link": "https://www.rtp.pt/noticias/economia/timor-leste-vai-ter-inventario-de-locais-de-interesse-geologico-para-turistas_n1761369",
+      "pubDate": "Tue, 25 Aug 2026 07:39:50 +0100",
+      "description": "O Instituto de Geociências e a Autoridade de Turismo de Timor-Leste assinaram hoje um acordo para a elaboração de um Inventário do Património Geológico, para promover o turismo geológico e reforçar o conhecimento científico.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,51 +155,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "China intensifica campanha anticorrupção com recorde de quadros investigados",
-      "link": "https://www.noticiasaominuto.com/mundo/3040927/china-intensifica-campanha-anticorrupcao-com-recorde-de-quadros-investigados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 06:21:51",
+      "title": "Quatro pessoas atropeladas na Oura, Albufeira. Uma ferida com gravidade",
+      "link": "https://www.noticiasaominuto.com/pais/3040954/quatro-pessoas-atropeladas-uma-com-gravidade-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 06:48:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cdf25b9d36.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MzMsImNyb3BZIjo0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6OTYzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66b0d31cb5fdd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjUzOCwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Petroleiro atingido por \"projétil desconhecido\" ao largo da costa de Omã",
-      "link": "https://www.noticiasaominuto.com/mundo/3040929/petroleiro-atingido-por-projetil-desconhecido-ao-largo-da-costa-de-oma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 06:21:16",
+      "title": "Trump planeia nova taxa para vistos de trabalhadores qualificados",
+      "link": "https://www.noticiasaominuto.com/mundo/3040921/trump-planeia-nova-taxa-de-85-7-mil-euros-para-vistos-de-trabalhadores-qualificados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 06:47:30",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cea2a1fda8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg0LCJjcm9wSGVpZ2h0IjoxMzk4LCJjcm9wWCI6NTUsImNyb3BZIjoxMjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk4NSwiY3JvcEhlaWdodCI6MTc1MSwiY3JvcFgiOjEzMTIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a0804f1c5223.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Balanço ultrapassa os 6.500 mortos dois meses após sismos na Venezuela",
-      "link": "https://www.noticiasaominuto.com/mundo/3040932/balanco-ultrapassa-os-6500-mortos-dois-meses-apos-sismos-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 06:20:15",
+      "title": "França e Arábia Saudita anunciam complexo de entretenimento em Paris",
+      "link": "https://www.noticiasaominuto.com/mundo/3040917/franca-e-arabia-saudita-anunciam-projeto-turistico-de-6-mil-me-em-paris#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 06:46:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cf3c6ae2e9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8d2bf2a59cd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE4LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MiwiY3JvcFkiOjk0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo2ODgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Tufão Narra obriga à retirada de 54 mil pessoas no sul da China",
-      "link": "https://www.noticiasaominuto.com/mundo/3040934/tufao-narra-obriga-a-retirada-de-54-mil-pessoas-no-sul-da-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 06:19:56",
+      "title": "Supremo decide a favor de Trump sobre restrições a voto por correspondência",
+      "link": "https://www.noticiasaominuto.com/mundo/3040923/supremo-dos-eua-decide-a-favor-de-trump-sobre-restricoes-a-voto-por-correspondencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 06:42:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cf9e146bae.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7e0ab056596.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk0LCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6NDUsImNyb3BZIjo3Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTEyMiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governo do Equador acusado de tentar impedir oposição de concorrer às eleições",
-      "link": "https://www.noticiasaominuto.com/mundo/3040936/governo-do-equador-acusado-de-tentar-impedir-oposicao-de-concorrer-as-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 06:19:38",
+      "title": "Comerciantes processam Mamdani para travar supermercados municipais",
+      "link": "https://www.noticiasaominuto.com/mundo/3040924/comerciantes-de-nova-iorque-processam-mamdani-para-travar-supermercados-municipais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 06:40:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8cfece0e29e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a27491679702.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NzAsImNyb3BZIjo1OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM3LCJjcm9wSGVpZ2h0IjoxNDg4LCJjcm9wWCI6NjQ4LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "pplware",
