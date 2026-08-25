@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-25T01:01:47.934985+00:00",
+  "updated": "2026-08-25T02:36:37.770797+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2416/",
+      "pubDate": "Tue, 25 Aug 2026 03:15:26 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Gil Vicente vence Casa Pia por 2-0",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2390/",
+      "pubDate": "Tue, 25 Aug 2026 02:16:30 +0100",
+      "description": "Com jogo em atraso, Gil Vicente sobe ao 5.º lugar. Casa Pia mantém-se na última posição. Ainda, Hugo Soares volta a dizer que Carneiro e Ventura estão cada vez mais parecidos e impreparados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As legislativas de 2028",
-      "link": "https://observador.pt/opiniao/as-legislativas-de-2028/",
-      "pubDate": "Tue, 25 Aug 2026 00:22:05 +0100",
-      "description": "A aprovação do OE2027 está quase garantida, mas, no ano seguinte, será provável Carneiro ceder à tentação de provocar crise política. Já Ventura está sempre pronto para ela. Seguro pouco poderá fazer.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2414%3A2414%3Anowe%3A74%3A952%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170559%2Frui-pedro-antunes.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Advogados dizem que PSP quer ver dados pessoais além da cédula",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-advogados-dizem-que-psp-quer-ver-dados-pessoais-alem-da-cedula_a1_1761365",
+      "pubDate": "Tue, 25 Aug 2026 04:16:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "EUA lançam \"tiro de aviso\" para isolar economia do Irão",
-      "link": "https://observador.pt/2026/08/25/eua-aplicam-novas-sancoes-a-teerao-e-lancam-tiro-de-aviso-no-plano-para-isolar-totalmente-a-economia-do-regime-iraniano/",
-      "pubDate": "Tue, 25 Aug 2026 00:21:31 +0100",
-      "description": "Bessent anunciou novas sanções a entidades com ligações ao setor do petróleo iraniano, mas EUA querem \"dar oportunidade\" a países que colaboram com Teerão antes de aplicar sanções secundárias.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1123:nowe:1:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/29184021/45404765.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Detetado norovírus em casos de gastroenterite nos Açores",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-detetado-norovirus-em-casos-de-gastroenterite-nos-acores_a1_1761362",
+      "pubDate": "Tue, 25 Aug 2026 03:35:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/economia/franca-e-arabia-saudita-anunciam-projeto-turistico-de-6-mil-milhoes-de-euros-em-paris_n1761350",
       "pubDate": "Tue, 25 Aug 2026 01:55:48 +0100",
       "description": "França e Arábia Saudita anunciaram a intenção de desenvolver um grande complexo de entretenimento nos arredores de Paris, num investimento estimado em cerca de 6 mil milhões de euros.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Departamento de Guerra dos EUA reforça apoio a compra de mineradora brasileira",
-      "link": "https://www.rtp.pt/noticias/economia/departamento-de-guerra-dos-eua-reforca-apoio-a-compra-de-mineradora-brasileira_n1761353",
-      "pubDate": "Tue, 25 Aug 2026 01:55:21 +0100",
-      "description": "A empresa norte-americana USA Rare Earth anunciou ter garantido, com reforço do apoio do Departamento de Guerra dos Estados Unidos, o capital necessário para compra da Serra Verde, única empresa de terras raras em operação no Brasil.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tornado devasta aldeia em França e deixa 41 feridos",
-      "link": "https://www.rtp.pt/noticias/mundo/tornado-devasta-aldeia-em-franca-e-deixa-41-feridos_n1761354",
-      "pubDate": "Tue, 25 Aug 2026 01:55:01 +0100",
-      "description": "Um tornado no sudoeste de França deixou 41 pessoas feridas, das quais 15 foram hospitalizadas, ao atingir na segunda-feira à tarde uma aldeia, onde 300 casas ficaram danificadas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
