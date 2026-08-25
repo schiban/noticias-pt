@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-25T03:44:10.911812+00:00",
+  "updated": "2026-08-25T04:34:23.847189+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
+      "title": "Como um fugitivo conseguiu ser psicólogo em Portugal",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/como-um-fugitivo-conseguiu-ser-psicologo-em-portugal/",
+      "pubDate": "Tue, 25 Aug 2026 05:03:17 +0100",
+      "description": "Casal investigado e condenado por tortura no Brasil viveu 9 anos em Portugal. Ele chegou a ser psicólogo escolar nos Açores e no continente. Como? Uma conversa com Pedro Raínho, editor de Sociedade.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Sismos na Venezuela fizeram mais de 6.500 mortos",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2381/",
       "pubDate": "Tue, 25 Aug 2026 04:15:56 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "Dois meses depois, milhares de pessoas continuam em acampamentos temporários, expostas às fortes chuvas que têm atingido a Venezuela. Ainda, EUA não descartam novos ataques no Médio Oriente.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Kiev. Diretor da Erasmus+ em Portugal recebe Ordem de Mérito",
-      "link": "https://observador.pt/2026/08/25/luis-alves-diretor-da-agencia-portuguesa-erasmus-recebeu-ordem-de-merito-em-kiev/",
-      "pubDate": "Tue, 25 Aug 2026 00:30:25 +0100",
-      "description": "Luís Alves, diretor da Agência Nacional Erasmus+ Juventude/Desporto e Corpo Europeu de Solidariedade, recebeu a honra das mãos de Zelensky pelo \"contributo para o reforço da cooperação internacional\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/23052935/43441500.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Espanha estima em oito mil os migrantes que continuam em Ceuta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-espanha-estima-em-oito-mil-os-migrantes-que-continuam-em-ceuta_a1_1761371",
+      "pubDate": "Tue, 25 Aug 2026 06:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -90,16 +100,6 @@
       "pubDate": "Tue, 25 Aug 2026 02:21:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Líder democrata reuniu-se com genro de Trump à procura de possíveis acordos",
-      "link": "https://www.rtp.pt/noticias/mundo/lider-democrata-reuniu-se-com-genro-de-trump-a-procura-de-possiveis-acordos_n1761349",
-      "pubDate": "Tue, 25 Aug 2026 01:56:09 +0100",
-      "description": "O líder da minoria na Câmara dos Representantes norte-americana, o democrata Hakeem Jeffries, reuniu-se com o genro do Presidente Donald Trump, Jared Kushner, para procurar possíveis acordos em questões-chave legislativas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
