@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-25T02:36:37.770797+00:00",
+  "updated": "2026-08-25T03:44:10.911812+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 3h",
+      "title": "As notícias das 4h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2381/",
+      "pubDate": "Tue, 25 Aug 2026 04:15:56 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Governantes espanhóis ouvidos no Parlamento sobre Ceuta",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2416/",
       "pubDate": "Tue, 25 Aug 2026 03:15:26 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "A ministra da Defesa é ouvida esta terça-feira. Ainda neste jornal, presidente do Parlamento iraniano diz que Estados Unidos não podem impedir Teerão de manter relações económicas com outros países.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -42,14 +52,14 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/23052935/43441500.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A cobardia moderna",
-      "link": "https://observador.pt/opiniao/a-cobardia-moderna/",
-      "pubDate": "Tue, 25 Aug 2026 00:25:54 +0100",
-      "description": "Montenegro podia ter escolhido construir uma maioria política e social reformista, mas nunca o conseguirá, porque não está, nunca esteve, sequer interessado em construí-la.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Investigadores identificam sinais para a doença de Alzheimer",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-investigadores-identificam-sinais-para-a-doenca-de-alzheimer_a1_1761368",
+      "pubDate": "Tue, 25 Aug 2026 05:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -89,16 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/lider-democrata-reuniu-se-com-genro-de-trump-a-procura-de-possiveis-acordos_n1761349",
       "pubDate": "Tue, 25 Aug 2026 01:56:09 +0100",
       "description": "O líder da minoria na Câmara dos Representantes norte-americana, o democrata Hakeem Jeffries, reuniu-se com o genro do Presidente Donald Trump, Jared Kushner, para procurar possíveis acordos em questões-chave legislativas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "França e Arábia Saudita anunciam projeto turístico de 6 mil milhões de euros em Paris",
-      "link": "https://www.rtp.pt/noticias/economia/franca-e-arabia-saudita-anunciam-projeto-turistico-de-6-mil-milhoes-de-euros-em-paris_n1761350",
-      "pubDate": "Tue, 25 Aug 2026 01:55:48 +0100",
-      "description": "França e Arábia Saudita anunciaram a intenção de desenvolver um grande complexo de entretenimento nos arredores de Paris, num investimento estimado em cerca de 6 mil milhões de euros.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
