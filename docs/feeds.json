@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-25T20:25:11.580128+00:00",
+  "updated": "2026-08-25T20:54:40.499625+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 21h",
+      "title": "Mulher e filho de Luís Neves acompanharam MAI ao Vaticano",
+      "link": "https://observador.pt/2026/08/25/mulher-e-filho-de-luis-neves-acompanharam-mai-ao-vaticano-ministerio-garante-que-despesas-foram-pagas-a-titulo-privado/",
+      "pubDate": "Tue, 25 Aug 2026 21:50:19 +0100",
+      "description": "Mulher e filho do ministro integraram comitiva de 130 portugueses recebidos pelo Leão XIV. Ministério garante que já estavam em Itália em visita privada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23171752/dventura-mai-liga-bombeiros-portugueses-20-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "O génio de Félix salvou a estreia para esquecer de um miúdo",
+      "link": "https://observador.pt/2026/08/25/o-genio-de-felix-salvou-a-estreia-para-esquecer-de-um-miudo-ronaldo-sai-ao-intervalo-mas-al-nassr-consegue-reviravolta-no-minuto-90/",
+      "pubDate": "Tue, 25 Aug 2026 21:31:53 +0100",
+      "description": "Expulsão de Bento \"promoveu\" estreia na baliza de Al-Otaibi. Guardião de 18 anos falhou nos golos do Al-Ettifaq mas a noite não foi um pesadelo porque João Félix virou o jogo para a reviravolta (2-3).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25212447/joao-felix.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "21h. Chega quer auditoria à Segurança Social antes do OE",
       "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1740/",
       "pubDate": "Tue, 25 Aug 2026 21:14:59 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "description": "O líder do Chega explica que o objetivo é concluir quantas pessoas recebem “pensões milionárias e imorais”. Ainda, Paulo Rangel acusou José Luís Carneiro de não ter capacidade para governar.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
@@ -32,24 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Reconstituição da madrugada de pânico em Albufeira",
-      "link": "https://observador.pt/especiais/reconstituicao-tres-ordens-para-parar-sete-disparos-e-16-pessoas-atropeladas-por-um-condutor-alcoolizado-em-albufeira/",
-      "pubDate": "Tue, 25 Aug 2026 21:07:14 +0100",
-      "description": "Condutor com taxa crime de álcool no sangue ignorou sinais proibidos, baias na estrada e várias ordens da GNR para parar. Em 10 minutos, atropelou 16 pessoas — duas ficaram em estado grave.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25174646/770rua-oura.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Israel exclui Países Baixos de mecanismo internacional para Gaza",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-exclui-paises-baixos-de-mecanismo-internacional-para-gaza_n1761507",
+      "pubDate": "Tue, 25 Aug 2026 22:38:42 +0100",
+      "description": "O ministro dos Negócios Estrangeiros israelita, Gideon Saar, anunciou hoje a expulsão da delegação neerlandesa do mecanismo multinacional que monitoriza o cessar-fogo em Gaza, acusando o Governo dos Países Baixos de ter cometido &quot;ações anti-Israel&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b3d8eba12847db0c84ed86caad931ba?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Governo acusado de usar dinheiro público em negócio privado",
-      "link": "https://observador.pt/2026/08/25/comprar-comboios-com-o-nosso-dinheiro-e-entregar-aos-privados-pcp-ataca-governo-na-ferrovia/",
-      "pubDate": "Tue, 25 Aug 2026 21:00:55 +0100",
-      "description": "Paulo Raimundo critica estudo da Autoridade da Concorrência e cita Fertagus como exemplo do que corre mal nas concessões. Apelo aos utentes para travar o \"assalto aos recursos públicos\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:159/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25194727/47661684.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "21h Dolly Parton morreu aos 80 anos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-dolly-parton-morreu-aos-80-anos_a1_1761511",
+      "pubDate": "Tue, 25 Aug 2026 22:36:04 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "21h Espanha aprova anteprojeto sobre leis de estrangeiros e asilo",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-espanha-aprova-anteprojeto-sobre-leis-de-estrangeiros-e-asilo_a1_1761510",
+      "pubDate": "Tue, 25 Aug 2026 22:31:04 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Campeão saudita Al Nassr dá a volta com 10 depois de Ronaldo ser substituído",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/campeao-saudita-al-nassr-da-a-volta-com-10-depois-de-ronaldo-ser-substituido_d1761509",
+      "pubDate": "Tue, 25 Aug 2026 22:29:27 +0100",
+      "description": "O campeão em título Al Nassr manteve-se 100.º vitorioso na Liga saudita de futebol, ao vencer fora o Al-Ettifaq por 3-2, numa reviravolta conseguida com 10 e depois da substituição de Cristiano Ronaldo, na terceira jornada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/35/353d516823daf865d98a73242e00bf08?w=350&amp;q=50&amp;rect=0,86,1163,638&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,44 +102,14 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5c6a5fab77ef5145fe4de7801b218f2?w=350&amp;q=50&amp;rect=0,18,1224,671&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jardim Zoológico de Lisboa tem três novas crias de Leopardo-da-Pérsia",
-      "link": "https://www.rtp.pt/noticias/pais/jardim-zoologico-de-lisboa-tem-tres-novas-crias-de-leopardo-da-persia_v1761505",
-      "pubDate": "Tue, 25 Aug 2026 22:07:47 +0100",
-      "description": "Há três novas crias de Leopardo-da-Pérsia para conhecer no Jardim Zoológico de Lisboa.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b3/b3bc2789cd4500d9f84e36922e95c38d_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Jogos do Mediterrâneo. Camila Rebelo foi ouro nos 100 metros de costas",
-      "link": "https://www.rtp.pt/noticias/desporto/jogos-do-mediterraneo-camila-rebelo-foi-ouro-nos-100-metros-de-costas_v1761504",
-      "pubDate": "Tue, 25 Aug 2026 22:05:47 +0100",
-      "description": "Camila Rebelo foi medalha de ouro nos 100 metros costas. A nadadora bateu o recorde dos jogos do Mediterrâneo.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/eb/eb1c5868cb527c3a358b6009a3e95818?w=350&amp;q=50&amp;rect=0,19,1233,676&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal levou a estratégia nacional \"Água que Une\" à Mongólia",
-      "link": "https://www.rtp.pt/noticias/mundo/portugal-levou-a-estrategia-nacional-agua-que-une-a-mongolia_v1761503",
-      "pubDate": "Tue, 25 Aug 2026 22:01:47 +0100",
-      "description": "Na Cimeira de Combate à Desertificação insistiu-se na prevenção e na necessidade de proteger este bem cada vez mais escasso.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/bd/bde949535f3fa2f6df0610d8cc7b3f41_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Crise humanitária em Ceuta. Sistema de saúde local à beira da rutura",
-      "link": "https://www.rtp.pt/noticias/mundo/crise-humanitaria-em-ceuta-sistema-de-saude-local-a-beira-da-rutura_v1761502",
-      "pubDate": "Tue, 25 Aug 2026 21:58:47 +0100",
-      "description": "A crise migratória em Ceuta está a provocar uma quase rutura no sistema de saúde local.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/79/7980281fbfe536e845813ed19d15050e_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Besiktas confirma acordo por extremo-direito",
+      "link": "https://maisfutebol.iol.pt/transferencias/besiktas/besiktas-confirma-acordo-por-extremo-direito",
+      "pubDate": "Tue, 25 Aug 2026 21:28:00 +0100",
+      "description": "Ernest Poku, atacante de 22 anos, chega ao clube turco cedido pelo Bayer Leverkusen",
+      "thumbnail": "https://img.iol.pt/image/id/690b2156d34e2bd5c6d3a472/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -115,7 +125,7 @@
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: golo nos descontos completa reviravolta épica Al Nassr frente ao Al Ettifaq",
+      "title": "VÍDEO: golo nos descontos completa reviravolta épica do Al Nassr frente ao Al Ettifaq",
       "link": "https://maisfutebol.iol.pt/arabia-saudita/al-ettifaq/video-golo-nos-descontos-completa-reviravolta-epica-al-nassr-frente-ao-al-ettifaq",
       "pubDate": "Tue, 25 Aug 2026 21:05:00 +0100",
       "description": "Equipa de Ronaldo, Félix e Samu Costa esteve a perder por 2-0 e jogou quase toda a partida com dez, mas conseguiu vencer por 3-2",
@@ -142,16 +152,6 @@
       "thumbnail": "https://img.iol.pt/image/id/6a8de394d34ed0733ba81d14/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "INCRÍVEL: Verstappen regressa aos karts para enfrentar... 100 pilotos",
-      "link": "https://maisfutebol.iol.pt/incrivel/formula-1/incrivel-verstappen-regressa-aos-karts-para-enfrentar-100-pilotos",
-      "pubDate": "Tue, 25 Aug 2026 19:46:41 +0100",
-      "description": "Neerlandês vai partir do último lugar e terá de ultrapassar todos os adversários, numa corrida inédita em Silverstone",
-      "thumbnail": "https://img.iol.pt/image/id/6a8de08fd34ed0733ba81d0a/250"
-    },
-    {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
@@ -165,21 +165,21 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "300 mil barreiras, trincheiras e mísseis: Polónia transforma fronteira num gigantesco sistema defensivo",
-      "link": "https://executivedigest.sapo.pt/300-mil-barreiras-trincheiras-e-misseis-polonia-transforma-fronteira-num-gigantesco-sistema-defensivo/",
-      "pubDate": "Tue, 25 Aug 2026 20:11:44 +0000",
-      "description": "A Polónia está a acelerar o reforço das suas fronteiras orientais com a Bielorrússia e com o enclave russo de Kaliningrado através da instalação de 300 mil obstáculos de betão armado, numa das maiores operações de construção de infraestruturas de...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=713&W=1270&crop=center&delay_optim=1&epic=V2%3ArwCsRN%2FePe9LbFyzL9APEe5A0N3dWaXB00tozXZPDr2dAnstzSbroDtmjyHgh5xIX%2BRNLtSJEkC9UgWLeorbx8ccr5rBgcOB%2FubXooVbl4eCb1bmgapZ2uNrQ30UN%2BVk"
+      "title": "Equipa da Polícia Marítima integra missão de vigilância e controlo das fronteiras do espaço Schengen na Grécia",
+      "link": "https://sapo.pt/artigo/equipa-da-policia-maritima-integra-missao-de-vigilancia-e-controlo-das-fronteiras-do-espaco-schengen-na-grecia-6a8dfd0366ba07d702ed8b47",
+      "pubDate": "Tue, 25 Aug 2026 20:43:04 +0000",
+      "description": "Sob a égide da agência europeia FRONTEX, a missão tem como finalidade a vigilância e controlo das fronteiras do espaço Schengen, no âmbito das funções de guarda costeira europeia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3An%2FzL2dWvqpmBhDrCRGC8jRb%2BwLw8VaONJpxVuPzDZQ68eCtD9gNKzB0Wbc3SHlb4xLg%2FWDPR3fhMCQF5GsIwLh9TnxzSHwkmt0wbGIXzi%2BTg1CfSi6EZPJ2K3fs489z5"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "IA “decide” matar na Ucrânia: drone russo escolheu sozinho o alvo e matou três pessoas",
-      "link": "https://executivedigest.sapo.pt/ia-decide-matar-na-ucrania-drone-russo-escolheu-sozinho-o-alvo-e-matou-tres-pessoas/",
-      "pubDate": "Tue, 25 Aug 2026 16:54:47 +0000",
-      "description": "A utilização deste tipo de sistema representa uma mudança significativa na guerra, ao permitir que uma máquina identifique e selecione autonomamente o alvo depois de chegar à área definida pelos operadores.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=486&W=864&crop=center&delay_optim=1&epic=V2%3AI9HXgpZ%2BLYEJhv9TElAv4ipYIGK0rpVGCeltXOmWqy%2B58QoDQPTx%2FfowYS44%2BYdBnBkghXV%2BZBLPXlU%2B3hjqmNQ1u8fFyHVJAMZRSJIfe8TrlCSoYETrRhikbASq3c3k"
+      "title": "300 mil barreiras, trincheiras e mísseis: Polónia transforma fronteira num gigantesco sistema defensivo",
+      "link": "https://executivedigest.sapo.pt/300-mil-barreiras-trincheiras-e-misseis-polonia-transforma-fronteira-num-gigantesco-sistema-defensivo/",
+      "pubDate": "Tue, 25 Aug 2026 20:11:44 +0000",
+      "description": "A Polónia está a acelerar o reforço das suas fronteiras orientais com a Bielorrússia e com o enclave russo de Kaliningrado através da instalação de 300 mil obstáculos de betão armado, numa das maiores operações de construção de infraestruturas de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=713&W=1270&crop=center&delay_optim=1&epic=V2%3ArwCsRN%2FePe9LbFyzL9APEe5A0N3dWaXB00tozXZPDr2dAnstzSbroDtmjyHgh5xIX%2BRNLtSJEkC9UgWLeorbx8ccr5rBgcOB%2FubXooVbl4eCb1bmgapZ2uNrQ30UN%2BVk"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polícia frustra ataque a fábrica de drones na Eslováquia. Há 3 detidos",
-      "link": "https://www.noticiasaominuto.com/mundo/3041371/policia-frustra-ataque-a-fabrica-de-drones-na-eslovaquia-e-detem-3-suspeitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 21:23:23",
+      "title": "Segundo prémio do Euromilhões sai lá fora. Por cá, (só) um quarto prémio",
+      "link": "https://www.noticiasaominuto.com/pais/3041377/segundo-premio-do-euromilhoes-sai-la-fora-por-ca-so-um-quarto-premio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 21:45:40",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_634d250d852f2.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5564e9f61f6c7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA2LCJjcm9wSGVpZ2h0IjoxMzUzLCJjcm9wWCI6LTIsImNyb3BZIjoxMjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg5MiwiY3JvcEhlaWdodCI6MTU4NSwiY3JvcFgiOjc1MywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Israel exclui Países Baixos de mecanismo internacional para Gaza",
-      "link": "https://www.noticiasaominuto.com/mundo/3041369/medio-oriente-israel-exclui-paises-baixos-de-mecanismo-internacional-para-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 21:13:33",
+      "title": "Prestes a darem o próximo passo! Estes 3 signos vão dar um salto na vida",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3041336/prestes-a-darem-o-proximo-passo-estes-3-signos-vao-dar-um-salto-na-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 21:40:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4111969859f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8de042eb593.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6NDYsImNyb3BZIjoxMjJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atualização (obrigatória) vai ajudar a reforçar a segurança do WhatsApp",
-      "link": "https://www.noticiasaominuto.com/tech/3041282/atualizacao-obrigatoria-vai-ajudar-a-reforcar-a-seguranca-do-whatsapp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 21:02:04",
+      "title": "Oficial: Avançado brasileiro Gabriel Carioca reforça ataque do Alverca",
+      "link": "https://www.noticiasaominuto.com/desporto/3041354/oficial-avancado-brasileiro-gabriel-carioca-reforca-ataque-do-alverca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 21:39:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a58e00edd9dc.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8dfd4414833.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjM4LCJjcm9wSGVpZ2h0Ijo5MjIsImNyb3BYIjowLCJjcm9wWSI6MTE1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "BFA abre conta em dólares no Citibank e faz história em Angola",
-      "link": "https://www.noticiasaominuto.com/economia/3041368/bfa-abre-conta-em-dolares-no-citibank-e-faz-historia-em-angola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 21:01:24",
+      "title": "Oficial: Proscrito de Ruben Amorim deixa o AC Milan rumo à Alemanha",
+      "link": "https://www.noticiasaominuto.com/desporto/3041357/oficial-proscrito-de-ruben-amorim-deixa-o-ac-milan-rumo-a-alemanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 21:38:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8df3f3df3a9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8dfd1e8feb9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cristiano Ronaldo e companhia evitam desastre com remontada impensável",
-      "link": "https://www.noticiasaominuto.com/desporto/3041365/cristiano-ronaldo-e-companhia-evitam-desastre-com-remontada-impensavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 21:01:06",
+      "title": "Síria: Chefe das forças curdas declara dissolução",
+      "link": "https://www.noticiasaominuto.com/mundo/3041374/siria-chefe-das-forcas-curdas-declara-dissolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-25 21:32:18",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8df1fd508c0.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5840aa0aaa64e.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Cardiologistas redefinem insuficiência cardíaca: coração “normal” pode não estar saudável",
+      "link": "https://pplware.sapo.pt/ciencia/cardiologistas-redefinem-insuficiencia-cardiaca-coracao-normal-pode-nao-estar-saudavel/",
+      "pubDate": "Tue, 25 Aug 2026 20:30:16 +0000",
+      "description": "A insuficiência cardíaca acaba de ganhar uma nova definição universal. Cardiologistas internacionais atualizaram os critérios de diagnóstico e deixam um alerta importante: um coração com valores aparentemente normais pode, afinal, não estar saudável. Durante&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/insuficiencia_cardiaca00.webp"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Tue, 25 Aug 2026 17:30:38 +0000",
       "description": "A tecnologia está a chegar a bares, cafés e restaurantes de uma forma inesperada, com braços robóticos a prepararem cocktails, baristas automatizados e até robôs que levam a comida à mesa. Tal como um&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/robo-braco-robotico-empregado-de-mesa1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Trump comprou ações da SpaceX poucas semanas após histórica entrada em bolsa",
-      "link": "https://pplware.sapo.pt/informacao/trump-comprou-acoes-da-spacex-poucas-semanas-apos-historica-entrada-em-bolsa/",
-      "pubDate": "Tue, 25 Aug 2026 16:30:31 +0000",
-      "description": "Trump terá investido até 50 mil dólares em ações da SpaceX apenas duas semanas depois da estreia histórica da empresa em bolsa. A operação surge num contexto de proximidade entre Donald Trump e Elon&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/02/trump_musk.jpg"
     },
     {
       "sourceId": "autosport",
