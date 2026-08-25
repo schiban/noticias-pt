@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-25T23:21:18.393167+00:00",
+  "updated": "2026-08-25T23:48:03.845804+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sismos. Portugueses em La Guaira ainda precisam de apoio",
+      "link": "https://observador.pt/2026/08/26/dois-meses-apos-sismo-comunidade-portuguesa-em-la-guaira-precisa-de-acompanhamento-no-processo-de-recuperacao/",
+      "pubDate": "Wed, 26 Aug 2026 00:34:45 +0100",
+      "description": "A organização DVC alerta que, dois meses depois do duplo sismo de 24 de junho — que matou pelo menos 138 portugueses —, as dificuldades persistem em La Guaira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25231058/47600610.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Festival do Plangaio e do Maranho regressa a Proença-a-Nova",
+      "link": "https://observador.pt/2026/08/26/festival-do-plangaio-e-do-maranho-regressa-a-proenca-a-nova-em-setembro/",
+      "pubDate": "Wed, 26 Aug 2026 00:34:06 +0100",
+      "description": "Dois enchidos tradicionais de Proença-a-Nova são celebrados no Festival do Plangaio e do Maranho em Sobreira Formosa. O festival terá início no dia 18, com animação musical a partir das 19h.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3888:2182:nowe:0:410/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/10232228/proenca-a-nova-portugal-22735193817.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/23150620/47336770.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Festival de Guitarra do Fundão arranca a 4 de setembro",
-      "link": "https://observador.pt/2026/08/25/6-o-festival-internacional-de-guitarra-do-fundao-reune-artistas-de-cinco-paises-entre-4-e-6-de-setembro/",
-      "pubDate": "Tue, 25 Aug 2026 23:53:05 +0100",
-      "description": "Três dias de concertos no auditório d'A Moagem com formações de Itália, Dinamarca, Suíça, Países Baixos e Espanha, sempre com a guitarra como fio condutor.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/24183429/guitarra-portuguesa13_770x433_acf_cropped.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "EUA oferecem sete milhões de euros por informações sobre líder do Estado Islâmico no Afeganistão",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-oferecem-sete-milhoes-de-euros-por-informacoes-sobre-lider-do-estado-islamico-no-afeganistao_n1761527",
+      "pubDate": "Wed, 26 Aug 2026 01:45:25 +0100",
+      "description": "O Governo norte-americano ofereceu uma recompensa de até oito milhões de dólares (cerca de sete milhões de euros) por informações que levem à detenção do líder da filial do Estado Islâmico no Afeganistão, Shabab al Muhayir.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Unitree Robotics perde 45% em bolsa em menos de uma semana",
-      "link": "https://observador.pt/2026/08/25/fabricante-chines-de-robos-unitree-cai-45-desde-sessao-de-estreia-em-bolsa/",
-      "pubDate": "Tue, 25 Aug 2026 23:52:49 +0100",
-      "description": "Os títulos encerraram esta terça-feira nos 620,8 yuan por ação, uma queda de 45,2% face aos 1.100 yuan a que abriram na estreia. A capitalização da empresa passou para 36.270 milhões de dólares.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25104105/47631834.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "EUA retomam construção de muro fronteiriço de 100 quilómetros entre Arizona e México",
+      "link": "https://www.rtp.pt/noticias/mundo/eua-retomam-construcao-de-muro-fronteirico-de-100-quilometros-entre-arizona-e-mexico_n1761529",
+      "pubDate": "Wed, 26 Aug 2026 01:44:54 +0100",
+      "description": "O governo dos Estados Unidos informou que está a avançar com um projeto de construção de 100 quilómetros de muro na fronteira do Arizona com o México, apesar de oposição e protestos da comunidade indígena.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Mais de 1.400 pessoas mortas no Haiti entre abril e junho",
+      "link": "https://www.rtp.pt/noticias/mundo/mais-de-1400-pessoas-mortas-no-haiti-entre-abril-e-junho_n1761530",
+      "pubDate": "Wed, 26 Aug 2026 01:44:39 +0100",
+      "description": "Pelo menos 1.408 pessoas foram mortas e outras 656 ficaram feridas no Haiti no segundo trimestre, segundo um relatório do Gabinete Integrado da ONU no Haiti (BINUH), que alerta para o agravamento da violência no país caribenho.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -69,36 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/policia-espanhola-realiza-acoes-dissuasoras-em-praia-de-ceuta_n1761525",
       "pubDate": "Wed, 26 Aug 2026 01:03:43 +0100",
       "description": "As forças de segurança espanholas utilizaram hoje gás lacrimogéneo e realizaram ações dissuasoras na praia de El Trampolín, em Ceuta, contra os migrantes que regressaram a esta zona do enclave.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Pelo menos 14 Huthis mortos em ataques das forças iemenitas",
-      "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-14-huthis-mortos-em-ataques-das-forcas-iemenitas_n1761524",
-      "pubDate": "Wed, 26 Aug 2026 01:03:12 +0100",
-      "description": "As forças do Governo do Iémen anunciaram hoje que pelo menos 14 rebeldes Huthis morreram nas últimas horas numa série de ataques contra várias das posições deste movimento pró iraniano no sul da província de Hodeida (oeste).",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Conselho de Paz para Gaza avisa Hamas contra uso de objetos voadores",
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/conselho-de-paz-para-gaza-avisa-hamas-contra-uso-de-objetos-voadores_n1761519",
-      "pubDate": "Wed, 26 Aug 2026 00:43:25 +0100",
-      "description": "O Conselho de Paz, incumbido pelo Governo norte-americano de supervisionar o acordo na Faixa de Gaza, advertiu hoje o movimento islamita palestiniano Hamas contra o uso de objetos voadores, após Israel ter ameaçado com novos ataques de retaliação.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "China e Índia acordam negociações sobre disputa fronteiriça",
-      "link": "https://www.rtp.pt/noticias/economia/china-e-india-acordam-negociacoes-sobre-disputa-fronteirica_n1761520",
-      "pubDate": "Wed, 26 Aug 2026 00:43:01 +0100",
-      "description": "A China e a Índia acordaram hoje avançar nas negociações sobre a sua disputa fronteiriça, numa reunião em Pequim entre o ministro dos Negócios Estrangeiros chinês, Wang Yi, e o conselheiro de Segurança Nacional indiano, Ajit Doval.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
