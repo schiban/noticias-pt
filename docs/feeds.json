@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-26T04:35:11.489790+00:00",
+  "updated": "2026-08-26T05:29:52.510708+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2475/",
+      "pubDate": "Wed, 26 Aug 2026 06:15:04 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "De Cascais à Comporta, o verão quente de Georgina e Meghan",
+      "link": "https://observador.pt/programas/do-avesso/de-cascais-a-comporta-o-verao-quente-de-georgina-e-meghan/",
+      "pubDate": "Wed, 26 Aug 2026 06:03:26 +0100",
+      "description": "Preferia ter a Vogue ou a sogra no seu casamento? A união de Cris e Gio, a roupa da bebé Adelaide, o que irá vestir Meghan, e ainda as sandálias mais horríveis do verão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/29154007/770-podcast-do-avesso.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Procura por quartos sobe e oferta cai",
+      "link": "https://observador.pt/programas/boa-moeda-ma-moeda/procura-por-quartos-sobe-e-oferta-cai/",
+      "pubDate": "Wed, 26 Aug 2026 06:02:25 +0100",
+      "description": "O preço dos quartos em casas partilhadas subiu apenas 1% no segundo trimestre de 2026, face ao mesmo período do ano anterior. Uma estabilidade que surpreende num mercado sob forte pressão",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Ministra da Saúde e direção do INEM reúnem com STEPH",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2417/",
-      "pubDate": "Wed, 26 Aug 2026 03:17:43 +0100",
-      "description": "Em cima da mesa estarão as greves marcadas para os dias 14 e 28 de setembro. Ainda nesta edição, líder do PCP acusa Governo de querer melhorar ferrovia para, depois, a entregar aos privados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Fretilin discute sábado futuro presidente do partido e presidenciais",
+      "link": "https://www.rtp.pt/noticias/mundo/fretilin-discute-sabado-futuro-presidente-do-partido-e-presidenciais_n1761550",
+      "pubDate": "Wed, 26 Aug 2026 06:56:42 +0100",
+      "description": "O comité central da Frente Revolucionária de Timor-Leste Independente (Fretilin), líder da oposição, vai reunir sábado para discutir a escolha de um novo presidente do partido e um eventual candidato às eleições presidenciais de 2027.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "2h. Luís Neves assume incorreção e declara carros da mulher",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2391/",
-      "pubDate": "Wed, 26 Aug 2026 02:16:43 +0100",
-      "description": "Ministro da Administração Interna passa a declarar um dos dois carros que estão em nome da mulher. Ainda nesta jornal, os detalhes da visita do diretor da CIA a Moscovo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Guerra e escassez de aviões reduzem para metade lucros das companhias aéreas",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas_n1761549",
+      "pubDate": "Wed, 26 Aug 2026 06:55:51 +0100",
+      "description": "O conflito no Médio Oriente e os atrasos nas entregas de aeronaves, deverão reduzir para metade os lucros da aviação comercial global, avisou hoje a Associação Internacional do Transporte Aéreo (IATA, na sigla em inglês).",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "01h. 117 mil jovens isentos de IMT na compra da 1.ª casa",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2364/",
-      "pubDate": "Wed, 26 Aug 2026 01:14:49 +0100",
-      "description": "Mais de 40 mil jovens compraram casa com isenção de IMT desde fevereiro, um aumento de 50% nos últimos seis meses. Ainda, EUA pretendem revogar vistos de até 200 mil estrangeiros que solicitaram asilo",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Seul diz que aeronaves militares russas entraram em zona de defesa sul-coreana",
+      "link": "https://www.rtp.pt/noticias/mundo/seul-diz-que-aeronaves-militares-russas-entraram-em-zona-de-defesa-sul-coreana_n1761548",
+      "pubDate": "Wed, 26 Aug 2026 06:53:11 +0100",
+      "description": "A Coreia do Sul anunciou hoje que mobilizou caças, na terça-feira, depois de várias aeronaves militares russas terem entrado na zona de identificação de defesa aérea do país.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -69,36 +99,6 @@
       "link": "https://www.rtp.pt/noticias/economia/uso-de-redes-sociais-abaixo-dos-16-anos-na-australia-recupera-apos-proibicao_n1761546",
       "pubDate": "Wed, 26 Aug 2026 05:55:32 +0100",
       "description": "A utilização das redes sociais entre os menores de 16 anos na Austrália recuperou após a proibição, introduzida em dezembro, para esta faixa etária, segundo dados de uma aplicação de controlo parental, divulgados hoje.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Hungria suspeita de fraude em compra de ventiladores chineses durante pandemia",
-      "link": "https://www.rtp.pt/noticias/mundo/hungria-suspeita-de-fraude-em-compra-de-ventiladores-chineses-durante-pandemia_n1761544",
-      "pubDate": "Wed, 26 Aug 2026 05:45:14 +0100",
-      "description": "O ministério dos Negócios Estrangeiros da Hungria apresentou uma queixa-crime por suspeitas de fraude na compra à China de cerca de 17 mil ventiladores durante a pandemia de covid-19, anunciou Budapeste.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Sismo pode cortar crescimento do PIB da Colômbia em 0,27 pontos percentuais",
-      "link": "https://www.rtp.pt/noticias/economia/sismo-pode-cortar-crescimento-do-pib-da-colombia-em-027-pontos-percentuais_n1761543",
-      "pubDate": "Wed, 26 Aug 2026 05:44:00 +0100",
-      "description": "O sismo que atingiu a Colômbia em 10 de agosto pode reduzir o crescimento do Produto Interno Bruto (PIB) do país em 0,27 pontos percentuais, referiu um estudo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Relação com a China limita pressão económica de Trump sobre o Irão",
-      "link": "https://www.rtp.pt/noticias/economia/relacao-com-a-china-limita-pressao-economica-de-trump-sobre-o-irao_n1761542",
-      "pubDate": "Wed, 26 Aug 2026 05:43:17 +0100",
-      "description": "A ofensiva económica lançada pelos Estados Unidos para isolar o Irão enfrenta na China o principal obstáculo, enquanto Washington procura preservar a trégua comercial com Pequim antes do encontro entre Trump e Xi, apontaram analistas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Polícia espanhola realiza ações dissuasoras em praia de Ceuta",
-      "link": "https://www.noticiasaominuto.com/mundo/3041410/migracoes-policia-espanhola-realiza-acoes-dissuasoras-em-praia-de-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:59:01",
+      "title": "Atenção à chuva e trovoada! Onze distritos do continente estão a amarelo",
+      "link": "https://www.noticiasaominuto.com/pais/3041426/atencao-a-chuva-e-trovoada-onze-distritos-do-continente-estao-a-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 06:18:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e1eac35b2a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY1MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e3f2df01c2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
-      "link": "https://www.noticiasaominuto.com/desporto/3041190/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:58:15",
+      "title": "Homem mata oito pessoas num jantar de família no leste dos Estados Unidos",
+      "link": "https://www.noticiasaominuto.com/mundo/3041432/homem-mata-oito-pessoas-num-jantar-de-familia-no-leste-dos-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 06:17:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_674c7d63dcc87.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e4d414e472.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bebé nasce em ambulância dos Bombeiros de Albufeira: \"Único e especial\"",
-      "link": "https://www.noticiasaominuto.com/pais/3041409/bebe-nasce-em-ambulancia-dos-bombeiros-de-albufeira-unico-e-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:55:00",
+      "title": "Sismo pode cortar crescimento do PIB da Colômbia em 0,27 pontos percentuais",
+      "link": "https://www.noticiasaominuto.com/mundo/3041437/sismo-pode-cortar-crescimento-do-pib-da-colombia-em-0-27-pontos-percentuais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 06:17:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e1c107c531.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4ODAsImNyb3BIZWlnaHQiOjQ5NSwiY3JvcFgiOjE5OCwiY3JvcFkiOjc0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozMTksImNyb3BIZWlnaHQiOjU2OCwiY3JvcFgiOjYwMywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e588695c66.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MjcsImNyb3BZIjoyMzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE0MTUsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pelo menos 14 Huthis mortos em ataques das forças iemenitas",
-      "link": "https://www.noticiasaominuto.com/mundo/3041407/medio-oriente-pelo-menos-14-huthis-mortos-em-ataques-das-forcas-iemenitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:54:45",
+      "title": "Hungria suspeita de fraude em compra de ventiladores durante pandemia",
+      "link": "https://www.noticiasaominuto.com/mundo/3041439/hungria-suspeita-de-fraude-em-compra-de-ventiladores-durante-pandemia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 06:12:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_686e95afd49c5.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e5a22394f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc1LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6MzcsImNyb3BZIjo1NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA5OSwiY3JvcEhlaWdodCI6MTk1MywiY3JvcFgiOjM1NSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rua da Oura? \"Segurança não pode ser perceção, tem de ser realidade\"",
-      "link": "https://www.noticiasaominuto.com/pais/3041406/rua-da-oura-seguranca-nao-pode-ser-percecao-tem-de-ser-realidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-25 23:48:42",
+      "title": "Com chuva a vindima também se faz e inclui lanche, vinho e convívio",
+      "link": "https://www.noticiasaominuto.com/economia/3041445/com-chuva-a-vindima-tambem-se-faz-e-inclui-lanche-vinho-e-convivio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 06:12:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a83fc33e8ff9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjExLCJjcm9wSGVpZ2h0Ijo5MDYsImNyb3BYIjozLCJjcm9wWSI6MTA4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjIsImNyb3BIZWlnaHQiOjE2MzgsImNyb3BYIjo1NTIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8e64edce7be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzQ1LCJjcm9wSGVpZ2h0IjoxMzE5LCJjcm9wWCI6NzAsImNyb3BZIjoyNjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjc4OSwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "pplware",
