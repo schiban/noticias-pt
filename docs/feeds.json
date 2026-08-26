@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-26T01:03:20.501594+00:00",
+  "updated": "2026-08-26T02:45:07.186342+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Ministra da Saúde e direção do INEM reúnem com STEPH",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2417/",
+      "pubDate": "Wed, 26 Aug 2026 03:17:43 +0100",
+      "description": "Em cima da mesa estarão as greves marcadas para os dias 14 e 28 de setembro. Ainda nesta edição, líder do PCP acusa Governo de querer melhorar ferrovia para, depois, a entregar aos privados.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Luís Neves assume incorreção e declara carros da mulher",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2391/",
+      "pubDate": "Wed, 26 Aug 2026 02:16:43 +0100",
+      "description": "Ministro da Administração Interna passa a declarar um dos dois carros que estão em nome da mulher. Ainda nesta jornal, os detalhes da visita do diretor da CIA a Moscovo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25231058/47600610.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Festival do Plangaio e do Maranho regressa a Proença-a-Nova",
-      "link": "https://observador.pt/2026/08/26/festival-do-plangaio-e-do-maranho-regressa-a-proenca-a-nova-em-setembro/",
-      "pubDate": "Wed, 26 Aug 2026 00:34:06 +0100",
-      "description": "Dois enchidos tradicionais de Proença-a-Nova são celebrados no Festival do Plangaio e do Maranho em Sobreira Formosa. O festival terá início no dia 18, com animação musical a partir das 19h.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3888:2182:nowe:0:410/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/10232228/proenca-a-nova-portugal-22735193817.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h IPMA põe 11 distritos sob aviso amarelo para chuva e trovoada",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ipma-poe-11-distritos-sob-aviso-amarelo-para-chuva-e-trovoada_a1_1761540",
+      "pubDate": "Wed, 26 Aug 2026 04:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Novo think tank da esquerda nasce no PS e vai até Isaltino",
-      "link": "https://observador.pt/especiais/deputado-socialista-lanca-think-tank-de-esquerda-e-garante-que-nao-e-uma-divisao-no-ps/",
-      "pubDate": "Wed, 26 Aug 2026 00:17:35 +0100",
-      "description": "Instituto Progresso é dominado por socialistas e elementos de gabinetes dos governos Costa, mas também é subscrito por nomes do PSD, Livre, BE e por Isaltino Morais. Centeno estará na 1ª conferência.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:60/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/28182015/dventura-congresso-ps-dia2-79-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h MAI atualiza património na Entidade para a Transparência",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-mai-atualiza-patrimonio-na-entidade-para-a-transparencia_a1_1761539",
+      "pubDate": "Wed, 26 Aug 2026 03:52:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/eua-oferecem-sete-milhoes-de-euros-por-informacoes-sobre-lider-do-estado-islamico-no-afeganistao_n1761527",
       "pubDate": "Wed, 26 Aug 2026 01:45:25 +0100",
       "description": "O Governo norte-americano ofereceu uma recompensa de até oito milhões de dólares (cerca de sete milhões de euros) por informações que levem à detenção do líder da filial do Estado Islâmico no Afeganistão, Shabab al Muhayir.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "EUA retomam construção de muro fronteiriço de 100 quilómetros entre Arizona e México",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-retomam-construcao-de-muro-fronteirico-de-100-quilometros-entre-arizona-e-mexico_n1761529",
-      "pubDate": "Wed, 26 Aug 2026 01:44:54 +0100",
-      "description": "O governo dos Estados Unidos informou que está a avançar com um projeto de construção de 100 quilómetros de muro na fronteira do Arizona com o México, apesar de oposição e protestos da comunidade indígena.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de 1.400 pessoas mortas no Haiti entre abril e junho",
-      "link": "https://www.rtp.pt/noticias/mundo/mais-de-1400-pessoas-mortas-no-haiti-entre-abril-e-junho_n1761530",
-      "pubDate": "Wed, 26 Aug 2026 01:44:39 +0100",
-      "description": "Pelo menos 1.408 pessoas foram mortas e outras 656 ficaram feridas no Haiti no segundo trimestre, segundo um relatório do Gabinete Integrado da ONU no Haiti (BINUH), que alerta para o agravamento da violência no país caribenho.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
