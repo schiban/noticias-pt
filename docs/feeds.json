@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-25T23:48:03.845804+00:00",
+  "updated": "2026-08-26T01:03:20.501594+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "01h. 117 mil jovens isentos de IMT na compra da 1.ª casa",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2364/",
+      "pubDate": "Wed, 26 Aug 2026 01:14:49 +0100",
+      "description": "Mais de 40 mil jovens compraram casa com isenção de IMT desde fevereiro, um aumento de 50% nos últimos seis meses. Ainda, EUA pretendem revogar vistos de até 200 mil estrangeiros que solicitaram asilo",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Dolly Parton: a mulher quis brilhar (1946-2026)",
+      "link": "https://observador.pt/especiais/dolly-parton-a-vida-e-obra-da-mulher-quis-brilhar-e-que-nos-iluminou-pelo-caminho-1946-2026/",
+      "pubDate": "Wed, 26 Aug 2026 00:55:43 +0100",
+      "description": "Nasceu pobre, numa família de 12 filhos, sem luz nem água corrente. Morreu como um dos maiores ícones da cultura pop mundial. A vida de Dolly Parton não cabia numa peruca.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2300:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/11/21151952/GettyImages-516002789-scaled.jpg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -32,24 +52,24 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:60/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/28182015/dventura-congresso-ps-dia2-79-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. MP vai instaurar inquérito ao atropelamento na Oura",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2402/",
-      "pubDate": "Wed, 26 Aug 2026 00:03:48 +0100",
-      "description": "O Ministério Público quer averiguar as circunstâncias do atropelamento em Albufeira e apurar eventuais responsabilidades. Ainda neste jornal, morreu Dolly Parton aos 80 anos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "01h Ministra da cultura diz que \"é preciso mais feministas\"",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ministra-da-cultura-diz-que-e-preciso-mais-feministas_a1_1761535",
+      "pubDate": "Wed, 26 Aug 2026 02:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "ULS criam centros de avaliação médica e psicológica",
-      "link": "https://observador.pt/2026/08/25/atestados-de-robustez-fisica-e-psiquica-saem-dos-centros-de-saude-uls-vao-criar-centros-especializados-de-avaliacao-medica/",
-      "pubDate": "Tue, 25 Aug 2026 23:58:51 +0100",
-      "description": "A iniciativa procura \"libertar os serviços\" da emissão de atestados médicos e psicológicos e deverá ser da responsabilidade de cada ULS. O objetivo será o foco na atividade assistencial.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/23150620/47336770.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Polícia de imigração dos EUA atinge recorde de 50.000 detenções em julho",
+      "link": "https://www.rtp.pt/noticias/mundo/policia-de-imigracao-dos-eua-atinge-recorde-de-50000-detencoes-em-julho_n1761526",
+      "pubDate": "Wed, 26 Aug 2026 01:45:45 +0100",
+      "description": "A Autoridade de Imigração e Alfândega norte-americana (ICE, na sigla em inglês) anunciou que deteve quase 50 mil pessoas em julho, um máximo mensal no segundo mandato do Presidente Donald Trump.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -79,26 +99,6 @@
       "link": "https://www.rtp.pt/noticias/mundo/mais-de-1400-pessoas-mortas-no-haiti-entre-abril-e-junho_n1761530",
       "pubDate": "Wed, 26 Aug 2026 01:44:39 +0100",
       "description": "Pelo menos 1.408 pessoas foram mortas e outras 656 ficaram feridas no Haiti no segundo trimestre, segundo um relatório do Gabinete Integrado da ONU no Haiti (BINUH), que alerta para o agravamento da violência no país caribenho.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Atropelamento em Albufeira: Ministério Público abre inquérito",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-atropelamento-em-albufeira-ministerio-publico-abre-inquerito_a1_1761528",
-      "pubDate": "Wed, 26 Aug 2026 01:19:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Polícia espanhola realiza ações dissuasoras em praia de Ceuta",
-      "link": "https://www.rtp.pt/noticias/mundo/policia-espanhola-realiza-acoes-dissuasoras-em-praia-de-ceuta_n1761525",
-      "pubDate": "Wed, 26 Aug 2026 01:03:43 +0100",
-      "description": "As forças de segurança espanholas utilizaram hoje gás lacrimogéneo e realizaram ações dissuasoras na praia de El Trampolín, em Ceuta, contra os migrantes que regressaram a esta zona do enclave.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
