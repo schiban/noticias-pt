@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-26T02:45:07.186342+00:00",
+  "updated": "2026-08-26T03:49:58.617010+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "4h. Mau tempo. Onze distritos sob aviso amarelo do IPMA",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2382/",
+      "pubDate": "Wed, 26 Aug 2026 04:16:41 +0100",
+      "description": "Avisos entram em vigor às seis da manhã no Norte e litoral centro e estendem-se depois a outros distritos, incluindo Lisboa. Ainda, Ministério Público instaura inquérito ao atropelamento na Oura.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -42,63 +52,53 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2300:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/11/21151952/GettyImages-516002789-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Sismos. Portugueses em La Guaira ainda precisam de apoio",
-      "link": "https://observador.pt/2026/08/26/dois-meses-apos-sismo-comunidade-portuguesa-em-la-guaira-precisa-de-acompanhamento-no-processo-de-recuperacao/",
-      "pubDate": "Wed, 26 Aug 2026 00:34:45 +0100",
-      "description": "A organização DVC alerta que, dois meses depois do duplo sismo de 24 de junho — que matou pelo menos 138 portugueses —, as dificuldades persistem em La Guaira.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/25231058/47600610.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h IPMA põe 11 distritos sob aviso amarelo para chuva e trovoada",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ipma-poe-11-distritos-sob-aviso-amarelo-para-chuva-e-trovoada_a1_1761540",
-      "pubDate": "Wed, 26 Aug 2026 04:15:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "2h MAI atualiza património na Entidade para a Transparência",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-mai-atualiza-patrimonio-na-entidade-para-a-transparencia_a1_1761539",
-      "pubDate": "Wed, 26 Aug 2026 03:52:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "01h Ministra da cultura diz que \"é preciso mais feministas\"",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ministra-da-cultura-diz-que-e-preciso-mais-feministas_a1_1761535",
-      "pubDate": "Wed, 26 Aug 2026 02:17:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Polícia de imigração dos EUA atinge recorde de 50.000 detenções em julho",
-      "link": "https://www.rtp.pt/noticias/mundo/policia-de-imigracao-dos-eua-atinge-recorde-de-50000-detencoes-em-julho_n1761526",
-      "pubDate": "Wed, 26 Aug 2026 01:45:45 +0100",
-      "description": "A Autoridade de Imigração e Alfândega norte-americana (ICE, na sigla em inglês) anunciou que deteve quase 50 mil pessoas em julho, um máximo mensal no segundo mandato do Presidente Donald Trump.",
+      "title": "Hungria suspeita de fraude em compra de ventiladores chineses durante pandemia",
+      "link": "https://www.rtp.pt/noticias/mundo/hungria-suspeita-de-fraude-em-compra-de-ventiladores-chineses-durante-pandemia_n1761544",
+      "pubDate": "Wed, 26 Aug 2026 05:45:14 +0100",
+      "description": "O ministério dos Negócios Estrangeiros da Hungria apresentou uma queixa-crime por suspeitas de fraude na compra à China de cerca de 17 mil ventiladores durante a pandemia de covid-19, anunciou Budapeste.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "EUA oferecem sete milhões de euros por informações sobre líder do Estado Islâmico no Afeganistão",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-oferecem-sete-milhoes-de-euros-por-informacoes-sobre-lider-do-estado-islamico-no-afeganistao_n1761527",
-      "pubDate": "Wed, 26 Aug 2026 01:45:25 +0100",
-      "description": "O Governo norte-americano ofereceu uma recompensa de até oito milhões de dólares (cerca de sete milhões de euros) por informações que levem à detenção do líder da filial do Estado Islâmico no Afeganistão, Shabab al Muhayir.",
+      "title": "Sismo pode cortar crescimento do PIB da Colômbia em 0,27 pontos percentuais",
+      "link": "https://www.rtp.pt/noticias/economia/sismo-pode-cortar-crescimento-do-pib-da-colombia-em-027-pontos-percentuais_n1761543",
+      "pubDate": "Wed, 26 Aug 2026 05:44:00 +0100",
+      "description": "O sismo que atingiu a Colômbia em 10 de agosto pode reduzir o crescimento do Produto Interno Bruto (PIB) do país em 0,27 pontos percentuais, referiu um estudo.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Relação com a China limita pressão económica de Trump sobre o Irão",
+      "link": "https://www.rtp.pt/noticias/economia/relacao-com-a-china-limita-pressao-economica-de-trump-sobre-o-irao_n1761542",
+      "pubDate": "Wed, 26 Aug 2026 05:43:17 +0100",
+      "description": "A ofensiva económica lançada pelos Estados Unidos para isolar o Irão enfrenta na China o principal obstáculo, enquanto Washington procura preservar a trégua comercial com Pequim antes do encontro entre Trump e Xi, apontaram analistas.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Homem mata oito pessoas num jantar de família no leste dos Estados Unidos",
+      "link": "https://www.rtp.pt/noticias/mundo/homem-mata-oito-pessoas-num-jantar-de-familia-no-leste-dos-estados-unidos_n1761541",
+      "pubDate": "Wed, 26 Aug 2026 05:42:10 +0100",
+      "description": "Um homem matou oito familiares, incluindo quatro crianças, enquanto se reuniam para um jantar de domingo numa casa nos arredores de Billings, no estado de Montana, no leste dos Estados Unidos.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "China tem menos margem para repetir solução para crise da dívida",
+      "link": "https://www.rtp.pt/noticias/economia/china-tem-menos-margem-para-repetir-solucao-para-crise-da-divida_n1761538",
+      "pubDate": "Wed, 26 Aug 2026 05:40:49 +0100",
+      "description": "A China tem atualmente menos margem para transferir para as famílias os custos da elevada dívida do que há duas décadas, quando os aforradores financiaram indiretamente o saneamento do sistema bancário, defendeu um economista .",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
