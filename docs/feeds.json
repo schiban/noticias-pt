@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-26T13:51:30.743871+00:00",
+  "updated": "2026-08-26T14:39:27.385280+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Fofana, o campeão \"emprestado\" que só saiu para agora voltar",
+      "link": "https://observador.pt/2026/08/26/foi-campeao-emprestado-saiu-e-agora-voltou-seko-fofana-vence-jogo-de-paciencia-com-o-rennes-e-regressa-ao-fc-porto/",
+      "pubDate": "Wed, 26 Aug 2026 15:25:43 +0100",
+      "description": "O médio, que volta outra vez cedido pelo Rennes, \"contribuiu decisivamente para a conquista do título nacional\", frisam os azuis e brancos. O número que vai usar é \"em homenagem ao ídolo Yaya Touré\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1149:nowe:0:87/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/26151621/fofana.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "15h. Enxurrada no Nepal provoca mais de 30 mortos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2437/",
+      "pubDate": "Wed, 26 Aug 2026 15:16:30 +0100",
+      "description": "Ministro dos Negócios Estrangeiros do Nepal diz que enxurrada teve origem em tremor de terra. Ainda, ANTRAL quer reunir-se com ministro da Administração Interna após operação de fiscalização a táxis.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -25,31 +45,41 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Meta paga 14 milhões em acordo para pôr fim a julgamento",
+      "title": "Meta paga 14 mil milhões em acordo para pôr fim a julgamento",
       "link": "https://observador.pt/2026/08/26/meta-chega-a-acordo-e-paga-14-milhoes-de-euros-para-por-fim-a-julgamento-sobre-prejuizo-das-redes-sociais-para-criancas-e-jovens/",
       "pubDate": "Wed, 26 Aug 2026 14:46:38 +0100",
       "description": "Empresa de Mark Zuckerberg era acusada de não fazer o suficiente para proteger crianças e jovens apesar de saber que os seus produtos causam dependência.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/29142532/44258326.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O desejado regresso de Serena e Alcaraz ao Arthur Ashe",
-      "link": "https://observador.pt/2026/08/26/serena-e-alcaraz-perderam-em-pares-nos-quartos-de-final-do-us-open-mas-ja-ganharam-algo-que-nao-se-conquista-com-treinos/",
-      "pubDate": "Wed, 26 Aug 2026 14:40:08 +0100",
-      "description": "Só de um lado do campo estavam dois currículos que falam por si. O peso do palmarés fez o seu trabalho em 58 minutos e o desfecho do primeiro jogo fez com que existisse um segundo, que perderam.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/26133656/gettyimages-2291508026-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Seleção feminina de sub-20 empata com a Itália na preparação para o Mundial2026",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/selecao-feminina-de-sub-20-empata-com-a-italia-na-preparacao-para-o-mundial2026_d1761642",
+      "pubDate": "Wed, 26 Aug 2026 16:02:39 +0100",
+      "description": "A seleção portuguesa feminina de sub-20 empatou hoje em Novara com a Itália (1-1), num encontro particular que serviu de preparação para o Mundial2026 da categoria, que vai decorrer em setembro, na Polónia.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Obra de Mondrian vai a leilão por 23 a 35 milhões de euros",
-      "link": "https://observador.pt/2026/08/26/obra-de-mondrian-vai-a-leilao-com-estimativa-de-23-a-35-milhoes-de-euros/",
-      "pubDate": "Wed, 26 Aug 2026 14:17:54 +0100",
-      "description": "A obra Composition III de Mondrian vai ser leiloada pela primeira vez a 14 de outubro, em Londres. A leiloeira Christie's estima a obra 23 e 35 milhões de euros.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/26125749/42919463.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Portugal vence Espanha e conquista primeiro triunfo de sempre no Europeu feminino de voleibol",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/portugal-vence-espanha-e-conquista-primeiro-triunfo-de-sempre-no-europeu-feminino-de-voleibol_d1761641",
+      "pubDate": "Wed, 26 Aug 2026 16:00:41 +0100",
+      "description": "A seleção portuguesa feminina de voleibol conquistou hoje a primeira vitória de sempre em Europeus, ao bater a Espanha por 3-1, em jogo do Grupo C da competição, que se disputou em Baku.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/38/38297ed718a8e8ee7332e609dcb2b497?w=350&amp;q=50&amp;rect=0,10,1460,800&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Treinador do Aarhus acredita na reviravolta frente a um Benfica de \"topo\"",
+      "link": "https://www.rtp.pt/noticias/benfica/treinador-do-aarhus-acredita-na-reviravolta-frente-a-um-benfica-de-topo_d1761640",
+      "pubDate": "Wed, 26 Aug 2026 15:56:50 +0100",
+      "description": "O treinador do Aarhus, Jakob Poulsen, afirmou hoje que acredita na reviravolta frente ao Benfica, no play-off de acesso à Liga Europa de futebol, mas lembrou que o emblema português está as 20 melhores equipas europeias.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2f2cf11711e520332425a261e3259730?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -66,40 +96,40 @@
       "sourceName": "RTP Notícias",
       "color": "#e05252",
       "title": "Netanyahu promete mais colonatos e saúda os cerca de 300 construídos durante o seu governo",
-      "link": "https://www.rtp.pt/noticias/mundo/netanyahu-promete-mais-colonatos-e-sauda-os-cerca-de-300-construidos-durante-o-seu-governo_n1761631",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/netanyahu-promete-mais-colonatos-e-sauda-os-cerca-de-300-construidos-durante-o-seu-governo_n1761631",
       "pubDate": "Wed, 26 Aug 2026 15:39:10 +0100",
       "description": "O primeiro-ministro israelita saudou a criação de 300 colonatos na Cisjordânia durante o seu governo e prometeu continuar com a construção, apesar da crescente pressão internacional, segundo um comunicado divulgado hoje pelo seu gabinete.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Construção de hotel no Porto alvo de queixas",
-      "link": "https://www.rtp.pt/noticias/pais/construcao-de-hotel-no-porto-alvo-de-queixas_v1761636",
-      "pubDate": "Wed, 26 Aug 2026 15:35:47 +0100",
-      "description": "Os moradores dizem que o ruído é ensurdecedor, sentem vibrações e não podem abrir as janelas porque as obras provocam muito pó.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6a/6ac4800764a1d9101fa39256fd7c76e4_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
+      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
+      "pubDate": "Wed, 26 Aug 2026 15:23:00 +0100",
+      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
+      "thumbnail": "https://img.iol.pt/image/id/6a8ecc3ad34e511da0b356a6/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PM do Canadá desloca-se à Europa para ouvir discurso de Von der Leyen sobre Estado da UE",
-      "link": "https://www.rtp.pt/noticias/mundo/pm-do-canada-desloca-se-a-europa-para-ouvir-discurso-de-von-der-leyen-sobre-estado-da-ue_n1761616",
-      "pubDate": "Wed, 26 Aug 2026 15:28:56 +0100",
-      "description": "O primeiro-ministro canadiano, Mark Carney, vai deslocar-se a Estrasburgo, em França, para ouvir em setembro o discurso anual da presidente da Comissão Europeia, Ursula von der Leyen, sobre o Estado da União Europeia (UE), foi hoje anunciado.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Sterling acusado de condução perigosa e arrisca até dois anos de prisão",
+      "link": "https://maisfutebol.iol.pt/internacional/raheem-sterling/sterling-acusado-de-conducao-perigosa-e-arrisca-ate-dois-anos-de-prisao",
+      "pubDate": "Wed, 26 Aug 2026 15:17:00 +0100",
+      "description": "Internacional inglês vai a julgamento em setembro e enfrenta um processo-crime após um acidente de carro em maio",
+      "thumbnail": "https://img.iol.pt/image/id/6a1ac865d34edcee7c64c2b1/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "UE faz auditoria no Brasil para avaliar suspensão de exportações de produtos animais",
-      "link": "https://www.rtp.pt/noticias/mundo/ue-faz-auditoria-no-brasil-para-avaliar-suspensao-de-exportacoes-de-produtos-animais_n1761601",
-      "pubDate": "Wed, 26 Aug 2026 15:28:09 +0100",
-      "description": "A União Europeia (UE) está a realizar uma auditoria no Brasil na sequência da suspensão, a partir de setembro, das exportações brasileiras de vários produtos de origem animal, um processo que poderá permitir a recuperação de algumas autorizações.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "OFICIAL: Seko Fofana regressa ao FC Porto",
+      "link": "https://maisfutebol.iol.pt/fc-porto/seko-fofana/oficial-fofana-regressa-ao-fc-porto",
+      "pubDate": "Wed, 26 Aug 2026 15:02:00 +0100",
+      "description": "Médio chega emprestado pelos franceses Rennes",
+      "thumbnail": "https://img.iol.pt/image/id/6a8ef5cdd34e511da0b356f7/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Wed, 26 Aug 2026 13:38:00 +0100",
       "description": "Médio norueguês sofreu uma entorse no tornozelo direito",
       "thumbnail": "https://img.iol.pt/image/id/6a8ede12d34e511da0b356d6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Nilton Varela é reforço do Marítimo",
-      "link": "https://maisfutebol.iol.pt/liga/maritimo/oficial-nilton-varela-e-reforco-do-maritimo",
-      "pubDate": "Wed, 26 Aug 2026 13:06:12 +0100",
-      "description": "Defesa português assina até junho de 2028",
-      "thumbnail": "https://img.iol.pt/image/id/6a8ed4cfd34ed0733ba81ef3/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Se é oficial, está aqui: todas as entradas e saídas da Liga",
-      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
-      "pubDate": "Wed, 26 Aug 2026 13:06:00 +0100",
-      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a8ecc3ad34e511da0b356a6/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "VÍDEO: Benfica revela que João Palhinha é sócio desde 2005",
-      "link": "https://maisfutebol.iol.pt/benfica/joao-palhinha/benfica-revela-detalhe-inacreditavel-palhinha-e-socio-desde-2005",
-      "pubDate": "Wed, 26 Aug 2026 12:54:00 +0100",
-      "description": "Jogador formado no Sporting é o associado número 47.645 dos encarnados",
-      "thumbnail": "https://img.iol.pt/image/id/6a8ecc49d34ed0733ba81ed3/250"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +175,91 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Pequenos comerciantes de Nova Iorque contestam mercearias públicas de Mamdani",
-      "link": "https://sapo.pt/artigo/nova-iorque-comerciantes-contestam-mercearias-publicas-6a8edc4e170cb38f1400ca97",
-      "pubDate": "Wed, 26 Aug 2026 13:01:14 +0000",
-      "description": "Mercearias públicas são projeto de bandeira do presidente da câmara de Nova Iorque para combater pobreza alimentar. Mas pequenos comerciantes temem concorrência desleal do estado.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ABiNCcRg8AbfIKswTeRYCFmXAmx2lj2qiZCw4eiBCA%2FFWL5QVBkf6%2BKPaPxeDBH6kmnzQA0%2Bk96jlAWzXmcAcdEebVlevD7fPQONMJ1jWwnx%2BjpNengOBFSmJKbrpskkI"
+      "title": "Dolly Parton escolheu a canção do seu funeral há mais de uma década e deixou um tema inédito que só será ouvido em 2046",
+      "link": "https://sapo.pt/artigo/dolly-parton-escolheu-a-cancao-do-seu-funeral-ha-mais-de-uma-decada-e-deixou-um-tema-inedito-que-so-sera-ouvido-em-2046-6a8eeb7e170cb38f140472e6",
+      "pubDate": "Wed, 26 Aug 2026 13:50:20 +0000",
+      "description": "A cantora norte-americana morreu esta terça-feira, 25 de agosto, aos 80 anos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AmthNhDZytctE27GTss%2BeinkHHzQMCEfZiZwbcBOtqAEh8puuPDv3BF1GCQdLVuRawOmtdGQ2P1sr0UgiatQpZ5WbnHO6puZlTr357OFd%2FEEgwF7OhNwUkJFIcxlgK5n6"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Imigrantes fiscalizados: PSP apanha 1.117 casos irregulares",
-      "link": "https://sapo.pt/artigo/psp-detetou-1-117-casos-de-imigrantes-irregulares-entre-52-mil-fiscalizados-6a8ed087c667b37618f2d6bf",
-      "pubDate": "Wed, 26 Aug 2026 13:01:14 +0000",
-      "description": "A UNEF, apelidada informalmente de “mini-SEF”, entrou em funcionamento a 21 de agosto de 2025 e tem como principais objetivos o controlo de fronteiras e fiscalização de imigrantes, que anteriormente pertenciam ao extinto Serviço de Estrangeiros e...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=460&W=817&crop=center&delay_optim=1&epic=V2%3ADcCW7MW%2BRlCqh1MXrZA0e84cIBd78xpBbdLCd1fZiJnCoe6N1crCUVpSPsJJobThPyp0JHLdD%2BteSSkUCxSloofM8OtK98sDAhZE53Yhkz94BgDf%2FW9AfGXJJhj5F%2F%2Fg"
+      "title": "Sete mortos e nove desaparecidos após incêndio em complexo petroquímico na Rússia",
+      "link": "https://sapo.pt/artigo/sete-mortos-e-nove-desaparecidos-apos-incendio-em-complexo-petroquimico-na-russia-6a8ee326c667b37618f74755",
+      "pubDate": "Wed, 26 Aug 2026 13:50:20 +0000",
+      "description": "As autoridades russas prosseguem as operações de busca e salvamento após um incêndio de grandes dimensões num empreendimento industrial em construção no extremo leste do país, que também fez dezenas de feridos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=570&W=1013&crop=center&delay_optim=1&epic=V2%3Axttx5gMtEzFLYrvu8y%2FvcAUxuDuDKOTWQ2czQ1Kg%2BbcR013osya3fKfpSS2xhZxIIIuKTk6XVtu6J2kxi9UaR9ZoaDpvkkTtQcWAiEKdSBC2TNT3eqO80h8cQo69TYBW"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Zelensky condecora Elon Musk com a Ordem da Liberdade, uma das mais altas distinções da Ucrânia",
-      "link": "https://sapo.pt/artigo/zelensky-condecora-elon-musk-com-a-ordem-da-liberdade-uma-das-mais-altas-distincoes-da-ucrania-6a8ee19c6fb671f4055e9edd",
-      "pubDate": "Wed, 26 Aug 2026 13:01:14 +0000",
-      "description": "O empresário norte-americano é distinguido pelo papel que desempenhou no apoio às comunicações ucranianas durante a invasão russa, através da rede de satélites Starlink.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AozkDocnv%2F1um0loAc%2FusvPUcLw%2Bkc5PtOxO%2F2Cb62gOqp6byRTGLsUpNH0Nygs15mcqkUp4DPu8Gem9Y%2BW8sHXfacQZzvAib1DXpbRTz15Dkx9Dmq78xHnsb%2F%2F8UKcVp"
+      "title": "Meta paga 14 milhões em acordo para pôr fim a julgamento",
+      "link": "https://sapo.pt/artigo/meta-paga-14-milhoes-em-acordo-para-por-fim-a-julgamento-6a8eee84e736401c97093c8b",
+      "pubDate": "Wed, 26 Aug 2026 13:55:43 +0000",
+      "description": "Empresa de Mark Zuckerberg era acusada de não fazer o suficiente para proteger crianças e jovens apesar de saber que os seus produtos causam dependência.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AQ3Cf238KYGzbPU6RBiwbifrKdiux3HgLC5GobtA%2BzYk6%2FX62qYEpEjW1KdNz5BmtwDdvc5pyWmIgLAMGIHJYsAJcSRaRL8DvWFSWoOJQTtcWRZwF9HPa33DrjDKgHPUe"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "UEFA baixa armas e levanta boicote após promessa da FIFA sobre Mundial",
-      "link": "https://www.noticiasaominuto.com/desporto/3041709/uefa-baixa-armas-e-levanta-boicote-apos-promessa-da-fifa-sobre-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 14:45:24",
+      "title": "Histórico. Portugal bate Espanha e conquista primeiro triunfo de sempre",
+      "link": "https://www.noticiasaominuto.com/desporto/3041720/historico-portugal-bate-espanha-e-conquista-primeiro-triunfo-de-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 15:36:55",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ee7a664fc7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTAsImNyb3BIZWlnaHQiOjE2ODgsImNyb3BYIjoxNDQxLCJjcm9wWSI6LTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ef98ed234a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUxLCJjcm9wSGVpZ2h0IjoxNjkxLCJjcm9wWCI6NDA2LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Próxima tempestade poderá chamar-se \"Dolly\" (mas é uma coincidência)",
-      "link": "https://www.noticiasaominuto.com/mundo/3041702/proxima-tempestade-podera-chamar-se-dolly-mas-e-uma-coincidencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 14:37:50",
+      "title": "Banhos desaconselhados em seis praias de Matosinhos por contaminação",
+      "link": "https://www.noticiasaominuto.com/pais/3041746/banhos-desaconselhados-em-seis-praias-de-matosinhos-por-contaminacao-microbiologica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 15:36:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8eea70c9bda.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjY4MiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7de7e75599e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carro elétrico chinês reivindica recorde mundial: fez 30.000 km em 8 dias",
-      "link": "https://www.noticiasaominuto.com/auto/3041707/carro-eletrico-chines-reivindica-recorde-mundial-fez-30000-km-em-8-dias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 14:35:29",
+      "title": "UE importa mais 7,9% da China mas exporta menos 5,6% para EUA",
+      "link": "https://www.noticiasaominuto.com/mundo/3041752/ue-importa-mais-7-9-da-china-mas-exporta-menos-5-6-para-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 15:34:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8eebdacc28e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681913a53bd93.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Dia do Cão: Autoridades apresentam \"operacionais de 4 patas\". Conheça-os",
-      "link": "https://www.noticiasaominuto.com/pais/3041681/dia-do-cao-autoridades-apresentam-operacionais-de-4-patas-conheca-os#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 14:34:55",
+      "title": "MNE solidário com Nepal: \"Os nossos pensamentos estão com as famílias\"",
+      "link": "https://www.noticiasaominuto.com/pais/3041744/mne-solidario-com-nepal-os-nossos-pensamentos-estao-com-as-familias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 15:32:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ee1cd0c4c9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQxLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MzQ1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ef53f7381a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM4MywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSP \"lança-se à água\" e salva cidadão no rio Leça: \"Coragem e abnegação\"",
-      "link": "https://www.noticiasaominuto.com/pais/3041701/psp-lanca-se-a-agua-e-salva-cidadao-no-rio-leca-coragem-e-abnegacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 14:34:00",
+      "title": "Com mira à fase de liga. Os convocados do Sp. Braga para jogo na Áustria",
+      "link": "https://www.noticiasaominuto.com/desporto/3041740/lce-avancado-milosevic-integra-convocados-do-sporting-de-braga-para-jogo-na-austria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-26 15:26:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM5NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8ef741bf8b0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg1LCJjcm9wSGVpZ2h0IjoxMjg1LCJjcm9wWCI6MCwiY3JvcFkiOjEyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODQ1LCJjcm9wSGVpZ2h0IjoxNTAzLCJjcm9wWCI6NDgwLCJjcm9wWSI6LTF9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Apple mostra bastidores do anúncio (feito à mão) do novo Mac mini M6",
+      "link": "https://pplware.sapo.pt/apple/apple-mostra-bastidores-do-anuncio-feito-a-mao-do-novo-mac-mini-m6/",
+      "pubDate": "Wed, 26 Aug 2026 14:00:48 +0000",
+      "description": "A Apple decidiu fugir à sua abordagem minimalista habitual para promover o novo Mac mini com chip M6, e o resultado é um anúncio feito literalmente à mão, em stop-motion. Se já viu o&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/anuncio-apple-mac-mini.jpg"
     },
     {
       "sourceId": "pplware",
@@ -290,16 +300,6 @@
       "pubDate": "Wed, 26 Aug 2026 11:30:29 +0000",
       "description": "A IAl e a robótica avançam a passos largos, abandonando o conforto das linhas de montagem industriais para conquistar novos terrenos na sociedade moderna. Durante os recentes Jogos Mundiais de Robôs Humanoides, a empresa&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/maxresdefault-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Publicidade chega em força ao Apple Maps… E não há forma de a desativar",
-      "link": "https://pplware.sapo.pt/apple/publicidade-chega-em-forca-ao-apple-maps-e-nao-ha-forma-de-a-desativar/",
-      "pubDate": "Wed, 26 Aug 2026 11:00:01 +0000",
-      "description": "Os utilizadores do Apple Maps nos Estados Unidos e no Canadá começaram a deparar-se com anúncios publicitários integrados na aplicação de navegação, sem qualquer possibilidade de os contornar. O início da publicidade no Apple&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/publicidade_apple_maps.webp"
     },
     {
       "sourceId": "autosport",
