@@ -1,63 +1,83 @@
 {
-  "updated": "2026-08-27T00:24:26.888416+00:00",
+  "updated": "2026-08-27T10:05:41.103949+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2365/",
-      "pubDate": "Thu, 27 Aug 2026 01:16:32 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "CIA avisou Rússia para não escalar conflito nos bálticos",
+      "link": "https://observador.pt/2026/08/27/diretor-da-cia-tera-ido-a-moscovo-avisar-a-russia-para-nao-escalar-conflito-com-paises-balticos-e-a-nato-casa-branca-e-kremlin-desmentem/",
+      "pubDate": "Thu, 27 Aug 2026 10:47:58 +0100",
+      "description": "Segundo o Politico, visita de John Ratcliffe serviu para avisar autoridades russas, numa altura em que aumentam incidentes no Báltico e na Polónia. O Kremlin desmente e fala em \"histórias alarmistas\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:91/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/27103758/gettyimages-2291561991-scaled.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "\"Mestre das fugas\" da prisão albanês capturado em Tarragona",
-      "link": "https://observador.pt/2026/08/27/mestre-das-fugas-capturado-em-espanha-criminoso-albanes-e-conhecido-por-ter-escapado-de-quatro-prisoes-em-italia-e-belgica/",
-      "pubDate": "Thu, 27 Aug 2026 00:34:04 +0100",
-      "description": "Trata-se de um homem de 42 anos considerado muito perigoso e que se encontrava escondido em Tarragona desde que fugiu de uma prisão de alta segurança em Milão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:946:530:nowe:0:380/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/26233327/b-k6h-tuiaaobtb.jpeg"
+      "title": "EasyJet cancela voo de Cabo Verde para Porto com 130 pessoas",
+      "link": "https://observador.pt/2026/08/27/cancelamento-de-voo-da-easyjet-de-cabo-verde-para-o-porto-afeta-cerca-de-130-passageiros/",
+      "pubDate": "Thu, 27 Aug 2026 10:37:57 +0100",
+      "description": "O cancelamento do voo proveniente da ilha da Boa Vista (Cabo Verde) afetou 130 pessoas. Alguns passageiros receberam o aviso do cancelamento e as alternativas estão a ser suportadas pelo próprios.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10084619/47221581.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Cruzes, os canhotos! Marx (e Maomé) na Casa Branca!",
-      "link": "https://observador.pt/opiniao/cruzes-os-canhotos-marx-e-maome-na-casa-branca/",
-      "pubDate": "Thu, 27 Aug 2026 00:25:42 +0100",
-      "description": "Será possível que, nos 250 anos dos Founding Fathers, os EUA se tornem vermelhos?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+      "title": "Como um comandante arriscou a vida para salvar dois soldados",
+      "link": "https://observador.pt/2026/08/27/como-um-antigo-professor-arriscou-a-vida-para-salvar-dois-soldados-na-frente-de-batalha-vladyslav-foi-agora-condecorado/",
+      "pubDate": "Thu, 27 Aug 2026 10:33:59 +0100",
+      "description": "Um antigo professor atravessou, sem qualquer proteção, um campo minado e vigiado por drones russos para resgatar soldados feridos na frente de Kharkiv. Recebeu a mais alta condecoração da Ucrânia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1902:1070:nowe:199:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/27090702/captura-de-ecra-2026-08-27-as-090649.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "A quem rezam os robôs quando precisam de ganhar?",
-      "link": "https://observador.pt/opiniao/a-quem-rezam-os-robos-quando-precisam-de-ganhar/",
-      "pubDate": "Thu, 27 Aug 2026 00:23:52 +0100",
-      "description": "Em que família pensarão? Por e para quem correrão? Se lhes faltarem as forças? Mesmo que Deus não exista, como suplantar aquela espécie de super-poder que a fé e a esperança desbloqueiam nos humanos?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg"
+      "title": "Ceuta. Centenas de manifestantes tentam expulsar migrantes",
+      "link": "https://observador.pt/2026/08/27/centenas-de-cidadaos-de-ceuta-tentam-expulsar-migrantes-na-praia-de-el-trampolin-policia-usa-gas-lacrimogeneo-para-dispersar-protesto/",
+      "pubDate": "Thu, 27 Aug 2026 10:26:25 +0100",
+      "description": "Milhares marcharam em Ceuta no segundo dia de protestos. Cerca de 300 manifestantes tentaram desmontar tendas e atirar pertences ao mar, mas polícia impediu tentativas de agressão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/17222249/47624545.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Julgamento do mentor do 11 de setembro marcado para 2028",
-      "link": "https://observador.pt/2026/08/27/julgamento-do-alegado-mentor-dos-ataques-do-11-de-setembro-marcado-para-2028/",
-      "pubDate": "Thu, 27 Aug 2026 00:23:51 +0100",
-      "description": "Khalid Sheikh Mohammed encontra-se detido na base militar dos EUA em Guantánamo desde 2006. É acusado de orquestrar o plano para abater aviões desviados no World Trade Center e no Pentágono.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/07155508/14263333.jpg"
+      "title": "Chega. Abandono de autarcas \"acontece em todos os partidos\"",
+      "link": "https://observador.pt/programas/explicador/chega-eduardo-teixeira-abandono-de-autarcas-acontece-em-todos-os-partidos/",
+      "pubDate": "Thu, 27 Aug 2026 10:24:28 +0100",
+      "description": "Coordenador autárquico nacional do Chega acusa comunicação social de \"não divulgar\" renúncias de autarcas de outros partidos. Sobre cargo não estar nos estatutos, Eduardo Teixeira não vê problemas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Carris tem nova página na internet sobre ascensores",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-carris-tem-nova-pagina-na-internet-sobre-ascensores_a1_1761767",
-      "pubDate": "Thu, 27 Aug 2026 02:21:02 +0100",
+      "title": "US Open. Tenista Henrique Rocha eliminado na qualificação",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/us-open-tenista-henrique-rocha-eliminado-na-qualificacao_d1761826",
+      "pubDate": "Thu, 27 Aug 2026 11:59:05 +0100",
+      "description": "O tenista português Henrique Rocha foi na quarta-feira eliminado na segunda ronda de qualificação para o Open dos Estados Unidos, em Nova Iorque, ao ser derrotado pelo sul-africano Lloyd Harris em três sets.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Xavi é reforço para a defesa do Estoril",
+      "link": "https://www.rtp.pt/noticias/futebol-nacional/xavi-e-reforco-para-a-defesa-do-estoril_d1761818",
+      "pubDate": "Thu, 27 Aug 2026 11:03:11 +0100",
+      "description": "O Estoril Praia, da I Liga portuguesa de futebol, anunciou hoje a contratação do defesa espanhol Xavi Sintes, jogador que estava sem clube.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "9h Inundações no Nepal e no Tibete: subiu para 180 o número de mortos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-inundacoes-no-nepal-e-no-tibete-subiu-para-180-o-numero-de-mortos_a1_1761816",
+      "pubDate": "Thu, 27 Aug 2026 10:33:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,241 +85,251 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Detido adolescente suspeito de planear ataque terrorista na Noruega",
-      "link": "https://www.rtp.pt/noticias/mundo/detido-adolescente-suspeito-de-planear-ataque-terrorista-na-noruega_n1761761",
-      "pubDate": "Thu, 27 Aug 2026 01:37:43 +0100",
-      "description": "A polícia norueguesa anunciou a detenção de um jovem de 16 anos suspeito de planear um ataque terrorista que, segundo os meios de comunicação social locais, teria como alvo uma creche.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Novo balanço. Cheias devastadoras no Nepal e Tibete provocaram mais de 289 mortos",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-balanco-cheias-devastadoras-no-nepal-e-tibete-provocaram-mais-de-270-mortos_n1761814",
+      "pubDate": "Thu, 27 Aug 2026 10:23:08 +0100",
+      "description": "As equipas de resgate continuaram os seus esforços esta quinta-feira para encontrar mais de 1.300 pessoas desaparecidas, incluindo centenas de turistas estrangeiros, um dia depois de as cheias devastadoras de quarta-feira terem feito pelo menos 289 mortos no Nepal e na China.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/37/37d10a4fcf3258a26501114e81745895?w=350&amp;q=50&amp;rect=0,80,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Trump declara emergência nacional para rede elétrica em medida que visa a China",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-declara-emergencia-nacional-para-rede-eletrica-em-medida-que-visa-a-china_n1761762",
-      "pubDate": "Thu, 27 Aug 2026 01:37:25 +0100",
-      "description": "O Presidente norte-americano, Donald Trump, declarou na quarta-feira o estado de emergência nacional para a rede elétrica, proibindo a compra e instalação de equipamentos de países sob embargo de armas, medida que visa a China sem a nomear.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tribunal russo ordena detenção de jornalista alemão por suposta incitação ao ódio",
-      "link": "https://www.rtp.pt/noticias/mundo/tribunal-russo-ordena-detencao-de-jornalista-alemao-por-suposta-incitacao-ao-odio_n1761764",
-      "pubDate": "Thu, 27 Aug 2026 01:36:56 +0100",
-      "description": "Um tribunal de Moscovo emitiu um mandado de busca e detenção para um jornalista alemão acusado de alegado crime de incitamento ao ódio, pelo qual enfrenta uma pena de até seis anos de prisão.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Atropelamento no noroeste de França deixa pelo menos um morto e 12 feridos",
-      "link": "https://www.rtp.pt/noticias/mundo/atropelamento-no-noroeste-de-franca-deixa-pelo-menos-um-morto-e-12-feridos_n1761759",
-      "pubDate": "Thu, 27 Aug 2026 01:19:54 +0100",
-      "description": "Um condutor atropelou na noite de quarta-feira várias pessoas perto da estação de comboios de Caen, em França, fazendo pelo menos um morto e cerca de 12 feridos, quatro em estado grave, segundo fontes próximas da investigação.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Taranto2026. Após o gelo, Jéssica Rodrigues quer deixar marca na patinagem de maratona",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/taranto2026-apos-o-gelo-jessica-rodrigues-quer-deixar-marca-na-patinagem-de-maratona_d1761815",
+      "pubDate": "Thu, 27 Aug 2026 10:15:06 +0100",
+      "description": "Depois de fazer história para Portugal nos desportos de inverno, Jéssica Rodrigues quer deixar a sua marca em Taranto2026, onde, apesar da lesão recente, vai participar para tentar ganhar na patinagem de maratona.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b98c926b934c8719170459f214b2306?w=350&amp;q=50&amp;rect=0,145,1080,592&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Mourinho rende-se a Mbappé: «Este rapaz é incrível, o que fez é de loucos»",
-      "link": "https://maisfutebol.iol.pt/espanha/internacional/mourinho-rende-se-a-mbappe-este-rapaz-e-incrivel-o-que-fez-e-de-loucos",
-      "pubDate": "Wed, 26 Aug 2026 23:48:37 +0100",
-      "description": "Treinador português destacou a exibição do avançado francês no triunfo sobre a Real Sociedad por 4-1",
-      "thumbnail": "https://img.iol.pt/image/id/6a8f6cced34e511da0b35846/250"
+      "title": "OFICIAL: Dominik Livaković reforça a baliza do Barcelona",
+      "link": "https://maisfutebol.iol.pt/transferencias/dominik-livakovic/oficial-dominik-livakovic-reforca-a-baliza-do-barcelona",
+      "pubDate": "Thu, 27 Aug 2026 11:00:00 +0100",
+      "description": "Internacional croata chega proveniente dos turcos do Fenerbahçe",
+      "thumbnail": "https://img.iol.pt/image/id/6a9009b6d34ed0733ba8210c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Andebol: Sporting entra a todo o gás no campeonato e goleia Avanca",
-      "link": "https://maisfutebol.iol.pt/andebol/sporting/andebol-sporting-entra-a-todo-o-gas-no-campeonato-e-goleia-avanca",
-      "pubDate": "Wed, 26 Aug 2026 23:47:14 +0100",
-      "description": "Encontro antecipado da segunda jornada termina com goleada leonina no Pavilhão João Rocha (46-23)",
-      "thumbnail": "https://img.iol.pt/image/id/6a8f6b7bd34e511da0b35841/250"
+      "title": "US Open: Henrique Rocha eliminado na segunda ronda de qualificação",
+      "link": "https://maisfutebol.iol.pt/tenis/us-open/us-open-henrique-rocha-eliminado-na-segunda-ronda-de-qualificacao",
+      "pubDate": "Thu, 27 Aug 2026 10:57:00 +0100",
+      "description": "Português perdeu com o sul-africano Lloyd Harris em três sets",
+      "thumbnail": "https://img.iol.pt/image/id/683b26d6d34e3f0bae9ed9d6/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Nigel de Jong revela «plano A» para os Países Baixos: «Guardiola era a primeira escolha»",
-      "link": "https://maisfutebol.iol.pt/paises-baixos/nigel-de-jong/nigel-de-jong-revela-plano-a-para-os-paises-baixos-guardiola-era-a-primeira-escolha",
-      "pubDate": "Wed, 26 Aug 2026 23:37:13 +0100",
-      "description": "Diretor técnico explica que Xavi foi a terceira opção para o cargo de selecionador, inclusive atrás de Arne Slot",
-      "thumbnail": "https://img.iol.pt/image/id/6a8f68e2d34ed0733ba8206a/250"
+      "title": "OFICIAL: Liam Delap deixa o Chelsea e reforça o Nottingham Forest",
+      "link": "https://maisfutebol.iol.pt/transferencias/liam-delap/oficial-liam-delap-deixa-o-chelsea-e-reforca-o-nottingham-forest",
+      "pubDate": "Thu, 27 Aug 2026 10:43:00 +0100",
+      "description": "Imprensa inglesa fala de uma transferência na ordem dos 52,5 milhões de euros",
+      "thumbnail": "https://img.iol.pt/image/id/6a90048fd34ed0733ba820ee/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Estoril reforça defesa com espanhol Xavi Sintes",
-      "link": "https://maisfutebol.iol.pt/estoril/liga/oficial-estoril-reforca-defesa-com-espanhol-xavi-sintes",
-      "pubDate": "Wed, 26 Aug 2026 23:29:46 +0100",
-      "description": "Central de 25 anos estava livre depois de duas temporadas no Córdoba e assina pelos canarinhos até ao final da época",
-      "thumbnail": "https://img.iol.pt/image/id/6a8f6884d34e511da0b3583b/250"
+      "title": "OFICIAL: Sp. Braga empresta Thiago Helguera ao Atlético de Madrid",
+      "link": "https://maisfutebol.iol.pt/sp-braga/atletico-de-madrid/oficial-sp-braga-empresta-thiago-helguera-ao-atletico-de-madrid",
+      "pubDate": "Thu, 27 Aug 2026 10:35:00 +0100",
+      "description": "Na última temporada, o médio argentino esteve cedido ao Mirandés da segunda divisão espanhola",
+      "thumbnail": "https://img.iol.pt/image/id/6a900256d34e511da0b358b0/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Adama Traoré é reforço do Deportivo da Corunha",
-      "link": "https://maisfutebol.iol.pt/espanha/deportivo-da-corunha/oficial-adama-traore-e-reforco-do-deportivo-da-corunha",
-      "pubDate": "Wed, 26 Aug 2026 23:15:23 +0100",
-      "description": "Avançado regressa a Espanha e assina contrato até junho de 2028",
-      "thumbnail": "https://img.iol.pt/image/id/6a8f639ad34ed0733ba82065/250"
+      "title": "Equipa que ganha não mexe: os onzes prováveis para o Aarhus-Benfica",
+      "link": "https://maisfutebol.iol.pt/liga-europa/benfica/equipa-que-ganha-nao-mexe-os-onzes-provaveis-para-o-aarhus-benfica",
+      "pubDate": "Thu, 27 Aug 2026 10:24:38 +0100",
+      "description": "Marco Silva deverá manter a fórmula no último esforço pelo acesso à Liga Europa",
+      "thumbnail": "https://img.iol.pt/image/id/6a480825d34edcee7c660a1c/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "EUA indicam que deslizamento e não um terramoto gerou atividade sísmica no Nepal",
-      "link": "https://executivedigest.sapo.pt/nepal-eua-indicam-que-deslizamento-e-nao-um-terramoto-gerou-atividade-sismica/",
-      "pubDate": "Wed, 26 Aug 2026 19:12:12 +0000",
-      "description": "O Serviço Geológico dos Estados Unidos (USGS) determinou que o evento inicialmente registado hoje como um terramoto de magnitude 4,4 no Nepal foi, na verdade, gerado por um deslizamento de terras, causando pelo menos 160 mortos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AHFuEEYCQAB8KuO%2BfrplZFtGUNLbf0eOetVg250vWfLzgZZpLntQ9kunuBBs8PXc1vfB5zgkq7%2Foj0HjsUGfOYpNUHA46R1RsB1ggi5vxecE88wa8H88HYujdKPcLXsn6"
+      "title": "Número de mortos no Nepal e Tibete sobe para 165. Há quase 1.400 desaparecidos, incluindo dois portugueses",
+      "link": "https://sapo.pt/artigo/numero-de-mortos-no-nepal-e-tibete-sobe-para-165-ha-quase-1-400-desaparecidos-incluindo-dois-portugueses-6a8fe48fc667b376181649f7",
+      "pubDate": "Thu, 27 Aug 2026 07:53:48 +0000",
+      "description": "As enxurradas que atingiram, ontem, a região transfronteiriças entre o Nepal e a China provocaram, pelo menos, 165 mortos. As autoridades nepalesas indicam que há 826 desaparecidos, entre os quais 529 turistas, enquanto as autoridades chinesas...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AblDdqnYJZpvXZ9jGgQ%2F0c3HYPxxHK%2BxOq56WeTmf1bsEtKXdVyja8INEaxWDPsjASpEf4rInlyTHjGdyYw8b1hCGleLuk%2B%2FnsVIcAMfIiq7%2FUwTDwSHZVuMsgY6SyUwE"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Trump desvaloriza deslocação “quase de rotina” de chefe da CIA a Moscovo mas admite que “pode sair algo disto”",
-      "link": "https://jornaleconomico.sapo.pt/noticias/trump-desvaloriza-deslocacao-quase-de-rotina-de-chefe-da-cia-a-moscovo-mas-admite-que-pode-sair-algo-disto/",
-      "pubDate": "Wed, 26 Aug 2026 16:25:16 +0000",
-      "description": "O Presidente dos Estados Unidos desvalorizou hoje a invulgar deslocação do diretor da CIA a Moscovo, afirmando ter-se tratado de “uma visita quase de rotina”, e reiterou o desejo de que a guerra na Ucrânia termine.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AXKZDwd%2BzO4FIUotQFMx%2BCbo%2FEvDMKmswiFlXjwO9jczuuMppKLCESUYUuDAvEanokFiD2X2Yff6eo%2FPOX9i%2Bms2hLq61ZLfyPCdvHOmRXBJq2VrAp6Td5YrINrNd2Vz9"
+      "title": "Novobanco põe à venda créditos, imóveis e empresas de Vieira para recuperar dívidas de 400 milhões",
+      "link": "https://eco.sapo.pt/2026/08/27/novobanco-poe-a-venda-creditos-imoveis-e-empresas-de-vieira-para-recuperar-dividas-de-400-milhoes/",
+      "pubDate": "Thu, 27 Aug 2026 06:24:11 +0000",
+      "description": "Terrenos em Lisboa e Algarve, edifício de escritórios em Maputo, sociedades Promovalor e Inland e fundo Promoção e Turismo: Novobanco pôs à venda toda a exposição ligada a ex-presidente do Benfica.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AD5ED1j8Gyvf3Az%2F4yaes9XOSa6vMfqiqVAFejEUrFsIwPTeIx36Ow4aP59LxIZ7ylY4jD3hWzRimOyDtUN5USuA1SJp0jdcCJ553ZtLM4WzGGSIvTQBMtjQknzg6pFH%2B"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Irão e Omã chegam a acordo sobre rotas de Ormuz. Mas o que muda?",
-      "link": "https://sapo.pt/artigo/irao-e-oma-chegam-a-acordo-sobre-rotas-de-ormuz-mas-o-que-muda-6a8f335b170cb38f1410cc3b",
-      "pubDate": "Wed, 26 Aug 2026 19:12:12 +0000",
-      "description": "Só cinco navios passaram o estreito na terça-feira, apesar de Trump insistir que ele está aberto e que todas as minas foram destruídas. Teerão questiona porque não passam então mais navios.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AFu3YH3%2F7L6HPCSZ2f40iedbYLf7V97z7zDxFTQEC04FW9ZiOT%2FqUNMhfX0wQ73Y%2Bkn5F66YKvRkCUMyskR7E%2BCRKd73F8fxq1bb8j5SfMrQEPkGZjyJbnxgw2%2FVO0HlN"
+      "title": "Petroleiro atingido no estreito de Ormuz por \"projétil desconhecido\"",
+      "link": "https://sapo.pt/artigo/petroleiro-atingido-no-estreito-de-ormuz-por-projetil-desconhecido-6a8fd02d6fb671f4057bd0c8",
+      "pubDate": "Thu, 27 Aug 2026 06:24:11 +0000",
+      "description": "Este é o primeiro incidente desde 18 de agosto, quando a UKMTO referiu um ataque a um navio graneleiro, também atingido por um projétil desconhecido enquanto transitava por Ormuz.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ahx6shI%2FvZ3bcjJKB0mXFBHHGIUHNfPxs1nZQoO3ZgSCuhbcfYxhe6sLfLbODmHxyyVBf4uqDj5BrWKjTkqiVzpaHgN3UFB528AlxA5PiwlUqWe8fIlpwubKOMww%2FTlSc"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Migrações: Milhares de habitantes de Ceuta voltam às ruas para exigir expulsões e demissões",
-      "link": "https://executivedigest.sapo.pt/migracoes-milhares-de-habitantes-de-ceuta-voltam-as-ruas-para-exigir-expulsoes-e-demissoes/",
-      "pubDate": "Wed, 26 Aug 2026 22:28:43 +0000",
-      "description": "Milhares de habitantes de Ceuta concentraram-se hoje em frente à sede da Delegação do Governo na cidade autónoma espanhola para exigir a expulsão dos migrantes ilegais que continuam nas ruas e reclamar a demissão dos responsáveis políticos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AvmsH1BnwJHzFj5Ew03EZjhiXLd3nCu%2FweXHYtAD4afnIZM9HnhoNAC9s7CEv%2B81PkSbrLe3aCosVdvzFrkwRwr%2FaEKOZ%2F%2B%2Flx0f3IY3npL%2FoxPTjegTk7JirAiv6WNpf"
+      "title": "Escândalo financeiro bilionário da Apex Partners no Brasil atinge Lisboa e compromete expansão europeia",
+      "link": "https://jornaleconomico.sapo.pt/noticias/apex-partners-ve-expansao-europeia-a-partir-de-lisboa-ficar-suspensa-com-escandalo-bilionario-no-brasil/",
+      "pubDate": "Thu, 27 Aug 2026 06:24:11 +0000",
+      "description": "Primeiro escritório internacional da Apex Partners foi inaugurado na capital portuguesa em julho de 2025. Um ano depois, o grupo enfrenta um rombo de 985,6 milhões de reais (164,5 milhões de euros), fundos com resgates suspensos e bens do...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A6A7Q063uyivIRtoM%2BHdmsRmt%2BTPXDwbwYh8b4aoUw%2FGmfzJnXr909HDEjJy9aLo6daGt49FI2Vontg3hFQndDrQrCEE36aGanWhmvlCuC2AvOdgiFtiI6HVZGEuRFZVs"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Jogadora espanhola apaga fotografias com a mulher, após assinar com clube da Arábia Saudita",
-      "link": "https://sapo.pt/artigo/jogadora-espanhola-apaga-fotografias-com-a-mulher-apos-assinar-com-clube-da-arabia-saudita-6a8f32f2c667b3761803878f",
-      "pubDate": "Wed, 26 Aug 2026 19:12:12 +0000",
-      "description": "Esther González, campeã do mundo pela Espanha, assinou pelo Al Qadisiyah e, nas redes sociais, tenta esconder a sua homossexualidade",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AEjyXJGk8%2FNXiE3FRI2M7gEVNywRL4zt2GSnbLp1QyWJg4lIzpldpO9Z8Q5Jn0rlYc0ieSGRj%2B5VawQnMJZoXKm068twH7ccvVGXS6OdF5PfpiXyqQ7RRUNenFrDQydr%2B"
+      "title": "Corrida para encontrar novo James Bond na fase decisiva: seis finalistas, três favoritos?",
+      "link": "https://sapo.pt/artigo/corrida-para-encontrar-novo-james-bond-na-fase-decisiva-seis-finalistas-tres-favoritos-6a8f0f37170cb38f140aaf82",
+      "pubDate": "Thu, 27 Aug 2026 08:12:16 +0000",
+      "description": "Segundo a respeitada jornalista Tatiana Siegel, os produtores da saga terão chegado aos finalistas, que farão testes no início de setembro.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ACR62njYZHZQupNMv2lYfG5z%2FeNTjL70EzwufgGbX%2BGJhV665bqrGFWjTZeRdI71gQJXVzO5U7EziiJMgaFWoAl6yt8eNGmYeXTbDxAFWumASUzZmVwxbrtTdbX%2BWJqiH"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Do cinema à Broadway: Rupert Grint vai voltar a dar vida a Ron Weasley",
-      "link": "https://www.noticiasaominuto.com/pais/3041974/do-cinema-a-broadway-rupert-grint-vai-voltar-a-dar-vida-a-ron-weasley#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 23:57:50",
+      "title": "US Open: Henrique Rocha eliminado na qualificação",
+      "link": "https://www.noticiasaominuto.com/desporto/3042118/us-open-henrique-rocha-eliminado-na-qualificacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-27 10:59:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8f6d17944c4.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9001f9d4aee.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EUA destina 1,89 mil milhões para construção de reatores nucleares",
-      "link": "https://www.noticiasaominuto.com/mundo/3041976/exercito-dos-eua-destina-1-89-mil-me-para-construcao-de-pequenos-reatores-nucleares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 23:56:20",
+      "title": "Este MG tem nome de corte de carne, 500 km de autonomia e custa 12.577€",
+      "link": "https://www.noticiasaominuto.com/auto/3042121/este-mg-tem-nome-de-corte-de-carne-500-km-de-autonomia-e-custa-12577#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-27 10:57:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_564588352c0e6.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjIxNjAsImNyb3BIZWlnaHQiOjM4NDAsImNyb3BYIjoyNzAzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a900a0351a35.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mendes avisa que não se pode viver em \"campanha eleitoral permanente\"",
-      "link": "https://www.noticiasaominuto.com/pais/3041975/mendes-avisa-que-nao-se-pode-viver-em-campanha-eleitoral-permanente-e-pede-entendimentos-minimos-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 23:53:00",
+      "title": "Irão: Seis meses de guerra com EUA deixam conflito sem saída",
+      "link": "https://www.noticiasaominuto.com/mundo/3042042/irao-seis-meses-de-guerra-com-eua-deixam-conflito-sem-saida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-27 10:54:57",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8f6e50ca119.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69d65ad653ae8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Alegado mentor do 11 de Setembro começa a ser julgado em 2028",
-      "link": "https://www.noticiasaominuto.com/mundo/3041969/alegado-mentor-do-11-de-setembro-comeca-a-ser-julgado-em-2028#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 23:47:32",
+      "title": "Nepal: N.º de mortos sobe para 270. Pelo menos 644 turistas desaparecidos",
+      "link": "https://www.noticiasaominuto.com/mundo/3042127/nepal-n-de-mortos-sobe-para-270-pelo-menos-644-turistas-desaparecidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-27 10:54:17",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_672cd953b77da.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTAyLCJjcm9wSGVpZ2h0IjoxMTgyLCJjcm9wWCI6LTEsImNyb3BZIjo4M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODUzLCJjcm9wSGVpZ2h0IjoxNTE2LCJjcm9wWCI6NjYxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8eb29b2e04b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Milhares de habitantes de Ceuta nas ruas a exigir expulsões e demissões",
-      "link": "https://www.noticiasaominuto.com/mundo/3041966/migracoes-milhares-de-habitantes-de-ceuta-voltam-as-ruas-para-exigir-expulsoes-e-demissoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-08-26 23:44:48",
+      "title": "Incêndio destruiu restaurante Fuzelhas em Leça da Palmeira: \"Todo tomado\"",
+      "link": "https://www.noticiasaominuto.com/pais/3042133/incendio-destruiu-restaurante-fuzelhas-em-leca-da-palmeira-todo-tomado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-08-27 10:50:12",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a8f6c6cb1c11.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a900762915d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTI3LCJjcm9wSGVpZ2h0IjoxMDg0LCJjcm9wWCI6NTksImNyb3BZIjoyOTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExNTIsImNyb3BIZWlnaHQiOjIwNDgsImNyb3BYIjo3NzgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Oceanos atingem temperatura recorde: poderão estar tão quentes como há 125 mil anos",
-      "link": "https://pplware.sapo.pt/ciencia/oceanos-atingem-temperatura-recorde-poderao-estar-tao-quentes-como-ha-125-mil-anos/",
-      "pubDate": "Wed, 26 Aug 2026 21:30:21 +0000",
-      "description": "Os oceanos acabam de ultrapassar uma barreira histórica. A temperatura média diária da superfície do mar atingiu 21,1 ºC, o valor mais elevado registado pelos sistemas modernos de observação. Mas há um dado ainda&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/oceanos_aquecimento00.webp"
+      "title": "O seu carro pode estar a trabalhar para hackers. Malware Android infeta rádios automóveis",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/o-seu-carro-pode-estar-a-trabalhar-para-hackers-malware-android-infeta-radios-automoveis/",
+      "pubDate": "Thu, 27 Aug 2026 10:00:11 +0000",
+      "description": "O ecossistema automóvel está cada vez mais conectado, mas esta evolução técnica traz novos riscos. Uma investigação revelou que sistemas multimédia baseados em Android estão a ser comprometidos por malware. O objetivo não passa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/android_radio_malware.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Um padrão para todos os agentes de IA? A promessa e os riscos do Agent Plugins",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/um-padrao-para-todos-os-agentes-de-ia-a-promessa-e-os-riscos-do-agent-plugins/",
-      "pubDate": "Wed, 26 Aug 2026 20:30:10 +0000",
-      "description": "Uma nova aliança de gigantes tecnológicas acaba de lançar o Agent Plugins 1.0.0, um formato unificado que promete simplificar a criação e integração de agentes de inteligência artificial (IA). O que é o Agent&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/01/inteligencia_artificial_empresas.webp"
+      "title": "BYD com teto solar? Vidro fotovoltaico está pronto para chegar aos elétricos",
+      "link": "https://pplware.sapo.pt/informacao/byd-com-teto-solar-vidro-fotovoltaico-esta-pronto-para-chegar-aos-eletricos/",
+      "pubDate": "Thu, 27 Aug 2026 09:30:47 +0000",
+      "description": "Uma gigante chinesa do vidro automóvel, a Fuyao, terá confirmado que já tem capacidade para produzir em larga escala tetos solares com células fotovoltaicas integradas. A novidade surge depois de vários rumores associarem a&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/fuyao-teto-solar-painel-fotovoltaico2.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Esta bolacha nasceu de uma garrafa de plástico. E pode ajudar a alimentar astronautas",
-      "link": "https://pplware.sapo.pt/ciencia/esta-bolacha-nasceu-de-uma-garrafa-de-plastico-e-pode-ajudar-a-alimentar-astronautas/",
-      "pubDate": "Wed, 26 Aug 2026 19:30:02 +0000",
-      "description": "Parece uma ideia saída de um filme de ficção científica, pegar numa garrafa de plástico usada, juntar resíduos agrícolas e transformar tudo numa bolacha com proteínas, vitaminas e até aroma a baunilha. Contudo, é&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/bolacha_plastico00.webp"
+      "title": "Lembra-se do modelo de IA descontrolado da OpenAI? Foi pior do que se pensava",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/lembra-se-do-modelo-de-ia-descontrolado-da-openai-foi-pior-do-que-se-pensava/",
+      "pubDate": "Thu, 27 Aug 2026 08:58:50 +0000",
+      "description": "Um incidente grave revelou que um modelo experimental de inteligência artificial (IA) da OpenAI conseguiu contornar as restrições de segurança, aceder à internet e coordenar ataques cibernéticos sem qualquer intervenção humana. Agora, a empresa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/12/Sam-Altman-openai.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Dia Mundial do Cão: 6 gadgets que podem melhorar a vida do seu patudo (e a sua)",
-      "link": "https://pplware.sapo.pt/gadgets/dia-mundial-do-cao-6-gadgets-que-podem-melhorar-a-vida-do-seu-patudo-e-a-sua/",
-      "pubDate": "Wed, 26 Aug 2026 18:30:20 +0000",
-      "description": "Assinalado a 26 de agosto, o Dia Mundial do Cão é uma boa desculpa para celebrar os companheiros de quatro patas. Além disso, numa altura em que a tecnologia já está presente em praticamente&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/cao00.jpg"
+      "title": "Portugal vai ter comboio-hotel de luxo: conheça o Valverde Train",
+      "link": "https://pplware.sapo.pt/motores/portugal-vai-ter-comboio-hotel-de-luxo-conheca-o-valverde-train/",
+      "pubDate": "Thu, 27 Aug 2026 08:30:35 +0000",
+      "description": "A Alva Rail está a desenvolver o Valverde Train, um comboio-hotel de luxo que promete recuperar carruagens históricas da Comboios de Portugal (CP) e levar os passageiros a descobrir Portugal ao ritmo do chamado&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/comboio-luxo-IA.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Steal & Sell Simulator transforma roubos em negócio",
-      "link": "https://pplware.sapo.pt/jogos/steal-sell-simulator-transforma-roubos-em-negocio/",
-      "pubDate": "Wed, 26 Aug 2026 18:00:49 +0000",
-      "description": "E se, depois de cometer um assalto, em vez de simplesmente fugir com o dinheiro, tivéssemos de abrir uma loja para vender tudo o que conseguimos roubar? É precisamente esta combinação pouco convencional que&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/SaSS_1.jpg"
+      "title": "Lembra-se da BlackBerry? Regresso da marca pode acontecer ligado à robótica",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/lembra-se-da-blackberry-regresso-da-marca-pode-acontecer-ligado-a-robotica/",
+      "pubDate": "Thu, 27 Aug 2026 08:00:41 +0000",
+      "description": "A BlackBerry está longe de ser apenas uma memória dos telemóveis com teclado físico. A empresa canadiana encontrou um novo rumo estratégico e prepara agora uma das maiores transformações do mercado. Vai apostar fortemente&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/08/BlackBerry-storm-clouds.webp"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Carlos Sainz diz que Williams não consegue “lutar com a Aston Martin”",
+      "link": "https://www.autosport.pt/formula1/carlos-sainz-diz-que-williams-nao-consegue-lutar-com-a-aston-martin/",
+      "pubDate": "Thu, 27 Aug 2026 09:49:39 +0000",
+      "description": "A Williams começa a ver a Aston Martin aproximar-se do nono posto do campeonato de construtores, com o oitavo da Audi também perto. As evoluções da equipa de Silverstone começam a dar retorno e Carlos Sainz já mostrou alguns sinais de preocupação. Com os dois pontos conquistados por Fernando Alonso ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Preocupações da Mercedes afastam George Russell da luta pelo título?",
+      "link": "https://www.autosport.pt/formula1/preocupacoes-da-mercedes-afastam-george-russell-da-luta-pelo-titulo/",
+      "pubDate": "Thu, 27 Aug 2026 09:28:03 +0000",
+      "description": "George Russell poderá ter de se despedir prematuramente das suas aspirações ao título. As ordens de equipa no GP dos Países Baixos 2026 foram minimizadas, mas podem revelar uma mudança radical na postura da Mercedes, evidenciando receios de uma segunda metade de época mais difícil para as Flechas de",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Hyundai IONIQ V por 14.400 € (na China!…)",
+      "link": "https://www.autosport.pt/automais/hyundai-ioniq-v-por-14-400-e-na-china/",
+      "pubDate": "Thu, 27 Aug 2026 08:00:00 +0000",
+      "description": "Por José Caetano O IONIQ V é o automóvel de produção em série antecipado pelo VENUS Concept que a Hyundai apresentou em abril, em Pequim. Este modelo encontra-se em pré-venda na China, com preços a partir de 119.990 yuan (cerca de 14.400 € à taxa de câmbio atual), montante hipercompetitivo que expõe",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -319,36 +349,6 @@
       "link": "https://www.autosport.pt/formula1/f1-lando-norris-esta-a-pilotar-em-modo-campeao-do-mundo-diz-andrea-stella/",
       "pubDate": "Wed, 26 Aug 2026 14:55:24 +0000",
       "description": "Lando Norris venceu, domingo, o Grande Prémio dos Países Baixos, em Zandvoort, somando a segunda vitória consecutiva na Fórmula 1 depois do triunfo na Hungria e reforçando a confiança da McLaren no rumo da temporada. O britânico, que partiu da pole position, viu a liderança escapar-se após o segundo",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Pernilla Solberg defende nova era no WRC: “Tornar o desporto acessível é garantir a sustentabilidade dos ralis”",
-      "link": "https://www.autosport.pt/ralis/pernilla-solberg-defende-nova-era-no-wrc-tornar-o-desporto-acessivel-e-garantir-a-sustentabilidade-dos-ralis/",
-      "pubDate": "Wed, 26 Aug 2026 14:16:39 +0000",
-      "description": "Pernilla Solberg, mãe de Oliver Solberg, esposa de Petter Solberg, é atualmente a presidente da Comissão do Campeonato do Mundo de Ralis (WRC) da Federação Internacional do Automóvel (FIA). Em declarações ao Gypsy Tales Podcast falou, entre muitas outras coisas, da nova era do WRC e como era imperat",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Toyota Gazoo Racing conclui especificação final do novo carro para a era WRC27",
-      "link": "https://www.autosport.pt/destaque-homepage/toyota-gazoo-racing-conclui-especificacao-final-do-novo-carro-para-a-era-wrc27/",
-      "pubDate": "Wed, 26 Aug 2026 13:41:07 +0000",
-      "description": "A Toyota Gazoo Racing concluiu a terceira evolução do seu protótipo para o Campeonato do Mundo de Ralis de 2027, fixando a especificação final que será submetida à homologação da FIA. A pouco mais de quatro meses da estreia da nova regulamentação no Rali de Monte-Carlo, a estrutura japonesa — que em",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Mazda RX-Vision GT3 Evo: o desportivo de motor rotativo que continua preso ao mundo virtual",
-      "link": "https://www.autosport.pt/automais/mazda-rx-vision-gt3-evo-o-desportivo-de-motor-rotativo-que-continua-preso-ao-mundo-virtual/",
-      "pubDate": "Wed, 26 Aug 2026 13:29:00 +0000",
-      "description": "A Mazda, cerca de seis anos depois da estreia do RX-Vision GT3 Concept na consola de videojogos PlayStation da Sony, alimenta os sonhos dos adeptos dos motores rotativos!A marca de Hiroshima, Japão, continua sem sucessor para os desportivos RX-7 e RX-8, e também não transformou o Iconic SP Concept n",
       "thumbnail": ""
     }
   ]
