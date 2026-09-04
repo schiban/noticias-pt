@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-04T00:41:55.695150+00:00",
+  "updated": "2026-09-04T05:25:22.075434+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2373/",
-      "pubDate": "Fri, 04 Sep 2026 01:16:34 +0100",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2484/",
+      "pubDate": "Fri, 04 Sep 2026 06:15:28 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,41 +15,81 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "A esquerda \"sentadita\" à vista da realidade",
-      "link": "https://observador.pt/opiniao/a-esquerda-sentadita-a-vista-da-realidade/",
-      "pubDate": "Fri, 04 Sep 2026 00:25:58 +0100",
-      "description": "É o teste mais simples e mais devastador das utopias políticas. Quando os seus corifeus recusam para si o risco que distribuem generosamente pela plebe, a hipocrisia fica exposta.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1082%3A1081%3Anowe%3A120%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F23154315%2Feugravata.jpg"
+      "title": "No meio da azáfama da Feira há um espaço onde tudo abranda",
+      "link": "https://observador.pt/programas/a-nossa-cultura/no-meio-da-azafama-da-feira-ha-um-espaco-onde-tudo-abranda/",
+      "pubDate": "Fri, 04 Sep 2026 06:02:45 +0100",
+      "description": "No meio da Feira, é possível encontrar silêncio. A Sírculos, parceiro de inclusão, criou um espaço de regulação sensorial e disponibiliza kits que ajudam a controlar os estímulos ,como excesso de luz.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/10120711/770-podcast-a-nossa-cultura-radio-observador-viseu-1.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Salvador, esta é a tua casa",
-      "link": "https://observador.pt/opiniao/salvador-esta-e-a-tua-casa/",
-      "pubDate": "Fri, 04 Sep 2026 00:23:48 +0100",
-      "description": "A vida tem muitas nuances, mas é difícil imaginar uma circunstância em que seja errado dizer a alguém: independentemente do que tens ou do que és, esta é a tua casa.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A0%3A173%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F09152750%2Fjoao-basto.jpeg"
+      "title": "Sesta: ajuda a descansar ou está a estragar-lhe o sono?",
+      "link": "https://observador.pt/programas/tratar-da-saude/sesta-ajuda-a-descansar-ou-esta-a-estragar-lhe-o-sono/",
+      "pubDate": "Fri, 04 Sep 2026 06:02:17 +0100",
+      "description": "Há quem não abdique da sesta depois do almoço e quem fuja dela para conseguir dormir à noite. Afinal, quanto tempo devemos dormir e qual é a melhor hora para descansar sem prejudicar o sono?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/30205044/tratar-da-saude770-podcast-tratar-da-saude.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "A sociedade que odeia crianças",
-      "link": "https://observador.pt/opiniao/a-sociedade-que-odeia-criancas/",
-      "pubDate": "Fri, 04 Sep 2026 00:21:29 +0100",
-      "description": "Uma mulher que abranda a carreira por um filho \"abdicou de si própria\". Uma que abdica do filho pela carreira \"escolheu a liberdade\".",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A472%3A472%3Anowe%3A0%3A104%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F03%2F30180649%2Fgoncalogalvaogomes.jpg"
+      "title": "Os segredos do recorde surpresa de Giorgia Meloni",
+      "link": "https://observador.pt/programas/a-hist-ria-do-dia/os-segredos-do-recorde-surpresa-de-giorgia-meloni/",
+      "pubDate": "Fri, 04 Sep 2026 05:03:52 +0100",
+      "description": "Giorgia Meloni bate um recorde de longevidade política em Itália. José Carlos Duarte explica como moderou a imagem, segurou a coligação e se tornou uma figura central na Europa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "00h. Justiça contradiz Neves sobre custo de destruir bidões",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2410/",
-      "pubDate": "Fri, 04 Sep 2026 00:17:10 +0100",
-      "description": "Ministério da Justiça não sabe quantos bidões ou processos estavam incluídos no valor. Ainda, há ainda cinco processos na Justiça que envolvem o ministro da Administração Interna.",
+      "title": "4h. Preço do petróleo sobe com a tensão no Médio Oriente",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2391/",
+      "pubDate": "Fri, 04 Sep 2026 04:14:53 +0100",
+      "description": "Valores seguem a caminho do maior aumento semanal desde meados de julho, com o barrtil de Brent a registar uma subida de cerca de 15 cêntimos. Ainda, arranca esta sexta-feira A Festa do Avante!",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "5h Milei volta a pressionar Reino Unido sobre ilhas Malvinas",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-milei-volta-a-pressionar-reino-unido-sobre-ilhas-malvinas_a1_1763312",
+      "pubDate": "Fri, 04 Sep 2026 06:31:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "4h Açores assinalam 50 anos de autonomia com cerimónia na Horta",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-acores-assinalam-50-anos-de-autonomia-com-cerimonia-na-horta_a1_1763311",
+      "pubDate": "Fri, 04 Sep 2026 05:14:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Ministério das Finanças aprovou a contratação de enfermeiros",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ministerio-das-financas-aprovou-a-contratacao-de-enfermeiros_a1_1763309",
+      "pubDate": "Fri, 04 Sep 2026 04:31:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Lula da Silva quer investigação sobre caso de corrupção que envolve juíz",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-lula-da-silva-quer-investigacao-sobre-caso-de-corrupcao-que-envolve-juiz_a1_1763308",
+      "pubDate": "Fri, 04 Sep 2026 04:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Fri, 04 Sep 2026 02:25:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "0h O ministério das Finanças já aprovou a contratação de enfermeiros para os hospitais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-o-ministerio-das-financas-ja-aprovou-a-contratacao-de-enfermeiros-para-os-hospitais_a1_1763303",
-      "pubDate": "Fri, 04 Sep 2026 02:00:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Brasil reage às restrições da UE à entrada de carne brasileira",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-brasil-reage-as-restricoes-da-ue-a-entrada-de-carne-brasileira_a1_1763301",
-      "pubDate": "Fri, 04 Sep 2026 01:22:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Volkswagen prevê cortar mais de 50 mil postos de trabalho, em todo o grupo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-volkswagen-preve-cortar-mais-de-50-mil-postos-de-trabalho-em-todo-o-grupo_a1_1763292",
-      "pubDate": "Thu, 03 Sep 2026 23:25:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Governo apela à consciência individual para prevenir fogos",
-      "link": "https://www.rtp.pt/noticias/pais/governo-apela-a-consciencia-individual-para-prevenir-fogos_n1763290",
-      "pubDate": "Thu, 03 Sep 2026 23:20:00 +0100",
-      "description": "O secretário de Estado da Proteção Civil apelou hoje para que sejam evitados comportamentos de risco de incêndio e alertou para a dificuldade acrescida no combate quando acontecem várias ignições quase em simultâneo, como aconteceu em Boticas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5f8eb13b05aa618142f679eb89bfeca?w=350&amp;q=50&amp;rect=0,303,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
