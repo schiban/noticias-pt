@@ -1,63 +1,83 @@
 {
-  "updated": "2026-09-05T04:46:34.079166+00:00",
+  "updated": "2026-09-05T08:46:47.339294+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "4h. Enviados dos EUA levam plano de paz à Rússia e Ucrânia",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2392/",
-      "pubDate": "Sat, 05 Sep 2026 04:17:00 +0100",
-      "description": "Steve Witkoff e Jared Kushner vão primeiro a Moscovo e depois a Kiev. Encontram-se com Putin no sábado e com Zelensky no domingo. Ainda, Reform UK denunciado por alegados donativos ilegais.",
+      "title": "Temporada Gulbenkian Música abre com concerto ao ar livre",
+      "link": "https://observador.pt/2026/09/05/temporada-gulbenkian-musica-abre-com-concerto-ao-ar-livre-no-vale-do-silencio-em-lisboa/",
+      "pubDate": "Sat, 05 Sep 2026 09:40:11 +0100",
+      "description": "Até junho de 2027, a temporada vai somar mais de 120 concertos e apresentar quatro obras em estreia. Os primeiros concertos no Grande Auditório, na sede da fundação em Lisboa, realizam-se dias 9 e 12.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:266:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/05093654/orquestra-gulbenkian.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Cédric Kahn e como subir o nível da competição",
+      "link": "https://observador.pt/2026/09/05/cedric-kahn-sobe-o-nivel-da-competicao-em-dia-de-graves-transtornos-psicologicos/",
+      "pubDate": "Sat, 05 Sep 2026 09:21:06 +0100",
+      "description": "Certezas: “15/18” é o filme mais forte deste princípio de Festival de Veneza. Ao mesmo tempo, Paul Schrader e Shinya Tsukamoto mergulham no trauma.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3100:1740:nowe:0:235/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/05091118/1518-1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "9h. SNS abandona meta de dar médicos de família a todos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2461/",
+      "pubDate": "Sat, 05 Sep 2026 09:16:40 +0100",
+      "description": "Taxa de uten­tes com médico de famí­lia vai man­ter-se nos 85%, sem qual­quer pers­pe­tiva de melho­ria. Ainda, hoje Benfica visita Marítimo e Sporting recebe em Alvalade o Nacional da Madeira.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "ZERO. \"É preciso transparência sobre os voos noturnos\"",
-      "link": "https://observador.pt/programas/resposta-pronta/zero-expansao-do-aeroporto-dificilmente-sera-viavel/",
-      "pubDate": "Sat, 05 Sep 2026 04:02:55 +0100",
-      "description": "A associação ambientalista ZERO pede à ANAC e ao Governo que publiquem regularmente os dados sobre voos noturnos, infrações e coimas. Acácio Pires alerta para o impacto do ruído na saúde.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "3h. Tribunal chumbou uso de bens arrestados a Xuxas pela PJ",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2427/",
-      "pubDate": "Sat, 05 Sep 2026 03:17:34 +0100",
-      "description": "Tribunal Central de Investigação Criminal considerou inválido despacho de Luís Neves. Ainda, Ministério das Finanças diz que subida do rating pela agência Fitch iguala Portugal a França e Bélgica.",
+      "title": "8h.Finanças. Fitch põe Portugal ao nível de França e Bélgica",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2509/",
+      "pubDate": "Sat, 05 Sep 2026 08:13:39 +0100",
+      "description": "Ministério das Finanças sublinha que decisão mostra confiança dos investidores internacionais na economia portuguesa. Ainda, Montenegro acusa Chega de apresentar uma moção de censura \"sem sentido\".",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. PM considera legítima, mas sem sentido moção do Chega",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2401/",
-      "pubDate": "Sat, 05 Sep 2026 02:16:37 +0100",
-      "description": "Luís Montenegro só volta a falar de Luís Neves no debate da moção de censura. Ainda nesta edição, secretário-geral do PS acusa Governo de lucrar com combustíveis à custa do sacrifício dos portugueses.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "1h. Governo: Fitch põe Portugal ao nível de França e Bélgica",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2374/",
-      "pubDate": "Sat, 05 Sep 2026 01:15:15 +0100",
-      "description": "Ministério das Finanças diz que a decisão demonstra a confiança dos investidores na economia portuguesa. Ainda, primeiro-ministro considera legítima, mas sem sentido, a moção de censura do Chega.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "João Luís, o contador de histórias das duas rodas",
+      "link": "https://observador.pt/programas/conversas-do-fim-do-mundo/joao-luis-o-contador-de-historias-das-duas-rodas/",
+      "pubDate": "Sat, 05 Sep 2026 08:05:16 +0100",
+      "description": "João Luís viaja de moto há mais de 20 anos. Portugal-Índia e uma viagem até Angola, descendo pela costa leste de África, depois de passar pelo Médio Oriente fazem parte do seu currículo.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "04h Vigília em memória das vítimas das cheias do Nepal este sábado em Coimbra",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/04h-vigilia-em-memoria-das-vitimas-das-cheias-do-nepal-este-sabado-em-coimbra_a1_1763511",
-      "pubDate": "Sat, 05 Sep 2026 05:44:02 +0100",
+      "title": "Explosão em instalação militar causa pelo menos dois mortos e 80 feridos na Bolívia",
+      "link": "https://www.rtp.pt/noticias/mundo/explosao-em-instalacao-militar-causa-pelo-menos-dois-mortos-e-80-feridos-na-bolivia_n1763506",
+      "pubDate": "Sat, 05 Sep 2026 10:08:31 +0100",
+      "description": "Pelo menos duas pessoas morreram e dezenas ficaram feridas, entre civis e militares, após uma explosão num quartal militar no município boliviano de Viacha, a cerca de 30 quilómetros de La Paz, informou o ministro da Defesa, Ernesto Justiniano.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d68280a2018fc207260ee8133c628b3?w=350&amp;q=50&amp;rect=0,94,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Universidade de Cambridge anuncia investigação independente após morte de Jason Arday",
+      "link": "https://www.rtp.pt/noticias/mundo/universidade-de-cambridge-anuncia-investigacao-independente-apos-morte-de-jason-arday_n1763501",
+      "pubDate": "Sat, 05 Sep 2026 09:45:13 +0100",
+      "description": "A Universidade de Cambridge anunciou hoje o início de uma investigação independente após a morte do professor britânico Jason Arday, que renunciou ao cargo na prestigiada instituição após uma campanha de ódio nas redes sociais por alegado plágio.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/89/89abc4befeb56843810a28667b6f105b?w=350&amp;q=50&amp;rect=0,16,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "08h Arranca hoje a nova temporada de música da Gulbenkian",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-arranca-hoje-a-nova-temporada-de-musica-da-gulbenkian_a1_1763517",
+      "pubDate": "Sat, 05 Sep 2026 09:43:01 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,51 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "03h Cinco jogos cinco vitórias. FC Porto vence Moreirense por 2-1",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/03h-cinco-jogos-cinco-vitorias-fc-porto-vence-moreirense-por-2-1_a1_1763510",
-      "pubDate": "Sat, 05 Sep 2026 05:41:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Novo ataque israelita no sul do Líbano",
+      "link": "https://www.rtp.pt/noticias/mundo/novo-ataque-israelita-no-sul-do-libano_n1763500",
+      "pubDate": "Sat, 05 Sep 2026 09:30:38 +0100",
+      "description": "O exército israelita voltou a atacar o sul do Líbano após o Hezbollah lançar um ataque com drone contra soldados israelitas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/61/61b29c8a049d5ce92a45399364c715ba?w=350&amp;q=50&amp;rect=0,157,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "02h PS defende descida do IVA nos combustíveis e bens alimentares",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/02h-ps-defende-descida-do-iva-nos-combustiveis-e-bens-alimentares_a1_1763508",
-      "pubDate": "Sat, 05 Sep 2026 03:39:02 +0100",
+      "title": "06h PS acusa o Governo de  lucrar com os aumentos dos preços dos combustíveis",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/06h-ps-acusa-o-governo-de-lucrar-com-os-aumentos-dos-precos-dos-combustiveis_a1_1763515",
+      "pubDate": "Sat, 05 Sep 2026 07:43:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "1h Coimbra promove uma vigília em memória das vítimas da enxurrada no Nepal",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-coimbra-promove-uma-vigilia-em-memoria-das-vitimas-da-enxurrada-no-nepal_a1_1763505",
-      "pubDate": "Sat, 05 Sep 2026 02:53:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "FC Porto: protocolo afasta Froholdt do jogo com o Manchester City",
+      "link": "https://maisfutebol.iol.pt/fc-porto/victor-froholdt/protocolo-afasta-froholdt-do-jogo-com-o-manchester-city-para-a-liga-dos-campeoes",
+      "pubDate": "Sat, 5 Sep 2026 09:39:00 +0100",
+      "description": "Internacional dinamarquês sofreu uma concussão cerebral no encontro com o Moreirense",
+      "thumbnail": "https://img.iol.pt/image/id/6a9b3cf9d34ed0733ba83799/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "0h As Nações Unidas aprovam um novo mapa-mundo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-as-nacoes-unidas-aprovam-um-novo-mapa-mundo_a1_1763504",
-      "pubDate": "Sat, 05 Sep 2026 01:35:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Joga Barrenechea ou Palhinha? Os onzes prováveis para o Marítimo-Benfica",
+      "link": "https://maisfutebol.iol.pt/liga/benfica/joga-barrenechea-ou-palhinha-os-onzes-provaveis-para-o-maritimo-benfica",
+      "pubDate": "Sat, 5 Sep 2026 09:37:00 +0100",
+      "description": "Só há uma dúvida na equipa encarnada para o duelo desta tarde",
+      "thumbnail": "https://img.iol.pt/image/id/6a95f055d34e511da0b36427/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/liga/hoje-vai-ser-noticia-178859520",
+      "pubDate": "Sat, 5 Sep 2026 09:00:00 +0100",
+      "description": "Sporting e Benfica jogam para a quinta jornada da Liga",
+      "thumbnail": "https://img.iol.pt/image/id/697fb13ed34e92a344984895/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -120,36 +150,6 @@
       "pubDate": "Sat, 5 Sep 2026 01:37:00 +0100",
       "description": "O que de mais importante está a acontecer num único local",
       "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Mercado fechou em Portugal: todas as entradas e saídas da Liga",
-      "link": "https://maisfutebol.iol.pt/liga/mercado/se-e-oficial-esta-aqui-todas-as-entradas-e-saidas-da-liga",
-      "pubDate": "Sat, 5 Sep 2026 00:42:00 +0100",
-      "description": "Todas as transferências oficiais dos 18 clubes da Liga para 2026/27",
-      "thumbnail": "https://img.iol.pt/image/id/6a972a29d34ed0733ba82f66/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Roko Jurisic reforça defesa do Estoril",
-      "link": "https://maisfutebol.iol.pt/liga/estoril/oficial-roko-jurisic-reforca-defesa-do-estoril",
-      "pubDate": "Sat, 5 Sep 2026 00:40:25 +0100",
-      "description": "Lateral croata de 24 anos fica com um contrato válido até junho de 2029",
-      "thumbnail": "https://img.iol.pt/image/id/6a9b55b9d34ed0733ba837e9/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "OFICIAL: Casa Pia recebe central por empréstimo do FC Porto",
-      "link": "https://maisfutebol.iol.pt/liga/casa-pia/oficial-casa-pia-recebe-central-por-emprestimo-do-fc-porto",
-      "pubDate": "Sat, 5 Sep 2026 00:36:26 +0100",
-      "description": "Felipe Silva alinhava na equipa B dos dragões",
-      "thumbnail": "https://img.iol.pt/image/id/6a9b54b1d34ed0733ba837e6/250"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,81 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Boris ou Sara? Saiba quem venceu o \"Big Brother Verão\"",
-      "link": "https://www.noticiasaominuto.com/fama/3046724/boris-ou-sara-saiba-quem-venceu-o-big-brother-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-05 00:57:15",
+      "title": "Ucrânia: 4 mortos em ataque contra empresa industrial em Dnipropetrovsk",
+      "link": "https://www.noticiasaominuto.com/mundo/3046780/ucrania-4-mortos-em-ataque-contra-empresa-industrial-em-dnipropetrovsk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-05 09:36:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a42118ad9f01.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9bd38646b1f.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Mercado de transferências fecha oficialmente em Portugal",
-      "link": "https://www.noticiasaominuto.com/desporto/3046456/em-direto-mercado-de-transferencias-fecha-daqui-a-oito-horas-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-05 00:00:18",
+      "title": "\"A pressa de não sentir\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3046779/a-pressa-de-nao-sentir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-05 09:34:20",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9add1b8e2f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MTc0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NTQsImNyb3BIZWlnaHQiOjEzNDAsImNyb3BYIjoxNTcsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a71e13a36ef1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MjcsImNyb3BIZWlnaHQiOjQ2NSwiY3JvcFgiOjEyLCJjcm9wWSI6MjI1fSwic3RhbXAiOnsiY2F0ZWdvcnkiOiJtaXNjIiwibGFiZWwiOiJhcnRpZ29fZGVfb3BpbmlhbyIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EUA afundam embarcação alegadamente envolvida no tráfico de droga",
-      "link": "https://www.noticiasaominuto.com/mundo/3046703/eua-afundam-mais-uma-embarcacao-alegadamente-envolvida-no-trafico-de-droga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-04 23:53:19",
+      "title": "\"Gosto de Ruben Amorim. É exigente, mas fora de campo é gentil\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3046770/gosto-de-ruben-amorim-e-exigente-mas-fora-de-campo-e-gentil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-05 09:21:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681913a53bd93.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9bca5b3bf59.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6MjcsImNyb3BZIjoyM319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cambridge anuncia investigação independente após morte de Jason Arday",
-      "link": "https://www.noticiasaominuto.com/mundo/3046701/universidade-de-cambridge-anuncia-investigacao-independente-apos-morte-de-jason-arday#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-04 23:46:45",
+      "title": "MP já pediu a Câmara de Odemira dados sobre obra em monte de Luís Neves",
+      "link": "https://www.noticiasaominuto.com/pais/3046775/mp-ja-pediu-a-camara-de-odemira-dados-sobre-obra-em-monte-de-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-05 09:03:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7f7e5652635.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ4NiwiY3JvcEhlaWdodCI6ODY0LCJjcm9wWCI6NTI4LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9bcddf8714c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carlos Alcaraz bate Wu e segue para os oitavos de final do US Open",
-      "link": "https://www.noticiasaominuto.com/desporto/3046645/carlos-alcaraz-bate-wu-e-segue-para-os-oitavos-de-final-do-us-open#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-04 23:38:58",
+      "title": "Isabela Cardinali mostra estado do rosto (que escondeu) após divórcio",
+      "link": "https://www.noticiasaominuto.com/fama/3044879/isabela-cardinali-mostra-estado-do-rosto-que-escondeu-apos-divorcio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-05 09:00:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9b30a210c80.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTUsImNyb3BIZWlnaHQiOjE2OTgsImNyb3BYIjo3OTUsImNyb3BZIjotMX19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a973ecc1db80.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1NjAsImNyb3BIZWlnaHQiOjMxNSwiY3JvcFgiOjgsImNyb3BZIjozMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjA5LCJjcm9wSGVpZ2h0IjozNzEsImNyb3BYIjoyOTIsImNyb3BZIjoyMH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Adeus Chrome e Edge? Teste revela o browser mais eficiente na memória e bateria",
+      "link": "https://pplware.sapo.pt/browsers/adeus-chrome-e-edge-teste-revela-o-browser-mais-eficiente-na-memoria-e-bateria/",
+      "pubDate": "Sat, 05 Sep 2026 08:00:26 +0000",
+      "description": "A batalha pela liderança no segmento dos browser continua ao rubro, com o domínio de opções consolidadas a ser frequentemente colocado à prova. Uma nova bateria de testes veio reacender o debate em torno&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/brave_browsers_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "WhatsApp deixa de funcionar nestes smartphones Android: o seu está na lista?",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/whatsapp-deixa-de-funcionar-nestes-smartphones-android-saiba-se-o-seu-esta-na-lista/",
+      "pubDate": "Sat, 05 Sep 2026 07:00:25 +0000",
+      "description": "O WhatsApp prepara-se para cortar o suporte a uma vasta gama de smartphones antigos com o Android. A Meta confirmou que a aplicação de mensagens mais popular do planeta deixará de operar em todos&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/whatsapp_plus_lancado_1.jpg"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Sistema Volta ganha 12 novos quiosques para recolha de embalagens em restaurantes e hotéis",
+      "link": "https://pplware.sapo.pt/informacao/sistema-volta-ganha-12-novos-quiosques-para-recolha-de-embalagens-em-restaurantes-e-hoteis/",
+      "pubDate": "Sat, 05 Sep 2026 06:00:33 +0000",
+      "description": "A SDR Portugal está a reforçar a rede de recolha do sistema Volta, apostando em soluções pensadas especificamente para restaurantes, cafés e hotéis. Seis novos quiosques já estão operacionais e outros seis seguem em&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/quiosque-volta.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,34 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/wallet_carteira-2.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Amazon: descontos de hoje que vale a pena espreitar!",
-      "link": "https://pplware.sapo.pt/gadgets/amazon-descontos-de-hoje-que-vale-a-pena-espreitar/",
-      "pubDate": "Fri, 04 Sep 2026 19:12:51 +0000",
-      "description": "A Amazon apresenta descontos com frequência, mas nem sempre mostra verdadeiras oportunidades. Assim sendo, reunimos alguns gadgets e acessórios com bons descontos, seja para quem anda a namorar ou a adiar a compra de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/08/PixelBuds2a-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "ONU aprova novo mapa do mundo: o desenho que usamos há séculos estava errado?",
-      "link": "https://pplware.sapo.pt/ciencia/onu-aprova-novo-mapa-do-mundo-o-desenho-que-usamos-ha-seculos-estava-errado/",
-      "pubDate": "Fri, 04 Sep 2026 18:00:16 +0000",
-      "description": "A Assembleia Geral das Nações Unidas aprovou esta sexta-feira uma resolução histórica que vai mudar a forma como vemos o mapa-múndi. Chega ao fim o reinado de mais de 450 anos da projeção de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/mundo-planeta-mapa-1-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "El Niño está a ganhar força e pode prolongar-se até 2027. O que significa?",
-      "link": "https://pplware.sapo.pt/ciencia/el-nino-esta-a-ganhar-forca-e-pode-prolongar-se-ate-2027-o-que-significa/",
-      "pubDate": "Fri, 04 Sep 2026 17:00:12 +0000",
-      "description": "As águas do Pacífico tropical estão excecionalmente quentes e alimentam um episódio de El Niño que deverá atingir uma intensidade muito forte até ao final de 2026. O fenómeno pode aumentar o risco de&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/el_nino27_00.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Luís Miguel Rego lidera Volta à Ilha de São Miguel com vantagem confortável",
+      "link": "https://www.autosport.pt/ralis/luis-miguel-rego-lidera-volta-a-ilha-de-sao-miguel-com-vantagem-confortavel/",
+      "pubDate": "Fri, 04 Sep 2026 23:01:00 +0000",
+      "description": "Luís Miguel Rego e José Janela fecharam a primeira etapa da 59.ª Volta à Ilha de São Miguel – by Azores Rallye na frente da classificação geral, registando uma vantagem de 36,2 segundos sobre a dupla Bruno Amaral e Paulo Silva. Aos comandos de um Škoda Fabia RS Rally2, o já campeão açoriano de ralis",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/ralis/elfyn-evans-lamenta-abordagem-conservadora-no-paraguai-e-ve-lideranca-encurtar-no-wrc/",
       "pubDate": "Fri, 04 Sep 2026 15:33:23 +0000",
       "description": "Elfyn Evans admitiu que adotou uma estratégia demasiado conservadora no Rali do Paraguai, após ver a sua vantagem no Campeonato do Mundo de Ralis encurtar para 20 pontos a três provas do fim. O piloto britânico terminou a oitava ronda da temporada na quarta posição, a 45,1 segundos do vencedor e col",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Kia antecipa estreia do PV7",
-      "link": "https://www.autosport.pt/automais/kia-antecipa-estreia-do-pv7/",
-      "pubDate": "Fri, 04 Sep 2026 15:18:00 +0000",
-      "description": "É o segundo modelo da gama de comerciais 100% elétricos baseados na Platform Beyond Vehicle (PBV), posiciona-se acima do PV5 e propõe ainda mais espaço e versatilidade. O Kia PV7 tem estreia mundial marcada para dia 14, no IAA Transportation de Hannover, na Alemanha. A Kia divulgou as primeiras imag",
       "thumbnail": ""
     }
   ]
