@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-06T19:22:34.172656+00:00",
+  "updated": "2026-09-06T21:31:25.003278+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 20h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2045/",
-      "pubDate": "Sun, 06 Sep 2026 20:11:04 +0100",
+      "title": "Líder do Partido Comunista Francês candidato à presidência",
+      "link": "https://observador.pt/2026/09/06/lider-do-partido-comunista-frances-anuncia-candidatura-as-presidenciais-de-2027/",
+      "pubDate": "Sun, 06 Sep 2026 22:24:32 +0100",
+      "description": "O líder do Partido Comunista Francês, Fabien Roussel, será candidato às eleições presidenciais de 2027, que definirão o sucessor de Emmanuel Macron.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/06215203/47669988.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ucrânia pondera legalizar pornografia para aumentar receitas",
+      "link": "https://observador.pt/2026/09/06/ucrania-pondera-legalizar-industria-pornografica-para-aumentar-receitas-para-a-guerra/",
+      "pubDate": "Sun, 06 Sep 2026 22:18:42 +0100",
+      "description": "Projeto de lei para legalizar o setor já foi aprovado na generalidade. Deputado que apresentou iniciativa estima que receitas da indústria pornográfica poderiam levar à compra de 30 mil drones.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/19151901/43936570.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 22h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1859/",
+      "pubDate": "Sun, 06 Sep 2026 22:12:02 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,151 +35,141 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Se PS viabilizar OE dá espaço para Governo \"elevar ataque\"",
-      "link": "https://observador.pt/2026/09/06/paulo-raimundo-se-ps-viabilizar-orcamento-da-espaco-ao-governo-para-elevar-o-ataque/",
-      "pubDate": "Sun, 06 Sep 2026 19:36:34 +0100",
-      "description": "Na Festa do Avante, o secretário-geral do PCP defendeu que se o PS viabilizar o Orçamento do Estado estará a dar condições ao Governo para \"elevar o ataque\", libertando o Chega de ter de o fazer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:207/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/04200139/47716728.jpg"
+      "title": "Encontrado corpo de jovem desaparecido na Doca de Alcântara",
+      "link": "https://observador.pt/2026/09/06/encontrado-no-tejo-corpo-de-jovem-desaparecido-na-doca-de-alcantara/",
+      "pubDate": "Sun, 06 Sep 2026 22:11:51 +0100",
+      "description": "O corpo do jovem de 23 anos desaparecido desde quarta-feira na Doca de Alcântara, em Lisboa, foi encontrado no rio Tejo. Familiares da vítima estão a receber apoio.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/06221239/41916436.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Pastores reclamam pagamentos face a ataques de lobos",
-      "link": "https://observador.pt/2026/09/06/pastores-reclamam-pagamentos-atempados-face-a-ataques-de-lobos/",
-      "pubDate": "Sun, 06 Sep 2026 19:26:42 +0100",
-      "description": "Mais de meia centena de pastores do Planalto Mirandês reclamam ao Governo pagamentos atempados devido aos ataques de lobos que têm acontecido nos últimos anos.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:177/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/06185921/47725707.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Os ares de Viseu não mudaram a tendência do clássico",
-      "link": "https://observador.pt/2026/09/06/os-ares-de-viseu-nao-mudaram-a-tendencia-do-classico-benfica-goleia-fc-porto-e-iguala-1o-dezembro-como-equipa-mais-titulada-de-portugal/",
-      "pubDate": "Sun, 06 Sep 2026 19:13:54 +0100",
-      "description": "A época mudou, mas Viseu trouxe o que já se tinha visto no Jamor: Benfica dominou FC Porto, apesar de ter sido surpreendido a espaços, e reconquistou a Supertaça com naturalidade, com goleada (5-1).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/06185809/doc2026090647726613pn5746260906-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 19h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2161/",
-      "pubDate": "Sun, 06 Sep 2026 19:12:17 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Amorim quer provar o contrário mas ainda falta um bocadinho",
+      "link": "https://observador.pt/2026/09/06/dizem-que-nao-sao-candidatos-amorim-quer-provar-o-contrario-mas-ainda-falta-um-bocadinho-juventus-empata-com-ac-milan-nos-descontos/",
+      "pubDate": "Sun, 06 Sep 2026 21:46:31 +0100",
+      "description": "Francisco Conceição teve três boas oportunidades, acertou no poste mas mexidas de Amorim mudaram a partida, com Cissé a marcar a dar vantagem ao AC Milan antes do empate de Gatti nos descontos (1-1).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/06214329/ruben-amorim-1.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Gil Vicente - Académico de Viseu",
-      "link": "https://www.rtp.pt/noticias/desporto/gil-vicente-academico-de-viseu_e1763698",
-      "pubDate": "Sun, 06 Sep 2026 21:21:01 +0100",
-      "description": "Registo em direto dos principais lances desta partida da 5.ª jornada da I Liga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b872877225f5271056c1c87d4b52a033?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Alcaraz nos quartos de final do US Open",
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/alcaraz-nos-quartos-de-final-do-us-open_d1763755",
+      "pubDate": "Sun, 06 Sep 2026 23:09:30 +0100",
+      "description": "O espanhol Carlos Alcaraz, detentor do título, apurou-se para os quartos de final do Open dos Estados Unidos, quarto e último Grand Slam da temporada, depois de vencer norte-americano Tommy Paul em apenas três sets.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/79/7934cb37927e02c7d11e50a12fac07c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "União de Leiria sobe ao quinto lugar",
-      "link": "https://www.rtp.pt/noticias/futebol-nacional/uniao-de-leiria-sobe-ao-quinto-lugar_d1763742",
-      "pubDate": "Sun, 06 Sep 2026 21:19:41 +0100",
-      "description": "Um golo solitário de José Nabil Ondó, aos 44 minutos, garantiu a vitória da União de Leiria sobre o Portimonense, por 1-0, na quinta jornada da II Liga, que permitiu aos leirienses ultrapassarem os algarvios.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0bdd9b4865f604f750fae5f499a1329b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Von der Leyen chega à Gronelândia com \"pacote de medidas substancial\"",
+      "link": "https://www.rtp.pt/noticias/mundo/von-der-leyen-chega-a-gronelandia-com-pacote-de-medidas-substancial_n1763717",
+      "pubDate": "Sun, 06 Sep 2026 23:09:26 +0100",
+      "description": "A presidente da Comissão Europeia, Ursula von der Leyen, chegou hoje à Gronelândia levando &quot;um pacote de medidas substancial&quot;, numa visita em que pretende reafirmar o compromisso da UE com o território autónomo dinamarquês ameaçado pela administração Trump.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "EUA, Kiev e parceiros europeus acordam nova reunião nas próximas semanas",
-      "link": "https://www.rtp.pt/noticias/mundo/eua-kiev-e-capitais-europeias-acordam-nova-reuniao-nas-proximas-semanas_n1763729",
-      "pubDate": "Sun, 06 Sep 2026 21:16:16 +0100",
-      "description": "O Presidente ucraniano adiantou que esta nova reunião poderá ter lugar nas próximas semanas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3b5c47ade63e1b1d206f05a792852bab?w=350&amp;q=50&amp;rect=0,38,1500,822&amp;auto=format"
+      "title": "Pianista Maria João Pires anuncia academia `online` com residências em Belgais",
+      "link": "https://www.rtp.pt/noticias/cultura/pianista-maria-joao-pires-anuncia-academia-online-com-residencias-em-belgais_n1763726",
+      "pubDate": "Sun, 06 Sep 2026 23:05:08 +0100",
+      "description": "Maria João Pires é a mais reputada dos pianistas portugueses, com uma carreira que remonta a finais da década de 1940, quando aos 4 anos se apresentou pela primeira vez em público.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5ed7b83b59db42572758f3af178cac0e?w=350&amp;q=50&amp;rect=0,0,1197,656&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Turcas bicampeãs europeias de voleibol",
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/turcas-bicampeas-europeias-de-voleibol_d1763739",
-      "pubDate": "Sun, 06 Sep 2026 20:54:18 +0100",
-      "description": "A seleção de voleibol feminino da Turquia recuperou de duas desvantagens para vencer a Itália por 3-2 e sagrar-se bicampeã europeia, após emocionante final em Istambul.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/035c193bf6b3898408eb373f5e281024?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "AfD reclama \"mandato claro para governar\" estado alemão de Saxónia-Anhalt",
+      "link": "https://www.rtp.pt/noticias/mundo/afd-reclama-mandato-claro-para-governar-estado-alemao-de-saxonia-anhalt_n1763725",
+      "pubDate": "Sun, 06 Sep 2026 23:02:40 +0100",
+      "description": "A co-líder do partido de extrema-direita Alternativa para a Alemanha (AfD), Alice Weidel, celebrou o resultado &quot;histórico&quot; obtido hoje nas eleições regionais na Saxónia-Anhalt, estimado em 44%, que considerou &quot;um mandato claro para governar&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Benfica conquista Supertaça feminina de futebol",
-      "link": "https://www.rtp.pt/noticias/benfica/benfica-conquista-supertaca-feminina-de-futebol_d1763738",
-      "pubDate": "Sun, 06 Sep 2026 20:48:42 +0100",
-      "description": "O Benfica conquistou a Supertaça feminina pela quarta vez, depois de golear o estreante FC Porto, por 5-1, em jogo disputado no Estádio Municipal do Fontelo, em Viseu.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/92a7f4edeb0e64535075eb7daf7a2c94?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Governo Trump renova apelo junto do Supremo para restrições a voto por correspondência",
+      "link": "https://www.rtp.pt/noticias/mundo/governo-trump-renova-apelo-junto-do-supremo-para-restricoes-a-voto-por-correspondencia_n1763721",
+      "pubDate": "Sun, 06 Sep 2026 23:02:12 +0100",
+      "description": "O Governo de Donald Trump renovou hoje o seu recurso junto do Supremo Tribunal norte-americano, depois de um juiz federal ter bloqueado novas restrições ao voto por correspondência antes das eleições intercalares de novembro.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "V. Guimarães-Casa Pia, 0-0 (crónica)",
-      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/v-guimaraes-casa-pia-0-0-cronica",
-      "pubDate": "Sun, 6 Sep 2026 20:12:58 +0100",
-      "description": "De um azar, uma estreia que segura o primeiro ponto",
-      "thumbnail": "https://img.iol.pt/image/id/6a9db158d34ed0733ba83ad3/250"
+      "title": "Gil Vicente-Académico de Viseu, 0-1 (crónica)",
+      "link": "https://maisfutebol.iol.pt/liga/gil-vicente/gil-vicente-academico-de-viseu-0-1-cronica",
+      "pubDate": "Sun, 6 Sep 2026 22:26:32 +0100",
+      "description": "Ewerton trava os galos e João Guilherme dá primeira vitória aos viriatos",
+      "thumbnail": "https://img.iol.pt/image/id/6a9dd800d34ed0733ba83b31/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "II Liga: União de Leiria ultrapassa Portimonense com golo solitário de Nabil",
-      "link": "https://maisfutebol.iol.pt/ii-liga/uniao-leiria/ii-liga-uniao-de-leiria-ultrapassa-portimonense-com-golo-solitario-de-nabil",
-      "pubDate": "Sun, 6 Sep 2026 20:07:43 +0100",
-      "description": "Leixões vence Amarante por 3-1",
-      "thumbnail": "https://img.iol.pt/image/id/6a9db7a2d34e511da0b37291/250"
+      "title": "US Open: Alcaraz e Sabalenka reservam vaga nos «quartos»",
+      "link": "https://maisfutebol.iol.pt/tenis/modalidades/open-dos-eua-alcaraz-e-sabalenka-reservam-vaga-nos-quartos",
+      "pubDate": "Sun, 6 Sep 2026 21:58:00 +0100",
+      "description": "Espanhol bateu Tommy Paul em três «sets», enquanto bielorrussa deixou pelo caminho Taylor Towsend",
+      "thumbnail": "https://img.iol.pt/image/id/6a9dd1b2d34e511da0b372d4/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Espanha: Levante de Luís Castro empata, Alavés vence e ultrapassa Real de Mourinho",
-      "link": "https://maisfutebol.iol.pt/internacional/espanha/espanha-levante-de-luis-castro-empata-alaves-vence-e-ultrapassa-real-de-mourinho",
-      "pubDate": "Sun, 6 Sep 2026 19:34:00 +0100",
-      "description": "«Granotes» não foram além de um nulo no marcador diante do 18.º, e antepenúltimo, classificado da La Liga, enquanto os «albiazules» bateram o Osasuna por 5-2",
-      "thumbnail": "https://img.iol.pt/image/id/6a8c9e43d34e511da0b34f1f/250"
+      "title": "VÍDEO: Gatti trama Ruben Amorim com golo nos descontos",
+      "link": "https://maisfutebol.iol.pt/internacional/ruben-amorim/video-gatti-trama-ruben-amorim-com-golo-nos-descontos",
+      "pubDate": "Sun, 6 Sep 2026 21:57:00 +0100",
+      "description": "Milan sofreu o empate aos 90+2 minutos",
+      "thumbnail": "https://img.iol.pt/image/id/6a9dcd5bd34e511da0b372bf/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Supertaça feminina: Benfica-FC Porto, 5-1 (crónica)",
-      "link": "https://maisfutebol.iol.pt/supertaca-feminina/futebol-feminino/supertaca-feminina-benfica-fc-porto-5-1-cronica",
-      "pubDate": "Sun, 6 Sep 2026 19:15:00 +0100",
-      "description": "Goleada com tons de clássico no Fontelo",
-      "thumbnail": "https://img.iol.pt/image/id/6a9da85ad34ed0733ba83abe/250"
+      "title": "Augsburgo de Rodrigo Ribeiro goleia Eintracht e é líder da Bundesliga",
+      "link": "https://maisfutebol.iol.pt/alemanha/internacional/augsburgo-de-rodrigo-ribeiro-goleia-eintracht-e-e-lider-da-bundesliga",
+      "pubDate": "Sun, 6 Sep 2026 21:40:39 +0100",
+      "description": "A perder ao intervalo, equipa de Manuel Baum virou resultado na segunda parte com quatro golos",
+      "thumbnail": "https://img.iol.pt/image/id/6a9dce93d34e511da0b372c7/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: filho de Koeman, que é guarda-redes, marca dois golos e faz história",
-      "link": "https://maisfutebol.iol.pt/paises-baixos/ronald-koeman-jr/video-filho-de-koeman-que-e-guarda-redes-marca-dois-golos-e-faz-historia",
-      "pubDate": "Sun, 6 Sep 2026 19:13:00 +0100",
-      "description": "Ronald Koeman Jr tornou-se no primeiro guarda-redes a bisar na Liga neerlandesa",
-      "thumbnail": "https://img.iol.pt/image/id/6a9daab5d34e511da0b37271/250"
+      "title": "Tiago Margarido: «Estatística avassaladora, resultado é extremamente injusto»",
+      "link": "https://maisfutebol.iol.pt/liga/vitoria-guimaraes/tiago-margarido-estatistica-avassaladora-resultado-e-extremamente-injusto",
+      "pubDate": "Sun, 6 Sep 2026 20:53:40 +0100",
+      "description": "Técnico «frustrado» com o empate do Vitória na receção ao Casa Pia",
+      "thumbnail": "https://img.iol.pt/image/id/6a95e011d34ed0733ba82be8/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Delegação de Trump sai “muito encorajada” das negociações com Zelensky, mas não revela avanços nas negociações",
-      "link": "https://sapo.pt/artigo/delegacao-de-trump-sai-muito-encorajada-das-negociacoes-com-zelensky-mas-nao-revela-avancos-nas-negociacoes-6a9d902cb69388d4ad9df1fa",
-      "pubDate": "Sun, 06 Sep 2026 16:44:03 +0000",
-      "description": "Washington procura fechar um acordo antes do inverno, mas mantém em segredo os termos da proposta levada a Kiev. O futuro dos territórios ocupados e as garantias de segurança continuam a separar Ucrânia e Rússia.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=537&W=954&crop=center&delay_optim=1&epic=V2%3APTMjrm9NhsrhafOdfVwhKNyu2izspr4FMUb5oVY1sMi2eWoQQrCgXKBIey4bwZFWXiO3sUzrOxtbMBO7yTIxHnlekBkM0693GhUMkeoIbK5YbHwyLRp2kkG7%2BGAm8APG"
+      "title": "Médio Oriente: Netanyahu ordena evacuação de colonatos na Cisjordânia",
+      "link": "https://executivedigest.sapo.pt/medio-oriente-netanyahu-ordena-evacuacao-de-colonatos-na-cisjordania/",
+      "pubDate": "Sun, 06 Sep 2026 19:32:17 +0000",
+      "description": "O primeiro-ministro de Israel, Benjamin Netanyahu, ordenou a evacuação de colonatos na Cisjordânia, afirmou hoje o ministro das Finanças israelita, Bezalel Smotrich.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AHClNaG6R0XMAfqAsA%2BbuCin9twdIzgSFAp6PuMBJ2JHl2f6VaIH1IPt1hXItYRZ3mwOG3X3Tsw1s8hgfVMA25cQ9FZxbwCwtjwM%2BQruQnc%2FZNyRoJNhgqWt87UUTA9NJ"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Zelensky entende que questão territorial só será resolvida após encontro com Putin",
+      "link": "https://sapo.pt/artigo/zelensky-entende-que-questao-territorial-so-sera-resolvida-apos-encontro-com-putin-6a9db796f4329ca2ebae22f2",
+      "pubDate": "Sun, 06 Sep 2026 20:32:06 +0000",
+      "description": "O Presidente ucraniano tem vindo a apelar há muito tempo a um encontro com o seu homólogo russo, Vladimir Putin, para resolver a questão dos territórios, algo a que o Kremlin se recusa.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AXAEcBdhydt1sX2%2FC9UZU43JMyp7SENYfplfRkB2M%2B46PngEQXS0TzrAkyzdjpBG3VEAKh%2FiARRzYve13usA280qVGL%2FpbEtDpq0O2bCJNzSKWwG%2FKPlTiBQ%2FNxsf87sl"
     },
     {
       "sourceId": "sapo",
@@ -175,81 +185,101 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Von der Leyen chega à Gronelândia com medidas \"substanciais\"",
-      "link": "https://sapo.pt/artigo/von-der-leyen-chega-a-gronelandia-com-medidas-substanciais-6a9d9962672edd257f6a13a9",
-      "pubDate": "Sun, 06 Sep 2026 18:15:33 +0000",
-      "description": "A presidente da Comissão Europeia chegou à Gronelândia levando \"um pacote de medidas substancial\". Visita pretende reafirmar o compromisso da UE com o território autónomo dinamarquês.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AoUM9bZnvNP%2FBM9eqSqT%2BRPAm5Y0z0dTnm7qkvkW9U09T5ShHC0D%2B3u%2FfVHTEnh3oFRzD77udstVQm6XdRL3KNuNahBb84YrQEuzDmolAZ1M5bT3IbMmAA5i3xK8oIsQb"
+      "title": "André Ventura felicita AfD pela “vitória histórica” nas eleições na Saxónia-Anhalt",
+      "link": "https://sapo.pt/artigo/andre-ventura-felicita-afd-pela-vitoria-historica-nas-eleicoes-na-saxonia-anhalt-6a9dbdd7cd7464c995f331b5",
+      "pubDate": "Sun, 06 Sep 2026 20:32:06 +0000",
+      "description": "A AfD foi o partido mais votado nas eleições regionais deste domingo na Saxónia-Anhalt, com 44,5% dos votos, segundo as primeiras projeções",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A2Sk1yXKAKqJC6V3DTB52xhVTJ0HUbOETy5E1Ue%2BMEIYI2YuTHPSxPuznczbTO%2B2Sl%2F8C2aqD9mYwcijHtgTv%2FRK4Ra34MyzQd4tMIrhuXRXJZI6GWL71Eufs9KMqfby3"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Oito docentes denunciaram assédio laboral no Técnico. IGEC propôs repreensão, mas presidente arquivou caso",
-      "link": "https://sapo.pt/artigo/oito-docentes-denunciaram-assedio-laboral-no-tecnico-igec-propos-repreensao-mas-presidente-arquivou-caso-6a9d51f3672edd257f5ed923",
-      "pubDate": "Sun, 06 Sep 2026 12:09:31 +0000",
-      "description": "O presidente do Instituto Superior Técnico arquivou o processo disciplinar instaurado a um professor catedrático após uma denúncia apresentada por oito docentes.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2F4np8yXANk2TmRvnv3aaiduD8BWBFuAgF4dLbfqZK0B6j6aHqqIEn5SIUM28NWqhboOriLkGOpMZ5dA6jkath6tvsZUnvByZFvJjtI3tDo%2Bpw4nAD%2Fwq3OC6e3ylOp3n"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Irão ameaça EUA com resposta \"mais rápida e dolorosa\" a futuros ataques",
-      "link": "https://sapo.pt/artigo/irao-ameaca-eua-com-resposta-mais-rapida-e-dolorosa-a-futuros-ataques-6a9d738af4329ca2eba6e051",
-      "pubDate": "Sun, 06 Sep 2026 14:34:28 +0000",
-      "description": "\"A era das respostas proporcionais chegou ao fim\", disse Mohammad Bagher Ghalibaf, presidente do parlamento iraniano e chefe da equipa de negociadores nas conversações de paz com os Estados Unidos.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A04m2Em7GLodV4VbGon0%2FPFA8kAP9nCZl0SRqpHxzsRjtxkklcniQgKrToa6Efl4nTdSTaTkzGxsMh29vZHfc33ieKmrNfWavOAHynfd16n2J8yzBTwYNRgDIpesEelap"
+      "title": "Clínica de fertilidade falida. Equipa colheu óvulos em paciente na manhã em que fechou: “Tudo nisto parece fraude”",
+      "link": "https://sapo.pt/artigo/clinica-de-fertilidade-falida-equipa-colheu-ovulos-em-paciente-na-manha-em-que-fechou-tudo-nisto-parece-fraude-6a9dbc7a672edd257f6db503",
+      "pubDate": "Sun, 06 Sep 2026 20:32:06 +0000",
+      "description": "Nicole, 36 anos, terá sido a última paciente atendida na clínica Ovom Care, em Cascais: quando chegou, a equipa tinha acabado de ser informada do fecho. Como mais de 200 outras pessoas, aguarda notícias do seu material biológico, que ainda não...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AuT94O2Aq3Nikc%2B9GtLsRPc72SfI5GdN98KhsMPuijMT8H1dIFB2i2zQcQaIZEcUw6WVfpsy%2FBhIYQzDwgVDdTykTsySBWjb6v8r9eTlBQuUx4LDIKfkQzerCqO9oJgZe"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EM DIRETO: Nulo em Guimarães e atenções focam-se no Gil Vicente-Académico",
-      "link": "https://www.noticiasaominuto.com/desporto/3046360/em-direto-fc-porto-e-moreirense-abrem-quinta-ronda-no-estadio-do-dragao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-06 20:08:08",
+      "title": "Bomba na gaveta. O golaço que deu primeira vitória ao Académico de Viseu",
+      "link": "https://www.noticiasaominuto.com/desporto/3047306/bomba-na-gaveta-o-golaco-que-deu-primeira-vitoria-ao-academico-de-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-06 22:25:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_642dcea7b2176.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM3OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxNSwiY3JvcEhlaWdodCI6MTgwNCwiY3JvcFgiOjg2OCwiY3JvcFkiOjE0fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9dd80e4dcf5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDE0LCJjcm9wSGVpZ2h0Ijo3OTUsImNyb3BYIjo0MzksImNyb3BZIjoxMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU1OSwiY3JvcEhlaWdodCI6OTk0LCJjcm9wWCI6ODU5LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Augsburgo goleia Eintracht Frankfurt e é líder na Alemanha",
-      "link": "https://www.noticiasaominuto.com/desporto/3047272/augsburgo-goleia-eintracht-frankfurt-e-e-lider-na-alemanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-06 20:07:43",
+      "title": "Detidas cinco pessoas por ataques a Zawiya e Tripoli",
+      "link": "https://www.noticiasaominuto.com/mundo/3047291/autoridades-libias-anunciam-detencao-de-cinco-pessoas-por-ataques-a-zawiya-e-tripoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-06 22:05:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9db92337d96.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjIxOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODk2LCJjcm9wWSI6LTF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6828747685669.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg0MiwiY3JvcEhlaWdodCI6MTQ5OCwiY3JvcFgiOjc0LCJjcm9wWSI6Mjd9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Super Mandic dá primeiro ponto ao Casa Pia após nulo frente ao Vitória SC",
-      "link": "https://www.noticiasaominuto.com/desporto/3047275/i-liga-casa-pia-soma-primeiro-ponto-com-empate-na-visita-a-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-06 20:06:55",
+      "title": "Irão ameaça criar nova \"zona interdita\" no estreito de Ormuz",
+      "link": "https://www.noticiasaominuto.com/mundo/3047298/irao-ameaca-criar-nova-zona-interdita-no-estreito-de-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-06 22:04:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9db9b5c0f23.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ3N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTkwNywiY3JvcEhlaWdodCI6MzM4OSwiY3JvcFgiOjMwNywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9dd2ef8f666.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjIyNywiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Decisão difícil! Irmã de Rita Pereira muda de vida e deixa profissão",
-      "link": "https://www.noticiasaominuto.com/fama/3045197/decisao-dificil-irma-de-rita-pereira-muda-de-vida-e-deixa-profissao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-06 20:01:30",
+      "title": "Líder do Partido Comunista Francês anuncia candidatura às presidenciais",
+      "link": "https://www.noticiasaominuto.com/mundo/3047297/lider-do-partido-comunista-frances-anuncia-candidatura-as-presidenciais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-06 22:03:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_620ad6a976d95.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9dd23b6c1fc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjI3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTcsImNyb3BIZWlnaHQiOjE3MDEsImNyb3BYIjo1MTgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turquia vence Itália e revalida título Europeu feminino",
-      "link": "https://www.noticiasaominuto.com/desporto/3047271/turquia-vence-italia-e-revalida-titulo-europeu-feminino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-06 19:59:01",
+      "title": "É atriz norte-americana e lembrou o baile de finalistas. Reconhece-a?",
+      "link": "https://www.noticiasaominuto.com/fama/3045332/e-atriz-norte-americana-e-lembrou-o-baile-de-finalistas-reconhece-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-06 22:00:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9db709d4f02.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDAwLCJjcm9wSGVpZ2h0IjoxNzc3LCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a984d2f415d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjEwMCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MDIsImNyb3BIZWlnaHQiOjEyNDgsImNyb3BYIjoyNDIsImNyb3BZIjo0M319"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Vais estudar longe de casa? Pousadas de Juventude são opção em 2026/2027",
+      "link": "https://pplware.sapo.pt/informacao/vais-estudar-longe-de-casa-pousadas-de-juventude-sao-opcao-em-2026-2027/",
+      "pubDate": "Sun, 06 Sep 2026 21:30:20 +0000",
+      "description": "Entrar no Ensino Superior pode trazer uma mudança de cidade e uma preocupação: onde ficar durante o ano letivo? Para os estudantes deslocados, as Pousadas de Juventude podem ser uma alternativa de alojamento em&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/pousada_juventude12.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Alerta IA: agentes usaram wiki alemã para fugir às limitações",
+      "link": "https://pplware.sapo.pt/internet/alerta-ia-agentes-usaram-wiki-alema-para-fugir-as-limitacoes/",
+      "pubDate": "Sun, 06 Sep 2026 20:30:00 +0000",
+      "description": "Um grupo de agentes de inteligência artificial associados à OpenAI utilizou uma wiki alemã como plataforma de comunicação, deixando mais de 15 mil edições e levantando novas preocupações sobre o comportamento autónomo dos sistemas&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/openai_smartphone_pplware.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Saco de ginásio Core Workout 35L da Prozis custa menos 10 euros",
+      "link": "https://pplware.sapo.pt/gadgets/saco-de-ginasio-core-workout-35l-da-prozis-custa-menos-10-euros/",
+      "pubDate": "Sun, 06 Sep 2026 19:30:05 +0000",
+      "description": "A Mochila de Ginásio Core Workout 35L da Prozis foi concebida para quem valoriza organização, conforto e durabilidade nos treinos diários. Aproveitem o desconto Pplware. Mochila de Ginásio Core Workout 35L da Prozis está&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2025/09/moc_00.jpg"
     },
     {
       "sourceId": "pplware",
@@ -272,34 +302,14 @@
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/abastecer_autonomo_mar01.webp"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Porque é que a Uber nem sempre lhe envia o carro mais próximo?",
-      "link": "https://pplware.sapo.pt/motores/porque-e-que-a-uber-nem-sempre-lhe-envia-o-carro-mais-proximo/",
-      "pubDate": "Sun, 06 Sep 2026 16:00:57 +0000",
-      "description": "Abre a aplicação, pede uma viagem e espera que apareça um motorista. Parece simples. Mas, por trás dessa decisão, há mapas divididos em pequenas células, previsões de trânsito e combinações entre vários pedidos. Um&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/uber_algoritmo00.webp"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Espanha vai obrigar operadoras a garantir maior velocidade de internet",
-      "link": "https://pplware.sapo.pt/informacao/espanha-vai-obrigar-operadoras-a-garantir-maior-velocidade-de-internet/",
-      "pubDate": "Sun, 06 Sep 2026 16:00:51 +0000",
-      "description": "A Internet em Espanha vai mudar significativamente a partir de 2027. O Governo espanhol aprovou a atualização das regras do Serviço Universal de Telecomunicações, aumentando de forma substancial a velocidade mínima de acesso à&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/05/internet-jovens-adulto-tecnologia2-1.jpg"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Dica: como personalizar o fundo das conversas no iPhone",
-      "link": "https://pplware.sapo.pt/truques-dicas/dica-como-personalizar-o-fundo-das-conversas-no-iphone/",
-      "pubDate": "Sun, 06 Sep 2026 15:00:33 +0000",
-      "description": "Com o iOS 26, a aplicação Mensagens do iPhone passou a permitir personalizar o fundo das conversas, incluindo fotografias próprias e opções animadas da Apple. Como personalizar o fundo das conversas Durante anos, a&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/fundo_mensagens_iphone_imessage.webp"
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Pedro Lago Vieira vence quarta ronda do Portugal Rally Series em Castanheira de Pera",
+      "link": "https://www.autosport.pt/ralis/pedro-lago-vieira-vence-quarta-ronda-do-portugal-rally-series-em-castanheira-de-pera/",
+      "pubDate": "Sun, 06 Sep 2026 18:45:00 +0000",
+      "description": "Pedro Lago Vieira e Paulo Lopes conquistaram a vitória na quarta ronda do Castrol Portugal Rally Series, designada O Neveiro e a Lã, disputada em Castanheira de Pera. Com este triunfo, a dupla reforça a liderança na classificação geral, beneficiando do abandono de Dani Sordo e Patrícia Sáiz na Prova",
+      "thumbnail": ""
     },
     {
       "sourceId": "autosport",
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-italia-f1-toto-wolff-estrategia-de-duas-paragens-acabou-por-ser-a-melhor/",
       "pubDate": "Sun, 06 Sep 2026 16:39:59 +0000",
       "description": "Toto Wolff, chefe de equipa da Mercedes, admitiu que &#8220;não havia hipótese&#8221; de alterar a estratégia de pneus de George Russell no Grande Prémio de Itália, depois de este ter perdido a corrida para Andrea Kimi Antonelli. A Mercedes conseguiu, ainda assim, um duplo pódio em Monza, com Antone",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Itália F1, Charles Leclerc explica acidente e ‘chega para lá’ a Hamilton em Monza",
-      "link": "https://www.autosport.pt/formula1/gp-italia-f1-charles-leclerc-explica-acidente-e-chega-para-la-a-hamilton-em-monza/",
-      "pubDate": "Sun, 06 Sep 2026 16:13:09 +0000",
-      "description": "Charles Leclerc abandonou este domingo o Grande Prémio da Itália de Fórmula 1 em Monza, após sofrer um aparatoso acidente na segunda volta. O piloto monegasco da Ferrari despistou-se na curva Parabólica e embateu contra as barreiras de proteção, terminando prematuramente a sua participação na prova ",
       "thumbnail": ""
     }
   ]
