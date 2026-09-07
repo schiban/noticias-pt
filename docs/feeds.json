@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-06T23:26:42.925587+00:00",
+  "updated": "2026-09-07T01:12:14.189193+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2376/",
+      "pubDate": "Mon, 07 Sep 2026 01:16:54 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Resposta a muitos leitores",
+      "link": "https://observador.pt/opiniao/resposta-a-muitos-leitores/",
+      "pubDate": "Mon, 07 Sep 2026 00:25:36 +0100",
+      "description": "Após a vitória de Donald Trump em 2024, o clima político começou a mudar. AOC eliminou os seus “pronomes”, num momento celebrado por muitos como simbolizando o início do fim da loucura trans.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "A oferta de estadistas",
+      "link": "https://observador.pt/opiniao/a-oferta-de-estadistas/",
+      "pubDate": "Mon, 07 Sep 2026 00:24:16 +0100",
+      "description": "De onde vêm os líderes que admiramos, porque é que o funil passou a funcionar ao contrário e o que seria preciso para o inverter",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A540%3A540%3Anowe%3A28%3A39%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F01%2F12111801%2Ffoto-jrc-2022b.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Katharine Birbalsingh, a directora que pôs Eton em sentido",
-      "link": "https://observador.pt/opiniao/quem-e-katharine-birbalsingh-a-directora-mais-rigorosa-de-inglaterra-que-pos-eton-em-sentido/",
-      "pubDate": "Mon, 07 Sep 2026 00:15:38 +0100",
-      "description": "Parte de uma ideia quase subversiva: a escola existe para a família e para o aluno. E avalia-se pelo que lhes entrega. A autoridade não é um luxo de escolas de elite.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A480%3A480%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F04%2F09222002%2Ffoto-joao-a-b-da-silva-png.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h O número de alunos em Portugal aumentou no ano letivo 2024/25",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-o-numero-de-alunos-em-portugal-aumentou-no-ano-letivo-202425_a1_1763771",
+      "pubDate": "Mon, 07 Sep 2026 02:38:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2413/",
-      "pubDate": "Mon, 07 Sep 2026 00:15:34 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O Brasil no limite da política",
-      "link": "https://observador.pt/opiniao/o-brasil-no-limite-da-politica/",
-      "pubDate": "Mon, 07 Sep 2026 00:14:25 +0100",
-      "description": "Parte I – Segurança: do medo privado à fragmentação da soberania",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1080%3A1080%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F14172134%2Fpolish-20250214-084619598.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Acidente no aeroporto de Miami faz 5 mortos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-acidente-no-aeroporto-de-miami-faz-5-mortos_a1_1763769",
+      "pubDate": "Mon, 07 Sep 2026 01:36:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Sun, 06 Sep 2026 23:56:36 +0100",
       "description": "O Governo cabo-verdiano anunciou hoje uma análise &quot;séria e profunda&quot; às circunstâncias do acidente com um autocarro na ilha do Fogo, incluindo às condições de construção, avaliação e fiscalização das estradas.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Conselho Central dos Judeus na Alemanha consternado com vitória de AfD na Saxónia-Anhalt",
-      "link": "https://www.rtp.pt/noticias/mundo/conselho-central-dos-judeus-na-alemanha-consternado-com-vitoria-de-afd-na-saxonia-anhalt_n1763762",
-      "pubDate": "Sun, 06 Sep 2026 23:56:02 +0100",
-      "description": "O presidente do Conselho Central dos Judeus na Alemanha, Josef Schuster, expressou hoje consternação com a vitória do partido de extrema-direita Alternativa para a Alemanha (AfD) nas eleições regionais no estado federado alemão da Saxónia-Anhalt.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Augsburgo lidera na Alemanha",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/augsburgo-lidera-na-alemanha_d1763763",
-      "pubDate": "Sun, 06 Sep 2026 23:54:24 +0100",
-      "description": "O Augsburgo bateu fora o Eintracht Frankfurt, por 4-1, subindo à liderança da Liga alemã, com o Mainz a aplicar a &#039;chapa cinco&#039; ao Hamburgo no outro jogo do dia da Bundesliga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/29/29f3cb6213ba4104b2530eab35ee0a3a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
