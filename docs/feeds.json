@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-07T23:56:05.431552+00:00",
+  "updated": "2026-09-08T03:08:30.145272+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2430/",
+      "pubDate": "Tue, 08 Sep 2026 03:14:29 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. PSD reitera que Luís Neves já deu todas as explicações",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2404/",
+      "pubDate": "Tue, 08 Sep 2026 02:15:34 +0100",
+      "description": "O líder parlamentar do PSD diz que a moção de censura ao Governo serve apenas para alimentar o ego de Ventura. Ainda, as negociações entre o Governo e os partidos para o OE vão começar no fim do mês.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. PS vai abster-se na votação da moção de censura do Chega",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2377/",
+      "pubDate": "Tue, 08 Sep 2026 01:15:34 +0100",
+      "description": "A proposta foi feita por José Luis Carneiro, no ínicio da reunião da direção socialista. Fontes presentes no encontro indicam que o líder socialista chegou à reunião com a decisão já tomada.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,34 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2049%3A2048%3Anowe%3A276%3A449%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170554%2Fmiguel-santos-carrapatoso.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Princípios a la Carte",
-      "link": "https://observador.pt/opiniao/principios-a-la-carte/",
-      "pubDate": "Tue, 08 Sep 2026 00:20:15 +0100",
-      "description": "Presumo que, quando os convidaram para participar num festival com Jerry Seinfeld como cabeça de cartaz, tenham perguntado: “Jerry quem?”",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2444%3A2443%3Anowe%3A24%3A962%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170602%2Fze-diogo-quintela.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h PS insiste que Governo beneficia com combustíveis mais caros",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ps-insiste-que-governo-beneficia-com-combustiveis-mais-caros_a1_1763966",
+      "pubDate": "Tue, 08 Sep 2026 04:15:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A paz não está no mapa",
-      "link": "https://observador.pt/opiniao/a-paz-nao-esta-no-mapa/",
-      "pubDate": "Tue, 08 Sep 2026 00:15:46 +0100",
-      "description": "Na Ucrânia, a linha de contacto pode estabilizar. O difícil começa no dia seguinte.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h AR debate e vota moção de censura ao Governo apresentada pelo Chega",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ar-debate-e-vota-mocao-de-censura-ao-governo-apresentada-pelo-chega_a1_1763965",
+      "pubDate": "Tue, 08 Sep 2026 04:15:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. Estoril Praia e Arouca encerram jornada com ‘nulo’",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2414/",
-      "pubDate": "Tue, 08 Sep 2026 00:15:43 +0100",
-      "description": "O Arouca mantém-se em 5º lugar e o Estoril Praia permanece na 17ª posição. Ainda, o Governo garante que não está a lucrar com a crise energética.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Estado compra 13,7% da REN, comunicação feita pela empresa à CMVM",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-estado-compra-137-da-ren-comunicacao-feita-pela-empresa-a-cmvm_a1_1763962",
+      "pubDate": "Tue, 08 Sep 2026 03:19:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Tue, 08 Sep 2026 01:26:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Procurador-geral da Ucrânia demite-se após acusações de corrupção",
-      "link": "https://www.rtp.pt/noticias/mundo/procurador-geral-da-ucrania-demite-se-apos-acusacoes-de-corrupcao_n1763950",
-      "pubDate": "Tue, 08 Sep 2026 01:24:36 +0100",
-      "description": "O procurador-geral da Ucrânia, Ruslan Kravchenko, demitiu-se esta segunda-feira, após buscas realizadas no fim de semana no seu gabinete no âmbito de uma investigação por corrupção sobre centros de atendimento fraudulentos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/90/9036bb62cab5c53dbedc415a6391557f?w=350&amp;q=50&amp;rect=1,0,4498,2466&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PS vai abster-se na moção de censura do Chega ao Governo",
-      "link": "https://www.rtp.pt/noticias/politica/ps-vai-abster-se-na-mocao-de-censura-do-chega-ao-governo_n1763955",
-      "pubDate": "Tue, 08 Sep 2026 01:19:45 +0100",
-      "description": "José Luís Carneiro considera que esta posição evita uma crise política mas não iliba o Governo de responsabilidades.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/04/0434bffa57e97dd77f82c229d1a9ccc8?w=350&amp;q=50&amp;rect=0,60,3636,1993&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Estado compra 13,7% do capital da REN ao grupo de Amancio Ortega",
-      "link": "https://www.rtp.pt/noticias/economia/estado-compra-137-do-capital-da-ren-ao-grupo-de-amancio-ortega_n1763954",
-      "pubDate": "Tue, 08 Sep 2026 01:14:56 +0100",
-      "description": "O Estado português já comprou uma posição de 13,7 por cento na REN ao dono da Zara. Pagou 380 milhões de euros, mais 55 milhões do que o preço de mercado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d69fc8745446290dde4e0809cacfb01?w=350&amp;q=50&amp;rect=0,290,4899,2686&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,6 +205,16 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
+      "title": "Moção? PS defende abstenção \"para evitar crise\". \"Não iliba Governo\"",
+      "link": "https://www.noticiasaominuto.com/pais/3047873/arcensura-ps-defende-abstencao-para-evitar-crise-politica-responsabilizando-o-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-08 00:10:39",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ccf827b736e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo2NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTk1LCJjcm9wSGVpZ2h0IjoxNzY5LCJjcm9wWCI6Nzk2LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
       "title": "Avião da Amazon que se despenhou chocou com furgoneta com 7 pessoas",
       "link": "https://www.noticiasaominuto.com/mundo/3047865/aviao-da-amazon-que-se-despenhou-chocou-com-furgoneta-com-7-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
       "pubDate": "2026-09-08 00:00:44",
@@ -240,16 +250,6 @@
       "pubDate": "2026-09-07 23:54:19",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9f3fd13d1ba.webp"
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Cuba alega impacto financeiro \"recorde\" do embargo norte-americano",
-      "link": "https://www.noticiasaominuto.com/mundo/3047861/cuba-alega-impacto-financeiro-recorde-do-embargo-norte-americano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-07 23:48:54",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69590bb0bc2ae.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMTMsImNyb3BIZWlnaHQiOjE4MDAsImNyb3BYIjo4MjcsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
