@@ -1,55 +1,95 @@
 {
-  "updated": "2026-09-09T23:47:50.194021+00:00",
+  "updated": "2026-09-10T02:53:00.787795+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Relatório põe cidades europeias no centro da crise climática",
-      "link": "https://observador.pt/2026/09/10/cidades-europeias-no-centro-dos-perigos-das-alteracoes-climaticas/",
-      "pubDate": "Thu, 10 Sep 2026 00:30:22 +0100",
-      "description": "Um relatório europeu alerta para o agravamento dos riscos climáticos nas cidades, sobretudo no sul, onde o calor extremo, os incêndios e as doenças infecciosas ameaçam cada vez mais a saúde.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/08/15133559/34136299.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Teerão, Pequim e Moscovo criticam envio nuclear à ONU",
-      "link": "https://observador.pt/2026/09/10/teerao-pequim-e-moscovo-criticam-envio-de-programa-nuclear-ao-conselho-de-seguranca/",
-      "pubDate": "Thu, 10 Sep 2026 00:27:27 +0100",
-      "description": "A decisão aprovada em Viena agrava as tensões em torno do programa nuclear iraniano e pode levar o Conselho de Segurança da ONU a analisar novas medidas contra Teerão.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/03/03170310/20206091.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Vila do Conde investe 4,9 milhões em novo centro escolar",
-      "link": "https://observador.pt/2026/09/10/vila-do-conde-investe-49-milhoes-de-euros-em-novo-centro-escolar/",
-      "pubDate": "Thu, 10 Sep 2026 00:23:39 +0100",
-      "description": "Centro Escolar de Guilhabreu vai concentrar num único espaço a comunidade escolar da freguesia. Ampliação da Escola Básica Gonçalo Mendes da Maia arrancou esta quarta-feira e vai durar 24 meses.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3861:2171:nowe:0:190/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/12183315/mosteiro-de-santa-clara-vila-do-conde-portugal-50835360377.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "00h. PS: Governo \"dá com uma mão e tira com duas\"",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2416/",
-      "pubDate": "Thu, 10 Sep 2026 00:16:54 +0100",
-      "description": "Reação de José Luís Carneiro à medida aprovada hoje pelo Governo, que prolonga os apoios ao gasóleo agrícola até ao final do ano. Ainda, o Sporting venceu o Galatasaray por 3-1.",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2432/",
+      "pubDate": "Thu, 10 Sep 2026 03:16:44 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Bolieiro apela à responsabilidade de partidos no Orçamento",
-      "link": "https://observador.pt/2026/09/10/lider-do-governo-acoriano-apela-a-responsabilidade-dos-partidos-no-orcamento-para-2027/",
-      "pubDate": "Thu, 10 Sep 2026 00:05:02 +0100",
-      "description": "\"Estou certo de que neste processo prevalecerá o sentido de responsabilidade de todos. Do Governo e das oposições\", afirma José Manuel Bolieiro. Será o primeiro Orçamento após conclusão do PRR.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/26122309/42375602.jpg"
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2406/",
+      "pubDate": "Thu, 10 Sep 2026 02:13:15 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Moreirense x Benfica. \"Sem penalty sobre Pavlidis\"",
+      "link": "https://observador.pt/programas/sem-falta/moreirense-x-benfica-sem-penalty-sobre-pavlidis/",
+      "pubDate": "Thu, 10 Sep 2026 01:23:24 +0100",
+      "description": "Nota 6 para Fábio Veríssimo no triunfo do Benfica frente ao Moreirense. Pedro Henriques fala de uma arbitragem globalmente positiva onde a nota só não é mais alta por ter sido o VAR a ver um penalty.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2379/",
+      "pubDate": "Thu, 10 Sep 2026 01:14:52 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Sporting x Galatasaray. \"Penalty bem assinalado.\"",
+      "link": "https://observador.pt/programas/sem-falta/sporting-x-galatasaray-penalty-bem-assinalado/",
+      "pubDate": "Thu, 10 Sep 2026 01:11:17 +0100",
+      "description": "Nota 5 para Espen Eskås no triunfo do Sporting na Champions. Pedro Henriques diz que os golos foram bem decididos, ainda assim, a arbitragem fica marcada por \"imensos equívocos na parte disciplinar.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Copernicus. Agosto foi o mês mais quente desde que há registos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-copernicus-agosto-foi-o-mes-mais-quente-desde-que-ha-registos_a1_1764524",
+      "pubDate": "Thu, 10 Sep 2026 04:41:03 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h PS entende que Governo devia ir mais longe no apoio às famílias",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ps-entende-que-governo-devia-ir-mais-longe-no-apoio-as-familias_a1_1764523",
+      "pubDate": "Thu, 10 Sep 2026 04:41:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Cabaz alimentar volta a subir e pode continuar por causa do preço dos combustíveis",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-cabaz-alimentar-volta-a-subir-e-pode-continuar-por-causa-do-preco-dos-combustiveis_a1_1764517",
+      "pubDate": "Thu, 10 Sep 2026 02:27:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Benfica e Sporting triunfaram em noite de muitos golos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-benfica-e-sporting-triunfaram-em-noite-de-muitos-golos_a1_1764516",
+      "pubDate": "Thu, 10 Sep 2026 02:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Thu, 10 Sep 2026 01:45:14 +0100",
       "description": "A Apple revelou quarta-feira o seu primeiro telemóvel dobrável, o iPhone Duo, que marca o início da gestão do novo executivo John Ternus, ao mesmo tempo que aumentou o preço dos seus modelos iPhone Pro.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a3/a32df7e4981886dd7c9d65f82ecc92b8?w=350&amp;q=50&amp;rect=1,0,4653,2551&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "França indignada com vídeo de polícia próximo de Le Pen com comentários racistas",
-      "link": "https://www.rtp.pt/noticias/mundo/franca-indignada-com-video-de-policia-proximo-de-le-pen-com-comentarios-racistas_n1764498",
-      "pubDate": "Thu, 10 Sep 2026 01:30:23 +0100",
-      "description": "Um vídeo gravado acidentalmente no qual se ouve um polícia municipal filiado no partido de Marine Le Pen, a Rassemblement National (RN), e colegas seus a fazer comentários racistas, homofóbicos e sexistas está a causar grande indignação em França.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3e512e5e6e2e3f3ed6cafb64da59adf7?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Rubio garante que EUA não têm intenção de matar pescadores após ataques no Pacífico",
-      "link": "https://www.rtp.pt/noticias/mundo/rubio-garante-que-eua-nao-tem-intencao-de-matar-pescadores-apos-ataques-no-pacifico_n1764514",
-      "pubDate": "Thu, 10 Sep 2026 01:28:44 +0100",
-      "description": "O secretário de Estado norte-americano, Marco Rubio, garantiu hoje no Equador que a administração liderada por Donald Trump não tem &quot;intenção de matar pescadores&quot;, após os ataques a embarcações de pesca equatorianas em águas do Pacífico nas últimas semanas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/25/253d062134326123a1df180562dfeb2b?w=350&amp;q=50&amp;rect=2,0,8637,4735&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Rita Blanco e Ruben Alves na Grande Entrevista. Perda da identidade de Lisboa \"já é uma realidade\" mas \"não é inevitabilidade\"",
-      "link": "https://www.rtp.pt/noticias/cultura/rita-blanco-e-ruben-alves-na-grande-entrevista-perda-da-identidade-de-lisboa-ja-e-uma-realidade-mas-nao-e-inevitabilidade_n1764506",
-      "pubDate": "Thu, 10 Sep 2026 00:44:42 +0100",
-      "description": "É um dos traços da identidade de Lisboa: os casamentos de Santo António mobilizam por alturas de junho casais que escolhem dar o nó com a bênção do Santo padroeiro de Lisboa. Foi a partir desta tradição que o realizador Rúben Alves decidiu criar o seu novo filme, &quot;Santo António, o Casamenteiro ",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a5283b6751f23a5cae2706a5f19cc33a?w=350&amp;q=50&amp;rect=0,9,1280,702&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Trump prevê que guerra no Irão acabe \"imediatamente após as eleições\" intercalares nos EUA",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-preve-que-guerra-no-irao-acabe-imediatamente-apos-as-eleicoes-intercalares-nos-eua_n1764477",
-      "pubDate": "Wed, 09 Sep 2026 23:07:50 +0100",
-      "description": "O Presidente norte-americano, Donald Trump, previu hoje que a guerra com o Irão &quot;terminará imediatamente após as eleições&quot; intercalares para o Congresso dos Estados Unidos, marcadas para 03 de novembro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7eeca5301ee3fa2816ff0e4f2410100e?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
