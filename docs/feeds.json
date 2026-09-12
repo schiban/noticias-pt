@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-11T23:51:00.133388+00:00",
+  "updated": "2026-09-12T02:55:44.414697+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Joe Salgado virou à direita no 11 de setembro e sobreviveu",
+      "link": "https://observador.pt/especiais/joe-salgado-fugiu-da-torre-norte-do-world-trade-center-e-virou-a-direita-os-quatro-colegas-que-viraram-a-esquerda-morreram/",
+      "pubDate": "Sat, 12 Sep 2026 03:37:15 +0100",
+      "description": "Joe Salgado trabalhava no 47.º andar da Torre Norte no World Trade Center. Naquela manhã, conseguiu fugir do banco com mais três colegas. Uma decisão tomada por instinto salvou-lhe a vida.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3694:2078:nowe:280:842/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/12001455/img-0821-scaled.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. GNR vai juntar-se aos protestos da PSP",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2434/",
+      "pubDate": "Sat, 12 Sep 2026 03:14:27 +0100",
+      "description": "Presidente da Associação dos Profissionais da Guarda garante que só com medidas concretas será possível desconvocar os protestos. Ainda, Pedro Passos Coelho vai apresentar reformas para o país.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Passos Coelho vai apresentar reformas dentro de 2 meses",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2408/",
+      "pubDate": "Sat, 12 Sep 2026 02:13:37 +0100",
+      "description": "Reformas sugeridas pelo antigo primeiro-ministro vão desde a sustentabilidade da Segurança Social à competividade da economia. Ainda, um comboio com 180 passageiros a bordo descarrilou na Normandia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Descarrilamento de comboio em França provoca 44 feridos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2381/",
+      "pubDate": "Sat, 12 Sep 2026 01:18:07 +0100",
+      "description": "A bordo do serviço regional na Normandia seguiam 180 pessoas. Uma mulher de 18 anos está em estado crítico. Ainda, ministro da Administração Interna vai reunir com profissionais da GNR e PSP.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -12,44 +52,24 @@
       "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Desdém à mesa",
-      "link": "https://observador.pt/opiniao/desdem-a-mesa/",
-      "pubDate": "Sat, 12 Sep 2026 00:21:45 +0100",
-      "description": "O momento em que se acaba de comer diz mais sobre quem comeu do que as ideias gerais que professará entre garfadas.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2313%3A2313%3Anowe%3A872%3A15%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151127%2Fjporfirio-retratos-redacao-2026-01-67-scaled.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Riade fecha oleoduto estratégico depois de ataques",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-riade-fecha-oleoduto-estrategico-depois-de-ataques_a1_1764951",
+      "pubDate": "Sat, 12 Sep 2026 03:35:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Candidatura a Capital da Cultura quer valorizar Setúbal",
-      "link": "https://observador.pt/2026/09/12/candidatura-a-capital-da-cultura-quer-valorizar-patrimonio-local-de-setubal-e-deixar-legado/",
-      "pubDate": "Sat, 12 Sep 2026 00:18:43 +0100",
-      "description": "Candidatura de Setúbal a Capital Portuguesa da Cultura tem como bandeiras valorização da memória e da história local. Mas estratégia quer ir além do ano de 2028 e \"deixar um legado\".",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1874:1053:nowe:0:94/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/21071940/captura-de-ecra-2025-08-21-as-071928.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "PJ detém único tripulante da lancha que encalhou em Caminha",
-      "link": "https://observador.pt/2026/09/12/pj-detem-unico-tripulante-da-lancha-que-encalhou-na-praia-de-moledo-em-caminha/",
-      "pubDate": "Sat, 12 Sep 2026 00:17:58 +0100",
-      "description": "A PJ apreendeu uma lancha rápida na praia de Moledo, em Caminha, e deteve um estrangeiro suspeito de tráfico de droga, numa operação com a Guardia Civil espanhola.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/06/17122357/40213189.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Cabo Verde: famílias recebem 907 euros por vítima",
-      "link": "https://observador.pt/2026/09/12/acidente-em-cabo-verde-familias-recebem-907-euros-por-vitima-e-outros-apoios-da-autarquia-e-do-governo/",
-      "pubDate": "Sat, 12 Sep 2026 00:17:25 +0100",
-      "description": "As famílias das 25 vítimas mortais do acidente rodoviário na ilha do Fogo, em Cabo Verde, vão receber 907 euros por cada vítima, além de apoio alimentar e psicológico.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11181459/47737124.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Iraque fecha fronteira com Irão",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-iraque-fecha-fronteira-com-irao_a1_1764949",
+      "pubDate": "Sat, 12 Sep 2026 02:22:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -80,26 +100,6 @@
       "pubDate": "Fri, 11 Sep 2026 23:50:11 +0100",
       "description": "A longa-metragem &quot;A Noiva Difícil&quot;, da cineasta Rubaiyat Hossain, uma coprodução com participação portuguesa, foi hoje distinguida com o Bisato d`Oro de Melhor Realização, atribuído pela crítica independente, presente no Festival de Cinema de Veneza.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h Fim de semana com aviso amarelo por causa das altas temperaturas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-fim-de-semana-com-aviso-amarelo-por-causa-das-altas-temperaturas_a1_1764942",
-      "pubDate": "Fri, 11 Sep 2026 23:25:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "As histórias do 11 de setembro 25 anos depois do ataque ao World Trade Center",
-      "link": "https://www.rtp.pt/noticias/mundo/as-historias-do-11-de-setembro-25-anos-depois-do-ataque-ao-world-trade-center_v1764940",
-      "pubDate": "Fri, 11 Sep 2026 23:00:47 +0100",
-      "description": "As histórias do 11 de setembro de 2001 contam-se, agora, a partir do que cá ficaram a cresceram na sombra da tragédia.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/b3/b3d43d33d0ceed9cddf2652f84a4f74f_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
@@ -300,6 +300,56 @@
       "pubDate": "Fri, 11 Sep 2026 18:46:47 +0000",
       "description": "A identidade digital é a forma de provarmos quem somos em aplicações e plataformas, sem cartão na mão. Já não vive só nos serviços públicos ou nos sistemas das empresas: cada vez mais tarefas&#46;&#46;&#46;",
       "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/identidade-1.jpg"
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Luís Cidade dos trilhos do TT para a adrenalina dos ralis: Toyota GR Yaris Rally2 e Racing4You",
+      "link": "https://www.autosport.pt/ralis/luis-cidade-dos-trilhos-do-tt-para-a-adrenalina-dos-ralis-toyota-gr-yaris-rally2-e-racing4you/",
+      "pubDate": "Fri, 11 Sep 2026 23:23:08 +0000",
+      "description": "Depois de uma incursão promissora na Ronda #3 do Portugal Rally Series, Luís Cidade prepara-se para cimentar a sua presença no universo dos ralis. O talentoso piloto abraça este novo desafio ao volante de um Toyota GR Yaris Rally2, sob a alçada da experiente equipa Racing4You.Embora mantenha a lider",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Desfecho prematuro: Armindo Araújo abandona Rali da Água, campeonato muito mais longe",
+      "link": "https://www.autosport.pt/ralis/desfecho-prematuro-armindo-araujo-abandona-rali-da-agua-campeonato-muito-mais-longe/",
+      "pubDate": "Fri, 11 Sep 2026 22:48:45 +0000",
+      "description": "A ambição de Armindo Araújo e Luís Ramalho de vencer o Rali D&#8217;Água, prova organizada pelo CAMI, chegou ao fim mais cedo do que o esperado. A dupla, que liderava a prova, viu a sua prova interrompida por uma saída de estrada na terceira especial do dia. O seu Škoda Fabia RS Rally2, embora sem [",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "CPR, Rali da Água/PEC4: Rúben Rodrigues líder, razia entre os homens da frente",
+      "link": "https://www.autosport.pt/ralis/cpr-rali-da-agua-pec4-ruben-rodrigues-lider-razia-entre-os-homens-da-frente/",
+      "pubDate": "Fri, 11 Sep 2026 21:14:00 +0000",
+      "description": "A super especial Rota Termal, que marcou a quarta Prova Especial de Classificação (PEC4) do Rali da Água, viu João Barros e Jorge Henriques, no seu Škoda Fabia RS Rally2, brilhar intensamente. A dupla impôs-se com um tempo vitorioso, batendo Rúben Rodrigues e Rui Raimundo (Toyota GR Yaris Rally2) po",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC, Rali do Chile/PEC6: Oliver Solberg termina o dia com 10 segundos de vantagem",
+      "link": "https://www.autosport.pt/ralis/wrc-rali-do-chile-pec6-oliver-solberg-termina-o-dia-com-10-segundos-de-vantagem/",
+      "pubDate": "Fri, 11 Sep 2026 21:03:27 +0000",
+      "description": "Oliver Solberg / Elliott Edmondson (Toyota GR Yaris Rally1) venceram a PEC6, que concluiu este segundo dia do Rali do Chile. A dupla da Toyota instalou-se na liderança na PEC 3 e nunca mais a largou, dilatando progressivamente a distância para Elfyn Evans / Scott Martin (Toyota GR Yaris Rally1). Fri",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC, Rali do Chile/PEC5: Ogier vence, top 5 coube em 2 segundos",
+      "link": "https://www.autosport.pt/sem-categoria/wrc-rali-do-chile-pec5-ogier-vence-top-5-coube-em-2-segundos/",
+      "pubDate": "Fri, 11 Sep 2026 19:48:55 +0000",
+      "description": "A segunda passagem por Nuevo Rere (10,76 km) revelou-se novamente rápida e decidida nos pormenores. Sébastien Ogier / Vincent Landais (Toyota GR Yaris Rally1), com o tempo de 5:10.3 foi o mais rápido, mas a concorrência ficou muito perto. Sami Pajari / Marko Salminen (Toyota GR Yaris Rally1), em seg",
+      "thumbnail": ""
     }
   ]
 }
