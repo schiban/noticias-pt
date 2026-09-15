@@ -1,63 +1,83 @@
 {
-  "updated": "2026-09-15T03:25:57.670242+00:00",
+  "updated": "2026-09-15T08:52:44.037568+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 4h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2401/",
-      "pubDate": "Tue, 15 Sep 2026 04:13:19 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Infância mais sedentária ameaça saúde física e mental",
+      "link": "https://observador.pt/2026/09/15/infancia-mais-sedentaria-ameaca-saude-fisica-e-mental-alerta-carlos-neto/",
+      "pubDate": "Tue, 15 Sep 2026 09:28:26 +0100",
+      "description": "As crianças estão a ficar com o seu desenvolvimento comprometido devido à redução do tempo de brincadeira, ao pouco contacto com a natureza e a excessiva exposição aos ecrãs.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/05/14246368.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. IL não se posiciona sobre CPI ao ministro da Educação",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2437/",
-      "pubDate": "Tue, 15 Sep 2026 03:13:22 +0100",
-      "description": "Mariana Leitão explica que não vai tomar uma decisão enquanto não ouvir esclarecimentos que já pediu. Ainda, o Ministério Público está a investigar o diretor nacional da Polícia Judiciária.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Falta de água dificulta criação de cidades na Lua",
+      "link": "https://observador.pt/2026/09/15/cientistas-alertam-que-falta-de-agua-dificulta-criacao-de-cidades-na-lua/",
+      "pubDate": "Tue, 15 Sep 2026 09:26:56 +0100",
+      "description": "Mesmo no melhor cenário, com uma reciclagem de água de 98% de eficiência, uma cidade de um milhão de pessoas ficaria sem água em pouco mais de um século.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3632:2042:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/08/31121359/doc2023083041421117miguel-a-lopes-2.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Escolas alargam turmas para acomodar alunos sem vaga",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2411/",
-      "pubDate": "Tue, 15 Sep 2026 02:13:23 +0100",
-      "description": "Diretores de agrupamentos de escolas de Lisboa, a Agência para a Gestão do Sistema Educativo e o MECI estiveram reunidos para resolver a questão. Ainda, incêndio lavram em Proença-a-Nova.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Costa Sul e regiões da Madeira sob aviso laranja",
+      "link": "https://observador.pt/2026/09/15/costa-sul-e-regioes-montanhosas-da-madeira-sob-aviso-laranja-devido-ao-calor/",
+      "pubDate": "Tue, 15 Sep 2026 09:25:43 +0100",
+      "description": "A costa sul e as regiões montanhosas da Madeira estão sob aviso laranja devido ao calor. O aviso laranja é emitido sempre que existe \"situação meteorológica de risco moderado a elevado\"",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07053418/47710205.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Ministério Público investiga diretor nacional da PJ",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2384/",
-      "pubDate": "Tue, 15 Sep 2026 01:15:02 +0100",
-      "description": "Em causa a alegada prática dos crimes de falsas declarações por ter referido no julgamento de Rui Pinto que não foram feitas escutas na investigação. Ainda, MEO foi alvo de um ataque em massa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Implante cerebral permite decodificar palavras e gestos",
+      "link": "https://observador.pt/2026/09/15/neuroprotese-para-paralisia-permite-aos-doentes-comunicar-palavras-e-gestos/",
+      "pubDate": "Tue, 15 Sep 2026 09:25:06 +0100",
+      "description": "Uma equipa de investigadores dos EUA criou um implante cerebral com fios que permite captar movimentos, gestos e palavras de pessoas que sofrem de doenças neurodegenerativas ou da fala.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:185/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/09033659/g1-observador02112021mariajoaogala004.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Bruma deixa Benfica e assina com gregos do Aris Salónica",
-      "link": "https://observador.pt/2026/09/15/bruma-deixa-benfica-e-assina-com-gregos-do-aris-salonica/",
-      "pubDate": "Tue, 15 Sep 2026 00:28:00 +0100",
-      "description": "Após passar grande parte da última época a recuperar de uma lesão grave, o extremo português deixa o clube da Luz pelo Aris Salónica, atual sétimo classificado na liga grega.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/27125755/45389148.jpg"
+      "title": "9h. Camiões sem destino a Porto e Gaia proibidos na VCI",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2471/",
+      "pubDate": "Tue, 15 Sep 2026 09:21:05 +0100",
+      "description": "A medida pretende aliviar o trânsito e aplica-se a viaturas de mercadorias com peso bruto superior a 3.500 quilos. Ainda, Proteção Civil prevê muito trabalho no incêndio de Proença-a-Nova.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Novos ataques dos rebeldes Houthi no sul da Arábia Saudita",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-novos-ataques-dos-rebeldes-houthi-no-sul-da-arabia-saudita_a1_1765458",
-      "pubDate": "Tue, 15 Sep 2026 05:18:02 +0100",
+      "title": "Ucrânia admite trégua nos ataques ao setor energético",
+      "link": "https://www.rtp.pt/noticias/mundo/ucrania-admite-tregua-nos-ataques-ao-setor-energetico_v1765508",
+      "pubDate": "Tue, 15 Sep 2026 10:44:47 +0100",
+      "description": "Numa altura em que as infraestruturas críticas continuam debaixo de fogo, Volodymyr Zelensky sinaliza um ponto de viragem.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/be/be3e587321ab1c1117e15c0035dd6f5b_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Governo Israelita ataca filme premiado no Festival de Veneza",
+      "link": "https://www.rtp.pt/noticias/mundo/governo-israelita-ataca-filme-premiado-no-festival-de-veneza_v1765506",
+      "pubDate": "Tue, 15 Sep 2026 10:38:47 +0100",
+      "description": "Continua a gerar forte contestação o documentário &#039;Naza&#039;, focado na Palestina.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/8b/8b373b6b8b4cf52d5f278b628be68e8c_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h Incêndios de Proença-a-Nova já têm 9 meios aéreos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-incendios-de-proenca-a-nova-ja-tem-9-meios-aereos_a1_1765505",
+      "pubDate": "Tue, 15 Sep 2026 10:35:04 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,241 +85,221 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Ucrânia duvida que Rússia cumpra trégua e pare ataques a infraestruturas energéticas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ucrania-duvida-que-russia-cumpra-tregua-e-pare-ataques-a-infraestruturas-energeticas_a1_1765454",
-      "pubDate": "Tue, 15 Sep 2026 04:13:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Tropas nacionais renovam comando em Moçambique",
+      "link": "https://www.rtp.pt/noticias/mundo/tropas-nacionais-renovam-comando-em-mocambique_v1765504",
+      "pubDate": "Tue, 15 Sep 2026 10:31:47 +0100",
+      "description": "Portugal renova a liderança da missão militar da União Europeia em Moçambique.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/7a/7a4939ce94f9b887d26d707eedceb05d_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Mais de 700 bombeiros combatem incêndios em Proença-a-Nova",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-mais-de-700-bombeiros-combatem-incendios-em-proenca-a-nova_a1_1765453",
-      "pubDate": "Tue, 15 Sep 2026 04:13:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "1h Portugal regride em quatro indicadores democráticos",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-portugal-regride-em-quatro-indicadores-democraticos_a1_1765449",
-      "pubDate": "Tue, 15 Sep 2026 02:24:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "00h Ministra do Ambiente não concorda com críticas de Passos Coelho",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-ministra-do-ambiente-nao-concorda-com-criticas-de-passos-coelho_a1_1765446",
-      "pubDate": "Tue, 15 Sep 2026 01:45:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "I Liga. Braga Vence Estoril por 1-0 com Golo Decisivo de Jonas Wind",
+      "link": "https://www.rtp.pt/noticias/desporto/i-liga-braga-vence-estoril-por-1-0-com-golo-decisivo-de-jonas-wind_v1765503",
+      "pubDate": "Tue, 15 Sep 2026 10:27:47 +0100",
+      "description": "O Braga venceu o Estoril por 1-0, com um golo solitário de Jonas Wind a garantir os três pontos para os arsenalistas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/83/83ec8dc6afad1a535c68f167f349dedb_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Tue, 15 Sep 2026 00:25:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "title": "Liga: Pavlidis bate Paciência e é o avançado do mês",
+      "link": "https://maisfutebol.iol.pt/liga/pavlidis/liga-pavlidis-bate-paciencia-e-e-o-avancado-do-mes",
+      "pubDate": "Tue, 15 Sep 2026 09:44:56 +0100",
+      "description": "Jogador do Benfica marcou cinco golos nos três jogos que disputou em agosto",
+      "thumbnail": "https://img.iol.pt/image/id/6a837379d34ed0733ba804aa/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Tue, 15 Sep 2026 00:24:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
+      "title": "II Liga: Feirense vai anunciar regresso do treinador Rui Ferreira",
+      "link": "https://maisfutebol.iol.pt/feirense/ii-liga/ii-liga-feirense-vai-anunciar-regresso-do-treinador-rui-ferreira",
+      "pubDate": "Tue, 15 Sep 2026 09:23:02 +0100",
+      "description": "Confirmada a saída de Mário Nunes depois da quinta vitória consecutiva",
+      "thumbnail": "https://img.iol.pt/image/id/61b0a5d20cf21a10a4132b84/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Benfica: Trubin mostra-se a fazer trabalho extra de pés fora do Seixal",
-      "link": "https://maisfutebol.iol.pt/benfica/anatoliy-trubin/benfica-trubin-mostra-se-a-fazer-trabalho-extra-de-pes-fora-do-seixal",
-      "pubDate": "Tue, 15 Sep 2026 00:06:00 +0100",
-      "description": "Guarda-redes do Benfica trabalhou uma parte do jogo que é muito elogiada a Samuel Soares",
-      "thumbnail": "https://img.iol.pt/image/id/6aa87c4cd34e9a786e757f97/250"
+      "title": "Taiwan impede atletas de representarem a China em competições internacionais",
+      "link": "https://maisfutebol.iol.pt/internacional/taiwan/taiwan-impede-atletas-de-representarem-a-china-em-competicoes-internacionais",
+      "pubDate": "Tue, 15 Sep 2026 09:12:11 +0100",
+      "description": "Tensão entre Taipé e Pequim chega ao desporto",
+      "thumbnail": "https://img.iol.pt/image/id/652e96aed34e371fc0b8cbb6/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Um golaço para a vida: enfermeiro do Salgueiros reanima operador de câmara",
-      "link": "https://maisfutebol.iol.pt/salgueiros/mf-total/um-golaco-para-a-vida-enfermeiro-do-salgueiros-reanima-operador-de-camara",
-      "pubDate": "Mon, 14 Sep 2026 23:59:00 +0100",
-      "description": "Paulo Olival dificilmente esquecerá a tarde de 13 de setembro de 2026, quando escalou uma bancada para reanimar um operador de câmara. Ao Maisfutebol, o gaiense relatou os momentos de tensão e deixou um apelo: «As manobras de reanimação devem ser ensinadas na escola primária»",
-      "thumbnail": "https://img.iol.pt/image/id/6aa865f5d34e53c759c721d1/250"
+      "title": "VÍDEO: Bahia soma quarta vitória consecutiva e sobe ao quarto lugar",
+      "link": "https://maisfutebol.iol.pt/brasileirao/internacional/video-bahia-soma-quarta-vitoria-consecutiva-e-sobe-ao-quarto-lugar",
+      "pubDate": "Tue, 15 Sep 2026 08:57:35 +0100",
+      "description": "Triunfo sobre o Remo por 2-1 a fechar a 27.ª jornada do Brasileirão",
+      "thumbnail": "https://img.iol.pt/image/id/6aa8f9ded34e53c759c7222f/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "João Simões e o regresso à competição: «Foram cinco meses de sofrimento...»",
-      "link": "https://maisfutebol.iol.pt/ii-liga/sporting-b/joao-simoes-e-o-regresso-a-competicao-foram-cinco-meses-de-sofrimento",
-      "pubDate": "Mon, 14 Sep 2026 23:46:00 +0100",
-      "description": "Médio do Sporting não somava qualquer minuto desde 15 de abril, na visita dos leões ao Arsenal",
-      "thumbnail": "https://img.iol.pt/image/id/6aa877fbd34e9a786e757f8e/250"
+      "title": "Rodri revela que falou com Mourinho antes de escolher o Barça: «Não foi fácil»",
+      "link": "https://maisfutebol.iol.pt/espanha/internacional/rodri-revela-que-falou-com-mourinho-antes-de-escolher-o-barca-nao-foi-facil",
+      "pubDate": "Tue, 15 Sep 2026 08:37:11 +0100",
+      "description": "Médio revela como foi convencido a optar pelos catalães em entrevista ao Mundo Deportivo",
+      "thumbnail": "https://img.iol.pt/image/id/6a848e37d34e511da0b33e93/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Drone entrou no espaço aéreo da Lituânia e foi abatido por caças da NATO",
-      "link": "https://sapo.pt/artigo/drone-entrou-no-espaco-aereo-da-lituania-e-foi-abatido-por-cacas-da-nato-6aa877cacd80d8fcaaf2ad4b",
-      "pubDate": "Mon, 14 Sep 2026 22:45:09 +0000",
-      "description": "Drone vindo da Bielorrússia foi abatido meia hora após ter entrado no espaço aéreo do país báltico. Presidente lituano agradeceu pela \"resposta rápida\" e prometeu defender o território.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ArpSiHZE0Ajd4%2B3XQ6UZ71Z5KL%2BvWzjsf9QD3EN5sxAa2xK%2BypcAVe2xLPazCyVT1kFE2mKmZQLcsYneI0xTgFesevSbFq7ZwKEZpfJ%2BE8ovMSHEF1%2FFpaV2Qo45Lo9Rw"
+      "title": "Da revisão constitucional à tauromaquia: quais os temas quentes para o regresso ao Parlamento?",
+      "link": "https://jornaleconomico.sapo.pt/noticias/da-revisao-constitucional-a-tauromaquia-quais-os-temas-quentes-para-o-regresso-ao-parlamento/",
+      "pubDate": "Tue, 15 Sep 2026 06:49:58 +0000",
+      "description": "Os deputados vão levar ao Parlamento temas antigos e importantes que vão desde a revisão constitucional até à tauromaquia, passando também pelos exames nacionais, pela reforma laboral e da justiça, sem deixar de fora a ida de governantes ao...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Alle8fTwzmEAIK%2FXJ0e1IfqMpLWybPUEa1fMLowRRhI493NWn%2Bl6FGN3wg3kymXmWpxH3%2BRpykcPYUeoRFVHPJExBIxkbOxjMkmT8QKFA1QQK6V5rtGGGeQKsEsIB0oGR"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Zelensky demite procurador-geral ao abrigo da lei marcial após suspeitas de corrupção",
-      "link": "https://sapo.pt/artigo/volodymyr-zelensky-demite-procurador-geral-ao-abrigo-da-lei-marcial-apos-suspeitas-de-corrupcao-6aa87059d98f4c2b51254bfd",
-      "pubDate": "Mon, 14 Sep 2026 22:11:36 +0000",
-      "description": "O Presidente ucraniano destituiu o procurador-geral, Ruslan Kravchenko, depois de este ter apresentado a demissão na sequência de suspeitas de corrupção envolvendo um dos seus subordinados.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AB7yS5V2wYPusMKxheolY9zgAHVvLFCDmxWsF3kCZYyGho%2BbmGyTGQiegnSSSDuddZ4e4rvRdsdlZ2gKdDh6G2xLs8bK%2Fy7lIkNV%2FoC8yYj4CSteWJ2ZLdjZ72kDLMFR5"
+      "title": "Constantino Sakellarides. Ao fim de 47 anos, “é justo dizer que o SNS está em cuidados paliativos”",
+      "link": "https://sapo.pt/artigo/constantino-sakellarides-ao-fim-de-47-anos-e-justo-dizer-que-o-sns-esta-em-cuidados-paliativos-6aa8f93dcd80d8fcaafaa0cc",
+      "pubDate": "Tue, 15 Sep 2026 08:34:38 +0000",
+      "description": "A 15 de setembro de 1979, foi publicado o decreto-Lei do então ministro dos Assuntos Sociais, António Arnaut, que cria o SNS. Daí até à atualidade, passaram 47 anos. Para assinalar a data, o DN falou com Constantino Sakellarides, professor...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AAlYzRHe6hSl3%2B6WixsvOY%2B27OT4%2FfzCo1JaMKwOVq4HbKiYpOF9iFyi4hruoM0PMD0ZYjTWcbf%2B6XaZBqrxz2ZqDFurzJwzL53Nh%2BdJr96EB9X4gmO6Mj%2BA2B8PUBCRz"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "\"Muitíssimo satisfeita\" com aviso de Passos, Mariana Leitão insiste que é \"urgente\" reformar o país",
-      "link": "https://sapo.pt/artigo/muitissimo-satisfeita-com-aviso-de-passos-mariana-leitao-insiste-que-e-urgente-reformar-o-pais-6aa866085a67d4ba1d3ac5dd",
-      "pubDate": "Mon, 14 Sep 2026 21:46:34 +0000",
-      "description": "É \"urgente\" avançar com as reformas do Estado, da Segurança Social, do sistema fiscal e da Justiça, segundo a líder liberal, que admite ter ficado satisfeita com o novo apelo de Passos Coelho.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Ar0hfkfep3xz1YhourrjpBAph3QJY6Fxz7pKqLmhvJKsq%2BqYEme%2FjihMQIW7JPki9t%2B0GRyLkzU5YhAuVTKnUPHGfsn1mhfv2XJp6yCo0iwVBnRi4%2Bu0yHqlo6bn8yAqb"
+      "title": "Passos diz que o tempo de Montenegro está a esgotar-se. Ministra responde: há problemas por resolver desde o seu Governo",
+      "link": "https://executivedigest.sapo.pt/passos-diz-que-o-tempo-de-montenegro-esta-a-esgotar-se-ministra-responde-ha-problemas-por-resolver-desde-o-seu-governo/",
+      "pubDate": "Tue, 15 Sep 2026 08:34:38 +0000",
+      "description": "A resposta surge depois de o antigo primeiro-ministro ter escrito, no prefácio do livro “Portugal na Paz dos Bloqueios”, que o tempo disponível para o Governo avançar com reformas está “a esgotar-se”.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=484&W=860&crop=center&delay_optim=1&epic=V2%3AAzPHlZJSe6W6F59HLlUeO4P5%2B%2FSJS%2FdrINS3QpOJ8xOnSZ0V0MFhxd02B5R8B%2F66M3DLbXhXZslloGHuZxUv%2F%2FgyntA2SuW2SUIAtvN3H5BaJ4jVVBJyVLqmEfjA4bTO"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Ministério Público investiga diretor da PJ por suspeitas de falsas declarações e abuso de poder",
-      "link": "https://eco.sapo.pt/2026/09/14/ministerio-publico-investiga-diretor-da-pj-por-suspeitas-de-falsas-declaracoes-e-abuso-de-poder/",
-      "pubDate": "Mon, 14 Sep 2026 17:30:07 +0000",
-      "description": "O processo teve origem numa denúncia apresentada por um coordenador da PJ. Em causa estão, entre outros factos, declarações prestadas por Carlos Cabreiro em tribunal durante o julgamento de Rui Pinto.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AqpEzGuRtz%2BLrJEw57t1J4SKyI%2B81U2BIp4LhQm69KGIoOEUzuu3SpnWQ0dMdcdQuiDaUW5a8371SRRJooPV6BoJrgA37gQ4uSxNtpWotb92GV0Z8dXaiXZpNuKKL2I6W"
+      "title": "Pentágono admite escassez de munições devido à guerra contra o Irão",
+      "link": "https://sapo.pt/artigo/pentagono-admite-escassez-de-municoes-devido-a-guerra-contra-o-irao-6aa8f7a08767c6705ceb62a2",
+      "pubDate": "Tue, 15 Sep 2026 08:34:38 +0000",
+      "description": "Segundo meios de comunicação, a falta de munições levou o Presidente a não renovar os ataques em larga escala contra Teerão durante o verão.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3As7NFcJwSNwdpgvsmUoDcPAHLMYZ7gJ%2FrZu6qDFHW3nMgfmTq7pqSerKzVtU%2BhdFXWH2%2BDd9RbNLmeIbIpAUIBzIIIfRlHYpLx4XSG7RLeIEkicxG8DjF4ALX9k2SAL7b"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "MEO confirma \"ataque em massa\" e garante que dados dos clientes não foram afetados",
-      "link": "https://sapo.pt/artigo/meo-confirma-ataque-em-massa-e-garante-que-dados-dos-clientes-nao-foram-afetados-6aa866aa5a67d4ba1d3ae0b2",
-      "pubDate": "Mon, 14 Sep 2026 21:28:07 +0000",
-      "description": "A MEO confirmou que “foi alvo de um ataque em massa”, que congestionou e degradou a rede internacional ao longo desta segunda-feira. De acordo com a operadora de telecomunicações, o ataque não pôs em causa quaisquer dados da MEO ou dos clientes.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AMMIuORWiP5w%2BYJ0Mk6rjl1tLfrfEnC3AsudXIAccjkJrtk0S5ODIAXZJ3psX8RXegwgaw12vOMxpmOyArqLAMTJELnz2ri7nr%2FU6TzWsFSAyMG2tALof3VSIEDxHrcst"
+      "title": "Abastecer em Espanha: a diferença de preço dos combustíveis é mesmo assim tão grande?",
+      "link": "https://pplware.sapo.pt/motores/abastecer-em-espanha-a-diferenca-de-preco-dos-combustiveis-e-mesmo-assim-tao-grande/",
+      "pubDate": "Tue, 15 Sep 2026 08:34:38 +0000",
+      "description": "Os portugueses continuam a atravessar a fronteira para encher o depósito mais barato, e a ANAREC já veio a público acusar o Governo de “mentir aos portugueses” sobre a fatura fiscal dos combustíveis. Contudo,...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A20V5HM%2B2ISPJsL7LSf3up0UYOwo7LK414cm1UvDWBC4wWFdIxek%2Bzh3epmBJTRf1Pzn%2BpW5xc6H357hKIi6FrNpakDJtj7jiqUwYe5%2FkRt2DlxX9O%2BXviPFCdnEhWU59"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Índia exporta eletricidade para o Nepal para apoiar recuperação pós-enxurradas",
-      "link": "https://www.noticiasaominuto.com/mundo/3051416/india-exporta-eletricidade-para-o-nepal-para-apoiar-recuperacao-pos-enxurradas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-14 23:58:52",
+      "title": "Porto apresenta até ao final do ano \"nova política\" de estacionamento",
+      "link": "https://www.noticiasaominuto.com/pais/3051537/camara-do-porto-apresenta-ate-ao-final-do-ano-nova-politica-de-estacionamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-15 09:51:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a9add11da636.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NywiY3JvcEhlaWdodCI6MTcxOSwiY3JvcFgiOjI4NSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_573759ac4e5b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0ODAwLCJjcm9wSGVpZ2h0IjoyNzAwLCJjcm9wWCI6NDYsImNyb3BZIjoyNDR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Juíza diz que há pedido de ilegalização do Chega, TC desmente. \"Opinião\"?",
-      "link": "https://www.noticiasaominuto.com/pais/3051413/juiza-diz-que-ha-pedido-de-ilegalizacao-do-chega-tc-desmente-opiniao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-14 23:55:12",
+      "title": "Douro. IVDP tem 15 dias para abrir candidaturas ao apoio extraordinário",
+      "link": "https://www.noticiasaominuto.com/pais/3051546/ivdp-tem-15-dias-para-abrir-candidaturas-ao-apoio-extraordinario-para-o-douro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-15 09:46:49",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53d61f7812e41.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNjMyLCJjcm9wSGVpZ2h0IjoxNDgxLCJjcm9wWCI6NDUsImNyb3BZIjoxM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxMywiY3JvcEhlaWdodCI6MTgwMSwiY3JvcFgiOjExNDcsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_53ad6fa65e26a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Remontada épica. O golaço de Carlos Augusto que iniciou a virada do Inter",
-      "link": "https://www.noticiasaominuto.com/desporto/3051412/remontada-epica-o-golaco-de-carlos-augusto-que-iniciou-a-virada-do-inter#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-14 23:46:08",
+      "title": "Leif-Erik Holm arranca para última semana de campanha em duas rodas",
+      "link": "https://www.noticiasaominuto.com/mundo/3051509/reportagem-candidato-da-extrema-direita-arranca-para-ultima-semana-de-campanha-em-duas-rodas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-15 09:45:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6aa876d4293c9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzczLCJjcm9wSGVpZ2h0Ijo5OTcsImNyb3BYIjo1NCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU2MSwiY3JvcEhlaWdodCI6OTk3LCJjcm9wWCI6ODAzLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6aa9062a79ff5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MjksImNyb3BZIjo1Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NzAwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sodim absorve CIMO e passa a acionista de referência exclusivo da Semapa",
-      "link": "https://www.noticiasaominuto.com/economia/3051411/sodim-absorve-cimo-e-passa-a-acionista-de-referencia-exclusivo-da-semapa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-14 23:44:47",
+      "title": "Bolsas descem pressionadas por petróleo, obrigações e abrandamento na IA",
+      "link": "https://www.noticiasaominuto.com/economia/3051548/bolsas-europeias-em-queda-pressionadas-por-petroleo-obrigacoes-e-abrandamento-na-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-15 09:45:35",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_618576d1db3c8.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6877661d060c2.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Oleoduto saudita atingido por drones fica fora de serviço por semanas",
-      "link": "https://www.noticiasaominuto.com/economia/3051410/medio-oriente-oleoduto-saudita-atingido-por-drones-fica-fora-de-servico-por-semanas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-14 23:39:21",
+      "title": "Dinamarca diz que fragata russa disparou sinalizadores contra helicóptero",
+      "link": "https://www.noticiasaominuto.com/mundo/3051512/exercito-dinamarques-diz-que-fragata-russa-disparou-sinalizadores-contra-helicoptero#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-15 09:45:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_559fcd747f730.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6aa905b657056.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MTksImNyb3BIZWlnaHQiOjQ2MSwiY3JvcFgiOjEwLCJjcm9wWSI6NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzA3LCJjcm9wSGVpZ2h0Ijo1NDYsImNyb3BYIjoxMjIsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "MEO: ataque em massa provoca falhas na internet e rede móvel",
-      "link": "https://pplware.sapo.pt/internet/meo-ataque-em-massa-provoca-falhas-na-internet-e-rede-movel/",
-      "pubDate": "Mon, 14 Sep 2026 22:01:44 +0000",
-      "description": "Desde a madrugada até ao final da tarde desta segunda-feira, a MEO tem tido problemas, quer na sua rede móvel, quer no fornecimento de internet, conforme o Pplware noticiou. A operadora diz ter sido&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/meo_problemas00.webp"
+      "title": "Fim do enjoo no carro! Truque do Android 17 está a chegar a novos smartphones",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/android/fim-do-enjoo-no-carro-truque-do-android-17-esta-a-chegar-a-novos-smartphones/",
+      "pubDate": "Tue, 15 Sep 2026 08:30:56 +0000",
+      "description": "O desconforto provocado pelo enjoo durante deslocações de carro é uma queixa antiga entre quem tenta usar os smartphones em movimento. Para responder a este problema, a Google iniciou a disponibilização alargada da funcionalidade&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/android_moto_assist.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Menor entrou com arma para dentro de um robotáxi e o carro denunciou-os à polícia",
-      "link": "https://pplware.sapo.pt/motores/menor-entrou-com-arma-para-dentro-de-um-robotaxi-e-o-carro-denunciou-os-a-policia/",
-      "pubDate": "Mon, 14 Sep 2026 21:40:26 +0000",
-      "description": "Um caso em San Francisco mostra que, mesmo sem condutor, um carro autónomo (robotáxi) não deixa de ter alguém a vigiar o que se passa lá dentro&#8230; e as consequências chegaram rápido. A viagem&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/waymo_armas00.webp"
+      "title": "Abastecer em Espanha: a diferença de preço dos combustíveis é mesmo assim tão grande?",
+      "link": "https://pplware.sapo.pt/motores/abastecer-em-espanha-a-diferenca-de-preco-dos-combustiveis-e-mesmo-assim-tao-grande/",
+      "pubDate": "Tue, 15 Sep 2026 07:57:53 +0000",
+      "description": "Os portugueses continuam a atravessar a fronteira para encher o depósito mais barato, e a ANAREC já veio a público acusar o Governo de &#8220;mentir aos portugueses&#8221; sobre a fatura fiscal dos combustíveis. Contudo,&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/04/combustiveis1-1.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "A barra de tarefas do Windows 11 já se mexe, cinco anos depois",
-      "link": "https://pplware.sapo.pt/zzpublicidade/barra-de-tarefas-windows-11-goodoffer24/",
-      "pubDate": "Mon, 14 Sep 2026 21:00:42 +0000",
-      "description": "Desde 2021 que era a queixa mais repetida sobre o Windows 11: a barra de tarefas estava presa ao fundo do ecrã e a Microsoft dizia que não valia a pena reescrever o código&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/15th-1.jpg"
+      "title": "Adeus ao Office 2021: Microsoft marca o fim do suporte já para o próximo mês",
+      "link": "https://pplware.sapo.pt/microsoft/adeus-ao-office-2021-microsoft-marca-o-fim-do-suporte-ja-para-o-proximo-mes/",
+      "pubDate": "Tue, 15 Sep 2026 07:30:07 +0000",
+      "description": "Quem ainda utiliza o Office 2021 no PC tem motivos para começar a planear uma mudança a curto prazo. A Microsoft começou a alertar os utilizadores para o fim definitivo do suporte desta suite&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/03/office_2023_venda_1.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Se permitir, a Apple utilizará os seus dados para treinar a sua IA no iOS 27",
-      "link": "https://pplware.sapo.pt/inteligencia-artificial/se-permitir-a-apple-utilizara-os-seus-dados-para-treinar-a-sua-ia-no-ios-27/",
-      "pubDate": "Mon, 14 Sep 2026 20:30:58 +0000",
-      "description": "A Apple alterou a sua política de privacidade com a chegada do iOS 27 e passará a solicitar a autorização dos utilizadores para recolher dados com o objetivo de treinar a sua inteligência artificial&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2024/06/Apple_Intelligence_iphone_quem_1.jpg"
+      "title": "Smartwatch está a mentir-lhe? Ciência revela que as calorias gastas são pura ilusão",
+      "link": "https://pplware.sapo.pt/ciencia/smartwatch-esta-a-mentir-lhe-ciencia-revela-que-as-calorias-gastas-sao-pura-ilusao/",
+      "pubDate": "Tue, 15 Sep 2026 07:00:20 +0000",
+      "description": "Uma investigação veio deitar por terra essa certeza dos dados do smartwatch. O teste colocou frente a frente equipamentos da Apple, Garmin, Samsung e Fitbit contra um analisador metabólico profissional. O resultado não deixa&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/smartwatch_calorias_1.jpg"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Tecnologia extraterrestre na Lua? Cientistas acreditam haver vestígios microscópicos",
-      "link": "https://pplware.sapo.pt/ciencia/tecnologia-extraterrestre-na-lua-cientistas-acreditam-haver-vestigios-microscopicos/",
-      "pubDate": "Mon, 14 Sep 2026 19:30:32 +0000",
-      "description": "Há uma linha de pensadores que continua a acreditar que &#8220;nós não estamos sozinhos&#8221; neste universo imenso. Como tal, a poeira lunar poderá guardar pistas sobre civilizações que existiram muito antes da humanidade. Uma&#46;&#46;&#46;",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/lua_extraterrestre00.webp"
+      "title": "Revolut entregou dados a falsos pedidos. Alegações apontam para autoridades italianas",
+      "link": "https://pplware.sapo.pt/informacao/revolut-entregou-dados-a-falsos-pedidos-alegacoes-apontam-para-autoridades-italianas/",
+      "pubDate": "Tue, 15 Sep 2026 06:00:00 +0000",
+      "description": "O Revolut confirmou a divulgação de informação de clientes a terceiros não autorizados. Uma nova reivindicação associa o caso a sistemas policiais italianos, mas a dimensão e a origem dessa alegada intrusão permanecem por&#46;&#46;&#46;",
+      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/09/revolut_italia00.jpg"
     },
     {
       "sourceId": "autosport",
