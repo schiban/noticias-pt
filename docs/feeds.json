@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-15T23:55:57.844831+00:00",
+  "updated": "2026-09-16T03:22:30.381879+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2438/",
+      "pubDate": "Wed, 16 Sep 2026 03:16:06 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2412/",
+      "pubDate": "Wed, 16 Sep 2026 02:13:36 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias da 1h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2385/",
+      "pubDate": "Wed, 16 Sep 2026 01:13:44 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,42 +52,12 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15130635/47778563.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A Islândia, Porto Rico e a UE",
-      "link": "https://observador.pt/opiniao/a-islandia-porto-rico-e-a-ue/",
-      "pubDate": "Wed, 16 Sep 2026 00:23:11 +0100",
-      "description": "Independentemente da minha discordância com a equivalência estabelecida entre a Islândia e Porto Rico, este parece-me um ensinamento sóbrio, oportuno e perspicaz face ao actual momento da UE.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F10%2F11100759%2Fandrecc81-azevedo-alves-11_467x467_acf_cropped.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Mais in que a luz de Lisboa é dar à luz em Lisboa",
-      "link": "https://observador.pt/opiniao/mais-in-que-a-luz-de-lisboa-e-dar-a-luz-em-lisboa/",
-      "pubDate": "Wed, 16 Sep 2026 00:22:37 +0100",
-      "description": "Então parece que o hospital Amadora-Sintra é mais visitado que o Mosteiro dos Jerónimos?! E eu a pensar que o problema do turismo em Portugal era a gentrificação. Afinal, é a hospitalização.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Viana responde a providência que travou obras do mercado",
-      "link": "https://observador.pt/2026/09/16/viana-do-castelo-ja-respondeu-a-providencia-cautelar-que-parou-obras-do-mercado/",
-      "pubDate": "Wed, 16 Sep 2026 00:21:24 +0100",
-      "description": "Câmara de Viana do Castelo tem um prazo de 10 dias para deduzir oposição \"ao decretamento provisório\" solicitado pela Associação para a Defesa do Património, que travou a obra do novo mercado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1700:954:nowe:0:176/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/09231939/luis-nobre-1-600-2500.jpg"
-    },
-    {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "23h Perto de mil alunos que não tinham escola atribuída foram colocados entre ontem e hoje",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-perto-de-mil-alunos-que-nao-tinham-escola-atribuida-foram-colocados-entre-ontem-e-hoje_a1_1765693",
-      "pubDate": "Wed, 16 Sep 2026 00:44:02 +0100",
+      "title": "4h Preço da eletricidade regulada sobe 2,7% a partir de outubro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-preco-da-eletricidade-regulada-sobe-27-a-partir-de-outubro_a1_1765710",
+      "pubDate": "Wed, 16 Sep 2026 05:14:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,9 +65,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "22h Ministério da Educação divulga o número de alunos colocados que não tinham escola atribuída no arranque do ano letivo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ministerio-da-educacao-divulga-o-numero-de-alunos-colocados-que-nao-tinham-escola-atribuida-no-arranque-do-ano-letivo_a1_1765692",
-      "pubDate": "Wed, 16 Sep 2026 00:34:02 +0100",
+      "title": "3h Associação vítimas de abusos recebida por Seguro na 6ª feira",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-associacao-vitimas-de-abusos-recebida-por-seguro-na-6a-feira_a1_1765708",
+      "pubDate": "Wed, 16 Sep 2026 04:14:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -75,31 +75,31 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Descoberto fragmento da \"Odisseia\" com cerca de 1.700 anos na Biblioteca de Utrecht",
-      "link": "https://www.rtp.pt/noticias/cultura/descoberto-fragmento-da-odisseia-com-cerca-de-1700-anos-na-biblioteca-de-utrecht_n1765626",
-      "pubDate": "Wed, 16 Sep 2026 00:06:18 +0100",
-      "description": "Um fragmento da &quot;Odisseia&quot;, de Homero, com cerca de 1.700 anos, foi identificado na Biblioteca da Universidade de Utrecht, nos Países Baixos, anunciou hoje esta instituição.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "1h Semana europeia da mobilidade, as queixas de quem usa os comboios urbanos na região de Lisboa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-semana-europeia-da-mobilidade-as-queixas-de-quem-usa-os-comboios-urbanos-na-regiao-de-lisboa_a1_1765705",
+      "pubDate": "Wed, 16 Sep 2026 03:43:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Real Madrid salva-se de empate com golo nos descontos",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/real-madrid-salva-se-de-empate-com-golo-nos-descontos_d1765689",
-      "pubDate": "Wed, 16 Sep 2026 00:05:46 +0100",
-      "description": "Carlos Espí salvou o Real Madrid, de José Mourinho, de um empate com o lanterna-vermelha Elche, ao marcar nos descontos do jogo da sexta jornada da Liga espanhola de futebol, esta terça-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/55/55afdccd466619f8db5631dba0a7cd35?w=350&amp;q=50&amp;rect=0,206,3477,1906&amp;auto=format"
+      "title": "2h Dominado incêndio que deflagrava desde ontem em Proença-a-Nova",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-dominado-incendio-que-deflagrava-desde-ontem-em-proenca-a-nova_a1_1765702",
+      "pubDate": "Wed, 16 Sep 2026 03:17:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Argentina despede-se de Messi em outubro. Prestianni está na lista de convocados",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/argentina-despede-se-de-messi-em-outubro-prestianni-esta-na-lista-de-convocados_d1765686",
-      "pubDate": "Tue, 15 Sep 2026 23:57:10 +0100",
-      "description": "Lionel Messi despede-se definitivamente da seleção argentina de futebol no dia 6 de outubro, frente ao Benim, em Buenos Aires, num particular para o qual o avançado se junta à convocatória divulgada esta terça feira, que inclui Gianluca Prestianni.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/da/da443f399ac7c45f5e50a94cec8b63e6?w=350&amp;q=50&amp;rect=0,114,1920,1053&amp;auto=format"
+      "title": "0h Só falta o voto a favor do PS para realização de comissão parlamentar de inquérito à correção dos exames nacionais",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-so-falta-o-voto-a-favor-do-ps-para-realizacao-de-comissao-parlamentar-de-inquerito-a-correcao-dos-exames-nacionais_a1_1765699",
+      "pubDate": "Wed, 16 Sep 2026 02:22:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
