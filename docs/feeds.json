@@ -1,55 +1,85 @@
 {
-  "updated": "2026-09-21T23:47:26.536248+00:00",
+  "updated": "2026-09-22T03:05:48.149977+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "IL pressiona Governo a baixar imposto sobre os combustíveis",
-      "link": "https://observador.pt/2026/09/22/il-pressiona-governo-a-cumprir-recomendacao-aprovada-em-maio-pelo-parlamento-para-reduzir-isp/",
-      "pubDate": "Tue, 22 Sep 2026 00:28:31 +0100",
-      "description": "A IL voltou ao Parlamento para exigir ao Governo que execute a resolução aprovada em maio — com votos de Chega, PS, PCP e BE — que recomenda a descida do ISP nos combustíveis.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/27131108/46104521.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Oposição questiona ida de ex-vereadora do Chega para escola",
-      "link": "https://observador.pt/2026/09/22/oposicao-questiona-ida-de-ex-vereadora-do-chega-em-coimbra-para-escola-profissional/",
-      "pubDate": "Tue, 22 Sep 2026 00:28:10 +0100",
-      "description": "Maria Lencastre absteve-se na votação que consumou a integração da Eptoliva no ITAP e começou a trabalhar na escola em agosto. A oposição exige explicações.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/11092357/45284656.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Passos: o drama de ter razão e não ter votos",
-      "link": "https://observador.pt/opiniao/passos-o-drama-de-ter-razao-e-nao-ter-votos/",
-      "pubDate": "Tue, 22 Sep 2026 00:22:26 +0100",
-      "description": "Passos vai ter finalmente um plano para o País. Será uma espécie de moção de censura construtiva que enfrenta um problema: tem ideias, um primeiro-ministro alternativo, mas faltam-lhe os votos.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2414%3A2414%3Anowe%3A74%3A952%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170559%2Frui-pedro-antunes.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A inteligência artificial nas mãos da esperteza saloia",
-      "link": "https://observador.pt/opiniao/a-inteligencia-artificial-nas-maos-da-esperteza-saloia/",
-      "pubDate": "Tue, 22 Sep 2026 00:20:44 +0100",
-      "description": "Há uma diferença entre a IA matar-nos ou alguém usá-la como ferramenta para nos matar. Os fabricantes de cutelaria não pedem ao Governo: “Por favor, obriguem-nos a fazer facas menos afiadas!”",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2444%3A2443%3Anowe%3A24%3A962%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170602%2Fze-diogo-quintela.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 00h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2426/",
-      "pubDate": "Tue, 22 Sep 2026 00:16:16 +0100",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2444/",
+      "pubDate": "Tue, 22 Sep 2026 03:15:15 +0100",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Montenegro reage: \"Jorge Palma parte, mas música fica\"",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2418/",
+      "pubDate": "Tue, 22 Sep 2026 02:15:15 +0100",
+      "description": "Cantor e compositor morreu aos 76 anos, vítima de paragem cardiorrespiratória. Ainda nesta edição, na reação, José Luís Carneiro recorda “o homem livre, de criatividade singular e autenticidade rara”.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"Ficam a voz e o carisma\". As reações à morte de Jorge Palma",
+      "link": "https://observador.pt/2026/09/22/o-que-ele-ja-nao-vai-viver-nos-vamos-inventar-com-ele-as-reacoes-a-morte-de-jorge-palma/",
+      "pubDate": "Tue, 22 Sep 2026 01:36:51 +0100",
+      "description": "Jorge Palma morreu aos 76 anos, anunciou a família. Políticos foram os primeiros a reagir, recordando as canções de Palma.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/17172451/41191675.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Morre Jorge Palma aos 76 anos",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2391/",
+      "pubDate": "Tue, 22 Sep 2026 01:15:43 +0100",
+      "description": "Família confirma que Jorge Palma morreu esta segunda-feira à noite, vítima de paragem cardiorrespiratória. Primeiro-ministro já reagiu: “Jorge Palma parte, mas a música fica”, escreve Luís Montenegro.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Morreu Jorge Palma. Cantor e compositor tinha 76 anos",
+      "link": "https://observador.pt/2026/09/22/morreu-jorge-palma-um-dos-maiores-nomes-da-musica-portuguesa-cantor-e-compositor-tinha-76-anos/",
+      "pubDate": "Tue, 22 Sep 2026 00:46:24 +0100",
+      "description": "Vítima de paragem cardiorrespiratória, o músico lisboeta deixa 14 álbuns de originais, prémios de carreira e mais de cinquenta anos de canções gravadas na memória dos portugueses.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:424/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/24162328/jporfirio-jorge-palma-8-scaled.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Morreu Jorge Palma",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-morreu-jorge-palma_a1_1766899",
+      "pubDate": "Tue, 22 Sep 2026 02:59:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Sérvia: humorista Zoran Kesic usa o fado para criticar fim de programa",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-servia-humorista-zoran-kesic-usa-o-fado-para-criticar-fim-de-programa_a1_1766898",
+      "pubDate": "Tue, 22 Sep 2026 02:53:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Morreu o músico Jorge Palma aos 76 anos",
+      "link": "https://www.rtp.pt/noticias/cultura/morreu-o-musico-jorge-palma-aos-76-anos_n1766893",
+      "pubDate": "Tue, 22 Sep 2026 01:59:45 +0100",
+      "description": "Morreu Jorge Palma, um dos maiores nomes da música portuguesa. O cantor e compositor faleceu aos 76 anos, deixando uma obra que atravessou gerações e marcou a história da canção nacional.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9a7ffb32fc49aa159b6a7c513d83229d?w=350&amp;q=50&amp;rect=0,7,1141,626&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -70,36 +100,6 @@
       "pubDate": "Tue, 22 Sep 2026 01:13:47 +0100",
       "description": "Quase 300 bombeiros combatem um incêndio em Arcos de Valdevez, no distrito de Viana do Castelo. O fogo arde em zona de mato.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/images/d0/d03ec25140e21da699d5d6f907b195a9_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Presidente da AIMA está de saída vai para a Autoridade para a Concorrência",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-presidente-da-aima-esta-de-saida-vai-para-a-autoridade-para-a-concorrencia_a1_1766887",
-      "pubDate": "Tue, 22 Sep 2026 00:56:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Índice de aprovação de Trump cai para mínimo histórico",
-      "link": "https://www.rtp.pt/noticias/mundo/indice-de-aprovacao-de-trump-cai-para-minimo-historico_n1766886",
-      "pubDate": "Tue, 22 Sep 2026 00:30:33 +0100",
-      "description": "É o mais baixo da carreira política de Donald Trump: o índice de aprovação do presidente dos Estados Unidos caiu para os 32 por cento, segundo um estudo da Reuters.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6ef441f82b3e4d886b949f2aacaec4a7?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "22h O preço do \"brent\" para entrega em novembro está em queda, apesar da tensão no Médio Oriente",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-o-preco-do-brent-para-entrega-em-novembro-esta-em-queda-apesar-da-tensao-no-medio-oriente_a1_1766884",
-      "pubDate": "Mon, 21 Sep 2026 23:48:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,6 +155,16 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
+      "title": "Morreu Jorge Palma. Cantor e compositor tinha 76 anos",
+      "link": "https://sapo.pt/artigo/morreu-jorge-palma-cantor-e-compositor-tinha-76-anos-6ab1c20970f6156704cb8497",
+      "pubDate": "Tue, 22 Sep 2026 00:02:03 +0000",
+      "description": "A família anunciou a morte do músico, ocorrida na segunda-feira à noite, vítima de paragem cardiorrespiratória. Tinha uma carreira de mais de meio século.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Aj7SVDRceviux5DPuKjvD7nKrdEf1NWfxvO5YfpBpFdrdzAy4hUxGmevjsIpnzfgHdHpylRDCxPgDQIB82UFRLYNpHMzF05dqRmy04lCxKaO%2BvfSDkER4IdlsNTEeO7fj"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
       "title": "Proteção Civil alerta para risco de incêndio em todo o país",
       "link": "https://sapo.pt/artigo/protecao-civil-alerta-para-risco-de-incendio-em-todo-o-pais-6ab1712b843f90c4471b24b4",
       "pubDate": "Mon, 21 Sep 2026 18:15:32 +0000",
@@ -192,14 +202,34 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Af9gDks4hA2DYN1AH6tLmvKAr4lhxdUhMnPufd%2Fg%2FRezmQc7z%2B5eoXRME3cHflB5xRmi%2BwbMrozNqSanM0aaeBpeg%2Fao66fsLeZdUCc93s4cUnmz8cLdYW34XcPcicULP"
     },
     {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Alucinação de IA quase levou Estados Unidos a atacar um navio chinês",
-      "link": "https://tek.sapo.pt/noticias/computadores/artigos/alucinacao-de-ia-quase-levou-estados-unidos-a-atacar-um-navio-chines/",
-      "pubDate": "Mon, 21 Sep 2026 19:16:09 +0000",
-      "description": "Um relatório de inteligência montado com recurso à IA levou os militares dos Estados Unidos a preparar a interceção de um navio chinês no Médio Oriente, durante a guerra com o Irão. A operação foi travada apenas momentos antes, quando se...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3ALxuzSfqUFjX0q9UayVEjvzy1MA28H3ghGE%2FV0cG1WjGxx9gkRqt%2F5oaENKmFGuriXl3pIjjw4WdzDW%2FXVUnDSVzAQ0mVo8Ux2v8ysLxib%2B29zSNpPzIpCJUUqfd1%2BMtB"
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Músico de muitas companhias que \"Só\" marcou a música portuguesa",
+      "link": "https://www.noticiasaominuto.com/pais/3055170/perfil-obitojorge-palma-musico-de-muitas-companhias-que-so-marcou-a-musica-portuguesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-22 01:08:02",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_651d843c84d3b.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Palma ajudou a transformar cultura com \"voz única e músicas intemporais\"",
+      "link": "https://www.noticiasaominuto.com/pais/3055166/obitojorge-palma-musico-ajudou-a-transformarcultura-comvoz-unica-e-musicas-intemporais-pm#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-22 01:03:14",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a1fe93c04f47.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI1LCJjcm9wSGVpZ2h0IjoxNDIwLCJjcm9wWCI6MTgsImNyb3BZIjo0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NjkyLCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Morreu o músico Jorge Palma. Tinha 76 anos",
+      "link": "https://www.noticiasaominuto.com/pais/3055164/musico-jorge-palma-morre-aos-76-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-09-22 00:56:27",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ab1c57de9c18.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk0LCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MjQsImNyb3BZIjoxNjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc5MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
@@ -220,36 +250,6 @@
       "pubDate": "2026-09-22 00:01:00",
       "description": "",
       "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6967854b60e9c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY2LCJjcm9wSGVpZ2h0IjoxMzg3LCJjcm9wWCI6MzQsImNyb3BZIjoxNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg4OSwiY3JvcEhlaWdodCI6MTU4MCwiY3JvcFgiOjIyNSwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Fogo em Arcos de Valdevez com duas frentes ativas e reforços de meios",
-      "link": "https://www.noticiasaominuto.com/pais/3055149/incendios-fogo-em-arcos-de-valdevez-com-duas-frentes-ativas-e-reforcos-de-meios-terrestres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-21 23:55:40",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a4967df786c6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc3LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6MzYsImNyb3BZIjoyODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjczMSwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Reino Unido oferece reabastecimento à Arábia Saudita para combater hutis",
-      "link": "https://www.noticiasaominuto.com/mundo/3055148/medio-oriente-reino-unidooferece-reabastecimento-aereo-a-arabia-saudita-para-combater-huthis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-21 23:49:59",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a6cacc737526.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2NCwiY3JvcEhlaWdodCI6MTcxNCwiY3JvcFgiOjc2MCwiY3JvcFkiOjB9fQ=="
-    },
-    {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Oficial: Antigo jogador do Benfica regressa a Portugal para jogar no Fafe",
-      "link": "https://www.noticiasaominuto.com/desporto/3055147/oficial-antigo-jogador-do-benfica-regressa-a-portugal-para-jogar-no-fafe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-09-21 23:47:55",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ab1b3fa51484.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjM4LCJjcm9wSGVpZ2h0Ijo5MjIsImNyb3BYIjowLCJjcm9wWSI6NzF9fQ=="
     },
     {
       "sourceId": "pplware",
