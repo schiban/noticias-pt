@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-23T23:50:03.118857+00:00",
+  "updated": "2026-09-24T02:57:04.818163+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 3h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2446/",
+      "pubDate": "Thu, 24 Sep 2026 03:16:46 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Venezuela. Presidente interina promete eleições",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2420/",
+      "pubDate": "Thu, 24 Sep 2026 02:15:22 +0100",
+      "description": "Delcy Rodríguez garante que instituições venezuelanas estão prontas para assegurar processo inclusivo e transparente. Ainda neste jornal, Zelensky pede à China ajuda para pôr fim à guerra na Ucrânia.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. EUA e China prolongam tréguas comerciais",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2393/",
+      "pubDate": "Thu, 24 Sep 2026 01:15:20 +0100",
+      "description": "Anúncio do secretário do Tesouro norte-americano em entrevista à Fox News, pouco depois da chegada de Xi Jinping a território norte-americano. Ainda nesta edição, o último adeus a Jorge Palma.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17124617/47301315.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Palmas para Jorge no adeus ao mestre da Terra dos Sonhos",
-      "link": "https://observador.pt/programas/reportagem-observador/palmas-para-jorge-no-adeus-ao-mestre-da-terra-dos-sonhos/",
-      "pubDate": "Thu, 24 Sep 2026 00:27:23 +0100",
-      "description": "À boleia do \"fim do verão\", Jorge Palma deixa um legado de música, luta e poesia. A despedida fez-se com família, amigos, fãs e nomes da política que não deixam esquecer a importância do artista.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2033:1145:nowe:167:240/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/22211152/2016-ccbjorge-palma9902-ritacarmo.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Presidente da Venezuela insiste que país vai ter eleições",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-presidente-da-venezuela-insiste-que-pais-vai-ter-eleicoes_a1_1767374",
+      "pubDate": "Thu, 24 Sep 2026 04:28:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O mefistófeles tropical",
-      "link": "https://observador.pt/opiniao/o-mefistofeles-tropical/",
-      "pubDate": "Thu, 24 Sep 2026 00:25:42 +0100",
-      "description": "O que se passa no Brasil excede qualquer comparação. Pela escala e pela exibição de decadência do Supremo Tribunal Federal, o terceiro poder, que devia ser o garante e o árbitro dos outros dois.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2040%3A2039%3Anowe%3A216%3A241%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170546%2Fjaime-nogueira-pinto.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h EUA e China prolongam trégua nas tarifas até 10 de janeiro",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-eua-e-china-prolongam-tregua-nas-tarifas-ate-10-de-janeiro_a1_1767372",
+      "pubDate": "Thu, 24 Sep 2026 03:22:01 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A matança dos inocentes",
-      "link": "https://observador.pt/opiniao/a-matanca-dos-inocentes/",
-      "pubDate": "Thu, 24 Sep 2026 00:24:21 +0100",
-      "description": "Era uma vez uma pílula vermelha, uma pílula azul e um arco-íris monocromático",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Portugal não está atrasado na transição energética, garante o PM na ONU em Nova Iorque",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-portugal-nao-esta-atrasado-na-transicao-energetica-garante-o-pm-na-onu-em-nova-iorque_a1_1767371",
+      "pubDate": "Thu, 24 Sep 2026 03:05:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Des.Acordo é o novo programa da RTP Notícias. Entre o IVA Zero e a violência doméstica, três deputadas à procura de consenso",
+      "link": "https://www.rtp.pt/noticias/pais/desacordo-e-o-novo-programa-da-rtp-noticias-entre-o-iva-zero-e-a-violencia-domestica-tres-deputadas-a-procura-de-consenso_n1767369",
+      "pubDate": "Thu, 24 Sep 2026 01:52:34 +0100",
+      "description": "PS e Chega aproximam-se nas propostas para aliviar o custo de vida, enquanto o PSD critica medidas que considera pouco justas. Na estreia do Des.Acordo, três deputadas discordaram sobre a resposta ao aumento dos preços, mas acabaram por encontrar um tema em que estão de acordo: o combate à violência",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b803877c8cd2286db96dff21027f8409?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Thu, 24 Sep 2026 01:36:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "MNE português e timorense reforçaram concertação entre os dois países em encontro",
-      "link": "https://www.rtp.pt/noticias/politica/mne-portugues-e-timorense-reforcaram-concertacao-entre-os-dois-paises-em-encontro_n1767365",
-      "pubDate": "Thu, 24 Sep 2026 01:30:41 +0100",
-      "description": "O ministro dos Negócios Estrangeiros, Paulo Rangel, reuniu-se na quarta-feira com o homólogo de Timor-Leste, Bendito Freitas, à margem da Assembleia Geral da ONU, num encontro onde reforçaram a concertação entre os dois países.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Juiz questiona o veto a jornalistas de CNN, MS NOW e Politico na Casa Branca",
-      "link": "https://www.rtp.pt/noticias/mundo/juiz-questiona-o-veto-a-jornalistas-de-cnn-ms-now-e-politico-na-casa-branca_n1767366",
-      "pubDate": "Thu, 24 Sep 2026 01:30:05 +0100",
-      "description": "O juiz Timothy Kelly questionou na quarta-feira a retirada por Donald Trump dos passes de imprensa sem estabelecer antes regras nem notificar atempadamente, durante a audiência de abertura sobre o veto a CNN, MS NOW y Politico.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Portugal assina memorando de entendimento para reforçar parceria com países do Golfo",
-      "link": "https://www.rtp.pt/noticias/politica/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo_n1767361",
-      "pubDate": "Thu, 24 Sep 2026 01:29:23 +0100",
-      "description": "O ministro dos Negócios Estrangeiros português, Paulo Rangel, assinou hoje com o secretário-geral do Conselho de Cooperação do Golfo um Memorando de Entendimento sobre Matérias de Interesse Comum, para reforçar a parceria entre Portugal e os países do Golfo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "\"Ferido e a sofrer\". Família de imigrante venezuelano com bala do ICE alojada no corpo exige que seja operado",
-      "link": "https://www.rtp.pt/noticias/mundo/ferido-e-a-sofrer-familia-de-imigrante-venezuelano-com-bala-do-ice-alojada-no-corpo-exige-que-seja-operado_n1767364",
-      "pubDate": "Thu, 24 Sep 2026 01:23:05 +0100",
-      "description": "Os documentos judiciais apresentados pelos advogados de Wilber Garcés Pérez indicam que apesar de ferido este foi forçado a dormir no chão de betão de um centro de processamento temporário do ICE.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/93/93c63045d2647121c9fc4722f32729f9?w=350&amp;q=50&amp;rect=0,83,1500,822&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
