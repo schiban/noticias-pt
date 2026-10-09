@@ -1,93 +1,63 @@
 {
-  "updated": "2026-10-08T21:47:02.118307+00:00",
+  "updated": "2026-10-09T01:42:21.586707+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Talibãs estão a deter mulheres por usarem maquilhagem",
-      "link": "https://observador.pt/2026/10/08/afeganistao-mulheres-enfrentam-prisao-por-usar-maquilhagem-e-violar-codigo-de-vestuario-denuncia-onu/",
-      "pubDate": "Thu, 08 Oct 2026 22:30:59 +0100",
-      "description": "UNAMA diz estar \"profundamente preocupada\" com as detenções em Cabul e Herat e avisa que os casos reais podem ser muito mais do que os registados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08200114/47563070.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Dragões passam de 39,2M positivos para 21,1M negativos",
-      "link": "https://observador.pt/2026/10/08/champions-opcoes-desportivas-e-os-dados-que-justificam-a-aposta-fc-porto-sad-passa-de-392m-positivos-para-211m-negativos-em-2025-26/",
-      "pubDate": "Thu, 08 Oct 2026 22:25:01 +0100",
-      "description": "SAD terminou 2025/26 como campeão, com maior valor de mercado de sempre, com mais 13% de proveitos operacionais e a reduzir dívida financeira em 29 milhões mas não evitou um prejuízo de 21,1 milhões.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4045:2270:nowe:0:427/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20203632/gettyimages-2296235403.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Buscas a André declaradas ilegais em Londres",
-      "link": "https://observador.pt/2026/10/08/mandados-de-busca-a-casa-do-principe-andre-declarados-ilegais-pelo-tribunal-superior-de-londres/",
-      "pubDate": "Thu, 08 Oct 2026 22:22:06 +0100",
-      "description": "O júri aceitou a queixa do irmão mais novo do Rei Carlos III sobre as buscas realizadas às sus casas em fevereiro, quando foi detido por suspeita de revelar informações sigilosas para Epstein.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1695:953:nowe:0:28/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/19183623/46596945.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "22h. OE 2027. CIP quer investimento mais atrativo",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1881/",
-      "pubDate": "Thu, 08 Oct 2026 22:14:33 +0100",
-      "description": "Armindo Monteiro destaca a falta de produtividade da economia portuguesa. Ainda, PS diz que ainda tem dúvidas quanto à viabilização do Orçamento do Estado para o próximo ano.",
+      "title": "As notícias das 2h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2435/",
+      "pubDate": "Fri, 09 Oct 2026 02:18:25 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Milhares marcham em silêncio em homenagem a Maricarmen",
-      "link": "https://observador.pt/2026/10/08/milhares-de-pessoas-em-marchas-em-espanha-em-homenagem-a-maricarmen-abascal/",
-      "pubDate": "Thu, 08 Oct 2026 22:12:14 +0100",
-      "description": "A notícia da morte gerou nova onda de indignação e as associações espanholas que têm mantido nas ruas milhares de pessoas pela crise na habitação convocaram novas manifestações em homenagem.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08210319/47908143.jpg"
+      "title": "1h. Homem morre em colisão com comboio em V.N. da Barquinha",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2408/",
+      "pubDate": "Fri, 09 Oct 2026 01:18:29 +0100",
+      "description": "Automóvel ficou debaixo da composição e óbito do condutor foi declarado ainda no local. Ainda, Ministro das Finanças acredita que contas do país estão robustas e que permitem enfrentar eventual crise.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Bugalho: \"Ambiência de bloco central é o sonho de Ventura\"",
+      "link": "https://observador.pt/programas/vichyssoise/bugalho-ambiencia-de-bloco-central-e-o-sonho-de-ventura/",
+      "pubDate": "Fri, 09 Oct 2026 00:46:13 +0100",
+      "description": "O vice-presidente e porta-voz do PSD rejeitou a ideia de um entendimento de fundo entre PS e PSD, atirou a Mário Centeno e ainda defendeu a legitimidade de Moedas para falar sobre Passos.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Halle Berry impedida de se aproximar do filho",
+      "link": "https://observador.pt/2026/10/09/halle-berry-impedida-de-se-aproximar-do-filho-apos-acusacao-de-agressao-pelo-ex-marido-olivier-martinez/",
+      "pubDate": "Fri, 09 Oct 2026 00:43:09 +0100",
+      "description": "A filha de Halle Berry com Gabriel Aubry disse nunca ter presenciado nenhuma agressão da mãe contra o seu irmão. Em tribunal, Nahla Aubry disse recordar quando Olivier Martinez agrediu o seu pai.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/09/154695119.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Um Orçamento de consolidação a preparar o que aí possa vir",
+      "link": "https://observador.pt/especiais/orcamento-minimalista-de-consolidacao-a-preparar-o-que-ai-possa-vir-poe-as-fichas-no-crescimento-economico/",
+      "pubDate": "Fri, 09 Oct 2026 00:38:35 +0100",
+      "description": "Miranda Sarmento apresentou uma proposta de Orçamento cautelosa, com poucas novas medidas e consolidação orçamental. Põe a tónica na descida da dívida pública e acredita em novo excedente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08172333/jporfirio-apresentacao-orcamento-do-estado-08-10-2026-04-1-scaled.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Governo francês garante substituição de três mil professores em 24 horas",
-      "link": "https://www.rtp.pt/noticias/mundo/governo-frances-garante-substituicao-de-tres-mil-professores-em-24-horas_n1770517",
-      "pubDate": "Thu, 08 Oct 2026 23:40:11 +0100",
-      "description": "O ministro francês da Educação, Edouard Geffray, assegurou a colocação de três mil professores em mais de 500 estabelecimentos de ensino com classificação &quot;vermelha&quot; e &quot;laranja&quot;. A informação foi anunciada à estação privada, TF1.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee511cb85f99306ff991e4ff4b264f7f?w=350&amp;q=50&amp;rect=0,142,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Exército israelita reclama eliminação de 3 paramilitares em Gaza",
-      "link": "https://www.rtp.pt/noticias/mundo/exercito-israelita-reclama-eliminacao-de-3-paramilitares-em-gaza_n1770519",
-      "pubDate": "Thu, 08 Oct 2026 23:38:50 +0100",
-      "description": "As Forças de Defesa de Israel (FDI) reivindicaram hoje a eliminação de três &quot;agentes militares&quot; palestinianos em Gaza, enquanto as autoridades locais, controladas pelo movimento Hamas, deram conta de sete vítimas mortais em ataques israelitas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Fuzilamento de autor de massacre em base militar no Texas será transmitido em direto",
-      "link": "https://www.rtp.pt/noticias/mundo/fuzilamento-de-autor-de-massacre-em-base-militar-no-texas-sera-transmitido-em-direto_n1770520",
-      "pubDate": "Thu, 08 Oct 2026 23:38:31 +0100",
-      "description": "A execução por pelotão de fuzilamento do autor de um massacre que causou 13 mortos numa base militar no Texas em 2009 será transmitida em direto. A informação foi avançada esta quinta-feira por um funcionário do Pentágono.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9eb834a754c36ec8049235194f38fdb7?w=350&amp;q=50&amp;rect=0,0,1086,595&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "21h OE governo confirma a atualização dos escalões do IRS e a descida do IRC",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-oe-governo-confirma-a-atualizacao-dos-escaloes-do-irs-e-a-descida-do-irc_a1_1770518",
-      "pubDate": "Thu, 08 Oct 2026 23:21:02 +0100",
+      "title": "01h Linha da Beira Baixa está cortada devido a um acidente entre um carro e um comboio",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-linha-da-beira-baixa-esta-cortada-devido-a-um-acidente-entre-um-carro-e-um-comboio_a1_1770535",
+      "pubDate": "Fri, 09 Oct 2026 03:07:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,81 +65,111 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Trump considera \"inimigo\" quem não usar a expressão Superinteligência em vez de IA",
-      "link": "https://www.rtp.pt/noticias/mundo/trump-considera-inimigo-quem-nao-usar-a-expressao-superinteligencia-em-vez-de-ia_n1770515",
-      "pubDate": "Thu, 08 Oct 2026 23:05:53 +0100",
-      "description": "Os líderes do grupo de trabalho sobre Inteligência Artificial criado por Donald Trump têm encontro marcado esta quinta-feira.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c00bb471883aa2545fb52b72eae8b12?w=350&amp;q=50&amp;rect=0,0,4062,2227&amp;auto=format"
+      "title": "0h Hoje há greve do Sindicato dos Técnicos Superiores de Saúde nas áreas do diagnóstico e terapêutica",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-hoje-ha-greve-do-sindicato-dos-tecnicos-superiores-de-saude-nas-areas-do-diagnostico-e-terapeutica_a1_1770533",
+      "pubDate": "Fri, 09 Oct 2026 02:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "0h Hoje há greve do Sindicato dos Técnicos Superiores de Saúde nas áreas do diagnóstico e terapêutica",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-hoje-ha-greve-do-sindicato-dos-tecnicos-superiores-de-saude-nas-areas-do-diagnostico-e-terapeutica_a1_1770532",
+      "pubDate": "Fri, 09 Oct 2026 02:24:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Carro abalroado por comboio em Santarém corta circulação na Linha da Beira Baixa",
+      "link": "https://www.rtp.pt/noticias/pais/carro-abalroado-por-comboio-em-santarem-corta-circulacao-na-linha-da-beira-baixa_n1770530",
+      "pubDate": "Fri, 09 Oct 2026 01:26:33 +0100",
+      "description": "Um carro foi abalroado por um comboio, na noite desta quinta-feira, em Vila Nova da Barquinha, no distrito de Santarém.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/60/60b9b5c2a6572181ab0c21a22747b752?w=350&amp;q=50&amp;rect=0,171,2880,1579&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Trump condecora Musk com medalha científica e chama-lhe \"tesouro nacional\"",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-condecora-musk-com-medalha-cientifica-e-chama-lhe-tesouro-nacional_n1770529",
+      "pubDate": "Fri, 09 Oct 2026 01:19:36 +0100",
+      "description": "O Presidente norte-americano, Donald Trump, condecorou quinta-feira Elon Musk com a Medalha Nacional de Ciência, assinalando o regresso do à órbita presidencial do bilionário, antigo aliado caído em desgraça no ano passado.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/70/70e3aee078417317b0a76b4a1d6bdaf0?w=350&amp;q=50&amp;rect=1,0,5997,3288&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Taremi marca e Al Wasl de Rui Vitória consegue reviravolta nos descontos",
-      "link": "https://maisfutebol.iol.pt/emirados-arabes-unidos/al-wasl/video-taremi-marca-e-al-wasl-de-rui-vitoria-consegue-reviravolta-nos-descontos",
-      "pubDate": "Thu, 8 Oct 2026 21:59:41 +0100",
-      "description": "Equipa do treinador português esteve a perder frente ao Khorfakkan, que jogou com dez desde os 32 minutos, mas garantiu o triunfo por 2-1",
-      "thumbnail": "https://img.iol.pt/image/id/6ac80423d34e9a786e75b78f/250"
+      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
+      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
+      "pubDate": "Fri, 9 Oct 2026 00:27:00 +0100",
+      "description": "O que de mais importante está a acontecer num único local",
+      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Adjunto de Renato Gaúcho detido à chegada do Grémio a Porto Alegre",
-      "link": "https://maisfutebol.iol.pt/brasil/justica/adjunto-de-renato-gaucho-detido-a-chegada-do-gremio-a-porto-alegre",
-      "pubDate": "Thu, 8 Oct 2026 21:33:54 +0100",
-      "description": "Alexandre Mendes foi detido preventivamente por alegado incumprimento de uma medida de proteção requerida pela ex-companheira",
-      "thumbnail": "https://img.iol.pt/image/id/67e58f0cd34e3f0bae9c3483/250"
+      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
+      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
+      "pubDate": "Fri, 9 Oct 2026 00:26:00 +0100",
+      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
+      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "FC Porto apresenta relatório e contas com prejuízo de 21,1 milhões",
-      "link": "https://maisfutebol.iol.pt/fc-porto/08-10-2026/fc-porto-apresenta-relatorio-e-contas-com-prejuizo-de-21-1-milhoes",
-      "pubDate": "Thu, 8 Oct 2026 21:22:00 +0100",
-      "description": "Capitais próprios negativos chegam quase aos 30 milhões de euros. SAD refere que participação na Liga Europa não foi compensada pela venda de passes de jogadores. Confira as contas relativas a 2025/26",
-      "thumbnail": "https://img.iol.pt/image/id/6ac15e3ad34e9a786e75ac7e/250"
+      "title": "FC Porto: custos com pessoal aumentam 25 por cento",
+      "link": "https://maisfutebol.iol.pt/fc-porto/villas-boas/fc-porto-custos-com-pessoal-aumentam-25-por-cento",
+      "pubDate": "Thu, 8 Oct 2026 23:53:21 +0100",
+      "description": "SAD justifica crescimento com reforço da equipa principal e o maior peso da formação e do futebol feminino",
+      "thumbnail": "https://img.iol.pt/image/id/68533cdfd34e3f0bae9f8a44/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Daniel Podence propõe despedida «perfeita» de Ronaldo da Seleção",
-      "link": "https://maisfutebol.iol.pt/selecao/cristiano-ronaldo/daniel-podence-propoe-despedida-perfeita-de-ronaldo-da-selecao",
-      "pubDate": "Thu, 8 Oct 2026 21:17:00 +0100",
-      "description": "Sugere jogos amigáveis  contra a Espanha no Bernabéu, contra a Inglaterra em Old Trafford e contra a Itália em Turim",
-      "thumbnail": "https://img.iol.pt/image/id/6abbc508d34e53c759c744df/250"
+      "title": "Brasil: lateral do Palmeiras de Abel Ferreira testa positivo para substância proibida",
+      "link": "https://maisfutebol.iol.pt/brasil/internacional/brasil-lateral-do-palmeiras-de-abel-ferreira-testa-positivo-para-substancia-proibida",
+      "pubDate": "Thu, 8 Oct 2026 23:39:00 +0100",
+      "description": "Jefté atribui o resultado à utilização involuntária de furosemida e aceitou uma suspensão provisória",
+      "thumbnail": "https://img.iol.pt/image/id/6ac819b9d34e53c759c75a3e/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Infantino consegue «apoio unânime» de África para a recandidatura à FIFA",
-      "link": "https://maisfutebol.iol.pt/fifa/caf/infantino-consegue-apoio-unanime-de-africa-para-a-recandidatura-a-fifa",
-      "pubDate": "Thu, 8 Oct 2026 21:13:00 +0100",
-      "description": "As 54 federações africanas comprometem-se a apoiar o suíço-italiano nas eleições de março, depois de este prometer mais investimento no futebol do continente",
-      "thumbnail": "https://img.iol.pt/image/id/6751efdcd34e94b829084ac6/250"
+      "title": "FC Porto: negócio com a Ithaka já rendeu 80 milhões de euros",
+      "link": "https://maisfutebol.iol.pt/fc-porto/ithaka/fc-porto-negocio-com-a-ithaka-ja-rendeu-80-milhoes-de-euros",
+      "pubDate": "Thu, 8 Oct 2026 23:28:55 +0100",
+      "description": "Portistas encaixam mais 15 milhões por atingirem objetivos de bilhética. SAD iniciou modernização do Dragão, que registou recordes de receitas",
+      "thumbnail": "https://img.iol.pt/image/id/69d17bc6d34e28842c8289b1/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "OE2027. Chega diz que Governo apresentou um “mau orçamento” e recusa ser “muleta”",
-      "link": "https://jornaleconomico.sapo.pt/noticias/%f0%9f%94%b4-governo-entrega-oe2027-saiba-quais-as-prioridades-para-o-proximo-ano/",
-      "pubDate": "Thu, 08 Oct 2026 14:41:57 +0000",
-      "description": "A quebra reflete o fim do Plano de Recuperação e Resiliência (PRR), embora seja parcialmente compensada pelo crescimento do investimento financiado por outras fontes. Se for excluído o PRR, o investimento público deverá aumentar 6,8%.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A0ePl3ttimmGOEitn03MNL%2FHGxBhlQAqf2it1bliUKqWxDyCEp4ouMstsnLsjMw%2BA49aU%2BZ1oDSHsALyznbWF25ayygR7PJ1OxTj%2FYAGZSBYJ5ozN7HaPOIBti5OS%2BNWQ"
+      "title": "Putin oferece apoio ao Presidente iraniano para terminar guerra no Médio Oriente",
+      "link": "https://sapo.pt/artigo/putin-oferece-apoio-ao-presidente-iraniano-para-terminar-guerra-no-medio-oriente-6ac802769c1f5d4157913078",
+      "pubDate": "Thu, 08 Oct 2026 22:24:32 +0000",
+      "description": "Os dois dirigentes reuniram-se esta quinta-feira. O encontro estava inicialmente previsto para sexta-feira, após a reunião dos líderes da Comunidade dos Estados Independentes (CEI).",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AlrQgj6MfjVS7%2Bbo8cqHSyPLdcJUoTkE6E4Gc95xCbvUt4P0GiUsgbbbqNOvhdFQaKG0dgF7wRzP88iIxtqjtzVJeCL%2B8Rzfmd4bJuI336QHZ%2F9fJBN2g5Bs36nOMNSZa"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Forças israelitas detêm dois cidadãos portugueses na Cisjordânia",
-      "link": "https://sapo.pt/artigo/forcas-israelitas-detem-dois-cidadaos-portugueses-na-cisjordania-6ac7e6c49c1f5d41578ba8f7",
-      "pubDate": "Thu, 08 Oct 2026 19:17:07 +0000",
-      "description": "A informação foi avançada pelo jornal Público e confirmada pela SIC junto do Ministério dos Negócios Estrangeiros (MNE).",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AOJ2G3bVLPcB7q2jNmY0QiNHUXPCFOxNVKauzVnQtTfK%2Bs5Sr4O5VQCY%2FM8%2FHnX4GWEAMlFcB5Z4boFCwArECpkVAH2b2ewRl%2FWqZ788%2BGbVhZ6PaX4kO5h%2BRgL9Ak5kI"
+      "title": "Cisjordânia. Israel detém dois portugueses, um jornalista",
+      "link": "https://sapo.pt/artigo/cisjordania-israel-detem-dois-portugueses-um-jornalista-6ac818ef3f8038bf58c953bc",
+      "pubDate": "Thu, 08 Oct 2026 22:52:44 +0000",
+      "description": "MNE confirma detenção em Rantis, perto de Ramallah. Sindicato dos Jornalistas exige libertação imediata e intervenção diplomática junto de Israel.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Axm9kSQL0FHI9VdaPGP1EgYVCsd9sX3tj1wnPx%2FKT1rhnGj0UL8LwLrqhhmPP9ZOLq4%2FURefvFXdcA978VvRR7o4ev5kvbpFXatshdgtFemb1BLDYOv1MAGrH0ovsQF5Y"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,51 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Kaya, filha de Hayden Panettiere, aparece em tribunal em videochamada",
-      "link": "https://www.noticiasaominuto.com/fama/3063874/kaya-filha-de-hayden-panettiere-aparece-em-tribunal-em-videochamada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-08 22:35:39",
+      "title": "Podence elabora plano para a despedida de Cristiano Ronaldo da seleção",
+      "link": "https://www.noticiasaominuto.com/desporto/3063892/podence-elabora-plano-para-a-despedida-de-cristiano-ronaldo-da-selecao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-08 23:58:13",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a82f374dfd1d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODAwLCJjcm9wSGVpZ2h0IjoxMDEzLCJjcm9wWCI6NzksImNyb3BZIjoxMTB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5228a771f08.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "EuroDreams sai a 2 apostadores lá fora. Para Portugal, vêm 3.º prémios",
-      "link": "https://www.noticiasaominuto.com/pais/3063869/eurodreams-sai-a-2-apostadores-la-fora-para-portugal-vem-3-premios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-08 22:34:01",
+      "title": "Paquistão envia soldados para Arábia Saudita em novo pacto de defesa",
+      "link": "https://www.noticiasaominuto.com/mundo/3063893/paquistao-envia-soldados-para-arabia-saudita-em-novo-pacto-de-defesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-08 23:56:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_657187b072fd6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTgsImNyb3BIZWlnaHQiOjE0NTQsImNyb3BYIjo4NjUsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_565e977ee35b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzc4LCJjcm9wSGVpZ2h0IjoxNTYyLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4NDAsImNyb3BIZWlnaHQiOjE0OTMsImNyb3BYIjoxNDQ0LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Israel distingue passageiros que salvaram voo após ataque na Flydubai",
-      "link": "https://www.noticiasaominuto.com/mundo/3063870/israel-distingue-passageiros-que-salvaram-voo-apos-ataque-na-flydubai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-08 22:30:40",
+      "title": "Boto lembra Bernardo Silva no Benfica: \"Muitos duvidavam por ser baixo\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3063888/boto-lembra-bernardo-silva-no-benfica-muitos-duvidavam-por-ser-baixo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-08 23:40:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ac80ae92c84e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6aa2a9ffab856.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Site oferece criptomoedas para divulgar campanha de Flávio Bolsonaro",
-      "link": "https://www.noticiasaominuto.com/mundo/3063867/site-oferece-criptomoedas-para-divulgar-campanha-de-flavio-bolsonaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-08 22:22:36",
+      "title": "Execução de autor de massacre em Fort Hood será transmitida ao vivo",
+      "link": "https://www.noticiasaominuto.com/mundo/3063889/execucao-de-autor-de-massacre-em-fort-hood-sera-transmitida-ao-vivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-08 23:40:29",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ac8092f5f02f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ac819be12da4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MjMsImNyb3BIZWlnaHQiOjM1MSwiY3JvcFgiOjgsImNyb3BZIjoyNn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"FC Porto? Um clube enorme com adeptos incríveis. Era igual ao Barcelona\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3063866/fc-porto-um-clube-enorme-com-adeptos-incriveis-era-igual-ao-barcelona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-08 22:19:45",
+      "title": "Petróleo? Delcy diz que Venezuela está a negociar mais 44 acordos",
+      "link": "https://www.noticiasaominuto.com/mundo/3063887/petroleo-delcy-diz-que-venezuela-esta-a-negociar-mais-44-acordos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-08 23:37:39",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_64cf9c9389d06.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69bdb986ce213.webp"
     },
     {
       "sourceId": "pplware",
