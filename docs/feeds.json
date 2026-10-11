@@ -1,83 +1,63 @@
 {
-  "updated": "2026-10-11T18:15:46.234128+00:00",
+  "updated": "2026-10-11T22:14:43.445209+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Amorim fez o mais difícil mas voltou a falhar o mais \"fácil\"",
-      "link": "https://observador.pt/2026/10/11/amorim-fez-o-mais-dificil-mas-voltou-a-falhar-o-mais-facil-ac-milan-cede-de-novo-pontos-na-serie-a-frente-ao-sassuolo/",
-      "pubDate": "Sun, 11 Oct 2026 19:06:12 +0100",
-      "description": "AC Milan conseguiu criar várias oportunidades, Muric esteve intransponível mas Rabiot desfez o nulo no segundo tempo. Problema? Rossoneri não souberam gerir vantagem e tiveram mais um deslize (1-1).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11190124/ruben-amorim-2.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Preciso de Dormir. 7 Estratégias para uma Rotina de Sono",
-      "link": "https://observador.pt/programas/manual-de-instrues-para-humanos/nao-consigo-dormir-7-estrategias-para-uma-rotina-de-sono/",
-      "pubDate": "Sun, 11 Oct 2026 19:05:19 +0100",
-      "description": "Vamos para a cama tarde e pomos quase tudo à frente do tempo de sono. Ou temos filhos pequenos e nunca mais dormimos igual. O que explica isto? E porque é que uma sesta ou um comprimido não ajudam?",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/06170306/770-podcast-manual-de-instrucoesep2.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 19h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2189/",
-      "pubDate": "Sun, 11 Oct 2026 19:04:06 +0100",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "22h. Liga Portugal. SL Benfica vence Vitória SC por 2-0",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1883/",
+      "pubDate": "Sun, 11 Oct 2026 22:15:51 +0100",
+      "description": "Com a vitória, o Benfica soma 19 pontos e ocupa o segundo lugar da tabela, e continua na perseguição do FC Porto, que lidera o campeonato, com 24 pontos. Ainda, MURPI exige explicações sobre pensões.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "45 mil em Bruxelas na Marcha pelo Clima",
-      "link": "https://observador.pt/2026/10/11/mais-de-45-mil-pessoas-em-bruxelas-contra-falta-de-ambicao-climatica/",
-      "pubDate": "Sun, 11 Oct 2026 19:02:17 +0100",
-      "description": "Impostos sobre combustíveis fósseis, fim dos subsídios à indústria e uma transição justa. Foram estas as principais exigências de uma manifestação que tomou as ruas de Bruxelas este domingo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11173333/47923156.jpg"
+      "title": "Canadá condena acordo de Trump com Putin sobre gasóleo",
+      "link": "https://observador.pt/2026/10/11/canada-condena-acordo-de-trump-com-putin-sobre-gasoleo/",
+      "pubDate": "Sun, 11 Oct 2026 22:00:19 +0100",
+      "description": "Mark Carney alertou Zelensky que o acordo, que prevê o fornecimento de 300 mil toneladas de gasóleo russo aos EUA, dará a Moscovo receitas para financiar a guerra.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1334:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11211854/47787544.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Rio Ave reduzido a 10 bate Nacional na estreia de Seabra",
-      "link": "https://observador.pt/2026/10/11/rio-ave-reduzido-a-10-bate-nacional-na-estreia-de-vasco-seabra/",
-      "pubDate": "Sun, 11 Oct 2026 18:59:39 +0100",
-      "description": "Na 8.ª jornada da I Liga, o Rio Ave superou o Nacional apesar de ficar reduzido a 10 por expulsão de João Tomé. Insulares somam 6 derrotas seguidas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11174749/47923558.jpg"
+      "title": "Cinco desaparecidos nas inundações no Nepal",
+      "link": "https://observador.pt/2026/10/11/cinco-pessoas-desaparecidas-em-inundacoes-no-nepal/",
+      "pubDate": "Sun, 11 Oct 2026 21:59:43 +0100",
+      "description": "O rio Budhi Gandaki transbordou e destruiu casas e pontes. Quatro helicópteros e mais de 400 efetivos foram mobilizados para as operações de resgate.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:196/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11212608/47921536.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "SLB x VSC. “A asa esquerda do Benfica está a funcionar”",
+      "link": "https://observador.pt/programas/relat-rio-de-jogo/slb-x-vsc-a-asa-esquerda-do-benfica-esta-a-funcionar/",
+      "pubDate": "Sun, 11 Oct 2026 21:56:40 +0100",
+      "description": "Águias vencem o Vitória e Augusto Inácio fala de um Benfica \"vivo e solto\" que podia ter selado o jogo na primeira parte. Apesar da derrota, destaque para uma \"segunda parte briosa\" do Vitória.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03175211/770-podcast-relatorio-de-jogo.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "SLB x VSC. “Penálti por assinalar a favor do Benfica”",
+      "link": "https://observador.pt/programas/sem-falta/slb-x-vsc-penalti-por-assinalar-a-favor-do-benfica/",
+      "pubDate": "Sun, 11 Oct 2026 21:51:40 +0100",
+      "description": "Irregularidades disciplinares e um penálti por assinalar a favor do Benfica valem nota 5, “positiva baixinha”, a Luís Godinho no jogo do Benfica frente ao Vitória. \"Erro sem influência no resultado\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Superbikes: Miguel Oliveira oitavo no Estoril em nova vitória e recorde de Bulega",
-      "link": "https://www.rtp.pt/noticias/motores/superbikes-miguel-oliveira-oitavo-no-estoril-em-nova-vitoria-e-recorde-de-bulega_d1771046",
-      "pubDate": "Sun, 11 Oct 2026 18:48:35 +0100",
-      "description": "A temporada termina no próximo fim de semana, com a prova de Jerez de la Frontera, em Espanha, de sexta-feira a 18 de outubro.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e7ff7428bae25cab3ff45a356897343?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Partido Socialista francês já tem candidato às presidenciais do primeiro ano",
-      "link": "https://www.rtp.pt/noticias/mundo/partido-socialista-frances-ja-tem-candidato-as-presidenciais-do-primeiro-ano_n1771044",
-      "pubDate": "Sun, 11 Oct 2026 18:37:18 +0100",
-      "description": "Mais de 100 mil militantes votaram em Raphaël Glucksmann. O até agora eurodeputado e fundados do movimento político Praça Pública surpreendeu ao conquistar 66,17% dos votos. Não haverá, por isso, uma segunda volta.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/43/43df2252884ef8638eae449904079df0?w=350&amp;q=50&amp;rect=0,33,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "17h Zelensky aprova cessar-fogo energético... se existir",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-zelensky-aprova-cessar-fogo-energetico-se-existir_a1_1771042",
-      "pubDate": "Sun, 11 Oct 2026 18:27:02 +0100",
+      "title": "22H Os Houthis reivindicaram hoje os ataques ao aeroporto de Riade",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-os-houthis-reivindicaram-hoje-os-ataques-ao-aeroporto-de-riade_a1_1771073",
+      "pubDate": "Sun, 11 Oct 2026 23:20:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -85,220 +65,210 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "I Liga. Benfica-Vitória (1-0)",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-benfica-vitoria-1-0_e1771040",
-      "pubDate": "Sun, 11 Oct 2026 18:19:56 +0100",
-      "description": "O lateral Samuel Dahl inaugurou o marcador aos 24 minutos.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/33/333e80400daeabfe3b90f8aa6031d5c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "21h Jornalista português detido em Israel já está em Portugal",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-jornalista-portugues-detido-em-israel-ja-esta-em-portugal_a1_1771070",
+      "pubDate": "Sun, 11 Oct 2026 22:38:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Conferência Episcopal Portuguesa expressa proximidade e oração pela saúde do Papa Leão XIV",
-      "link": "https://www.rtp.pt/noticias/mundo/conferencia-episcopal-portuguesa-expressa-proximidade-e-oracao-pela-saude-do-papa-leao-xiv_v1771038",
-      "pubDate": "Sun, 11 Oct 2026 17:34:47 +0100",
-      "description": "O cardeal Américo Aguiar enalteceu a transparência, simplicidade e humanidade com que o Papa Leão XIV anunciou que vai ser operado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c0/c02fcae3d72a7bd1612128e7856f327f_N.jpg?"
+      "title": "21h Novo ataque ao aeroporto internacional de Riade",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-novo-ataque-ao-aeroporto-internacional-de-riade_a1_1771069",
+      "pubDate": "Sun, 11 Oct 2026 22:32:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Gilberto Gil esteve em Lisboa a apresentar uma ópera-canção",
+      "link": "https://www.rtp.pt/noticias/cultura/gilberto-gil-esteve-em-lisboa-a-apresentar-uma-opera-cancao_v1771068",
+      "pubDate": "Sun, 11 Oct 2026 22:11:54 +0100",
+      "description": "&quot;Amor Azul&quot; junta música erudita à tradição dos sons populares brasileiros.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c4/c4570e26dd432898f34602a4b9bba644_N.jpg?"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Moda Lisboa apresenta tendências para o próximo verão",
+      "link": "https://www.rtp.pt/noticias/cultura/moda-lisboa-apresenta-tendencias-para-o-proximo-verao_v1771067",
+      "pubDate": "Sun, 11 Oct 2026 22:11:47 +0100",
+      "description": "Durante três dias os estilistas portugueses mostraram as novas tendências para o próximo verão. Pela primeira vez a Moda Lisboa recebeu uma marca espanhola que celebra meio século e aposta em Portugal.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/e4/e41ad578e5cd809e95f60931b4f7f69c_N.jpg?"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Milan de Amorim empata na visita a Sassuolo",
-      "link": "https://maisfutebol.iol.pt/internacional/milan/video-milan-de-amorim-empata-na-visita-a-sassuolo",
-      "pubDate": "Sun, 11 Oct 2026 19:00:00 +0100",
-      "description": "Com Gonçalo Ramos e Diego Moreira no onze, Rossoneri falharam a subida ao pódio",
-      "thumbnail": "https://img.iol.pt/image/id/6acbcc70d34e9a786e75bc61/250"
+      "title": "VÍDEO: guarda-redes do Alverca B agride adversário após derrota",
+      "link": "https://maisfutebol.iol.pt/incrivel/alverca-b/video-guarda-redes-do-alverca-b-agride-adversario-apos-derrota",
+      "pubDate": "Sun, 11 Oct 2026 22:53:00 +0100",
+      "description": "Oliveira do Hospital venceu o jogo (3-1) e contou com tensão após o apito final",
+      "thumbnail": "https://img.iol.pt/image/id/6acc0289d34e9a786e75bcdd/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Liga 3: Paços conquista a primeira vitória, Belenenses empata em Mafra",
-      "link": "https://maisfutebol.iol.pt/liga-3/pacos-de-ferreira/liga-3-pacos-conquista-a-primeira-vitoria-belenenses-empata-em-mafra",
-      "pubDate": "Sun, 11 Oct 2026 18:54:47 +0100",
-      "description": "Castores aproximam-se da primeira metade do Grupo Norte. Consulte a classificação após a sexta jornada",
-      "thumbnail": "https://img.iol.pt/image/id/6acbccffd34e53c759c75f18/250"
+      "title": "Arouca-Estrela da Amadora, 1-0 (crónica)",
+      "link": "https://maisfutebol.iol.pt/arouca/liga/arouca-estrela-da-amadora-1-0-cronica",
+      "pubDate": "Sun, 11 Oct 2026 22:43:00 +0100",
+      "description": "Era Severino arranca com vitória e estrelinha",
+      "thumbnail": "https://img.iol.pt/image/id/6acbfe18d34e9a786e75bccf/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Treinador do Celtic e o regresso de Jota: «É quase como ter um jogador novo»",
-      "link": "https://maisfutebol.iol.pt/escocia/jota/treinador-do-celtic-e-o-regresso-de-jota-e-quase-como-ter-um-jogador-novo",
-      "pubDate": "Sun, 11 Oct 2026 18:34:47 +0100",
-      "description": "Avançado português volta aos relvados após 18 meses e completa o 100.º jogo com a camisola do Celtic",
-      "thumbnail": "https://img.iol.pt/image/id/6acbc7bdd34e9a786e75bc53/250"
+      "title": "Espanha: Racing Santander de André Almeida empata na receção ao Valência",
+      "link": "https://maisfutebol.iol.pt/made-in/espanha/espanha-racing-santander-de-andre-almeida-empata-na-rececao-ao-valencia",
+      "pubDate": "Sun, 11 Oct 2026 22:29:00 +0100",
+      "description": "Médio português reencontrou o clube que representou nas últimas quatro épocas",
+      "thumbnail": "https://img.iol.pt/image/id/6acbf9add34e53c759c75f68/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Vasco Seabra: «A vitória assenta-nos bem porque tivemos mais paixão»",
-      "link": "https://maisfutebol.iol.pt/rio-ave/liga/vasco-seabra-a-vitoria-assenta-nos-bem-porque-tivemos-mais-paixao",
-      "pubDate": "Sun, 11 Oct 2026 18:27:22 +0100",
-      "description": "Treinador do Rio Ave lembra que a equipa já não vencia em casa desde março",
-      "thumbnail": "https://img.iol.pt/image/id/6acbb1f4d34e53c759c75ebf/250"
+      "title": "VÍDEO: Sporting bate Guaguas e conquista Taça Ibérica de voleibol",
+      "link": "https://maisfutebol.iol.pt/voleibol/sporting/video-sporting-bate-guaguas-e-conquista-taca-iberica-de-voleibol",
+      "pubDate": "Sun, 11 Oct 2026 22:14:47 +0100",
+      "description": "Triunfo por 3-1 entrega terceira edição do troféu à equipa de João Coelho",
+      "thumbnail": "https://img.iol.pt/image/id/6acbfa79d34e9a786e75bcbb/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Manchester City impera em Anfield e bate Liverpool de forma expressiva",
-      "link": "https://maisfutebol.iol.pt/inglaterra/manchester-city/video-manchester-city-impera-em-anfield-e-bate-liverpool-de-forma-expressiva",
-      "pubDate": "Sun, 11 Oct 2026 18:27:00 +0100",
-      "description": "Rúben Dias e Matheus Nunes foram titulares num jogo marcado pela expulsão de Gravenberch",
-      "thumbnail": "https://img.iol.pt/image/id/6acbc1d9d34e9a786e75bc46/250"
+      "title": "VÍDEO: júnior do FC Porto faz golaço para ver e rever",
+      "link": "https://maisfutebol.iol.pt/fc-porto/juniores/video-junior-do-fc-porto-faz-golaco-para-ver-e-rever",
+      "pubDate": "Sun, 11 Oct 2026 22:02:00 +0100",
+      "description": "Domingos Muxito deu nas vistas com um chapéu do meio da rua",
+      "thumbnail": "https://img.iol.pt/image/id/6acbf8ccd34e9a786e75bcb2/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Construção da alta velocidade Porto-Lisboa, \"uma das maiores obras deste século\", arranca esta segunda-feira",
-      "link": "https://sapo.pt/artigo/construcao-da-alta-velocidade-porto-lisboa-uma-das-maiores-obras-deste-seculo-arranca-esta-segunda-feira-6acba3ca71bdbe0b74e5b28f",
-      "pubDate": "Sun, 11 Oct 2026 15:09:15 +0000",
-      "description": "Após sucessivos atrasos, a construção do primeiro troço, entre Campanhã e Oiã, inicia-se na segunda-feira e inclui uma nova ponte rodoferroviária sobre o Douro e a estação de Vila Nova de Gaia-Santo Ovídio.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AP%2FouXenpQArkzmxRUYWPH2En5qOxZlqmeIJrS8NAZOKDYbDeXMSuMlC27l7pzDFXL3CRCeR5azeXauKXrDCfnmX0X6G%2Fo3W7e2EdtSiQ5XaJq11TpiJVLCEVFj5xDf9e"
+      "title": "Barómetro DN/Aximage: Avaliação ao Governo continua em terreno negativo mas teve algum alívio",
+      "link": "https://sapo.pt/artigo/barometro-dn-aximage-avaliacao-ao-governo-continua-em-terreno-negativo-mas-teve-algum-alivio-6acbdef1ded6b2a5e31b4e5d",
+      "pubDate": "Sun, 11 Oct 2026 19:25:10 +0000",
+      "description": "63% dos portugueses reprovam atuação do Executivo nos últimos 30 dias, menos do que há um mês. Partidos da oposição com 50% de avaliações negativas.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AidtsBywSzWwMT4MJtcEcDO5i82JpPPTEE0tf44JxvgpeDjPWi9BXi2R3RlCUMdOr84YcFavWSUcpkXKTGREuXea2yQVMGkuE2iaagS%2FUC9BzekNFdhTVyEDpV4JPog1x"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Médio Oriente: Rebeldes Huthis reivindicam ataque a aeroporto da Arábia Saudita",
-      "link": "https://executivedigest.sapo.pt/medio-oriente-rebeldes-huthis-reivindicam-ataque-a-aeroporto-da-arabia-saudita/",
-      "pubDate": "Sun, 11 Oct 2026 17:40:44 +0000",
-      "description": "Os rebeldes Huthis do Iémen reivindicaram hoje os ataques ao aeroporto internacional de Riade de sábado, que matou 12 pessoas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A5V6BHWhMaq9vHXJTrX7xPKqgKoyAz2sEuJGxIiEq9rphCtXynaXosfxUo%2Fy7fC5wJKRAzQ6MhMnH0mxVWXFEFwl%2FpOGyPAvSpXeBEojrjJJxBgFqnfPtNKr4cGS8knpf"
+      "title": "Mais de 8 mil professores por colocar, \nmas faltam docentes nas escolas",
+      "link": "https://sapo.pt/artigo/mais-de-8-mil-professores-por-colocar-mas-faltam-docentes-nas-escolas-6acbf949ded6b2a5e31e6073",
+      "pubDate": "Sun, 11 Oct 2026 21:15:33 +0000",
+      "description": "Horários incompletos, necessidades longe da área de residência ou horários temporários afastam candidatos.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AzkuC%2FJioaB9wCz7RqMAFZ5yhdy2nqOqVgnjJUKL6j7dmi%2BhtHFkcvXJfpKiD0qdIsKFsG2zmfIfcr%2FzmE%2FVpV%2BukBhERmIOGJnrOSayBX8mNth%2BevEm4Vt%2BCFW9AsGQH"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
-      "link": "https://executivedigest.sapo.pt/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
-      "pubDate": "Sun, 11 Oct 2026 17:40:44 +0000",
-      "description": "O presidente do Conselho Europeu, António Costa, será agora o \"principal negociador\" para o orçamento plurianual da União Europeia (UE) até 2034, após críticas de norte a sul da Europa à proposta apresentada pela presidência irlandesa do Conselho.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A6Ei3NHyeBLCV82fuACIiqgJII%2BdVZPQGcveHxDRU0wicMxV4kpYGrgU9kcvbUJEGC5cPlAKKWlIUMJTMQAdDFUtMOaGR4BS7R5yHNThsV5hXRUCu7tqbB0m9L%2BsmE0Yu"
+      "title": "Ucrânia: Zelensky acusa Rússia de ataque após anúncio surpresa de Trump",
+      "link": "https://executivedigest.sapo.pt/ucrania-zelensky-acusa-russia-de-ataque-apos-anuncio-surpresa-de-trump/",
+      "pubDate": "Sun, 11 Oct 2026 19:25:10 +0000",
+      "description": "O Presidente da Ucrânia acusou hoje a Rússia de ter atacado instalações energéticas do país após o anúncio surpresa do homólogo norte-americano de um cessar-fogo que teria sido acordado entre Kiev e Moscovo.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AZET9r3NXpk3Sdfc%2FdCOGZEHjKaY%2BUb8AN8e%2FNR4z26GNomimnjPD9vhXtznb3Yq5yvNwegxrBKLCXWrcS7fcOefuWcFmnZD7d2b5jgwU7PO6MI%2BO8QKSGpQxcwgZmsOP"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "EUA atingem navio comercial e Irão reivindica ataque no estreito de Ormuz",
-      "link": "https://24noticias.sapo.pt/atualidade/artigos/eua-atingem-navio-comercial-e-irao-reivindica-ataque-no-estreito-de-ormuz",
-      "pubDate": "Sun, 11 Oct 2026 16:39:20 +0000",
-      "description": "A tensão entre Washington e Teerão agravou-se nas últimas horas, com um navio atingido por forças norte-americanas no golfo de Omã e um petroleiro incendiado no estreito de Ormuz. A circulação marítima continua sob pressão, com consequências...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=427&W=760&crop=center&delay_optim=1&epic=V2%3A0Nlu57bRTcvZPo0VnX8oVuoIGraQtseOc9CaTf8tgPaMbha%2BwKbQuMYVQxLT%2BiVwRVGgPjuNlxtGU%2Fj51oOyxgn09b6LRDA5U4TYiSjqc22bmatwpKRdeNt2UCSd7row"
+      "title": "Irão afirma que EUA aceitou algumas condições para reabrir Ormuz",
+      "link": "https://sapo.pt/artigo/irao-afirma-que-eua-aceitou-algumas-condicoes-para-reabrir-ormuz-6acbd5b767f99269c85820a8",
+      "pubDate": "Sun, 11 Oct 2026 18:51:36 +0000",
+      "description": "O Irão apresentou aos Estados Unidos uma proposta denominada “plano de sete dias” para interromper as hostilidades e reabrir o estreito de Ormuz, durante a Assembleia-Geral das Nações Unidas, em Nova Iorque.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A8j1aZMuOyB6ntlMKu1SWOkY2KCZpU1Zx7jkdriQ55EiRdNYj1y%2BTGHR437Fna2K%2F%2Fg4xUrzzfaOJozJIAJYJ32uW01GZ%2FAlit7prDDED7ezuJQpPUyFsu05C5oCy00GY"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "A mítica subida de Lisboa, 160 ciclistas e um bairro que resiste à transformação da cidade",
-      "link": "https://sapo.pt/artigo/a-mitica-subida-de-lisboa-160-ciclistas-e-um-bairro-que-resiste-a-transformacao-da-cidade-6acbc71a110b85602663211f",
-      "pubDate": "Sun, 11 Oct 2026 17:40:44 +0000",
-      "description": "Esta manhã, 160 ciclistas voltaram a desafiar a íngreme Subida da Rampa do Vale de Santo António, em Lisboa",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AtrEpBMVLC56g%2BlpyvIQpUsavoREK6UpvOYbn0b68LDtpRH%2BkqIq3netupib6oAZ87cUSW74ol85nDg9a5VzRtFh65YXtsVIoaZmjhjxqOddFCQ%2F%2FGYekKZ6pTfctF67k"
+      "title": "É “claro” que a Rússia interferiu no referendo do Brexit em 2016, atesta primeiro-ministro britânico",
+      "link": "https://sapo.pt/artigo/e-claro-que-a-russia-interferiu-no-referendo-do-brexit-em-2016-atesta-primeiro-ministro-britanico-6acbfe4d67f99269c85bde23",
+      "pubDate": "Sun, 11 Oct 2026 21:43:41 +0000",
+      "description": "Andy Burnham alertou os eleitores franceses e alemães sobre os esforços de Moscovo em “perturbar os seus processos políticos a partir do estrangeiro”",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=312&W=554&crop=center&delay_optim=1&epic=V2%3AnW5Rromu2ekjUqv5r4gsQmLfKkLK5nq9F57kw%2BZx2KV5a4mtEeSW1a8lextBe%2BMtM1qDz3ax28J6Xy4haxbthT5D3tYi3E9jiurxCwZYpU%2BEB2H%2FOH4tNnvls%2BWOC3FT"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Pais de bebé abandonada em Málaga condenados a 7 anos de prisão",
-      "link": "https://www.noticiasaominuto.com/mundo/3065187/pais-de-bebe-abandonada-em-malaga-condenados-a-7-anos-de-prisao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-11 19:09:03",
+      "title": "Reino Unido apoia trégua energética entre Rússia e Ucrânia",
+      "link": "https://www.noticiasaominuto.com/mundo/3065261/ucrania-reino-unido-apoia-tregua-energetica-entre-russia-e-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-11 22:52:38",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a5098716a22f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a65d5545c3bc.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais uma vantagem desperdiçada empata Amorim e AC Milan na Serie A",
-      "link": "https://www.noticiasaominuto.com/desporto/3065188/mais-uma-vantagem-desperdicada-empata-amorim-e-ac-milan-na-serie-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-11 19:00:31",
+      "title": "EM DIRETO: Benfica verga Vitória. Rio Ave e Arouca ganham com estreias",
+      "link": "https://www.noticiasaominuto.com/desporto/3064294/em-direto-jornada-arranca-no-minho-antes-do-sp-braga-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-11 22:40:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acbca00ac790.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo4MTMsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acc0280af58d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjkwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoxMDg4LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Sublime. Golaço de Dahl pelo Benfica promete correr mundo",
-      "link": "https://www.noticiasaominuto.com/desporto/3065185/sublime-golaco-de-dahl-pelo-benfica-promete-correr-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-11 18:46:59",
+      "title": "Arouca bate Estrela da Amadora na estreia de Vítor Severino",
+      "link": "https://www.noticiasaominuto.com/desporto/3065263/i-liga-arouca-vence-em-casa-ao-estrela-da-amadora-na-estreia-de-vitor-severino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-11 22:35:11",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acbcb706f7d0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDA3LCJjcm9wSGVpZ2h0Ijo3OTEsImNyb3BYIjowLCJjcm9wWSI6NDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU1NSwiY3JvcEhlaWdodCI6OTg3LCJjcm9wWCI6MzMxLCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acc00c489b39.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjI0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTAsImNyb3BIZWlnaHQiOjE0NDAsImNyb3BYIjoxMTgsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bateria portátil incendeia-se em voo e obriga aterragem de emergência",
-      "link": "https://www.noticiasaominuto.com/mundo/3065186/bateria-portatil-incendeia-se-em-voo-e-obriga-aterragem-de-emergencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-11 18:46:02",
+      "title": "Acordo com Chega ou IL? \"PSD tinha obrigação de explorar possibilidade\"",
+      "link": "https://www.noticiasaominuto.com/politica/3065256/acordo-com-chega-ou-il-psd-tinha-obrigacao-de-explorar-possibilidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-11 22:34:21",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acbc49633233.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUzMSwiY3JvcEhlaWdodCI6OTQ1LCJjcm9wWCI6MTEsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a54ad1a905c.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Macron apoia \"trégua energética genuína\" e continua \"ao lado de Zelensky\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3065182/macron-apoia-tregua-energetica-genuina-e-continua-ao-lado-de-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-11 18:36:48",
+      "title": "Cátia Azevedo arrasa Sporting: \"Foi uma falta de respeito\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3065259/catia-azevedo-arrasa-sporting-foi-uma-falta-de-respeito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-11 22:23:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6acbc91cde34e.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ac01738bb870.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo2MDQsImNyb3BZIjotMX19"
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Warhammer Survivors já tem data, trazendo o caos aos ecrãs",
-      "link": "https://pplware.sapo.pt/jogos/warhammer-survivors-ja-tem-data-trazendo-o-caos-aos-ecras/",
-      "pubDate": "Sun, 11 Oct 2026 18:00:08 +0000",
-      "description": "O bullet heaven encontra a brutalidade de Warhammer! A guerra nunca termina no universo de Warhammer, mas em Warhammer Survivors a batalha promete ser ainda mais frenética. E já tem data marcada. A Auroch Digital revelou finalmente a data de lançamento do seu novo roguelite de sobrevivência. Warhamm",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rally Series: Pedro Lago Vieira e Paulo Lopes conquistam título de vencedores em Castelo Branco",
+      "link": "https://www.autosport.pt/ralis/rally-series-pedro-lago-vieira-e-paulo-lopes-conquistam-titulo-de-vencedores-em-castelo-branco/",
+      "pubDate": "Sun, 11 Oct 2026 18:42:55 +0000",
+      "description": "Pedro Lago Vieira e Paulo Lopes asseguraram a conquista do título do Castrol Portugal Rally Series de 2026 ao vencerem o Century21 Rally Series Castelo Branco, quinta ronda da temporada pontuável com coeficiente 1,5.A dupla da Racing4You repetiu o triunfo no campeonato pelo segundo ano consecutivo, ",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novo sistema produz energia e carrega drones de forma autónoma para operações militares",
-      "link": "https://pplware.sapo.pt/informacao/novo-sistema-produz-energia-e-carrega-drones-de-forma-autonoma-para-operacoes-militares/",
-      "pubDate": "Sun, 11 Oct 2026 17:00:00 +0000",
-      "description": "Uma nova solução combina energia renovável, robótica e drones para permitir operações prolongadas sem necessidade de reabastecimento convencional. O sistema consegue lançar, recuperar e recarregar aeronaves não tripuladas, reduzindo a intervenção humana no terreno. A autonomia dos drones é um dos pr",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "WHOIS: a quem pertence um determinado domínio?",
-      "link": "https://pplware.sapo.pt/internet/whois-a-quem-pertence-um-determinado-dominio/",
-      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
-      "description": "Já encontrou um site e ficou com curiosidade em saber quem está por detrás do domínio? O WHOIS é uma ferramenta que permite consultar informações sobre o registo de um domínio, incluindo dados sobre o registador, datas de registo e, em alguns casos, informações sobre o respetivo titular. Esta consul",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "O Google Maps enlouqueceu? Erro bizarro encheu ecrãs de acidentes falsos",
-      "link": "https://pplware.sapo.pt/google/o-google-maps-enlouqueceu-erro-bizarro-encheu-ecras-de-acidentes-falsos/",
-      "pubDate": "Sun, 11 Oct 2026 15:00:00 +0000",
-      "description": "Quem abriu o Google Maps para planear uma viagem este fim de semana deparou-se com um cenário digno de filme de catástrofe. De forma inesperada, as estradas de várias cidades surgiram inundadas de ícones vermelhos a assinalar acidentes de trânsito em série, sugerindo um caos absoluto nas vias que pu",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Pplware Classics…",
-      "link": "https://pplware.sapo.pt/multimedia-2/musica/pplware-classics-771/",
-      "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "description": "Porque recordar é viver, o Pplware traz aos seus leitores a sua habitual rubrica semanal de música. Apresentamos as músicas que marcaram a nossa juventude ou o nosso passado recente e que ainda ouvimos por serem marcos na nossa vida. Descubra a pérola do passado que escolhemos para hoje e conheça ta",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Campeonato Centro de Ralis: António Cruz Monteiro vence Rally de Cantanhede – Marquês de Marialva",
+      "link": "https://www.autosport.pt/ralis/campeonato-centro-de-ralis-antonio-cruz-monteiro-vence-rally-de-cantanhede-marques-de-marialva/",
+      "pubDate": "Sun, 11 Oct 2026 16:05:00 +0000",
+      "description": "A dupla António Cruz Monteiro &#8211; Ana Cruz Monteiro (Peugeot 208 T16) venceu o Rally Cantanhede Marquês de Marialva, prova pontuável para o Campeonato Centro de Ralis, depois de liderar de fio a pavio a prova. Deixaram Armando Carvalho &#8211; Ana Santos (Mitsubishi Lancer Evo IX) a 34.2s com Pa",
       "thumbnail": ""
     },
     {
@@ -329,26 +299,6 @@
       "link": "https://www.autosport.pt/formula1/gp-singapura-f1-kimi-antonelli-tem-titulo-a-vista-muito-contente-com-o-podio/",
       "pubDate": "Sun, 11 Oct 2026 14:33:37 +0000",
       "description": "Kimi Antonelli terminou o Grande Prémio de Singapura na terceira posição, após aproveitar um incidente nas voltas finais entre Lando Norris e Lewis Hamilton. O resultado garantiu um lugar no pódio ao líder do campeonato e colocou-o na iminência de poder assegurar o título mundial, tão cedo quanto já",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Singapura F1, Charles Leclerc: “Dei tudo, não creio que houvesse muito mais a fazer”",
-      "link": "https://www.autosport.pt/formula1/gp-singapura-f1-charles-leclerc-dei-tudo-nao-creio-que-houvesse-muito-mais-a-fazer/",
-      "pubDate": "Sun, 11 Oct 2026 14:29:11 +0000",
-      "description": "Charles Leclerc terminou o Grande Prémio de Singapura na segunda posição, admitindo no final da prova que poderia ter adotado uma postura mais agressiva no arranque. O piloto da Ferrari destacou o ritmo forte demonstrado na fase inicial, mas reconheceu que a estratégia implementada com o Virtual Saf",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP Singapura F1, Max Verstappen triunfa pela 1ª vez em Marina Bay: “ muito contente por vencer aqui”",
-      "link": "https://www.autosport.pt/formula1/gp-singapura-f1-max-verstappen-triunfa-pela-1a-vez-em-marina-bay-muito-contente-por-vencer-aqui/",
-      "pubDate": "Sun, 11 Oct 2026 14:25:14 +0000",
-      "description": "Max Verstappen conquistou a sua primeira vitória no Grande Prémio de Singapura de Fórmula 1, numa prova marcada pelo erro estratégico da Ferrari que custou um duplo pódio a Lewis Hamilton. O piloto da Red Bull, que já se tinha imposto na corrida Sprint de sábado, confirmou o favoritismo e o domínio ",
       "thumbnail": ""
     }
   ]
