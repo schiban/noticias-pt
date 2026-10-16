@@ -1,63 +1,93 @@
 {
-  "updated": "2026-10-16T00:59:50.632175+00:00",
+  "updated": "2026-10-16T05:43:41.867761+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Porto. Extrema-direita terá causado ferido",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2416/",
-      "pubDate": "Fri, 16 Oct 2026 01:14:33 +0100",
-      "description": "O responsável Pedro Manuel denuncia seis manifestantes de extrema-direita que provocaram confrontos físico. Ainda, o PCP diz que Montenegro é o \"verdadeiro egoísta\" na luta pela habitação.",
+      "title": "Benfica vence Celtic (4-1) e Prestianni revela \"segredo\"",
+      "link": "https://observador.pt/programas/vamos-a-bola/benfica-vence-celtic-4-1-e-prestianni-revela-segredo/",
+      "pubDate": "Fri, 16 Oct 2026 06:37:02 +0100",
+      "description": "O argentino diz que o motivo para o excelente momento de forma está na \"confiança\" que lhe é passado por colegas e treinador. Ainda, a vitória de Portugal no hóquei em patins (5-1).",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Miguel Pinto Luz diz que governo \"tem de melhorar\"",
+      "link": "https://observador.pt/programas/conferencia-de-imprensa/miguel-pinto-luz-diz-que-governo-tem-de-melhorar/",
+      "pubDate": "Fri, 16 Oct 2026 06:36:04 +0100",
+      "description": "Jornal de Notícias: Carga policial contra manifestantes do Porto causa mais de 30 feridos\r\nCorreio da Manhã: Lufthansa fica com a TAP de borla",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 6h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2524/",
+      "pubDate": "Fri, 16 Oct 2026 06:12:21 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Ministra do Trabalho: alterações à PSU \"quebram\" acordo",
-      "link": "https://observador.pt/2026/10/16/ministra-adverte-que-alteracoes-substanciais-ao-diploma-da-psu-podem-violar-autorizacao-legislativa/",
-      "pubDate": "Fri, 16 Oct 2026 00:38:55 +0100",
-      "description": "Maria do Rosário Palma Ramalho alertou no Parlamento que mudanças ao decreto da PSU violariam o compromisso entre PSD, CDS-PP e PS que esteve na base da autorização legislativa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/18123716/47796091.jpg"
+      "title": "Ovelhas atacaram planta e o resultado virou arte",
+      "link": "https://observador.pt/programas/a-nossa-cultura/ovelhas-atacaram-planta-e-o-resultado-virou-arte/",
+      "pubDate": "Fri, 16 Oct 2026 06:02:22 +0100",
+      "description": "Inspirada por ramos secos de um cato roído por ovelhas no campo, Liliana Velho combinou elementos efémeros da natureza com cerâmica para recriar as artérias de um coração surpreendente.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/10120711/770-podcast-a-nossa-cultura-radio-observador-viseu-1.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "PS/Açores exige transparência na privatização da SATA",
-      "link": "https://observador.pt/2026/10/16/ps-acores-exige-transparencia-na-privatizacao-da-sata-e-questiona-22-dias-para-fechar-negocio-antes-do-prazo-da-ce/",
-      "pubDate": "Fri, 16 Oct 2026 00:37:32 +0100",
-      "description": "Socialistas pedem revelação dos cinco candidatos à Azores Airlines e alertam para o intervalo mínimo entre propostas vinculativas e o prazo europeu de 31 de dezembro.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/09131744/41656337.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Incêndio em habitação em Olhão causa cinco feridos",
-      "link": "https://observador.pt/2026/10/16/incendio-em-habitacao-em-olhao-faz-cinco-feridos-hospitalizados-com-queimaduras/",
-      "pubDate": "Fri, 16 Oct 2026 00:37:13 +0100",
-      "description": "Uma panela terá estado na origem do fogo. Feridos são de nacionalidade inglesa, espanhola e australiana e foram transportados com queimaduras para o hospital mais próximo.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1413:792:nowe:559:530/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/12/24104810/25303227-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "\"Pura Loucura\" e \"Cock\" em cena no Teatro Maria Matos",
-      "link": "https://observador.pt/2026/10/16/pura-loucura-e-cock-em-cena-ate-finais-de-novembro-e-dezembro-no-teatro-maria-matos/",
-      "pubDate": "Fri, 16 Oct 2026 00:36:45 +0100",
-      "description": "\"Pura Loucura\", com encenação de Michel Simeão, ficará em cena até 29 de novembro e \"Cock\", encenada por Ricardo Neves-Neves, estará em cena até 22 de dezembro, devido à grande procura.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/14000009/teatro-maria-matos-foto-jose-frade-04-05-06-071_770x433_acf_cropped.jpg"
+      "title": "O som de Mirita Casimiro e a cor de José de Almeida Furtado",
+      "link": "https://observador.pt/programas/a-historia-das-historias/o-som-de-mirita-casimiro-e-a-cor-de-jose-de-almeida-furtado/",
+      "pubDate": "Fri, 16 Oct 2026 06:02:19 +0100",
+      "description": "Mirita Casimiro destacou-se como cantora e atriz. O pintor “Gata” José de Almeida Furtado, romântico e liberal perseguido, viveu entre Salamanca e Viseu.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01194959/770-podcast-a-historia-das-historias.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Manifestantes vão pernoitar na Praça D. João I mas agora sem tendas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-manifestantes-vao-pernoitar-na-praca-d-joao-i-mas-agora-sem-tendas_a1_1771989",
-      "pubDate": "Fri, 16 Oct 2026 02:30:01 +0100",
+      "title": "Líder de Macau enaltece Justiça e destaca primeiro caso de segurança nacional",
+      "link": "https://www.rtp.pt/noticias/mundo/lider-de-macau-enaltece-justica-e-destaca-primeiro-caso-de-seguranca-nacional_n1771992",
+      "pubDate": "Fri, 16 Oct 2026 07:38:49 +0100",
+      "description": "O chefe do Executivo de Macau enalteceu o trabalho da Justiça local no último ano judiciário, destacando o primeiro caso de segurança nacional a ser julgado no território, que envolve o ex-deputado pró-democracia Au Kam San.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d70a0fae4bc69293475e6559c760d658?w=350&amp;q=50&amp;rect=0,0,919,504&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Governo timorense entrega novo local para construção de edifício de televisão e rádio públicas",
+      "link": "https://www.rtp.pt/noticias/economia/governo-timorense-entrega-novo-local-para-construcao-de-edificio-de-televisao-e-radio-publicas_n1771990",
+      "pubDate": "Fri, 16 Oct 2026 07:36:53 +0100",
+      "description": "O Governo de Timor-Leste procedeu à entrega do novo local para a construção das futuras instalações da televisão e rádio públicas timorenses, anunciou o Executivo.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Organização ordena desmobilização \"imediata\" pela 01:20",
+      "link": "https://www.rtp.pt/noticias/pais/organizacao-ordena-desmobilizacao-imediata-pela-0120_n1771991",
+      "pubDate": "Fri, 16 Oct 2026 07:36:27 +0100",
+      "description": "O porta-voz da organização da manifestação pela habitação ordenou hoje a desmobilização &quot;imediata&quot; do grupo que se mantinha na Praça D. João I, no Porto, denunciando uma &quot;infiltração&quot; de outros grupos na concentração.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4a92c8ea8b0d40a5314b493b77a229c?w=350&amp;q=50&amp;rect=0,76,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "6h Apoio à Ucrânia e sanções à Rússia em debate hoje no Conselho Europeu",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/6h-apoio-a-ucrania-e-sancoes-a-russia-em-debate-hoje-no-conselho-europeu_a1_1772003",
+      "pubDate": "Fri, 16 Oct 2026 07:25:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +95,11 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Cinco pessoas mortas em tiroteio numa escola de Oregon nos EUA",
-      "link": "https://www.rtp.pt/noticias/mundo/cinco-pessoas-mortas-em-tiroteio-numa-escola-de-oregon-nos-eua_n1771988",
-      "pubDate": "Fri, 16 Oct 2026 01:40:30 +0100",
-      "description": "Cinco pessoas foram mortas num tiroteio numa escola primária em Bend, Oregon, nos Estados Unido, segundo dois agentes policiais citados pela agência de notícias Associated Press.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca17025149a5c6ba00f548923b59836d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Vereador do PS Manuel Pizarro condena \"violência descontrolada\" da polícia no Porto",
-      "link": "https://www.rtp.pt/noticias/pais/vereador-do-ps-manuel-pizarro-condena-violencia-descontrolada-da-policia-no-porto_n1771941",
-      "pubDate": "Fri, 16 Oct 2026 01:37:01 +0100",
-      "description": "O vereador do PS na Câmara do Porto Manuel Pizarro criticou hoje &quot;a violência descontrolada da intervenção policial&quot; ocorrida de madrugada contra manifestantes pela habitação na Praça D. João I, esperando uma análise rigorosa da Inspeção-Geral da Administração Interna.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Satisfação com a reforma dos Cuidados de Saúde Primários desce para 26%",
-      "link": "https://www.rtp.pt/noticias/pais/satisfacao-com-a-reforma-dos-cuidados-de-saude-primarios-desce-para-26_n1771983",
-      "pubDate": "Fri, 16 Oct 2026 01:36:11 +0100",
-      "description": "A satisfação dos coordenadores das Unidades de Saúde Familiares (USF) com a reforma nos Cuidados de Saúde Primários desceu cinco pontos percentuais no último ano, de 31,9% para 26%, interrompendo uma melhoria observada desde 2022/23.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Mais de 85% das Unidades de Saúde de Familiar à espera dos incentivos institucionais",
-      "link": "https://www.rtp.pt/noticias/economia/mais-de-85-das-unidades-de-saude-de-familiar-a-espera-dos-incentivos-institucionais_n1771982",
-      "pubDate": "Fri, 16 Oct 2026 01:35:45 +0100",
-      "description": "Mais 85% das Unidades de Saúde Familiares (USF) têm incentivos institucionais em dívida ou ainda não disponíveis e mais de 63% foram informados que os valores de 2025 só ficarão disponíveis este ano, revela um relatório da associação nacional.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+      "title": "5h Desmobilizado protesto pela habitação no Porto por risco de distúrbios",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-desmobilizado-protesto-pela-habitacao-no-porto-por-risco-de-disturbios_a1_1772000",
+      "pubDate": "Fri, 16 Oct 2026 06:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Nove em dez centros de saúde têm 3 ou mais falhas informáticas num ano",
-      "link": "https://www.noticiasaominuto.com/pais/3067764/nove-em-dez-centros-de-saude-tem-3-ou-mais-falhas-informaticas-num-ano-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-16 00:07:37",
+      "title": "Paulo Futre, Mariana Machado e Patrícia Mamona distinguidos",
+      "link": "https://www.noticiasaominuto.com/desporto/3067771/paulo-futre-mariana-machado-e-patricia-mamona-distinguidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-16 06:15:50",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_681dafa576bdd.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_57828fae71679.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Mais de 85% das Unidades de Saúde de Familiar à espera dos incentivos",
-      "link": "https://www.noticiasaominuto.com/pais/3067765/mais-de-85-das-unidades-de-saude-de-familiar-a-espera-dos-incentivos-institucionais-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-16 00:02:02",
+      "title": "Salvador Sobral edita álbum com base na \"música mais genuína do mundo\"",
+      "link": "https://www.noticiasaominuto.com/cultura/3067786/salvador-sobral-edita-album-com-base-na-musica-mais-genuina-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-16 06:10:59",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6abd94efef285.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA3LCJjcm9wSGVpZ2h0IjoxNDEwLCJjcm9wWCI6MzYsImNyb3BZIjozOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTAwMCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad1a15ff335a.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Satisfação com reforma da saúde primária desce para 26% — veja os motivos",
-      "link": "https://www.noticiasaominuto.com/pais/3067766/satisfacao-com-a-reforma-dos-cuidados-de-saude-primarios-desce-para-26-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-16 00:02:01",
+      "title": "Cancro da mama. Oncologistas destacam alimento que pode reduzir risco",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3067150/cancro-da-mama-oncologistas-destacam-alimento-que-reduz-risco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-16 06:05:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68a9b91531c96.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY0LCJjcm9wSGVpZ2h0IjoxMzg2LCJjcm9wWCI6OTQsImNyb3BZIjoxOTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE4NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad07a839e067.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "79% dos inquiridos querem mais ação para proteger os oceanos",
-      "link": "https://www.noticiasaominuto.com/mundo/3067761/mais-acao-para-proteger-oceanos-pedida-por-79-de-inquiridos-em-20-paises#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-16 00:01:00",
+      "title": "Baixa a 100% para doentes oncológicos teria impacto de 14 milhões no OE",
+      "link": "https://www.noticiasaominuto.com/economia/3067794/baixa-a-100-para-doentes-oncologicos-teria-impacto-de-14-milhoes-no-oe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-16 06:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6960b6d1a2e3e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI0LCJjcm9wSGVpZ2h0IjoxNDIwLCJjcm9wWCI6MTAsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad1af6f3495e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Médio Oriente: França inicia destacamento militar de apoio à Arábia Saudita",
-      "link": "https://www.noticiasaominuto.com/mundo/3067757/medio-oriente-franca-iniciadestacamento-militar-de-apoio-a-arabia-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-15 23:59:30",
+      "title": "Lula quer reduzir idade de responsabilidade penal para crimes hediondos",
+      "link": "https://www.noticiasaominuto.com/mundo/3067785/lula-quer-reduzir-idade-de-responsabilidade-penal-para-crimes-hediondos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-16 04:23:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5ece7f371c4fb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad198b2c9bd6.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Tesla Roadster já voa e dá cambalhotas, mas só chega em 2028",
+      "link": "https://pplware.sapo.pt/motores/tesla-roadster-ja-voa-e-da-cambalhotas-mas-so-chega-em-2028/",
+      "pubDate": "Fri, 16 Oct 2026 01:40:00 +0000",
+      "description": "A novela em torno do Tesla Roadster ganhou finalmente um novo capítulo com a apresentação oficial. O desportivo elétrico que Elon Musk mostrou ao mundo em 2017 sofreu uma remodelação profunda, trocando as linhas curvas originais por uma linguagem muito mais próxima da Cybertruck e do Cybercab. Entre",
+      "thumbnail": "http://pplware.sapo.pt/wp-content/uploads/2026/10/F-sCdqWZu-Ju3TJV.mp4"
     },
     {
       "sourceId": "pplware",
@@ -289,16 +299,6 @@
       "link": "https://pplware.sapo.pt/gadgets/novos-ray-ban-meta-chegam-a-portugal-conheca-os-modelos-e-os-precos/",
       "pubDate": "Thu, 15 Oct 2026 19:30:00 +0000",
       "description": "A Ray-Ban e a Meta anunciaram a chegada de uma nova geração de óculos inteligentes a Portugal. As novidades incluem os Ray-Ban Meta (Gen 3), equipados com uma câmara 3K Ultra HD, e os Ray-Ban Meta Audio, uma versão dedicada exclusivamente ao som e à Inteligência Artificial (IA). Os preços começam no",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Novo Tesla Roadster: saiba a que horas pode ver a apresentação em Portugal",
-      "link": "https://pplware.sapo.pt/motores/novo-tesla-roadster-saiba-a-que-horas-pode-ver-a-apresentacao-em-portugal/",
-      "pubDate": "Thu, 15 Oct 2026 18:30:00 +0000",
-      "description": "Depois de anos de espera e sucessivos adiamentos, o novo Tesla Roadster volta a estar no centro das atenções. A marca vai transmitir a apresentação em direto e quem quiser acompanhar em Portugal terá de ficar acordado até de madrugada. A Tesla marcou a apresentação para esta quinta-feira, 15 de outu",
       "thumbnail": ""
     },
     {
