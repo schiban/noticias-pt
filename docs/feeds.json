@@ -1,55 +1,95 @@
 {
-  "updated": "2026-10-17T21:12:28.168242+00:00",
+  "updated": "2026-10-17T23:17:25.497689+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Habitação. Cerca de 200 pessoas saem à rua em Faro",
-      "link": "https://observador.pt/2026/10/17/cerca-de-200-pessoas-manifestaram-se-em-faro-contra-precos-elevados-das-casas/",
-      "pubDate": "Sat, 17 Oct 2026 21:39:50 +0100",
-      "description": "Manifestantes denunciaram os elevados preços das casas no Algarve e exigem soluções que permitam aos trabalhadores viver na região.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17182645/obs17102026davidoliveira00044.jpg"
+      "title": "A Geopolítica da Coragem",
+      "link": "https://observador.pt/opiniao/a-geopolitica-da-coragem/",
+      "pubDate": "Sun, 18 Oct 2026 00:15:28 +0100",
+      "description": "A coragem, quando é bela, nunca é inconsciência.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A466%3A466%3Anowe%3A38%3A20%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F06224048%2Fbernardo-ribeiro-da-cunha.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Itália. Manifestantes e polícia em confrontos",
-      "link": "https://observador.pt/2026/10/17/manifestantes-e-policia-em-confronto-em-milao-bolonha-e-turim-vice-primeiro-ministro-condena-violencia-e-vandalismo/",
-      "pubDate": "Sat, 17 Oct 2026 21:30:25 +0100",
-      "description": "Milhares de italianos saíram à rua este sábado. Em algumas cidades, como Milão, houve confrontos entre os manifestantes e a polícia. Em Bolonha, pelo menos sete pessoas foram detidas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4092:2308:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17185150/gettyimages-2300132666-scaled.jpg"
+      "title": "Onde querem que Portugal esteja daqui a 10, 15, 20 anos?",
+      "link": "https://observador.pt/opiniao/onde-querem-que-portugal-esteja-daqui-a-10-15-20-anos/",
+      "pubDate": "Sun, 18 Oct 2026 00:14:53 +0100",
+      "description": "Portugal não precisa de mais novelas políticas. Precisa de ideias, projetos e planos para ser mais próspero daqui a vinte anos.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1128%3A1128%3Anowe%3A413%3A200%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F02%2F09212710%2Fvfs-2020.jpeg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "21h. Porto. Manifestantes vão pernoitar na Praça D. João I",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1789/",
-      "pubDate": "Sat, 17 Oct 2026 21:17:53 +0100",
-      "description": "A decisão foi comunicada depois de uma assembleia popular. Ainda, no Desporto, o Presidente da República e o primeiro-ministro felicitaram hoje o ciclista Iúri Leitão pelo título mundial de omnium.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Sobre o 7 de Outubro de 2023",
+      "link": "https://observador.pt/opiniao/sobre-o-7-de-outubro-de-2023/",
+      "pubDate": "Sun, 18 Oct 2026 00:11:01 +0100",
+      "description": "O objectivo do Hamas é criar as condições internacionais que impossibilitem que Israel continue a existir, quebrando-lhe a resistência interior.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1523%3A1523%3Anowe%3A13%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F11%2F30132209%2F20201130-131011.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "20h. Porto. Movimento Acampada realiza assembleia popular",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2069/",
-      "pubDate": "Sat, 17 Oct 2026 20:11:23 +0100",
-      "description": "No Porto, a assembleia popular debate prolongar a ocupação durante a noite, com ou sem tendas. Ainda, mais de 52 mil alunos conseguiram entrar numa instituição de ensino superior.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Quanto está disposto a investir na inovação da sua empresa?",
+      "link": "https://observador.pt/opiniao/a-anthropic-e-avaliada-em-dois-bilioes-quanto-esta-disponivel-para-investir-na-inovacao-da-sua-empresa/",
+      "pubDate": "Sun, 18 Oct 2026 00:08:45 +0100",
+      "description": "Os mercados financiam expectativas sobre o futuro. Nas grandes organizações, demasiadas ideias têm de provar o seu retorno antes de receberem uma oportunidade.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A810%3A810%3Anowe%3A26%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F12221648%2Ftomas-moreno-foto.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "CGTP. Milhares nas ruas do Porto com aplausos aos acampados",
-      "link": "https://observador.pt/2026/10/17/das-criticas-ao-ps-aos-aplausos-aos-acampados-marcha-da-cgtp-levou-novamente-milhares-de-pessoas-as-ruas-do-porto/",
-      "pubDate": "Sat, 17 Oct 2026 20:09:31 +0100",
-      "description": "\"PS não pode querer dar-se bem com Deus e o diabo\", aponta líder sindical. Além das críticas a vários partidos, marcha da CGTP com milhares de pessoas fica marcada pelo apoio aos jovens acampados.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1404:nowe:0:263/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17182652/obs17102026davidoliveira00053.jpg"
+      "title": "Revisão da Lei de Bases do Sistema Educativo",
+      "link": "https://observador.pt/opiniao/revisao-da-lei-de-bases-do-sistema-educativo-olhar-para-o-passado-para-preparar-o-futuro/",
+      "pubDate": "Sun, 18 Oct 2026 00:07:25 +0100",
+      "description": "Uma Lei de Bases atualizada deve reconhecer que a equidade exige respostas diferenciadas, intervenção precoce, prevenção do insucesso e percursos mais ajustados aos ritmos, perfis e talentos de cada.",
+      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1349%3A1349%3Anowe%3A338%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F15115312%2Foficial.jpg"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "23h Protestos no Porto: Miguel Pinto Luz defende Pedro Duarte",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-protestos-no-porto-miguel-pinto-luz-defende-pedro-duarte_a1_1772413",
+      "pubDate": "Sun, 18 Oct 2026 00:53:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Habitação. Paulo Raimundo denuncia nova lei \"feita à medida dos fundos imobiliários\"",
+      "link": "https://www.rtp.pt/noticias/politica/habitacao-paulo-raimundo-denuncia-nova-lei-feita-a-medida-dos-fundos-imobiliarios_n1772411",
+      "pubDate": "Sat, 17 Oct 2026 23:43:51 +0100",
+      "description": "A RTP está a fazer entrevistas aos líderes partidários nacionais e o tema da habitação dominou a conversa com Paulo Raimundo, secretário-geral do PCP.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cfd7ce3a609001a0b41f8c928a4992c0?w=350&amp;q=50&amp;rect=64,0,996,546&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "21h Movimento pela habitação pede prolongamento do protesto no Porto",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-movimento-pela-habitacao-pede-prolongamento-do-protesto-no-porto_a1_1772409",
+      "pubDate": "Sat, 17 Oct 2026 23:26:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Roma regressa aos triunfos e sobe provisoriamente ao segundo lugar",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/roma-regressa-aos-triunfos-e-sobe-provisoriamente-ao-segundo-lugar_d1772407",
+      "pubDate": "Sat, 17 Oct 2026 23:07:50 +0100",
+      "description": "A Roma regressou hoje aos triunfos na Liga italiana de futebol, na receção ao Génova (2-0), em jogo da sétima ronda, e ascendeu provisoriamente à vice-liderança da competição.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/88/88649fc9166329c56ec9dc3468d4e8d8?w=350&amp;q=50&amp;rect=0,44,1233,676&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -62,114 +102,74 @@
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/21/218c64cb22989df1be9ffbf23cd04cb8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Manifestantes no Porto decidem voltar a acampar na Praça D. João I",
-      "link": "https://www.rtp.pt/noticias/pais/manifestantes-no-porto-decidem-voltar-a-acampar-na-praca-d-joao-i_v1772405",
-      "pubDate": "Sat, 17 Oct 2026 22:38:47 +0100",
-      "description": "O movimento pela habitação decidiu voltar a montar tendas e a acampar no local este sábado.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/4a/4aa99b26caade7f3d32cca7f1c048e28_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Manifestações pela habitação. Ministro \"com enorme preocupação\" e assume que se a população se manifesta é porque \"há dor\"",
-      "link": "https://www.rtp.pt/noticias/economia/manifestacoes-pela-habitacao-ministro-com-enorme-preocupacao-e-assume-que-se-a-populacao-se-manifesta-e-porque-ha-dor_v1772183",
-      "pubDate": "Sat, 17 Oct 2026 22:18:32 +0100",
-      "description": "O ministro da Habitação admite que quem se manifesta pelo direito à habitação é porque sente dor.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/2b/2b95e7852ad2f1792e8c37b9ac2d2025_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Entrevista a Francis Fukuyama. \"Com Trump a democracia está em risco nos EUA\"",
-      "link": "https://www.rtp.pt/noticias/mundo/entrevista-a-francis-fukuyama-com-trump-a-democracia-esta-em-risco-nos-eua_v1772403",
-      "pubDate": "Sat, 17 Oct 2026 22:16:47 +0100",
-      "description": "A democracia nos Estados Unidos está em risco e com Donald Trump enfrenta as piores ameaças desde a guerra civil norte-americana. A convicção é do professor da universidade de Stanford, Francis Fukuyama que falou em exclusivo à RTP.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/3f/3fa8c18fca15b70e95994c83cc38ec79_N.jpg?"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Tesla apresenta carro voador com propulsores da Space X",
-      "link": "https://www.rtp.pt/noticias/mundo/tesla-apresenta-carro-voador-com-propulsores-da-space-x_v1772402",
-      "pubDate": "Sat, 17 Oct 2026 22:14:48 +0100",
-      "description": "A Tesla de Elon Musk apresentou uma nova e inovadora versão do modelo desportivo elétrico, o Roadster. A versão mais sofisticada consegue fazer manobras no ar com recurso a propulsores.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/images/39/395948c1bd5f9a2dc7a32b85f1b98639_N.jpg?"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Vianense-Leixões termina em confrontos entre adeptos e jogadores",
+      "link": "https://maisfutebol.iol.pt/taca-portugal/vianense/video-vianense-leixoes-termina-em-confrontos-entre-adeptos-e-jogadores",
+      "pubDate": "Sun, 18 Oct 2026 00:01:00 +0100",
+      "description": "Final do encontro da Taça de Portugal ficou marcado por momentos de tensão, após a derrota dos leixonenses por 1-0",
+      "thumbnail": "https://img.iol.pt/image/id/6ad3fdb3d34e9a786e75cbac/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Taça: Leça surpreende e elimina o Penafiel",
-      "link": "https://maisfutebol.iol.pt/taca-portugal/taca-de-portugal/taca-leca-surpreende-e-elimina-o-penafiel",
-      "pubDate": "Sat, 17 Oct 2026 21:58:00 +0100",
-      "description": "Equipa da Liga 3 vence em casa do conjunto da II Liga por 1-0",
-      "thumbnail": "https://img.iol.pt/image/id/6ad3e005d34e53c759c76e58/250"
+      "title": "Artur Gaspar conquista título europeu jovem de triatlo",
+      "link": "https://maisfutebol.iol.pt/triatlo/modalidades/artur-gaspar-conquista-titulo-europeu-jovem-de-triatlo",
+      "pubDate": "Sat, 17 Oct 2026 23:50:07 +0100",
+      "description": "Português venceu em Melilla com dois segundos de vantagem sobre o luxemburguês Emile Vanolst",
+      "thumbnail": "https://img.iol.pt/image/id/6ad3f9fcd34e53c759c76e75/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Espanha: Valência anula Athletic Bilbao com nulo no Mestalla",
-      "link": "https://maisfutebol.iol.pt/espanha/internacional/espanha-valencia-anula-athletic-bilbao-com-nulo-no-mestalla",
-      "pubDate": "Sat, 17 Oct 2026 21:58:00 +0100",
-      "description": "Valencianos continuam afundados no penúltimo lugar, bascos mais longe da Europa",
-      "thumbnail": "https://img.iol.pt/image/id/6ad3df75d34e53c759c76e57/250"
+      "title": "Emiliano Martínez fratura a mandíbula e vai ser operado",
+      "link": "https://maisfutebol.iol.pt/internacional/ingleterra/emiliano-martinez-fratura-a-mandibula-e-vai-ser-operado",
+      "pubDate": "Sat, 17 Oct 2026 23:21:00 +0100",
+      "description": "Intervenção cirúrgica está prevista para este sábado",
+      "thumbnail": "https://img.iol.pt/image/id/6ad394cfd34e53c759c76d9b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Lille empata em casa com o Brest em noite de homenagem a Tiago Santos",
-      "link": "https://maisfutebol.iol.pt/franca/internacional/video-lille-empata-em-casa-com-o-brest-em-noite-de-homeagem-a-tiago-santos",
-      "pubDate": "Sat, 17 Oct 2026 21:44:00 +0100",
-      "description": "Mama Baldé marcou para os visitantes, mas Olivier Giroud resgatou um ponto para os anfitriões",
-      "thumbnail": "https://img.iol.pt/image/id/6ad3de1ed34e53c759c76e53/250"
+      "title": "PSG terminou jogo reduzido a dez: «Não quisemos correr riscos com o Nuno Mendes»",
+      "link": "https://maisfutebol.iol.pt/psg/internacional/psg-terminou-jogo-reduzido-a-dez-nao-quisemos-correr-riscos-com-o-nuno-mendes",
+      "pubDate": "Sat, 17 Oct 2026 22:52:02 +0100",
+      "description": "Lateral português saiu com queixas aos 86 minutos quando Luis Enrique já tinha esgotado as substituições",
+      "thumbnail": "https://img.iol.pt/image/id/6ad3ecf3d34e9a786e75cb9c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Mora titular no regresso às vitórias da Roma",
-      "link": "https://maisfutebol.iol.pt/made-in/roma/video-mora-titular-no-regresso-as-vitorias-da-roma",
-      "pubDate": "Sat, 17 Oct 2026 21:42:00 +0100",
-      "description": "«Giallorossi» vencem o Génova por 2-0. Santi Castro brilha com golaço",
-      "thumbnail": "https://img.iol.pt/image/id/6ad3dc29d34e53c759c76e4f/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Benfica-Celtic? Pensei: não consigo ver isto. E fui para a cama»",
-      "link": "https://maisfutebol.iol.pt/liga-europa/benfica/benfica-celtic-pensei-nao-consigo-ver-isto-e-fui-para-a-cama",
-      "pubDate": "Sat, 17 Oct 2026 21:40:00 +0100",
-      "description": "Dean Saunders e Alan Brazil não pouparam nas críticas à equipa escocesa após a derrota por 4-1 frente às águias",
-      "thumbnail": "https://img.iol.pt/image/id/6ad13af7d34e9a786e75c77f/250"
+      "title": "«Agora confraternizamos... depois do jogo andamos à porrada»",
+      "link": "https://maisfutebol.iol.pt/taca-de-portugal/fazendense/agora-confraternizamos-depois-do-jogo-andamos-a-porrada",
+      "pubDate": "Sat, 17 Oct 2026 22:39:00 +0100",
+      "description": "Maisfutebol acompanhou de perto a festa da Taça em Fazendas de Almeirim, entre amigos improváveis e o marcador do golo histórico",
+      "thumbnail": "https://img.iol.pt/image/id/6ad38384d34e9a786e75ca92/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "O momento em que o acampamento começou a nascer no Rossio, em Lisboa",
-      "link": "https://sapo.pt/artigo/o-momento-em-que-o-acampamento-comecou-a-nascer-no-rossia-em-lisboa-veja-o-video-6ad3c07d936fde0155b3fab6",
-      "pubDate": "Sat, 17 Oct 2026 18:41:09 +0000",
-      "description": "Ao som de gritos de “o povo unido jamais será vencido” e do tilintar das chaves de casa que os manifestantes empunham no ar, ergueram-se as primeiras tendas no Rossio, em Lisboa. Um acampamento foi montado no meio da cidade, recriando aquilo que...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AbH%2B0FoPP5edbY%2Fi6gHeh4C7lL3lbASxKiO9NT8lzBFRND%2FRZs70ghRmVPDAYWuEeWeJhjKGOQDAEFiZxY1YcxNENfhNLFLsheCYL9J9078AtAQUW3JhmAyjPssLxtQIP"
+      "title": "\"Vamos ficar hoje, amanhã e até quando for preciso.\": Manifestantes no Porto decidem voltar a acampar na Praça D. João I",
+      "link": "https://executivedigest.sapo.pt/habitacao-manifestantes-no-porto-decidem-voltar-a-acampar-na-praca-d-joao-i/",
+      "pubDate": "Sat, 17 Oct 2026 21:14:41 +0000",
+      "description": "O movimento pela habitação que, desde o passado sábado tem ocupado a Praça D. João I, no Porto, decidiu hoje voltar a montar tendas e a acampar no local.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AwLKRwFIjE0t%2FKOmNi%2BneOkBzfbugAIraWw9cJD%2BDFGkaK7Qv8SBBbnnhiUGJB14XWbhk1O9ud98y%2BmNJETF0sB2XB0heHr55Dyi%2FH9JKJhYNePqnOVupAaYmnWt2OVjd"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "França em ebulição: país vive maior onda de protestos desde 2018",
-      "link": "https://sapo.pt/artigo/franca-em-ebulicao-pais-vive-maior-onda-de-protestos-desde-2018-6ad3c8b167f99269c89340d7",
-      "pubDate": "Sat, 17 Oct 2026 19:16:45 +0000",
-      "description": "Paris parece ter regressado a 2018 e ao movimento dos coletes amarelos. Fora da capital francesa, as autoridades contabilizaram 140 manifestações, que juntaram milhares de pessoas.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A8m%2Bv%2F%2B52pCkX33HnMZ%2BV%2Bng2bgvznMjBVqVmjCqLf9fBHBjrkfSjZpb%2FxI04jvqoC4QBU5T28hPD8PKoZ%2FSeu6BuBkXHUNA6oE6%2FR7XcCPIih0roiA4%2FxGQ0nk12J7D3"
+      "title": "Manifestantes incendeiam edifício de autarquia francesa: \"Ato deliberado\"",
+      "link": "https://sapo.pt/artigo/manifestantes-incendeiam-edificio-de-autarquia-francesa-ato-deliberado-6ad3ec7867f99269c8971782",
+      "pubDate": "Sat, 17 Oct 2026 22:02:43 +0000",
+      "description": "A Câmara Municipal de Limoges, em França, ficou \"praticamente destruída\" após ser incendiada por manifestantes encapuzados este sábado. A destruição do edifício histórico de 1883 ocorreu no âmbito de protestos nacionais contra o elevado custo de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AmpwGLcYija0AsrBMk%2FI70xX5JSIoIm4KWnrHGZbs8f%2Bk8kehnd4eVLJNZp1SL49807ZDsNWKWlAxUdA4fjyTLsemGjHV0wN5N0u6bLbkkt3TkMw6rk9z%2FSYeawykWvhA"
     },
     {
       "sourceId": "sapo",
@@ -205,51 +205,61 @@
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Este golo de Lo Celso podia valer um Puskás... mas o colega não deixou",
-      "link": "https://www.noticiasaominuto.com/desporto/3068627/este-golo-de-lo-celso-podia-valer-um-puskas-mas-o-colega-nao-deixou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-17 22:08:18",
+      "title": "Organizações pedem mais apoio para mulheres na menopausa",
+      "link": "https://www.noticiasaominuto.com/pais/3068647/organizacoes-pedem-mais-apoio-para-mulheres-na-menopausa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-18 00:07:01",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3e3a3de577.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67f3b26a94ad4.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Força Aérea transportou bens essenciais para a ilha do Corvo",
-      "link": "https://www.noticiasaominuto.com/pais/3068622/forca-aerea-transportou-bens-essenciais-para-a-ilha-do-corvo-governo-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-17 21:48:58",
+      "title": "Lecornu anuncia 1.200 detenções e 150 polícias e gendarmes feridos",
+      "link": "https://www.noticiasaominuto.com/mundo/3068642/pm-frances-anuncia-1200-detencoes-e-150-policias-e-gendarmes-feridos-em-jornada-de-protestos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-18 00:05:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_651443759990c.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3db1806c0e.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "AS Roma esquece desilusão europeia com Mourinho e vence com Mora no onze",
-      "link": "https://www.noticiasaominuto.com/desporto/3068619/as-roma-esquece-desilusao-europeia-com-mourinho-e-vence-com-mora-no-onze#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-17 21:38:55",
+      "title": "Lisboa conquista dois prémios internacionais como destino turístico",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3068643/lisboa-conquista-dois-premios-internacionais-como-destino-turistico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-18 00:05:08",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3d81c50b1f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OSwiY3JvcEhlaWdodCI6MTcwNCwiY3JvcFgiOjQ4NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3ff16c8ad8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "400 pessoas detidas em protestos violentos em França",
-      "link": "https://www.noticiasaominuto.com/mundo/3068620/400-pessoas-detidas-em-protestos-violentos-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-17 21:34:50",
+      "title": "Casal forçado a ir abortar a Bruxelas por malformações no fim da gravidez",
+      "link": "https://www.noticiasaominuto.com/pais/3068641/casal-forcado-a-ir-abortar-a-bruxelas-por-malformacoes-no-fim-da-gravidez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-17 23:59:44",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3dad490c7f.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_66f65ea87320d.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSP ajudou a deter quatro suspeitos de furtos no Oktoberfest em Munique",
-      "link": "https://www.noticiasaominuto.com/pais/3068616/psp-ajudou-a-deter-quatro-suspeitos-de-furtos-no-oktoberfest-em-munique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-17 21:31:58",
+      "title": "Protestos voltam às ruas a 2 semanas das intercalares: \"Votar é antídoto\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3068640/reportagem-euaeleicoes-protestos-voltam-as-ruas-a-duas-semanas-das-intercalares-porque-votar-e-o-antidoto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-17 23:43:41",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6506b760bd8bf.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad3f93cc4570.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQ4LCJjcm9wSGVpZ2h0IjoxMzc3LCJjcm9wWCI6MzksImNyb3BZIjo1NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTY2LCJjcm9wWSI6MH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "O que tem a ver a NASA com a famosa bebida Tang?",
+      "link": "https://pplware.sapo.pt/informacao/o-que-tem-a-ver-a-nasa-com-a-famosa-bebida-tang/",
+      "pubDate": "Sat, 17 Oct 2026 21:39:50 +0000",
+      "description": "Era só juntar água para preparar a bebida. Mas bastou associá-la aos astronautas para nascer um mito que atravessou décadas: o de que a NASA tinha inventado o Tang. A ligação ao espaço é verdadeira. A origem da fórmula é outra história. O Tang já existia antes de chegar ao espaço O Tang foi desenvol",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -292,16 +302,6 @@
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Chegou o novo Mercedes-AMG GT SUV com 1169 cv",
-      "link": "https://pplware.sapo.pt/motores/chegou-o-novo-mercedes-amg-gt-suv-com-1169-cv/",
-      "pubDate": "Sat, 17 Oct 2026 17:31:36 +0000",
-      "description": "A Mercedes-AMG apresentou o novo GT SUV, um modelo 100% elétrico que combina prestações de superdesportivo com a versatilidade de um SUV de grandes dimensões. O novo Mercedes-AMG GT SUV de 2028 representa um marco para a divisão desportiva da marca alemã, sendo o primeiro SUV de grandes dimensões de",
-      "thumbnail": ""
-    },
-    {
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
@@ -328,7 +328,7 @@
       "title": "Francisco Barreto estreia-se a vencer na Baja Portalegre 500",
       "link": "https://www.autosport.pt/todooterreno/francisco-barreto-estreia-se-a-vencer-na-baja-portalegre-500/",
       "pubDate": "Sat, 17 Oct 2026 15:44:57 +0000",
-      "description": "Francisco Barreto e Paulo Fiúza (Toyota Hilux Evo) venceram a 40ª edição da Baja Portalegre 500. Para o piloto é uma estreia, para Fiúza, é o segundo triunfo, depois de ter ganho em 2024 ao lado de Miguel Barbosa. Barreto torna-se no 23º piloto a vencer a prova, o 14º português (nove pilotos estrang",
+      "description": "Francisco Barreto e Paulo Fiúza, a bordo de uma Toyota Hilux Evo, sagraram-se vencedores da 40ª edição da Baja Portalegre 500. Para Francisco Barreto, esta vitória representa uma estreia no palmarés da prova, tornando-se o 23º piloto a conquistar o evento e o 14º português a fazê-lo. Paulo Fiúza alc",
       "thumbnail": ""
     },
     {
