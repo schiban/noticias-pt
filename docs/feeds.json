@@ -1,63 +1,83 @@
 {
-  "updated": "2026-10-19T18:37:31.965534+00:00",
+  "updated": "2026-10-19T22:47:21.696818+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Como a CGA errou a calcular as reformas a três mil pessoas",
-      "link": "https://observador.pt/especiais/a-mudanca-em-2005-os-litigios-recorrentes-e-as-possiveis-indemnizacoes-como-a-cga-errou-a-calcular-as-reformas-a-tres-mil-pensionistas/",
-      "pubDate": "Mon, 19 Oct 2026 19:18:20 +0100",
-      "description": "Quase três mil aposentados da CGA receberam mais pensão do que teriam direito entre maio e agosto. Advogados apontam quatro formas de contestar a reposição. Pedir indemnização é uma delas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/05/19065742/25529094_770x433_acf_cropped.jpg"
+      "title": "Gil Vicente vence com reviravolta em Braga em jogo em atraso",
+      "link": "https://observador.pt/2026/10/19/i-liga-gil-vicente-vence-com-reviravolta-em-braga-em-jogo-em-atraso/",
+      "pubDate": "Mon, 19 Oct 2026 23:38:19 +0100",
+      "description": "Em jogo em atraso da segunda jornada, os gilistas anularam o golo de Pau Victor com tentos de Walace França e Travassos, este na própria baliza.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19222724/47971117.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "19h. Ronaldo fica suspenso por 1 mês e paga multa de 255€",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2200/",
-      "pubDate": "Mon, 19 Oct 2026 19:14:24 +0100",
-      "description": "Ronaldo pode ou não fazer parte dos eleitos de Jorge Jesus para os próximos jogos da equipa nacional. Neste caso uma receção à Dinamarca e uma deslocação ao País de Gales.",
+      "title": "Ceuta. Retiradas 300 toneladas de resíduos em acampamentos",
+      "link": "https://observador.pt/2026/10/19/mais-de-300-toneladas-de-residuos-retiradas-dos-acampamentos-de-migrantes-desalojados-em-ceuta/",
+      "pubDate": "Mon, 19 Oct 2026 23:37:26 +0100",
+      "description": "Cerca de 200 trabalhadores mobilizados para limpar zonas onde viviam 500 migrantes desde finais de julho, após entrada massiva de mais de 80.000 pessoas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19230314/47887408.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Governo húngaro aumenta impostos sobre ricos",
+      "link": "https://observador.pt/2026/10/19/governo-hungaro-aumenta-impostos-sobre-ricos-para-baixar-defice-e-subir-pensoes/",
+      "pubDate": "Mon, 19 Oct 2026 23:18:36 +0100",
+      "description": "Magyar anuncia novo orçamento com taxa sobre fortunas acima de 2,75 milhões de euros e agravamento do IRC. Pensão mínima quadruplica para 330 euros mensais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19225752/47968703.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Alentejo e Estremadura espanhola criam \"corredor cultural\"",
+      "link": "https://observador.pt/2026/10/19/alentejo-e-estremadura-espanhola-de-maos-dadas-para-criarem-um-corredor-cultural/",
+      "pubDate": "Mon, 19 Oct 2026 23:17:44 +0100",
+      "description": "A aliança \"A Fronteira da Cultura\" foi constituída esta segunda-feira, em Évora. Envolve concelhos como Évora, Elvas, Badajoz e Cáceres e arranca em 2027.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:899:nowe:0:2/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/27193305/captura-de-ecra-2025-08-27-as-193228.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 23h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2198/",
+      "pubDate": "Mon, 19 Oct 2026 23:17:00 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Lei da habitação: afinal as casas nascem no Parlamento?",
-      "link": "https://observador.pt/programas/e-o-vencedor-e/lei-da-habitacao-afinal-as-casas-nascem-no-parlamento/",
-      "pubDate": "Mon, 19 Oct 2026 19:09:50 +0100",
-      "description": "Com a nova lei das rendas, o Parlamento provou ser especialista em erguer decretos no papel. Enquanto isso, a irrisória coima de 255€ a CR7 obriga-o a trabalhar quase um minuto inteiro para a pagar.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "234 associações culturais numa só plataforma",
-      "link": "https://observador.pt/2026/10/19/plataforma-online-mapeia-mais-de-234-associacoes-culturais-portuguesas-e-quer-ligar-o-tecido-associativo-nacional/",
-      "pubDate": "Mon, 19 Oct 2026 19:08:06 +0100",
-      "description": "A RNAC, promovida pela associação Lúcia-Lima de Cantanhede, já está online em rnac.pt. O objectivo: aproximar associações e dar visibilidade à cultura de todo o país.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:216/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/11175343/7o0b5283.jpeg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Quem berra na rua não precisa de casa",
-      "link": "https://observador.pt/programas/ideias-feitas/quem-berra-na-rua-nao-precisa-de-casa/",
-      "pubDate": "Mon, 19 Oct 2026 19:02:49 +0100",
-      "description": "Alberto Gonçalves volta a comentar as manifestações de protesto nas prinipais cidades portuguesas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08180105/770-podcast-ideias-feitas.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro",
+      "link": "https://www.rtp.pt/noticias/economia/manifestantes-pelo-direito-a-habitacao-querem-greve-iberica-a-11-de-novembro_e1772593",
+      "pubDate": "Tue, 20 Oct 2026 00:03:55 +0100",
+      "description": "Os protestos pelo direito à habitação têm marcado os últimos dias em Portugal, com os manifestantes a pedirem uma greve ibérica a 11 de novembro. No Porto, o protesto vai já no décimo dia, enquanto em Lisboa entra no terceiro. Na &quot;Invicta&quot;, o aviso de manifestação foi prolongado até final ",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/58/5886ceb9f3e060384c0c097db66b24ec?w=350&amp;q=50&amp;rect=2,0,8188,4489&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "19h Ronaldo castigado com 30 dias de suspensão",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/19h-ronaldo-castigado-com-30-dias-de-suspensao_a1_1772760",
-      "pubDate": "Mon, 19 Oct 2026 20:33:02 +0100",
+      "title": "Derrocada em mina de ouro ilegal na Colômbia faz nove mortos",
+      "link": "https://www.rtp.pt/noticias/mundo/derrocada-em-mina-de-ouro-ilegal-na-colombia-faz-nove-mortos_n1772790",
+      "pubDate": "Mon, 19 Oct 2026 23:39:46 +0100",
+      "description": "O primeiro balanço das autoridades dá conta de mais de uma dezena de desaparecidos após a derrocada de uma mina de ouro ilegal, esta segunda-feira, no sul da Colômbia. Morreram nove pessoas.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/45/45a0dd5e11f1465c83959442d76bd933?w=350&amp;q=50&amp;rect=0,59,557,305&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "22h Pelo menos 35 pessoas vão passar a noite na Praça Dom João I, no Porto",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/22h-pelo-menos-35-pessoas-vao-passar-a-noite-na-praca-dom-joao-i-no-porto_a1_1772793",
+      "pubDate": "Mon, 19 Oct 2026 23:32:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,29 +85,9 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "I Liga. SC Braga-Gil Vicente",
-      "link": "https://www.rtp.pt/noticias/desporto/i-liga-sc-braga-gil-vicente_e1772720",
-      "pubDate": "Mon, 19 Oct 2026 20:28:14 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a89f493c7abc07481a4690ac99b9b456?w=350&amp;q=50&amp;rect=0,676,2800,1535&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "França impõe recolher obrigatório em várias zonas de Paris, Lyon e Lille",
-      "link": "https://www.rtp.pt/noticias/mundo/franca-impoe-recolher-obrigatorio-em-varias-zonas-de-paris-lyon-e-lille_n1772752",
-      "pubDate": "Mon, 19 Oct 2026 20:19:35 +0100",
-      "description": "Paris acedeu ao apelo do primeiro-ministro. As autoridades francesas decretaram, esta segunda-feira, o recolher obrigatório em algumas zonas da capital do país, na sequência dos distúrbios e dos violentos protestos do último fim-de-semana. As cidades de Lyon e Lille implementam a mesma medida para e",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4054f63f496cc4bed3e10e32e323d50?w=350&amp;q=50&amp;rect=0,223,3531,1936&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "18h PSP admite acabar com acampamentos ilegais nas próximas horas",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-psp-admite-acabar-com-acampamentos-ilegais-nas-proximas-horas_a1_1772751",
-      "pubDate": "Mon, 19 Oct 2026 19:49:02 +0100",
+      "title": "21h MAI: firmeza das forças de segurança para desmobilizar os acampamentos",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/21h-mai-firmeza-das-forcas-de-seguranca-para-desmobilizar-os-acampamentos_a1_1772791",
+      "pubDate": "Mon, 19 Oct 2026 23:29:03 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -95,161 +95,191 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "17h Seguem para julgamento 56 arguidos do processo Tutti Frutti",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-seguem-para-julgamento-56-arguidos-do-processo-tutti-frutti_a1_1772750",
-      "pubDate": "Mon, 19 Oct 2026 19:47:03 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "TPI, opositor da Tanzânia e duas irmãs iranianas finalistas ao prémio Sakharov",
+      "link": "https://www.rtp.pt/noticias/mundo/tpi-opositor-da-tanzania-e-duas-irmas-iranianas-finalistas-ao-premio-sakharov_n1772768",
+      "pubDate": "Mon, 19 Oct 2026 22:57:59 +0100",
+      "description": "O Tribunal Penal Internacional, o opositor tanzaniano Tundu Lissu e duas irmãs iranianas condenadas em Teerão pela participação nas manifestações de janeiro são os três finalistas ao prémio Sakharov deste ano, anunciou hoje o Parlamento Europeu.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Itália: Gustavo Varela bisa na goleada do Monza sobre o Cagliari",
-      "link": "https://maisfutebol.iol.pt/made-in/italia/italia-gustavo-varela-bisa-na-goleada-do-monza-sobre-o-cagliari",
-      "pubDate": "Mon, 19 Oct 2026 19:33:00 +0100",
-      "description": "Avançado português também assistiu. Ex-FC Porto Zé Pedro começou de início no Cagliari",
-      "thumbnail": "https://img.iol.pt/image/id/6ad6617ed34e9a786e75cf52/250"
+      "title": "Andebol: Benfica vence e mantém diferença para Sporting e FC Porto",
+      "link": "https://maisfutebol.iol.pt/andebol/modalidades/andebol-benfica-vence-e-mantem-diferenca-para-sporting-e-fc-porto",
+      "pubDate": "Mon, 19 Oct 2026 23:43:48 +0100",
+      "description": "Triunfo sobre a AD Carvalhos deixa águias a um ponto dos rivais, mas com um jogo a mais",
+      "thumbnail": "https://img.iol.pt/image/id/6acea21bd34e9a786e75c10c/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Champions: FC Porto anuncia bilhetes esgotados para visita a Liverpool",
-      "link": "https://maisfutebol.iol.pt/fc-porto/liga-campeoes/champions-fc-porto-anuncia-bilhetes-esgotados-para-visita-a-liverpool",
-      "pubDate": "Mon, 19 Oct 2026 19:12:52 +0100",
-      "description": "Azuis e brancos medem forças com os reds a 9 de dezembro",
-      "thumbnail": "https://img.iol.pt/image/id/69f6570ad34edcee7c63b5f3/250"
+      "title": "Vicens revela palavras do árbitro do Sp. Braga-Sporting: «Confessou-me que era penálti»",
+      "link": "https://maisfutebol.iol.pt/liga/sp-braga/vicens-revela-palavras-do-arbitro-do-sp-braga-sporting-confessou-me-que-era-penalti",
+      "pubDate": "Mon, 19 Oct 2026 23:41:00 +0100",
+      "description": "Treinador dos minhotos queixa-se de vários lances por entender que a equipa tem sido prejudicada",
+      "thumbnail": "https://img.iol.pt/image/id/6ad6899ed34e9a786e75cfad/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "VÍDEO: Trincão titular no terceiro triunfo seguido do Al Ahli na Arábia",
-      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-ahli/video-trincao-titular-no-terceiro-triunfo-seguido-do-al-ahli-na-arabia",
-      "pubDate": "Mon, 19 Oct 2026 18:54:00 +0100",
-      "description": "Jason Remeseiro, ex-jogador do Arouca, assina golaço na derrota do Al Fayha (3-2)",
-      "thumbnail": "https://img.iol.pt/image/id/6ad656abd34e9a786e75cf3c/250"
+      "title": "Espanha: Carvajal estreia-se pelo Getafe no empate com o Rayo Vallecano",
+      "link": "https://maisfutebol.iol.pt/la-liga/getafe/espanha-carvajal-estreia-se-pelo-getafe-no-empate-com-o-rayo-vallecano",
+      "pubDate": "Mon, 19 Oct 2026 23:40:14 +0100",
+      "description": "Experiente defesa espanhol foi titular no primeiro jogo pelo novo clube",
+      "thumbnail": "https://img.iol.pt/image/id/6ad69a31d34e53c759c7728b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Sp. Braga: orçamento para 2026/27 prevê lucro acima do milhão e meio de euros",
-      "link": "https://maisfutebol.iol.pt/sp-braga/sporting-braga/sp-braga-orcamento-para-2026-27-preve-lucro-acima-do-milhao-e-meio-de-euros",
-      "pubDate": "Mon, 19 Oct 2026 18:49:01 +0100",
-      "description": "Relatório e contas de 2025/26 e orçamento de 2026/27 aprovados nesta segunda-feira",
-      "thumbnail": "https://img.iol.pt/image/id/6ad6578cd34e9a786e75cf3e/250"
+      "title": "Varandas no «Academy Day»: «O Sporting é muito diferente de há dez anos»",
+      "link": "https://maisfutebol.iol.pt/sporting/academy-day/sporting-varandas-presente-na-segunda-edicao-do-academy-day",
+      "pubDate": "Mon, 19 Oct 2026 23:33:00 +0100",
+      "description": "Evento junta 250 trabalhadores da Academia Cristiano Ronaldo e Pólos do Sporting",
+      "thumbnail": "https://img.iol.pt/image/id/6ad696e8d34e53c759c77288/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "OFICIAL: Federação anuncia castigo de Cristiano Ronaldo",
-      "link": "https://maisfutebol.iol.pt/selecao/cristiano-ronaldo/federacao-anuncia-castigo-de-cristiano-ronaldo",
-      "pubDate": "Mon, 19 Oct 2026 18:16:00 +0100",
-      "description": "Capitão suspenso 30 dias e obrigado a pagar uma multa de 255 euros",
-      "thumbnail": "https://img.iol.pt/image/id/6ab57cead34e53c759c73aba/250"
+      "title": "VÍDEO: Martinelli marca para dar o triunfo ao Al Hilal",
+      "link": "https://maisfutebol.iol.pt/arabia-saudita/al-hilal/video-martinelli-marca-para-dar-o-triunfo-ao-al-hilal",
+      "pubDate": "Mon, 19 Oct 2026 23:17:00 +0100",
+      "description": "Internacional português Rúben Neves foi titular na vitória frente ao Al Hazm",
+      "thumbnail": "https://img.iol.pt/image/id/6ad6930fd34e9a786e75cfc8/250"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Acampada no Rossio resiste ao aviso da PSP e mantém cerca de 100 tendas",
-      "link": "https://24noticias.sapo.pt/atualidade/artigos/acampada-no-rossio-resiste-ao-aviso-da-psp-e-mantem-cerca-de-100-tendas",
-      "pubDate": "Mon, 19 Oct 2026 17:25:44 +0000",
-      "description": "Manifestantes pelo direito à habitação decidiram prolongar o protesto em Lisboa, apesar do apelo policial para abandonar a praça. Movimento quer articular ações com o Porto e apela a uma greve geral ibérica.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AGnkeeddzEwXO%2F0XKUYrKOvgNe3cyQhaojYAZNBE5GlorVW6TNLfml4XrZHX04H42gaSpm7R5jU03k5G1q4BccQOwHdB%2FlqcL08Cvif6f7yBomjroR4VYiX4BDwqhwziQ"
+      "title": "Acampada de Lisboa contesta “ilegalidade” do protesto que tem juntado centenas de pessoas",
+      "link": "https://sapo.pt/artigo/acampada-de-lisboa-contesta-ilegalidade-do-protesto-que-tem-juntado-centenas-de-pessoas-6ad6922cda42cf673b3ccf7a",
+      "pubDate": "Mon, 19 Oct 2026 22:24:26 +0000",
+      "description": "Porta-voz da Acampada de Lisboa defende que “não há como restringir ou cortar o direito à manifestação no espaço público”.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AA6cMs4B36X0njUJRc199v1lU4YrIyIrjJlbni72vDHpbtXy%2FX3o3vesuzM4MIJyVpLaDJDtM7b%2Bd1hzJLsxo3P0cRjU0gapcGFoCloG8q3ISAhfIJjW5r3H4%2BSk3Qszy"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "“Velho Oeste” na Casa Branca: guerra pelo poder, milhões sob suspeita e demissões abalam equipa de Trump",
-      "link": "https://executivedigest.sapo.pt/velho-oeste-na-casa-branca-guerra-pelo-poder-milhoes-sob-suspeita-e-demissoes-abalam-equipa-de-trump/",
-      "pubDate": "Mon, 19 Oct 2026 14:53:55 +0000",
-      "description": "Tensão surge a apenas duas semanas das eleições intercalares nos EUA e coloca sob pressão Susie Wiles, a chefe de gabinete que conseguiu impor uma disciplina pouco habitual na equipa presidencial.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A12VPoVL41jOZ4SMOEF1bY2zIeo%2FwMF4DiTkYwhLOhFEvyIBeU9GwJqR6V6w5tw60WYvN8aaQKQttATbnOK0%2BafVr8KJA0DNqCujNJ02Yby8%2Fd5yzguUcDt3xnReZszrn"
+      "title": "Montenegro é proprietário de \"55 casas\", como se afirma nas redes sociais? A SIC Verifica",
+      "link": "https://sapo.pt/artigo/montenegro-e-proprietario-de-55-casas-como-se-afirma-nas-redes-sociais-a-sic-verifica-6ad67eb524d059fd8bf68afe",
+      "pubDate": "Mon, 19 Oct 2026 20:45:15 +0000",
+      "description": "Numa altura em que milhares de portugueses foram para as ruas para lutar pelo direito à habitação, estão a circular nas redes sociais várias publicações que afirmam que o primeiro-ministro é proprietário de \"55 casas\". Mas será mesmo assim? A SIC...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AJWujHMOWVos0T%2BIXf749gL3u79QN87v425kJUTgXyHdJeyM4U4Zbrkm8u1v%2Ft83%2BVb8uGgj%2FbDcW6RjzP1hxf1DR3wkBu9mBf34tHe34rR%2FqzrCvokFBmAKU30xghews"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Políticos que estão a mudar as leis do arrendamento têm mais de mil imóveis e 807 mil euros em rendas",
-      "link": "https://executivedigest.sapo.pt/mais-de-mil-imoveis-e-807-mil-euros-em-rendas-o-patrimonio-dos-politicos-que-estao-a-mudar-as-leis-do-arrendamento/",
-      "pubDate": "Mon, 19 Oct 2026 10:39:37 +0000",
-      "description": "Os dados surgem numa altura em que o Parlamento prepara alterações à legislação que poderão dar maior margem de atuação aos senhorios.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2B1WT57dqeQe2Jikb6XxidgLgaTPmEZeBHREymLEQhzuyZ8Oekifi5BLUi8c67fd9bLHvCujNP%2ByG6q9eqlhVqP2ROuCc8iVH93YVFWPz5Bzf%2FNVM78%2F4cwhcZBdAug0%2B"
+      "title": "Caso Tutti Frutti: 56 arguidos vão a julgamento por corrupção",
+      "link": "https://24noticias.sapo.pt/atualidade/artigos/caso-tutti-frutti-56-arguidos-vao-a-julgamento-por-corrupcao",
+      "pubDate": "Mon, 19 Oct 2026 18:11:22 +0000",
+      "description": "Ex-autarcas de Lisboa Luís Newton e Vasco Morgado estão entre os acusados que vão responder em tribunal. Dos 59 arguidos, três ficaram de fora da decisão de pronúncia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=562&W=1000&crop=center&delay_optim=1&epic=V2%3AbxsD4Tn%2FS10UBoB87izi3lmMEwB66jOei%2FC4fMIDwDkenxILw%2F7ZnfpN3AgDR4Zw5FIoyqGKA1RbGHB%2BU%2ByeaI8cEYWkb9IrQVFJD%2F0veWYDMTCcr9s6etRsWs2rWVSM"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Vai faltar eletricidade em várias zonas de Portugal até sexta-feira. Veja os locais e os horários dos cortes",
-      "link": "https://executivedigest.sapo.pt/vai-faltar-eletricidade-em-varias-zonas-de-portugal-ate-sexta-feira-veja-os-locais-e-os-horarios-dos-cortes/",
-      "pubDate": "Mon, 19 Oct 2026 14:14:14 +0000",
-      "description": "As interrupções abrangem zonas dos concelhos de Sintra, Aveiro, Chamusca, Seixal, Loures, Almada, Santarém e Mafra",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AR1V4Smgfmoyx%2Fr0F59N2vY3S2A4iM2PW1uyeoOCXttHZrIX1o3HPgewroG4o8%2FYfbJseOgNS%2FJyKqFUsFQ5aL9DyNR3zEHKAj2%2BoYCPJeo4xq13qcDcQTn9xVULBokLL"
+      "title": "Petição pública quer levar ao Parlamento substituição do programa Creche Feliz",
+      "link": "https://sapo.pt/artigo/peticao-publica-quer-levar-ao-parlamento-substituicao-do-programa-creche-feliz-6ad68a0e9d8fdf25e83a8a0f",
+      "pubDate": "Mon, 19 Oct 2026 21:34:08 +0000",
+      "description": "No programa em vigor, o pagamento é subsidiado pelo Estado. A petição que pretende chegar como iniciativa legislativa defende “um subsídio universal pago diretamente às famílias”. “Houve uma procura superior nas creches” porque era a “única forma...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AJJ2kOPnNsfahT0gDQ9RdGOlwlKbAyOW%2Bu5hRBXcsOZVlUWJgxN9yGfUrt9xXbCYW%2BrhfJ0ac99%2BeUy74Gcf562St7x8G2rMhKBhRZDRFfMLT5uC%2FPXEHTJA4o5JGaYnJ"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Já é conhecido o castigo de Cristiano Ronaldo por abandonar estágio da Seleção",
-      "link": "https://sapo.pt/artigo/ja-e-conhecido-o-castigo-de-cristiano-ronaldo-por-abandonar-estagio-da-selecao-6ad64ffb9d8fdf25e834b772",
-      "pubDate": "Mon, 19 Oct 2026 17:33:50 +0000",
-      "description": "Capitão português ficará 30 dias suspenso e será multado em 255 euros. Tendo em conta que o próximo compromisso da turma lusa está marcado para 14 de novembro, Ronaldo estará disponível no próximo jogo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AD2o8Z4BaBzykroZEMHzr91TpJ3BMO%2FB984v2bNfNm%2FKTCoHLtzHB6C16RSjWPo5OVZ%2FJLb2z4Qn96ZGAMg4JMoDZI%2FUOgzZRZlIWBKbe6jKL9OHuQrgn%2BqBOqkeFskyH"
+      "title": "\"Ronaldo só poderá rir-se\". Multa \"irrisória\" dá que falar lá fora",
+      "link": "https://sapo.pt/artigo/ronaldo-so-podera-rir-se-multa-irrisoria-da-que-falar-la-fora-6ad680ec24d059fd8bf6be84",
+      "pubDate": "Mon, 19 Oct 2026 20:45:15 +0000",
+      "description": "Castigo e multa aplicada pelo Conselho de Disciplina a Cristiano Ronaldo, por ter abandonado o estágio da seleção nacional, também faz manchete na imprensa internacional. Suspensão curta e valor reduzido causam estranheza lá fora.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A6b0xU5Vqx2i8Sqb6izai3C%2B0gjKggfeUJSdB5URnoAUGTPNPQrb9%2FxmhE0f6r05vIabI2REaZFRWspq49nnAkYJQvJx2kPRaJs9OxlkVBWFjDjBPSVeI5a%2BMj0jkw%2F3F"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Preço médio da hotelaria nacional sobe 3% no verão",
-      "link": "https://www.noticiasaominuto.com/economia/3069399/preco-medio-da-hotelaria-no-verao-sobe-3-mas-reservas-para-outono-abrandam-ahp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-19 19:33:02",
+      "title": "\"OE merecia um voto contra. Mas o nosso primeiro dever é servir o país\"",
+      "link": "https://www.noticiasaominuto.com/pais/3069505/oe2027-carneiro-diz-que-proposta-merecia-voto-contra-mas-dever-do-ps-e-servir-o-pais-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-19 23:44:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a3bd0fbb2c37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNTB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69bb016126a61.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MjcsImNyb3BZIjoxNjR9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Banco de Portugal aplica coimas de 819 mil euros no 3.º trimestre",
-      "link": "https://www.noticiasaominuto.com/economia/3069398/bdp-aplica-coimas-de-819-mil-euros-no-3-trimestre-e-instaura-239-processos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-19 19:32:16",
+      "title": "Habitação? \"Governo não tem nenhuma ligação com a realidade\"",
+      "link": "https://www.noticiasaominuto.com/politica/3069485/habitacao-governo-nao-tem-nenhuma-ligacao-com-a-realidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-19 23:41:24",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_52541cca80ef8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NTAsImNyb3BIZWlnaHQiOjUzNCwiY3JvcFgiOjAsImNyb3BZIjo3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozNTYsImNyb3BIZWlnaHQiOjYzMywiY3JvcFgiOjE3NywiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_647455cbc6d1f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUwLCJjcm9wSGVpZ2h0IjoxNjg4LCJjcm9wWCI6NzUwLCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "PSP avisa manifestantes que ocupam praças: \"Há um limite\"",
-      "link": "https://www.noticiasaominuto.com/pais/3069407/habitacao-psp-avisa-que-intervira-caso-as-tendas-se-mantenham-em-lisboa-e-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-19 19:31:34",
+      "title": "Assessor de Netanyahu admite ter recebido avultadas quantias do Qatar",
+      "link": "https://www.noticiasaominuto.com/mundo/3069503/assessor-de-netanyahuadmite-ter-recebido-avultadas-quantias-em-dinheiro-do-qatar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-19 23:33:31",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5ab3c50b4ec1e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNTY2LCJjcm9wSGVpZ2h0IjoyMDA2LCJjcm9wWCI6MzQsImNyb3BZIjozNzZ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69e908aeb98f1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg3MiwiY3JvcFkiOjB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Habitação? Luís Neves garante que PSP não excederá os seus poderes",
-      "link": "https://www.noticiasaominuto.com/pais/3069401/habitacao-ministro-luis-neves-garante-que-a-psp-nao-ira-alem-dos-poderes-que-tem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-19 19:27:54",
+      "title": "Zelensky acusa EUA de atrasarem entrega de mísseis intercetores",
+      "link": "https://www.noticiasaominuto.com/mundo/3069504/ucrania-zelensky-acusa-eua-de-atrasarem-entrega-de-misseis-intercetores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-19 23:32:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad66066bc003.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjIyMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6MTI4NCwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69a16ed4dd18c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ3LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MTQsImNyb3BZIjoxMn19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump prevê vitória esmagadora de Netanyahu nas eleições israelitas",
-      "link": "https://www.noticiasaominuto.com/mundo/3069404/israeleleicoes-trump-preve-vitoria-de-netanyahu-em-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-19 19:25:54",
+      "title": "Wall Street fecha tendencialmente em alta graças ao setor tecnológico",
+      "link": "https://www.noticiasaominuto.com/mundo/3069494/wall-street-fecha-tendencialmente-em-alta-gracas-ao-setor-tecnologico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-19 23:31:27",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68db7acb23bea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MTYsImNyb3BZIjo0OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NzA2LCJjcm9wWSI6MH19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_56bbc39794663.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "IUC muda em 2027: uns pagam duas prestações, outros apenas uma",
+      "link": "https://pplware.sapo.pt/motores/iuc-muda-em-2027-uns-pagam-duas-prestacoes-outros-apenas-uma/",
+      "pubDate": "Mon, 19 Oct 2026 21:30:00 +0000",
+      "description": "Os proprietários de veículos em Portugal vão ter de se adaptar a novas regras de pagamento do Imposto Único de Circulação (IUC) a partir de 2027. A principal mudança é o fim do calendário associado ao mês de matrícula do automóvel, que será substituído por datas comuns para todos os contribuintes. O",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Quantas pessoas são precisas para desenvolver um jogo como o GTA 6?",
+      "link": "https://pplware.sapo.pt/jogos/quantas-pessoas-sao-precisas-para-desenvolver-um-jogo-como-o-gta-6/",
+      "pubDate": "Mon, 19 Oct 2026 20:30:00 +0000",
+      "description": "A Rockstar Games reuniu uma equipa gigante de profissionais para desenvolver o GTA 6, um dos lançamentos mais aguardados da indústria dos videojogos. Com uma previsão de 40 milhões de unidades vendidas, quantas pessoas trabalham no jogo diariamente? Uma equipa maior para evitar os erros do passado O",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Fortinet coloca em debate o desafio de proteger com IA e proteger a IA",
+      "link": "https://pplware.sapo.pt/informacao/fortinet-coloca-em-debate-o-desafio-de-proteger-com-ia-e-proteger-a-ia/",
+      "pubDate": "Mon, 19 Oct 2026 19:30:00 +0000",
+      "description": "A crescente adoção de Inteligência Artificial está a criar novos desafios para as organizações. Do Shadow AI à proteção de modelos e aplicações, a Fortinet defende uma abordagem que combine a utilização da IA na cibersegurança com a proteção dos próprios sistemas de Inteligência Artificial. A Fortin",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -269,36 +299,6 @@
       "link": "https://pplware.sapo.pt/apple/apple-lanca-ios-27-2-rc-conheca-as-novidades-para-o-iphone/",
       "pubDate": "Mon, 19 Oct 2026 18:20:41 +0000",
       "description": "A próxima atualização do iPhone está mais perto de chegar. A Apple disponibilizou o iOS 27.2 Release Candidate, numa etapa decisiva antes do lançamento público. Há mudanças na Siri, no FaceTime e nas aplicações multimédia, mas também uma ausência: a renovação da aplicação Saúde vai ficar para mais t",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "E… mais novidades Playstation Plus para outubro de 2026",
-      "link": "https://pplware.sapo.pt/jogos/e-mais-novidades-playstation-plus-para-outubro-de-2026/",
-      "pubDate": "Mon, 19 Oct 2026 18:00:33 +0000",
-      "description": "As novidades do catálogo do Playstation Plus não cessam e este mês de outubro prepara-se para receber novos títulos. Venham saber quais são&#8230; O catálogo do Playstation Plus prepara-se para receber novidades neste mês de outubro. A Sony revelou quais os jogos que se juntam ao &#8220;cardápio&#82",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Mulher detida por bloquear robô de entregas em protesto contra a perda de empregos",
-      "link": "https://pplware.sapo.pt/informacao/mulher-detida-por-bloquear-robo-de-entregas-em-protesto-contra-a-perda-de-empregos/",
-      "pubDate": "Mon, 19 Oct 2026 17:00:00 +0000",
-      "description": "Uma mulher foi detida em Filadélfia, nos Estados Unidos, depois de impedir a circulação de um robô de entregas da Uber, numa ação de protesto contra a substituição de trabalhadores humanos por sistemas autónomos. Protesto contra a automatização termina em detenção Carolyn Marvin foi detida pela polí",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Futebol testa cartões virtuais: o amarelo e o vermelho passaram para um ecrã",
-      "link": "https://pplware.sapo.pt/high-tech/futebol-testa-cartoes-virtuais-o-amarelo-e-o-vermelho-passaram-para-um-ecra/",
-      "pubDate": "Mon, 19 Oct 2026 16:01:28 +0000",
-      "description": "O árbitro leva a mão ao bolso, levanta o braço e mostra um ecrã amarelo. A cena aconteceu no Uruguai, onde os tradicionais cartões começaram a dar lugar a um dispositivo eletrónico. A novidade promete simplificar o trabalho da arbitragem, mas já revelou um problema: nem sempre se percebe a cor. Cart",
       "thumbnail": ""
     },
     {
