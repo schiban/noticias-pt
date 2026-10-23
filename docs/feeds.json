@@ -1,63 +1,83 @@
 {
-  "updated": "2026-10-23T03:11:21.853503+00:00",
+  "updated": "2026-10-23T08:44:26.648622+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Ventura gastou quase 4 mil milhões nas presidenciais",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2475/",
-      "pubDate": "Fri, 23 Oct 2026 03:12:47 +0100",
-      "description": "O presidente do Chega recebeu apenas 760 euros em donativos de particulares e gastou mais em cartazes. Ainda, Israel não vai atacar o Irão antes das eleições do pais, marcadas para terça-feira.",
+      "title": "Não tem casa? Afinal basta emigrar...",
+      "link": "https://observador.pt/programas/e-o-vencedor-e/nao-tem-casa-afinal-basta-emigrar/",
+      "pubDate": "Fri, 23 Oct 2026 09:38:18 +0100",
+      "description": "Querem casa? Façam como os vossos avós. É este o grande conselho do IHRU, enquanto os partidos preferem passar culpas numa política sem adultos na sala.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 9h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2510/",
+      "pubDate": "Fri, 23 Oct 2026 09:16:06 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Moedas alerta que manifestantes têm de respeitar a lei",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2449/",
-      "pubDate": "Fri, 23 Oct 2026 02:13:24 +0100",
-      "description": "O presidente da Câmara de Lisboa manifesta \"solidariedade total\" com as pessoas que têm ido à praça do Rossio. Ainda, Ventura gastou quase 4 mil milhões de euros na campanha para as presidenciais.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "As sombras de Duarte Lima, o novo Podcast Plus do Observador",
+      "link": "https://observador.pt/newsletters/360/a-morte-de-rosalina-ribeiro-e-as-sombras-de-duarte-lima-o-mais-recente-podcast-plus-do-observador/",
+      "pubDate": "Fri, 23 Oct 2026 08:52:30 +0100",
+      "description": "O novo Podcast Plus do Observador conta o caso da morte de Rosalina Ribeiro, cujo principal suspeito é Duarte Lima. E ainda os protestos pela habitação e mais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Pinto Luz lamenta declarações do presidente do IHRU",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2423/",
-      "pubDate": "Fri, 23 Oct 2026 01:14:58 +0100",
-      "description": "Pinto Luz critica Benjamim Pereira por ter sugerido que os jovens não têm o mesmo espírito de sacrifício das gerações anteriores. Ainda, o Benfica venceu no Chipre por 4-1 para a Liga Europa.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Agora temos um primeiro-ministro a viver na clandestinidade?",
+      "link": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/agora-temos-um-primeiro-ministro-a-viver-na-clandestinidade/",
+      "pubDate": "Fri, 23 Oct 2026 08:48:22 +0100",
+      "description": "Aguiar-Branco (que acompanha as investigações do MP), o presidente do IHRU (que não é pago para falar) e Luís Montenegro (que faz visitas secretas) são o Bom, o Mau e o Vilão.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/29102001/770-podcast-o-bom-o-mau-e-o-vilao-2025.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "STJ anula suspensão de aluna por WhatsApp privado",
-      "link": "https://observador.pt/2026/10/23/stj-anula-suspensao-aplicada-por-colegio-de-braga-a-aluna-por-conversas-no-whatsapp/",
-      "pubDate": "Fri, 23 Oct 2026 00:30:44 +0100",
-      "description": "Supremo confirmou que mensagens em grupos fechados são vida privada. Colégio de Braga suspendera aluna de 16 anos 12 dias com base nessas conversas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:215/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/21231319/GettyImages-1010023302-scaled.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "50 mil mortes por calor no verão mais mortífero da Europa",
-      "link": "https://observador.pt/2026/10/23/alteracoes-climaticas-causaram-dois-tercos-das-50-mil-mortes-por-calor-no-verao-mais-letal-de-sempre-nas-cidades-europeias/",
-      "pubDate": "Fri, 23 Oct 2026 00:29:52 +0100",
-      "description": "Dois estudos publicados na \"Nature Health\" concluem que as alterações climáticas causaram dois terços das mortes. Portugal registou 476 vítimas.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/08/15133559/34136299.jpg"
+      "title": "O \"Batman\" de Paio Pires e a nobre arte de arrancar cartazes",
+      "link": "https://observador.pt/programas/momentos-de-glria/o-batman-de-paio-pires-e-a-nobre-arte-de-arrancar-cartazes/",
+      "pubDate": "Fri, 23 Oct 2026 08:47:52 +0100",
+      "description": "De fato de casamento limpou cartazes de D. Pedro IV, jurou não ser polícia em portunhol e virou \"máquina\" para Ventura. O Batman de Paio Pires é o \"novo herói de civismo extraordinário\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Habitação. Ministro não concorda com declarações do presidente do IHRU",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-habitacao-ministro-nao-concorda-com-declaracoes-do-presidente-do-ihru_a1_1773637",
-      "pubDate": "Fri, 23 Oct 2026 04:18:02 +0100",
+      "title": "Governo de Israel decreta bloqueio total à Cisjordânia",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/governo-de-israel-decreta-bloqueio-total-a-cisjordania_n1773680",
+      "pubDate": "Fri, 23 Oct 2026 10:31:07 +0100",
+      "description": "O primeiro-ministro israelita, Benjamin Netanyahu, ordenou hoje o que designou &quot;bloqueio total&quot; da Cisjordânia ocupada após um ataque armado que fez cinco feridos, a poucos dias das eleições legislativas de 27 de outubro em Israel.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/16/167d192e0dbe29350b74ba364572da2c?w=350&amp;q=50&amp;rect=0,67,1500,822&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Verão mais mortal na Europa com temperaturas extremas",
+      "link": "https://www.rtp.pt/noticias/mundo/verao-mais-mortal-na-europa-com-temperaturas-extremas_n1773681",
+      "pubDate": "Fri, 23 Oct 2026 10:28:05 +0100",
+      "description": "O continente europeu foi atingido, nos últimos meses, por várias ondas de calor. As temperaturas elevadas provocaram perto de 50 mil mortes e tornaram o verão de 2026 o mais mortal da Europa, desde o início do século.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a8b45c379a487d2b56917bb6fc318753?w=350&amp;q=50&amp;rect=0,96,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "09h As polémicas declarações do presidente do IHRU",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-as-polemicas-declaracoes-do-presidente-do-ihru_a1_1773682",
+      "pubDate": "Fri, 23 Oct 2026 10:24:02 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,41 +85,61 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Organizadores dos protestos sobre habitação focados nas manifestações de sábado",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-organizadores-dos-protestos-sobre-habitacao-focados-nas-manifestacoes-de-sabado_a1_1773635",
-      "pubDate": "Fri, 23 Oct 2026 03:33:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Boletim clínico. Papa continua a melhorar mas viagem a Assis é cancelada",
+      "link": "https://www.rtp.pt/noticias/mundo/boletim-clinico-papa-continua-a-melhorar-mas-viagem-a-assis-e-cancelada_n1773678",
+      "pubDate": "Fri, 23 Oct 2026 10:11:47 +0100",
+      "description": "A equipa médica que acompanha o sumo pontífice da Igreja Católica havia já revelado, esta semana, que não seria necessário qualquer tratamento adicional na sequência da cirurgia para remoção de um nódulo cancerígeno.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/18/18fd38fc0e6cfa3dc2d5a1c19bfe04b9.jpg?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Movimento pela habitação em Lisboa decidiu não pernoitar no Rossio esta noite",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-movimento-pela-habitacao-em-lisboa-decidiu-nao-pernoitar-no-rossio-esta-noite_a1_1773633",
-      "pubDate": "Fri, 23 Oct 2026 02:36:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Trump diz que Musk restaurou o acesso à rede Starlink na Ucrânia",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-diz-que-musk-restaurou-o-acesso-a-rede-starlink-na-ucrania_n1773670",
+      "pubDate": "Fri, 23 Oct 2026 09:48:33 +0100",
+      "description": "Elon Musk restaurou o acesso à internet via Starlink na Ucrânia, afirmou o presidente norte-americano, Donald Trump, depois de restrições terem prejudicado as forças armadas de Kiev.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/ae/ae03891e3dbbf89111e78ddb8d44f153?w=350&amp;q=50&amp;rect=0,9,1500,822&amp;auto=format"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Manifestantes aprovam novos protestos para sábado em Lisboa e no Porto",
-      "link": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
-      "pubDate": "Fri, 23 Oct 2026 01:52:34 +0100",
-      "description": "No Porto, a concentração aprovada em assembleia popular tem início às 16h00, na Praça da Batalha. A rotunda do Marquês de Pombal recebe o protesto de Lisboa, que deverá chegar ao Rossio pelas 19h00. Acompanhe aqui todas as atualizações.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/61/6198ebb3bb994e735f85cdaeebf20782?w=350&amp;q=50&amp;rect=0,274,5663,3105&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "NBA: LeBron «responde» a Trump em noite histórica para os Philadelphia 76ers",
+      "link": "https://maisfutebol.iol.pt/basquetebol/modalidades/nba-lebron-responde-a-trump-em-noite-historia-para-os-philadelphia-76ers",
+      "pubDate": "Fri, 23 Oct 2026 09:15:00 +0100",
+      "description": "Sixers recuperam de desvantagem de 29 pontos no triunfo sobre os Cleveland Cavaliers",
+      "thumbnail": "https://img.iol.pt/image/id/6adb16b8d34e53c759c779f4/250"
     },
     {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "0h Miguel Pinto Luz já pediu esclarecimentos ao presidente do Instituto da Habitação e da Reabilitação Urbana",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/0h-miguel-pinto-luz-ja-pediu-esclarecimentos-ao-presidente-do-instituto-da-habitacao-e-da-reabilitacao-urbana_a1_1773627",
-      "pubDate": "Fri, 23 Oct 2026 01:39:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Confederação Asiática apoia reeleição de Infantino na presidência da FIFA",
+      "link": "https://maisfutebol.iol.pt/internacional/afc/confederacao-asiatica-apoia-reeleicao-de-infantino-na-presidencia-da-fifa",
+      "pubDate": "Fri, 23 Oct 2026 08:35:47 +0100",
+      "description": "Anúncio foi feito em Tóquio, onde Gianni Infantino prometeu aumentar as verbas para as federações nacionais",
+      "thumbnail": "https://img.iol.pt/image/id/6adb0e61d34e53c759c779ec/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "VÍDEO: Jardim vê Flamengo tremer nos penáltis e falha final da Libertadores",
+      "link": "https://maisfutebol.iol.pt/internacional/made-in/video-jardim-ve-flamengo-tremer-nos-penaltis-e-falha-final-da-libertadores",
+      "pubDate": "Fri, 23 Oct 2026 08:22:00 +0100",
+      "description": "Estudiantes sobrevive no Maracanã e é o adversário do Palmeiras, de Abel Ferreira, no jogo decisivo da competição",
+      "thumbnail": "https://img.iol.pt/image/id/6adb0affd34e9a786e75d73e/250"
+    },
+    {
+      "sourceId": "maisfutebol",
+      "sourceName": "Maisfutebol",
+      "color": "#4fc48a",
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/jogos-hoje/hoje-vai-ser-noticia-179273880",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 +0100",
+      "description": "Início da jornada da Liga em Guimarães, conferência de Farioli, Al Nassr em campo e arranque do Rally Six Cities North of Portugal",
+      "thumbnail": "https://img.iol.pt/image/id/6a156370d34e28842c847601/250"
     },
     {
       "sourceId": "maisfutebol",
@@ -112,193 +152,163 @@
       "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
     },
     {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Fri, 23 Oct 2026 00:32:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "«Não estamos ao nível do Benfica, mas competimos»",
-      "link": "https://maisfutebol.iol.pt/liga-europa/omonia/nao-estamos-ao-nivel-do-benfica-mas-competimos",
-      "pubDate": "Fri, 23 Oct 2026 00:15:00 +0100",
-      "description": "Treinador do Omonia diz que os encarnados «são uma equipa de topo» e «um dos candidatos» a vencer a Liga Europa",
-      "thumbnail": "https://img.iol.pt/image/id/6ad8e459d34e53c759c775f9/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Richarlison faz apelo ao voto após acusar Bolsonaro de lhe ficar com mansão",
-      "link": "https://maisfutebol.iol.pt/internacional/brasil/richarlison-faz-apelo-ao-voto-apos-acusar-bolsonaro-de-lhe-ficar-com-mansao",
-      "pubDate": "Fri, 23 Oct 2026 00:08:02 +0100",
-      "description": "Avançado brasileiro continua em litígio com o candidato às eleições do próximo domingo",
-      "thumbnail": "https://img.iol.pt/image/id/638e4dd50cf27230dc1bb73d/250"
-    },
-    {
-      "sourceId": "maisfutebol",
-      "sourceName": "Maisfutebol",
-      "color": "#4fc48a",
-      "title": "Bernardo Fontes pisca o olho a Portugal: «Se o selecionador achar...»",
-      "link": "https://maisfutebol.iol.pt/liga-europa/sp-braga/bernardo-fontes-pisca-o-olho-a-portugal-se-o-selecionador-achar",
-      "pubDate": "Fri, 23 Oct 2026 00:06:51 +0100",
-      "description": "Guarda-redes do Sp. Braga admitiu que representar a Seleção Nacional é uma ambição, mas sublinhou que está focado em afirmar-se nos minhotos",
-      "thumbnail": "https://img.iol.pt/image/id/6ad9dda8d34e9a786e75d512/250"
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Habitação: Manifestação no Rossio termina e participantes desmobilizaram",
+      "link": "https://executivedigest.sapo.pt/habitacao-manifestacao-no-rossio-termina-e-participantes-estao-a-desmobilizar/",
+      "pubDate": "Fri, 23 Oct 2026 06:43:31 +0000",
+      "description": "A manifestação pelo direito à habitação na praça do Rossio, em Lisboa, terminou hoje pelas 00:30, sem incidentes, e os participantes estão a desmobilizar, com novo protesto marcado para o final da tarde em Marvila.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AUWy74ZNbeZkLmHlxd3hL7%2BgeD1C195dtC9tXNWAKsJKYBFSwO3ckF7vz0fzXFW%2FL%2Fek8rbJhH8kQIdxgF9JJJ3Cui3akQMEYr%2B4vyG6sb0iowmwtPUJ29UXSZr9%2FCDXB"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "PS fala em declarações “intoleráveis” e BE pede a demissão do presidente do IHRU",
-      "link": "https://sapo.pt/artigo/ps-fala-em-declaracoes-intoleraveis-e-be-pede-a-demissao-do-presidente-do-ihru-6ada7905e6b9fd91ec15b6d4",
-      "pubDate": "Thu, 22 Oct 2026 21:14:14 +0000",
-      "description": "O PS classifica como “intoleráveis” as declarações do presidente do Instituto da Habitação e da Reabilitação Urbana sobre o “nível de sacrifício” dos jovens para conseguirem ter casa, enquanto o Bloco de Esquerda vai mais longe e pede a demissão.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AZ14yiPHxdmPGgPAFp2DU65fqaBMV2HAvmLA5Ow9g%2F0gDEQMu2CH30dQK%2B6D5r6oYdTP%2BYmgE%2FGxrNTcV8okP9G95PyH0WWJmW07llxyabL0fyR45NndRm1GhyxwHxan1"
+      "title": "Rendas Acessíveis: “Não podemos ter a expectativa de que no próximo ano a oferta vá disparar por causa destas medidas”",
+      "link": "https://sapo.pt/artigo/rendas-acessiveis-nao-podemos-ter-a-expectativa-de-que-no-proximo-ano-a-oferta-va-disparar-por-causa-destas-medidas-6adafdcae6b9fd91ec1f2db1",
+      "pubDate": "Fri, 23 Oct 2026 06:43:31 +0000",
+      "description": "O Governo definiu novos limites máximos para as rendas acessíveis, diferenciados por concelho e tipologia, com benefícios fiscais para incentivar os proprietários a disponibilizar mais casas para arrendamento. Ricardo de Sousa, CEO da Century 21...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AtQ9AW2GkskE14f5hISKfKv6SviShLr89WyGwpAHzU1mPypJ%2FeQTOhiV4mMA8fgR4CAr6NTVX0W3rbZxMENqCK3EUUnnyXcjYRfUPOn4vlDzERyCJxBbwo8lL3TgiTf%2BZ"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal tem muitas casas, Portugal tem poucas casas",
-      "link": "https://sapo.pt/artigo/portugal-tem-muitas-casas-portugal-tem-poucas-casas-6ada5c87b89f6b4d329115cc",
-      "pubDate": "Fri, 23 Oct 2026 00:04:42 +0000",
-      "description": "Duas décadas de construção quase nula, anos de juros baixos e oferta pública residual, com mais população e forte deslocação para o litoral puxaram por preços num país de proprietários. Sem medidas de compensação, o mercado fechou-se, reduzindo...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=450&W=800&crop=center&delay_optim=1&epic=V2%3A0plkm1%2FE8qgz%2F%2BG%2Bn%2BmlKKwKCky5WyxoVYYRL6RVRi48Hm4%2BwxWYJIJfrLvNvS6frTc30U7BeFtZcqO6pCJ9cXjEDBdj8Saf1XC92GL63RN16RkjYjo5en8dxYw1csIv"
+      "title": "Garantia do PS e cauções do Chega na habitação dividem especialistas",
+      "link": "https://eco.sapo.pt/2026/10/23/garantia-do-ps-e-caucoes-do-chega-na-habitacao-dividem-especialistas/",
+      "pubDate": "Fri, 23 Oct 2026 06:43:31 +0000",
+      "description": "Senhorios com receio de falhas de pagamento e inquilinos com cauções pesadas estão no centro do debate. Os especialistas ouvidos pelo ECO veem alívio no curto prazo, mas poucas casas novas no mercado.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3AEZ4IniTtjjYS3H%2F3d%2FyOdaT8yZu5dsKI2UIErTADZdrd54s3lMj%2B3pLRcj9tlg7Sp3f%2B0xlG4kK%2BY%2Bocfrl8%2FhaD%2FceKXnPhyYDYvgBUwjq9I%2BtTlrEO99tTh4htY2W1"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Marrocos reivindica Ceuta e Melilla no parlamento",
-      "link": "https://sapo.pt/artigo/marrocos-reivindica-ceuta-e-melilla-no-parlamento-6ada809c4afee827c63ec61b",
-      "pubDate": "Thu, 22 Oct 2026 21:39:40 +0000",
-      "description": "Coligação e oposição unem-se no parlamento marroquino para exigir soberania sobre as cidades espanholas. Visita de Filipe VI a Ceuta, a 13 de outubro, inflamou o debate.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AUTcTYiJl%2FsSkus96ljwm6EbXxIBUTZHuH2qPKSiXU5ioZCx2faEokUIjmAZefNZoKjRfla1RH%2B99dQt9VzEmCAx%2BULoubYQ70TZsBJhSImy6YhttrxOwO85JxWxJ2eJj"
+      "title": "Ministro das Finanças ouvido no Parlamento no arranque da discussão do Orçamento do Estado",
+      "link": "https://sapo.pt/artigo/ministro-das-financas-ouvido-no-parlamento-no-arranque-da-discussao-do-orcamento-do-estado-6adafe01b89f6b4d329dafcd",
+      "pubDate": "Fri, 23 Oct 2026 06:43:31 +0000",
+      "description": "A proposta de OE2027, a terceira entregue pelo Governo de Luís Montenegro, prevê um crescimento da economia de 2,3% este ano e de 2,1% em 2027 e contas equilibradas este ano e um excedente de 0,1% em 2027.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A2S9nNL75ONLSOhXnolel5ysuMXn3zfGhi%2BZzDXWkSu84AN32Vm1v8s4iaqBC6vcocJrCmKmqVL4KFwTIl3bBGXGU5VpAVDTlRxnZmemBUJFK8YkurBcFuDTWnfHCMjjz"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Benfica segue imparável na Liga Europa: frente ao Omonia voltou a sorrir",
-      "link": "https://sapo.pt/artigo/benfica-segue-imparavel-na-liga-europa-frente-ao-omonia-voltou-a-sorrir-6ada793073157f9866327858",
-      "pubDate": "Thu, 22 Oct 2026 21:00:14 +0000",
-      "description": "As 'águias' continuam a voar nas competições europeias e, esta quinta-feira, voltaram a ser felizes em Chipre (4-1), na terceira jornada da fase de liga.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AxObDVjNVIAEtg8k60JM2djoSYXSaTLDicDJJH9QCdQQZFdK86%2FJaZR%2FM0eBgwlliOqs2et56Q3yMjuycUQrP0oSHBBPEaBudX37%2FRF5JS2Ns%2Bv90pMeVvAt4EYYDIFDt"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Putin diz que Rússia está pronta para negociar acordo final e não trégua \"curta\"",
-      "link": "https://sapo.pt/artigo/putin-diz-que-russia-esta-pronta-para-negociar-acordo-final-e-nao-tregua-curta-6ada82634afee827c63f0071",
-      "pubDate": "Thu, 22 Oct 2026 21:39:40 +0000",
-      "description": "A Rússia está pronta para retomar negociações tripartidas com Ucrânia e Estados Unidos, mas para alcançar um acordo de paz definitivo, e não um cessar-fogo \"curto\", declarou hoje o Presidente Vladimir Putin, que reiterou a exigência de território...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ALmILX%2BkKRHA2B8qLti1XzIWk7A1RzyQ9SzajnCJyMpQcwlUpEl%2BlaNna%2FZdgEJx3lm%2F7mNuzi%2BJe2jyToT6AjdLRHQsOVfWz3BA1j6mrz9kykJ%2FAWrXBI9tXpmJNouPr"
+      "title": "Frederico Falcão da ViniPortugal: “O primeiro passo é não tentar apresentar o vinho sem álcool como uma cópia do vinho tradicional”",
+      "link": "https://sapo.pt/artigo/frederico-falcao-presidente-executivo-da-viniportugal-o-primeiro-passo-e-nao-tentar-apresentar-o-vinho-sem-alcool-como-uma-copia-do-vinho-tradicional-6ada08effe00a6dc1b402c5a",
+      "pubDate": "Fri, 23 Oct 2026 07:53:58 +0000",
+      "description": "A quebra do consumo tradicional, a procura por moderação e a emergência dos vinhos sem álcool estão a obrigar o setor a rever estratégias, produtos e mercados. Em entrevista, Frederico Falcão, presidente executivo da ViniPortugal, analisa o peso...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AELsN6dyiVu0pV3NvkXCwUktt4X17QYgxLgOoREy3lmH9w%2B8OUsgjZbJOJ8i57mRc8PiRZ%2BSIDFt9um6EIoT383hepTAxg%2B9FaxX9m5H57vBl%2FceQ4zeDWEFUAZpoDQRC"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Bernardo Fontes oferece-se à seleção portuguesa: \"Se Jesus achar...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3071509/bernardo-fontes-oferece-se-a-selecao-portuguesa-se-jesus-achar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-22 23:58:28",
+      "title": "Casa da Animação celebra 25 anos e sublinha \"mudança muito grande\"",
+      "link": "https://www.noticiasaominuto.com/pais/3071636/entrevista-casa-da-animacao-celebra-25-anos-em-tempo-de-crescimento-do-cinema-de-animacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-23 09:38:16",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ada94670c1ca.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwNzF9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_67a518ee536e0.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Santiago vence leucemia e discursa na AR: \"Tenho 12 anos. Não sou médico\"",
-      "link": "https://www.noticiasaominuto.com/pais/3071508/santiago-vence-leucemia-e-discursa-na-ar-tenho-12-anos-nao-sou-medico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-22 23:58:19",
+      "title": "Ouça música enquanto come. Estudo revela que pratos ficam mais saborosos",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3071615/ouca-musica-enquanto-come-estudo-revela-que-pratos-ficam-mais-saborosos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-23 09:36:56",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ada93018ff21.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adb0eda36e13.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Rubio e Rutte discutem esforços para negociar acordo entre Kyiv e Moscovo",
-      "link": "https://www.noticiasaominuto.com/mundo/3071507/rubio-e-rutte-discutem-esforcos-para-negociar-acordo-entre-kyiv-e-moscovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-22 23:55:23",
+      "title": "\"Egoísta\", \"bebé\"… Wayne Rooney sem meias palavras sobre Bruno Fernandes",
+      "link": "https://www.noticiasaominuto.com/desporto/3071643/egoista-bebe-wayne-rooney-sem-meias-palavras-sobre-bruno-fernandes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-23 09:35:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ada944deabd7.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a246cdef1065.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE5MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Trump pediu a Musk que suspendesse limitações do Starlink na Ucrânia",
-      "link": "https://www.noticiasaominuto.com/mundo/3071506/ucrania-trumppediu-amuskque-suspendesse-limitacoesde-uso-dostarlink-media#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-22 23:52:22",
+      "title": "Autarca perde a cabeça durante reunião e ameaça munícipe. Há vídeo",
+      "link": "https://www.noticiasaominuto.com/mundo/3071633/autarca-perde-a-cabeca-durante-reuniao-e-ameaca-municipe-ha-video#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-23 09:33:58",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ada9322e4107.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adb16d8d07b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MzgsImNyb3BIZWlnaHQiOjI0NiwiY3JvcFgiOjYxLCJjcm9wWSI6NDh9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Turista dos EUA morre após cair de altura de 300 metros em Itália",
-      "link": "https://www.noticiasaominuto.com/mundo/3071504/turista-dos-eua-morre-apos-cair-de-altura-de-300-metros-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-22 23:47:55",
+      "title": "Áustria expulsa quatro diplomatas russos suspeitos de espionagem",
+      "link": "https://www.noticiasaominuto.com/mundo/3071640/austria-expulsa-quatro-diplomatas-russos-suspeitos-de-espionagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-23 09:30:47",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ada902eed45a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODl9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adb1b396984e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA0LCJjcm9wSGVpZ2h0IjoxNDA5LCJjcm9wWCI6NywiY3JvcFkiOjE1fX0="
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "O ponto fraco do seu carro pode estar numa aplicação do telemóvel",
-      "link": "https://pplware.sapo.pt/motores/o-ponto-fraco-do-seu-carro-pode-estar-numa-aplicacao-do-telemovel/",
-      "pubDate": "Thu, 22 Oct 2026 21:30:00 +0000",
-      "description": "Os automóveis estão cada vez mais ligados à Internet e ao smartphone. Podemos consultar a autonomia à distância, localizar o veículo ou gerir várias funções sem sair do sofá. Mas esta comodidade também abre novas portas a ataques informáticos. E o problema pode começar longe do próprio carro. Aplica",
+      "title": "Combustíveis: gasolina desce bastante e gasóleo sobe na próxima semana",
+      "link": "https://pplware.sapo.pt/informacao/combustiveis-gasolina-desce-bastante-e-gasoleo-sobe-na-proxima-semana/",
+      "pubDate": "Fri, 23 Oct 2026 08:09:45 +0000",
+      "description": "A partir de 26 de outubro, os preços dos combustíveis deverão seguir caminhos diferentes em Portugal. A gasolina poderá ficar significativamente mais barata, enquanto o gasóleo deverá registar uma ligeira subida. Os condutores portugueses poderão ter boas notícias na próxima semana, sobretudo quem t",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Google Maps leva Gemini para o CarPlay e permite conversar durante a viagem",
-      "link": "https://pplware.sapo.pt/google/google-maps-leva-gemini-para-o-carplay-e-permite-conversar-durante-a-viagem/",
-      "pubDate": "Thu, 22 Oct 2026 20:30:00 +0000",
-      "description": "A inteligência artificial da Google está a chegar a mais condutores. O Google Maps começou a receber a integração do Gemini no Apple CarPlay, permitindo fazer perguntas e dar instruções por voz durante a navegação. Encontrar um destino ou alterar o percurso passa, assim, a ser uma experiência mais p",
-      "thumbnail": "https://pplware.sapo.pt/wp-content/uploads/2026/10/Gemini-in-Google-Maps-Navigation-Carplay.mp4"
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Qual a razão para muitos dos novos carros terem a traseira “cortada”?",
-      "link": "https://pplware.sapo.pt/motores/qual-a-razao-para-muitos-dos-novos-carros-terem-a-traseira-cortada/",
-      "pubDate": "Thu, 22 Oct 2026 19:30:00 +0000",
-      "description": "“Os carros estão a ficar todos iguais.” A frase ouve-se cada vez mais, e a aerodinâmica ajuda a explicar essa semelhança. Em vários modelos, o tejadilho desce suavemente até uma traseira que termina num corte abrupto. Este desenho tem décadas de história. É o princípio da chamada traseira Kamm. O qu",
+      "title": "Portugal tem pouca habitação acessível. Como fazem os outros países?",
+      "link": "https://pplware.sapo.pt/informacao/portugal-tem-pouca-habitacao-acessivel-como-fazem-os-outros-paises/",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 +0000",
+      "description": "Em Portugal, o arrendamento social representa cerca de 2% do parque habitacional, mas há países a conseguirem milhares de casas a preços acessíveis, com a proporção a ultrapassar os 20%. Por exemplo, já ouviu falar das chamadas woningcorporaties? O acesso à habitação é um dos principais desafios enf",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "O próximo MacBook Pro vai ser uma verdadeira revolução: 4 razões para esperar",
-      "link": "https://pplware.sapo.pt/apple/o-proximo-macbook-pro-vai-ser-uma-verdadeira-revolucao-4-razoes-para-esperar/",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "description": "A Apple prepara-se para lançar o primeiro redesign do MacBook Pro em cinco anos. Apesar de manter os chips M5 Pro e M5 Max, o novo modelo traz vantagens em quatro áreas fundamentais. 1. Design industrial bem mais leve O novo MacBook Pro será ligeiramente mais fino, mas o grande destaque vai para a r",
+      "title": "Fim dos motores a combustão? Tesla Model Y esmaga concorrência e conquista a Europa",
+      "link": "https://pplware.sapo.pt/motores/fim-dos-motores-a-combustao-tesla-model-y-esmaga-concorrencia-e-conquista-a-europa/",
+      "pubDate": "Fri, 23 Oct 2026 07:30:00 +0000",
+      "description": "Os números de vendas de automóveis na Europa voltaram a baralhar as contas. Em setembro, o Tesla Model Y não só recuperou o fôlego comercial como saltou para o lugar mais alto do pódio. O SUV elétrico superou propostas mais acessíveis e modelos de combustão interna consagrados, confirmando que a pro",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Hasbro Games Junior Collection: três clássicos de tabuleiro reunidos",
-      "link": "https://pplware.sapo.pt/jogos/hasbro-games-junior-collection-tres-classicos-de-tabuleiro-reunidos/",
-      "pubDate": "Thu, 22 Oct 2026 18:30:12 +0000",
-      "description": "As noites de jogos em família ganharam uma nova vida nos últimos anos graças às adaptações digitais de alguns dos mais populares jogos de tabuleiro. Agora, a Outright Games e a Hasbro querem tornar esses momentos ainda mais acessíveis com Hasbro Games Junior Collection, uma coleção que reúne três cl",
+      "title": "Portugal: ANACOM chumba transferência de licença para a Starlink de Elon Musk",
+      "link": "https://pplware.sapo.pt/internet/portugal-anacom-chumba-transferencia-de-licenca-para-a-starlink-de-elon-musk/",
+      "pubDate": "Fri, 23 Oct 2026 07:04:17 +0000",
+      "description": "A Autoridade Nacional de Comunicações (ANACOM) rejeitou o pedido de transferência de direitos de utilização de frequências de rádio para a Starlink, o serviço de Internet por satélite da SpaceX, empresa liderada por Elon Musk. A decisão poderá limitar os planos da empresa para reforçar a sua presenç",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Vale a pena esperar? iPhone Duo 2 pode corrigir a maior falha do dobrável da Apple",
+      "link": "https://pplware.sapo.pt/apple/vale-a-pena-esperar-iphone-duo-2-pode-corrigir-a-maior-falha-do-dobravel-da-apple/",
+      "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
+      "description": "O primeiro dobrável da Apple acaba de chegar às lojas e já há quem recomende calma antes de abrir a carteira. O recém-lançado iPhone Duo trouxe de volta o Touch ID e deixou de fora funcionalidades fulcrais da linha habitual da marca. No entanto, informações recentes revelam que a marca de Cupertino ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "OCDE alerta para “encruzilhada” laboral no automóvel",
+      "link": "https://www.autosport.pt/automais/ocde-alerta-para-encruzilhada-laboral-no-automovel/",
+      "pubDate": "Fri, 23 Oct 2026 08:28:00 +0000",
+      "description": "Por Pedro Junceiro A transformação do setor automóvel na União Europeia (UE), impulsionada pela eletrificação, digitalização e crescente concorrência chinesa, está a alterar profundamente o emprego e as cadeias de abastecimento. Estudo da Organização para a Cooperação e Desenvolvimento Económico (OC",
       "thumbnail": ""
     },
     {
@@ -339,16 +349,6 @@
       "link": "https://www.autosport.pt/formula1/renault-group-vende-fabrica-de-motores-de-f1-em-viry-chatillon/",
       "pubDate": "Thu, 22 Oct 2026 15:34:45 +0000",
       "description": "O Renault Group chegou a acordo com o grupo belga de engenharia Dumarey para a venda da Alpine Racing SAS, que explora as instalações de Viry-Châtillon. O projeto, apresentado aos representantes dos trabalhadores a 22 de outubro de 2026, prevê a integração dos cerca de 150 funcionários ainda present",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Marczyk e Mabellini na luta pelo vice-campeonato do ERC",
-      "link": "https://www.autosport.pt/ralis/marczyk-e-mabellini-na-luta-pelo-vice-campeonato-do-erc/",
-      "pubDate": "Thu, 22 Oct 2026 13:51:33 +0000",
-      "description": "Apesar de o título do ERC de 2026 já estar garantido para o finlandês Teemu Suninen (Skoda Fabia RS Rally2) – que, ao contrário do previsto, não participará nesta última prova –, a luta pelo vice-campeonato permanece intensa. O atual segundo classificado, o italiano Andrea Mabellini, piloto oficial ",
       "thumbnail": ""
     }
   ]
