@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-22T23:51:20.841440+00:00",
+  "updated": "2026-10-23T03:11:21.853503+00:00",
   "articles": [
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "3h. Ventura gastou quase 4 mil milhões nas presidenciais",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2475/",
+      "pubDate": "Fri, 23 Oct 2026 03:12:47 +0100",
+      "description": "O presidente do Chega recebeu apenas 760 euros em donativos de particulares e gastou mais em cartazes. Ainda, Israel não vai atacar o Irão antes das eleições do pais, marcadas para terça-feira.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "2h. Moedas alerta que manifestantes têm de respeitar a lei",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2449/",
+      "pubDate": "Fri, 23 Oct 2026 02:13:24 +0100",
+      "description": "O presidente da Câmara de Lisboa manifesta \"solidariedade total\" com as pessoas que têm ido à praça do Rossio. Ainda, Ventura gastou quase 4 mil milhões de euros na campanha para as presidenciais.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "1h. Pinto Luz lamenta declarações do presidente do IHRU",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2423/",
+      "pubDate": "Fri, 23 Oct 2026 01:14:58 +0100",
+      "description": "Pinto Luz critica Benjamim Pereira por ter sugerido que os jovens não têm o mesmo espírito de sacrifício das gerações anteriores. Ainda, o Benfica venceu no Chipre por 4-1 para a Liga Europa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
@@ -22,34 +52,44 @@
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/08/15133559/34136299.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Uma tenda não é um voto",
-      "link": "https://observador.pt/opiniao/uma-tenda-nao-e-um-voto/",
-      "pubDate": "Fri, 23 Oct 2026 00:25:43 +0100",
-      "description": "A escassez e carestia da habitação sente-se desde a geringonça. Mas com PS, PCP e BE no poder, não era problema: é agora apenas porque já não são eles que lá estão.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1339%3A1339%3Anowe%3A855%3A83%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F12%2F22101231%2Fdventura-rui-ramos-25abril-2.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "3h Habitação. Ministro não concorda com declarações do presidente do IHRU",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-habitacao-ministro-nao-concorda-com-declaracoes-do-presidente-do-ihru_a1_1773637",
+      "pubDate": "Fri, 23 Oct 2026 04:18:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Trump faz olhinhos a Putin. Quem paga a conta?",
-      "link": "https://observador.pt/opiniao/trump-faz-olhinhos-a-putin-quem-paga-a-conta/",
-      "pubDate": "Fri, 23 Oct 2026 00:23:14 +0100",
-      "description": "Durante oitenta anos, os EUA construíram uma ordem em que países livres preferiam confiar em neles, e foi essa preferência, mais do que qualquer arma, que tornou a América excepcionalmente poderosa",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1082%3A1081%3Anowe%3A120%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F23154315%2Feugravata.jpg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "2h Organizadores dos protestos sobre habitação focados nas manifestações de sábado",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-organizadores-dos-protestos-sobre-habitacao-focados-nas-manifestacoes-de-sabado_a1_1773635",
+      "pubDate": "Fri, 23 Oct 2026 03:33:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "A Política tem Limites",
-      "link": "https://observador.pt/opiniao/a-politica-tem-limites/",
-      "pubDate": "Fri, 23 Oct 2026 00:22:17 +0100",
-      "description": "Quem acredita ter descoberto a fórmula da felicidade definitiva depressa encontra motivos para silenciar quem discorda.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A0%3A173%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F09152750%2Fjoao-basto.jpeg"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "1h Movimento pela habitação em Lisboa decidiu não pernoitar no Rossio esta noite",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-movimento-pela-habitacao-em-lisboa-decidiu-nao-pernoitar-no-rossio-esta-noite_a1_1773633",
+      "pubDate": "Fri, 23 Oct 2026 02:36:02 +0100",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Manifestantes aprovam novos protestos para sábado em Lisboa e no Porto",
+      "link": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
+      "pubDate": "Fri, 23 Oct 2026 01:52:34 +0100",
+      "description": "No Porto, a concentração aprovada em assembleia popular tem início às 16h00, na Praça da Batalha. A rotunda do Marquês de Pombal recebe o protesto de Lisboa, que deverá chegar ao Rossio pelas 19h00. Acompanhe aqui todas as atualizações.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/61/6198ebb3bb994e735f85cdaeebf20782?w=350&amp;q=50&amp;rect=0,274,5663,3105&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Fri, 23 Oct 2026 01:39:01 +0100",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "23h Noite de vitórias para o Benfica e para o Sporting de Braga nas competições europeias",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-noite-de-vitorias-para-o-benfica-e-para-o-sporting-de-braga-nas-competicoes-europeias_a1_1773626",
-      "pubDate": "Fri, 23 Oct 2026 01:37:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Wall Street fecha preocupada com endividamento dos conglomerados da IA",
-      "link": "https://www.rtp.pt/noticias/economia/wall-street-fecha-preocupada-com-endividamento-dos-conglomerados-da-ia_n1773624",
-      "pubDate": "Fri, 23 Oct 2026 00:23:17 +0100",
-      "description": "A bolsa nova-iorquina encerrou hoje tendencialmente em baixa, arrastada pelo setor tecnológico que cedeu à renovação das inquietações com o nível de endividamento dos atores da inteligência artificial (IA), em contexto de subida da cotação do petróleo.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Manifestantes aprovam novos protestos para sábado em Lisboa e no Porto",
-      "link": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
-      "pubDate": "Thu, 22 Oct 2026 23:49:07 +0100",
-      "description": "No Porto, a concentração aprovada em assembleia popular tem início às 16h00, na Praça da Batalha. A rotunda do Marquês de Pombal recebe o protesto de Lisboa, que deverá chegar ao Rossio pelas 19h00. Acompanhe aqui todas as atualizações.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/61/6198ebb3bb994e735f85cdaeebf20782?w=350&amp;q=50&amp;rect=0,274,5663,3105&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Filme \"Memórias do Cárcere\" apresenta um Camilo Castelo Branco mais humano",
-      "link": "https://www.rtp.pt/noticias/pais/filme-memorias-do-carcere-apresenta-um-camilo-castelo-branco-mais-humano_n1773622",
-      "pubDate": "Thu, 22 Oct 2026 23:26:00 +0100",
-      "description": "Depois do filme &quot;Playback&quot; sobre o cantor Carlos Paião, o cineasta Sérgio Graciano aceita o desafio do produtor Paulo Branco e realiza a longa-metragem &quot;Memórias do Cárcere&quot;. O livro que Camilo Castelo Branco escreveu na prisão inspirou o filme, o argumento é de Carlos Saboga.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8a06b6518af31764fc18ebee2edc2819?w=350&amp;q=50&amp;rect=0,127,1024,561&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -165,11 +165,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Putin diz que Rússia está pronta para negociar acordo final e não trégua \"curta\"",
-      "link": "https://sapo.pt/artigo/putin-diz-que-russia-esta-pronta-para-negociar-acordo-final-e-nao-tregua-curta-6ada82634afee827c63f0071",
-      "pubDate": "Thu, 22 Oct 2026 21:39:40 +0000",
-      "description": "A Rússia está pronta para retomar negociações tripartidas com Ucrânia e Estados Unidos, mas para alcançar um acordo de paz definitivo, e não um cessar-fogo \"curto\", declarou hoje o Presidente Vladimir Putin, que reiterou a exigência de território...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ALmILX%2BkKRHA2B8qLti1XzIWk7A1RzyQ9SzajnCJyMpQcwlUpEl%2BlaNna%2FZdgEJx3lm%2F7mNuzi%2BJe2jyToT6AjdLRHQsOVfWz3BA1j6mrz9kykJ%2FAWrXBI9tXpmJNouPr"
+      "title": "Portugal tem muitas casas, Portugal tem poucas casas",
+      "link": "https://sapo.pt/artigo/portugal-tem-muitas-casas-portugal-tem-poucas-casas-6ada5c87b89f6b4d329115cc",
+      "pubDate": "Fri, 23 Oct 2026 00:04:42 +0000",
+      "description": "Duas décadas de construção quase nula, anos de juros baixos e oferta pública residual, com mais população e forte deslocação para o litoral puxaram por preços num país de proprietários. Sem medidas de compensação, o mercado fechou-se, reduzindo...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=450&W=800&crop=center&delay_optim=1&epic=V2%3A0plkm1%2FE8qgz%2F%2BG%2Bn%2BmlKKwKCky5WyxoVYYRL6RVRi48Hm4%2BwxWYJIJfrLvNvS6frTc30U7BeFtZcqO6pCJ9cXjEDBdj8Saf1XC92GL63RN16RkjYjo5en8dxYw1csIv"
     },
     {
       "sourceId": "sapo",
@@ -195,11 +195,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Morreu Jorge Neto, antigo deputado do PSD",
-      "link": "https://sapo.pt/artigo/morreu-jorge-neto-antigo-deputado-do-psd-aos-69-anos-6ada657d6c1c029df5d6b225",
-      "pubDate": "Thu, 22 Oct 2026 19:40:23 +0000",
-      "description": "Deputado eleito pelo círculo do Porto nas VIII, IX e X legislaturas, foi vice-presidente do Grupo Parlamentar do PSD (2001-2004) e secretário de Estado da Defesa e Antigos Combatentes no XVI Governo Constitucional, liderado por Pedro Santana...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=599&W=1064&crop=center&delay_optim=1&epic=V2%3AggmqaaPhVqEZuFxL2nH%2BV%2B6YpHV8Ny%2BbYkBrI02MhZPlDsIMwCxncbGCDlkqut6KDTYkyrKTk3xU1QV7OsSKkIY62LQcpSFmFfQG6Md19ZKFt8wZbcRKHybVQ2YsL0%2F%2F"
+      "title": "Putin diz que Rússia está pronta para negociar acordo final e não trégua \"curta\"",
+      "link": "https://sapo.pt/artigo/putin-diz-que-russia-esta-pronta-para-negociar-acordo-final-e-nao-tregua-curta-6ada82634afee827c63f0071",
+      "pubDate": "Thu, 22 Oct 2026 21:39:40 +0000",
+      "description": "A Rússia está pronta para retomar negociações tripartidas com Ucrânia e Estados Unidos, mas para alcançar um acordo de paz definitivo, e não um cessar-fogo \"curto\", declarou hoje o Presidente Vladimir Putin, que reiterou a exigência de território...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ALmILX%2BkKRHA2B8qLti1XzIWk7A1RzyQ9SzajnCJyMpQcwlUpEl%2BlaNna%2FZdgEJx3lm%2F7mNuzi%2BJe2jyToT6AjdLRHQsOVfWz3BA1j6mrz9kykJ%2FAWrXBI9tXpmJNouPr"
     },
     {
       "sourceId": "nam",
