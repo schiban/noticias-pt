@@ -1,155 +1,175 @@
 {
-  "updated": "2026-10-24T04:52:36.301719+00:00",
+  "updated": "2026-10-24T09:16:14.983478+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Como funcionam as assembleias populares das acampadas?",
-      "link": "https://observador.pt/programas/a-hist-ria-do-dia/como-funcionam-as-assembleias-populares-das-acampadas/",
-      "pubDate": "Sat, 24 Oct 2026 05:02:36 +0100",
-      "description": "“Todos os dias, às 19h00”. As assembleias populares decidem a continuidade dos protestos pela habitação com recurso a votações e discursos. Como se organizam? Uma conversa com Mariana Furtado.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "4h. Fim do debate entre Flávio e Lula com tensão",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2440/",
-      "pubDate": "Sat, 24 Oct 2026 04:14:17 +0100",
-      "description": "O candidato do Partido Liberal acusa repetidamente Lula da Silva de mentir. Ainda, a Acampada do Porto negou os contactos reportados pelo presidente da Câmara do Porto.",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2504/",
+      "pubDate": "Sat, 24 Oct 2026 10:15:06 +0100",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "3h. Lula diz que Jair Bolsonaro trouxe fome ao Brasil",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2476/",
-      "pubDate": "Sat, 24 Oct 2026 03:15:27 +0100",
-      "description": "Este último debate entre Lula da Silva e Flávio Bolsonaro ficou marcado a esta hora pelo tema dos impostos. Ainda, a Acampada do Porto negou contactos reportados pelo presidente da Câmara.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "David Foster Wallace e uma sufocante solidão",
+      "link": "https://observador.pt/2026/10/24/david-foster-wallace-e-uma-sufocante-solidao/",
+      "pubDate": "Sat, 24 Oct 2026 10:11:07 +0100",
+      "description": "O centro de \"Breves Entrevistas a Homens Hediondos\" está então no retrato meticulosamente perfeito e tão ternamente vulnerável, de uma insuperável falta de capacidade para a comunicação.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1922:1082:nowe:48:314/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23163808/david-foster-wallace.webp"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "2h. Brasil. Flávio acusa governo Lula de \"cemitério\" de obra",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2450/",
-      "pubDate": "Sat, 24 Oct 2026 02:15:38 +0100",
-      "description": "Arrancou o último debate entre Flávio Bolsonaro e Lula da Silva antes das presidenciais brasileiras. Ainda, o Chega quer ouvir mais de 50 pessoas na CPI aos mandatos de Luís Neves à frente da PJ.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "title": "Portuguese Cinema Days regressam a Berlim com 12 sessõe",
+      "link": "https://observador.pt/2026/10/24/portuguese-cinema-days-regressam-a-berlim-com-12-sessoes-de-cinema-portugues/",
+      "pubDate": "Sat, 24 Oct 2026 10:06:17 +0100",
+      "description": "Criado em 2018, o festival chega à oitava edição e passou a integrar a lista de festivais de cinema do portal oficial da cidade, o \"berlin.de\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/24085842/46321675.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Acampada trocou o Rossio por Marvila por uma noite",
-      "link": "https://observador.pt/especiais/acampada-trocou-rossio-por-marvila-para-noite-em-solidariedade-com-familia-despejada-grupo-espera-milhares-no-marques-no-sabado/",
-      "pubDate": "Sat, 24 Oct 2026 01:52:03 +0100",
-      "description": "Cerca de 300 pessoas participaram numa vigília seguida de intervenções de moradores e a sétima assembleia da \"Acampada de Lisboa\". O frio dispersou o público que protesta este sábado no Marquês.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4062:2279:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23235807/ilacerda-manif-noite-7-13.jpg"
+      "title": "Presidente agradece a todos os que servem no Exército",
+      "link": "https://observador.pt/2026/10/24/pr-agradece-a-todos-os-que-servem-no-exercito-num-contexto-cada-vez-mais-complexo/",
+      "pubDate": "Sat, 24 Oct 2026 10:04:40 +0100",
+      "description": "O comandante supremo das Forças Armadas agradece aos que no presente \"contribuem para a defesa da liberdade, da soberania e dos interesses nacionais, num contexto internacional cada vez mais complexo\"",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/24091126/47869252.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Relógios atrasam uma hora na próxima madrugada",
+      "link": "https://observador.pt/2026/10/24/relogios-atrasam-uma-hora-na-proxima-madrugada-3/",
+      "pubDate": "Sat, 24 Oct 2026 09:59:35 +0100",
+      "description": "Na madrugada de domingo, 25 de outubro, em Portugal continental e na Região Autónoma da Madeira, quando forem 02:00 os relógios devem ser atrasados 60 minutos, passando para a 01:00.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/24091337/42816215.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "5h Brasil. Lula defende legado das políticas sociais e Flávio centra debate na segurança",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/5h-brasil-lula-defende-legado-das-politicas-sociais-e-flavio-centra-debate-na-seguranca_a1_1773933",
-      "pubDate": "Sat, 24 Oct 2026 06:23:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Relógios atrasam uma hora na madrugada de domingo",
+      "link": "https://www.rtp.pt/noticias/pais/relogios-atrasam-uma-hora-na-madrugada-de-domingo_n1773949",
+      "pubDate": "Sat, 24 Oct 2026 11:06:16 +0100",
+      "description": "Portugal continental e as regiões autónomas da Madeira e dos Açores vão atrasar os relógios uma hora na próxima madrugada, dando início ao horário de inverno.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "4h Terminou o debate entre Lula da Silva e Flávio Bolsonaro em véspera de presidenciais no Brasil",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/4h-terminou-o-debate-entre-lula-da-silva-e-flavio-bolsonaro-em-vespera-de-presidenciais-no-brasil_a1_1773930",
-      "pubDate": "Sat, 24 Oct 2026 05:30:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Presidente agradece a todos os que servem no Exército num contexto \"cada vez mais complexo\"",
+      "link": "https://www.rtp.pt/noticias/pais/presidente-agradece-a-todos-os-que-servem-no-exercito-num-contexto-cada-vez-mais-complexo_n1773947",
+      "pubDate": "Sat, 24 Oct 2026 10:58:13 +0100",
+      "description": "O Presidente da República assinala hoje o Dia do Exército com uma mensagem escrita em que expressa reconhecimento a todos os que nele servem &quot;num contexto internacional cada vez mais complexo, exigente e imprevisível&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e8d9f174206b2bdd92f7c0d9e1aa5a33?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "3h Brasil. Infraestrutura salário mínimo e saúde dominam debate entre Lula e Flávio Bolsonaro",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/3h-brasil-infraestrutura-salario-minimo-e-saude-dominam-debate-entre-lula-e-flavio-bolsonaro_a1_1773925",
-      "pubDate": "Sat, 24 Oct 2026 04:27:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Guarda Revolucionária iraniana reporta explosões em mais dois superpetroleiros no estreito de Ormuz",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/guarda-revolucionaria-iraniana-reporta-explosoes-em-mais-dois-superpetroleiros-no-estreito-de-ormuz_n1773944",
+      "pubDate": "Sat, 24 Oct 2026 10:56:29 +0100",
+      "description": "A Guarda Revolucionária Islâmica do Irão anunciou que dois superpetroleiros, que transportavam mais de 4,5 milhões de barris de petróleo bruto, atingiram minas navais perto do Estreito de Ormuz, deixando ambas as embarcações inoperacionais.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/00/00d4117adc89a5af47fc630554731bc2?w=350&amp;q=50&amp;rect=0,7,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "2h Brasil. Lula e Flávio Bolsonaro no último debate antes das presidenciais",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/2h-brasil-lula-e-flavio-bolsonaro-no-ultimo-debate-antes-das-presidenciais_a1_1773924",
-      "pubDate": "Sat, 24 Oct 2026 04:26:02 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "\"Ninho da Águia\" de Hitler consumido pelas chamas",
+      "link": "https://www.rtp.pt/noticias/mundo/ninho-da-aguia-de-hitler-consumido-pelas-chamas_n1773938",
+      "pubDate": "Sat, 24 Oct 2026 10:37:25 +0100",
+      "description": "O conhecido &quot;Ninho da Águia&quot;, residência de Adolf Hitler  invasões foi consumido pelas chamas. Há um suspeito já detido.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/11/116a7fda0eb22bb6293b0c96a61bdd49?w=350&amp;q=50&amp;rect=0,53,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "01h Brasil, último debate entre Lula da Silva e Flávio Bolsonaro antes das eleições de domingo",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/01h-brasil-ultimo-debate-entre-lula-da-silva-e-flavio-bolsonaro-antes-das-eleicoes-de-domingo_a1_1773921",
-      "pubDate": "Sat, 24 Oct 2026 03:11:01 +0100",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Tufão Champi ruma ao Japão após provocar um morto e 171 feridos em Taiwan",
+      "link": "https://www.rtp.pt/noticias/mundo/tufao-champi-ruma-ao-japao-apos-provocar-um-morto-e-171-feridos-em-taiwan_n1773936",
+      "pubDate": "Sat, 24 Oct 2026 10:26:14 +0100",
+      "description": "O Champi segue hoje em direção ao sudoeste do Japão, que continua em alerta para deslizamentos de terras e chuvas fortes, depois do tufão de ter provocado um morto e 163 feridos no vizinho Taiwan.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d4ce450052d2f7651f5b0ce8527fb0b?w=350&amp;q=50&amp;rect=0,23,1024,561&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Rui Costa: «As mudanças vão permitir alcançar os patamares almejados»",
-      "link": "https://maisfutebol.iol.pt/benfica/rui-costa/rui-costa-as-mudancas-vao-permitir-alcancar-os-patamares-almejados",
-      "pubDate": "Sat, 24 Oct 2026 00:46:00 +0100",
-      "description": "Presidente do Benfica revela perspetivas positivas na mensagem que acompanha o Relatório e Contas consolidado",
-      "thumbnail": "https://img.iol.pt/image/id/6a2afc6cd34e28842c850f10/250"
+      "title": "Benfica: Leandro Barreiro e Jhon Durán com paragens prolongadas",
+      "link": "https://maisfutebol.iol.pt/benfica/leandro-barreiro/benfica-leandro-barreiro-e-jhon-duran-com-paragens-prolongadas",
+      "pubDate": "Sat, 24 Oct 2026 10:04:39 +0100",
+      "description": "Médio luxemburguês volta a jogar apenas em 2027; avançado colombiano perde os próximos cinco jogos",
+      "thumbnail": "https://img.iol.pt/image/id/693e9dd5d34e2bd5c6d51512/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "MAISFUTEBOL NO WHATSAPP: tudo o que é essencial está aqui",
-      "link": "https://maisfutebol.iol.pt/maisfutebol/whatsapp/maisfutebol-no-whatsapp-tudo-o-que-e-essencial-esta-aqui",
-      "pubDate": "Sat, 24 Oct 2026 00:27:00 +0100",
-      "description": "O que de mais importante está a acontecer num único local",
-      "thumbnail": "https://img.iol.pt/image/id/661b1645d34e0498921fb7f8/250"
+      "title": "«Não é a prova do algodão, o Real Madrid com Mourinho ganha títulos»",
+      "link": "https://maisfutebol.iol.pt/internacional/jose-mourinho/nao-e-a-prova-do-algodao-o-real-madrid-com-mourinho-ganha-titulos",
+      "pubDate": "Sat, 24 Oct 2026 09:59:00 +0100",
+      "description": "Treinador português lançou o «El Clásico» com o Barcelona este sábado",
+      "thumbnail": "https://img.iol.pt/image/id/6adc7318d34e53c759c77c7b/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Está cansado que o Google lhe mostre notícias de fonte duvidosa? Nós temos a solução",
-      "link": "https://maisfutebol.iol.pt/google/google-search/esta-cansado-que-o-google-lhe-mostre-noticias-de-fonte-duvidosa-nos-temos-a-solucao",
-      "pubDate": "Sat, 24 Oct 2026 00:22:00 +0100",
-      "description": "A partir de agora já pode definir o Maisfutebol como fonte preferencial",
-      "thumbnail": "https://img.iol.pt/image/id/69f8adc0d34e28842c83a37c/250"
+      "title": "Moto GP: Marc Márquez vence sprint na Austrália e reassume liderança do Mundial",
+      "link": "https://maisfutebol.iol.pt/moto-gp/marc-marquez/moto-gp-marc-marquez-vence-sprint-na-australia-e-reassume-lideranca-do-mundial",
+      "pubDate": "Sat, 24 Oct 2026 09:56:57 +0100",
+      "description": "Espanhol beneficiou também da queda de Jorge Martín, que o afasta da corrida principal no domingo",
+      "thumbnail": "https://img.iol.pt/image/id/6aa6bee2d34e53c759c71ed1/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "Arresto de bens no Leixões: Golden Goal e Atlantiprestígio contestam SAD",
-      "link": "https://maisfutebol.iol.pt/leixoes/sad-leixoes/arresto-de-bens-no-leixoes-golden-goal-e-atlantiprestigio-contestam-sad",
-      "pubDate": "Fri, 23 Oct 2026 23:53:00 +0100",
-      "description": "Golden Goal garante que «não existiu qualquer incumprimento contratual» e a e a Atlantiprestígio fala da aquisição do Complexo Desportivo de Fão, prometendo recorrer aos meios legais",
-      "thumbnail": "https://img.iol.pt/image/id/685fd1edd34ef72ee447b3a8/250"
+      "title": "VÍDEO: Cruzeiro de Artur Jorge sofre, mas vence no Brasileirão",
+      "link": "https://maisfutebol.iol.pt/internacional/brasileirao/video-cruzeiro-de-artur-jorge-sofre-mas-vence-no-brasileirao",
+      "pubDate": "Sat, 24 Oct 2026 09:29:00 +0100",
+      "description": "Ex-Sporting assistiu para o único golo do jogo que coloca a equipa no terceiro lugar à condição",
+      "thumbnail": "https://img.iol.pt/image/id/6a1940bfd34e28842c849838/250"
     },
     {
       "sourceId": "maisfutebol",
       "sourceName": "Maisfutebol",
       "color": "#4fc48a",
-      "title": "II Liga: Lusitânia de Lourosa recebe Farense em Vila Nova de Gaia",
-      "link": "https://maisfutebol.iol.pt/ii-liga/lusitania-lourosa/ii-liga-lusitania-de-lourosa-recebe-farense-em-vila-nova-de-gaia",
-      "pubDate": "Fri, 23 Oct 2026 23:51:00 +0100",
-      "description": "Lusitanistas continuam sem poder jogar no próprio estádio",
-      "thumbnail": "https://img.iol.pt/image/id/6a81d0bdd34ed0733ba801ac/250"
+      "title": "Hoje vai ser notícia",
+      "link": "https://maisfutebol.iol.pt/hoje-vai-ser-noticia/hoje-e-noticia/hoje-vai-ser-noticia-179282880",
+      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0100",
+      "description": "FC Porto defronta o Gil Vicente e procurar chegar à nona vitória consecutiva na Liga",
+      "thumbnail": "https://img.iol.pt/image/id/6ad7eb6bd34e9a786e75d1ef/250"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "França prepara-se para um sábado de tensão: militares nas ruas, blindados e polícias de elite para travar nova vaga de violência",
+      "link": "https://executivedigest.sapo.pt/franca-prepara-se-para-um-sabado-de-tensao-militares-nas-ruas-blindados-e-policias-de-elite-para-travar-nova-vaga-de-violencia/",
+      "pubDate": "Sat, 24 Oct 2026 07:41:19 +0000",
+      "description": "França vai mobilizar mais polícias, militares, helicópteros e veículos blindados para acompanhar as manifestações previstas para este sábado, numa operação de segurança reforçada após os distúrbios registados no passado dia 17 de outubro",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=719&W=1280&crop=center&delay_optim=1&epic=V2%3Aksb%2BMH8fpme3APd7OvNjVH4nyBk%2BqtI9rmOrsPMpFrgFFU%2FPmvATZ5KmBvNHTVZQfBTASQOKy22jeW%2BBRfHhz5MhiynOIwceN9Ey1s%2FSFUgj8hZAjAe9qxRWeGFYg%2B1g"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "\"A solução possível\": crise na habitação obriga famílias a trocar casas por parques de campismo",
+      "link": "https://sapo.pt/artigo/a-solucao-possivel-crise-na-habitacao-obriga-familias-a-trocar-casas-por-parques-de-campismo-6adc577c73157f98666295d1",
+      "pubDate": "Sat, 24 Oct 2026 07:54:29 +0000",
+      "description": "O Movimento Porta a Porta alerta que estes casos se repetem em todo o país e refletem uma realidade que vai muito além da falta de dinheiro: para muitas famílias, viver num parque de campismo tornou-se a única alternativa possível.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3A6RbvOpgkTDy0y8fuX%2BtsfcQeVNqyDcqge09Ou3h%2FOKkQ9yCO%2F0oStA1can3sq0cKRoPNF7uBW8WXbfgXsLX64FQQNy%2Bv9t%2FVZ3NSgWmapG7TU5MJuPWgCOzVJCGaQw87"
     },
     {
       "sourceId": "sapo",
@@ -165,91 +185,111 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Carneiro justifica luz verde ao Orçamento com crises interna e externa",
-      "link": "https://sapo.pt/artigo/carneiro-justifica-luz-verde-ao-orcamento-com-crises-interna-e-externa-6adbd67d4afee827c6664462",
-      "pubDate": "Fri, 23 Oct 2026 23:03:27 +0000",
-      "description": "Líder socialista considerou infelizes as declarações do presidente do IHRU sobre os jovens, mas remeteu eventual demissão para o Governo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AM3ZgsehHChgg7f3uf9qZdP11pgxJcSW5o4t2S6CEBVMa8UNCKxiRjx6Mt9qzs8xA83CZqtC43pJAWcBsvsgYLYI9Oexh%2FLNfN4kmB025NN4NgPKrb62gVDozRsLdJWwg"
+      "title": "O último confronto entre Bolsonaro e Lula antes das urnas, com apelos para \"manter a democracia funcionando\" e \"rezar um pai nosso\"",
+      "link": "https://sapo.pt/artigo/o-ultimo-confronto-entre-bolsonaro-e-lula-antes-das-urnas-com-apelos-para-manter-a-democracia-funcionando-e-rezar-um-pai-nosso-6adc5c3cb89f6b4d32ca6b78",
+      "pubDate": "Sat, 24 Oct 2026 07:43:31 +0000",
+      "description": "Com o eleitorado dividido nas intenções de voto, o debate desta sexta-feira teve um foco maior nas propostas dos candidatos à presidência. Lula acusa Bolsonaro de ser “miliciano”, senador pede desculpa ao chefe de Estado após comentário que...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AVauFJ5owMrxgdyO00oL2n4ZZwsJjwzD1TY7yT42E43qFYzKk7sT4KVUQOo%2BgfsaG%2Bk8kaAHZIfTjfr2TWHdrwlBJrskK8YJnSCNWAQ%2FzSFlqZ4N9pzt0XIwLAu2FP0bH"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Autor de atentado em França tinha apartamento armadilhado",
-      "link": "https://sapo.pt/artigo/autor-de-atentado-em-franca-tinha-apartamento-armadilhado-6adbd2794afee827c665c8e4",
-      "pubDate": "Fri, 23 Oct 2026 21:44:27 +0000",
-      "description": "Buscas realizadas à casa do suspeito revelaram \"a instalação de um dispositivo de armadilha no apartamento, com três botijas de gás e fios elétricos ligados a um temporizador\"",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AEOyWBht%2F8pqS6jFE3dLkZ%2Bh6%2BcU02p5VNgzqS6RW0lDP2AemSIiloVsgtsUsg1w52v0NA1xyaOa3vBLTLMIxxR2q0FBCPrRT7z6pU%2BDI64tXZ4vv8gUJJApou9%2B6nVmJ"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Macron afirma que \"atentado terrorista racista\" representa \"ponto de viragem\" em França",
-      "link": "https://sapo.pt/artigo/macron-afirma-que-atentado-terrorista-racista-representa-ponto-de-viragem-em-franca-6adbcc136c1c029df5009004",
-      "pubDate": "Fri, 23 Oct 2026 21:44:27 +0000",
-      "description": "O Presidente francês afirmou que o \"atentado terrorista racista\" que hoje fez um morto e cinco feridos perto de Paris representa \"um ponto de viragem no país\", atribuindo-o ao \"ambiente de instabilidade que certos discursos estão a criar\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3ABYMGViXALVzpXVHVZrwmIL85OJYteZYMRjoxeXTaeBgBxLmkeSUJyaA5aaXWVmfNX%2BhYp8c86wMzqyKS%2FAMEatJsNHBJk0OtDzPaTKGAw6rr3n7YpxhJCSGF4hJj0vF%2B"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Embaixador dos EUA na ONU afirma que guerra poderá prolongar-se por mais um ano",
-      "link": "https://sapo.pt/artigo/embaixador-dos-eua-na-onu-afirma-que-guerra-podera-prolongar-se-por-mais-um-ano-6adbd2184afee827c665c11e",
-      "pubDate": "Fri, 23 Oct 2026 21:44:27 +0000",
-      "description": "O embaixador norte-americano junto da ONU admitiu hoje que os Estados Unidos (EUA) poderão continuar, daqui a um ano, num impasse no conflito com o Irão, embora esteja esperançoso que, \"antes disso\", Teerão se sente à mesa para negociar.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3A4D6GB0%2BBWJrAEyZIcsctm0jEUEpYhMGF5lqXkl2em0lhSnkdAysDP2Aw4E673pQcmSUMEN%2FPvooRc5GU%2FtWMIB4KTXQ9dUm239pZS4Lv5%2BiQAd9N2o%2FuDWOVSzNyQ8Lp"
+      "title": "Depois do “comboio de tempestades”, o que espera Portugal neste inverno? As previsões já dão algumas pistas",
+      "link": "https://executivedigest.sapo.pt/depois-do-comboio-de-tempestades-o-que-espera-portugal-neste-inverno-as-previsoes-ja-dao-algumas-pistas/",
+      "pubDate": "Sat, 24 Oct 2026 07:44:33 +0000",
+      "description": "Depois de um inverno marcado por sucessivas tempestades, episódios de chuva intensa e elevados prejuízos, começam a surgir as primeiras indicações sobre o tempo que Portugal poderá enfrentar nos próximos meses",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3Ae2zWMKX0rkgkLppRELhEQvzi%2B6GeVwumQ1ge1JVUEX%2Brbfy7rmfwX8eXAeXjgUw%2FAs%2F5fLxOd%2B93pi1KX5sCKksXuRn%2FoIish0MoAhRPFnwN77hNxEEmC97Bhvdru1dO"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FC Porto cumpre interdição às claques frente ao Académico de Viseu",
-      "link": "https://www.noticiasaominuto.com/desporto/3072163/fc-porto-cumpre-interdicao-as-claques-frente-ao-academico-de-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 05:39:50",
+      "title": "Ventura \"absolutamente disponível\" para ser ouvido na CPI sobre MAI",
+      "link": "https://www.noticiasaominuto.com/pais/3072238/ventura-absolutamente-disponivel-para-ser-ouvido-na-cpi-sobre-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-24 10:10:37",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adbffb89197e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU0fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65fc4b8c3bffc.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNDAsImNyb3BZIjowfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Título mundial deixou Iúri Leitão com \"sentido do dever cumprido\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3072178/titulo-mundial-deixou-iuri-leitao-com-sentido-do-dever-cumprido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 05:38:44",
+      "title": "Porto: Detido sob efeito de álcool (e com carta apreendida). Tinha droga",
+      "link": "https://www.noticiasaominuto.com/pais/3072234/porto-detido-sob-efeito-de-alcool-e-com-carta-apreendida-tinha-droga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-24 10:08:10",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adc2d6fca4ef.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_65a040c792bc3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzc5LCJjcm9wSGVpZ2h0IjoxMzM4LCJjcm9wWCI6NTEsImNyb3BZIjoxNTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzNCwiY3JvcEhlaWdodCI6MTY2MCwiY3JvcFgiOjM0LCJjcm9wWSI6MzB9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Kremlin divulga lista de opositores no exílio sujeitos a sanções",
-      "link": "https://www.noticiasaominuto.com/mundo/3072145/kremlin-divulga-lista-de-opositores-no-exilio-sujeitos-a-sancoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-23 23:58:56",
+      "title": "Bayern Munique dá novidades sobre o estado de saúde de Vincent Kompany",
+      "link": "https://www.noticiasaominuto.com/desporto/3072237/bayern-munique-da-novidades-sobre-o-estado-de-saude-de-vincent-kompany#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-24 10:02:43",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_63f87fa8bb911.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69388ce97b158.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Israel inicia \"operação contraterrorista pontual\" na região de Hebron",
-      "link": "https://www.noticiasaominuto.com/mundo/3072144/israel-inicia-operacao-contraterrorista-pontual-e-limitada-na-regiao-de-hebron#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-23 23:55:08",
+      "title": "Suplementos: Aliados da longevidade ou moda perigosa?",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3069777/suplementos-aliados-da-longevidade-ou-moda-perigosa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-24 10:00:34",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6903e75f6b01d.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad756312dc54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDkwLCJjcm9wSGVpZ2h0Ijo2MTMsImNyb3BYIjowLCJjcm9wWSI6Mn0sInN0YW1wIjp7ImNhdGVnb3J5IjoibWlzYyIsImxhYmVsIjoiYXJ0aWdvX2RlX29waW5pYW8iLCJjb2xvciI6ImJyYW5jbyIsInBvc2l0aW9uIjoiYm90dG9tLWxlZnQifX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Derrame de petróleo na costa dos Emirados gera risco de maré negra",
-      "link": "https://www.noticiasaominuto.com/mundo/3072143/derrame-de-petroleo-na-costa-dos-emirados-gera-risco-de-mare-negra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-23 23:54:23",
+      "title": "Foi viver com o namorado e mal sabia que o pai dos filhos seria o vizinho",
+      "link": "https://www.noticiasaominuto.com/fama/3070291/foi-viver-com-o-namorado-e-mal-sabia-que-o-pai-dos-filhos-seria-o-vizinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-24 10:00:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6adbe55653e0a.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad86cc98b752.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU3LCJjcm9wSGVpZ2h0IjoxMzgyLCJjcm9wWCI6MjQsImNyb3BZIjo4NTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE1MzYsImNyb3BIZWlnaHQiOjI3MzAsImNyb3BYIjo1MTIsImNyb3BZIjo2Mjh9fQ=="
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Anda a dormir mal? Problema está a afetar toda a Europa…",
+      "link": "https://pplware.sapo.pt/ciencia/anda-a-dormir-mal-problema-esta-a-afetar-toda-a-europa/",
+      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
+      "description": "Calor, tecnologia e trabalho a qualquer hora estão a comprometer o sono dos europeus, e os especialistas defendem que a resposta deve passar por políticas públicas e não apenas por hábitos individuais. Dormir é essencial para a saúde, na medida em que, durante o sono, o corpo repara tecidos, o céreb",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Começam os problemas da Apple? Ecrãs do novo iPhone Duo já estão a partir",
+      "link": "https://pplware.sapo.pt/apple/comecam-os-problems-da-apple-ecras-do-novo-iphone-duo-ja-estao-a-partir/",
+      "pubDate": "Sat, 24 Oct 2026 08:00:00 +0000",
+      "description": "O lançamento de um novo formato traz sempre entusiasmo, mas as primeiras horas de disponibilidade do iPhone Duo estão a gerar apreensão entre os primeiros compradores. Vários utilizadores começaram a partilhar fotografias e relatos nas redes sociais e em fóruns que mostram o ecrã interno do dobrável",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Trump quis mudar nome do Oceano Atlântico no Google Maps mas levou nega",
+      "link": "https://pplware.sapo.pt/informacao/trump-quis-mudar-nome-do-oceano-atlantico-no-google-maps-mas-levou-nega/",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "description": "Donald Trump revelou que tentou convencer Sundar Pichai, CEO da Google, a alterar o nome do Oceano Atlântico no Google Maps. A ideia passava por batizar a massa de água com a sua própria marca ou associá-la aos EUA, propondo termos como Oceano Trump ou Oceano Americano. A confissão surgiu numa ação ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Gemini insultou estudante e pediu-lhe que morresse",
+      "link": "https://pplware.sapo.pt/inteligencia-artificial/gemini-insultou-estudante-e-disse-lhe-que-se-matasse/",
+      "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
+      "description": "A inteligência artificial pode ajudar a esclarecer dúvidas e a preparar trabalhos, mas também pode produzir respostas perturbadoras. Foi o que aconteceu a um estudante que, durante uma conversa com o Gemini sobre envelhecimento, recebeu uma mensagem com insultos e um pedido para que morresse. O caso",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -262,43 +302,43 @@
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Tesla prepara os seus próprios mapas para melhorar a navegação e corrigir falhas do FSD",
-      "link": "https://pplware.sapo.pt/motores/tesla-prepara-os-seus-proprios-mapas-para-melhorar-a-navegacao-e-corrigir-falhas-do-fsd/",
-      "pubDate": "Fri, 23 Oct 2026 20:30:00 +0000",
-      "description": "A Tesla quer usar inteligência artificial e dados da sua frota para criar uma navegação mais personalizada, com comandos de voz e maior controlo sobre os percursos. Mapas de terceiros não são o que a Tesla precisa A Tesla está a desenvolver internamente um novo sistema de mapas para responder a prob",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Defender recebe “pack” especial com detalhes cobre",
+      "link": "https://www.autosport.pt/automais/defender-recebe-pack-especial-com-detalhes-cobre/",
+      "pubDate": "Sat, 24 Oct 2026 08:36:00 +0000",
+      "description": "Por Pedro Junceiro Os Defender 90, 110 e 130 passam a estar disponíveis na Europa com o Pack Alasia, opcional que introduz detalhes exteriores distintos na cor Cyprus Copper. O nome e a inspiração deste pacote estético remetem para Alasia, designação histórica associada a Chipre, território conhecid",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Apple traz de volta o iPod original num easter egg escondido na Apple Music",
-      "link": "https://pplware.sapo.pt/gadgets/ipad/apple-traz-de-volta-o-ipod-original-num-easter-egg-escondido-na-apple-music/",
-      "pubDate": "Fri, 23 Oct 2026 19:30:00 +0000",
-      "description": "A Apple decidiu celebrar a memória do seu leitor de música icónico de uma forma inesperada. Ao visitar uma página inexistente (404) da Apple Music, os utilizadores deparam-se com uma recriação virtual do iPod de primeira geração, pronta a reproduzir faixas dos anos 2000. Um easter egg que desperta m",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rali 6 Cidades Norte de Portugal: Martins Sesks líder, Pedro Almeida na frente do CPR",
+      "link": "https://www.autosport.pt/ralis/rali-6-cidades-norte-de-portugal-martins-sesks-lider-pedro-almeida-na-frente-do-cpr/",
+      "pubDate": "Sat, 24 Oct 2026 08:16:10 +0000",
+      "description": "Martins Sesks / Renars Francis (Skoda Fabia Rs Rally2) foram os mais rápidos na especial de abertura do segundo dia do Rali 6 Cidades norte de Portugal, a primeira passagem por um mais curto &#8211; face ao Rali de Portugal &#8211; troço de Cabeceiras de Basto. A dupla letã bateu Roope Korhonen / An",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Digi admite sair de Portugal! O que está em causa?",
-      "link": "https://pplware.sapo.pt/informacao/digi-admite-sair-de-portugal-o-que-esta-em-causa/",
-      "pubDate": "Fri, 23 Oct 2026 18:27:38 +0000",
-      "description": "A Digi admitiu que poderá abandonar o mercado português caso não consiga condições que lhe permitam competir com a MEO, a NOS e a Vodafone. O aviso foi feito a 23 de outubro de 2026, pelo diretor executivo do grupo, Valentin Popoviciu, numa conferência de imprensa em Lisboa. A questão central está n",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "GP dos EUA de F1: Ferrari liderou treinos numa luta renhida entre quatro equipas",
+      "link": "https://www.autosport.pt/formula1/gp-dos-eua-de-f1-ferrari-liderou-treinos-numa-luta-renhida-entre-quatro-equipas/",
+      "pubDate": "Sat, 24 Oct 2026 07:51:24 +0000",
+      "description": "Charles Leclerc liderou ambas as sessões de treinos livres de sexta-feira do Grande Prémio dos Estados Unidos, no Circuit of The Americas, em Austin. No entanto, a análise dos tempos por volta indica uma igualdade quase total entre Ferrari, Mercedes, Red Bull e McLaren, perspetivando uma luta renhid",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Star Wars Zero Company ainda mais implacável com o Patch 1.2",
-      "link": "https://pplware.sapo.pt/jogos/star-wars-zero-company-ainda-mais-implacavel-com-o-patch-1-2/",
-      "pubDate": "Fri, 23 Oct 2026 18:00:28 +0000",
-      "description": "Star Wars Zero Company continua a evoluir. O jogo de estratégia por turnos da Bit Reactor recebeu recentemente a atualização 1.2, trazendo novas opções para quem procura campanhas mais exigentes, além de várias melhorias de equilíbrio e correções de erros que tornam a experiência mais refinada. Para",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rampa do Caramulo: grande festa para encerrar a temporada da Montanha",
+      "link": "https://www.autosport.pt/velocidade/rampa-do-caramulo-grande-festa-para-encerrar-a-temporada-da-montanha/",
+      "pubDate": "Fri, 23 Oct 2026 23:11:00 +0000",
+      "description": "A 35.ª Rampa do Caramulo, que decorrerá nos dias 24 e 25 de outubro, regressa para trazer a emoção da Montanha à serra mágica no coração da região Centro de Portugal. Esta edição reveste-se de um significado particular, pois, pela primeira vez, a organização da histórica competição está a cargo de u",
       "thumbnail": ""
     },
     {
@@ -309,46 +349,6 @@
       "link": "https://www.autosport.pt/formula1/gp-dos-eua-de-f1-charles-leclerc-repete-lideranca-no-tl2/",
       "pubDate": "Fri, 23 Oct 2026 22:18:47 +0000",
       "description": "Charles Leclerc voltou a assinar o tempo mais rápido no segundo treino livre do Grande Prémio dos Estados Unidos de Formula 1, no Circuit of the Americas, em Austin. Ao volante do Ferrari, o piloto monegasco registou a marca de 1m35,291s nas simulações de qualificação com pneus macios, superando Kim",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rali 6 Cidades Norte de Portugal: Simone Tempestini lidera, Rúben Rodrigues em destaque no CPR",
-      "link": "https://www.autosport.pt/ralis/rali-6-cidades-norte-de-portugal-simone-tempestini-lidera-ruben-rodrigues-em-destaque-no-cpr/",
-      "pubDate": "Fri, 23 Oct 2026 19:27:00 +0000",
-      "description": "Simone Tempestini (Škoda Fabia RS Rally2) registou o tempo mais rápido na curta especial de asfalto de Monte da Penha, que marcou o arranque do Rali 6 Cidades Norte de Portugal. O piloto superou Nikolay Gryazin, ao volante de um Lancia Ypsilon Rally2 HF Integrale. O pódio provisório da prova ficou c",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "GP dos EUA F1: Charles Leclerc lidera TL1 à frente de Max Verstappen",
-      "link": "https://www.autosport.pt/formula1/gp-dos-eua-f1-charles-leclerc-lidera-tl1-a-frente-de-max-verstappen/",
-      "pubDate": "Fri, 23 Oct 2026 18:42:19 +0000",
-      "description": "Charles Leclerc fixou o melhor tempo na primeira sessão de treinos livres para o Grande Prémio dos Estados Unidos de Formula 1, realizada no Circuit of the Americas, em Austin. Ao volante do Ferrari, o piloto monegasco registou a marca de 1m36,052s com pneus macios, superando Max Verstappen, da Red ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Honda Civic recebe modo S+ Shift",
-      "link": "https://www.autosport.pt/automais/honda-civic-recebe-modo-s-shift/",
-      "pubDate": "Fri, 23 Oct 2026 16:35:00 +0000",
-      "description": "Por Pedro Junceiro O Honda Civic e:HEV beneficiou de uma ligeira atualização da gama que incluiu a adoção da tecnologia S+ Shift estreada pela marca japonesa na nova geração do Prelude – simula a condução com uma caixa automática de 8 velocidades. Além disso, o modelo passa a contar com um nível Spo",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Hamilton assume erro estratégico em Singapura que custou um pódio à Ferrari",
-      "link": "https://www.autosport.pt/formula1/f1-hamilton-assume-erro-estrategico-em-singapura-que-custou-um-podio-a-ferrari/",
-      "pubDate": "Fri, 23 Oct 2026 16:19:00 +0000",
-      "description": "Lewis Hamilton assumiu a responsabilidade pela decisão estratégica que lhe custou um lugar no pódio do Grande Prémio de Singapura e impediu a Ferrari de terminar com os dois pilotos entre os três primeiros. Na antevisão do Grande Prémio dos Estados Unidos, em Austin, o britânico reconheceu o erro de",
       "thumbnail": ""
     }
   ]
