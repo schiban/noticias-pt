@@ -1,55 +1,95 @@
 {
-  "updated": "2026-10-25T03:47:20.683412+00:00",
+  "updated": "2026-10-25T08:55:09.366627+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Lisboa. As imagens da noite em que a polícia avançou",
-      "link": "https://observador.pt/2026/10/25/as-imagens-da-noite-em-que-a-policia-avancou-sobre-os-manifestantes-da-acampada-em-lisboa/",
-      "pubDate": "Sun, 25 Oct 2026 03:14:51 +0000",
-      "description": "A polícia avançou sobre os manifestantes, dispersando-os e retirando as tendas que estavam no Rossio.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1616:908:nowe:0:86/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25030103/img-3591.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias das 3h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2477/",
-      "pubDate": "Sun, 25 Oct 2026 03:14:17 +0000",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "8h. 11 feridos após intervenção da PSP em Lisboa e no Porto",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2557/",
+      "pubDate": "Sun, 25 Oct 2026 08:15:11 +0000",
+      "description": "O número de feridos foi confirmado pela PSP, que fala numa ocupação do espaço público de forma indevida. Ainda, Lula da Silva ou Flávio Bolsonaro, um deles vai ser eleito hoje presidente do Brasil.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias das 2h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2451/",
-      "pubDate": "Sun, 25 Oct 2026 02:40:05 +0000",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Sabemos amar ou só analisar o amor?",
+      "link": "https://observador.pt/programas/amiga-faz-parte/sabemos-amar-ou-so-analisar-o-amor/",
+      "pubDate": "Sun, 25 Oct 2026 08:04:40 +0000",
+      "description": "Sabemos amar ou só analisar o amor? Com o André Nobre Duarte falo de ghosting, situationships, maxxing e do que se passa com a nossa geração nas relações e no crescimento pessoal.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/16185608/770-podcast-amiga-faz-parte.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "\"A sociedade ainda não sabe lidar com um bebé que nunca viu\"",
+      "link": "https://observador.pt/programas/em-40-minutos/matilde-breyner-e-a-dor-da-perda-gestacional-a-sociedade-nao-sabe-o-que-dizer-nem-como-lidar-com-um-bebe-que-nunca-viu-as-vezes-basta-dizer-estou-aqui/",
+      "pubDate": "Sun, 25 Oct 2026 07:38:59 +0000",
+      "description": "Matilde Breyner passa em revista a carreira na representação, o fim da faceta de \"people pleaser\" e o fenómeno do lip sync. A atriz abre o coração sobre a dor da perda gestacional da filha Zoe.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16114444/770-podcast-em-40-minutos-matilde-bre.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "7h. Noite marcada por investida da polícia no Porto e Lisboa",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2543/",
+      "pubDate": "Sun, 25 Oct 2026 07:20:20 +0000",
+      "description": "A PSP dá conta de 31 cidadãos detidos por desobediência e também 11 feridos, seis em Lisboa e cinco no Porto. Ainda, os brasileiros vão hoje às urnas escolher entre Lula da Silva e Flávio Bolsonaro.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "A manifestação que encheu o Rossio com recados ao Governo",
-      "link": "https://observador.pt/especiais/luis-eu-nao-sou-egoista-a-manifestacao-que-encheu-o-rossio-com-molhos-de-chaves-e-recados-ao-governo/",
-      "pubDate": "Sun, 25 Oct 2026 01:16:52 +0000",
-      "description": "Milhares manifestaram-se em Lisboa pelo direito à habitação, do Marquês ao Rossio. Encabeçado por Alfredo, de 98 anos, o protesto acabou com tendas montadas e o aviso da polícia à desobediência civil.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:348/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/24192222/dventura-manif-acampada-24out-14-scaled.jpg"
+      "title": "\"O futebol é a modalidade com mais psicólogos do desporto\"",
+      "link": "https://observador.pt/programas/ciencia-de-campeoes/o-futebol-e-a-modalidade-com-mais-psicologos-do-desporto/",
+      "pubDate": "Sun, 25 Oct 2026 07:03:24 +0000",
+      "description": "“Já não é tabu recorrer a profissionais desta área, do ponto de vista institucional ou individual\", diz Pedro Almeida, psicólogo do desporto e perfornance. “Mas temos muito a caminhar.”",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1138:640:nowe:23:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/07171608/capa-podcast-longa-mais-do-que.jpg"
     },
     {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2426/",
-      "pubDate": "Sun, 25 Oct 2026 01:14:27 +0000",
-      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Protesto pelo direito à Habitação. Onze feridos e 31 detidos em Lisboa e no Porto",
+      "link": "https://www.rtp.pt/noticias/pais/protesto-pelo-direito-a-habitacao-onze-feridos-e-31-detidos-em-lisboa-e-no-porto_n1774140",
+      "pubDate": "Sun, 25 Oct 2026 08:44:14 +0000",
+      "description": "Houve nova carga policial contra os manifestantes que acamparam no Porto e em Lisboa. Onze pessoas ficaram feridas e 31 foram detidas, esta madrugada.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cc/ccb0ab711349b14a52af4fd33a00d89b?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro",
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-milhoes-de-eleitores-decidem-hoje-entre-lula-e-bolsonaro_e1774136",
+      "pubDate": "Sun, 25 Oct 2026 08:32:29 +0000",
+      "description": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/27/2796184d91cae31533788da32af8743e?w=350&amp;q=50&amp;rect=0,57,1024,561&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Retrato de Brigitte Bardot pintado por Kees van Dongen vendido por 1,35 milhões de euros",
+      "link": "https://www.rtp.pt/noticias/mundo/retrato-de-brigitte-bardot-pintado-por-kees-van-dongen-vendido-por-135-milhoes-de-euros_n1774117",
+      "pubDate": "Sun, 25 Oct 2026 08:12:06 +0000",
+      "description": "Um retrato da atriz francesa Brigitte Bardot (1934-2025), feito pelo pintor Kees van Dongen (1877-1968), foi vendido por 1,35 milhões de euros num leilão realizado em Paris, informou a leiloeira Artcurial.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
+    },
+    {
+      "sourceId": "rtp",
+      "sourceName": "RTP Notícias",
+      "color": "#e05252",
+      "title": "Filme \"Virgem Fandango\" com dupla distinção no Prémio Nacional de Animação",
+      "link": "https://www.rtp.pt/noticias/cultura/filme-virgem-fandango-com-dupla-distincao-no-premio-nacional-de-animacao_n1774092",
+      "pubDate": "Sun, 25 Oct 2026 08:11:19 +0000",
+      "description": "O filme &quot;Virgem Fandango&quot;, da realizadora norte-americana Marcy Page, venceu dois prémios, um dos quais do público, no sábado, no Porto, no âmbito do Prémio Nacional de Animação.",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
@@ -60,46 +100,6 @@
       "pubDate": "Sun, 25 Oct 2026 03:16:50 +0000",
       "description": "Foram vários os protestos que decorreram este sábado por todo o país com manifestantes a sair à rua em luta pelo direito à habitação. Já durante a madrugada, houve duas cargas policiais contra ocupantes das praças em Lisboa e no Porto.",
       "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9eaf98415625302a915943e963aa2aa6?w=350&amp;q=50&amp;rect=0,15,1500,822&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "Organização dos manifestantes do Porto identificou 37 feridos após carga policial",
-      "link": "https://www.rtp.pt/noticias/economia/organizacao-dos-manifestantes-do-porto-identificou-37-feridos-apos-carga-policial_n1774118",
-      "pubDate": "Sun, 25 Oct 2026 03:16:06 +0000",
-      "description": "A organização do movimento pela habitação no Porto identificou hoje 37 feridos ligeiros e cinco pessoas ainda a receber assistência médica, após a carga policial para desocupar a Praça D. João I.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PSP destrói tendas e manifestantes no Porto gritam \"voltaremos\"",
-      "link": "https://www.rtp.pt/noticias/economia/psp-destroi-tendas-e-manifestantes-no-porto-gritam-voltaremos_n1774115",
-      "pubDate": "Sun, 25 Oct 2026 02:38:10 +0000",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PSP avançou sobre os manifestantes no Rossio e há um número indeterminado de feridos a ser tratados no local",
-      "link": "https://www.rtp.pt/noticias/economia/psp-avancou-sobre-os-manifestantes-no-rossio-e-ha-um-numero-indeterminado-de-feridos-a-ser-tratados-no-local_n1774116",
-      "pubDate": "Sun, 25 Oct 2026 02:35:57 +0000",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
-    },
-    {
-      "sourceId": "rtp",
-      "sourceName": "RTP Notícias",
-      "color": "#e05252",
-      "title": "PSP começou a tentar desmobilizar manifestantes no Porto pelas 2h02",
-      "link": "https://www.rtp.pt/noticias/economia/psp-comecou-a-tentar-desmobilizar-manifestantes-no-porto-pelas-2h02_n1774112",
-      "pubDate": "Sun, 25 Oct 2026 02:14:32 +0000",
-      "description": "A Unidade Especial de Polícia da PSP começou hoje a tentar desmobilizar os manifestantes na Praça D. João I, no Porto, após estes rejeitarem tirar as tendas.",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "maisfutebol",
@@ -155,101 +155,131 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Manifestação em Lisboa: os cartazes de quem desce a Avenida da Liberdade, e as mensagens que os olham de volta",
-      "link": "https://sapo.pt/artigo/manifestacao-em-lisboa-os-cartazes-de-quem-desce-a-avenida-da-liberdade-e-as-mensagens-que-os-olham-de-volta-6add1da84afee827c68cec8c",
-      "pubDate": "Sat, 24 Oct 2026 21:07:59 +0000",
-      "description": "Cerca de 25 mil pessoas desceram do Marquês de Pombal até ao Rossio. Estas são as mensagens que levavam na mão",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AxQ5%2FrEHHtWhqxxNu%2B0k5uIw%2FRb1rOIQAKcZuobZPeEYyDibsPGpvnrPQIvwjCQNQEzIPntpFViLBn4GwP6GmwNnNK7Jsqs%2FMMmGQHGbAMv%2FVUKQqSWOLVimperIwjm4v"
+      "title": "PSP dispersou à bastonada os manifestantes no Rossio e na Praça D. João I. Há vários feridos e 31 detidos",
+      "link": "https://sapo.pt/artigo/psp-dispersou-a-bastonada-os-manifestantes-no-rossio-e-na-praca-d-joao-i-ha-varios-feridos-e-31-detidos-6add9245b89f6b4d32f10cf5",
+      "pubDate": "Sun, 25 Oct 2026 05:29:38 +0000",
+      "description": "A polícia dispersou hoje, à bastonada, as manifestações pelo direito à habitação, em duas ações em simultâneo em Lisboa e no Porto.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Af%2Bby9D0sklmPGl2wzCOIoNfrt%2B17eSFHTyQxE62dc78aE9kQs4a6zNYa0sa9bWczydJLXFLN%2FPRv71Y%2F6ZgWkkY5WUELpZQmCC16JATpwEuEmWmxSzj4Ts5veS8TBHWB"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Mais de cem mil pessoas manifestam-se em Paris",
-      "link": "https://eco.sapo.pt/2026/10/24/mais-de-cem-mil-pessoas-manifestam-se-em-paris/",
-      "pubDate": "Sat, 24 Oct 2026 17:33:28 +0000",
-      "description": "O Governo francês mobilizou mais de 70 mil agentes por todo o país, receando os tumultos de sábado passado. Durante o percurso, foram controladas pela polícia mais de 3.000 pessoas e detidas 65.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AkmwbBDsBTafeQPiapnZGCxl0XatAbdrVazThtjCkqrp5sl2LL3rsgc7YclpumXJeJncZfE%2Bgmgz%2BRchJCGDOashFhNoyLYo%2B0PZm9WnwclDmJ4tsUZrQ7veLxezzex4T"
+      "title": "Urnas, mentiras e dados errados: cinco fact-checks sobre as eleições no Brasil",
+      "link": "https://sapo.pt/artigo/urnas-mentiras-e-dados-errados-cinco-fact-checks-sobre-as-eleicoes-no-brasil-6addbb67b89f6b4d32f38c59",
+      "pubDate": "Sun, 25 Oct 2026 08:36:19 +0000",
+      "description": "Nas eleições presidenciais do Brasil, várias mentiras e desinformações circulam nas redes sociais. No dia em que milhões de brasileiros voltam a ir às urnas, a SIC Verifica algumas das principais falácias, como a suposta redução de urnas pelo...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ANiu%2BcWDfvM%2BXnA3E7vGKJWjzhJDNeZJDmR5X5Wv%2BDPX3KsSRR%2BwjrmQQM3o7XA2z2Znz4iisP%2FLsOr0MUZGISjH2XCHOljTszsp2k2U7Duq5u3SGIyoHwABkkw1o66KQ"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Manifestação em Madrid reúne 25.000 pessoas em defesa do sistema público de pensões",
-      "link": "https://sapo.pt/artigo/manifestacao-em-madrid-reune-25-000-pessoas-em-defesa-do-sistema-publico-de-pensoes-6adce117b89f6b4d32df1984",
-      "pubDate": "Sat, 24 Oct 2026 17:33:28 +0000",
-      "description": "A manifestação, convocada pela Coordenadora Estatal em Defesa do Sistema Público de Pensões (COESPE), reivindicou medidas para garantir o poder de compra dos pensionistas e reforçar a sua proteção.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AE8c3KSWgs1ylBDYq3%2F14An5SvkrCaVIk6WYNLXxvI9%2F9PNAorN1kO0G0SkPEJMNet%2FJwXz24SF1KeWSUpXZ%2BO2VTpGUpLh7c16JRWaGVz5%2FFy5%2BPYcQ009Mklu57Yq3o"
+      "title": "\"Não vamos desistir\": dezenas de milhares reunidos em Telavive para exigir mudança política",
+      "link": "https://sapo.pt/artigo/nao-vamos-desistir-dezenas-de-milhares-reunidos-em-telavive-para-exigir-mudanca-politica-6add331f73157f986681b164",
+      "pubDate": "Sun, 25 Oct 2026 08:36:19 +0000",
+      "description": "Manifestação foi organizada pelo Conselho de Outubro, um movimento que reúne famílias das vítimas dos ataques do Hamas e contou com a presença de Gadi Eisenkot, favorito nas sondagens.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AoZmTosVOZv8aUi0aZgr8hufZb%2FOmkyDcbxW6LI4ByellqK2jd%2Fds%2FMXfmoEflMmhfxM7Jwfcxo0qKjsEiDKf689zzs%2Fqdx0eYhhxQfJJUsJk2Qi9tbmeAXgovnvuaNVc"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Copacabana enche-se de esperança para levar Lula a virada inédita",
-      "link": "https://sapo.pt/artigo/copacabana-enche-se-de-esperanca-para-levar-lula-a-virada-inedita-6adcfb3eb89f6b4d32e3e86f",
-      "pubDate": "Sat, 24 Oct 2026 18:47:39 +0000",
-      "description": "Copacabana encheu-se hoje de vermelho, esperança e euforia com a vinda de Lula da Silva, no último dia de campanha do Presidente, que procura transformar a desvantagem da primeira volta numa vitória inédita no domingo.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=360&W=640&crop=center&delay_optim=1&epic=V2%3A3%2FXkwyiUiPJKXEPzUj24jg44pXzrycuHp98iZjQmLjTyo7GCPPpRcGqBrQozVbui5rN3VxjDf1O8votJhz%2BqcBwlmTNMqi0H8Ed45N9Eg8nt0vFnvRyVL%2Bl0AvzDqQcB"
+      "title": "Carneiro exige suspensão da nova lei do arrendamento e acusa Governo de inação na habitação e custo de vida",
+      "link": "https://sapo.pt/artigo/carneiro-exige-suspensao-da-nova-lei-do-arrendamento-e-acusa-governo-de-inacao-na-habitacao-e-custo-de-vida-6adcffd773157f98667c977b",
+      "pubDate": "Sat, 24 Oct 2026 20:13:54 +0000",
+      "description": "O secretário-geral do PS defende que a legislação em preparação vai \"facilitar os despejos\" e promete alternativas orçamentais com cabimento financeiro assegurado.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A4GmpDE7qHE3tA3SEKMEQhS0V5T%2FNCfAdyogL6D7wGN1Vf577ZTPCdxLExXEX14%2BqOPqtStFITYrKGOuqMC%2FSD%2BeV90S1TXfx%2BrqqVDDcP%2B8D39QjCxGFqF5jnXFnWgAR"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "FC Porto vence Gil Vicente com golo de Borja Sainz e mantém registo vitorioso na Primeira Liga",
-      "link": "https://sapo.pt/artigo/fc-porto-vence-gil-vicente-com-golo-de-borja-sainz-e-mantem-registo-vitorioso-na-primeira-liga-6add235f73157f98668085d4",
-      "pubDate": "Sat, 24 Oct 2026 21:33:43 +0000",
-      "description": "O FC Porto venceu o Gil Vicente por 1-0 no Estádio Cidade de Barcelos, no encontro referente à 9.ª jornada da Primeira Liga.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3A%2FziyxsmCCnh7CYvZpFIia8oNi721L%2BpTO0LeCnFtkKd2mvzrkAqCTLdBKBgGEKgcxxDeEqj90zGy%2F0mjRyIL41lqjoL%2FJX1xwfsosj6QwEMD903Cq%2F2fXjEcwrqg%2FpIm"
+      "title": "Ministro da Administração Interna recusa “braço de ferro” com manifestantes",
+      "link": "https://eco.sapo.pt/2026/10/24/ministro-da-administracao-interna-recusa-braco-de-ferro-com-manifestantes/",
+      "pubDate": "Sat, 24 Oct 2026 15:28:12 +0000",
+      "description": "O governante acredita que as manifestações de hoje à tarde vão ser \"ordeiras e pacíficas\" como \"regularmente acontece\" no país.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AMu67SeAlOA6HPIJ3x4WF7r5WQzQYQ4lcrbkIxUfT3Pg6thHBOOaj1A201ekxGLt7NLsasnWqi9Rgxkfq4XYAmXfU5KEg5MrdR0YlIB53kEyZbuCcPh5nhyX4jueqWDXt"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "\"Tem um pagamento em dívida\"? Atenção a estas SMS em nome do SNS 24",
-      "link": "https://www.noticiasaominuto.com/pais/3072455/tem-um-pagamento-em-divida-atencao-a-estas-sms-em-nome-do-sns-24#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 23:58:55",
+      "title": "Mexidas na ressaca europeia? O onze provável do Sporting com o Académico",
+      "link": "https://www.noticiasaominuto.com/desporto/3072094/mexidas-na-ressaca-europeia-o-onze-provavel-do-sporting-com-o-academico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-25 08:38:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a54ac77893a8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDY2LCJjcm9wSGVpZ2h0Ijo2MDAsImNyb3BYIjo1LCJjcm9wWSI6MjEwfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a7ff8084c510.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Atlético de Madrid passa teste diante do Deportivo e aproxima-se do Barça",
-      "link": "https://www.noticiasaominuto.com/desporto/3072451/atletico-de-madrid-vence-deportivo-da-corunha-e-reforca-luta-pelo-titulo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 23:50:02",
+      "title": "Há mexidas nos combustíveis amanhã: Confira aqui se é melhor atestar já",
+      "link": "https://www.noticiasaominuto.com/economia/3071651/ha-mexidas-nos-combustiveis-amanha-confira-aqui-se-e-melhor-atestar-ja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-25 08:30:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6add35a99df2d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU3LCJjcm9wSGVpZ2h0IjoxMzgyLCJjcm9wWCI6MCwiY3JvcFkiOjE1Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTIyLCJjcm9wSGVpZ2h0IjoxNjM5LCJjcm9wWCI6MTI1MCwiY3JvcFkiOi0xfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6abfaada6e0dd.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Arquidiocese de Nova Iorque vai pagar 800 milhões de dólares por abusos",
-      "link": "https://www.noticiasaominuto.com/mundo/3072453/arquidiocese-de-nova-iorque-vai-pagar-800-milhoes-de-dolares-por-abusos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 23:48:18",
+      "title": "O rumor da semana: Irá mesmo Gustavo Varela voltar ao Benfica?",
+      "link": "https://www.noticiasaominuto.com/desporto/3070430/o-rumor-da-semana-ira-mesmo-gustavo-varela-voltar-ao-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-25 08:29:02",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_56c24396caf50.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjQwLCJjcm9wSGVpZ2h0IjoxMjYwLCJjcm9wWCI6NDAsImNyb3BZIjo1Mzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjo4ODMsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6ad8a3678c087.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIxfSwic3RhbXAiOnsiY2F0ZWdvcnkiOiJkZXNwb3J0byIsImxhYmVsIjoicnVtb3JfZGFfc2VtYW5hIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1sZWZ0In19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Donald Trump já votou antecipadamente para as intercalares nos EUA",
-      "link": "https://www.noticiasaominuto.com/mundo/3072449/euaeleicoes-donald-trump-ja-votou-antecipadamente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 23:39:23",
+      "title": "\"Amorim não pode continuar a enganar-se a si próprio e aos adeptos\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3072542/amorim-nao-pode-continuar-a-enganar-se-a-si-proprio-e-aos-adeptos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-25 08:24:45",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6add318ba90cc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk0LCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MzMsImNyb3BZIjoxNTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNSwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6addb633b489b.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Momento arrepiante levou à expulsão de Elimbi no Gil Vicente-FC Porto",
-      "link": "https://www.noticiasaominuto.com/desporto/3072450/momento-arrepiante-levou-a-expulsao-de-elimbi-no-gil-vicente-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-10-24 23:24:19",
+      "title": "Sporting-Académico: Leão em alerta contra beirões de orgulho ferido",
+      "link": "https://www.noticiasaominuto.com/desporto/3072059/sporting-academico-leao-em-alerta-contra-beiroes-de-orgulho-ferido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-10-25 08:18:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6add2e816ce9a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjY1LCJjcm9wSGVpZ2h0Ijo5MzcsImNyb3BYIjotMSwiY3JvcFkiOjMyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1NjMsImNyb3BIZWlnaHQiOjEwMDAsImNyb3BYIjoyMDIsImNyb3BZIjowfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ff3fa6aaac8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ4MH19"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Internet vai tremer nos próximos 18 meses: o caos no PHP é apenas o começo",
+      "link": "https://pplware.sapo.pt/internet/seguranca/internet-vai-tremer-nos-proximos-18-meses-o-caos-no-php-e-apenas-o-comeco/",
+      "pubDate": "Sun, 25 Oct 2026 08:40:00 +0000",
+      "description": "A descoberta recente de duas vulnerabilidades críticas no PHP colocou a Internet sob forte pressão e serviu de aviso sério para a cibersegurança. O problema ganha peso imediato pelo alcance prático da linguagem, presente em cerca de setenta por cento dos sites em todo o mundo. A gravidade das falhas",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Gasolina já não vai descer 8 cêntimos! Governo alterou ISP. Também há mudanças no gasóleo",
+      "link": "https://pplware.sapo.pt/informacao/gasolina-ja-nao-vai-descer-8-centimos-governo-alterou-isp-tambem-ha-mudancas-no-gasoleo/",
+      "pubDate": "Sun, 25 Oct 2026 07:40:34 +0000",
+      "description": "O Governo vai reforçar o desconto fiscal aplicado ao gasóleo e reduzir o apoio à gasolina a partir desta segunda-feira, 26 de outubro. A atualização do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) foi publicada em Diário da República e reflete as previsões para a evolução dos preços do",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "WhatsApp vai deixar agendar mensagens no iPhone e Android: veja como funciona",
+      "link": "https://pplware.sapo.pt/apple/whatsapp-vai-deixar-agendar-mensagens-no-iphone-e-android-veja-como-funciona/",
+      "pubDate": "Sun, 25 Oct 2026 07:00:00 +0000",
+      "description": "O WhatsApp começou finalmente a resolver uma das falhas mais antigas da sua plataforma face aos concorrentes. Depois de colocar a funcionalidade em testes no Android, a Meta expandiu agora oficialmente o envio programado de mensagens de texto, links, fotografias e vídeos para os utilizadores de iPho",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -272,33 +302,23 @@
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Ferramentas úteis e gratuitas para estudantes",
-      "link": "https://pplware.sapo.pt/software/ferramentas-uteis-e-gratuitas-para-estudantes/",
-      "pubDate": "Sat, 24 Oct 2026 19:30:00 +0000",
-      "description": "Estudar envolve muito mais do que consultar livros e apontamentos entre trabalhos, apresentações, apontamentos e pesquisa, existem várias tarefas que fazem parte do dia a dia de qualquer estudante. Felizmente, há ferramentas gratuitas que podem ajudar a organizar o estudo, poupar tempo e facilitar a",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Pedro Meireles: “No Rali de Portugal, pagamos uma inscrição normal e andamos no meio dos WRC2”",
+      "link": "https://www.autosport.pt/ralis/pedro-meireles-no-rali-de-portugal-pagamos-uma-inscricao-normal-e-andamos-no-meio-dos-wrc2/",
+      "pubDate": "Sat, 24 Oct 2026 23:07:00 +0000",
+      "description": "Pedro Meireles não se afasta muito das críticas à organização, já expressadas por alguns dos seus colegas. Terminou o dia no quinto lugar do CPR, depois de dois furos que, segundo o piloto, lhe custaram cerca de um minuto, e deixou duras críticas ao estado dos troços. Num dia em que diz ter sido pre",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Chrome vai começar a ler tudo o que copia para a área de transferência",
-      "link": "https://pplware.sapo.pt/internet/seguranca/chrome-vai-comecar-a-ler-tudo-o-que-copia-para-a-area-de-transferencia/",
-      "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000",
-      "description": "A navegação na Web prepara-se para mudar de figura e o browser da Google quer meter o nariz onde até agora não entrava. A pensar na enxurrada de burlas e esquemas que se espalham pela rede, a empresa decidiu reforçar os mecanismos de defesa e vai passar a analisar o conteúdo copiado para o clipboard",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Análise Marvel’s Wolverine (Playstation 5)",
-      "link": "https://pplware.sapo.pt/analises-2/analise-marvels-wolverine-playstation-5/",
-      "pubDate": "Sat, 24 Oct 2026 17:50:10 +0000",
-      "description": "A Insomniac trocou as teias de aranha do Homem-Aranha pelas garras de Wolverine, numa aventura brutal, cinematográfica e surpreendentemente emocional. Já experimentamos o jogo. Venham ver mais&#8230; Depois de conquistar o universo dos super-heróis com Marvel’s Spider-Man, Spider-Man: Miles Morales ",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rali 6 Cidades Norte de Portugal: Sesks parte na frente, mas segundo dia promete luta e exige gestão",
+      "link": "https://www.autosport.pt/ralis/rali-6-cidades-norte-de-portugal-sesks-parte-na-frente-mas-segundo-dia-promete-luta-e-exige-gestao/",
+      "pubDate": "Sat, 24 Oct 2026 23:02:00 +0000",
+      "description": "Mārtiņš Sesks entra no segundo e último dia do Rally 6 Cities North of Portugal na melhor posição para conquistar a vitória, mas os 10,5 segundos de vantagem sobre Roope Korhonen estão longe de lhe permitir uma abordagem de simples controlo. Depois de uma primeira etapa marcada por furos, acidentes ",
       "thumbnail": ""
     },
     {
@@ -325,30 +345,10 @@
       "sourceId": "autosport",
       "sourceName": "Autosport",
       "color": "#f0c040",
-      "title": "José Pedro Fontes arrasa Demoporto: “A situação em que nos puseram aqui é vergonhosa. Não dignifica o CPR”",
+      "title": "José Pedro Fontes arrasa condições do CPR: “A situação em que nos puseram aqui é vergonhosa. Não dignifica o CPR”",
       "link": "https://www.autosport.pt/ralis/jose-pedro-fontes-arrasa-demoporto-a-situacao-em-que-nos-puseram-aqui-e-vergonhosa-nao-dignifica-o-cpr/",
       "pubDate": "Sat, 24 Oct 2026 22:03:45 +0000",
       "description": "José Pedro Fontes classificou como “vergonhosa” a situação dos concorrentes do Campeonato de Portugal de Ralis na prova de Fafe, denunciando desigualdades na ordem de partida, nas condições do piso e na luz disponível.Depois de disputar a última especial já de noite, ao contrário de outros adversári",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rally 6 Cidades do Norte de Portugal: Araújo lidera CPR, duelo intenso pelo título",
-      "link": "https://www.autosport.pt/ralis/rally-6-cidades-do-norte-de-portugal-araujo-lidera-cpr-duelo-intenso-pelo-titulo/",
-      "pubDate": "Sat, 24 Oct 2026 19:27:19 +0000",
-      "description": "A dupla Armindo Araújo e Luís Ramalho, a bordo do seu Skoda Fabia RS Rally2, concluiu a primeira etapa do Rally 6 Cidades do Norte de Portugal na frente da prova reservada ao Campeonato de Portugal de Ralis. Este evento, penúltimo do CPR, viu a dupla assumir a liderança, à frente dos dois principais",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Q&A com Armindo Araújo: “A postura vai ter de ser atacar, não há outra hipótese para ganhar”",
-      "link": "https://www.autosport.pt/ralis/qa-com-armindo-araujo-a-postura-vai-ter-de-ser-atacar-nao-ha-outra-hipotese-para-ganhar/",
-      "pubDate": "Sat, 24 Oct 2026 19:26:55 +0000",
-      "description": "Armindo Araújo/Luís Ramalho (Skoda Fabia RS Rally2) recuperaram de uma manhã marcada por dificuldades de tração para terminar o dia na liderança entre os concorrentes do Campeonato de Portugal de Ralis e no sétimo lugar da classificação europeia. As alterações de afinação na assistência remota permi",
       "thumbnail": ""
     }
   ]
