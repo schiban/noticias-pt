@@ -1,254 +1,294 @@
 {
-  "updated": "2026-11-15T16:46:08.768696+00:00",
+  "updated": "2026-11-15T21:26:57.025723+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "16h. Ventura acusa Isaltino de querer travar o Chega",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2416/",
-      "pubDate": "Sun, 15 Nov 2026 16:11:19 +0000",
-      "description": "O presidente do Chega sobe a eventual criação do novo partido por parte do presidente da Câmara de Oeiras. Ainda, a ASAE confirma ter sido alvo de um ataque informático na última madrugada.",
+      "title": "Vídeo de macaco a salvar cão em cheias da Tailândia é real?",
+      "link": "https://observador.pt/factchecks/fact-check-video-de-macaco-a-salvar-um-cao-durante-as-cheias-na-tailandia-e-real/",
+      "pubDate": "Sun, 15 Nov 2026 21:23:10 +0000",
+      "description": "O vídeo tornou-se viral após as cheias de setembro na Tailândia. Mas a publicação original está sinalizada como IA e o verificador da Meta confirma-o.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 21h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1818/",
+      "pubDate": "Sun, 15 Nov 2026 21:10:16 +0000",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "6 jogos, 11 dias, 2 títulos: FC Porto ganha Taça Continental",
-      "link": "https://observador.pt/2026/11/15/seis-jogos-em-11-dias-100-vitorias-e-o-segundo-titulo-fc-porto-goleia-lleida-e-conquista-terceira-taca-continental/",
-      "pubDate": "Sun, 15 Nov 2026 16:10:17 +0000",
-      "description": "Após o triunfo nos penáltis frente ao Calafell, FC Porto \"atropelou\" o Lleida, que ganhou a última Taça WSE, e venceu a Taça Continental, naquele que foi o 12.º título internacional do clube (7-1).",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/10200716/47077586.jpg"
+      "title": "Trump recebeu Bolsonaro nos EUA após eleições brasileiras?",
+      "link": "https://observador.pt/factchecks/fact-check-donald-trump-recebeu-flavio-bolsonaro-nos-eua-apos-as-eleicoes-brasileiras/",
+      "pubDate": "Sun, 15 Nov 2026 20:57:18 +0000",
+      "description": "Fotografia publicada nas redes sociais mostra Trump a receber senador nos EUA após as eleições brasileiras. Imagem foi gerada por inteligência artificial e não corresponde a um encontro real.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Pedro Nuno marca posição à esquerda sem assumir um projeto",
-      "link": "https://observador.pt/especiais/cinco-entrevistas-videos-virais-e-estreia-na-tv-pedro-nuno-santos-marca-posicao-a-esquerda-sem-assumir-projeto-de-poder/",
-      "pubDate": "Sun, 15 Nov 2026 15:54:04 +0000",
-      "description": "O ex-líder do PS multiplicou-se em entrevistas e o Observador foi ouvir o que tem dito para perceber o que quer: vê um vazio à esquerda, mas não assume um projeto de poder e nem quer sair do PS.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25102322/dventura-25-abril-2026-20-scaled.jpg"
+      "title": "Trump pediu investigação a eleições no Brasil?",
+      "link": "https://observador.pt/factchecks/fact-check-trump-pediu-investigacao-aos-resultados-das-eleicoes-no-brasil/",
+      "pubDate": "Sun, 15 Nov 2026 20:42:27 +0000",
+      "description": "Publicações nas redes sociais e em portais brasileiros sugerem que Trump quer investigação a eleições que disse \"parecerem viciadas\". Mas o apelo não veio do Presidente dos EUA.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "\"Um plano para Portugal\": o anúncio de Pedro Santa Clara",
-      "link": "https://observador.pt/especiais/um-plano-para-portugal-o-anuncio/",
-      "pubDate": "Sun, 15 Nov 2026 15:53:40 +0000",
-      "description": "O Observador publica um excerto de \"A Última Janela\", o novo livro do economista, professor universitário e colunista Pedro Santa Clara, que propõe \"40 medidas\" para transformar o país.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/27101149/39727790.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Revolut afasta-se de compra do Banco CTT",
-      "link": "https://observador.pt/2026/11/15/revolut-afasta-se-de-compra-do-banco-ctt/",
-      "pubDate": "Sun, 15 Nov 2026 15:37:05 +0000",
-      "description": "A presidente executiva da Revolut para a Europa Ocidental afastou a possibilidade de aquisições da banca tradicional, como o Banco CTT, por considerar que choca com a plataforma única da 'fintech'.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/15094642/47671117.jpg"
+      "title": "Imagem mostra recolha de iPhones após ataque em Ormuz?",
+      "link": "https://observador.pt/factchecks/fact-check-imagem-mostra-pessoas-a-recolher-iphones-a-dar-a-costa-depois-de-navio-ter-sido-atacado-no-estreito-de-ormuz/",
+      "pubDate": "Sun, 15 Nov 2026 20:30:59 +0000",
+      "description": "Um navio afundou em outubro, no Estreito de Ormuz, e desde então que nas redes sociais circulam dezenas de imagens que mostram Iphones à deriva no mar. Serão verdadeiras?",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Estónia fechou fronteira com a Rússia após nova tentativa de sabotagem",
-      "link": "https://www.rtp.pt/noticias/mundo/estonia-fechou-fronteira-com-a-russia-apos-nova-tentativa-de-sabotagem_n1779337",
-      "pubDate": "Sun, 15 Nov 2026 16:42:45 +0000",
-      "description": "A Estónia anunciou vai fechar completamente a fronteira com a Rússia, após evitar, no último instante, uma tentativa de incendiar uma fábrica de drones — uma ação que, segundo o país, foi orquestrada pelo serviço de inteligência militar russo, o GRU.",
+      "title": "Presidenciais em Cabo Verde. José Maria Neves à frente na contagem dos votos",
+      "link": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-jose-maria-neves-a-frente-na-contagem-dos-votos_n1779376",
+      "pubDate": "Sun, 15 Nov 2026 21:24:47 +0000",
+      "description": "Com a maioria das mesas apuradas, José Maria Neves está à frente na contagem dos votos em Cabo Verde  e tudo indica vai voltar a vencer as eleições presidenciais deste domingo.",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Orçamento do Estado. Chega vai aprovar medidas do PS de descida de IVA",
-      "link": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-chega-vai-aprovar-medidas-do-ps-de-descida-de-iva_v1779340",
-      "pubDate": "Sun, 15 Nov 2026 16:34:47 +0000",
-      "description": "O Chega vai aprovar as medidas do PS para descer o IVA dos bens alimentares e o ISP.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cda4b881d8f689bcbc3c9bfbfc4ae9bf?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+      "title": "Médicos de Família em Bragança. Cobertura de 100% aos mais de 126 mil utentes da ULS Nordeste",
+      "link": "https://www.rtp.pt/noticias/pais/medicos-de-familia-em-braganca-cobertura-de-100-aos-mais-de-126-mil-utentes-da-uls-nordeste_v1779375",
+      "pubDate": "Sun, 15 Nov 2026 21:07:49 +0000",
+      "description": "Todos os utentes do distrito de Bragança já têm médico de família. A ULS do Nordeste é a primeira, do interior, com cobertura total.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/a5/a5f18bd9c15ead7db42a119f6655d4dc_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "16h Após a polémica com a acampada de Lisboa, já abriu o mercado de Natal no Rossio",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/16h-apos-a-polemica-com-a-acampada-de-lisboa-ja-abriu-o-mercado-de-natal-no-rossio_a1_1779339",
-      "pubDate": "Sun, 15 Nov 2026 16:31:02 +0000",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Medidas Tempestade. Luís Neves diz que Governo não tem medo de decidir",
+      "link": "https://www.rtp.pt/noticias/pais/medidas-tempestade-luis-neves-diz-que-governo-nao-tem-medo-de-decidir_v1779374",
+      "pubDate": "Sun, 15 Nov 2026 21:02:47 +0000",
+      "description": "Luís Neves diz que a prevenção da tempestade Charles foi um sinal de &quot;maturidade&quot;, e que o Governo não tem medo de decidir.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/c3/c372e89df3fbb87cfe7d318035228af4_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Zverev entra forte nas ATP Finals",
-      "link": "https://www.rtp.pt/noticias/tenis/zverev-entra-forte-nas-atp-finals_d1779336",
-      "pubDate": "Sun, 15 Nov 2026 15:47:08 +0000",
-      "description": "O alemão Alexander Zverev, líder do ranking mundial, estreou-se hoje da melhor forma nas ATP Finals, depois de vencer, com uma exibição muito eficaz, o espanhol Rafael Jódar, em dois sets.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a46891c672a7716a902325a23aa37450?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Plano de Emergência para a Saúde. IGAS iliba Eurico Castro Alves e considera pagamentos legais",
+      "link": "https://www.rtp.pt/noticias/pais/plano-de-emergencia-para-a-saude-igas-iliba-eurico-castro-alves-e-considera-pagamentos-legais_v1779373",
+      "pubDate": "Sun, 15 Nov 2026 20:59:47 +0000",
+      "description": "A Inspeção-Geral das Atividades em Saúde recuou e deu luz verde ao pagamento de 179 mil euros a Eurico Castro Alves, coordenador do Plano de Emergência para a Saúde.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/images/6f/6f4fc48fcd9583a48611a55d23ac9278_N.jpg?"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Eleições Cabo Verde. Candidatos apelam ao voto e à redução da abstenção",
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-cabo-verde-candidatos-apelam-ao-voto-e-a-reducao-da-abstencao_n1779327",
-      "pubDate": "Sun, 15 Nov 2026 15:41:43 +0000",
-      "description": "Os quatro candidatos à Presidência de Cabo Verde sem apoio dos dois principais partidos apelaram hoje à participação dos eleitores nas eleições, defendendo a necessidade de reduzir a abstenção, após votarem em diferentes ilhas.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7fb97740c3d1cf817858bf765f59baa0?w=350&amp;q=50&amp;rect=0,26,1024,561&amp;auto=format"
+      "title": "Movimento Acampada de Lisboa pretende ficar nos Restauradores até ao fim da semana",
+      "link": "https://www.rtp.pt/noticias/economia/movimento-acampada-de-lisboa-pretende-ficar-nos-restauradores-ate-ao-fim-da-semana_e1779157",
+      "pubDate": "Sun, 15 Nov 2026 20:37:27 +0000",
+      "description": "Por todo o país, milhares de pessoas saíram às ruas numa manifestação pelo direito à habitação no sábado. O protesto prolongou-se pelo fim de semana, em Lisboa, com os manifestantes a voltar a montar tendas na capital. Acompanhamos aqui o protesto.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0ba3c742e7241becc8bc8aa68334921b?w=350&amp;q=50&amp;rect=0,101,1024,561&amp;auto=format"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Energias renováveis fazem Portugal subir no ranking dos países com melhor desempenho climático",
-      "link": "https://jornaleconomico.sapo.pt/noticias/portugal-sobe-no-ranking-dos-paises-com-melhor-desempenho-climatico/",
-      "pubDate": "Sun, 15 Nov 2026 16:22:37 +0000",
-      "description": "A ministra do Ambiente e Energia, Maria da Graça Carvalho diz que estes resultados \"mostram que Portugal está no caminho certo e reforçam a nossa determinação em acelerar a transição energética\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3A5zsB0Rpfb8%2FLkRak03XcLuCx8aJH40rn%2BZm9oR6uUjtjT6OerT5kdobZYoG%2FhP1276VQkWmTRc5VWGAGi2%2F%2BYzZagzhD32%2BQthRzEtaRZGH3%2BmflJ%2BqwhS6JPSmgBRom"
+      "title": "Habitação? \"A três dias do Orçamento do Estado ninguém sabe o que é que pode caber\", acusa Ventura",
+      "link": "https://sapo.pt/artigo/habitacao-a-tres-dias-do-orcamento-do-estado-ninguem-sabe-o-que-e-que-pode-caber-acusa-ventura-6af9f5cd56a09239b4123480",
+      "pubDate": "Sun, 15 Nov 2026 19:03:46 +0000",
+      "description": "André Ventura acusou, este domingo, o Governo de Luís Montenegro de falta de diálogo sobre o Orçamento do Estado (OE) para 2027.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ai8jT9wFZhDfAKRn0GcnSMbWPlsbutpByPAymJ1STE20gnH2zBEixem%2Flf8O7sPOnThHqkuFbkMygrPHByD1iaLhbhF41VAOrrO1lXOudtokoq69H9sVIbP0FXdczV379"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Salário médio em Portugal chega aos 1.696 euros. Mas quanto aumentou realmente o poder de compra?",
-      "link": "https://24noticias.sapo.pt/atualidade/artigos/salario-medio-em-portugal-chega-aos-1-696-euros-mas-quanto-aumentou-realmente-o-poder-de-compra",
-      "pubDate": "Sun, 15 Nov 2026 10:10:06 +0000",
-      "description": "A remuneração bruta mensal média em Portugal atingiu os 1.696 euros no terceiro trimestre de 2026, uma subida de 4,9% face ao mesmo período do ano anterior.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AO1AmezyU%2FOXB4M4DKixiIjhkG60Ne5AQvvg6eQaKs%2FlDZFr6qF3YyNPoPFaJ2XLSy8YJx0%2B5haFymUKqVN9y%2BzoogMRXxkrvy8LDuDvdFUKhhJ0X2rOMw2Raq6tcZx8t"
+      "title": "Estónia fecha fronteira com a Rússia a partir de 1 de dezembro",
+      "link": "https://sapo.pt/artigo/estonia-fecha-fronteira-com-a-russia-a-partir-de-1-de-dezembro-6af9d18456a09239b40d0e6f",
+      "pubDate": "Sun, 15 Nov 2026 17:10:06 +0000",
+      "description": "Governo estónio acusa Rússia de sabotar empresa de defesa estónia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AV%2BfY2wDuKwHuVJ6q%2FtX5wBOe6cJRQNGW2le1OYqT%2BHiv%2BydQt4AvfivnTo32hGeO4dyTy1aIOstZTGkZyzQzPVF5lZ6%2BZc3Paqxp7ZAbj%2F6LoX%2FePn75LmjBiDaWbKAN"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "“Hacked by José Sócrates”: ataque informático deixa site da ASAE inacessível",
-      "link": "https://executivedigest.sapo.pt/hacked-by-jose-socrates-ataque-informatico-deixa-site-da-asae-inacessivel/",
-      "pubDate": "Sun, 15 Nov 2026 15:15:04 +0000",
-      "description": "O incidente surge depois de outros ataques a páginas da PSP e do Instituto da Habitação e da Reabilitação Urbana.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=375&W=666&crop=center&delay_optim=1&epic=V2%3AGH1cUNdLEhMylpR%2FeOoGpk478e892XKpesrFT7wKl18rMYwcBiPbLiE2ge%2Fa%2FU287lsDVqhajvu4gNqMQeUCxuJRZLDhNaON957mZF05AHDd93sKhVfGcPc6QO2GQ9E1"
+      "title": "Dois petroleiros afundam-se no estreito de Ormuz após colisão com minas navais",
+      "link": "https://sapo.pt/artigo/dois-petroleiros-afundam-se-no-estreito-de-ormuz-apos-colisao-com-minas-navais-6afa03cddc9ea92269a9ee6c",
+      "pubDate": "Sun, 15 Nov 2026 20:22:08 +0000",
+      "description": "O Irão restringiu a passagem pelo estreito de Ormuz em retaliação aos ataques norte-americanos e israelitas ao seu território.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=665&W=1182&crop=center&delay_optim=1&epic=V2%3AjpPQb1cgMe82XcBss%2Fk0Ybm0YZNlyYUr5uYiZzFkJrHnU9MqvWNe6VNKLf1i3El35pHzMQcUDJhvDshCeuQhquoECuS%2BRaPPrKSmiEY2kWWuzY1XcTxgGZCMOEG907cq"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Grécia pode subir a idade da reforma para os 68 anos já em 2030",
-      "link": "https://sapo.pt/artigo/grecia-pode-subir-a-idade-da-reforma-para-os-68-anos-ja-em-2030-6af9d1cafaafdbf5ce7da03d",
-      "pubDate": "Sun, 15 Nov 2026 16:21:03 +0000",
-      "description": "Próxima revisão da idade da reforma acontece em 2027, sendo aplicada três anos depois. Gregos poderão ter de esperar mais um ano para se reformar",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AmOqdaJYJhhnhSNQDw%2F4DIBIvvBd2aR6tVTa%2BpUsbuyAwrjIEa6gDiEzeX2A8vJFe4rT7sQIyfupceSEU3PEVsmZFtcG%2BxMU8DU%2FV2Tk9zCJavSk6z%2Blk22Pou0%2BEFnMS"
+      "title": "BBC conta história de família portuguesa que adiou regresso ao país após nascimento prematuro da filha",
+      "link": "https://24noticias.sapo.pt/atualidade/artigos/bbc-conta-historia-de-familia-portuguesa-que-adiou-regresso-ao-pais-apos-nascimento-prematuro-da-filha",
+      "pubDate": "Sun, 15 Nov 2026 17:10:06 +0000",
+      "description": "Depois de 13 anos a viver no Reino Unido, Mafalda e Duarte preparavam o regresso a Portugal quando o nascimento prematuro da filha mudou os planos. Matilde nasceu às 29 semanas de gestação e passou 61 dias internada numa unidade neonatal. A...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AqXaZ7sH5fLFtU9t0kP4Ah6gdTg49iY8xBN83cT5ZMsoqsEIa6WZrUiu5wWQ73wHVgPz2y5h6w3CC5a1dk%2Bp44WmBA2NOvgG08p7vBYfppP1g%2BM7K0BtfFgO6x6xNl1r4"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Brasil. Os 12 trabalhos de Lula até à posse",
-      "link": "https://sapo.pt/artigo/brasil-os-12-trabalhos-de-lula-ate-a-posse-6af9cb3ddc9ea922699ba96a",
-      "pubDate": "Sun, 15 Nov 2026 16:26:49 +0000",
-      "description": "Presidente reeleito tem de definir número de ministérios e quais os ministros, determinar prioridades a apresentar a um Congresso hostil e sugerir nome juiz do Supremo antes de 5 de janeiro.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3ARVjQPDVkqtvrQwjRo7%2BUSy4cLk0g1iiPCbixlGQz5LzKp5RyPP6C0psOuiVaVAPBxv9Llkl9FHRm0b%2FsYdmm42uewm4OsKOcaDHc1SFt9mSkq6wggIo%2Bwdz59nRolg7A"
+      "title": "Jorge Jesus promete resposta à humilhação frente à Dinamarca",
+      "link": "https://sapo.pt/artigo/jorge-jesus-promete-resposta-a-humilhacao-frente-a-dinamarca-6afa1290dc9ea92269abf4a3",
+      "pubDate": "Sun, 15 Nov 2026 20:22:08 +0000",
+      "description": "Publicação do treinador nas redes sociais após a hecatombe em Braga",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=540&W=960&crop=center&delay_optim=1&epic=V2%3AoEva0GwZcFJBM1IyonkyRx9cTflcKhXXo7921%2BZfjg6%2BmsFe5vdbPXUUf%2BGyY0%2FQLKCMEwYr1XgnMd5wkacBg3vLm73uva0otspfaU%2B1n6fZZwnZqYip5%2Fo9yWpxBHTk"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Defesa Civil de Gaza recupera 70 corpos dos escombros",
-      "link": "https://www.noticiasaominuto.com/mundo/3084486/medio-oriente-defesa-civil-de-gaza-recupera-70-corpos-dos-escombros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 16:21:20",
+      "title": "Acampadas. Nuno Melo acusa \"turba de radicalistas\" de \"atacar democracia\"",
+      "link": "https://www.noticiasaominuto.com/politica/3084530/nuno-melo-acusa-turba-de-radicalistas-de-atacar-a-democracia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-15 21:18:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af9dc05b94bb.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa1d1747f4e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzI2LCJjcm9wSGVpZ2h0Ijo5NzEsImNyb3BYIjo3OTYsImNyb3BZIjoxMjV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMywiY3JvcEhlaWdodCI6MTY0MCwiY3JvcFgiOjE1NTIsImNyb3BZIjoyMH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Terceiro dia de buscas por idoso desaparecido em Gondomar",
-      "link": "https://www.noticiasaominuto.com/pais/3084481/terceiro-dia-de-buscas-por-idoso-desaparecido-em-gondomar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 16:11:11",
+      "title": "Gaggan. É dos melhores restaurantes do mundo e proíbe telemóveis à mesa",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3083306/gaggan-e-dos-melhores-restaurantes-do-mundo-e-proibe-telemoveis-a-mesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-15 21:00:46",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af9d94830871.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDE1LCJjcm9wSGVpZ2h0Ijo1NzEsImNyb3BYIjo0MSwiY3JvcFkiOjM3MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjQwLCJjcm9wWSI6MjE1fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af6057c6fa5c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODA0LCJjcm9wSGVpZ2h0IjoxMDE1LCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1NjgsImNyb3BIZWlnaHQiOjEwMTAsImNyb3BYIjoyMDcsImNyb3BZIjo1fX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Governo e Coreia do Sul reforçam cooperação marítima e pescas",
-      "link": "https://www.noticiasaominuto.com/pais/3084484/governo-e-coreia-do-sul-reforcam-cooperacao-maritima-e-pescas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 16:09:37",
+      "title": "Leixões vence Chaves por 2-0 e volta a vencer na II Liga",
+      "link": "https://www.noticiasaominuto.com/desporto/3084527/leixoes-vence-chaves-por-2-0-e-volta-a-vencer-na-ii-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-15 20:54:19",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af9d95c94e55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDAwLCJjcm9wSGVpZ2h0IjoxMzUwLCJjcm9wWCI6NzAsImNyb3BZIjozMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTAwLCJjcm9wSGVpZ2h0IjoxNjAwLCJjcm9wWCI6MTAwOCwiY3JvcFkiOjI0fX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa1b92a3c0e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoxNywiY3JvcFkiOjE2M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzQyLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjozNjEsImNyb3BZIjoxNDN9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "FC Porto goleia CE Leida e conquista Taça Intercontinental de hóquei",
-      "link": "https://www.noticiasaominuto.com/desporto/3084485/fc-porto-goleia-ce-leida-e-conquista-taca-continental-de-hoquei-em-patins#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 16:06:23",
+      "title": "Jesus sob pressão após adeus de CR7 e derrota: \"Vamos ver quanto tempo…\"",
+      "link": "https://www.noticiasaominuto.com/desporto/3084526/jesus-sob-pressao-apos-adeus-de-cr7-e-derrota-vamos-ver-quanto-tempo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-15 20:47:23",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af9d9dbd2a8f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUwMiwiY3JvcEhlaWdodCI6ODkzLCJjcm9wWCI6MzM3LCJjcm9wWSI6MTM4fSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MTA0NSwiY3JvcEhlaWdodCI6NTg4LCJjcm9wWCI6MTgsImNyb3BZIjoyMzJ9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa1a4bb9b75.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Piers Morgan ironiza após derrota de Portugal: \"A levar tareias...\"",
-      "link": "https://www.noticiasaominuto.com/desporto/3084482/piers-morgan-ironiza-apos-derrota-de-portugal-a-levar-tareias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 16:04:46",
+      "title": "Zelensky diz que reunião pode definir posição europeia nas negociações",
+      "link": "https://www.noticiasaominuto.com/mundo/3084528/zelensky-diz-que-reuniao-define-posicao-europeia-nas-negociacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-15 20:36:33",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_671ff24b01ddf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDYzLCJjcm9wSGVpZ2h0Ijo4MjMsImNyb3BYIjoyNiwiY3JvcFkiOjIzfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa17f13321a.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Eclipse do século: Sol vai desaparecer durante mais de seis minutos em pleno dia",
-      "link": "https://pplware.sapo.pt/ciencia/eclipse-solar-2027-portugal-sol-desaparece/",
-      "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
-      "description": "No dia 2 de agosto de 2027, a Terra será palco de um dos acontecimentos astronómicos mais impressionantes das próximas décadas. Um eclipse solar total fará desaparecer completamente o Sol durante mais de seis minutos em algumas regiões do planeta. O fenómeno também será visível em Portugal, embora d",
+      "title": "Prozis Kore 2.0: um equipamento 3 em 1 para treinar os abdominais e fazer flexões em casa",
+      "link": "https://pplware.sapo.pt/informacao/prozis-kore-2-0-um-equipamento-3-em-1-para-treinar-os-abdominais-e-fazer-flexoes-em-casa/",
+      "pubDate": "Sun, 15 Nov 2026 20:30:00 +0000",
+      "description": "Manter uma rotina de exercício físico nem sempre exige um ginásio ou equipamentos volumosos. Existem acessórios compactos que permitem trabalhar diferentes grupos musculares em casa, ocupando pouco espaço. É esse o conceito do Kore 2.0 da Prozis, um equipamento multifunções que combina três funciona",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Pplware Classics…",
-      "link": "https://pplware.sapo.pt/multimedia-2/musica/pplware-classics-776/",
-      "pubDate": "Sun, 15 Nov 2026 15:00:00 +0000",
-      "description": "Porque recordar é viver, o Pplware traz aos seus leitores a sua habitual rubrica semanal de música. Apresentamos as músicas que marcaram a nossa juventude ou o nosso passado recente e que ainda ouvimos por serem marcos na nossa vida. Descubra a pérola do passado que escolhemos para hoje e conheça ta",
+      "title": "Subsídio de refeição em cartão: limite de isenção de IRS sobe em 2027",
+      "link": "https://pplware.sapo.pt/informacao/subsidio-de-refeicao-em-cartao-limite-de-isencao-de-irs-sobe-em-2027/",
+      "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
+      "description": "Os trabalhadores que recebem o subsídio de refeição através de cartão ou vale vão beneficiar de um aumento do limite diário de isenção de IRS a partir de 1 de janeiro de 2027. A atualização deverá abranger cerca de 2,4 milhões de trabalhadores em Portugal. A medida acompanha o aumento de 15 cêntimos",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Instalou a atualização de novembro no Windows 11? Pode ficar sem imprimir no Word",
-      "link": "https://pplware.sapo.pt/microsoft/windows/instalou-a-atualizacao-de-novembro-no-windows-11-pode-ficar-sem-imprimir-no-word/",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
-      "description": "A Microsoft voltou a complicar uma tarefa básica. As atualizações de segurança de novembro de 2026, lançadas na Patch Tuesday, impedem a impressão de determinados documentos no Windows 10, Windows 11 e Windows Server a partir da versão 2016. A empresa já confirmou a falha num alerta de serviço, mas ",
+      "title": "Worms Galactic Tactics: a guerra dos vermes chega ao Espaço",
+      "link": "https://pplware.sapo.pt/jogos/worms-galactic-tactics-a-guerra-dos-vermes-chega-ao-espaco/",
+      "pubDate": "Sun, 15 Nov 2026 19:00:52 +0000",
+      "description": "A Team17 revelou novos detalhes sobre Worms Galactic Tactics, o próximo capítulo da icónica saga Worms, através de um vídeo que apresenta a jogabilidade e os principais conceitos deste título previsto para 2027. Nova fórmula para a série Worms Em Worms Galactic Tactics, os jogadores comandam um esqu",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "ASAE alvo de ataque informático. Hackers deixam mensagem com nome de José Sócrates",
-      "link": "https://pplware.sapo.pt/informacao/asae-ataque-informatico-jose-socrates/",
-      "pubDate": "Sun, 15 Nov 2026 13:04:38 +0000",
-      "description": "A Autoridade de Segurança Alimentar e Económica (ASAE) terá sido alvo de um ataque informático que chamou a atenção por uma mensagem invulgar: &#8220;Hacked by José Sócrates&#8221;. O incidente levanta questões sobre a segurança dos sistemas digitais de entidades públicas portuguesas. Hackers utiliz",
+      "title": "Como evitar que os vidros do carro embaciem nos dias frios? Conheça algumas dicas",
+      "link": "https://pplware.sapo.pt/motores/como-evitar-que-os-vidros-do-carro-embaciem-nos-dias-frios-conheca-algumas-dicas/",
+      "pubDate": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "description": "Com a chegada dos dias frios e húmidos, é habitual encontrar os vidros do carro embaciados, sobretudo durante as primeiras horas da manhã. Além de dificultar a visibilidade, esta situação pode comprometer a segurança rodoviária. Felizmente, existem alguns truques simples que ajudam a evitar o proble",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Tesla acelera na Europa: Finlândia aprova condução assistida antes da votação decisiva",
-      "link": "https://pplware.sapo.pt/motores/tesla-acelera-na-europa-finlandia-aprova-conducao-assistida-antes-da-votacao-decisiva-de-bruxelas/",
-      "pubDate": "Sun, 15 Nov 2026 13:00:00 +0000",
-      "description": "A Finlândia autorizou o sistema de apoio à condução da Tesla nas suas estradas. A agência finlandesa de transportes Traficom validou a homologação provisória emitida pela autoridade neerlandesa RDW, permitindo que a funcionalidade arranque de imediato no país nórdico. Com esta decisão, o território ",
+      "title": "Revolut afasta compra do Banco CTT e explica porquê",
+      "link": "https://pplware.sapo.pt/internet/revolut-afasta-compra-do-banco-ctt-e-explica-porque/",
+      "pubDate": "Sun, 15 Nov 2026 17:00:00 +0000",
+      "description": "A Revolut não está interessada em comprar o Banco CTT. A fintech britânica afastou a possibilidade de adquirir a instituição financeira portuguesa, considerando que uma operação deste género não traria vantagens para o seu modelo de negócio. A posição foi transmitida por Béatrice Cossa-Dumurgier, pr",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC 2027: pilotos e equipas divididos sobre a proximidade dos Rally2",
+      "link": "https://www.autosport.pt/destaque-homepage/wrc-2027-pilotos-e-equipas-divididos-sobre-a-proximidade-dos-rally2/",
+      "pubDate": "Sun, 15 Nov 2026 20:24:41 +0000",
+      "description": "Richard Millener partilha a preocupação de Oliver Solberg relativamente à acentuada aproximação de desempenho entre os atuais Rally2, os novos Rally2 Kit WRC e os Rally1. Contudo, entre os vários intervenientes do meio, não existe consenso sobre a real dimensão do problema, muito menos sobre as solu",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rui Madeira vence o Rally Series Fafe por 0.6s e Pedro Silva é vence 2RM 2026",
+      "link": "https://www.autosport.pt/ralis/rui-madeira-vence-o-rally-series-fafe-por-0-6s-e-pedro-silva-e-vence-2rm-2026/",
+      "pubDate": "Sun, 15 Nov 2026 19:39:23 +0000",
+      "description": "Rui Madeira e Paula Madeira venceram a ronda de Fafe do Castrol Portugal Rally Series por apenas 0,6 segundos sobre Adruzilo Lopes e Vitor Hugo. A decisão só se conheceu na última passagem pela Arena Monster Energy, no domingo, dia em que terminou a temporada de 2026. Pedro Silva, com Ricardo Moura,",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Filipe Albuquerque e Félix da Costa dominam Caterham Festival no Circuito do Estoril",
+      "link": "https://www.autosport.pt/velocidade/filipe-albuquerque-e-felix-da-costa-dominam-caterham-festival-no-circuito-do-estoril/",
+      "pubDate": "Sun, 15 Nov 2026 19:21:17 +0000",
+      "description": "Filipe Albuquerque e António Félix da Costa estiveram em grande destaque no Caterham Festival, evento que decorreu este fim de semana no Circuito do Estoril. A pilotar o Caterham 420R, partilharam o carro, conquistando a pole position e vencendo as duas corridas em que participaram. Embora a sua par",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Mitsubishi Pajero: 5500 em menos de um mês",
+      "link": "https://www.autosport.pt/automais/mitsubishi-pajero-5500-em-menos-de-um-mes/",
+      "pubDate": "Sun, 15 Nov 2026 17:45:00 +0000",
+      "description": "Por João Isaac A Mitsubishi anunciou que o novo Pajero acumulou cerca de 5500 pré-encomendas no Japão entre 1 e 28 de outubro, ultrapassando o objetivo de 4000 unidades estabelecido pela marca japonesa para o ano fiscal de 2026/27, que termina apenas em março do próximo ano. O Sport Utility Vehicle ",
       "thumbnail": ""
     },
     {
@@ -259,46 +299,6 @@
       "link": "https://www.autosport.pt/todooterreno/luis-cidade-vence-baja-tt-de-castelo-branco-e-tem-a-porta-aberta-para-o-titulo-do-cptt/",
       "pubDate": "Sun, 15 Nov 2026 14:31:16 +0000",
       "description": "Luís Cidade &#8211; Valter Cardoso (Can-Am Maverick R) venceram a Baja TT de Castelo Branco, sexta prova do Campeonato de Portugal de Todo-o-terreno, o que aliado ao abandono de Gonçalo Guerreiro &#8211; Joel Lutas (Polaris RZR Pro R) deixa uma porta quase toda aberta para a conquista do que poderá ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Jaspar Vaher: o próximo Tanak no WRC?",
-      "link": "https://www.autosport.pt/ralis/jaspar-vaher-o-proximo-tanak-no-wrc/",
-      "pubDate": "Sun, 15 Nov 2026 13:21:21 +0000",
-      "description": "O talento de Jaspar Vaher e a visão da Toyota Gazoo Racing O jovem estónio Jaspar Vaher tem dado que falar. No início deste ano, no Rali Terras d’Aboboreira, demonstrou o seu potencial ao vencer a maioria das classificativas à geral. Contudo, um engano de percurso numa ligação resultou numa penaliza",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Rui Madeira lidera no Rally Series de Fafe após manhã competitiva",
-      "link": "https://www.autosport.pt/ralis/rui-madeira-lidera-no-rally-series-de-fafe-apos-manha-competitiva/",
-      "pubDate": "Sun, 15 Nov 2026 13:00:00 +0000",
-      "description": "Rui Madeira e a navegadora Paula Madeira &#8211; sua esposa &#8211; fecharam a manhã da sexta ronda do Castrol Portugal Rally Series, em Fafe, na liderança da prova, após quatro especiais marcadas por condições meteorológicas variáveis e quatro vencedores diferentes. Na primeira classificativa, disp",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "C. Açores de Ralis: Pedro Câmara estreia-se nas vitórias absolutas em Angra",
-      "link": "https://www.autosport.pt/ralis/c-acores-de-ralis-pedro-camara-estreia-se-nas-vitorias-absolutas-em-angra/",
-      "pubDate": "Sun, 15 Nov 2026 12:30:33 +0000",
-      "description": "Pedro Câmara conquistou a sua primeira vitória absoluta no Rali d’Angra, organização do Terceira Automóvel Clube em asfalto que fechou mais um Campeonato dos Açores de Ralis.A prova sediada em Angra do Heroísmo juntou uma lista com 49 inscritos em que se destacava o regresso de um concorrente com um",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "Baja TT de Castelo Branco/SS2: um desenrolar inesperado",
-      "link": "https://www.autosport.pt/todooterreno/baja-tt-de-castelo-branco-ss2-um-desenrolar-inesperado/",
-      "pubDate": "Sun, 15 Nov 2026 12:21:53 +0000",
-      "description": "A Baja TT de Castelo Branco foi palco de acontecimentos inesperados e reviravoltas na classificação. Gonçalo Guerreiro e Joel Lutas (Polaris RZR Pro R) não partiram para o derradeiro Setor Seletivo da prova. Além disso, antes do quilómetro 50, do decisivo SS2, Mário Franco, que era o líder da prova,",
       "thumbnail": ""
     }
   ]
