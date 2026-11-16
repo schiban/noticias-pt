@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-16T01:17:28.663166+00:00",
+  "updated": "2026-11-16T08:16:01.920538+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "As notícias da 1h",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2447/",
-      "pubDate": "Mon, 16 Nov 2026 01:15:17 +0000",
+      "title": "As notícias das 8h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2579/",
+      "pubDate": "Mon, 16 Nov 2026 08:13:00 +0000",
       "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
@@ -15,91 +15,101 @@
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "O Alien na rua",
-      "link": "https://observador.pt/opiniao/o-alien-na-rua/",
-      "pubDate": "Mon, 16 Nov 2026 00:24:57 +0000",
-      "description": "Fizemos contacto com outro tipo de inteligência. Quase toda a gente disse olá e seguiu caminho",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A502%3A502%3Anowe%3A2%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F11%2F15230336%2Fhl-psc.jpg"
+      "title": "O cenário de eleições antecipadas já anda no ar?",
+      "link": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/o-cenario-de-eleicoes-antecipadas-ja-anda-no-ar/",
+      "pubDate": "Mon, 16 Nov 2026 08:04:57 +0000",
+      "description": "Entre a falta de casas que os partidos não resolvem e os protestos de tendas nos Restauradores, crescem os avisos de Passos Coelho e Santos Silva sobre um possível cenário de eleições antecipadas.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/14100301/770-podcast-ainda-bem-que-faz-essa-pergunta-com-bruno-vieira-amaral.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "João Pedro George, o ilusionista vingativo",
-      "link": "https://observador.pt/opiniao/joao-pedro-george-o-ilusionista-vingativo/",
-      "pubDate": "Mon, 16 Nov 2026 00:23:05 +0000",
-      "description": "Sobre o trabalho que João Pedro George fez sobre mim e sobre os meus livros.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2665%3A2665%3Anowe%3A0%3A367%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170548%2Fjoao-pedro-marques.jpg"
+      "title": "\"A Europa tem de manter o apoio financeiro e negociar a paz\"",
+      "link": "https://observador.pt/programas/gabinete-de-guerra/a-europa-tem-de-manter-o-apoio-financeiro-e-negociar-a-paz/",
+      "pubDate": "Mon, 16 Nov 2026 08:02:58 +0000",
+      "description": "Miguel Baumgartner, especialista em relações internacionais, defende que a Europa deve manter o apoio financeiro à Ucrânia, mas tem de se sentar à mesa das negociações para discutir o processo de paz.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Sobre direitos e sacrifício",
-      "link": "https://observador.pt/opiniao/sobre-direitos-e-sacrificio/",
-      "pubDate": "Mon, 16 Nov 2026 00:21:28 +0000",
-      "description": "Como é que uma sociedade que exclui do seu vocabulário, da sua narrativa e dos seus valores a capacidade de sacrifício pode gerar cidadãos saudáveis? Claramente não pode.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
+      "title": "Washington vai prolongar apoio à missão logística na Somália",
+      "link": "https://observador.pt/2026/11/16/washington-vai-prolongar-por-um-ano-apoio-a-missao-logistica-da-onu-na-somalia/",
+      "pubDate": "Mon, 16 Nov 2026 07:42:33 +0000",
+      "description": "Somália combate há cerca de 20 anos o grupo armado Al-Shabaab, que conseguiu recuperar, numa nova ofensiva, grande parte dos territórios conquistados pelas forças armadas somalis entre 2022 e 2023.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/16043137/44777946.jpg"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "OE: A louca e irracional maratona parlamentar",
-      "link": "https://observador.pt/opiniao/oe-a-louca-e-irracional-maratona-parlamentar/",
-      "pubDate": "Mon, 16 Nov 2026 00:16:30 +0000",
-      "description": "É urgente repensar o processo legislativo de apreciação do Orçamento do Estado, diminuir o número de “cavaleiros orçamentais” admitidos, e aumentar a responsabilidade dos grupos parlamentares.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2660%3A2660%3Anowe%3A0%3A443%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170557%2Fpaulo-trigo-pereira.jpg"
+      "title": "Polícia apreende embarcação de alta velocidade no Tejo",
+      "link": "https://observador.pt/2026/11/16/policia-maritima-apreende-embarcacao-de-alta-velocidade-no-tejo-por-suspeitas-de-ligacao-ao-narcotrafico/",
+      "pubDate": "Mon, 16 Nov 2026 07:40:21 +0000",
+      "description": "Durante a ação policial, a embarcação \"colocou-se em fuga\" quando se apercebeu da presença dos meios do comando, acabando por encalhar. Foram encontrados 20 jerricãs com 600 litros de combustível.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/07/04175914/43162012.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Shelton começa ATP Finals a ganhar",
-      "link": "https://www.rtp.pt/noticias/tenis/shelton-comeca-atp-finals-a-ganhar_d1779397",
-      "pubDate": "Sun, 15 Nov 2026 23:32:47 +0000",
-      "description": "O norte-americano Ben Shelton venceu o estreante francês Arthur Fils, por 6-2, 3-6 e 6-3, no primeiro encontro da fase de grupos das ATP Finals, a decorrer em Turim, em Itália.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/49/4934f8d7777c5645e1d7e2a440b13f47?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Leão XIV contra a desflorestação amazónica e consequente abandono das comunidades indígenas",
+      "link": "https://www.rtp.pt/noticias/mundo/leao-xiv-contra-a-desflorestacao-amazonica-e-consequente-abandono-das-comunidades-indigenas_n1779444",
+      "pubDate": "Mon, 16 Nov 2026 08:13:38 +0000",
+      "description": "O papa esteve ontem ao fim do dia em Pucallpa - no coração da Amazónia peruana - onde denunciou as ameaças à floresta tropical e o abandono das comunidades indígenas. Leão XIV apela à defesa da criação e dos mais vulneráveis.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/03/03b4c12b49b05283c3bf3d99c59f4203?w=350&amp;q=50&amp;rect=0,115,1024,561&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Sporting nas meias-finais da Taça Intercontinental de futsal",
-      "link": "https://www.rtp.pt/noticias/futsal/sporting-nas-meias-finais-da-taca-intercontinental-de-futsal_d1779396",
-      "pubDate": "Sun, 15 Nov 2026 23:29:01 +0000",
-      "description": "O Sporting goleou por 8-2 o BTS, da Indonésia, na estreia na Taça Intercontinental de Clubes de futsal, a decorrer em Pato Branco, no Brasil, e garantiu já a passagem às meias-finais.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a4cf0ce3004e34871bb5efe14b27fe2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "A verdade também pode enganar",
+      "link": "https://www.rtp.pt/noticias/opiniao/felisbela-lopes/a-verdade-tambem-pode-enganar_1779443",
+      "pubDate": "Mon, 16 Nov 2026 08:12:19 +0000",
+      "description": "",
+      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Inglaterra põe fim à invencibilidade espanhola",
-      "link": "https://www.rtp.pt/noticias/ligadasnacoes/inglaterra-poe-fim-a-invencibilidade-espanhola_d1779395",
-      "pubDate": "Sun, 15 Nov 2026 23:25:55 +0000",
-      "description": "França e Bélgica rumaram aos quartos de final da Liga das Nações, após Portugal, Espanha e Inglaterra, numa sexta e última jornada da fase principal em que os britânicos travaram o recorde mundial de invencibilidade espanhol.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7ddfaa380bad6e6e7636164bda47decc?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Resistência ao fim dos combustíveis fósseis é a pedra na engrenagem na COP 31",
+      "link": "https://www.rtp.pt/noticias/mundo/resistencia-ao-fim-dos-combustiveis-fosseis-e-a-pedra-na-engrenagem-na-cop-31_n1779438",
+      "pubDate": "Mon, 16 Nov 2026 08:01:34 +0000",
+      "description": "A Conferencia do Clima das Nações Unidas, na Turquia entra hoje na semana decisiva. Uma conferência onde negociadores tentam ultrapassar as principais divergências que bloqueiam um acordo final.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b60d5af4697ee10d67c29f7e3194880?w=350&amp;q=50&amp;rect=0,376,4978,2729&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Andreeva conquista WTA Finals",
-      "link": "https://www.rtp.pt/noticias/tenis/andreeva-conquista-wta-finals_d1779393",
-      "pubDate": "Sun, 15 Nov 2026 23:21:23 +0000",
-      "description": "A russa Mirra Andreeva derrotou Elina Svitolina por 7-5 e 6-3, e assegurou a vitória nas WTA Finals logo na sua primeira participação.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f3fb2758cf9cb5a62383e4fea7d300f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Reeleição de José Maria Neves marcada pela abstenção",
+      "link": "https://www.rtp.pt/noticias/mundo/reeleicao-de-jose-maria-neves-marcada-pela-abstencao_n1779433",
+      "pubDate": "Mon, 16 Nov 2026 07:49:39 +0000",
+      "description": "José Maria Neves foi reeleito Presidente de Cabo Verde com mais de 63 por cento dos votos.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5dba3e2718966d668ef5cb1740edf11?w=350&amp;q=50&amp;rect=0,85,1500,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Cabo Verde. Joana Rosa reconhece derrota eleitoral",
-      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-joana-rosa-reconhece-derrota-eleitoral_n1779388",
-      "pubDate": "Sun, 15 Nov 2026 22:42:41 +0000",
-      "description": "Joana Rosa, primeira mulher candidata à Presidência de Cabo Verde, reconheceu a derrota nas eleições de hoje em que José Maria Neves deverá ser reeleito à primeira volta.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a949911e421168469b50c2449ce21443?w=350&amp;q=50&amp;rect=0,25,1024,561&amp;auto=format"
+      "title": "Líder japonesa destaca cooperação energética com ASEAN antes de cimeira em Manila",
+      "link": "https://www.rtp.pt/noticias/economia/lider-japonesa-destaca-cooperacao-energetica-com-asean-antes-de-cimeira-em-manila_n1779430",
+      "pubDate": "Mon, 16 Nov 2026 07:36:25 +0000",
+      "description": "A primeira-ministra japonesa destacou hoje o compromisso nipónico com a &quot;resiliência económica e energética&quot; regional antes de viajar para Manila para participar na cimeira de líderes da Associação das Nações do Sudeste Asiático (ASEAN) e países associados.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd112f914cf62b89d83e8d0f049fd6b6?w=350&amp;q=50&amp;rect=0,68,1080,592&amp;auto=format"
+    },
+    {
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Cinco países da UE vão anunciar primeiro centro de deportação de migrantes no Ruanda",
+      "link": "https://sapo.pt/artigo/ruanda-recebe-primeiro-centro-de-retorno-para-migrantes-irregulares-fora-da-ue-6afaa7b1dc9ea92269bb19e6",
+      "pubDate": "Mon, 16 Nov 2026 07:11:26 +0000",
+      "description": "Dinamarca, Áustria, Alemanha, Países Baixos e Grécia preparam-se para anunciar esta segunda-feira um acordo com o Ruanda para a criação do primeiro centro de deportação de migrantes fora da União Europeia.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AZi%2Bl%2BIKrHCuioOkxrAP0E9iXgqnZ6ikCLlZv0%2Fw65F%2FKNQDQ2%2F6dKOAglzyRlktdNqModzpjRJx0cV3LFi4duc7a%2Fnn5USAyXYzxtk8Boa%2BBe5H99rexwmGUMwQS9ws%2B"
     },
     {
       "sourceId": "sapo",
@@ -115,31 +125,11 @@
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Habitação? \"A três dias do Orçamento do Estado ninguém sabe o que é que pode caber\", acusa Ventura",
-      "link": "https://sapo.pt/artigo/habitacao-a-tres-dias-do-orcamento-do-estado-ninguem-sabe-o-que-e-que-pode-caber-acusa-ventura-6af9f5cd56a09239b4123480",
-      "pubDate": "Sun, 15 Nov 2026 19:03:46 +0000",
-      "description": "André Ventura acusou, este domingo, o Governo de Luís Montenegro de falta de diálogo sobre o Orçamento do Estado (OE) para 2027.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Ai8jT9wFZhDfAKRn0GcnSMbWPlsbutpByPAymJ1STE20gnH2zBEixem%2Flf8O7sPOnThHqkuFbkMygrPHByD1iaLhbhF41VAOrrO1lXOudtokoq69H9sVIbP0FXdczV379"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
       "title": "José Maria Neves reeleito Presidente da República de Cabo Verde, com 63% dos votos",
       "link": "https://sapo.pt/artigo/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica-6af9702fdc9ea9226983e003",
       "pubDate": "Sun, 15 Nov 2026 22:09:43 +0000",
       "description": "A reeleição de José Maria Neves surge numa votação muito pouco participada e marcada pela candidatura histórica de Joana Rosa Amado, a primeira mulher a disputar a Presidência do país.",
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3A%2F7arqKlAH4jtXT5poniQLmiGgY1qZ7A94y%2BNJAouyZAyxPR43u1y7X%2FX5dN%2F9sgWEyo4fMdcvaL4HVOSPbK%2FLaFQKWqZNQb6vxUV8jzmK9yOCMIKinUL8t7ygjuWuU2e"
-    },
-    {
-      "sourceId": "sapo",
-      "sourceName": "SAPO",
-      "color": "#9b7ee8",
-      "title": "Rússia alerta para possível regresso dos ensaios nucleares e ameaça responder",
-      "link": "https://sapo.pt/artigo/russia-alerta-para-possivel-regresso-dos-ensaios-nucleares-e-ameaca-responder-6afa22affaafdbf5ce86b491",
-      "pubDate": "Sun, 15 Nov 2026 22:09:43 +0000",
-      "description": "O representante permanente da Rússia junto da Agência Internacional de Energia Atómica considerou ser “demasiado otimista” descartar de forma absoluta o regresso dos ensaios nucleares",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AWwIRUcVwwOaoVdWltMXgQMU3hKoBM25kax1fv%2B5bA2T8d0oxhndXfnZSlKirZAxMTXIZQtP1axB4xlFU3HR5h%2FF7zpasFY%2F0%2FOHpgC52FhpOAEz2QYOkKZa9TYcV5w5e"
     },
     {
       "sourceId": "sapo",
@@ -152,54 +142,84 @@
       "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3Aowcdq%2FPzTql3yJkqvg%2BYVqAKNQiWsdRD0sLpVeoJknQlit5%2FNj4w%2FjfBxR4TN5CZGwkXLZ0cgC0Cyz81pDSOhgYxcNYpGpNug9PVmdihPihrNYRZQWF%2BaRhSVkeN8pa0"
     },
     {
-      "sourceId": "nam",
-      "sourceName": "Notícias ao Minuto",
-      "color": "#e07a5f",
-      "title": "Tripulantes fogem por terra após embarcação encalhar na margem do Tejo",
-      "link": "https://www.noticiasaominuto.com/pais/3084567/policia-maritima-apreende-embarcacao-de-alta-velocidade-no-tejo-por-suspeitas-de-ligacao-ao-narcotrafico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-16 00:05:54",
-      "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa49546c2b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2NTMsImNyb3BIZWlnaHQiOjM2NywiY3JvcFgiOjM0LCJjcm9wWSI6NDg0fX0="
+      "sourceId": "sapo",
+      "sourceName": "SAPO",
+      "color": "#9b7ee8",
+      "title": "Ilha do Pico perde a sua única livraria",
+      "link": "https://sapo.pt/artigo/ilha-do-pico-perde-a-sua-unica-livraria-6afa3d4f56a09239b4193b84",
+      "pubDate": "Mon, 16 Nov 2026 07:11:26 +0000",
+      "description": "A Livraria Companhia das Ilhas, nas Lajes do Pico, encerrou a 7 de novembro. O Pico, o Faial e S. Jorge ficam agora sem qualquer livraria. Editora com o mesmo nome mantém-se.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Alkp25OnUg06U3B5KgG5yJVS%2F%2FUNGZtIi0dYg0UUSoyEBWt0pAObfx%2F5%2F13DGcM9EGgqQh%2BkqQiVfPTTUjsfYoltkapmlvwyhlboEwxhHmG8FI%2FVvc%2BYaCicn9f2KhlHd"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Seguro felicita José Maria Neves pela reeleição em Cabo Verde",
-      "link": "https://www.noticiasaominuto.com/pais/3084562/cabo-verdeeleicoes-seguro-felicita-jose-maria-neves-e-quer-aprofundar-relacoes-entre-paises#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 23:59:00",
+      "title": "Kallas pede à UE para não ceder enquanto Rússia mantiver \"exigências\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3084631/ucrania-kallas-pede-a-ue-para-nao-ceder-nada-enquanto-russia-mantiver-exigencias-absurdas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-16 08:12:26",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa47bc1d3e9.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_692d5419266e8.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Carneiro felicita José Maria Neves e sublinha amizade entre países",
-      "link": "https://www.noticiasaominuto.com/pais/3084559/cabo-verdeeleicoes-carneiro-felicita-jose-maria-neves-e-sublinha-amizade-entre-os-dois-paises#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 23:40:20",
+      "title": "Ordens de equipa? Mercedes admite \"tudo por tudo\" para Russell ser vice",
+      "link": "https://www.noticiasaominuto.com/auto/3084633/ordens-de-equipa-mercedes-admite-tudo-por-tudo-para-russell-ser-vice#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-16 08:11:22",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_68ccf823a0991.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afab93462cc7.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwNSwiY3JvcEhlaWdodCI6MTQzMSwiY3JvcFgiOjY2OSwiY3JvcFkiOjMwfX0="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Cabo Verde. José Maria Neves classifica reeleição como \"grande vitória\"",
-      "link": "https://www.noticiasaominuto.com/pais/3084556/urgente-cabo-verdeeleicoes-jose-maria-neves-classifica-reeleicao-como-grande-vitoria-caudio-video-e-foto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 23:39:49",
+      "title": "Apple quer revelar óculos inteligentes em junho de 2027",
+      "link": "https://www.noticiasaominuto.com/tech/3084632/apple-quer-revelar-oculos-inteligentes-em-junho-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-16 08:11:04",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afa438b0f914.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_61385fe654f5d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTQxLCJjcm9wSGVpZ2h0Ijo4NjcsImNyb3BYIjoxMCwiY3JvcFkiOjV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ4NywiY3JvcEhlaWdodCI6ODY2LCJjcm9wWCI6NTM2LCJjcm9wWSI6N319"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Morreu Miguel Gallardo, narcotraficante conhecido como \"chefe dos chefes\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3084558/chefe-dos-chefes-que-fundou-o-cartel-de-guadalajara-morre-em-hospital-do-mexico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-15 23:34:08",
+      "title": "Especialistas não têm dúvidas: O que realmente protege a saúde dos rins",
+      "link": "https://www.noticiasaominuto.com/lifestyle/3084626/especialistas-nao-tem-duvidas-o-que-realmente-protege-a-saude-dos-rins#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-16 08:03:14",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6af84c3104fa2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM5MywiY3JvcEhlaWdodCI6Njk5LCJjcm9wWCI6NzA5LCJjcm9wWSI6Nn19"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afab73ece172.webp"
+    },
+    {
+      "sourceId": "nam",
+      "sourceName": "Notícias ao Minuto",
+      "color": "#e07a5f",
+      "title": "Perito terá feito perícias psiquiátricas com IA em processos com menores",
+      "link": "https://www.noticiasaominuto.com/pais/3084622/perito-tera-feito-pericias-psiquiatricas-com-ia-em-processos-com-menores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-16 08:02:49",
+      "description": "",
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6a47d86424847.webp"
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Quanto dura realmente a bateria de um carro elétrico? Dados da Ford surpreendem",
+      "link": "https://pplware.sapo.pt/motores/quanto-dura-realmente-a-bateria-de-um-carro-eletrico-dados-da-ford-surpreendem/",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 +0000",
+      "description": "O receio de gastar milhares a trocar uma bateria continua a travar quem pondera comprar um elétrico. Para acabar com o mito, a Ford foi analisar os dados reais de mais de 36.000 unidades do Mustang Mach-E lançadas em 2021. Juntos, estes SUV já percorreram mais de 3,2 mil milhões de quilómetros em es",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "pplware",
+      "sourceName": "Pplware",
+      "color": "#5bc4d4",
+      "title": "Esta versão do Windows 11 chega ao fim! Atualize o PC antes de ficar em risco",
+      "link": "https://pplware.sapo.pt/microsoft/windows/esta-versao-do-windows-11-chega-ao-fim-atualize-o-pc-antes-de-ficar-em-risco/",
+      "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "description": "A Microsoft encerrou oficialmente o ciclo de vida do Windows 11 23H2. A atualização de segurança KB5131087, disponibilizada no pacote mensal de novembro de 2026, marca o ponto final desta versão lançada em outubro de 2023. A atualização inclui apenas sete correções de erros e falhas críticas, encerr",
+      "thumbnail": ""
     },
     {
       "sourceId": "pplware",
@@ -232,23 +252,53 @@
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Subsídio de refeição em cartão: limite de isenção de IRS sobe em 2027",
-      "link": "https://pplware.sapo.pt/informacao/subsidio-de-refeicao-em-cartao-limite-de-isencao-de-irs-sobe-em-2027/",
-      "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
-      "description": "Os trabalhadores que recebem o subsídio de refeição através de cartão ou vale vão beneficiar de um aumento do limite diário de isenção de IRS a partir de 1 de janeiro de 2027. A atualização deverá abranger cerca de 2,4 milhões de trabalhadores em Portugal. A medida acompanha o aumento de 15 cêntimos",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "WRC 2027: pilotos e equipas divididos sobre a proximidade dos Rally2",
+      "link": "https://www.autosport.pt/destaque-homepage/wrc-2027-pilotos-e-equipas-divididos-sobre-a-proximidade-dos-rally2/",
+      "pubDate": "Sun, 15 Nov 2026 20:24:41 +0000",
+      "description": "Richard Millener partilha a preocupação de Oliver Solberg relativamente à acentuada aproximação de desempenho entre os atuais Rally2, os novos Rally2 Kit WRC e os Rally1. Contudo, entre os vários intervenientes do meio, não existe consenso sobre a real dimensão do problema, muito menos sobre as solu",
       "thumbnail": ""
     },
     {
-      "sourceId": "pplware",
-      "sourceName": "Pplware",
-      "color": "#5bc4d4",
-      "title": "Worms Galactic Tactics: a guerra dos vermes chega ao Espaço",
-      "link": "https://pplware.sapo.pt/jogos/worms-galactic-tactics-a-guerra-dos-vermes-chega-ao-espaco/",
-      "pubDate": "Sun, 15 Nov 2026 19:00:52 +0000",
-      "description": "A Team17 revelou novos detalhes sobre Worms Galactic Tactics, o próximo capítulo da icónica saga Worms, através de um vídeo que apresenta a jogabilidade e os principais conceitos deste título previsto para 2027. Nova fórmula para a série Worms Em Worms Galactic Tactics, os jogadores comandam um esqu",
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rui Madeira vence o Rally Series Fafe por 0.6s e Pedro Silva é vence 2RM 2026",
+      "link": "https://www.autosport.pt/ralis/rui-madeira-vence-o-rally-series-fafe-por-0-6s-e-pedro-silva-e-vence-2rm-2026/",
+      "pubDate": "Sun, 15 Nov 2026 19:39:23 +0000",
+      "description": "Rui Madeira e Paula Madeira venceram a ronda de Fafe do Castrol Portugal Rally Series por apenas 0,6 segundos sobre Adruzilo Lopes e Vitor Hugo. A decisão só se conheceu na última passagem pela Arena Monster Energy, no domingo, dia em que terminou a temporada de 2026. Pedro Silva, com Ricardo Moura,",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Filipe Albuquerque e Félix da Costa dominam Caterham Festival no Circuito do Estoril",
+      "link": "https://www.autosport.pt/velocidade/filipe-albuquerque-e-felix-da-costa-dominam-caterham-festival-no-circuito-do-estoril/",
+      "pubDate": "Sun, 15 Nov 2026 19:21:17 +0000",
+      "description": "Filipe Albuquerque e António Félix da Costa estiveram em grande destaque no Caterham Festival, evento que decorreu este fim de semana no Circuito do Estoril. A pilotar o Caterham 420R, partilharam o carro, conquistando a pole position e vencendo as duas corridas em que participaram. Embora a sua par",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Mitsubishi Pajero: 5500 em menos de um mês",
+      "link": "https://www.autosport.pt/automais/mitsubishi-pajero-5500-em-menos-de-um-mes/",
+      "pubDate": "Sun, 15 Nov 2026 17:45:00 +0000",
+      "description": "Por João Isaac A Mitsubishi anunciou que o novo Pajero acumulou cerca de 5500 pré-encomendas no Japão entre 1 e 28 de outubro, ultrapassando o objetivo de 4000 unidades estabelecido pela marca japonesa para o ano fiscal de 2026/27, que termina apenas em março do próximo ano. O Sport Utility Vehicle ",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Luis Cidade vence Baja TT de Castelo Branco e tem a porta aberta para o título do CPTT",
+      "link": "https://www.autosport.pt/todooterreno/luis-cidade-vence-baja-tt-de-castelo-branco-e-tem-a-porta-aberta-para-o-titulo-do-cptt/",
+      "pubDate": "Sun, 15 Nov 2026 14:31:16 +0000",
+      "description": "Luís Cidade &#8211; Valter Cardoso (Can-Am Maverick R) venceram a Baja TT de Castelo Branco, sexta prova do Campeonato de Portugal de Todo-o-terreno, o que aliado ao abandono de Gonçalo Guerreiro &#8211; Joel Lutas (Polaris RZR Pro R) deixa uma porta quase toda aberta para a conquista do que poderá ",
       "thumbnail": ""
     }
   ]
