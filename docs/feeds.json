@@ -1,63 +1,63 @@
 {
-  "updated": "2026-11-18T02:02:45.804843+00:00",
+  "updated": "2026-11-18T10:28:20.368736+00:00",
   "articles": [
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "1h. Acampada mantém mobilização permanente nos Restauradores",
-      "link": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2449/",
-      "pubDate": "Wed, 18 Nov 2026 01:15:42 +0000",
-      "description": "Manifestantes equacionam acampada em frente à Assembleia da República, sem abandonar os Restauradores. Ainda nesta edição, Portugal vence País de Gales por 3-2 e é cabeça de série para a próxima fase.",
+      "title": "Setor têxtil exige intervenção face à crise da recolha",
+      "link": "https://observador.pt/2026/11/18/setor-textil-reclama-intervencao-urgente-face-a-crise-da-recolha-de-texteis-usados/",
+      "pubDate": "Wed, 18 Nov 2026 10:27:35 +0000",
+      "description": "Subscritores do apelo advertem que, apesar de a recolha seletiva de resíduos têxteis ser obrigatória desde janeiro de 2025, a capacidade nacional para assegurar este serviço \"está a diminuir\".",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2014/06/cropped-copotextil1.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Jensen Huang deve ou não voltar à Nvidia?",
+      "link": "https://observador.pt/programas/explicador/jensen-huang-deve-ou-nao-voltar-a-nvidia/",
+      "pubDate": "Wed, 18 Nov 2026 10:21:53 +0000",
+      "description": "Pedro Lino e Filipe Garcia analisam os resultados recorde da empresa norte-americana de IA com a polémica a envolver o CEO Jensen Huang. O empresário admitiu voltar, mas tal não deve acontecer.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "Ormuz. Ataque a petroleiro fez um desaparecido e 11 feridos",
+      "link": "https://observador.pt/2026/11/18/ataque-a-petroleiro-no-estreito-de-ormuz-fez-um-desaparecido-e-11-feridos/",
+      "pubDate": "Wed, 18 Nov 2026 10:15:49 +0000",
+      "description": "Um petroleiro da Adnoc foi atacado no estreito de Ormuz, onde 11 feridos foram retirados do navio e um membro da tripulação está desaparecido. As operações de busca e salvamento ainda prosseguem.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:57/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24183558/47771552.jpg"
+    },
+    {
+      "sourceId": "observador",
+      "sourceName": "Observador",
+      "color": "#e8a84c",
+      "title": "As notícias das 10h",
+      "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2529/",
+      "pubDate": "Wed, 18 Nov 2026 10:13:48 +0000",
+      "description": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
     },
     {
       "sourceId": "observador",
       "sourceName": "Observador",
       "color": "#e8a84c",
-      "title": "Mondlane diz que foi indicado para candidato ao Nobel da Paz",
-      "link": "https://observador.pt/2026/11/18/venancio-mondlane-diz-ter-sido-proposto-como-candidato-ao-nobel-da-paz-2027/",
-      "pubDate": "Wed, 18 Nov 2026 00:42:34 +0000",
-      "description": "O opositor moçambicano diz que a indicação para candidato ao Nobel foi submetida por professores universitários nos EUA e aceite pelo Comité Norueguês do Nobel.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/17120746/48143585.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Perito forense acredita que Epstein foi assassinado",
-      "link": "https://observador.pt/2026/11/18/especialista-que-analisou-fotografias-da-autopsia-de-jeffrey-epstein-sugere-que-o-magnata-foi-morto-autoridades-mantem-tese-do-suicidio/",
-      "pubDate": "Wed, 18 Nov 2026 00:30:50 +0000",
-      "description": "Um especialista forense analisou fotografias da autópsia de Jeffrey Epstein e concluiu que as marcas no pescoço apontam para estrangulamento — não suicídio. Autoridades mantêm a conclusão original.",
-      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/17132048/46532910.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "Ah, o Presidente tem um \"lado\"?",
-      "link": "https://observador.pt/opiniao/portugal-acido/",
-      "pubDate": "Wed, 18 Nov 2026 00:24:07 +0000",
-      "description": "Mas quem é que no seu estado normal acredita que aplaude ou adere à confusa mistura de causas exigidas por gente igualmente confusa, tão variadas eram as pátrias, e manipulados os credos e objetivos?",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1797%3A1796%3Anowe%3A483%3A444%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170553%2Fmaria-joao-avillez.jpg"
-    },
-    {
-      "sourceId": "observador",
-      "sourceName": "Observador",
-      "color": "#e8a84c",
-      "title": "O bloco-notas, o sinal político e o poder da rua...",
-      "link": "https://observador.pt/opiniao/o-bloco-notas-o-sinal-politico-os-colectivos-e-o-poder-da-rua/",
-      "pubDate": "Wed, 18 Nov 2026 00:23:23 +0000",
-      "description": "O Presidente mais parecia o mestre-escola, empenhado em cair na graça dos alunos desavindos, ouvindo as suas queixas, como se nunca as tivesse ouvido.",
-      "thumbnail": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A738%3A738%3Anowe%3A0%3A139%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F11%2F13180628%2Ffoto-2-3.jpg"
+      "title": "Seguro faz Presidência Aberta entre 1 e 4 de dezembro",
+      "link": "https://observador.pt/2026/11/18/seguro-faz-presidencia-aberta-entre-1-e-4-de-dezembro-sobre-coesao-social/",
+      "pubDate": "Wed, 18 Nov 2026 10:13:40 +0000",
+      "description": "António José Seguro acredita na coesão social como \"condição essencial para o desenvolvimento do país, para a confiança nas instituições democráticas\" de forma a construir uma sociedade mais justa.",
+      "thumbnail": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07135643/48074949.jpg"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "1h Ministro da Economia: \"Sempre morreram\" pessoas nas urgências",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/1h-ministro-da-economia-sempre-morreram-pessoas-nas-urgencias_a1_1779886",
-      "pubDate": "Wed, 18 Nov 2026 01:59:02 +0000",
+      "title": "10h Seguro faz Presidência Aberta sobre coesão social",
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-seguro-faz-presidencia-aberta-sobre-coesao-social_a1_1779939",
+      "pubDate": "Wed, 18 Nov 2026 10:17:13 +0000",
       "description": "",
       "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
     },
@@ -65,190 +65,210 @@
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/00h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779883",
-      "pubDate": "Wed, 18 Nov 2026 00:37:02 +0000",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Teerão em alerta máximo após chegada de porta-aviões norte-americano",
+      "link": "https://www.rtp.pt/noticias/mundo/teerao-em-alerta-maximo-apos-chegada-de-porta-avioes-norte-americano_n1779925",
+      "pubDate": "Wed, 18 Nov 2026 10:02:11 +0000",
+      "description": "O chefe do Exército iraniano declarou hoje que as Forças Armadas do país estão em alerta máximo e a &quot;monitorizar todos os movimentos inimigos&quot; após relatos da chegada de um terceiro porta-aviões norte-americano ao Médio Oriente.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/92/928d4c0321a51ca1e80827ce8e8fc0e6?w=350&amp;q=50&amp;rect=0,79,960,526&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "23h Portugal vence por 3-2 o País Gales numa ida a Cardiff",
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-portugal-vence-por-3-2-o-pais-gales-numa-ida-a-cardiff_a1_1779878",
-      "pubDate": "Tue, 17 Nov 2026 23:45:03 +0000",
-      "description": "",
-      "thumbnail": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format"
+      "title": "Japonês Kozo Tashima entrega candidatura à presidência da FIFA",
+      "link": "https://www.rtp.pt/noticias/futebol-internacional/japones-kozo-tashima-entrega-candidatura-a-presidencia-da-fifa_d1779936",
+      "pubDate": "Wed, 18 Nov 2026 09:58:14 +0000",
+      "description": "O candidato do Japão à liderança da FIFA, Kozo Tashima, disse hoje que espera transformar a federação numa &quot;organização que inspire maior confiança&quot;.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b3319e791bd0a2576293673ebb901ef?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Reviravolta dramática. Haaland elimina Dinamarca nos descontos",
-      "link": "https://www.rtp.pt/noticias/futebol-internacional/reviravolta-dramatica-haaland-elimina-dinamarca-nos-descontos_d1779873",
-      "pubDate": "Tue, 17 Nov 2026 22:45:47 +0000",
-      "description": "A Noruega protagonizou uma reviravolta épica ao vencer a Dinamarca por 3-2 no Estádio Parken, em Copenhaga, na última jornada da fase de grupos da Liga das Nações, qualificando-se para os quartos de final na segunda posição do Grupo A4.",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b074061de010a9edafbb69effd0b3b1.jpg?w=350&amp;q=50&amp;auto=format"
+      "title": "GP de Portugal sem Oliveira mas com provável consagração de Márquez",
+      "link": "https://www.rtp.pt/noticias/motores/gp-de-portugal-sem-oliveira-mas-com-provavel-consagracao-de-marquez_d1779934",
+      "pubDate": "Wed, 18 Nov 2026 09:52:48 +0000",
+      "description": "O Grande Prémio de Portugal de MotoGP disputa-se este fim de semana pela primeira vez, desde a chegada ao Algarve, em 2020, sem a presença de Miguel Oliveira numa ronda que pode consagrar o espanhol Marc Márquez (Ducati) campeão mundial.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8c5131d39489391c6a88a5f96f5bbcbd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "rtp",
       "sourceName": "RTP Notícias",
       "color": "#e05252",
-      "title": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
-      "link": "https://www.rtp.pt/noticias/economia/administracao-da-nvidia-mantem-a-porta-fechada-ao-regresso-de-jensen-huang_n1779872",
-      "pubDate": "Tue, 17 Nov 2026 22:45:26 +0000",
-      "description": "&quot;Se o Conselho de Administração decidir que o meu regresso atende aos melhores interesses dos nossos acionistas, dos nossos funcionários, da empresa e dos Estados Unidos, sentir-me-ei honrado em atender a estes apelos&quot;. Jensen Huang sinalizou assim abertura para um eventual regresso ao lem",
-      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d2cc8ca1a93cf958cd3f08b54422aed?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+      "title": "Torreense volta ao Jamor para iniciar defesa da Taça perante o Benfica",
+      "link": "https://www.rtp.pt/noticias/taca-de-portugal/torreense-volta-ao-jamor-para-iniciar-defesa-da-taca-perante-o-benfica_d1779933",
+      "pubDate": "Wed, 18 Nov 2026 09:44:42 +0000",
+      "description": "O Torreense inicia no domingo a defesa do inédito troféu na Taça de Portugal defrontando o Benfica, recordista de títulos, no encerramento da quarta eliminatória da edição de 2026/27.",
+      "thumbnail": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9e9aab05eb0e500a38aa2a1523955df?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Nvidia duplica vendas trimestrais, mas crise de liderança continua a ensombrar gigante da IA",
-      "link": "https://jornaleconomico.sapo.pt/noticias/nvidia-duplica-vendas-trimestrais-mas-crise-de-lideranca-continua-a-ensombrar-gigante-da-ia/",
-      "pubDate": "Tue, 17 Nov 2026 21:55:40 +0000",
-      "description": "O lucro líquido atingiu 64,9 mil milhões de dólares no trimestre, enquanto a margem bruta se fixou em 74,8%, superando as previsões do mercado de 74%. A empresa alertou, no entanto, para uma descida deste indicador para cerca de 71% nos próximos...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3Akfjo9eHSt0NrDEWjjdZaLR8YfHX6AYgZeX5HpYATMU8TFpd0svWBX1a1pGx19RZNwnQpHasArRkrn%2FPDiTf%2BpsQSwLM8udOWcMi8lZZiBa0NcrGqm3rLSb45SpudDbQe"
+      "title": "Menos dias de trabalho, mais férias e novos salários: o que o OE2027 pode mudar no próximo ano",
+      "link": "https://sapo.pt/artigo/menos-dias-de-trabalho-mais-ferias-e-novos-salarios-o-que-o-oe2027-pode-mudar-no-proximo-ano-6afd5450b2618466e1e96cbf",
+      "pubDate": "Wed, 18 Nov 2026 08:22:29 +0000",
+      "description": "A votação na especialidade do Orçamento do Estado para 2027 arranca esta quarta-feira, 18 de novembro, e entre as milhares de propostas de alteração dos partidos contam-se medidas que tocam nos salários, nas férias, nos feriados, no subsídio de...",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AU4JgDni1T0HI1r92dl95T8j8gSrz45cG%2BKnQWQ3iPHgvfooqbFue9Xr3G5Gg7xjriuPQJdZZ8tfESD5sacI5bv5TPeEaUFVgUppF1xRvRViBWItYj9F%2BFVForP%2Fd%2FKeD"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Zelensky propõe cessar-fogo humanitário em dez locais tomados pelos russos",
-      "link": "https://eco.sapo.pt/2026/11/17/zelensky-propoe-cessar-fogo-humanitario-em-dez-locais-tomados-pelos-russos/",
-      "pubDate": "Tue, 17 Nov 2026 19:17:44 +0000",
-      "description": "Zelensky afirmou que a Rússia pretende a trégua em Kostyantynivka para reforçar militarmente as suas tropas e para que estas possam tomar esta cidade, onde os combates continuam.",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AafO0dQAT7MphD2ktOeWDLpaOImg%2BJ%2F%2BMUFI4BYlcqVIT4p7803af2RY7vtFW2wn5DPA%2FUgrMnvlXDOL2fBa3jZO8IVBSQis%2BOLKr9FePJFV1DmtMYRHgrhJ%2FRn7NHuuS"
+      "title": "Fim da era Netanyahu? Candidato da oposição eleito presidente do parlamento israelita",
+      "link": "https://sapo.pt/artigo/fim-da-era-netanyahu-candidato-da-oposicao-eleito-presidente-do-parlamento-israelita-6afcf88456a09239b470ef9d",
+      "pubDate": "Wed, 18 Nov 2026 07:29:56 +0000",
+      "description": "Esta vitória permite a Eisenkot e ao seu partido conquistar uma posição estratégica para definir a agenda parlamentar, uma alavanca crucial para a oposição, que procura desmantelar o legado de Netanyahu o mais depressa possível.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3ADZydiKTheEVXSV4UFhymrxi%2BFC5f1Rg2mEOEd1zaOqJWANX6vZQLqbypPwgYhiX5FX5%2BTUF9ITO7cuIXTGvoxiUH7HhavP1xI%2FRQTOkaznQFwkXStz6Oh9SEdKklidOV"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Moldova fecha espaço aéreo após intrusão de drone e acusa Rússia de “cinismo sem limites\"",
-      "link": "https://sapo.pt/artigo/moldova-fecha-espaco-aereo-apos-intrusao-de-drone-e-acusa-russia-de-cinismo-sem-limites-6afca648faafdbf5ced4fa9f",
-      "pubDate": "Tue, 17 Nov 2026 19:17:44 +0000",
-      "description": "As autoridades instaram a população a não se aproximar de objetos voadores suspeitos ou de destroços de drones, e que não lhes toque nem os mova, porque podem conter \"elementos explosivos\".",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AvgjtoYXJYHus9iFrYPT%2FUFoo2v4GgYbOQk2QzB1Wsbyb4Dnj5Cq9H8PXxlIrfIJDJu1lLMmi0kcHc6WzAdvs04J0xXwhYPux%2FtQ4zGADUNGzkr87XZlZmZMbnVTBG0s7"
+      "title": "O vórtice polar está a enfraquecer (invulgarmente) mais cedo: o que significa para o inverno na Europa?",
+      "link": "https://sapo.pt/artigo/o-vortice-polar-esta-a-enfraquecer-invulgarmente-mais-cedo-o-que-significa-para-o-inverno-na-europa-6afd6a55b2618466e1eb6a53",
+      "pubDate": "Wed, 18 Nov 2026 09:30:45 +0000",
+      "description": "Os meteorologistas estão intrigados: o vórtex polar está a enfraquecer mais cedo do que é habitual este ano e isso pode significar mais frio para a Europa este inverno.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AjZNJp4yWMXJnMqRhlaMf6Oat7MYulAiV632t%2BliowK2MwFyVRiW%2BHPu%2F0HuCwKqugggHWAaKCv%2FB1sKWmJjpCg4sgbbYGTqA7bETVMndZwq%2FInOMldYi%2FF%2Bp1pnt46%2BB"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "EUA, México e Bolívia perdem estatuto de eliminação do sarampo ao fim de 26 anos: casos disparam nas Américas",
-      "link": "https://sapo.pt/artigo/eua-mexico-e-bolivia-perdem-estatuto-de-eliminacao-do-sarampo-ao-fim-de-26-anos-casos-disparam-nas-americas-6afce458dc9ea92269277bdf",
-      "pubDate": "Tue, 17 Nov 2026 23:43:32 +0000",
-      "description": "Com mais de 58 mil casos e 82 mortes registados nas Américas este ano, a Organização Pan-Americana da Saúde apela ao reforço da vacinação. Falhas na proteção das comunidades estão a favorecer a propagação do sarampo e a pôr em risco os mais...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3Axt8W2v%2BL8FqGkwB%2BWy1UtsPsUgp6XxzZMNEse2cWdoFQTPbLQsgwwjceYeE3q1Gi1o0Hium%2FCYfQd3WnPWuFTluuQRv%2Bd5%2BOoBD6ZJUNrMy7mckxDXXq9%2F6lfLRDezki"
+      "title": "Xi devolve cortesia a Trump e recebe-o no aeroporto. É a primeira vez que o faz a qualquer líder estrangeiro",
+      "link": "https://sapo.pt/artigo/xi-devolve-cortesia-a-trump-e-recebe-o-no-aeroporto-e-a-primeira-vez-que-o-faz-a-qualquer-lider-estrangeiro-6afd7643b2618466e1eccea9",
+      "pubDate": "Wed, 18 Nov 2026 10:03:16 +0000",
+      "description": "Em setembro, o presidente norte-americano estava na base aérea de Andrews quando o homólogo chinês chegou para a sua visita de Estado aos EUA.",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=675&W=1200&crop=center&delay_optim=1&epic=V2%3AjdTuBwQtHNisDhcP0lulwT5L4BYIH6YB%2Fqb8gHjgfIOZBzlddMQyA4iR0V32rEHC7NOjby2cVrrTzW8u9M%2F3yZd35xZv%2BscoGO%2FgWgObjS5NjhWMXNCsFbVvCIAwj2OY"
     },
     {
       "sourceId": "sapo",
       "sourceName": "SAPO",
       "color": "#9b7ee8",
-      "title": "Portugal foi a Gales dar mais uma voltinha na montanha-russa de Jesus. Desta vez, saiu a sorrir",
-      "link": "https://sapo.pt/artigo/portugal-foi-a-gales-dar-mais-uma-voltinha-na-montanha-russa-de-jesus-desta-vez-saiu-a-sorrir-6afccdb456a09239b46d95ab",
-      "pubDate": "Tue, 17 Nov 2026 21:58:58 +0000",
-      "description": "Após o desastre frente à Dinamarca, a seleção regressou aos triunfos com um 3-2 no País de Gales. Em novo embate caótico e cheio de incidências, as fragilidades defensivas ficaram evidentes, mas Carlos Forbs deu o primeiro lugar no grupo. Pedro...",
-      "thumbnail": "https://thumbs.web.sapo.io/?H=630&W=1120&crop=center&delay_optim=1&epic=V2%3AtS%2FkOeGxlNzOk3p8ykZ7jS%2Fmv6HpaYGKus79EMPVjxajlBzrnaZOFNjocsd1SWBlBZzm21YdkgLHrJ%2BTWdg9d0eoCFVcJsaz%2BToQU0pxQ6FERZLkNWoQWwbydCDCfQ0H"
+      "title": "Novo partido de Isaltino tem “condições para ir a votos em 2029”. É “irreversível”",
+      "link": "https://eco.sapo.pt/2026/11/18/novo-partido-de-isaltino-tem-condicoes-para-ir-a-votos-em-2029-e-irreversivel/",
+      "pubDate": "Wed, 18 Nov 2026 09:01:29 +0000",
+      "description": "Isaltino Morais quer criar um partido \"moderado\", de \"rejeição ao Chega e também à extrema-esquerda\". Critica ainda Pedro Passos Coelho, dizendo que \"sente-se muito bem com o Chega e com o Ventura\".",
+      "thumbnail": "https://thumbs.web.sapo.io/?H=720&W=1280&crop=center&delay_optim=1&epic=V2%3AwwQgpHWq1FYlkvz1XNFiYf%2BgbhWGkpx1Rlx22HOQ4D9A5ox6ec1jAo6X4mlrCemgwK%2BsPMt1ipQNltMO4bn4dAGqAwvXCnpoGAktBq6sGHAf7RLECy7sJM%2FAcboJfEoY"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Noruega acompanha Portugal na Liga das Nações com vitória épica",
-      "link": "https://www.noticiasaominuto.com/desporto/3085831/noruega-acompanha-portugal-na-liga-das-nacoes-com-vitoria-epica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-18 00:00:55",
+      "title": "NAV Portugal altera descolagens no aeroporto de Lisboa: O que muda?",
+      "link": "https://www.noticiasaominuto.com/economia/3086006/nav-portugal-altera-descolagens-no-aeroporto-de-lisboa-o-que-muda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-18 10:23:00",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afce55d39d86.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5914742a395fb.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Amnistia acusa Teerão de aproveitar guerra para \"intensificar repressão\"",
-      "link": "https://www.noticiasaominuto.com/mundo/3085835/irao-amnistia-acusa-teerao-de-aproveitar-guerra-para-intensificar-a-repressao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-17 23:58:33",
+      "title": "Líderes cristãos da Síria denunciam ataques contra comunidade",
+      "link": "https://www.noticiasaominuto.com/mundo/3085998/lideres-cristaos-da-siria-denunciam-ataques-contra-comunidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-18 10:17:52",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_69666f29569ff.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjIxNiwiY3JvcFkiOjB9fQ=="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5840aa0aaa64e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUxMiwiY3JvcEhlaWdodCI6OTEwLCJjcm9wWCI6NDM3LCJjcm9wWSI6MH19"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Três detidos por tráfico de droga em Vila Nova de Famalicão",
-      "link": "https://www.noticiasaominuto.com/pais/3085836/tres-detidos-por-trafico-de-droga-em-vila-nova-de-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-17 23:57:02",
+      "title": "Missão arqueológica portuguesa no Egito faz 1.º balanço hoje em Lisboa",
+      "link": "https://www.noticiasaominuto.com/cultura/3085986/entrevista-missao-arqueologica-portuguesa-no-egito-faz-primeiro-balanco-hoje-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-18 10:15:09",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5f2284a5f3e31.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_674178d3b6430.webp"
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Conselho de administração da Nvidia rejeita reintegração de Jensen Huang",
-      "link": "https://www.noticiasaominuto.com/tech/3085834/conselho-de-administracao-da-nvidia-rejeita-reintegracao-de-jensen-huang#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-17 23:51:16",
+      "title": "Funcionária expulsa três ladrões de loja em Nova Iorque: \"Um génio\"",
+      "link": "https://www.noticiasaominuto.com/mundo/3085971/funcionaria-expulsa-tres-ladroes-de-loja-em-nova-iorque-um-genio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-18 10:12:48",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afce87645e46.webp"
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afd6faaeb6d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDQsImNyb3BIZWlnaHQiOjQxOSwiY3JvcFgiOjE3LCJjcm9wWSI6NTF9fQ=="
     },
     {
       "sourceId": "nam",
       "sourceName": "Notícias ao Minuto",
       "color": "#e07a5f",
-      "title": "Presidente do Congresso da Suécia alarga prazo para formar Governo",
-      "link": "https://www.noticiasaominuto.com/mundo/3085832/presidente-do-congresso-da-suecia-alarga-prazo-para-formar-governo-mas-limite-e-o-natal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-      "pubDate": "2026-11-17 23:41:18",
+      "title": "Bolsa de Lisboa em baixa com Galp a cair 0,86% e Mota-Engil a subir 2,70%",
+      "link": "https://www.noticiasaominuto.com/economia/3085997/bolsa-de-lisboa-em-baixa-com-galp-a-cair-0-86-e-mota-engil-a-subir-2-70#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+      "pubDate": "2026-11-18 10:11:15",
       "description": "",
-      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_6afce62100a07.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQzfX0="
+      "thumbnail": "https://media-manager.noticiasaominuto.com/640/naom_5512bf8a7199d.webp"
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Frio e mantas: o hábito de usar o portátil na cama pode sair caro",
-      "link": "https://pplware.sapo.pt/informacao/portatil-mantas-riscos-sobreaquecimento/",
-      "pubDate": "Tue, 17 Nov 2026 22:30:00 +0000",
-      "description": "Com os dias frios, apetece ficar no sofá ou na cama, debaixo de uma manta, com o portátil por perto. Mas pousar o computador nos cobertores pode dificultar a ventilação e provocar sobreaquecimento. O conforto de quem o utiliza nem sempre combina com as necessidades do equipamento. Uma série, algumas",
+      "title": "35 mil mortes por ano: o alerta que chega dos especialistas europeus",
+      "link": "https://pplware.sapo.pt/ciencia/35-mil-mortes-por-ano-o-alerta-que-chega-dos-especialistas-europeus/",
+      "pubDate": "Wed, 18 Nov 2026 10:03:14 +0000",
+      "description": "As infeções da corrente sanguínea causadas por Klebsiella pneumoniae resistente aos tratamentos aumentaram 72% entre 2019 e 2025, segundo o Centro Europeu de Prevenção e Controlo das Doenças (em inglês, ECDC). O ECDC divulgou esta quarta-feira um conjunto de relatórios que mostram progressos desigua",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Estes eletrodomésticos já estão mais baratos, e a Black Friday ainda nem chegou!",
-      "link": "https://pplware.sapo.pt/gadgets/estes-eletrodomesticos-ja-estao-mais-baratos-e-a-black-friday-ainda-nem-chegou/",
-      "pubDate": "Tue, 17 Nov 2026 21:30:00 +0000",
-      "description": "A contagem decrescente para a Black Friday já começou em várias plataformas e superfícies comerciais, e não é preciso esperar pelo grande dia para encontrar bons preços. Na categoria de eletrodomésticos, uma das áreas que mais pesa na carteira, a Amazon já tem excelentes oportunidades disponíveis. A",
+      "title": "Cartões-presente em viagem: o plano B quando o banco bloqueia o cartão",
+      "link": "https://pplware.sapo.pt/software/cartoes-presente-viagem-apple-gift-card/",
+      "pubDate": "Wed, 18 Nov 2026 09:54:00 +0000",
+      "description": "Aterra-se em Londres, o telemóvel apanha a rede do aeroporto e a primeira compra do dia falha. O banco viu um pagamento noutro país e bloqueou o cartão por precaução. Aliás, acontece mais do que se pensa, sobretudo a quem viaja pouco. Para quem vive de séries, jogos e aplicações no telemóvel, há uma",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "O site que todos os fãs de fotografia analógica vão querer guardar",
-      "link": "https://pplware.sapo.pt/multimedia-2/o-site-que-todos-os-fas-de-fotografia-analogica-vao-querer-guardar/",
-      "pubDate": "Tue, 17 Nov 2026 20:30:00 +0000",
-      "description": "Criado por um reparador britânico com 15 anos de experiência, este novo website nasceu para reunir num único local a informação dispersa sobre câmaras de rolo. O projeto já arrancou com 1300 modelos catalogados. Os entusiastas da fotografia analógica sabem que encontrar informação fiável sobre deter",
+      "title": "Apple revela a causa da falha que afetou milhões de utilizadores",
+      "link": "https://pplware.sapo.pt/apple/apple-revela-a-causa-da-falha-que-afetou-milhoes-de-utilizadores/",
+      "pubDate": "Wed, 18 Nov 2026 09:25:37 +0000",
+      "description": "A Apple garante que a falha que afetou o iCloud, as contas Apple e as lojas físicas foi causada por uma atualização interna, e não por um ciberataque. Os serviços já estão restabelecidos. Conforme informámos, na terça-feira, vários serviços da Apple ficaram indisponíveis ou instáveis de forma genera",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Falha afeta a rede interna da Agência de Segurança dos EUA",
-      "link": "https://pplware.sapo.pt/internet/falha-afeta-a-rede-interna-da-agencia-de-seguranca-dos-eua/",
-      "pubDate": "Tue, 17 Nov 2026 19:34:08 +0000",
-      "description": "A NSANet, utilizada pela Agência de Segurança Nacional dos Estados Unidos da América (EUA) para transmitir informação confidencial, sofreu uma falha. Para já, não existem indícios de um ciberataque. A Agência de Segurança Nacional (em. inglês, NSA) norte-americana está a investigar uma falha na sua ",
+      "title": "GNR alerta para SMS Blaster: atenção às mensagens que recebe",
+      "link": "https://pplware.sapo.pt/smartphones-tablets/gnr-alerta-para-sms-blaster-atencao-as-mensagens-que-recebe/",
+      "pubDate": "Wed, 18 Nov 2026 08:59:07 +0000",
+      "description": "A Guarda Nacional Republicana (GNR) está a alertar para os perigos associados ao SMS Blaster, uma tecnologia utilizada por cibercriminosos para enviar mensagens fraudulentas diretamente para os telemóveis que se encontram nas proximidades. Ao contrário das campanhas tradicionais de SMS fraudulentas,",
       "thumbnail": ""
     },
     {
       "sourceId": "pplware",
       "sourceName": "Pplware",
       "color": "#5bc4d4",
-      "title": "Apple com problemas: falha afeta iCloud, App Store e Apple Music",
-      "link": "https://pplware.sapo.pt/apple/falha-servicos-apple-icloud-app-store-apple-music/",
-      "pubDate": "Tue, 17 Nov 2026 19:09:13 +0000",
-      "description": "Os serviços da Apple estão a registar problemas esta terça-feira, 17 de novembro. Há relatos de dificuldades no acesso ao iCloud, na utilização da App Store e no Apple Music, com alguns utilizadores a perderem inesperadamente a sessão nas suas contas. A falha está a afetar várias áreas do ecossistem",
+      "title": "Dark Web: alegada fuga de dados do Novo Banco expõe 55 mil registos de clientes",
+      "link": "https://pplware.sapo.pt/informacao/dark-web-alegada-fuga-de-dados-do-novo-banco-expoe-55-mil-registos-de-clientes/",
+      "pubDate": "Wed, 18 Nov 2026 08:19:10 +0000",
+      "description": "Uma publicação na rede social X está a alertar para a alegada disponibilização de uma base de dados com 55 mil registos associados ao Novo Banco num fórum clandestino da Dark Web. A informação estará a ser colocada à venda por 4500 dólares (cerca de 3900 euros), mas a sua autenticidade ainda não foi",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Tesla vai devolver depósitos do Cybertruck",
+      "link": "https://www.autosport.pt/automais/tesla-vai-devolver-depositos-do-cybertruck/",
+      "pubDate": "Wed, 18 Nov 2026 09:35:00 +0000",
+      "description": "A Tesla prepara-se para iniciar o processo de devolução dos depósitos de reserva do Cybertruck a um número significativo de clientes, por não conseguir produzir todos os automóveis encomendados antes de encerrar a linha de montagem, em meados de 2027. A informação foi comunicada por Elon Musk, que g",
+      "thumbnail": ""
+    },
+    {
+      "sourceId": "autosport",
+      "sourceName": "Autosport",
+      "color": "#f0c040",
+      "title": "Rallye Vidreiro Centro de Portugal: Guia da prova",
+      "link": "https://www.autosport.pt/ralis/rallye-vidreiro-centro-de-portugal-guia-da-prova/",
+      "pubDate": "Mon, 16 Nov 2026 14:37:17 +0000",
+      "description": "O Rallye Vidreiro Centro de Portugal disputa-se nos dias 20 e 21 de novembro, com um percurso de duas etapas e 112,20 quilómetros cronometrados. A prova arranca na sexta-feira com o shakedown na Caranguejeira, às 8h00. A partida é às 14h00, no Estádio Municipal de Leiria. Seguem-se os troços de Igre",
       "thumbnail": ""
     },
     {
@@ -279,26 +299,6 @@
       "link": "https://www.autosport.pt/velocidade/formula-e-novidades-de-jarama/",
       "pubDate": "Tue, 17 Nov 2026 16:39:21 +0000",
       "description": "A estreia oficial dos Gen4 nos testes de pré-temporada da Fórmula E em Madrid deixou os responsáveis das equipas satisfeitos, apesar das interrupções e dos problemas técnicos registados na segunda-feira, em Jarama. A Nissan reconheceu atrasos no desenvolvimento, embora tenha mostrado rapidez, enquan",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "F1: Mercedes vai estrear novo turbo em Las Vegas",
-      "link": "https://www.autosport.pt/formula1/f1-mercedes-vai-estrear-novo-turbo-em-las-vegas/",
-      "pubDate": "Tue, 17 Nov 2026 16:14:51 +0000",
-      "description": "A Mercedes prevê estrear um turbo modificado no carro de Kimi Antonelli no Grande Prémio de Las Vegas, este fim de semana, aproveitando uma atualização autorizada pelo sistema ADUO da Fórmula 1. Com ambos os títulos já conquistados, a equipa pretende sobretudo validar o desenvolvimento em condições ",
-      "thumbnail": ""
-    },
-    {
-      "sourceId": "autosport",
-      "sourceName": "Autosport",
-      "color": "#f0c040",
-      "title": "WEC: McLaren regressa a Portimão para mais um teste, agora com os seis pilotos",
-      "link": "https://www.autosport.pt/velocidade/wec-mclaren-regressa-a-portimao-para-mais-um-teste-agora-com-os-seis-pilotos/",
-      "pubDate": "Tue, 17 Nov 2026 16:02:35 +0000",
-      "description": "A McLaren vai reunir os seus seis pilotos num teste em Portimão, ainda este mês, para avançar para a próxima fase de desenvolvimento do MCL-HY, com estreia prevista na categoria Hypercar do Mundial de Resistência da FIA em 2027. Segundo James Barclay, responsável da McLaren United AS, os dois testes",
       "thumbnail": ""
     }
   ]
